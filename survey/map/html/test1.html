@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5908d74c80194642ab238093d1706a10 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_5908d74c80194642ab238093d1706a10" ></div>
+        
+</body>
+<script>    
+    
+            var map_5908d74c80194642ab238093d1706a10 = L.map(
+                "map_5908d74c80194642ab238093d1706a10",
+                {
+                    center: [51.35500455337453, 3.2984733581061234],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f65b657d44044d4f90f8dbcc41677f21 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_5908d74c80194642ab238093d1706a10);
+        
+    
+        function geo_json_17b257d93ba74836be4478825dba7475_onEachFeature(feature, layer) {
+            layer.on({
+                click: function(e) {
+                    map_5908d74c80194642ab238093d1706a10.fitBounds(e.target.getBounds());
+                }
+            });
+        };
+        var geo_json_17b257d93ba74836be4478825dba7475 = L.geoJson(null, {
+                onEachFeature: geo_json_17b257d93ba74836be4478825dba7475_onEachFeature,
+            
+        }).addTo(map_5908d74c80194642ab238093d1706a10);
+            geo_json_17b257d93ba74836be4478825dba7475.addData({"crs": {"properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}, "type": "name"}, "features": [{"geometry": {"coordinates": [[[4.701868621311297, 50.883340417673644, 9.164807688e-06], [4.701609685763352, 50.8830920414681, 9.164807688e-06], [4.704098575059776, 50.88162585752617, 9.164807688e-06], [4.704785822535528, 50.881084992350544, 9.164807688e-06], [4.705128309101835, 50.88065695931414, 9.164807688e-06], [4.705302839201187, 50.88034125476196, 9.164807688e-06], [4.70581224184555, 50.87965854369425, 9.164807688e-06], [4.706266478117278, 50.87912850752952, 9.164807688e-06], [4.708259646628137, 50.87805512221905, 9.164807688e-06], [4.708912997204243, 50.87839384954007, 9.164807688e-06], [4.710690081127716, 50.87745323195841, 9.164807688e-06], [4.712847598919877, 50.87908902362986, 9.164807688e-06], [4.715691215798805, 50.87785540874961, 9.164807688e-06], [4.71686134441177, 50.87744013851591, 9.164807688e-06], [4.717241315585441, 50.877749128768485, 9.164807688e-06], [4.716470689933524, 50.88002393597118, 9.164807688e-06], [4.715681245158432, 50.881937833809054, 9.164807688e-06], [4.71493000792036, 50.88250437197845, 9.164807688e-06], [4.714369677422148, 50.882805978164605, 9.164807688e-06], [4.714029406040576, 50.88461685859205, 9.164807688e-06], [4.710015169028751, 50.88629614628808, 9.164807688e-06], [4.70970817445768, 50.88607843202317, 9.164807688e-06], [4.709346373885839, 50.886060419255934, 9.164807688e-06], [4.708204847358346, 50.884914766681476, 9.164807688e-06], [4.707784759081028, 50.88461476126343, 9.164807688e-06], [4.707150494349588, 50.88470429305845, 9.164807688e-06], [4.705881835530284, 50.88440364698521, 9.164807688e-06], [4.705345339981902, 50.88479228779302, 9.164807688e-06], [4.704773309825217, 50.88451288617808, 9.164807688e-06], [4.705198560864411, 50.88419703793513, 9.164807688e-06], [4.704226033675993, 50.88371498435114, 9.164807688e-06], [4.704079630692112, 50.88347137545104, 9.164807688e-06], [4.703499841446141, 50.88331034830312, 9.164807688e-06], [4.701868621311297, 50.883340417673644, 9.164807688e-06]]], "type": "Polygon"}, "properties": {"fid": "5623303", "layoutCode": "MIX", "technologyCode": "FTTH-Cu", "typeCode": "RESSMECOR", "zoningId": 15483, "zoningName": "W02-D-Leuven-FH03"}, "type": "Feature"}], "type": "FeatureCollection"});
+        
+    
+        function geo_json_3fa0ff549d124c70a4da3847fbe58cc9_onEachFeature(feature, layer) {
+            layer.on({
+                click: function(e) {
+                    map_5908d74c80194642ab238093d1706a10.fitBounds(e.target.getBounds());
+                }
+            });
+        };
+        var geo_json_3fa0ff549d124c70a4da3847fbe58cc9 = L.geoJson(null, {
+                onEachFeature: geo_json_3fa0ff549d124c70a4da3847fbe58cc9_onEachFeature,
+            
+        }).addTo(map_5908d74c80194642ab238093d1706a10);
+            geo_json_3fa0ff549d124c70a4da3847fbe58cc9.addData({"crs": {"properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}, "type": "name"}, "features": [{"geometry": {"coordinates": [[[4.411871405730958, 50.87590819617799, -8.792093632e-06], [4.411579606174098, 50.876255742129516, -8.792093632e-06], [4.411383720965465, 50.87618082787916, -8.792093632e-06], [4.411478598714211, 50.876073761530016, 0.0], [4.41149936487602, 50.87607938327261, 0.0], [4.411546816767878, 50.876077489235634, -8.792093632e-06], [4.41163278124109, 50.87602866904114, -8.792093632e-06], [4.411697956745956, 50.875949832922515, -8.792093632e-06], [4.411774991896295, 50.875867239402915, -8.792093632e-06], [4.410565181148438, 50.87546140580899, -8.792093632e-06], [4.411340954571867, 50.87522465482615, -8.792093632e-06], [4.411451757845504, 50.875168502548696, -8.792093632e-06], [4.412537607544786, 50.874015310764406, -8.792093632e-06], [4.412445528497288, 50.87398434527069, -8.792093632e-06], [4.412666020586568, 50.87373066436303, -8.792093632e-06], [4.41288130929335, 50.87348757569982, -8.792093632e-06], [4.412571621312336, 50.873368515624975, -8.792093632e-06], [4.412350698761846, 50.873621009814336, -8.792093632e-06], [4.412084802232748, 50.87352854209324, -8.792093632e-06], [4.411861082329432, 50.87379479558428, -8.792093632e-06], [4.411710584892445, 50.87396606196166, -8.792093632e-06], [4.411946450314468, 50.87405051370602, -8.792093632e-06], [4.412091721681227, 50.87387517615953, -8.792093632e-06], [4.412198282073822, 50.87391231369839, -8.792093632e-06], [4.412504936887482, 50.87401918458397, -8.792093632e-06], [4.411442235650754, 50.875146462525834, -8.792093632e-06], [4.411312439763174, 50.875214644986464, -8.792093632e-06], [4.410546165582701, 50.875449388941725, -8.792093632e-06], [4.410247377463283, 50.87551622203073, -8.792093632e-06], [4.410122204578458, 50.875421926666704, -8.792093632e-06], [4.407907815714548, 50.87300197555251, -8.792093632e-06], [4.404924524402571, 50.86967726288215, -8.792093632e-06], [4.403449907132772, 50.86798307614171, -8.792093632e-06], [4.403347051217068, 50.86757211782321, -8.792093632e-06], [4.40334252170049, 50.86723053011127, -8.792093632e-06], [4.403653512647653, 50.86700906439311, -8.792093632e-06], [4.404242414866163, 50.86692021293438, -8.792093632e-06], [4.405267875397542, 50.86691989246821, -8.792093632e-06], [4.406578462982698, 50.867258354832025, -8.792093632e-06], [4.408620509906171, 50.8653066968276, -8.792093632e-06], [4.411578152888074, 50.8622116842744, -8.792093632e-06], [4.412702583891885, 50.86104808629451, -8.792093632e-06], [4.411330304144649, 50.86049610236197, -8.792093632e-06], [4.410092684957217, 50.859931446705815, -8.792093632e-06], [4.410917920097106, 50.85921369424748, -8.792093632e-06], [4.411834298110787, 50.8584166375174, -8.792093632e-06], [4.413229788385102, 50.85707974665174, -8.792093632e-06], [4.415552988243017, 50.85490817256377, -8.792093632e-06], [4.42154693694789, 50.857446501084816, -8.792093632e-06], [4.422159505538182, 50.856863028823334, -8.792093632e-06], [4.423151904466838, 50.85726810511124, -8.792093632e-06], [4.424539969437816, 50.85790197989232, -8.792093632e-06], [4.425110128487115, 50.85837037692657, -8.792093632e-06], [4.424791711302595, 50.85883199370901, -8.792093632e-06], [4.424232771495292, 50.85925717082317, -8.792093632e-06], [4.423721738819888, 50.859575171841016, -8.792093632e-06], [4.422464811061886, 50.85999846788236, -8.792093632e-06], [4.421667866826637, 50.860453085940996, -8.792093632e-06], [4.420626468172174, 50.861437729757, -8.792093632e-06], [4.419670580981687, 50.862329141510685, -8.792093632e-06], [4.419440690526024, 50.862543520218445, -8.792093632e-06], [4.418132658621799, 50.86234841475446, -8.792093632e-06], [4.418541053173096, 50.86195719631392, -8.792093632e-06], [4.418196515926822, 50.86180936729005, -8.792093632e-06], [4.417693177691624, 50.86192180439514, -8.792093632e-06], [4.417167714591269, 50.86196482715513, -8.792093632e-06], [4.417066501192734, 50.862182583252114, -8.792093632e-06], [4.416479815632147, 50.86208949306079, -8.792093632e-06], [4.416540686068144, 50.86193093992436, -8.792093632e-06], [4.416900359858344, 50.8614885118645, -8.792093632e-06], [4.416585645079951, 50.861333041511514, -8.792093632e-06], [4.415937655262193, 50.8614656531361, -8.792093632e-06], [4.416046035763533, 50.86167879436759, -8.792093632e-06], [4.415758156075441, 50.862229417541776, -8.792093632e-06], [4.415627456420936, 50.86242950152279, -8.792093632e-06], [4.415292823876848, 50.86273545720174, -8.792093632e-06], [4.416045965683267, 50.86280323442685, -8.792093632e-06], [4.416229164030031, 50.86235827794127, -8.792093632e-06], [4.416504430806466, 50.86215175564259, -8.792093632e-06], [4.419413433653773, 50.86256893790239, -8.792093632e-06], [4.417900755073424, 50.86402386442561, -8.792093632e-06], [4.421097469695562, 50.8651191465246, -8.792093632e-06], [4.423155176869421, 50.86582410011287, -8.792093632e-06], [4.421620276353426, 50.86719059972823, -8.792093632e-06], [4.419946428458662, 50.8686871242078, -8.792093632e-06], [4.419273700334224, 50.869301236137495, -8.792093632e-06], [4.419103432457988, 50.86985901468864, -8.792093632e-06], [4.419057969928323, 50.870007942869435, -8.792093632e-06], [4.418819240951389, 50.87052718934124, -8.792093632e-06], [4.418238610650159, 50.87100332028568, -8.792093632e-06], [4.417370239344422, 50.87156910857033, -8.792093632e-06], [4.416739650778868, 50.871879103976404, -8.792093632e-06], [4.41476254368538, 50.87273137309728, -8.792093632e-06], [4.41290258676461, 50.87481113581458, -8.792093632e-06], [4.411871405730958, 50.87590819617799, -8.792093632e-06]]], "type": "Polygon"}, "properties": {"fid": "5688370", "layoutCode": "MIX", "technologyCode": "FTTH-Cu", "typeCode": "RESSMECOR", "zoningId": 15485, "zoningName": "W02-D-Evere-FH01"}, "type": "Feature"}], "type": "FeatureCollection"});
+        
+    
+            var feature_group_e275224470dd4e36975cb991e7183285 = L.featureGroup(
+                {}
+            ).addTo(map_5908d74c80194642ab238093d1706a10);
+        
+    
+            var marker_3bb50994fc8b430c812ca2924251401a = L.marker(
+                [51.35500455337453, 3.2984733581061234],
+                {}
+            ).addTo(feature_group_e275224470dd4e36975cb991e7183285);
+        
+    
+            var icon_d8fd6b9742234374a87c639bfdc4a28e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "flag", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_3bb50994fc8b430c812ca2924251401a.setIcon(icon_d8fd6b9742234374a87c639bfdc4a28e);
+        
+    
+        var popup_d63c948340e94298bce56df0e5b9de44 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c4d868d3070a48fd8ffe07631b0ec15b = $(`<div id="html_c4d868d3070a48fd8ffe07631b0ec15b" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 747 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 747 /@3.2984733581061234,51.35500455337453'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 747 ","NB-8300747620293");'>Change Coords</a></div>`)[0];
+            popup_d63c948340e94298bce56df0e5b9de44.setContent(html_c4d868d3070a48fd8ffe07631b0ec15b);
+        
+
+        marker_3bb50994fc8b430c812ca2924251401a.bindPopup(popup_d63c948340e94298bce56df0e5b9de44)
+        ;
+
+        
+    
+    
+            var marker_726e63c54b7e48878a79d8380aa796a1 = L.marker(
+                [51.35509321554552, 3.299434037317791],
+                {}
+            ).addTo(feature_group_e275224470dd4e36975cb991e7183285);
+        
+    
+            var icon_696e01c45abd43468862e0fec55a7e89 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "flag", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_726e63c54b7e48878a79d8380aa796a1.setIcon(icon_696e01c45abd43468862e0fec55a7e89);
+        
+    
+        var popup_537aa215edb648c88dfd082698342c6e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5afcaedd557a454cab6d99e02632ad29 = $(`<div id="html_5afcaedd557a454cab6d99e02632ad29" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 748 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 748 /@3.299434037317791,51.35509321554552'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 748 ","NB-830074887f925");'>Change Coords</a></div>`)[0];
+            popup_537aa215edb648c88dfd082698342c6e.setContent(html_5afcaedd557a454cab6d99e02632ad29);
+        
+
+        marker_726e63c54b7e48878a79d8380aa796a1.bindPopup(popup_537aa215edb648c88dfd082698342c6e)
+        ;
+
+        
+    
+    
+            var marker_0b3b419fc2d3458baf12604f8dc96e64 = L.marker(
+                [51.35465494705556, 3.296677719640875],
+                {}
+            ).addTo(feature_group_e275224470dd4e36975cb991e7183285);
+        
+    
+            var icon_90d5a6ace95844438c0518b00744289b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "flag", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_0b3b419fc2d3458baf12604f8dc96e64.setIcon(icon_90d5a6ace95844438c0518b00744289b);
+        
+    
+        var popup_174d6abf1dcf416491568a1221eb0ccf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_70d29a74381e44918bc0191c2646152e = $(`<div id="html_70d29a74381e44918bc0191c2646152e" style="width: 100.0%; height: 100.0%;"><b>Antoine Breartstraat 11 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Antoine Breartstraat 11 /@3.296677719640875,51.35465494705556'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Antoine Breartstraat 11 ","NB-830011ae3f87");'>Change Coords</a></div>`)[0];
+            popup_174d6abf1dcf416491568a1221eb0ccf.setContent(html_70d29a74381e44918bc0191c2646152e);
+        
+
+        marker_0b3b419fc2d3458baf12604f8dc96e64.bindPopup(popup_174d6abf1dcf416491568a1221eb0ccf)
+        ;
+
+        
+    
+    
+            var marker_0c262979083b49069b54d1e08567bd59 = L.marker(
+                [51.359874887909356, 3.321322430206299],
+                {}
+            ).addTo(feature_group_e275224470dd4e36975cb991e7183285);
+        
+    
+            var icon_913e607081d34daf9adca6c22a1f8424 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "flag", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_0c262979083b49069b54d1e08567bd59.setIcon(icon_913e607081d34daf9adca6c22a1f8424);
+        
+    
+        var popup_35fe940ecc2643728411afdf64ffdddb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3519f2bf3ba84d2fb51f033aee7256a9 = $(`<div id="html_3519f2bf3ba84d2fb51f033aee7256a9" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 749 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 749 /@3.321322430206299,51.359874887909356'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 749 ","NB-8300749adfa56");'>Change Coords</a></div>`)[0];
+            popup_35fe940ecc2643728411afdf64ffdddb.setContent(html_3519f2bf3ba84d2fb51f033aee7256a9);
+        
+
+        marker_0c262979083b49069b54d1e08567bd59.bindPopup(popup_35fe940ecc2643728411afdf64ffdddb)
+        ;
+
+        
+    
+    
+            var marker_196a1192d1744127b15a3f813409f9bc = L.marker(
+                [51.354116340291945, 3.2927954049036177],
+                {}
+            ).addTo(feature_group_e275224470dd4e36975cb991e7183285);
+        
+    
+            var icon_7f710b27cb964ff9876b5fdb2dccd9e0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "flag", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_196a1192d1744127b15a3f813409f9bc.setIcon(icon_7f710b27cb964ff9876b5fdb2dccd9e0);
+        
+    
+        var popup_584062e348fa43cd9bacb4088d5063df = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7b51a6fa49af405880b3236c08d89578 = $(`<div id="html_7b51a6fa49af405880b3236c08d89578" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 674 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 674 /@3.2927954049036177,51.354116340291945'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 674 ","NB-830067483f505");'>Change Coords</a></div>`)[0];
+            popup_584062e348fa43cd9bacb4088d5063df.setContent(html_7b51a6fa49af405880b3236c08d89578);
+        
+
+        marker_196a1192d1744127b15a3f813409f9bc.bindPopup(popup_584062e348fa43cd9bacb4088d5063df)
+        ;
+
+        
+    
+    
+            var feature_group_b479761e86dc493dae01fb48109a95d7 = L.featureGroup(
+                {}
+            ).addTo(map_5908d74c80194642ab238093d1706a10);
+        
+    
+            var feature_group_329538bfd4b44edab4fba38b63a15cef = L.featureGroup(
+                {}
+            ).addTo(map_5908d74c80194642ab238093d1706a10);
+        
+    
+            var marker_e9cf93bd1c074a2298cf30a2dd6b37bc = L.marker(
+                [51.35500455337453, 3.2984733581061234],
+                {}
+            ).addTo(feature_group_329538bfd4b44edab4fba38b63a15cef);
+        
+    
+            var icon_5b587a378df24dc7860db51964e3eba7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "building", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_e9cf93bd1c074a2298cf30a2dd6b37bc.setIcon(icon_5b587a378df24dc7860db51964e3eba7);
+        
+    
+        var popup_29140e8b4614446eae0635a807f50de7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_345c4543aed94847be7d32cd06739bf2 = $(`<div id="html_345c4543aed94847be7d32cd06739bf2" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 747 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 747 /@3.2984733581061234,51.35500455337453'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 747 ","NB-8300747620293");'>Change Coords</a></div>`)[0];
+            popup_29140e8b4614446eae0635a807f50de7.setContent(html_345c4543aed94847be7d32cd06739bf2);
+        
+
+        marker_e9cf93bd1c074a2298cf30a2dd6b37bc.bindPopup(popup_29140e8b4614446eae0635a807f50de7)
+        ;
+
+        
+    
+    
+            var marker_bcd0a5ad54514b7f946512b59b461340 = L.marker(
+                [51.35509321554552, 3.299434037317791],
+                {}
+            ).addTo(feature_group_329538bfd4b44edab4fba38b63a15cef);
+        
+    
+            var icon_aaffa75142964c108d075bd8d98e5f29 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "building", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bcd0a5ad54514b7f946512b59b461340.setIcon(icon_aaffa75142964c108d075bd8d98e5f29);
+        
+    
+        var popup_04ae56aec736406298375e4f48514de7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b89f2ee60a12422fa655a3afafddcd95 = $(`<div id="html_b89f2ee60a12422fa655a3afafddcd95" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 748 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 748 /@3.299434037317791,51.35509321554552'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 748 ","NB-830074887f925");'>Change Coords</a></div>`)[0];
+            popup_04ae56aec736406298375e4f48514de7.setContent(html_b89f2ee60a12422fa655a3afafddcd95);
+        
+
+        marker_bcd0a5ad54514b7f946512b59b461340.bindPopup(popup_04ae56aec736406298375e4f48514de7)
+        ;
+
+        
+    
+    
+            var marker_3f91bb6422f74002b85bfe65593e34fe = L.marker(
+                [51.35465494705556, 3.296677719640875],
+                {}
+            ).addTo(feature_group_329538bfd4b44edab4fba38b63a15cef);
+        
+    
+            var icon_ce2a512b4e724904ae8379a66e08ac25 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "building", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_3f91bb6422f74002b85bfe65593e34fe.setIcon(icon_ce2a512b4e724904ae8379a66e08ac25);
+        
+    
+        var popup_04e00b61cbfb4d3e890a466a1d2b0d95 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bb7a0d67c4054c06a956b529256b9dec = $(`<div id="html_bb7a0d67c4054c06a956b529256b9dec" style="width: 100.0%; height: 100.0%;"><b>Antoine Breartstraat 11 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Antoine Breartstraat 11 /@3.296677719640875,51.35465494705556'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Antoine Breartstraat 11 ","NB-830011ae3f87");'>Change Coords</a></div>`)[0];
+            popup_04e00b61cbfb4d3e890a466a1d2b0d95.setContent(html_bb7a0d67c4054c06a956b529256b9dec);
+        
+
+        marker_3f91bb6422f74002b85bfe65593e34fe.bindPopup(popup_04e00b61cbfb4d3e890a466a1d2b0d95)
+        ;
+
+        
+    
+    
+            var marker_453120e7e9b046609c8c9e2153003e32 = L.marker(
+                [51.359874887909356, 3.321322430206299],
+                {}
+            ).addTo(feature_group_329538bfd4b44edab4fba38b63a15cef);
+        
+    
+            var icon_ae8b644cbd764921b1369047db83d221 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "building", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_453120e7e9b046609c8c9e2153003e32.setIcon(icon_ae8b644cbd764921b1369047db83d221);
+        
+    
+        var popup_0f5099f73afb49f7878390011cc1be8e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_88d76e96ce83404790f67a71237fdba7 = $(`<div id="html_88d76e96ce83404790f67a71237fdba7" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 749 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 749 /@3.321322430206299,51.359874887909356'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 749 ","NB-8300749adfa56");'>Change Coords</a></div>`)[0];
+            popup_0f5099f73afb49f7878390011cc1be8e.setContent(html_88d76e96ce83404790f67a71237fdba7);
+        
+
+        marker_453120e7e9b046609c8c9e2153003e32.bindPopup(popup_0f5099f73afb49f7878390011cc1be8e)
+        ;
+
+        
+    
+    
+            var marker_0f4d65f8f7f0446989b7b79cd9cfcb53 = L.marker(
+                [51.354116340291945, 3.2927954049036177],
+                {}
+            ).addTo(feature_group_329538bfd4b44edab4fba38b63a15cef);
+        
+    
+            var icon_1bffb657d63846fca9c141c36c241dbe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "building", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0f4d65f8f7f0446989b7b79cd9cfcb53.setIcon(icon_1bffb657d63846fca9c141c36c241dbe);
+        
+    
+        var popup_5c02953f79cb46f1aeaccd249e9b253f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b906d14029d84336a25441f63d59bfad = $(`<div id="html_b906d14029d84336a25441f63d59bfad" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 674 </b><br>                <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 674 /@3.2927954049036177,51.354116340291945'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 674 ","NB-830067483f505");'>Change Coords</a></div>`)[0];
+            popup_5c02953f79cb46f1aeaccd249e9b253f.setContent(html_b906d14029d84336a25441f63d59bfad);
+        
+
+        marker_0f4d65f8f7f0446989b7b79cd9cfcb53.bindPopup(popup_5c02953f79cb46f1aeaccd249e9b253f)
+        ;
+
+        
+    
+    
+            var layer_control_0f253c1cf5bc469a9e13cb5601c969fa = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_f65b657d44044d4f90f8dbcc41677f21,
+                },
+                overlays :  {
+                    "Leuven-FH03" : geo_json_17b257d93ba74836be4478825dba7475,
+                    "Evere-FH01" : geo_json_3fa0ff549d124c70a4da3847fbe58cc9,
+                    "New Builings" : feature_group_e275224470dd4e36975cb991e7183285,
+                    "Monuments" : feature_group_b479761e86dc493dae01fb48109a95d7,
+                    "All Builings" : feature_group_329538bfd4b44edab4fba38b63a15cef,
+                },
+            };
+            L.control.layers(
+                layer_control_0f253c1cf5bc469a9e13cb5601c969fa.base_layers,
+                layer_control_0f253c1cf5bc469a9e13cb5601c969fa.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_5908d74c80194642ab238093d1706a10);
+        
+    
+
+    //    http://zoologie.umons.ac.be/tc/algorithms.aspx#c2
+
+        function convertBelgianDatum(Lat,Lng){
+		var Haut = 0;      
+		var LatBel; var LngBel;
+		var DLat; var DLng;
+		var Rm; var Rn; 
+		var LWb; var LWe2;
+		var SinLat; var SinLng;
+		var CoSinLat; var CoSinLng;
+		var Adb;
+
+		var dx = 125.8;
+		var dy = -79.9;
+		var dz = 100.5;
+		var da = 251.0;
+		var df = 0.000014192702;
+
+		var LWf = 1 / 297;
+		var LWa = 6378388;
+		LWb = (1 - LWf) * LWa;
+		LWe2 = (2 * LWf) - (LWf * LWf);
+		Adb = 1 / (1 - LWf);
+
+		Lat = (Math.PI / 180) * Lat;
+		Lng = (Math.PI / 180) * Lng;
+
+		SinLat = Math.sin(Lat);
+		SinLng = Math.sin(Lng);
+		CoSinLat = Math.cos(Lat);
+		CoSinLng = Math.cos(Lng);
+
+	 
+		Rn = LWa / Math.sqrt(1 - LWe2 * SinLat * SinLat);
+		Rm = LWa * (1 - LWe2) / (1 - LWe2 * Lat * Lat) ^ 1.5;
+		 
+		DLat = -dx * SinLat * CoSinLng - dy * SinLat * SinLng + dz * CoSinLat;
+		DLat = DLat + da * (Rn * LWe2 * SinLat * CoSinLat) / LWa;
+		DLat = DLat + df * (Rm * Adb + Rn / Adb) * SinLat * CoSinLat;
+		DLat = DLat / (Rm + Haut);
+		 
+		DLng = (-dx * SinLng + dy * CoSinLng) / ((Rn + Haut) * CoSinLat);
+
+		 
+		LatBel = ((Lat + DLat) * 180) / Math.PI;
+		LngBel = ((Lng + DLng) * 180) / Math.PI;
+
+		return Array(LatBel, LngBel);
+	}
+
+	
+
+        function convertxy(lat,lng){
+		dat = convertBelgianDatum(lat,lng);
+		lat = dat[0]; 
+		lng = dat[1];
+
+		var LongRef = 0.076042943;
+
+
+		var bLamb = 6378388 * (1 - (1 / 297));
+   		var aCarre = Math.pow(6378388,2);
+   		var eCarre = (aCarre - Math.pow(bLamb,2)) / aCarre;
+   		var KLamb = 11565915.812935;
+		var nLamb = 0.7716421928;
+ 
+   		var eLamb = Math.sqrt(eCarre);
+   		var eSur2 = eLamb / 2;
+ 
+		lat = (Math.PI / 180) * lat;
+   		lng = (Math.PI / 180) * lng;
+
+		
+ 
+   		var eSinLatitude = eLamb * Math.sin(lat);
+   		var TanZDemi = ( Math.tan((Math.PI / 4) - (lat / 2)) ) * ( Math.pow( ((1 + eSinLatitude) / (1 - eSinLatitude)), eSur2) );
+
+
+   		var RLamb = KLamb * (Math.pow(TanZDemi, nLamb));
+ 
+   		var Teta = nLamb * (lng - LongRef);
+		 
+   		 
+		var CX = 150000 + 0.01256 + RLamb * Math.sin(Teta - 0.000142043);
+   		var CY = 5400000 + 88.4378 - RLamb * Math.cos(Teta - 0.000142043);            
+                
+                CX = CX.toFixed(4);
+                CY = CY.toFixed(4);
+
+            	return Array(CX, CY);
+
+        };
+
+        var mapid = document.getElementsByClassName('folium-map')[0].id;
+        var g_adres = '';
+        var g_key = '';
+        var g_file = ' /home/filip/Python/survey/map/test1.csv ';
+        var g_str_file = ' OpdrachtID;Projectnummer;Straat;Huisnummer;Huisnummer Toevoeging;Postcode;Plaats;xPos;yPos;Opdrachtnummer;Opdrachttemplate;Adres\n556304;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;747;;8300;Knokke-Heist;75441,94;227785,1;NB-8300747620293;BUILDING template;Zeedijk-Het Zoute 747 8300 Knokke-Heist\n556306;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;748;;8300;Knokke-Heist;75509,0;227794,0;NB-830074887f925;BUILDING template;Zeedijk-Het Zoute 748 8300 Knokke-Heist\n555283;KNOKKE-HEIST - FH04;Antoine Breartstraat;11;;8300;Knokke-Heist;75316,3;227748,01;NB-830011ae3f87;BUILDING template;Antoine Breartstraat 11 8300 Knokke-Heist\n556308;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;749;;8300;Knokke-Heist;77041,18;228304,24;NB-8300749adfa56;BUILDING template;Zeedijk-Het Zoute 749 8300 Knokke-Heist\n556547;KNOKKE-HEIST - FH04;Zeedijk-Knokke;674;;8300;Knokke-Heist;75045,0;227692,0;NB-830067483f505;BUILDING template;Zeedijk-Knokke 674 8300 Knokke-Heist\n ';
+        var g_str_filename = ' test1.csv ';
+        
+        function setMarkerAdres(adres, key){
+            alert("Set marker on new location for\n\n" + key + "\n" + adres);
+            g_adres = adres;
+            g_key = key;
+        };
+        
+        
+        
+        function saveData(data, fileName) {
+//            alert(data);
+            var a = document.createElement('a');
+            document.body.appendChild(a);
+            a.style = 'display: none';
+
+            var json = JSON.stringify(data),
+            blob = new Blob([data], {type: 'text/plain;charset=utf-8'}),
+
+            url = window.URL.createObjectURL(blob);
+            a.href = url;
+
+            a.download = fileName;
+
+            a.click();
+
+            window.URL.revokeObjectURL(url);
+
+        }
+
+
+        function addToCsv(x,y){
+            if(g_adres !== ''){
+                                
+                x = x.toString().replace('.',',');
+                y = y.toString().replace('.',',');
+                
+                row = g_str_file.split('\n');
+
+                console.log(row);
+
+                header = row[0].split(';');
+                var index_of_xPos = 0;
+                var index_of_yPos = 0;
+
+                for (index = 0; index < header.length; index++) {
+                    if (header[index] == 'xPos'){
+                        index_of_xPos = index;
+                    }
+                    if (header[index] == 'yPos'){
+                        index_of_yPos = index;
+                    }
+                } 
+                console.log('index of xPos:' + index_of_xPos);
+                console.log('index of yPos:' + index_of_yPos);
+                
+                var index_of_key = 0
+
+                for (index = 0; index < row.length; index++) {
+                    if (row[index].includes(g_key)){
+                        index_of_key = index;
+                    }
+                } 
+                console.log('index of key:' + index_of_key);
+                console.log(row[index_of_key]);
+
+                row_to_change = row[index_of_key].split(';');
+                row_to_change[index_of_xPos] = x;
+                row_to_change[index_of_yPos] = y;
+                
+                row_changed = '';
+                for (index = 0; index < row_to_change.length; index++) {
+                    row_changed = row_changed + row_to_change[index] + ';';
+                } 
+                row_changed = row_changed.slice(0,-1);
+                
+                console.log('new row:' + row_changed);
+                
+                row[index_of_key] = row_changed;
+                
+                var csvdata = '';
+                for (index = 0; index < row.length; index++) {
+                    csvdata = csvdata + row[index] + '\n'
+                } 
+                
+
+                alert('Change xy for : ' + g_key + '\
+                   \n' + g_adres + ' \
+                   \n\nx: ' + x + '\ny: ' + y + '\
+                   \n\n' + row_changed 
+                   );
+                
+
+
+           //     saveData(csvdata,g_str_filename);                
+                g_str_file = csvdata;
+
+            }else{
+                alert('no key found!!');
+            }
+        };
+ 
+        function saveToCsv(){
+            alert('data to write: \n' + g_str_file);        
+            saveData(g_str_file,g_str_filename);                
+           
+        };
+
+        function newMarker(e){
+            
+	    var new_mark = L.marker().setLatLng(e.latlng).addTo(window[mapid]);
+	    new_mark.on('dblclick', function(e){ window[mapid].removeLayer(e.target)})
+
+            var lat = e.latlng.lat.toFixed(4);
+            var lng = e.latlng.lng.toFixed(4);
+            var xy = [];
+            xy = convertxy(lat, lng);
+            
+            var adres = g_adres;
+
+            new_mark.bindPopup("<b>"+ adres + "</b><br> \
+                    <u>" + g_key + "</u><BR><BR> \
+                    <i>lat, lng:</i> :: " + lat + ", " + lng + "<BR><BR> \
+                    <i>x, y:</i> :: " + xy[0] + ", " + xy[1] + "<BR><BR> \
+                    <a target='_blank' href='https://www.google.be/maps/place/" + g_adres + "/@" + lat + "," + lng + "'>Google Maps</a><hr> \
+                    <a href='#' onclick='addToCsv(" + '"' + xy[0] + '","' + xy[1] + '"' + ");'>Change</a>&nbsp;&nbsp \
+                    <a href='#' onclick='saveToCsv();'>Save to csv</a> \
+                    ");
+              };
+        
+        window[mapid].on('click', newMarker);
+        
+                 
+    
+        function addCss(fileName) {
+
+            var head = document.head;
+            var link = document.createElement('link');
+
+            link.type = 'text/css';
+            link.rel = 'stylesheet';
+            link.href = fileName;
+
+            head.appendChild(link);
+        }
+        addCss('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css');
+        addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+                        
+</script>
