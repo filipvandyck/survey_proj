@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0cfb316c59a44cd5ac926b8a94ae5ea7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_0cfb316c59a44cd5ac926b8a94ae5ea7" ></div>
+        
+</body>
+<script>    
+    
+            var map_0cfb316c59a44cd5ac926b8a94ae5ea7 = L.map(
+                "map_0cfb316c59a44cd5ac926b8a94ae5ea7",
+                {
+                    center: [51.17221037453808, 4.8444407826625815],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_6879c29a295d4533b27e2dfe02b847cb = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_0cfb316c59a44cd5ac926b8a94ae5ea7);
+        
+    
+        function geo_json_5bc0e6faa48b47938962f4ad7d172ce7_onEachFeature(feature, layer) {
+            layer.on({
+                click: function(e) {
+                    map_0cfb316c59a44cd5ac926b8a94ae5ea7.fitBounds(e.target.getBounds());
+                }
+            });
+        };
+        var geo_json_5bc0e6faa48b47938962f4ad7d172ce7 = L.geoJson(null, {
+                onEachFeature: geo_json_5bc0e6faa48b47938962f4ad7d172ce7_onEachFeature,
+            
+        }).addTo(map_0cfb316c59a44cd5ac926b8a94ae5ea7);
+            geo_json_5bc0e6faa48b47938962f4ad7d172ce7.addData({"crs": {"properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}, "type": "name"}, "features": [{"geometry": {"coordinates": [[[3.289640659177974, 51.353670358812195, -9.05909768e-06], [3.290087483840885, 51.352685721415305, -9.05909768e-06], [3.293433116399553, 51.35342099686911, -9.05909768e-06], [3.295092727969792, 51.35372897430006, -9.05909768e-06], [3.295370880193055, 51.35371318162314, -9.05909768e-06], [3.295644810352718, 51.35388044245106, -9.05909768e-06], [3.296311936951358, 51.35411534019465, -9.05909768e-06], [3.296791362804037, 51.35424783683297, -9.05909768e-06], [3.297578603643534, 51.354346492705936, -9.05909768e-06], [3.298630859818251, 51.35436514263581, -9.05909768e-06], [3.299126805356547, 51.35441538758206, -9.05909768e-06], [3.301118917156751, 51.35489105957387, -9.05909768e-06], [3.303328660655949, 51.355441888658774, -9.05909768e-06], [3.30495812705688, 51.355795228794776, -9.05909768e-06], [3.306326163538394, 51.3560729691712, -9.05909768e-06], [3.306092988218466, 51.3564152937265, -9.05909768e-06], [3.306087779702703, 51.35664757345196, -9.05909768e-06], [3.305837089761286, 51.35698061496267, -9.05909768e-06], [3.305648474599279, 51.35693658527288, -9.05909768e-06], [3.303948176072873, 51.356481919311165, -9.05909768e-06], [3.301856999820572, 51.35585893146191, -9.05909768e-06], [3.30040233894021, 51.35553458683153, -9.05909768e-06], [3.299708129067522, 51.35541427593019, -9.05909768e-06], [3.299892096150148, 51.3550464470766, -9.05909768e-06], [3.29938394646295, 51.354961114743446, -9.05909768e-06], [3.299301523749242, 51.355318283947426, -9.05909768e-06], [3.29772043085759, 51.3551716884319, -9.05909768e-06], [3.296639975681402, 51.35510700274864, -9.05909768e-06], [3.294558292587666, 51.354712836107346, -9.05909768e-06], [3.289640659177974, 51.353670358812195, -9.05909768e-06]]], "type": "Polygon"}, "properties": {"fid": "7577430", "layoutCode": "NA", "technologyCode": "FTTH-Cu", "typeCode": "NA", "zoningId": 19895, "zoningName": "W03-C-Knokke-Heist-FH04"}, "type": "Feature"}], "type": "FeatureCollection"});
+        
+    
+
+    //    http://zoologie.umons.ac.be/tc/algorithms.aspx#c2
+
+        function convertBelgianDatum(Lat,Lng){
+		var Haut = 0;      
+		var LatBel; var LngBel;
+		var DLat; var DLng;
+		var Rm; var Rn; 
+		var LWb; var LWe2;
+		var SinLat; var SinLng;
+		var CoSinLat; var CoSinLng;
+		var Adb;
+
+		var dx = 125.8;
+		var dy = -79.9;
+		var dz = 100.5;
+		var da = 251.0;
+		var df = 0.000014192702;
+
+		var LWf = 1 / 297;
+		var LWa = 6378388;
+		LWb = (1 - LWf) * LWa;
+		LWe2 = (2 * LWf) - (LWf * LWf);
+		Adb = 1 / (1 - LWf);
+
+		Lat = (Math.PI / 180) * Lat;
+		Lng = (Math.PI / 180) * Lng;
+
+		SinLat = Math.sin(Lat);
+		SinLng = Math.sin(Lng);
+		CoSinLat = Math.cos(Lat);
+		CoSinLng = Math.cos(Lng);
+
+	 
+		Rn = LWa / Math.sqrt(1 - LWe2 * SinLat * SinLat);
+		Rm = LWa * (1 - LWe2) / (1 - LWe2 * Lat * Lat) ^ 1.5;
+		 
+		DLat = -dx * SinLat * CoSinLng - dy * SinLat * SinLng + dz * CoSinLat;
+		DLat = DLat + da * (Rn * LWe2 * SinLat * CoSinLat) / LWa;
+		DLat = DLat + df * (Rm * Adb + Rn / Adb) * SinLat * CoSinLat;
+		DLat = DLat / (Rm + Haut);
+		 
+		DLng = (-dx * SinLng + dy * CoSinLng) / ((Rn + Haut) * CoSinLat);
+
+		 
+		LatBel = ((Lat + DLat) * 180) / Math.PI;
+		LngBel = ((Lng + DLng) * 180) / Math.PI;
+
+		return Array(LatBel, LngBel);
+	}
+
+	
+
+        function convertxy(lat,lng){
+		dat = convertBelgianDatum(lat,lng);
+		lat = dat[0]; 
+		lng = dat[1];
+
+		var LongRef = 0.076042943;
+
+
+		var bLamb = 6378388 * (1 - (1 / 297));
+   		var aCarre = Math.pow(6378388,2);
+   		var eCarre = (aCarre - Math.pow(bLamb,2)) / aCarre;
+   		var KLamb = 11565915.812935;
+		var nLamb = 0.7716421928;
+ 
+   		var eLamb = Math.sqrt(eCarre);
+   		var eSur2 = eLamb / 2;
+ 
+		lat = (Math.PI / 180) * lat;
+   		lng = (Math.PI / 180) * lng;
+
+		
+ 
+   		var eSinLatitude = eLamb * Math.sin(lat);
+   		var TanZDemi = ( Math.tan((Math.PI / 4) - (lat / 2)) ) * ( Math.pow( ((1 + eSinLatitude) / (1 - eSinLatitude)), eSur2) );
+
+
+   		var RLamb = KLamb * (Math.pow(TanZDemi, nLamb));
+ 
+   		var Teta = nLamb * (lng - LongRef);
+		 
+   		 
+		var CX = 150000 + 0.01256 + RLamb * Math.sin(Teta - 0.000142043);
+   		var CY = 5400000 + 88.4378 - RLamb * Math.cos(Teta - 0.000142043);            
+                
+                CX = CX.toFixed(4);
+                CY = CY.toFixed(4);
+
+            	return Array(CX, CY);
+
+        };
+
+        var mapid = document.getElementsByClassName('folium-map')[0].id;
+        var g_adres = '';
+        var g_key = '';
+        var g_file = ' C:\Users\hb-fidy\Desktop\Python\survey_proj\survey/coordinates\KNOKKE-HEIST - FH04-coordinaten_pr-20200107.csv ';
+        var g_str_file = ' ï»¿OpdrachtID;Projectnummer;Straat;Huisnummer;Huisnummer Toevoeging;Postcode;Plaats;xPos;yPos;Opdrachtnummer;Opdrachttemplate;Adres\n555776;KNOKKE-HEIST - FH04;Marie-JosÃƒÂ©straat;8;;8300;Knokke-Heist;183268,23;207018,23;NB-830083a7464;BUILDING template;Marie-JosÃƒÂ©straat 8 8300 Knokke-Heist\n556547;KNOKKE-HEIST - FH04;Zeedijk-Knokke;674;;8300;Knokke-Heist;75045,0;227692,0;NB-830067483f505;BUILDING template;Zeedijk-Knokke 674 8300 Knokke-Heist\n556547;KNOKKE-HEIST - FH04;Zeedijk-Knokke;674;;8300;Knokke-Heist;75050,0;227692,0;NB-830067483f505;BUILDING template;Zeedijk-Knokke 674 8300 Knokke-Heist\n ';
+        var g_str_filename = ' KNOKKE-HEIST - FH04-coordinaten_pr-20200107.csv ';
+        
+        function setMarkerAdres(adres, key){
+            alert("Set marker on new location for\n\n" + key + "\n" + adres);
+            g_adres = adres;
+            g_key = key;
+        };
+        
+        
+        
+        function saveData(data, fileName) {
+//            alert(data);
+            var a = document.createElement('a');
+            document.body.appendChild(a);
+            a.style = 'display: none';
+
+            var json = JSON.stringify(data),
+            blob = new Blob([data], {type: 'text/plain;charset=utf-8'}),
+
+            url = window.URL.createObjectURL(blob);
+            a.href = url;
+
+            a.download = fileName;
+
+            a.click();
+
+            window.URL.revokeObjectURL(url);
+
+        }
+
+
+        function addToCsv(x,y){
+            if(g_adres !== ''){
+                                
+                x = x.toString().replace('.',',');
+                y = y.toString().replace('.',',');
+                
+                row = g_str_file.split('\n');
+
+                console.log(row);
+
+                header = row[0].split(';');
+                var index_of_xPos = 0;
+                var index_of_yPos = 0;
+
+                for (index = 0; index < header.length; index++) {
+                    if (header[index] == 'xPos'){
+                        index_of_xPos = index;
+                    }
+                    if (header[index] == 'yPos'){
+                        index_of_yPos = index;
+                    }
+                } 
+                console.log('index of xPos:' + index_of_xPos);
+                console.log('index of yPos:' + index_of_yPos);
+                
+                var index_of_key = 0
+
+                for (index = 0; index < row.length; index++) {
+                    if (row[index].includes(g_key)){
+                        index_of_key = index;
+                    }
+                } 
+                console.log('index of key:' + index_of_key);
+                console.log(row[index_of_key]);
+
+                row_to_change = row[index_of_key].split(';');
+                row_to_change[index_of_xPos] = x;
+                row_to_change[index_of_yPos] = y;
+                
+                row_changed = '';
+                for (index = 0; index < row_to_change.length; index++) {
+                    row_changed = row_changed + row_to_change[index] + ';';
+                } 
+                row_changed = row_changed.slice(0,-1);
+                
+                console.log('new row:' + row_changed);
+                
+                row[index_of_key] = row_changed;
+                
+                var csvdata = '';
+                for (index = 0; index < row.length; index++) {
+                    csvdata = csvdata + row[index] + '\n'
+                } 
+                
+
+                alert('Change xy for : ' + g_key + '\
+                   \n' + g_adres + ' \
+                   \n\nx: ' + x + '\ny: ' + y + '\
+                   \n\n' + row_changed 
+                   );
+                
+
+
+           //     saveData(csvdata,g_str_filename);                
+                g_str_file = csvdata;
+
+            }else{
+                alert('no key found!!');
+            }
+        };
+ 
+        function saveToCsv(){
+            alert('data to write: \n' + g_str_file);        
+            saveData(g_str_file,g_str_filename);                
+           
+        };
+
+        function newMarker(e){
+            
+	    var new_mark = L.marker().setLatLng(e.latlng).addTo(window[mapid]);
+	    new_mark.on('dblclick', function(e){ window[mapid].removeLayer(e.target)})
+
+            var lat = e.latlng.lat.toFixed(4);
+            var lng = e.latlng.lng.toFixed(4);
+            var xy = [];
+            xy = convertxy(lat, lng);
+            
+            var adres = g_adres;
+
+            new_mark.bindPopup("<b>"+ adres + "</b><br> \
+                    <u>" + g_key + "</u><BR><BR> \
+                    <i>lat, lng:</i> :: " + lat + ", " + lng + "<BR><BR> \
+                    <i>x, y:</i> :: " + xy[0] + ", " + xy[1] + "<BR><BR> \
+                    <a target='_blank' href='https://www.google.be/maps/place/" + g_adres + "/@" + lat + "," + lng + "'>Google Maps</a><hr> \
+                    <a href='#' onclick='addToCsv(" + '"' + xy[0] + '","' + xy[1] + '"' + ");'>Change</a>&nbsp;&nbsp \
+                    <a href='#' onclick='saveToCsv();'>Save to csv</a> \
+                    ");
+              };
+        
+        window[mapid].on('click', newMarker);
+        
+                 
+    
+        function addCss(fileName) {
+
+            var head = document.head;
+            var link = document.createElement('link');
+
+            link.type = 'text/css';
+            link.rel = 'stylesheet';
+            link.href = fileName;
+
+            head.appendChild(link);
+        }
+        addCss('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css');
+        addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+                        
+    
+            var feature_group_b5d4fc5053ca4855896269e9e9df3be2 = L.featureGroup(
+                {}
+            ).addTo(map_0cfb316c59a44cd5ac926b8a94ae5ea7);
+        
+    
+            var marker_d01d670b0d3c4e7abab5b1ee95c2665f = L.marker(
+                [51.17221037453808, 4.8444407826625815],
+                {}
+            ).addTo(feature_group_b5d4fc5053ca4855896269e9e9df3be2);
+        
+    
+            var icon_c501407e75d14bb6aeca57caa4ec0cc1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_d01d670b0d3c4e7abab5b1ee95c2665f.setIcon(icon_c501407e75d14bb6aeca57caa4ec0cc1);
+        
+    
+        var popup_fe688bd22c8d4d039b91e33721bfe07f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1a72cc6c494f4af5a20070f05f12e5bd = $(`<div id="html_1a72cc6c494f4af5a20070f05f12e5bd" style="width: 100.0%; height: 100.0%;"><b>Marie-JosÃÂ©straat 8 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Marie-JosÃÂ©straat 8 /@4.8444407826625815,51.17221037453808'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Marie-JosÃÂ©straat 8 ","NB-830083a7464");'>Change Coords</a></div>`)[0];
+            popup_fe688bd22c8d4d039b91e33721bfe07f.setContent(html_1a72cc6c494f4af5a20070f05f12e5bd);
+        
+
+        marker_d01d670b0d3c4e7abab5b1ee95c2665f.bindPopup(popup_fe688bd22c8d4d039b91e33721bfe07f)
+        ;
+
+        
+    
+    
+            var marker_99b03e5d918e419aa33f4241a5bdc499 = L.marker(
+                [51.35411634029195, 3.2927954049036177],
+                {}
+            ).addTo(feature_group_b5d4fc5053ca4855896269e9e9df3be2);
+        
+    
+            var icon_72f0ee193f764a5bbe04b11728923309 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_99b03e5d918e419aa33f4241a5bdc499.setIcon(icon_72f0ee193f764a5bbe04b11728923309);
+        
+    
+        var popup_3ccc5df2903a4c6a95518d18184d1fbf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_84f3475d6a104c3e8c7ce4b27cdf766f = $(`<div id="html_84f3475d6a104c3e8c7ce4b27cdf766f" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 674 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 674 /@3.2927954049036177,51.35411634029195'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 674 ","NB-830067483f505");'>Change Coords</a></div>`)[0];
+            popup_3ccc5df2903a4c6a95518d18184d1fbf.setContent(html_84f3475d6a104c3e8c7ce4b27cdf766f);
+        
+
+        marker_99b03e5d918e419aa33f4241a5bdc499.bindPopup(popup_3ccc5df2903a4c6a95518d18184d1fbf)
+        ;
+
+        
+    
+    
+            var marker_d56566bfeffe4d698bd2cb32b91fd3a7 = L.marker(
+                [51.35411699104633, 3.2928671688631304],
+                {}
+            ).addTo(feature_group_b5d4fc5053ca4855896269e9e9df3be2);
+        
+    
+            var icon_ee51d4b93e544ea7b356fcc5b1df26ac = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_d56566bfeffe4d698bd2cb32b91fd3a7.setIcon(icon_ee51d4b93e544ea7b356fcc5b1df26ac);
+        
+    
+        var popup_3bbbaba9ff604b2ca314c8021d6ab761 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ff95747f8cc44be096b658d1b1839cdc = $(`<div id="html_ff95747f8cc44be096b658d1b1839cdc" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 674 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 674 /@3.2928671688631304,51.35411699104633'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 674 ","NB-830067483f505");'>Change Coords</a></div>`)[0];
+            popup_3bbbaba9ff604b2ca314c8021d6ab761.setContent(html_ff95747f8cc44be096b658d1b1839cdc);
+        
+
+        marker_d56566bfeffe4d698bd2cb32b91fd3a7.bindPopup(popup_3bbbaba9ff604b2ca314c8021d6ab761)
+        ;
+
+        
+    
+    
+            var feature_group_75f75d566f604d7bb07072ef85c7cae5 = L.featureGroup(
+                {}
+            ).addTo(map_0cfb316c59a44cd5ac926b8a94ae5ea7);
+        
+    
+            var marker_97ef1a5858d74fd1b17d4331c19c3917 = L.marker(
+                [51.17221037453808, 4.8444407826625815],
+                {}
+            ).addTo(feature_group_75f75d566f604d7bb07072ef85c7cae5);
+        
+    
+            var icon_47c1ae5345794fe489967bf61e1c1f83 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_97ef1a5858d74fd1b17d4331c19c3917.setIcon(icon_47c1ae5345794fe489967bf61e1c1f83);
+        
+    
+        var popup_f4afd457f00449abb6b81ab639823869 = L.popup({"maxWidth": 330});
+
+        
+            var html_82feecaa49c043f19dea5a6738004218 = $(`<div id="html_82feecaa49c043f19dea5a6738004218" style="width: 100.0%; height: 100.0%;"><b>Marie-JosÃÂ©straat 8 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Marie-JosÃÂ©straat 8 /@4.8444407826625815,51.17221037453808'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Marie-JosÃÂ©straat 8 ","NB-830083a7464");'>Change Coords</a></div>`)[0];
+            popup_f4afd457f00449abb6b81ab639823869.setContent(html_82feecaa49c043f19dea5a6738004218);
+        
+
+        marker_97ef1a5858d74fd1b17d4331c19c3917.bindPopup(popup_f4afd457f00449abb6b81ab639823869)
+        ;
+
+        
+    
+    
+            var marker_be8ff395fc384655b316b206d6c0e553 = L.marker(
+                [51.35411634029195, 3.2927954049036177],
+                {}
+            ).addTo(feature_group_75f75d566f604d7bb07072ef85c7cae5);
+        
+    
+            var icon_5f74c46a110f4ea282619808c0a42586 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_be8ff395fc384655b316b206d6c0e553.setIcon(icon_5f74c46a110f4ea282619808c0a42586);
+        
+    
+        var popup_72884d4d1dae430a9bda31639948b87b = L.popup({"maxWidth": 330});
+
+        
+            var html_8552de155c6144eb9e969b9fc39d3f16 = $(`<div id="html_8552de155c6144eb9e969b9fc39d3f16" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 674 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 674 /@3.2927954049036177,51.35411634029195'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 674 ","NB-830067483f505");'>Change Coords</a></div>`)[0];
+            popup_72884d4d1dae430a9bda31639948b87b.setContent(html_8552de155c6144eb9e969b9fc39d3f16);
+        
+
+        marker_be8ff395fc384655b316b206d6c0e553.bindPopup(popup_72884d4d1dae430a9bda31639948b87b)
+        ;
+
+        
+    
+    
+            var marker_4603904f32bb4b6b96ba173ed4880d37 = L.marker(
+                [51.35411699104633, 3.2928671688631304],
+                {}
+            ).addTo(feature_group_75f75d566f604d7bb07072ef85c7cae5);
+        
+    
+            var icon_291779f1b98849cd80eb2f33d939fb4f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_4603904f32bb4b6b96ba173ed4880d37.setIcon(icon_291779f1b98849cd80eb2f33d939fb4f);
+        
+    
+        var popup_93a54aba7543486ebb472a5df783c8ee = L.popup({"maxWidth": 330});
+
+        
+            var html_15c043134dc04812904888a125d49fe9 = $(`<div id="html_15c043134dc04812904888a125d49fe9" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 674 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 674 /@3.2928671688631304,51.35411699104633'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 674 ","NB-830067483f505");'>Change Coords</a></div>`)[0];
+            popup_93a54aba7543486ebb472a5df783c8ee.setContent(html_15c043134dc04812904888a125d49fe9);
+        
+
+        marker_4603904f32bb4b6b96ba173ed4880d37.bindPopup(popup_93a54aba7543486ebb472a5df783c8ee)
+        ;
+
+        
+    
+    
+            var feature_group_930088dbea9b4a5f9eb767640fb80ee0 = L.featureGroup(
+                {}
+            ).addTo(map_0cfb316c59a44cd5ac926b8a94ae5ea7);
+        
+    
+            var layer_control_85a723364d4043b5bb806deddf46ba01 = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_6879c29a295d4533b27e2dfe02b847cb,
+                },
+                overlays :  {
+                    "Knokke-Heist-FH04" : geo_json_5bc0e6faa48b47938962f4ad7d172ce7,
+                    "New Builings" : feature_group_b5d4fc5053ca4855896269e9e9df3be2,
+                    "Street Survey" : feature_group_75f75d566f604d7bb07072ef85c7cae5,
+                    "Site Survey" : feature_group_930088dbea9b4a5f9eb767640fb80ee0,
+                },
+            };
+            L.control.layers(
+                layer_control_85a723364d4043b5bb806deddf46ba01.base_layers,
+                layer_control_85a723364d4043b5bb806deddf46ba01.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_0cfb316c59a44cd5ac926b8a94ae5ea7);
+        
+</script>

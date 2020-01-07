@@ -114,7 +114,7 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
         survey['BT'] = np.where( survey.BU + survey.LU > 1, 'MDU','SDU')
     
     
-        survey = survey.drop_duplicates(subset='LAM MK', keep='first')
+        survey = survey.drop_duplicates(subset='planrrr_bid', keep='first')
 
 
     survey['xPos'] = survey['xPos'].str.replace(',','.').astype(float)
@@ -213,10 +213,11 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
          
         if 'Opdrachtnummer' in survey.columns:
             check_column = 'Opdrachtnummer'
-
+       
         if check_column:
             if row[check_column][:2] == 'NB':
                 marker_icon = 'simplybuilt'
+                
                 if allow_change == True:
                     marker_text  = marker_text + "<br><br><a href='#' onclick='setMarkerAdres(" + '"' + row['adres_map'] + '","' + row[check_column] + '"' + ");'>Change Coords</a>"
 

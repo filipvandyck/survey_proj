@@ -1,0 +1,7 @@
+README.md
+setup.py
+validate.egg-info/PKG-INFO
+validate.egg-info/SOURCES.txt
+validate.egg-info/dependency_links.txt
+validate.egg-info/requires.txt
+validate.egg-info/top_level.txt

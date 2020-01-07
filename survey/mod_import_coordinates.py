@@ -111,8 +111,22 @@ def geocode(f,outputfolder):
     
         print('xy found :: ' + geo.xPos + ',' + geo.yPos)
 
-        df_pr.at[index,'xPos'] = geo.xPos
-        df_pr.at[index,'yPos'] = geo.yPos
+        do_find = True
+        if adres!='q':
+            while do_find == True:
+                for i, row in df_pr.iterrows():
+                    if (df_pr.at[i,'xPos'] == geo.xPos and df_pr.at[i,'yPos'] == geo.yPos):
+                        print('coordinate already found xPos + 1 : ')
+                        geo.xPos = geo.xPos.replace(',','.')
+                        geo.xPos = float(geo.xPos) + 5
+                        geo.xPos = str(geo.xPos)
+                        geo.xPos = geo.xPos.replace('.',',')
+                        print('xy written :: ' + geo.xPos + ',' + geo.yPos)
+                        break
+                do_find = False
+                
+            df_pr.at[index,'xPos'] = geo.xPos
+            df_pr.at[index,'yPos'] = geo.yPos
 
         time.sleep(0.5)
 
