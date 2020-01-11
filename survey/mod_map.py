@@ -20,8 +20,9 @@ from branca.element import Element
 
 import myoutput as out
 
-TEST1 = os.path.dirname(os.path.realpath(__file__)) + '/map/test1.csv'
-TEST2 = os.path.dirname(os.path.realpath(__file__)) + '/map/test2.csv'
+TEST1     = os.path.dirname(os.path.realpath(__file__)) + '/map/test1.csv'
+TEST2     = os.path.dirname(os.path.realpath(__file__)) + '/map/test2.csv'
+TEST_BLOK = os.path.dirname(os.path.realpath(__file__)) + '/map/test_blok_pr.csv'
 
 GEOJSONFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/map/geojson/' 
 GMLFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/map/gml/' 
@@ -90,6 +91,9 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
         survey['adres_map'] = survey['Street'] + ' ' + survey['Nr'] + ' ' + survey['Suffix'] 
     if 'Straat' in survey.columns:
         survey['adres_map'] = survey['Straat'] + ' ' + survey['Huisnummer'] + ' ' + survey['Huisnummer Toevoeging']
+
+    if 'Blok' not in survey.columns:
+        survey['Blok'] = ''
 
 
     if 'Nature' in survey.columns:
@@ -161,7 +165,9 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
                     SU&emsp;&emsp;' + str(row['SU']) + '<br><br>\
                     Floors&nbsp;&nbsp;'         + str(row['Number Floors']) + '<br>\
                     BT&emsp;&emsp;' + row['BT'] + '<br>'
-
+            
+            if row['Blok'] != '':
+                    lu_info = lu_info + '<br>Blok&nbsp;&nbsp;&nbsp;&nbsp;' + str(row['Blok']) + '<br><br>'
 
             if row['VC Method']:
                     lu_info = lu_info + 'Quadr&nbsp;&nbsp;' + str(row['VC Method']) + '<br>'
@@ -543,4 +549,5 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
 #draw_coordinates(TEST2, allow_change=False)
 #draw_coordinates(TEST2, allow_change=False,option='sts')
 #draw_coordinates(TEST2, allow_change=False,option='ssv')
+#draw_coordinates(TEST_BLOK, allow_change=False,option='ssv')
 
