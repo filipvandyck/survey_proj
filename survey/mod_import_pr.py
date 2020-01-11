@@ -33,19 +33,46 @@ def getimportfiles(directory):
     files = [f for f in glob.glob(directory + "*.csv")]
     return(files)
 
-def getoutputfile(importfile):
+def getoutputfile(importfile,prefix):
     the_file= os.path.basename(importfile)
-    return("import_pr_street_survey_" + the_file)
+    return("import_pr_" + prefix + "_" + the_file)
 
-def getoutputversionfile(importfile):
-    the_file= os.path.basename(importfile)
-    return("import_pr_versions_" + the_file)
+
+
 
 
 def getoutputBlockfile(importfile):
     the_file= os.path.basename(importfile)
     return("import_block_pr_" + the_file)
 
+
+
+def make_coordinates_import(file1, outputfolder):
+    out.info_file('processing file for coordinate import',file1)
+
+    survey = pd.read_csv(file1, delimiter=';', encoding = "ISO-8859-1")
+    survey_obj = survey.select_dtypes(['object'])
+
+    survey[survey_obj.columns] = survey_obj.apply(lambda x: x.str.lstrip("'"))
+
+    coordinates = survey.drop_duplicates(subset='LAM MK', keep='first')
+    
+
+    area = survey['Area Name'].iloc[0]
+
+    outputdir = outputfolder + area + '/coordinates'
+   
+    if not os.path.exists(outputdir):
+        os.makedirs(outputdir)
+
+    exportfile = outputdir + "/" + getoutputfile(file1,'coordinates')
+
+
+    csv = coordinates.to_csv(exportfile,sep=';',columns=['LAM MK','xPos','yPos','Street','Nr', 'Suffix'],index=False)
+
+
+
+    out.info_file('writing coordinate import file',file1)
 
 
 
@@ -67,12 +94,12 @@ def make_versions_import(file1, outputfolder):
 
     area = survey['Area Name'].iloc[0]
 
-    outputdir = outputfolder + area
+    outputdir = outputfolder + area + '/versions'
    
     if not os.path.exists(outputdir):
         os.makedirs(outputdir)
 
-    exportfile = outputdir + "/" + getoutputversionfile(file1)
+    exportfile = outputdir + "/" + getoutputfile(file1,'versions')
 
 
     csv = versions.to_csv(exportfile,sep=';',columns=['LAM MK','Area Type','Area FID','Area Version','Area Name', 'Zoning FID','Zoning Version','Zoning Name','Zoning Id','Zoning Tech','BG Version','Building FID','Building Version','BG Id','LAM City Code','LAM Street Code'],index=False)
@@ -184,7 +211,7 @@ def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area
     if not os.path.exists(outputdir):
         os.makedirs(outputdir)
 
-    exportfile = outputdir + getoutputfile(file1)
+    exportfile = outputdir + getoutputfile(file1, 'street_survey')
 
     survey = survey[['File SSV Action', 'File SSV Status', 'File SSV Error', 'Area Type', 'Area FID', 'Area Version', 'Area Name', 'Zoning FID', 'Zoning Version', 'Zoning Name', 'Zoning Id', 'Zoning Tech', 'BG Id', 'BG Version', 'BG Name', 'BG SSV Action', 'BG SSV Status', 'BG SSV Error', 'BG Building SSV Action', 'BG Building SSV Status', 'BG Building SSV Error', 'Building FID', 'Building Version', 'LAM MK', 'LAM City Code', 'LAM Street Code', 'Street', 'Nr', 'Suffix', 'Zip', 'Municipality', 'Suburb', 'xPos', 'yPos', 'Name', 'Wall Mount', 'SS Reason', 'Number Floors', 'Height Cable', 'Orig VC Type', 'New VC Type', 'VC Method', 'Intro Tube', 'Prov Status', 'Prov Reason', 'Prov Planned', 'Prov Mod By', 'Prov Mod Date', 'Comments', 'SSV Flag', 'SSV Action', 'SSV Status', 'SSV Error', 'SSV Date', 'Seq', 'LU Key', 'LAM SK', 'Nature', 'Nr TPs', 'PBox', 'App', 'Block', 'Floor', 'OtherRef', 'CAD', 'CAD Details', 'CAD Type', 'CAD Type Descr', 'CAD SubType', 'Prov Status LU', 'Prov Reason LU', 'Prov Planned LU', 'Prov Mod By LU', 'Prov Mod Date LU', 'Comments LU', 'SSV Flag LU', 'SSV Action LU', 'SSV Status LU', 'SSV Error LU', 'SSV Date LU','LU','BU','SU','TOTAAL','LANGUAGE','BT']]
 
@@ -328,15 +355,18 @@ def make_import_streets_cities_file(f,streetfile,cityfile):
 
 
 
-def make_import_pr(importfolder,outputfolder,streetfile,cityfile, output_to_area=False, output_versions=True):
+def make_import_pr(importfolder,outputfolder,streetfile,cityfile, output_to_area=False, output_versions=True, output_coordinates=True):
     files = getimportfiles(importfolder)
     for f in files:
-        make_import_pr_file(f,outputfolder,streetfile,cityfile, output_to_area, output_versions)
+        make_import_pr_file(f,outputfolder,streetfile,cityfile, output_to_area, output_versions, output_coordinates)
 
-def make_import_pr_file(f,outputfolder,streetfile,cityfile, output_to_area=False, output_versions=True):
+def make_import_pr_file(f,outputfolder,streetfile,cityfile, output_to_area=False, output_versions=True, output_coordinates=True):
     make_survey_import(f,outputfolder,streetfile,cityfile, output_to_area)
     if output_versions == True:
         make_versions_import(f,outputfolder)
+
+    if output_coordinates == True:
+        make_coordinates_import(f,outputfolder)
 
 
 
@@ -353,7 +383,7 @@ def make_import_block_pr(importfolder,outputfolder):
 
 #make_import_streets_cities(INPUTFOLDER)
 
-#make_import_pr(INPUTFOLDER,OUTPUTFOLDER)
+#make_import_pr(INPUTFOLDER,OUTPUTFOLDER,INPUT_STREET_FILE,INPUT_CITY_FILE)
 
 
 
