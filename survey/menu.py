@@ -116,17 +116,18 @@ def menu_from_dict(mydict, header='',footer=''):
 
 
         answer = input("\n :: ") 
-        
+       
+        answer = answer.upper()
         
         if answer in mydict:
             action = mydict[answer]['action']
             answer_found = True
         
-        if answer == 'q' or answer == 'Q':
+        if answer == 'Q':
             action = quit 
             answer_found = True
 
-        if answer == 'm' or answer == 'M':
+        if answer == 'M':
             action = main_menu
             answer_found = True
     
