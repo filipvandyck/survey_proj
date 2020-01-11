@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d952e40493614c77bca7ba4a23f0f619 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_d952e40493614c77bca7ba4a23f0f619" ></div>
+        
+</body>
+<script>    
+    
+            var map_d952e40493614c77bca7ba4a23f0f619 = L.map(
+                "map_d952e40493614c77bca7ba4a23f0f619",
+                {
+                    center: [51.21404663935814, 4.39567711916299],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_688f24afe66f4095ace815382c89bf4a = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_d952e40493614c77bca7ba4a23f0f619);
+        
+    
+        function geo_json_43c3211980e040e9aa915f3f13dac2ae_onEachFeature(feature, layer) {
+            layer.on({
+                click: function(e) {
+                    map_d952e40493614c77bca7ba4a23f0f619.fitBounds(e.target.getBounds());
+                }
+            });
+        };
+        var geo_json_43c3211980e040e9aa915f3f13dac2ae = L.geoJson(null, {
+                onEachFeature: geo_json_43c3211980e040e9aa915f3f13dac2ae_onEachFeature,
+            
+        }).addTo(map_d952e40493614c77bca7ba4a23f0f619);
+            geo_json_43c3211980e040e9aa915f3f13dac2ae.addData({"crs": {"properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}, "type": "name"}, "features": [{"geometry": {"coordinates": [[[4.398838478356593, 51.21927972269579, 0.0], [4.398066163382193, 51.21953757603765, 0.0], [4.397206563714265, 51.21862392082865, 0.0], [4.396962798718595, 51.21835827384523, 0.0], [4.397004419533763, 51.218281772321134, 0.0], [4.39605837098687, 51.21744663374988, 0.0], [4.395647947483069, 51.2171769973915, 0.0], [4.395446545453122, 51.217009278843705, 0.0], [4.395259772387684, 51.216577233704015, 0.0], [4.395064031291148, 51.21618274390881, 0.0], [4.394614798329122, 51.21527098725228, 0.0], [4.394496124117347, 51.21511601800755, 0.0], [4.394107918083078, 51.21440352580605, 0.0], [4.393992280504448, 51.213938563566764, 0.0], [4.394008183263897, 51.213719150299454, 0.0], [4.394106867791955, 51.212521432692256, 0.0], [4.394095980639268, 51.211998589072216, 0.0], [4.394205383934927, 51.209719847413425, 0.0], [4.394281530005859, 51.20977385193798, 0.0], [4.397150276868259, 51.21206522131172, 0.0], [4.398251811742405, 51.2142924183455, 0.0], [4.398895445387676, 51.215601189282225, 0.0], [4.399203739106717, 51.21626679493532, 0.0], [4.399400050388996, 51.21666875228282, 0.0], [4.400153761925325, 51.21763165536951, 0.0], [4.400243646161479, 51.21774558188156, 0.0], [4.400361068173684, 51.21789904256772, 0.0], [4.400957063745074, 51.218666551940665, 0.0], [4.400341307324156, 51.21876973175973, 0.0], [4.400343431099893, 51.218791168614054, 0.0], [4.399579077941466, 51.21902585366186, 0.0], [4.398838478356593, 51.21927972269579, 0.0]]], "type": "Polygon"}, "properties": {"fid": "6807323", "layoutCode": "MIX", "technologyCode": "FTTH-Cu", "typeCode": "RESSMECOR", "zoningId": 19084, "zoningName": "W03-C-Antwerpen-West-FH07"}, "type": "Feature"}], "type": "FeatureCollection"});
+        
+    
+
+    //    http://zoologie.umons.ac.be/tc/algorithms.aspx#c2
+
+        function convertBelgianDatum(Lat,Lng){
+		var Haut = 0;      
+		var LatBel; var LngBel;
+		var DLat; var DLng;
+		var Rm; var Rn; 
+		var LWb; var LWe2;
+		var SinLat; var SinLng;
+		var CoSinLat; var CoSinLng;
+		var Adb;
+
+		var dx = 125.8;
+		var dy = -79.9;
+		var dz = 100.5;
+		var da = 251.0;
+		var df = 0.000014192702;
+
+		var LWf = 1 / 297;
+		var LWa = 6378388;
+		LWb = (1 - LWf) * LWa;
+		LWe2 = (2 * LWf) - (LWf * LWf);
+		Adb = 1 / (1 - LWf);
+
+		Lat = (Math.PI / 180) * Lat;
+		Lng = (Math.PI / 180) * Lng;
+
+		SinLat = Math.sin(Lat);
+		SinLng = Math.sin(Lng);
+		CoSinLat = Math.cos(Lat);
+		CoSinLng = Math.cos(Lng);
+
+	 
+		Rn = LWa / Math.sqrt(1 - LWe2 * SinLat * SinLat);
+		Rm = LWa * (1 - LWe2) / (1 - LWe2 * Lat * Lat) ^ 1.5;
+		 
+		DLat = -dx * SinLat * CoSinLng - dy * SinLat * SinLng + dz * CoSinLat;
+		DLat = DLat + da * (Rn * LWe2 * SinLat * CoSinLat) / LWa;
+		DLat = DLat + df * (Rm * Adb + Rn / Adb) * SinLat * CoSinLat;
+		DLat = DLat / (Rm + Haut);
+		 
+		DLng = (-dx * SinLng + dy * CoSinLng) / ((Rn + Haut) * CoSinLat);
+
+		 
+		LatBel = ((Lat + DLat) * 180) / Math.PI;
+		LngBel = ((Lng + DLng) * 180) / Math.PI;
+
+		return Array(LatBel, LngBel);
+	}
+
+	
+
+        function convertxy(lat,lng){
+		dat = convertBelgianDatum(lat,lng);
+		lat = dat[0]; 
+		lng = dat[1];
+
+		var LongRef = 0.076042943;
+
+
+		var bLamb = 6378388 * (1 - (1 / 297));
+   		var aCarre = Math.pow(6378388,2);
+   		var eCarre = (aCarre - Math.pow(bLamb,2)) / aCarre;
+   		var KLamb = 11565915.812935;
+		var nLamb = 0.7716421928;
+ 
+   		var eLamb = Math.sqrt(eCarre);
+   		var eSur2 = eLamb / 2;
+ 
+		lat = (Math.PI / 180) * lat;
+   		lng = (Math.PI / 180) * lng;
+
+		
+ 
+   		var eSinLatitude = eLamb * Math.sin(lat);
+   		var TanZDemi = ( Math.tan((Math.PI / 4) - (lat / 2)) ) * ( Math.pow( ((1 + eSinLatitude) / (1 - eSinLatitude)), eSur2) );
+
+
+   		var RLamb = KLamb * (Math.pow(TanZDemi, nLamb));
+ 
+   		var Teta = nLamb * (lng - LongRef);
+		 
+   		 
+		var CX = 150000 + 0.01256 + RLamb * Math.sin(Teta - 0.000142043);
+   		var CY = 5400000 + 88.4378 - RLamb * Math.cos(Teta - 0.000142043);            
+                
+                CX = CX.toFixed(4);
+                CY = CY.toFixed(4);
+
+            	return Array(CX, CY);
+
+        };
+
+        var mapid = document.getElementsByClassName('folium-map')[0].id;
+        var g_adres = '';
+        var g_key = '';
+        var g_file = ' C:\Users\hb-fidy\Desktop\Python\survey_proj\survey/coordinates\ANTWERPEN-WEST - FH07-coordinaten_pr-20200108.csv ';
+        var g_str_file = ' OpdrachtID;Projectnummer;Straat;Huisnummer;Huisnummer Toevoeging;Postcode;Plaats;xPos;yPos;Opdrachtnummer;LAM MK;Opdrachttemplate;Adres\n516865;ANTWERPEN-WEST - FH07;Prekersstraat;10;;2000;Antwerpen;151881,04;211566,15;NB-200010d9f738;NB-200010d9f738;BUILDING template;Prekersstraat 10 2000 Antwerpen\n516877;ANTWERPEN-WEST - FH07;Kloosterstraat;143;;2000;Antwerpen;151792,92;211576,84;NB-200014319ac20;NB-200014319ac20;BUILDING template;Kloosterstraat 143 2000 Antwerpen\n549693;ANTWERPEN-WEST - FH07;Scheldestraat;38;;2000;Antwerpen;151751,1;211336,94;NB-200038c3b088;NB-200038c3b088;BUILDING template;Scheldestraat 38 2000 Antwerpen\n463444;ANTWERPEN-WEST - FH07;Lange Vlierstraat;1;B;2000;Antwerpen;151966,71;211637,14;NB-20001B0905;NB-20001B0905;BUILDING template;Lange Vlierstraat 1 B 2000 Antwerpen\n550275;ANTWERPEN-WEST - FH07;Scheldestraat;47;;2000;Antwerpen;151807,83;211333,1;NB-200047b3ba63;NB-200047b3ba63;BUILDING template;Scheldestraat 47 2000 Antwerpen\n549256;ANTWERPEN-WEST - FH07;Korte Riddersstraat;15;1;2000;Antwerpen;152058,55;211938,91;NB-20001512840;NB-20001512840;BUILDING template;Korte Riddersstraat 15 1 2000 Antwerpen\n549258;ANTWERPEN-WEST - FH07;Korte Riddersstraat;17;1;2000;Antwerpen;152059,86;211914,64;NB-20001714835;NB-20001714835;BUILDING template;Korte Riddersstraat 17 1 2000 Antwerpen\n549260;ANTWERPEN-WEST - FH07;Korte Riddersstraat;23;3;2000;Antwerpen;152043,64;211900,89;NB-2000233c912;NB-2000233c912;BUILDING template;Korte Riddersstraat 23 3 2000 Antwerpen\n549262;ANTWERPEN-WEST - FH07;Korte Riddersstraat;21;;2000;Antwerpen;152020,2;211917,28;NB-20002101ea51;NB-20002101ea51;BUILDING template;Korte Riddersstraat 21 2000 Antwerpen\n549268;ANTWERPEN-WEST - FH07;Korte Riddersstraat;11;;2000;Antwerpen;152050,92;211966,53;NB-200011c89138;NB-200011c89138;BUILDING template;Korte Riddersstraat 11 2000 Antwerpen\n549275;ANTWERPEN-WEST - FH07;Korte Riddersstraat;13;;2000;Antwerpen;152045,76;211952,89;NB-200013a23e73;NB-200013a23e73;BUILDING template;Korte Riddersstraat 13 2000 Antwerpen\n467106;ANTWERPEN-WEST - FH07;Kronenburgstraat;17;;2000;Antwerpen;151837,82;211398,36;NB-200017fb7d57;NB-200017fb7d57;BUILDING template;Kronenburgstraat 17 2000 Antwerpen\n550312;ANTWERPEN-WEST - FH07;Scheldestraat;51;;2000;Antwerpen;151822,56;211327,48;NB-20005180e102;NB-20005180e102;BUILDING template;Scheldestraat 51 2000 Antwerpen\n375731;ANTWERPEN-WEST - FH07;Drukkerijstraat;12;;2000;Antwerpen;152113,71;211945,32;NB-200012742441;NB-200012742441;BUILDING template;Drukkerijstraat 12 2000 Antwerpen\n478399;ANTWERPEN-WEST - FH07;Prekersstraat;51;;2000;Antwerpen;151967,58;211581,05;NB-200051b2fd48;NB-200051b2fd48;BUILDING template;Prekersstraat 51 2000 Antwerpen\n478403;ANTWERPEN-WEST - FH07;Lange Riddersstraat;73;;2000;Antwerpen;151942,0;211725,27;NB-200073d1cf70;NB-200073d1cf70;BUILDING template;Lange Riddersstraat 73 2000 Antwerpen\n478407;ANTWERPEN-WEST - FH07;Lange Riddersstraat;65;;2000;Antwerpen;151939,66;211739,86;NB-200065fa2c36;NB-200065fa2c36;BUILDING template;Lange Riddersstraat 65 2000 Antwerpen\n516819;ANTWERPEN-WEST - FH07;Prekersstraat;2;;2000;Antwerpen;151825,19;211578,44;NB-200024ab474;NB-200024ab474;BUILDING template;Prekersstraat 2 2000 Antwerpen\n516831;ANTWERPEN-WEST - FH07;Prekersstraat;4;;2000;Antwerpen;151836,99;211548,3;NB-20004b26f58;NB-20004b26f58;BUILDING template;Prekersstraat 4 2000 Antwerpen\n516842;ANTWERPEN-WEST - FH07;Prekersstraat;6;;2000;Antwerpen;151841,99;211548,3;NB-20006fa5627;NB-20006fa5627;BUILDING template;Prekersstraat 6 2000 Antwerpen\n516853;ANTWERPEN-WEST - FH07;Prekersstraat;8;;2000;Antwerpen;151886,04;211566,15;NB-20008dbda69;NB-20008dbda69;BUILDING template;Prekersstraat 8 2000 Antwerpen\n ';
+        var g_str_filename = ' ANTWERPEN-WEST - FH07-coordinaten_pr-20200108.csv ';
+        
+        function setMarkerAdres(adres, key){
+            alert("Set marker on new location for\n\n" + key + "\n" + adres);
+            g_adres = adres;
+            g_key = key;
+        };
+        
+        
+        
+        function saveData(data, fileName) {
+//            alert(data);
+            var a = document.createElement('a');
+            document.body.appendChild(a);
+            a.style = 'display: none';
+
+            var json = JSON.stringify(data),
+            blob = new Blob([data], {type: 'text/plain;charset=utf-8'}),
+
+            url = window.URL.createObjectURL(blob);
+            a.href = url;
+
+            a.download = fileName;
+
+            a.click();
+
+            window.URL.revokeObjectURL(url);
+
+        }
+
+
+        function addToCsv(x,y){
+            if(g_adres !== ''){
+                                
+                x = x.toString().replace('.',',');
+                y = y.toString().replace('.',',');
+                
+                row = g_str_file.split('\n');
+
+                console.log(row);
+
+                header = row[0].split(';');
+                var index_of_xPos = 0;
+                var index_of_yPos = 0;
+
+                for (index = 0; index < header.length; index++) {
+                    if (header[index] == 'xPos'){
+                        index_of_xPos = index;
+                    }
+                    if (header[index] == 'yPos'){
+                        index_of_yPos = index;
+                    }
+                } 
+                console.log('index of xPos:' + index_of_xPos);
+                console.log('index of yPos:' + index_of_yPos);
+                
+                var index_of_key = 0
+
+                for (index = 0; index < row.length; index++) {
+                    if (row[index].includes(g_key)){
+                        index_of_key = index;
+                    }
+                } 
+                console.log('index of key:' + index_of_key);
+                console.log(row[index_of_key]);
+
+                row_to_change = row[index_of_key].split(';');
+                row_to_change[index_of_xPos] = x;
+                row_to_change[index_of_yPos] = y;
+                
+                row_changed = '';
+                for (index = 0; index < row_to_change.length; index++) {
+                    row_changed = row_changed + row_to_change[index] + ';';
+                } 
+                row_changed = row_changed.slice(0,-1);
+                
+                console.log('new row:' + row_changed);
+                
+                row[index_of_key] = row_changed;
+                
+                var csvdata = '';
+                for (index = 0; index < row.length; index++) {
+                    csvdata = csvdata + row[index] + '\n'
+                } 
+                
+
+                alert('Change xy for : ' + g_key + '\
+                   \n' + g_adres + ' \
+                   \n\nx: ' + x + '\ny: ' + y + '\
+                   \n\n' + row_changed 
+                   );
+                
+
+
+           //     saveData(csvdata,g_str_filename);                
+                g_str_file = csvdata;
+
+            }else{
+                alert('no key found!!');
+            }
+        };
+ 
+        function saveToCsv(){
+            alert('data to write: \n' + g_str_file);        
+            saveData(g_str_file,g_str_filename);                
+           
+        };
+
+        function newMarker(e){
+            
+	    var new_mark = L.marker().setLatLng(e.latlng).addTo(window[mapid]);
+	    new_mark.on('dblclick', function(e){ window[mapid].removeLayer(e.target)})
+
+            var lat = e.latlng.lat.toFixed(4);
+            var lng = e.latlng.lng.toFixed(4);
+            var xy = [];
+            xy = convertxy(lat, lng);
+            
+            var adres = g_adres;
+
+            new_mark.bindPopup("<b>"+ adres + "</b><br> \
+                    <u>" + g_key + "</u><BR><BR> \
+                    <i>lat, lng:</i> :: " + lat + ", " + lng + "<BR><BR> \
+                    <i>x, y:</i> :: " + xy[0] + ", " + xy[1] + "<BR><BR> \
+                    <a target='_blank' href='https://www.google.be/maps/place/" + g_adres + "/@" + lat + "," + lng + "'>Google Maps</a><hr> \
+                    <a href='#' onclick='addToCsv(" + '"' + xy[0] + '","' + xy[1] + '"' + ");'>Change</a>&nbsp;&nbsp \
+                    <a href='#' onclick='saveToCsv();'>Save to csv</a> \
+                    ");
+              };
+        
+        window[mapid].on('click', newMarker);
+        
+                 
+    
+        function addCss(fileName) {
+
+            var head = document.head;
+            var link = document.createElement('link');
+
+            link.type = 'text/css';
+            link.rel = 'stylesheet';
+            link.href = fileName;
+
+            head.appendChild(link);
+        }
+        addCss('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css');
+        addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+                        
+    
+            var feature_group_e570ca60cc264e9895e5c8f03fbd9a97 = L.featureGroup(
+                {}
+            ).addTo(map_d952e40493614c77bca7ba4a23f0f619);
+        
+    
+            var marker_9cfa960c88b943e0901c5c81e01b1474 = L.marker(
+                [51.21404663935814, 4.39567711916299],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_a6e31b13f68e4ab699e71a6335d503a7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_9cfa960c88b943e0901c5c81e01b1474.setIcon(icon_a6e31b13f68e4ab699e71a6335d503a7);
+        
+    
+        var popup_81697738700f404ba1e922ceb84eb59f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_85d292b38fa147a49452fab1c9cd40c3 = $(`<div id="html_85d292b38fa147a49452fab1c9cd40c3" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 10 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 10 /@4.39567711916299,51.21404663935814'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 10 ","NB-200010d9f738");'>Change Coords</a></div>`)[0];
+            popup_81697738700f404ba1e922ceb84eb59f.setContent(html_85d292b38fa147a49452fab1c9cd40c3);
+        
+
+        marker_9cfa960c88b943e0901c5c81e01b1474.bindPopup(popup_81697738700f404ba1e922ceb84eb59f)
+        ;
+
+        
+    
+    
+            var marker_590de9c901c54007880a4601460b542d = L.marker(
+                [51.21414301311533, 4.39441607227527],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_2f83399c512e4bada93aeeb4c2f911d5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_590de9c901c54007880a4601460b542d.setIcon(icon_2f83399c512e4bada93aeeb4c2f911d5);
+        
+    
+        var popup_4e048995582a40c795c3856be6765615 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8e637d62fbcf40fb903905dcdf8ae95d = $(`<div id="html_8e637d62fbcf40fb903905dcdf8ae95d" style="width: 100.0%; height: 100.0%;"><b>Kloosterstraat 143 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kloosterstraat 143 /@4.39441607227527,51.21414301311533'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kloosterstraat 143 ","NB-200014319ac20");'>Change Coords</a></div>`)[0];
+            popup_4e048995582a40c795c3856be6765615.setContent(html_8e637d62fbcf40fb903905dcdf8ae95d);
+        
+
+        marker_590de9c901c54007880a4601460b542d.bindPopup(popup_4e048995582a40c795c3856be6765615)
+        ;
+
+        
+    
+    
+            var marker_0a1088e7ac064dec8001a7bab4315c85 = L.marker(
+                [51.211986823958355, 4.393816387622681],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_14143b38f9e64a79bfbc801c073994b9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0a1088e7ac064dec8001a7bab4315c85.setIcon(icon_14143b38f9e64a79bfbc801c073994b9);
+        
+    
+        var popup_2212952b6b9c447db90e9342cd4d0ac6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_406c460fbbb44224b0c4f6e0f92b1b58 = $(`<div id="html_406c460fbbb44224b0c4f6e0f92b1b58" style="width: 100.0%; height: 100.0%;"><b>Scheldestraat 38 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Scheldestraat 38 /@4.393816387622681,51.211986823958355'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Scheldestraat 38 ","NB-200038c3b088");'>Change Coords</a></div>`)[0];
+            popup_2212952b6b9c447db90e9342cd4d0ac6.setContent(html_406c460fbbb44224b0c4f6e0f92b1b58);
+        
+
+        marker_0a1088e7ac064dec8001a7bab4315c85.bindPopup(popup_2212952b6b9c447db90e9342cd4d0ac6)
+        ;
+
+        
+    
+    
+            var marker_9ef1c648fe2a4c96ac1be15c72a7540c = L.marker(
+                [51.21468443413289, 4.396903552246608],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_e115c9d7c80f4eb18c492cfbf1b8ede9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_9ef1c648fe2a4c96ac1be15c72a7540c.setIcon(icon_e115c9d7c80f4eb18c492cfbf1b8ede9);
+        
+    
+        var popup_456fe5f39ac84f2c9bdf8c83ac564601 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a74537fcb0064d1db2f3ae423e0a0490 = $(`<div id="html_a74537fcb0064d1db2f3ae423e0a0490" style="width: 100.0%; height: 100.0%;"><b>Lange Vlierstraat 1 B</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Vlierstraat 1 B/@4.396903552246608,51.21468443413289'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Vlierstraat 1 B","NB-20001B0905");'>Change Coords</a></div>`)[0];
+            popup_456fe5f39ac84f2c9bdf8c83ac564601.setContent(html_a74537fcb0064d1db2f3ae423e0a0490);
+        
+
+        marker_9ef1c648fe2a4c96ac1be15c72a7540c.bindPopup(popup_456fe5f39ac84f2c9bdf8c83ac564601)
+        ;
+
+        
+    
+    
+            var marker_f3ef2b8aae744587aa66116f20707ba3 = L.marker(
+                [51.21195212891616, 4.394628205335685],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_ff82f287bb7e4b049fe95a8c7e000d19 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_f3ef2b8aae744587aa66116f20707ba3.setIcon(icon_ff82f287bb7e4b049fe95a8c7e000d19);
+        
+    
+        var popup_6d1f65d07eb0420b9d7b2469187847f0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3d9c925567a9482483d2a7e35e011be0 = $(`<div id="html_3d9c925567a9482483d2a7e35e011be0" style="width: 100.0%; height: 100.0%;"><b>Scheldestraat 47 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Scheldestraat 47 /@4.394628205335685,51.21195212891616'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Scheldestraat 47 ","NB-200047b3ba63");'>Change Coords</a></div>`)[0];
+            popup_6d1f65d07eb0420b9d7b2469187847f0.setContent(html_3d9c925567a9482483d2a7e35e011be0);
+        
+
+        marker_f3ef2b8aae744587aa66116f20707ba3.bindPopup(popup_6d1f65d07eb0420b9d7b2469187847f0)
+        ;
+
+        
+    
+    
+            var marker_9556ad08c7e14b0a8f098637b541b290 = L.marker(
+                [51.21739653743909, 4.39821966181337],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_daba641e718e4c8382f28342ce78d70d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_9556ad08c7e14b0a8f098637b541b290.setIcon(icon_daba641e718e4c8382f28342ce78d70d);
+        
+    
+        var popup_aa13ee31d1b04d928ea5b22cad229e9c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9f63007c63d74f178cf09c547d01fdae = $(`<div id="html_9f63007c63d74f178cf09c547d01fdae" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 15 1</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 15 1/@4.39821966181337,51.21739653743909'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 15 1","NB-20001512840");'>Change Coords</a></div>`)[0];
+            popup_aa13ee31d1b04d928ea5b22cad229e9c.setContent(html_9f63007c63d74f178cf09c547d01fdae);
+        
+
+        marker_9556ad08c7e14b0a8f098637b541b290.bindPopup(popup_aa13ee31d1b04d928ea5b22cad229e9c)
+        ;
+
+        
+    
+    
+            var marker_f57410fa677f46bb8e0d477c8c632d47 = L.marker(
+                [51.217178384171056, 4.3982382697331195],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_b9d9cd2dfd1943a098772947f0482d0a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_f57410fa677f46bb8e0d477c8c632d47.setIcon(icon_b9d9cd2dfd1943a098772947f0482d0a);
+        
+    
+        var popup_0afd9236d0164db9a4a51f570926e914 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_780f83ee98ed41e78bffbb353be39b5f = $(`<div id="html_780f83ee98ed41e78bffbb353be39b5f" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 17 1</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 17 1/@4.3982382697331195,51.217178384171056'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 17 1","NB-20001714835");'>Change Coords</a></div>`)[0];
+            popup_0afd9236d0164db9a4a51f570926e914.setContent(html_780f83ee98ed41e78bffbb353be39b5f);
+        
+
+        marker_f57410fa677f46bb8e0d477c8c632d47.bindPopup(popup_0afd9236d0164db9a4a51f570926e914)
+        ;
+
+        
+    
+    
+            var marker_a062b88aaf274daf96c4e7c0a180f29b = L.marker(
+                [51.21705485263404, 4.3980060475077805],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_97a86aef5739483cb267e08fa1d4d8fc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_a062b88aaf274daf96c4e7c0a180f29b.setIcon(icon_97a86aef5739483cb267e08fa1d4d8fc);
+        
+    
+        var popup_78bb8db98f854ec89fa8de5e0b93d247 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f0a24c16c94c4ba3bf4e9fc576b037f6 = $(`<div id="html_f0a24c16c94c4ba3bf4e9fc576b037f6" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 23 3</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 23 3/@4.3980060475077805,51.21705485263404'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 23 3","NB-2000233c912");'>Change Coords</a></div>`)[0];
+            popup_78bb8db98f854ec89fa8de5e0b93d247.setContent(html_f0a24c16c94c4ba3bf4e9fc576b037f6);
+        
+
+        marker_a062b88aaf274daf96c4e7c0a180f29b.bindPopup(popup_78bb8db98f854ec89fa8de5e0b93d247)
+        ;
+
+        
+    
+    
+            var marker_0abdd7dc55274265aab636fc5f170b0f = L.marker(
+                [51.21720225696443, 4.397670665298745],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_4783dc95b8f945f6bc0cd16061249bcc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0abdd7dc55274265aab636fc5f170b0f.setIcon(icon_4783dc95b8f945f6bc0cd16061249bcc);
+        
+    
+        var popup_e27faf15123249fd9eadb659283e52a5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_310d77a14aa74607a062434943bfe0d4 = $(`<div id="html_310d77a14aa74607a062434943bfe0d4" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 21 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 21 /@4.397670665298745,51.21720225696443'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 21 ","NB-20002101ea51");'>Change Coords</a></div>`)[0];
+            popup_e27faf15123249fd9eadb659283e52a5.setContent(html_310d77a14aa74607a062434943bfe0d4);
+        
+
+        marker_0abdd7dc55274265aab636fc5f170b0f.bindPopup(popup_e27faf15123249fd9eadb659283e52a5)
+        ;
+
+        
+    
+    
+            var marker_377d6673ae35409d8f8ed8a8bdb8dd4f = L.marker(
+                [51.21764482483202, 4.398110619535595],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_98511e473c4549f0ae935d186bba7b8b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_377d6673ae35409d8f8ed8a8bdb8dd4f.setIcon(icon_98511e473c4549f0ae935d186bba7b8b);
+        
+    
+        var popup_91144e03ee3243b087f3f45bed5d9d66 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b76ee3682fae4c7bb29383532b8806eb = $(`<div id="html_b76ee3682fae4c7bb29383532b8806eb" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 11 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 11 /@4.398110619535595,51.21764482483202'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 11 ","NB-200011c89138");'>Change Coords</a></div>`)[0];
+            popup_91144e03ee3243b087f3f45bed5d9d66.setContent(html_b76ee3682fae4c7bb29383532b8806eb);
+        
+
+        marker_377d6673ae35409d8f8ed8a8bdb8dd4f.bindPopup(popup_91144e03ee3243b087f3f45bed5d9d66)
+        ;
+
+        
+    
+    
+            var marker_61bebf90c4d44011b9b7c63426fb7d39 = L.marker(
+                [51.217522241792686, 4.398036689397883],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_e6f05506d83b4758b88a260af82c592d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_61bebf90c4d44011b9b7c63426fb7d39.setIcon(icon_e6f05506d83b4758b88a260af82c592d);
+        
+    
+        var popup_7ce8ce40ae4345378c7fabd2ee16296c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_19e4f6851e6c43c0bbda72a46de7b0dd = $(`<div id="html_19e4f6851e6c43c0bbda72a46de7b0dd" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 13 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 13 /@4.398036689397883,51.217522241792686'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 13 ","NB-200013a23e73");'>Change Coords</a></div>`)[0];
+            popup_7ce8ce40ae4345378c7fabd2ee16296c.setContent(html_19e4f6851e6c43c0bbda72a46de7b0dd);
+        
+
+        marker_61bebf90c4d44011b9b7c63426fb7d39.bindPopup(popup_7ce8ce40ae4345378c7fabd2ee16296c)
+        ;
+
+        
+    
+    
+            var marker_459fab21435f40569ce508f25c32f3b4 = L.marker(
+                [51.212538615965975, 4.395057717616418],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_afcd4f7dd5094f81bd85d4357458318d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_459fab21435f40569ce508f25c32f3b4.setIcon(icon_afcd4f7dd5094f81bd85d4357458318d);
+        
+    
+        var popup_21d8fb6af59745d78f86145b691b8101 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8eef28ad33374f1a907143170172ae8f = $(`<div id="html_8eef28ad33374f1a907143170172ae8f" style="width: 100.0%; height: 100.0%;"><b>Kronenburgstraat 17 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kronenburgstraat 17 /@4.395057717616418,51.212538615965975'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kronenburgstraat 17 ","NB-200017fb7d57");'>Change Coords</a></div>`)[0];
+            popup_21d8fb6af59745d78f86145b691b8101.setContent(html_8eef28ad33374f1a907143170172ae8f);
+        
+
+        marker_459fab21435f40569ce508f25c32f3b4.bindPopup(popup_21d8fb6af59745d78f86145b691b8101)
+        ;
+
+        
+    
+    
+            var marker_38265ac93d144293b6414bf28a682bdf = L.marker(
+                [51.21190156647526, 4.3948389705621285],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_78dfe9a0cf9e4e23bf36cfcde9d0bf79 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_38265ac93d144293b6414bf28a682bdf.setIcon(icon_78dfe9a0cf9e4e23bf36cfcde9d0bf79);
+        
+    
+        var popup_bfb573fc3c5740c585a627a2db526d57 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6537e891d7524349ab3fb6c7f2ee4026 = $(`<div id="html_6537e891d7524349ab3fb6c7f2ee4026" style="width: 100.0%; height: 100.0%;"><b>Scheldestraat 51 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Scheldestraat 51 /@4.3948389705621285,51.21190156647526'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Scheldestraat 51 ","NB-20005180e102");'>Change Coords</a></div>`)[0];
+            popup_bfb573fc3c5740c585a627a2db526d57.setContent(html_6537e891d7524349ab3fb6c7f2ee4026);
+        
+
+        marker_38265ac93d144293b6414bf28a682bdf.bindPopup(popup_bfb573fc3c5740c585a627a2db526d57)
+        ;
+
+        
+    
+    
+            var marker_2a1ccff7172a42149002e44fd871982d = L.marker(
+                [51.217453949214544, 4.399009161379965],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_e11ebc3aed274877ae3729b31309f3ff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_2a1ccff7172a42149002e44fd871982d.setIcon(icon_e11ebc3aed274877ae3729b31309f3ff);
+        
+    
+        var popup_5e142e62375a4617b8512ccdbd30050e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6b7b680d77e24bdfa8f81058f60971d2 = $(`<div id="html_6b7b680d77e24bdfa8f81058f60971d2" style="width: 100.0%; height: 100.0%;"><b>Drukkerijstraat 12 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Drukkerijstraat 12 /@4.399009161379965,51.217453949214544'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Drukkerijstraat 12 ","NB-200012742441");'>Change Coords</a></div>`)[0];
+            popup_5e142e62375a4617b8512ccdbd30050e.setContent(html_6b7b680d77e24bdfa8f81058f60971d2);
+        
+
+        marker_2a1ccff7172a42149002e44fd871982d.bindPopup(popup_5e142e62375a4617b8512ccdbd30050e)
+        ;
+
+        
+    
+    
+            var marker_0b4190faddc94484b79104e4fb0f1fa8 = L.marker(
+                [51.21418027113042, 4.396915691431589],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_7c7ab6db8fa6434faecd145ddc5ed483 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0b4190faddc94484b79104e4fb0f1fa8.setIcon(icon_7c7ab6db8fa6434faecd145ddc5ed483);
+        
+    
+        var popup_20b0f0c1131540638acec7ffdf0b0ba3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1bb7265ec68b445f921dad4ba1ff2c37 = $(`<div id="html_1bb7265ec68b445f921dad4ba1ff2c37" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 51 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 51 /@4.396915691431589,51.21418027113042'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 51 ","NB-200051b2fd48");'>Change Coords</a></div>`)[0];
+            popup_20b0f0c1131540638acec7ffdf0b0ba3.setContent(html_1bb7265ec68b445f921dad4ba1ff2c37);
+        
+
+        marker_0b4190faddc94484b79104e4fb0f1fa8.bindPopup(popup_20b0f0c1131540638acec7ffdf0b0ba3)
+        ;
+
+        
+    
+    
+            var marker_0d4c873c07cb4e83b350d3d1f2979e29 = L.marker(
+                [51.2154766682666, 4.396550401730426],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_c99d78ed18c64fb4bccdd26f4474f95d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0d4c873c07cb4e83b350d3d1f2979e29.setIcon(icon_c99d78ed18c64fb4bccdd26f4474f95d);
+        
+    
+        var popup_e25a342b9c1645b286cf45b7da44f123 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d47dd23275e34c7ca45175125aac3ac5 = $(`<div id="html_d47dd23275e34c7ca45175125aac3ac5" style="width: 100.0%; height: 100.0%;"><b>Lange Riddersstraat 73 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Riddersstraat 73 /@4.396550401730426,51.2154766682666'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Riddersstraat 73 ","NB-200073d1cf70");'>Change Coords</a></div>`)[0];
+            popup_e25a342b9c1645b286cf45b7da44f123.setContent(html_d47dd23275e34c7ca45175125aac3ac5);
+        
+
+        marker_0d4c873c07cb4e83b350d3d1f2979e29.bindPopup(popup_e25a342b9c1645b286cf45b7da44f123)
+        ;
+
+        
+    
+    
+            var marker_338e1ab7aa464403b17e36bc84199c08 = L.marker(
+                [51.21560781718409, 4.396516992505492],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_29d1d33467db4bd691978d7d5251914c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_338e1ab7aa464403b17e36bc84199c08.setIcon(icon_29d1d33467db4bd691978d7d5251914c);
+        
+    
+        var popup_386af265fe0c4a16b00bbfbfc6ec167c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_15f5fd6daf73452d9c6f1d5291a02526 = $(`<div id="html_15f5fd6daf73452d9c6f1d5291a02526" style="width: 100.0%; height: 100.0%;"><b>Lange Riddersstraat 65 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Riddersstraat 65 /@4.396516992505492,51.21560781718409'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Riddersstraat 65 ","NB-200065fa2c36");'>Change Coords</a></div>`)[0];
+            popup_386af265fe0c4a16b00bbfbfc6ec167c.setContent(html_15f5fd6daf73452d9c6f1d5291a02526);
+        
+
+        marker_338e1ab7aa464403b17e36bc84199c08.bindPopup(popup_386af265fe0c4a16b00bbfbfc6ec167c)
+        ;
+
+        
+    
+    
+            var marker_7bbe67c084654002b31d7d617887ead7 = L.marker(
+                [51.21415729080346, 4.394877903256941],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_53903f6170fd43c3b1b2d4dfed1b1279 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_7bbe67c084654002b31d7d617887ead7.setIcon(icon_53903f6170fd43c3b1b2d4dfed1b1279);
+        
+    
+        var popup_c417da2fddb54d2cb7c59114a051d222 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d1969e7d8b1c4930bd722b3a2ed2981f = $(`<div id="html_d1969e7d8b1c4930bd722b3a2ed2981f" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 2 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 2 /@4.394877903256941,51.21415729080346'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 2 ","NB-200024ab474");'>Change Coords</a></div>`)[0];
+            popup_c417da2fddb54d2cb7c59114a051d222.setContent(html_d1969e7d8b1c4930bd722b3a2ed2981f);
+        
+
+        marker_7bbe67c084654002b31d7d617887ead7.bindPopup(popup_c417da2fddb54d2cb7c59114a051d222)
+        ;
+
+        
+    
+    
+            var marker_692c1841ba6149f8979a7becdd23977f = L.marker(
+                [51.21388634165757, 4.39504661893754],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_5d03a75ab22144d79b9dad0811900813 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_692c1841ba6149f8979a7becdd23977f.setIcon(icon_5d03a75ab22144d79b9dad0811900813);
+        
+    
+        var popup_8ecf2a62cb344d6488b606557c97ae10 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0ddaafb7f40243eca48d3c1b4967b722 = $(`<div id="html_0ddaafb7f40243eca48d3c1b4967b722" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 4 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 4 /@4.39504661893754,51.21388634165757'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 4 ","NB-20004b26f58");'>Change Coords</a></div>`)[0];
+            popup_8ecf2a62cb344d6488b606557c97ae10.setContent(html_0ddaafb7f40243eca48d3c1b4967b722);
+        
+
+        marker_692c1841ba6149f8979a7becdd23977f.bindPopup(popup_8ecf2a62cb344d6488b606557c97ae10)
+        ;
+
+        
+    
+    
+            var marker_2dff0e2113be4dd5a39f36e4fc87d899 = L.marker(
+                [51.21388632531548, 4.395118174589245],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_eaf95a89ae4442f2993d46f9ab0bcf1d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_2dff0e2113be4dd5a39f36e4fc87d899.setIcon(icon_eaf95a89ae4442f2993d46f9ab0bcf1d);
+        
+    
+        var popup_79678f7027d34fb2a09a29832481fa1a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5ef49583dea8405884f22a8bd1351694 = $(`<div id="html_5ef49583dea8405884f22a8bd1351694" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 6 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 6 /@4.395118174589245,51.21388632531548'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 6 ","NB-20006fa5627");'>Change Coords</a></div>`)[0];
+            popup_79678f7027d34fb2a09a29832481fa1a.setContent(html_5ef49583dea8405884f22a8bd1351694);
+        
+
+        marker_2dff0e2113be4dd5a39f36e4fc87d899.bindPopup(popup_79678f7027d34fb2a09a29832481fa1a)
+        ;
+
+        
+    
+    
+            var marker_6eaeaff67bf144baba8ba7398e0d6e93 = L.marker(
+                [51.21404662263443, 4.39574867506042],
+                {}
+            ).addTo(feature_group_e570ca60cc264e9895e5c8f03fbd9a97);
+        
+    
+            var icon_c76dc121aaed4d07b3bd56d0f16c4826 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_6eaeaff67bf144baba8ba7398e0d6e93.setIcon(icon_c76dc121aaed4d07b3bd56d0f16c4826);
+        
+    
+        var popup_51428e29af4744bd977f87eb52467a49 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a57767d2f3da4b2f8ef38210fca97b78 = $(`<div id="html_a57767d2f3da4b2f8ef38210fca97b78" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 8 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 8 /@4.39574867506042,51.21404662263443'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 8 ","NB-20008dbda69");'>Change Coords</a></div>`)[0];
+            popup_51428e29af4744bd977f87eb52467a49.setContent(html_a57767d2f3da4b2f8ef38210fca97b78);
+        
+
+        marker_6eaeaff67bf144baba8ba7398e0d6e93.bindPopup(popup_51428e29af4744bd977f87eb52467a49)
+        ;
+
+        
+    
+    
+            var feature_group_aea222a6d7fd49628342fcd7028aae4d = L.featureGroup(
+                {}
+            ).addTo(map_d952e40493614c77bca7ba4a23f0f619);
+        
+    
+            var marker_1267d26fdc224082902b9320af551b6a = L.marker(
+                [51.21404663935814, 4.39567711916299],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_da1086c5570b4726abee66e155315d3c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_1267d26fdc224082902b9320af551b6a.setIcon(icon_da1086c5570b4726abee66e155315d3c);
+        
+    
+        var popup_9f8bf32921f343c182e12c21e9f9a8c1 = L.popup({"maxWidth": 330});
+
+        
+            var html_a19acfe2ce524248b98ab60a7d622dc2 = $(`<div id="html_a19acfe2ce524248b98ab60a7d622dc2" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 10 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 10 /@4.39567711916299,51.21404663935814'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 10 ","NB-200010d9f738");'>Change Coords</a></div>`)[0];
+            popup_9f8bf32921f343c182e12c21e9f9a8c1.setContent(html_a19acfe2ce524248b98ab60a7d622dc2);
+        
+
+        marker_1267d26fdc224082902b9320af551b6a.bindPopup(popup_9f8bf32921f343c182e12c21e9f9a8c1)
+        ;
+
+        
+    
+    
+            var marker_017bf34c013043e6a2c79abb09843d60 = L.marker(
+                [51.21414301311533, 4.39441607227527],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_e29c5b03d205490899ad682e9d27c619 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_017bf34c013043e6a2c79abb09843d60.setIcon(icon_e29c5b03d205490899ad682e9d27c619);
+        
+    
+        var popup_c15ccf10a7874088bb9a2776b01480c3 = L.popup({"maxWidth": 330});
+
+        
+            var html_7ac3e274c7c8494c910c4d4ec6add005 = $(`<div id="html_7ac3e274c7c8494c910c4d4ec6add005" style="width: 100.0%; height: 100.0%;"><b>Kloosterstraat 143 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kloosterstraat 143 /@4.39441607227527,51.21414301311533'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kloosterstraat 143 ","NB-200014319ac20");'>Change Coords</a></div>`)[0];
+            popup_c15ccf10a7874088bb9a2776b01480c3.setContent(html_7ac3e274c7c8494c910c4d4ec6add005);
+        
+
+        marker_017bf34c013043e6a2c79abb09843d60.bindPopup(popup_c15ccf10a7874088bb9a2776b01480c3)
+        ;
+
+        
+    
+    
+            var marker_7583419a9fc34d52b9f479c6c656a3ee = L.marker(
+                [51.211986823958355, 4.393816387622681],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_115f7cc21b034eabb50d9d129af476d6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_7583419a9fc34d52b9f479c6c656a3ee.setIcon(icon_115f7cc21b034eabb50d9d129af476d6);
+        
+    
+        var popup_fae53de5ba024267a4eca54279252965 = L.popup({"maxWidth": 330});
+
+        
+            var html_81bc836f12b8494c92d33dec5f1ccb08 = $(`<div id="html_81bc836f12b8494c92d33dec5f1ccb08" style="width: 100.0%; height: 100.0%;"><b>Scheldestraat 38 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Scheldestraat 38 /@4.393816387622681,51.211986823958355'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Scheldestraat 38 ","NB-200038c3b088");'>Change Coords</a></div>`)[0];
+            popup_fae53de5ba024267a4eca54279252965.setContent(html_81bc836f12b8494c92d33dec5f1ccb08);
+        
+
+        marker_7583419a9fc34d52b9f479c6c656a3ee.bindPopup(popup_fae53de5ba024267a4eca54279252965)
+        ;
+
+        
+    
+    
+            var marker_172d484c020c430e9d8a253b2bba90ba = L.marker(
+                [51.21468443413289, 4.396903552246608],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_7de1592545734a86bd1b804c54c21711 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_172d484c020c430e9d8a253b2bba90ba.setIcon(icon_7de1592545734a86bd1b804c54c21711);
+        
+    
+        var popup_b6e1572787f74be486b8cc377203567d = L.popup({"maxWidth": 330});
+
+        
+            var html_f05f31f033ab4e1497b929a1b80f2db2 = $(`<div id="html_f05f31f033ab4e1497b929a1b80f2db2" style="width: 100.0%; height: 100.0%;"><b>Lange Vlierstraat 1 B</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Vlierstraat 1 B/@4.396903552246608,51.21468443413289'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Vlierstraat 1 B","NB-20001B0905");'>Change Coords</a></div>`)[0];
+            popup_b6e1572787f74be486b8cc377203567d.setContent(html_f05f31f033ab4e1497b929a1b80f2db2);
+        
+
+        marker_172d484c020c430e9d8a253b2bba90ba.bindPopup(popup_b6e1572787f74be486b8cc377203567d)
+        ;
+
+        
+    
+    
+            var marker_3671e7505d3b41c7bc6ea6157b4d51c6 = L.marker(
+                [51.21195212891616, 4.394628205335685],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_6ab21b05f96c44ea94bac21ab6036c3b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_3671e7505d3b41c7bc6ea6157b4d51c6.setIcon(icon_6ab21b05f96c44ea94bac21ab6036c3b);
+        
+    
+        var popup_6ec130e25c5f4fe39b51fc50826ceef2 = L.popup({"maxWidth": 330});
+
+        
+            var html_1306a7c00e94455eb674616703f994ab = $(`<div id="html_1306a7c00e94455eb674616703f994ab" style="width: 100.0%; height: 100.0%;"><b>Scheldestraat 47 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Scheldestraat 47 /@4.394628205335685,51.21195212891616'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Scheldestraat 47 ","NB-200047b3ba63");'>Change Coords</a></div>`)[0];
+            popup_6ec130e25c5f4fe39b51fc50826ceef2.setContent(html_1306a7c00e94455eb674616703f994ab);
+        
+
+        marker_3671e7505d3b41c7bc6ea6157b4d51c6.bindPopup(popup_6ec130e25c5f4fe39b51fc50826ceef2)
+        ;
+
+        
+    
+    
+            var marker_d0b5e1aefbb94e738d59a806dd9fc540 = L.marker(
+                [51.21739653743909, 4.39821966181337],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_c3d207897a3b48a08175fd8457b903f9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_d0b5e1aefbb94e738d59a806dd9fc540.setIcon(icon_c3d207897a3b48a08175fd8457b903f9);
+        
+    
+        var popup_0fe339f904ae4f39819a01004303a1cd = L.popup({"maxWidth": 330});
+
+        
+            var html_52614f131ab64db6bb5bbd8c0ddcd9db = $(`<div id="html_52614f131ab64db6bb5bbd8c0ddcd9db" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 15 1</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 15 1/@4.39821966181337,51.21739653743909'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 15 1","NB-20001512840");'>Change Coords</a></div>`)[0];
+            popup_0fe339f904ae4f39819a01004303a1cd.setContent(html_52614f131ab64db6bb5bbd8c0ddcd9db);
+        
+
+        marker_d0b5e1aefbb94e738d59a806dd9fc540.bindPopup(popup_0fe339f904ae4f39819a01004303a1cd)
+        ;
+
+        
+    
+    
+            var marker_2c4be99703534623ae66e41854a67e93 = L.marker(
+                [51.217178384171056, 4.3982382697331195],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_27119aaaf09c42b3af3bd89759fd08b5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_2c4be99703534623ae66e41854a67e93.setIcon(icon_27119aaaf09c42b3af3bd89759fd08b5);
+        
+    
+        var popup_ba05b1d081dd440a8de4405a8cd1d105 = L.popup({"maxWidth": 330});
+
+        
+            var html_8ea8ef7dc7304ac0856b53d365357386 = $(`<div id="html_8ea8ef7dc7304ac0856b53d365357386" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 17 1</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 17 1/@4.3982382697331195,51.217178384171056'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 17 1","NB-20001714835");'>Change Coords</a></div>`)[0];
+            popup_ba05b1d081dd440a8de4405a8cd1d105.setContent(html_8ea8ef7dc7304ac0856b53d365357386);
+        
+
+        marker_2c4be99703534623ae66e41854a67e93.bindPopup(popup_ba05b1d081dd440a8de4405a8cd1d105)
+        ;
+
+        
+    
+    
+            var marker_10c12be7a36842189b0d94c790f0b00d = L.marker(
+                [51.21705485263404, 4.3980060475077805],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_62e635b97d284e61a06f0f306b8fcf44 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_10c12be7a36842189b0d94c790f0b00d.setIcon(icon_62e635b97d284e61a06f0f306b8fcf44);
+        
+    
+        var popup_4603a29a8e224453a8d471796a8dd971 = L.popup({"maxWidth": 330});
+
+        
+            var html_1257e14ba15c4246819b4f57149d5b17 = $(`<div id="html_1257e14ba15c4246819b4f57149d5b17" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 23 3</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 23 3/@4.3980060475077805,51.21705485263404'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 23 3","NB-2000233c912");'>Change Coords</a></div>`)[0];
+            popup_4603a29a8e224453a8d471796a8dd971.setContent(html_1257e14ba15c4246819b4f57149d5b17);
+        
+
+        marker_10c12be7a36842189b0d94c790f0b00d.bindPopup(popup_4603a29a8e224453a8d471796a8dd971)
+        ;
+
+        
+    
+    
+            var marker_bec410cdb08c4538af639caec4fbb2d4 = L.marker(
+                [51.21720225696443, 4.397670665298745],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_147cc42c81f346cf819cc60d0283b4a3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bec410cdb08c4538af639caec4fbb2d4.setIcon(icon_147cc42c81f346cf819cc60d0283b4a3);
+        
+    
+        var popup_518a937b694e4569a770fd897dfc1c14 = L.popup({"maxWidth": 330});
+
+        
+            var html_d9d9beb99d864843a02b64ae5bd915f9 = $(`<div id="html_d9d9beb99d864843a02b64ae5bd915f9" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 21 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 21 /@4.397670665298745,51.21720225696443'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 21 ","NB-20002101ea51");'>Change Coords</a></div>`)[0];
+            popup_518a937b694e4569a770fd897dfc1c14.setContent(html_d9d9beb99d864843a02b64ae5bd915f9);
+        
+
+        marker_bec410cdb08c4538af639caec4fbb2d4.bindPopup(popup_518a937b694e4569a770fd897dfc1c14)
+        ;
+
+        
+    
+    
+            var marker_4e75e3269a87412cb38cd67b15f86640 = L.marker(
+                [51.21764482483202, 4.398110619535595],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_5f9934b59bef4b4aa32d80e7da371e5f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_4e75e3269a87412cb38cd67b15f86640.setIcon(icon_5f9934b59bef4b4aa32d80e7da371e5f);
+        
+    
+        var popup_a597505fc91f40a79c30aa273f7f724e = L.popup({"maxWidth": 330});
+
+        
+            var html_e4333b66769d43bc956d5b407d79820e = $(`<div id="html_e4333b66769d43bc956d5b407d79820e" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 11 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 11 /@4.398110619535595,51.21764482483202'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 11 ","NB-200011c89138");'>Change Coords</a></div>`)[0];
+            popup_a597505fc91f40a79c30aa273f7f724e.setContent(html_e4333b66769d43bc956d5b407d79820e);
+        
+
+        marker_4e75e3269a87412cb38cd67b15f86640.bindPopup(popup_a597505fc91f40a79c30aa273f7f724e)
+        ;
+
+        
+    
+    
+            var marker_ca7af2f89a9a4de3b5337cf951428947 = L.marker(
+                [51.217522241792686, 4.398036689397883],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_78f418588ead416a9088632aa715f397 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_ca7af2f89a9a4de3b5337cf951428947.setIcon(icon_78f418588ead416a9088632aa715f397);
+        
+    
+        var popup_0640e0d1474641879d890337b9401654 = L.popup({"maxWidth": 330});
+
+        
+            var html_d0f0bb4ca1e341348f6afad0890bd678 = $(`<div id="html_d0f0bb4ca1e341348f6afad0890bd678" style="width: 100.0%; height: 100.0%;"><b>Korte Riddersstraat 13 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Korte Riddersstraat 13 /@4.398036689397883,51.217522241792686'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Korte Riddersstraat 13 ","NB-200013a23e73");'>Change Coords</a></div>`)[0];
+            popup_0640e0d1474641879d890337b9401654.setContent(html_d0f0bb4ca1e341348f6afad0890bd678);
+        
+
+        marker_ca7af2f89a9a4de3b5337cf951428947.bindPopup(popup_0640e0d1474641879d890337b9401654)
+        ;
+
+        
+    
+    
+            var marker_8b4e3b9a0ccf4d94953c312ae1d77e86 = L.marker(
+                [51.212538615965975, 4.395057717616418],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_09eef9a64c924fb88feef76523ba740a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_8b4e3b9a0ccf4d94953c312ae1d77e86.setIcon(icon_09eef9a64c924fb88feef76523ba740a);
+        
+    
+        var popup_ed91500318b2479a9bf7bb3eedda2896 = L.popup({"maxWidth": 330});
+
+        
+            var html_0e56204c3b984f938c081b2c1262f7af = $(`<div id="html_0e56204c3b984f938c081b2c1262f7af" style="width: 100.0%; height: 100.0%;"><b>Kronenburgstraat 17 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kronenburgstraat 17 /@4.395057717616418,51.212538615965975'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kronenburgstraat 17 ","NB-200017fb7d57");'>Change Coords</a></div>`)[0];
+            popup_ed91500318b2479a9bf7bb3eedda2896.setContent(html_0e56204c3b984f938c081b2c1262f7af);
+        
+
+        marker_8b4e3b9a0ccf4d94953c312ae1d77e86.bindPopup(popup_ed91500318b2479a9bf7bb3eedda2896)
+        ;
+
+        
+    
+    
+            var marker_fc5ae0621c6149d9b97a335dc6e8e66c = L.marker(
+                [51.21190156647526, 4.3948389705621285],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_05dbf5f20c6147ef8a0575c78a3c6206 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_fc5ae0621c6149d9b97a335dc6e8e66c.setIcon(icon_05dbf5f20c6147ef8a0575c78a3c6206);
+        
+    
+        var popup_0fdba8f693b3414c8b6101b0dcc7617d = L.popup({"maxWidth": 330});
+
+        
+            var html_82fabac1429a4845af366820219c2342 = $(`<div id="html_82fabac1429a4845af366820219c2342" style="width: 100.0%; height: 100.0%;"><b>Scheldestraat 51 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Scheldestraat 51 /@4.3948389705621285,51.21190156647526'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Scheldestraat 51 ","NB-20005180e102");'>Change Coords</a></div>`)[0];
+            popup_0fdba8f693b3414c8b6101b0dcc7617d.setContent(html_82fabac1429a4845af366820219c2342);
+        
+
+        marker_fc5ae0621c6149d9b97a335dc6e8e66c.bindPopup(popup_0fdba8f693b3414c8b6101b0dcc7617d)
+        ;
+
+        
+    
+    
+            var marker_6f7a373ed7b745f7ae3dba5bd4915367 = L.marker(
+                [51.217453949214544, 4.399009161379965],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_27f54ec45a56482da2bd225f1366b87c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_6f7a373ed7b745f7ae3dba5bd4915367.setIcon(icon_27f54ec45a56482da2bd225f1366b87c);
+        
+    
+        var popup_e7a16b2a468644e4a5feaaf758b7ca04 = L.popup({"maxWidth": 330});
+
+        
+            var html_a1b3011ee56242c48940ec56ac9c64ff = $(`<div id="html_a1b3011ee56242c48940ec56ac9c64ff" style="width: 100.0%; height: 100.0%;"><b>Drukkerijstraat 12 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Drukkerijstraat 12 /@4.399009161379965,51.217453949214544'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Drukkerijstraat 12 ","NB-200012742441");'>Change Coords</a></div>`)[0];
+            popup_e7a16b2a468644e4a5feaaf758b7ca04.setContent(html_a1b3011ee56242c48940ec56ac9c64ff);
+        
+
+        marker_6f7a373ed7b745f7ae3dba5bd4915367.bindPopup(popup_e7a16b2a468644e4a5feaaf758b7ca04)
+        ;
+
+        
+    
+    
+            var marker_b5c2b9e283674a6592663474154f2a8a = L.marker(
+                [51.21418027113042, 4.396915691431589],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_2a9ab7180e1942978976e87e44c35f28 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_b5c2b9e283674a6592663474154f2a8a.setIcon(icon_2a9ab7180e1942978976e87e44c35f28);
+        
+    
+        var popup_cfe4449241224aefa2de5376ad4e4dc3 = L.popup({"maxWidth": 330});
+
+        
+            var html_1c748f45e9cf4db89e407e4bff83a4c2 = $(`<div id="html_1c748f45e9cf4db89e407e4bff83a4c2" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 51 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 51 /@4.396915691431589,51.21418027113042'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 51 ","NB-200051b2fd48");'>Change Coords</a></div>`)[0];
+            popup_cfe4449241224aefa2de5376ad4e4dc3.setContent(html_1c748f45e9cf4db89e407e4bff83a4c2);
+        
+
+        marker_b5c2b9e283674a6592663474154f2a8a.bindPopup(popup_cfe4449241224aefa2de5376ad4e4dc3)
+        ;
+
+        
+    
+    
+            var marker_840070b1d67246c6a097005812e5de77 = L.marker(
+                [51.2154766682666, 4.396550401730426],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_f51cd65d4ee7406dbdf5f8dbb14411b6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_840070b1d67246c6a097005812e5de77.setIcon(icon_f51cd65d4ee7406dbdf5f8dbb14411b6);
+        
+    
+        var popup_c237a72bb0a34e0bbcce4c6e378dca8e = L.popup({"maxWidth": 330});
+
+        
+            var html_4c2dac948a2a4930a71f0694c74c0f15 = $(`<div id="html_4c2dac948a2a4930a71f0694c74c0f15" style="width: 100.0%; height: 100.0%;"><b>Lange Riddersstraat 73 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Riddersstraat 73 /@4.396550401730426,51.2154766682666'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Riddersstraat 73 ","NB-200073d1cf70");'>Change Coords</a></div>`)[0];
+            popup_c237a72bb0a34e0bbcce4c6e378dca8e.setContent(html_4c2dac948a2a4930a71f0694c74c0f15);
+        
+
+        marker_840070b1d67246c6a097005812e5de77.bindPopup(popup_c237a72bb0a34e0bbcce4c6e378dca8e)
+        ;
+
+        
+    
+    
+            var marker_e1bafc9ba7c84d48ae6da6794a90ae1a = L.marker(
+                [51.21560781718409, 4.396516992505492],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_ca72fc6f908141e9ae02e23b060088f1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_e1bafc9ba7c84d48ae6da6794a90ae1a.setIcon(icon_ca72fc6f908141e9ae02e23b060088f1);
+        
+    
+        var popup_606bb43d42814789920dd82f826ace0c = L.popup({"maxWidth": 330});
+
+        
+            var html_b26f7cd56fac40209ec2af74e529c8c7 = $(`<div id="html_b26f7cd56fac40209ec2af74e529c8c7" style="width: 100.0%; height: 100.0%;"><b>Lange Riddersstraat 65 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Riddersstraat 65 /@4.396516992505492,51.21560781718409'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Riddersstraat 65 ","NB-200065fa2c36");'>Change Coords</a></div>`)[0];
+            popup_606bb43d42814789920dd82f826ace0c.setContent(html_b26f7cd56fac40209ec2af74e529c8c7);
+        
+
+        marker_e1bafc9ba7c84d48ae6da6794a90ae1a.bindPopup(popup_606bb43d42814789920dd82f826ace0c)
+        ;
+
+        
+    
+    
+            var marker_c9f69f0afa2f4511900a0b0163ff8347 = L.marker(
+                [51.21415729080346, 4.394877903256941],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_07572fd2548b4697880bebd5b666972e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_c9f69f0afa2f4511900a0b0163ff8347.setIcon(icon_07572fd2548b4697880bebd5b666972e);
+        
+    
+        var popup_55ee8a54f6134bc796e6cd2bc2179dbf = L.popup({"maxWidth": 330});
+
+        
+            var html_719bc7ab224141bf886fb4a53e6444dc = $(`<div id="html_719bc7ab224141bf886fb4a53e6444dc" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 2 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 2 /@4.394877903256941,51.21415729080346'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 2 ","NB-200024ab474");'>Change Coords</a></div>`)[0];
+            popup_55ee8a54f6134bc796e6cd2bc2179dbf.setContent(html_719bc7ab224141bf886fb4a53e6444dc);
+        
+
+        marker_c9f69f0afa2f4511900a0b0163ff8347.bindPopup(popup_55ee8a54f6134bc796e6cd2bc2179dbf)
+        ;
+
+        
+    
+    
+            var marker_6953559942274c3195a92ff6a4b4f476 = L.marker(
+                [51.21388634165757, 4.39504661893754],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_8c3049cd33f34143bf31b0602b8388e0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_6953559942274c3195a92ff6a4b4f476.setIcon(icon_8c3049cd33f34143bf31b0602b8388e0);
+        
+    
+        var popup_9bce02b4d8d1411cabb3f4c0af2d78f6 = L.popup({"maxWidth": 330});
+
+        
+            var html_89308b8b8223460caa795f3b535d86ca = $(`<div id="html_89308b8b8223460caa795f3b535d86ca" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 4 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 4 /@4.39504661893754,51.21388634165757'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 4 ","NB-20004b26f58");'>Change Coords</a></div>`)[0];
+            popup_9bce02b4d8d1411cabb3f4c0af2d78f6.setContent(html_89308b8b8223460caa795f3b535d86ca);
+        
+
+        marker_6953559942274c3195a92ff6a4b4f476.bindPopup(popup_9bce02b4d8d1411cabb3f4c0af2d78f6)
+        ;
+
+        
+    
+    
+            var marker_070581437028491182caa87b9d0727c3 = L.marker(
+                [51.21388632531548, 4.395118174589245],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_759b5e33fc404cd983ba68d0d3182a60 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_070581437028491182caa87b9d0727c3.setIcon(icon_759b5e33fc404cd983ba68d0d3182a60);
+        
+    
+        var popup_a6f7f965091741a9ae5acddd50f1a44d = L.popup({"maxWidth": 330});
+
+        
+            var html_97d5d33c4140455582cb0f4dae9b13ed = $(`<div id="html_97d5d33c4140455582cb0f4dae9b13ed" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 6 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 6 /@4.395118174589245,51.21388632531548'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 6 ","NB-20006fa5627");'>Change Coords</a></div>`)[0];
+            popup_a6f7f965091741a9ae5acddd50f1a44d.setContent(html_97d5d33c4140455582cb0f4dae9b13ed);
+        
+
+        marker_070581437028491182caa87b9d0727c3.bindPopup(popup_a6f7f965091741a9ae5acddd50f1a44d)
+        ;
+
+        
+    
+    
+            var marker_a87a612312b2483c90b38f495abe6544 = L.marker(
+                [51.21404662263443, 4.39574867506042],
+                {}
+            ).addTo(feature_group_aea222a6d7fd49628342fcd7028aae4d);
+        
+    
+            var icon_bbd43b97573c4765a7ddf0243a85a1f5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_a87a612312b2483c90b38f495abe6544.setIcon(icon_bbd43b97573c4765a7ddf0243a85a1f5);
+        
+    
+        var popup_b891ff7e00814f5391f41efd001a00d8 = L.popup({"maxWidth": 330});
+
+        
+            var html_8dc1ecda3cd04f20bcec154f268b8c12 = $(`<div id="html_8dc1ecda3cd04f20bcec154f268b8c12" style="width: 100.0%; height: 100.0%;"><b>Prekersstraat 8 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Prekersstraat 8 /@4.39574867506042,51.21404662263443'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Prekersstraat 8 ","NB-20008dbda69");'>Change Coords</a></div>`)[0];
+            popup_b891ff7e00814f5391f41efd001a00d8.setContent(html_8dc1ecda3cd04f20bcec154f268b8c12);
+        
+
+        marker_a87a612312b2483c90b38f495abe6544.bindPopup(popup_b891ff7e00814f5391f41efd001a00d8)
+        ;
+
+        
+    
+    
+            var feature_group_1e54c3b97e7f4593bc580447ceb88bbe = L.featureGroup(
+                {}
+            ).addTo(map_d952e40493614c77bca7ba4a23f0f619);
+        
+    
+            var layer_control_3fce21a9298344d0bf6d97644e90ff22 = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_688f24afe66f4095ace815382c89bf4a,
+                },
+                overlays :  {
+                    "Antwerpen-West-FH07" : geo_json_43c3211980e040e9aa915f3f13dac2ae,
+                    "New Builings" : feature_group_e570ca60cc264e9895e5c8f03fbd9a97,
+                    "Street Survey" : feature_group_aea222a6d7fd49628342fcd7028aae4d,
+                    "Site Survey" : feature_group_1e54c3b97e7f4593bc580447ceb88bbe,
+                },
+            };
+            L.control.layers(
+                layer_control_3fce21a9298344d0bf6d97644e90ff22.base_layers,
+                layer_control_3fce21a9298344d0bf6d97644e90ff22.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_d952e40493614c77bca7ba4a23f0f619);
+        
+</script>

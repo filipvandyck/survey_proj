@@ -1,0 +1,27 @@
+<ogr:FeatureCollection xsi:schemaLocation="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://ogr.maptools.org/" xmlns:gml="http://www.opengis.net/gml">
+   <gml:boundedBy>
+      <gml:Box>
+         <gml:coord>
+            <gml:X>22265.44963750511</gml:X>
+            <gml:Y>21162.98653703742</gml:Y>
+         </gml:coord>
+         <gml:coord>
+            <gml:X>295157.4067411629</gml:X>
+            <gml:Y>244027.902640108</gml:Y>
+         </gml:coord>
+      </gml:Box>
+   </gml:boundedBy>
+   <gml:featureMember>
+      <ogr:zoning fid="6807323">
+         <ogr:zoningName>W03-C-Antwerpen-West-FH07</ogr:zoningName>
+         <ogr:zoningId>19084</ogr:zoningId>
+         <ogr:technologyCode>FTTH-Cu</ogr:technologyCode>
+         <ogr:typeCode>RESSMECOR</ogr:typeCode>
+         <ogr:layoutCode>MIX</ogr:layoutCode>
+         <ogr:phase></ogr:phase>
+         <ogr:comment></ogr:comment>
+         <ogr:geometryProperty>
+         <gml:Polygon srsName="EPSG:31370" xmlns:gml="http://www.opengis.net/gml"><gml:exterior><gml:LinearRing><gml:posList srsDimension="3">152101.70018425 212148.440606419 0.0 152047.728813283 212177.105898883 0.0 151987.710857186 212075.433689675 0.0 151970.690839785 212045.872606821 0.0 151973.602158551 212037.362598121 0.0 151907.537617325 211944.42434521 0.0 151878.872324861 211914.415367161 0.0 151864.807092055 211895.75072381 0.0 151851.774665578 211847.678983143 0.0 151838.113862138 211803.785254057 0.0 151806.761198506 211702.336992446 0.0 151798.475137403 211685.093027448 0.0 151771.37747812 211605.815577977 0.0 151763.315364615 211554.083682983 0.0 151764.435102602 211529.673394869 0.0 151771.37747812 211396.42457443 0.0 151770.637087565 211338.255726935 0.0 151778.371217767 211084.738828445 0.0 151783.690331188 211090.748930884 0.0 151984.063829346 211345.748009547 0.0 152060.936647169 211593.563958838 0.0 152105.850165347 211739.188920362 0.0 152127.360566591 211813.249473989 0.0 152141.058387507 211857.974781305 0.0 152193.675073918 211965.124533505 0.0 152199.949800913 211977.802086323 0.0 152208.146641822 211994.878838216 0.0 152249.750843495 212080.285994129 0.0 152206.723873414 212091.746347892 0.0 152206.871221915 212094.131359754 0.0 152153.45607363 212120.21821032 0.0 152101.70018425 212148.440606419 0.0 </gml:posList></gml:LinearRing></gml:exterior></gml:Polygon>        </ogr:geometryProperty>
+      </ogr:zoning>
+   </gml:featureMember>
+</ogr:FeatureCollection>

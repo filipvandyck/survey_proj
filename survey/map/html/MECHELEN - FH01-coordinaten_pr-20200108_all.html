@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c1a234b3857e4565af1769948e9ee3af {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_c1a234b3857e4565af1769948e9ee3af" ></div>
+        
+</body>
+<script>    
+    
+            var map_c1a234b3857e4565af1769948e9ee3af = L.map(
+                "map_c1a234b3857e4565af1769948e9ee3af",
+                {
+                    center: [51.0271015226728, 4.48044454302693],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_cfabe5a0b8934723926dffb96872e035 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_c1a234b3857e4565af1769948e9ee3af);
+        
+    
+        function geo_json_b54225f966f94b528c633aebfb9f53f8_onEachFeature(feature, layer) {
+            layer.on({
+                click: function(e) {
+                    map_c1a234b3857e4565af1769948e9ee3af.fitBounds(e.target.getBounds());
+                }
+            });
+        };
+        var geo_json_b54225f966f94b528c633aebfb9f53f8 = L.geoJson(null, {
+                onEachFeature: geo_json_b54225f966f94b528c633aebfb9f53f8_onEachFeature,
+            
+        }).addTo(map_c1a234b3857e4565af1769948e9ee3af);
+            geo_json_b54225f966f94b528c633aebfb9f53f8.addData({"crs": {"properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}, "type": "name"}, "features": [{"geometry": {"coordinates": [[[4.472059647553164, 51.02895894640361, -9.05909768e-06], [4.472027166188664, 51.028874042843036, -9.05909768e-06], [4.47214005436624, 51.02863553716818, -9.05909768e-06], [4.472400936076697, 51.028363126188154, -9.05909768e-06], [4.472781550082658, 51.02809855473526, -9.05909768e-06], [4.472926358867773, 51.028048758100574, -9.05909768e-06], [4.473341782519903, 51.027855675949134, -9.05909768e-06], [4.474112910014359, 51.027535122418165, -9.05909768e-06], [4.475003682420017, 51.02718862812807, -9.05909768e-06], [4.475469467921807, 51.02698357229522, -9.05909768e-06], [4.475642514195544, 51.02688606509197, -9.05909768e-06], [4.476119137358372, 51.026601528044665, -9.05909768e-06], [4.476424411526719, 51.02646813773724, -9.05909768e-06], [4.47693408467685, 51.02617561983311, -9.05909768e-06], [4.477275550159992, 51.026028286553824, -9.05909768e-06], [4.477396669464681, 51.02595665252395, -9.05909768e-06], [4.477572950548218, 51.02589887380972, -9.05909768e-06], [4.477768205097642, 51.02587187125192, -9.05909768e-06], [4.477950691018056, 51.02577335863813, -9.05909768e-06], [4.478260885666673, 51.02572737422051, -9.05909768e-06], [4.478695313852444, 51.025595843405505, -9.05909768e-06], [4.47889831788618, 51.0255161837652, -9.05909768e-06], [4.479148370272337, 51.02535005728063, -9.05909768e-06], [4.479366814214131, 51.02514025192825, -9.05909768e-06], [4.479577250241062, 51.02487581888994, -9.05909768e-06], [4.479698100233207, 51.02469391983267, -9.05909768e-06], [4.479997945114692, 51.024275430643605, -9.05909768e-06], [4.480049669108994, 51.02416909183805, -9.05909768e-06], [4.480091942342255, 51.0240627619972, -9.05909768e-06], [4.48016079152527, 51.023872964771435, -9.05909768e-06], [4.480391715341309, 51.023617451485705, -9.05909768e-06], [4.48062064111695, 51.023436856782375, -9.05909768e-06], [4.481133013857012, 51.02364922982494, -9.05909768e-06], [4.481317222641255, 51.02351822244403, -9.05909768e-06], [4.48148238755329, 51.02342866065157, -9.05909768e-06], [4.481583603743173, 51.02338074406794, -9.05909768e-06], [4.481516100741964, 51.023324152532595, -9.05909768e-06], [4.481601099534454, 51.02318953937018, -9.05909768e-06], [4.481756708808058, 51.023197302637506, -9.05909768e-06], [4.481919827648699, 51.02319714503096, -9.05909768e-06], [4.481899623565353, 51.023364683431126, -9.05909768e-06], [4.481881628624418, 51.02348444537653, -9.05909768e-06], [4.481754355294251, 51.02348591668762, -9.05909768e-06], [4.481734576599446, 51.02350242324282, -9.05909768e-06], [4.481660209466676, 51.02350444325431, -9.05909768e-06], [4.481661398978459, 51.02352832097421, -9.05909768e-06], [4.481637099960133, 51.0235755293283, -9.05909768e-06], [4.481631683701456, 51.02361526895549, -9.05909768e-06], [4.481439616801503, 51.02365320152572, -9.05909768e-06], [4.481338178728391, 51.02371687430134, -9.05909768e-06], [4.48138470370116, 51.02374166346936, -9.05909768e-06], [4.481331271817758, 51.02379187933027, -9.05909768e-06], [4.481360439459301, 51.02380377164603, -9.05909768e-06], [4.481312850985009, 51.023845203993716, -9.05909768e-06], [4.481451263666027, 51.02390997386948, -9.05909768e-06], [4.481419839531839, 51.023941791421876, -9.05909768e-06], [4.481437185305911, 51.023950218413795, -9.05909768e-06], [4.48134286974788, 51.02402828820682, -9.05909768e-06], [4.481310525359932, 51.02401391654395, -9.05909768e-06], [4.48119050896557, 51.02411443979016, -9.05909768e-06], [4.481075538257085, 51.024207846167485, -9.05909768e-06], [4.481439848822335, 51.024371036536145, -9.05909768e-06], [4.481357622689436, 51.02456850279553, -9.05909768e-06], [4.481267685414839, 51.02466988814768, -9.05909768e-06], [4.481145847527959, 51.02462399688379, -9.05909768e-06], [4.480878202358929, 51.02483832259166, -9.05909768e-06], [4.480895664576075, 51.02485135861238, -9.05909768e-06], [4.481020804231846, 51.02486103289988, -9.05909768e-06], [4.481113830988861, 51.02490018142509, -9.05909768e-06], [4.481127988169607, 51.02489271732503, -9.05909768e-06], [4.481287934912099, 51.024922861162835, -9.05909768e-06], [4.481266477471729, 51.02497677921291, -9.05909768e-06], [4.481340886165331, 51.02499929891602, -9.05909768e-06], [4.481270131532741, 51.025051021711576, -9.05909768e-06], [4.481210223270454, 51.025158419515506, -9.05909768e-06], [4.481340532930036, 51.02522806927755, -9.05909768e-06], [4.48126394585262, 51.02533867148494, -9.05909768e-06], [4.481256726083217, 51.025369903384664, -9.05909768e-06], [4.480856298893986, 51.025262219899794, -9.05909768e-06], [4.480645745072792, 51.0254400238364, -9.05909768e-06], [4.480304387825564, 51.02553238565041, -9.05909768e-06], [4.480235084018398, 51.02589446407801, -9.05909768e-06], [4.480127589910318, 51.02608454546523, -9.05909768e-06], [4.480153859954292, 51.026150815484385, -9.05909768e-06], [4.480706568140524, 51.02617008485373, -9.05909768e-06], [4.480707537149405, 51.02624557939208, -9.05909768e-06], [4.480718565374022, 51.0262465620223, -9.05909768e-06], [4.480719184704641, 51.02634017496446, -9.05909768e-06], [4.480224967324547, 51.02636111902915, -9.05909768e-06], [4.480092933927965, 51.02638987954639, -9.05909768e-06], [4.479981663810273, 51.02642711026781, -9.05909768e-06], [4.480086889968899, 51.026560073079835, -9.05909768e-06], [4.480143181266664, 51.026694471059514, -9.05909768e-06], [4.480256315966894, 51.02687558875741, -9.05909768e-06], [4.480399459599153, 51.02684635954201, -9.05909768e-06], [4.480417812703139, 51.026866475736476, -9.05909768e-06], [4.480536498302893, 51.026845731597476, -9.05909768e-06], [4.480562763815855, 51.026901674215274, -9.05909768e-06], [4.48057860933386, 51.026933485562026, -9.05909768e-06], [4.480588128331711, 51.026988347697056, -9.05909768e-06], [4.480643407618156, 51.02708900259296, -9.05909768e-06], [4.48061979648716, 51.02709597852278, -9.05909768e-06], [4.480540217253268, 51.02709986874033, -9.05909768e-06], [4.480496995762024, 51.0271224200538, -9.05909768e-06], [4.480496234545124, 51.02713334796319, -9.05909768e-06], [4.480450596305827, 51.02715077492719, -9.05909768e-06], [4.480483748139405, 51.027186914788324, -9.05909768e-06], [4.480519170368062, 51.02717306041904, -9.05909768e-06], [4.480525567451263, 51.02721328525484, -9.05909768e-06], [4.480568888709327, 51.027214733645195, -9.05909768e-06], [4.480565074660523, 51.027266392004826, -9.05909768e-06], [4.480531999135296, 51.027267913918884, -9.05909768e-06], [4.48054095867912, 51.02739108169119, -9.05909768e-06], [4.480582057347429, 51.027385015412136, -9.05909768e-06], [4.4805976135702, 51.02769698200946, -9.05909768e-06], [4.481011099188568, 51.02769459925565, -9.05909768e-06], [4.481011450635227, 51.0275138077091, -9.05909768e-06], [4.481022812068721, 51.027483216502056, -9.05909768e-06], [4.481063594995884, 51.027482781872244, -9.05909768e-06], [4.481072519494671, 51.0273933551351, -9.05909768e-06], [4.481100943184151, 51.02739406252129, -9.05909768e-06], [4.481105227995599, 51.02743353203762, -9.05909768e-06], [4.481146286191297, 51.027428494132124, -9.05909768e-06], [4.481311313613147, 51.027433083808965, -9.05909768e-06], [4.481321386053681, 51.02744692284209, -9.05909768e-06], [4.481664044304186, 51.02745698803905, -9.05909768e-06], [4.481652579402885, 51.027281142282874, -9.05909768e-06], [4.481652215499377, 51.027257865338136, -9.05909768e-06], [4.481730604992016, 51.027241171347804, -9.05909768e-06], [4.481737374127773, 51.027254170050256, -9.05909768e-06], [4.481871129440465, 51.027232330671076, -9.05909768e-06], [4.48200886777009, 51.02722898815173, -9.05909768e-06], [4.481980979649859, 51.02712361051738, -9.05909768e-06], [4.482009177269417, 51.027120745108476, -9.05909768e-06], [4.482094943363992, 51.027099722467334, -9.05909768e-06], [4.482092296619333, 51.02702141078852, -9.05909768e-06], [4.482085811714263, 51.02701509286767, -9.05909768e-06], [4.482091083704777, 51.0269855293507, -9.05909768e-06], [4.482108376563938, 51.02693358445463, -9.05909768e-06], [4.482352234123295, 51.026930385630145, -9.05909768e-06], [4.482425217187661, 51.026626934889414, -9.05909768e-06], [4.482361877048588, 51.026627455411216, -9.05909768e-06], [4.482364184626563, 51.02659676679483, -9.05909768e-06], [4.482219368022934, 51.026593565365005, -9.05909768e-06], [4.482211437401626, 51.026581288669384, -9.05909768e-06], [4.482221675353349, 51.02651027248003, -9.05909768e-06], [4.482112921650183, 51.02649798078603, -9.05909768e-06], [4.482053081467225, 51.0265858124903, -9.05909768e-06], [4.481859792301627, 51.02656898556573, -9.05909768e-06], [4.481835932823566, 51.02656188622897, -9.05909768e-06], [4.481779465935111, 51.02656273232988, -9.05909768e-06], [4.481768824998656, 51.02657303013335, -9.05909768e-06], [4.481571748242973, 51.02654631381616, -9.05909768e-06], [4.481584762498393, 51.02647982728584, -9.05909768e-06], [4.481651434557731, 51.026289045438276, -9.05909768e-06], [4.481758776280014, 51.02599127793464, -9.05909768e-06], [4.482050481928042, 51.026033446917324, -9.05909768e-06], [4.482086689859726, 51.025958628409825, -9.05909768e-06], [4.482226170351272, 51.025870230080336, -9.05909768e-06], [4.482307858859043, 51.02581164383959, -9.05909768e-06], [4.482339020357282, 51.025756638503324, -9.05909768e-06], [4.482285589129921, 51.02570421199841, -9.05909768e-06], [4.482330271763218, 51.02562876154936, -9.05909768e-06], [4.482343129003028, 51.02559359724304, -9.05909768e-06], [4.482366265331713, 51.025547529464454, -9.05909768e-06], [4.482266336812253, 51.02552775729443, -9.05909768e-06], [4.482300051967801, 51.02546006351836, -9.05909768e-06], [4.482361483180798, 51.02546973022312, -9.05909768e-06], [4.482476245414122, 51.02541518058485, -9.05909768e-06], [4.482502511334906, 51.0253803357631, -9.05909768e-06], [4.482646533162731, 51.025136456739695, -9.05909768e-06], [4.482311621199735, 51.02505883352603, -9.05909768e-06], [4.48233454788639, 51.02500519667892, -9.05909768e-06], [4.482298538275387, 51.02490373998669, -9.05909768e-06], [4.482292555892146, 51.02480564080162, -9.05909768e-06], [4.482257497130344, 51.02479734214437, -9.05909768e-06], [4.482317817849561, 51.024668824226424, -9.05909768e-06], [4.48217804421822, 51.024633211899236, -9.05909768e-06], [4.48218111410068, 51.024605511458596, -9.05909768e-06], [4.482229833689491, 51.024516436506936, -9.05909768e-06], [4.482308923684934, 51.02453179110587, -9.05909768e-06], [4.482345819829962, 51.024482295699954, -9.05909768e-06], [4.482404582980485, 51.02439518899919, -9.05909768e-06], [4.482529518195506, 51.0244290959236, -9.05909768e-06], [4.482607309479652, 51.024426646148896, -9.05909768e-06], [4.482603892477728, 51.02431229840193, -9.05909768e-06], [4.482559963281565, 51.02430759285934, -9.05909768e-06], [4.482554999098681, 51.0240733551535, -9.05909768e-06], [4.482542549632955, 51.02385693069837, -9.05909768e-06], [4.482619079933816, 51.02385210800816, -9.05909768e-06], [4.482612649502882, 51.02378840985417, -9.05909768e-06], [4.48257155996174, 51.02368718627955, -9.05909768e-06], [4.482549677112948, 51.02369271700235, -9.05909768e-06], [4.482504497638155, 51.023583281266475, -9.05909768e-06], [4.48234063335825, 51.02338508102564, -9.05909768e-06], [4.482396487032029, 51.0231349573893, -9.05909768e-06], [4.482503706459384, 51.02311859501083, -9.05909768e-06], [4.482932208446971, 51.02304095660197, -9.05909768e-06], [4.483160675320346, 51.02299169755688, -9.05909768e-06], [4.483564175980419, 51.02293360407463, -9.05909768e-06], [4.483787112379485, 51.02291478542238, -9.05909768e-06], [4.48401736107929, 51.02291510798318, -9.05909768e-06], [4.484257132055115, 51.02369926564897, -9.05909768e-06], [4.483465207353322, 51.02383351561273, -9.05909768e-06], [4.483177977472966, 51.024606344158634, -9.05909768e-06], [4.483204885789096, 51.024609460896585, -9.05909768e-06], [4.483194515525537, 51.0246290827556, -9.05909768e-06], [4.483171038278981, 51.024625014224036, -9.05909768e-06], [4.483111677709969, 51.02482573109513, -9.05909768e-06], [4.483155123772665, 51.024878833723164, -9.05909768e-06], [4.482923664456829, 51.02555454422588, -9.05909768e-06], [4.482892575438626, 51.02572344551138, -9.05909768e-06], [4.482464950606735, 51.02670132731667, -9.05909768e-06], [4.482429209699196, 51.02690102702015, -9.05909768e-06], [4.482339795106893, 51.02705309789745, -9.05909768e-06], [4.482294153998316, 51.02706903581089, -9.05909768e-06], [4.482075070284128, 51.027661290158015, -9.05909768e-06], [4.482443735287513, 51.02768874665693, -9.05909768e-06], [4.482881797073932, 51.02775189544249, -9.05909768e-06], [4.483244192021888, 51.02779127590846, -9.05909768e-06], [4.483455215258304, 51.027769215518305, -9.05909768e-06], [4.483754494600453, 51.02776494806906, -9.05909768e-06], [4.48374522489951, 51.02783846569424, -9.05909768e-06], [4.483745730359042, 51.028043097116296, -9.05909768e-06], [4.483692639110223, 51.02823188753354, -9.05909768e-06], [4.4835910475266, 51.02848289806601, -9.05909768e-06], [4.483454674461274, 51.028828136034704, -9.05909768e-06], [4.483814339903902, 51.029034401840356, -9.05909768e-06], [4.484139244715399, 51.02919699265136, -9.05909768e-06], [4.483639122691341, 51.02952529259637, -9.05909768e-06], [4.483274228740759, 51.02975610954229, -9.05909768e-06], [4.482947332149307, 51.03006635636304, -9.05909768e-06], [4.482884486475169, 51.030133965937274, -9.05909768e-06], [4.482966718205642, 51.03026302268221, -9.05909768e-06], [4.482639627345558, 51.03049578706438, -9.05909768e-06], [4.482413114318017, 51.03063110376215, -9.05909768e-06], [4.482624816579062, 51.030881224228345, -9.05909768e-06], [4.482928718976599, 51.031468995704174, -9.05909768e-06], [4.481650625950297, 51.03191327271748, -9.05909768e-06], [4.48143319942896, 51.031901562418916, -9.05909768e-06], [4.481023312412466, 51.03177877955919, -9.05909768e-06], [4.480271373058348, 51.031569900257864, -9.05909768e-06], [4.480225534126687, 51.031505375204524, -9.05909768e-06], [4.480123163884548, 51.03151639981766, -9.05909768e-06], [4.480120069962934, 51.031540243450216, -9.05909768e-06], [4.480016896371778, 51.03187410953464, -9.05909768e-06], [4.479566265394582, 51.03183976972466, -9.05909768e-06], [4.479074576831786, 51.03176374569569, -9.05909768e-06], [4.478482026841794, 51.03166993370159, -9.05909768e-06], [4.477883202904074, 51.03158705118873, -9.05909768e-06], [4.47756324292836, 51.03151582758893, -9.05909768e-06], [4.477266872271934, 51.03142670073278, -9.05909768e-06], [4.476852240607546, 51.031289007869574, -9.05909768e-06], [4.476500708368676, 51.03118800912329, -9.05909768e-06], [4.475942651467787, 51.03101766461907, -9.05909768e-06], [4.475517001794719, 51.03088097031203, -9.05909768e-06], [4.475119674776926, 51.03072835510964, -9.05909768e-06], [4.474725381855339, 51.030524081160245, -9.05909768e-06], [4.474394113913509, 51.030323722260405, -9.05909768e-06], [4.474160507309852, 51.03011930121383, -9.05909768e-06], [4.473705910823697, 51.0297144196433, -9.05909768e-06], [4.47342187982497, 51.02950010887395, -9.05909768e-06], [4.473106252283957, 51.02924410436106, -9.05909768e-06], [4.472844595461068, 51.02917082897896, -9.05909768e-06], [4.472579770915131, 51.029089608739916, -9.05909768e-06], [4.472059647553164, 51.02895894640361, -9.05909768e-06]]], "type": "Polygon"}, "properties": {"fid": "6833207", "layoutCode": "MIX", "technologyCode": "FTTH-Cu", "typeCode": "RESSMECOR", "zoningId": 19106, "zoningName": "W03-D-Mechelen-FH01"}, "type": "Feature"}], "type": "FeatureCollection"});
+        
+    
+
+    //    http://zoologie.umons.ac.be/tc/algorithms.aspx#c2
+
+        function convertBelgianDatum(Lat,Lng){
+		var Haut = 0;      
+		var LatBel; var LngBel;
+		var DLat; var DLng;
+		var Rm; var Rn; 
+		var LWb; var LWe2;
+		var SinLat; var SinLng;
+		var CoSinLat; var CoSinLng;
+		var Adb;
+
+		var dx = 125.8;
+		var dy = -79.9;
+		var dz = 100.5;
+		var da = 251.0;
+		var df = 0.000014192702;
+
+		var LWf = 1 / 297;
+		var LWa = 6378388;
+		LWb = (1 - LWf) * LWa;
+		LWe2 = (2 * LWf) - (LWf * LWf);
+		Adb = 1 / (1 - LWf);
+
+		Lat = (Math.PI / 180) * Lat;
+		Lng = (Math.PI / 180) * Lng;
+
+		SinLat = Math.sin(Lat);
+		SinLng = Math.sin(Lng);
+		CoSinLat = Math.cos(Lat);
+		CoSinLng = Math.cos(Lng);
+
+	 
+		Rn = LWa / Math.sqrt(1 - LWe2 * SinLat * SinLat);
+		Rm = LWa * (1 - LWe2) / (1 - LWe2 * Lat * Lat) ^ 1.5;
+		 
+		DLat = -dx * SinLat * CoSinLng - dy * SinLat * SinLng + dz * CoSinLat;
+		DLat = DLat + da * (Rn * LWe2 * SinLat * CoSinLat) / LWa;
+		DLat = DLat + df * (Rm * Adb + Rn / Adb) * SinLat * CoSinLat;
+		DLat = DLat / (Rm + Haut);
+		 
+		DLng = (-dx * SinLng + dy * CoSinLng) / ((Rn + Haut) * CoSinLat);
+
+		 
+		LatBel = ((Lat + DLat) * 180) / Math.PI;
+		LngBel = ((Lng + DLng) * 180) / Math.PI;
+
+		return Array(LatBel, LngBel);
+	}
+
+	
+
+        function convertxy(lat,lng){
+		dat = convertBelgianDatum(lat,lng);
+		lat = dat[0]; 
+		lng = dat[1];
+
+		var LongRef = 0.076042943;
+
+
+		var bLamb = 6378388 * (1 - (1 / 297));
+   		var aCarre = Math.pow(6378388,2);
+   		var eCarre = (aCarre - Math.pow(bLamb,2)) / aCarre;
+   		var KLamb = 11565915.812935;
+		var nLamb = 0.7716421928;
+ 
+   		var eLamb = Math.sqrt(eCarre);
+   		var eSur2 = eLamb / 2;
+ 
+		lat = (Math.PI / 180) * lat;
+   		lng = (Math.PI / 180) * lng;
+
+		
+ 
+   		var eSinLatitude = eLamb * Math.sin(lat);
+   		var TanZDemi = ( Math.tan((Math.PI / 4) - (lat / 2)) ) * ( Math.pow( ((1 + eSinLatitude) / (1 - eSinLatitude)), eSur2) );
+
+
+   		var RLamb = KLamb * (Math.pow(TanZDemi, nLamb));
+ 
+   		var Teta = nLamb * (lng - LongRef);
+		 
+   		 
+		var CX = 150000 + 0.01256 + RLamb * Math.sin(Teta - 0.000142043);
+   		var CY = 5400000 + 88.4378 - RLamb * Math.cos(Teta - 0.000142043);            
+                
+                CX = CX.toFixed(4);
+                CY = CY.toFixed(4);
+
+            	return Array(CX, CY);
+
+        };
+
+        var mapid = document.getElementsByClassName('folium-map')[0].id;
+        var g_adres = '';
+        var g_key = '';
+        var g_file = ' C:\Users\hb-fidy\Desktop\Python\survey_proj\survey/coordinates\MECHELEN - FH01-coordinaten_pr-20200108.csv ';
+        var g_str_file = '  OpdrachtID;Projectnummer;Straat;Huisnummer;Huisnummer Toevoeging;Postcode;Plaats;xPos;yPos;Opdrachtnummer;LAM MK;Opdrachttemplate;Adres\n598582;MECHELEN - FH01;Geitestraat;27;B;2800;Mechelen;157835,67;190774,02;NB-280027B1b79;NB-280027B1b79;BUILDING template;Geitestraat 27 B 2800 Mechelen\n598585;MECHELEN - FH01;Goswin de Stassartstraat;29;A;2800;Mechelen;157799,24;191262,11;NB-280029A4526;NB-280029A4526;BUILDING template;Goswin de Stassartstraat 29 A 2800 Mechelen\n598588;MECHELEN - FH01;Lange Schipstraat;76;A;2800;Mechelen;157835,96;190425,52;NB-280076A0a43;NB-280076A0a43;BUILDING template;Lange Schipstraat 76 A 2800 Mechelen\n598591;MECHELEN - FH01;Leermarkt;22;;2800;Mechelen;157994,99;190658,31;NB-280022d19b99;NB-280022d19b99;BUILDING template;Leermarkt 22 2800 Mechelen\n  ';
+        var g_str_filename = ' MECHELEN - FH01-coordinaten_pr-20200108.csv ';
+        
+        function setMarkerAdres(adres, key){
+            alert("Set marker on new location for\n\n" + key + "\n" + adres);
+            g_adres = adres;
+            g_key = key;
+        };
+        
+        
+        
+        function saveData(data, fileName) {
+//            alert(data);
+            var a = document.createElement('a');
+            document.body.appendChild(a);
+            a.style = 'display: none';
+
+            var json = JSON.stringify(data),
+            blob = new Blob([data], {type: 'text/plain;charset=utf-8'}),
+
+            url = window.URL.createObjectURL(blob);
+            a.href = url;
+
+            a.download = fileName;
+
+            a.click();
+
+            window.URL.revokeObjectURL(url);
+
+        }
+
+
+        function addToCsv(x,y){
+            if(g_adres !== ''){
+                                
+                x = x.toString().replace('.',',');
+                y = y.toString().replace('.',',');
+                
+                row = g_str_file.split('\n');
+
+                console.log(row);
+
+                header = row[0].split(';');
+                var index_of_xPos = 0;
+                var index_of_yPos = 0;
+
+                for (index = 0; index < header.length; index++) {
+                    if (header[index] == 'xPos'){
+                        index_of_xPos = index;
+                    }
+                    if (header[index] == 'yPos'){
+                        index_of_yPos = index;
+                    }
+                } 
+                console.log('index of xPos:' + index_of_xPos);
+                console.log('index of yPos:' + index_of_yPos);
+                
+                var index_of_key = 0
+
+                for (index = 0; index < row.length; index++) {
+                    if (row[index].includes(g_key)){
+                        index_of_key = index;
+                    }
+                } 
+                console.log('index of key:' + index_of_key);
+                console.log(row[index_of_key]);
+
+                row_to_change = row[index_of_key].split(';');
+                row_to_change[index_of_xPos] = x;
+                row_to_change[index_of_yPos] = y;
+                
+                row_changed = '';
+                for (index = 0; index < row_to_change.length; index++) {
+                    row_changed = row_changed + row_to_change[index] + ';';
+                } 
+                row_changed = row_changed.slice(0,-1);
+                
+                console.log('new row:' + row_changed);
+                
+                row[index_of_key] = row_changed;
+                
+                var csvdata = '';
+                for (index = 0; index < row.length; index++) {
+                    csvdata = csvdata + row[index] + '\n'
+                } 
+                
+
+                alert('Change xy for : ' + g_key + '\
+                   \n' + g_adres + ' \
+                   \n\nx: ' + x + '\ny: ' + y + '\
+                   \n\n' + row_changed 
+                   );
+                
+
+
+           //     saveData(csvdata,g_str_filename);                
+                g_str_file = csvdata;
+
+            }else{
+                alert('no key found!!');
+            }
+        };
+ 
+        function saveToCsv(){
+            alert('data to write: \n' + g_str_file);        
+            saveData(g_str_file,g_str_filename);                
+           
+        };
+
+        function newMarker(e){
+            
+	    var new_mark = L.marker().setLatLng(e.latlng).addTo(window[mapid]);
+	    new_mark.on('dblclick', function(e){ window[mapid].removeLayer(e.target)})
+
+            var lat = e.latlng.lat.toFixed(4);
+            var lng = e.latlng.lng.toFixed(4);
+            var xy = [];
+            xy = convertxy(lat, lng);
+            
+            var adres = g_adres;
+
+            new_mark.bindPopup("<b>"+ adres + "</b><br> \
+                    <u>" + g_key + "</u><BR><BR> \
+                    <i>lat, lng:</i> :: " + lat + ", " + lng + "<BR><BR> \
+                    <i>x, y:</i> :: " + xy[0] + ", " + xy[1] + "<BR><BR> \
+                    <a target='_blank' href='https://www.google.be/maps/place/" + g_adres + "/@" + lat + "," + lng + "'>Google Maps</a><hr> \
+                    <a href='#' onclick='addToCsv(" + '"' + xy[0] + '","' + xy[1] + '"' + ");'>Change</a>&nbsp;&nbsp \
+                    <a href='#' onclick='saveToCsv();'>Save to csv</a> \
+                    ");
+              };
+        
+        window[mapid].on('click', newMarker);
+        
+                 
+    
+        function addCss(fileName) {
+
+            var head = document.head;
+            var link = document.createElement('link');
+
+            link.type = 'text/css';
+            link.rel = 'stylesheet';
+            link.href = fileName;
+
+            head.appendChild(link);
+        }
+        addCss('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css');
+        addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+                        
+    
+            var feature_group_350782407842428486f199bfbaec0248 = L.featureGroup(
+                {}
+            ).addTo(map_c1a234b3857e4565af1769948e9ee3af);
+        
+    
+            var marker_9a5e8ab090134c7db21a6da31bc24551 = L.marker(
+                [51.0271015226728, 4.48044454302693],
+                {}
+            ).addTo(feature_group_350782407842428486f199bfbaec0248);
+        
+    
+            var icon_18689d77261b437da55f02e370511f1f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_9a5e8ab090134c7db21a6da31bc24551.setIcon(icon_18689d77261b437da55f02e370511f1f);
+        
+    
+        var popup_0af000c325864798b2c7565bdbf4162e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fd2a6d5668ef48e2942dee71cc3ecf1b = $(`<div id="html_fd2a6d5668ef48e2942dee71cc3ecf1b" style="width: 100.0%; height: 100.0%;"><b>Geitestraat 27 B</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Geitestraat 27 B/@4.48044454302693,51.0271015226728'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Geitestraat 27 B","NB-280027B1b79");'>Change Coords</a></div>`)[0];
+            popup_0af000c325864798b2c7565bdbf4162e.setContent(html_fd2a6d5668ef48e2942dee71cc3ecf1b);
+        
+
+        marker_9a5e8ab090134c7db21a6da31bc24551.bindPopup(popup_0af000c325864798b2c7565bdbf4162e)
+        ;
+
+        
+    
+    
+            var marker_f00383a2cc984af9b46391f73a02aa29 = L.marker(
+                [51.03148945956342, 4.479935749106344],
+                {}
+            ).addTo(feature_group_350782407842428486f199bfbaec0248);
+        
+    
+            var icon_ce390774842e41b0bd377eb1e37e7e96 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_f00383a2cc984af9b46391f73a02aa29.setIcon(icon_ce390774842e41b0bd377eb1e37e7e96);
+        
+    
+        var popup_2185118590ef4da6b7b55b8ea80615c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_60a1c4a7beb6466fbe098463f6e80caf = $(`<div id="html_60a1c4a7beb6466fbe098463f6e80caf" style="width: 100.0%; height: 100.0%;"><b>Goswin de Stassartstraat 29 A</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Goswin de Stassartstraat 29 A/@4.479935749106344,51.03148945956342'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Goswin de Stassartstraat 29 A","NB-280029A4526");'>Change Coords</a></div>`)[0];
+            popup_2185118590ef4da6b7b55b8ea80615c3.setContent(html_60a1c4a7beb6466fbe098463f6e80caf);
+        
+
+        marker_f00383a2cc984af9b46391f73a02aa29.bindPopup(popup_2185118590ef4da6b7b55b8ea80615c3)
+        ;
+
+        
+    
+    
+            var marker_558a59ca277e4f75bd2099aa08fe5780 = L.marker(
+                [51.023968847278866, 4.480441159901997],
+                {}
+            ).addTo(feature_group_350782407842428486f199bfbaec0248);
+        
+    
+            var icon_f71aa2ece50b4c80ab19a47d85070774 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_558a59ca277e4f75bd2099aa08fe5780.setIcon(icon_f71aa2ece50b4c80ab19a47d85070774);
+        
+    
+        var popup_d46747aec3904cf7aaaa690d8e1429d0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8ac559760ad142d5a83f21387554b57f = $(`<div id="html_8ac559760ad142d5a83f21387554b57f" style="width: 100.0%; height: 100.0%;"><b>Lange Schipstraat 76 A</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Schipstraat 76 A/@4.480441159901997,51.023968847278866'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Schipstraat 76 A","NB-280076A0a43");'>Change Coords</a></div>`)[0];
+            popup_d46747aec3904cf7aaaa690d8e1429d0.setContent(html_8ac559760ad142d5a83f21387554b57f);
+        
+
+        marker_558a59ca277e4f75bd2099aa08fe5780.bindPopup(popup_d46747aec3904cf7aaaa690d8e1429d0)
+        ;
+
+        
+    
+    
+            var marker_984573dbffae419b97936e0830002ffd = L.marker(
+                [51.02605921520603, 4.482712948149241],
+                {}
+            ).addTo(feature_group_350782407842428486f199bfbaec0248);
+        
+    
+            var icon_affa18eaf9b945c6950fe13c6cd89bd2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_984573dbffae419b97936e0830002ffd.setIcon(icon_affa18eaf9b945c6950fe13c6cd89bd2);
+        
+    
+        var popup_f55776cf3ad24e13b97a3a3e49e54867 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c91dbe2fa6464139801b5fa3680203dc = $(`<div id="html_c91dbe2fa6464139801b5fa3680203dc" style="width: 100.0%; height: 100.0%;"><b>Leermarkt 22 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Leermarkt 22 /@4.482712948149241,51.02605921520603'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Leermarkt 22 ","NB-280022d19b99");'>Change Coords</a></div>`)[0];
+            popup_f55776cf3ad24e13b97a3a3e49e54867.setContent(html_c91dbe2fa6464139801b5fa3680203dc);
+        
+
+        marker_984573dbffae419b97936e0830002ffd.bindPopup(popup_f55776cf3ad24e13b97a3a3e49e54867)
+        ;
+
+        
+    
+    
+            var feature_group_bb599c1f25c649a1b0670369117dd74d = L.featureGroup(
+                {}
+            ).addTo(map_c1a234b3857e4565af1769948e9ee3af);
+        
+    
+            var marker_6e6922d87f3c4026aad4e86774bf719c = L.marker(
+                [51.0271015226728, 4.48044454302693],
+                {}
+            ).addTo(feature_group_bb599c1f25c649a1b0670369117dd74d);
+        
+    
+            var icon_23079f4dc0e24fc59fd078f8b8c6bb29 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_6e6922d87f3c4026aad4e86774bf719c.setIcon(icon_23079f4dc0e24fc59fd078f8b8c6bb29);
+        
+    
+        var popup_0582374cd88c445d9ad61031cb6ef927 = L.popup({"maxWidth": 330});
+
+        
+            var html_e0f64bc19bab4b54b2d36a967be6f8b0 = $(`<div id="html_e0f64bc19bab4b54b2d36a967be6f8b0" style="width: 100.0%; height: 100.0%;"><b>Geitestraat 27 B</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Geitestraat 27 B/@4.48044454302693,51.0271015226728'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Geitestraat 27 B","NB-280027B1b79");'>Change Coords</a></div>`)[0];
+            popup_0582374cd88c445d9ad61031cb6ef927.setContent(html_e0f64bc19bab4b54b2d36a967be6f8b0);
+        
+
+        marker_6e6922d87f3c4026aad4e86774bf719c.bindPopup(popup_0582374cd88c445d9ad61031cb6ef927)
+        ;
+
+        
+    
+    
+            var marker_5a0222bc24274933ba721058120763ed = L.marker(
+                [51.03148945956342, 4.479935749106344],
+                {}
+            ).addTo(feature_group_bb599c1f25c649a1b0670369117dd74d);
+        
+    
+            var icon_ce2740b59d194fa59e3f7c6bffe3c5a7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_5a0222bc24274933ba721058120763ed.setIcon(icon_ce2740b59d194fa59e3f7c6bffe3c5a7);
+        
+    
+        var popup_fb0018e4a2d04284be5449dbfca96373 = L.popup({"maxWidth": 330});
+
+        
+            var html_37cd9df7d6ea49cab5abfc083612d3b8 = $(`<div id="html_37cd9df7d6ea49cab5abfc083612d3b8" style="width: 100.0%; height: 100.0%;"><b>Goswin de Stassartstraat 29 A</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Goswin de Stassartstraat 29 A/@4.479935749106344,51.03148945956342'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Goswin de Stassartstraat 29 A","NB-280029A4526");'>Change Coords</a></div>`)[0];
+            popup_fb0018e4a2d04284be5449dbfca96373.setContent(html_37cd9df7d6ea49cab5abfc083612d3b8);
+        
+
+        marker_5a0222bc24274933ba721058120763ed.bindPopup(popup_fb0018e4a2d04284be5449dbfca96373)
+        ;
+
+        
+    
+    
+            var marker_795fe98fedf94e49bdf6e9e9832e8a2c = L.marker(
+                [51.023968847278866, 4.480441159901997],
+                {}
+            ).addTo(feature_group_bb599c1f25c649a1b0670369117dd74d);
+        
+    
+            var icon_1e3a61f272d7469b8e90df11a7ae1fb9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_795fe98fedf94e49bdf6e9e9832e8a2c.setIcon(icon_1e3a61f272d7469b8e90df11a7ae1fb9);
+        
+    
+        var popup_fd9d0c2f46cd402f857b1207ff028c67 = L.popup({"maxWidth": 330});
+
+        
+            var html_9924d5fdaa9344968180109fd1432b88 = $(`<div id="html_9924d5fdaa9344968180109fd1432b88" style="width: 100.0%; height: 100.0%;"><b>Lange Schipstraat 76 A</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Lange Schipstraat 76 A/@4.480441159901997,51.023968847278866'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Lange Schipstraat 76 A","NB-280076A0a43");'>Change Coords</a></div>`)[0];
+            popup_fd9d0c2f46cd402f857b1207ff028c67.setContent(html_9924d5fdaa9344968180109fd1432b88);
+        
+
+        marker_795fe98fedf94e49bdf6e9e9832e8a2c.bindPopup(popup_fd9d0c2f46cd402f857b1207ff028c67)
+        ;
+
+        
+    
+    
+            var marker_2c5c1860823c4f239cf76fce5c8786e0 = L.marker(
+                [51.02605921520603, 4.482712948149241],
+                {}
+            ).addTo(feature_group_bb599c1f25c649a1b0670369117dd74d);
+        
+    
+            var icon_e6bbc3d8b2f74264a5741cef214b4386 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_2c5c1860823c4f239cf76fce5c8786e0.setIcon(icon_e6bbc3d8b2f74264a5741cef214b4386);
+        
+    
+        var popup_14cccdf1adcb4b64a102b4159fa09e39 = L.popup({"maxWidth": 330});
+
+        
+            var html_80b37862890a4728978ed6d3097fe32b = $(`<div id="html_80b37862890a4728978ed6d3097fe32b" style="width: 100.0%; height: 100.0%;"><b>Leermarkt 22 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Leermarkt 22 /@4.482712948149241,51.02605921520603'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Leermarkt 22 ","NB-280022d19b99");'>Change Coords</a></div>`)[0];
+            popup_14cccdf1adcb4b64a102b4159fa09e39.setContent(html_80b37862890a4728978ed6d3097fe32b);
+        
+
+        marker_2c5c1860823c4f239cf76fce5c8786e0.bindPopup(popup_14cccdf1adcb4b64a102b4159fa09e39)
+        ;
+
+        
+    
+    
+            var feature_group_84a5e58b783442ff8a6907aa7a07afba = L.featureGroup(
+                {}
+            ).addTo(map_c1a234b3857e4565af1769948e9ee3af);
+        
+    
+            var layer_control_2eb30028a8b4437e86bb04f84514ad8b = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_cfabe5a0b8934723926dffb96872e035,
+                },
+                overlays :  {
+                    "Mechelen-FH01" : geo_json_b54225f966f94b528c633aebfb9f53f8,
+                    "New Builings" : feature_group_350782407842428486f199bfbaec0248,
+                    "Street Survey" : feature_group_bb599c1f25c649a1b0670369117dd74d,
+                    "Site Survey" : feature_group_84a5e58b783442ff8a6907aa7a07afba,
+                },
+            };
+            L.control.layers(
+                layer_control_2eb30028a8b4437e86bb04f84514ad8b.base_layers,
+                layer_control_2eb30028a8b4437e86bb04f84514ad8b.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_c1a234b3857e4565af1769948e9ee3af);
+        
+</script>
