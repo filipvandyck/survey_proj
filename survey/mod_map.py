@@ -22,6 +22,7 @@ import myoutput as out
 
 TEST1     = os.path.dirname(os.path.realpath(__file__)) + '/map/test1.csv'
 TEST2     = os.path.dirname(os.path.realpath(__file__)) + '/map/test2.csv'
+TEST3     = os.path.dirname(os.path.realpath(__file__)) + '/map/test3.csv'
 TEST_BLOK = os.path.dirname(os.path.realpath(__file__)) + '/map/test_blok_pr.csv'
 
 GEOJSONFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/map/geojson/' 
@@ -530,6 +531,7 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
 
     if option == 'ssv':
         m.add_child(feature_group_nb)
+        m.add_child(feature_group_mon)
         m.add_child(feature_group_quadrants)
 
 
@@ -554,4 +556,5 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
 #draw_coordinates(TEST2, allow_change=False,option='sts')
 #draw_coordinates(TEST2, allow_change=False,option='ssv')
 #draw_coordinates(TEST_BLOK, allow_change=False,option='ssv')
+#draw_coordinates(TEST3, allow_change=False,option='ssv')
 
