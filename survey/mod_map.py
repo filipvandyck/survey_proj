@@ -178,9 +178,13 @@ def draw_coordinates(f, geojsonfiles='', tiles='openstreetmap', allow_change = T
                         image_url = 'map/C.png'
                     if row['VC Method'][:1] == 'A':
                         image_url = 'map/A.png'
-
-
-
+                    if row['VC Method'][:1] == 'X':
+                        image_url = 'map/X.png'
+                    if row['VC Method'] == 'XA':
+                        image_url = 'map/XA.png'
+                    if row['VC Method'] == 'XC':
+                        image_url = 'map/XC.png'
+                        
             buildingtype = row['BT']               
             if buildingtype == 'MDU':
                 marker_icon = 'building'
