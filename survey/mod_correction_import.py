@@ -139,24 +139,28 @@ def writecorrections(exportfile, prfile):
     out.print_df(df_pr_delete_opdrachtnummer,i='Buildings in PR not in IFH: import delete buildings set SSV Action on DELETE')
 
 
-    writecsvcorrection(df_pr_missing_lu,df_ifh,'missing_lu')
-    writecsvcorrection(df_pr_nb_new,df_ifh,'missing_lam')
     '''
     writecsvcorrection(df_pr_delete_lu,df_ifh,'delete_lu')
     writecsvcorrection(df_pr_nb_change,df_ifh,'change_nb_lam')
     writecsvcorrection(df_pr_delete_opdrachtnummer,df_ifh,'delete_lam')
-'''
+    '''
 
     # make one correction file for corrections to do PR
 
-    df_corrections = pd.concat([df_pr_delete_opdrachtnummer, df_pr_nb_change], join='outer', axis=1)
-    df_corrections = pd.concat([df_corrections, df_pr_delete_lu], join='outer', axis=1)
+    df_corrections = pd.concat([df_pr_delete_opdrachtnummer, df_pr_delete_lu], join='outer', axis=1)
+
+    df_pr_nb_change = df_pr_nb_change.reset_index()
+    df_corrections['Opdrachtnummer'] = df_pr_nb_change['Opdrachtnummer']
+    df_corrections['LAM MK'] = df_pr_nb_change['LAM MK']
+
 
     pf_corrections = df_corrections.fillna('')
     out.print_df(df_corrections,i='Corrections todo in Planrrr')
 
 
 
+    writecsvcorrection(df_pr_missing_lu,df_ifh,'missing_lu')
+    writecsvcorrection(df_pr_nb_new,df_ifh,'missing_lam')
     writecsvcorrection(df_corrections,df_ifh,'corrections_todo_pr')
 
 
