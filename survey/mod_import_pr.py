@@ -114,11 +114,13 @@ def make_versions_import(file1, outputfolder):
 def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area=False):
     out.info_file('processing file for survey import',file1)
 
-    survey = pd.read_csv(file1, delimiter=';', encoding = "ISO-8859-1")
+    survey = pd.read_csv(file1, delimiter=';', encoding = "ISO-8859-1", keep_default_na=False)
+
+    survey = survey.applymap(str)
+
+
+
     survey_obj = survey.select_dtypes(['object'])
-    
-
-
     survey[survey_obj.columns] = survey_obj.apply(lambda x: x.str.lstrip("'"))
    
 
@@ -126,8 +128,10 @@ def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area
     
     input_streets = pd.read_csv(streetfile, delimiter=';', encoding = "ISO-8859-1")
 
-    columnToStr(survey,'LAM Street Code')
-    columnToStr(survey,'Zip')
+    input_streets = input_streets.applymap(str)
+
+
+
 
     survey['id'] = survey[['Zip', 'LAM Street Code']].apply(lambda x: '-'.join(x), axis=1)
     survey = pd.merge(input_streets,survey,how='right', on=['id','id'])
@@ -139,10 +143,9 @@ def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area
     
     # replace city with unique street name from csv
 
-    input_cities = pd.read_csv(cityfile, delimiter=';', encoding = "ISO-8859-1")
+    input_cities = pd.read_csv(cityfile, delimiter=';', encoding = "ISO-8859-1", keep_default_na=False)
 
-    columnToStr(survey,'Zip')
-    columnToStr(input_cities,'Zip')
+    input_cities = input_cities.applymap(str)
 
     survey = pd.merge(input_cities,survey,how='right', on=['Zip','Zip'])
 
@@ -185,18 +188,9 @@ def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area
  
     survey['BT'] = np.where( survey.BU + survey.LU > 1, 'MDU','SDU')
 
-    columnToInt(survey,'Number Floors')
-    columnToInt(survey,'Height Cable')
+    
     columnToStr(survey,'SS Reason')
     columnToStr(survey,'Wall Mount')
-
-    columnToInt0isEmpty(survey,'LAM SK')
-    columnToInt0isEmpty(survey,'BG Id')
-    columnToInt0isEmpty(survey,'LAM MK')
-    columnToInt0isEmpty(survey,'Building FID')
-    columnToInt0isEmpty(survey,'Seq')
-    columnToInt0isEmpty(survey,'LU Key')
-   # columnToInt0isEmpty(survey,'BG Version')
 
     columnReplaceChar(survey, 'xPos', ".", ",")
     columnReplaceChar(survey, 'yPos', ".", ",")
@@ -213,7 +207,7 @@ def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area
 
     exportfile = outputdir + getoutputfile(file1, 'street_survey')
 
-    survey = survey[['File SSV Action', 'File SSV Status', 'File SSV Error', 'Area Type', 'Area FID', 'Area Version', 'Area Name', 'Zoning FID', 'Zoning Version', 'Zoning Name', 'Zoning Id', 'Zoning Tech', 'BG Id', 'BG Version', 'BG Name', 'BG SSV Action', 'BG SSV Status', 'BG SSV Error', 'BG Building SSV Action', 'BG Building SSV Status', 'BG Building SSV Error', 'Building FID', 'Building Version', 'LAM MK', 'LAM City Code', 'LAM Street Code', 'Street', 'Nr', 'Suffix', 'Zip', 'Municipality', 'Suburb', 'xPos', 'yPos', 'Name', 'Wall Mount', 'SS Reason', 'Number Floors', 'Height Cable', 'Orig VC Type', 'New VC Type', 'VC Method', 'Intro Tube', 'Prov Status', 'Prov Reason', 'Prov Planned', 'Prov Mod By', 'Prov Mod Date', 'Comments', 'SSV Flag', 'SSV Action', 'SSV Status', 'SSV Error', 'SSV Date', 'Seq', 'LU Key', 'LAM SK', 'Nature', 'Nr TPs', 'PBox', 'App', 'Block', 'Floor', 'OtherRef', 'CAD', 'CAD Details', 'CAD Type', 'CAD Type Descr', 'CAD SubType', 'Prov Status LU', 'Prov Reason LU', 'Prov Planned LU', 'Prov Mod By LU', 'Prov Mod Date LU', 'Comments LU', 'SSV Flag LU', 'SSV Action LU', 'SSV Status LU', 'SSV Error LU', 'SSV Date LU','LU','BU','SU','TOTAAL','LANGUAGE','BT']]
+    survey = survey[['File SSV Action', 'File SSV Status', 'File SSV Error', 'Area Type', 'Area FID', 'Area Version', 'Area Name', 'Zoning FID', 'Zoning Version', 'Zoning Name', 'Zoning Id', 'Zoning Tech', 'BG Id', 'BG Version', 'BG Name', 'BG SSV Action', 'BG SSV Status', 'BG SSV Error', 'BG Building SSV Action', 'BG Building SSV Status', 'BG Building SSV Error', 'Building FID', 'Building Version', 'LAM MK', 'LAM City Code', 'LAM Street Code', 'Street', 'Nr', 'Suffix', 'Zip', 'Municipality', 'Suburb', 'xPos', 'yPos', 'Name', 'Wall Mount', 'SS Reason', 'Number Floors', 'Height Cable', 'Orig VC Type', 'New VC Type', 'VC Method', 'Intro Tube', 'Prov Status', 'Prov Reason', 'Prov Planned', 'Prov Mod By', 'Prov Mod Date', 'Comments', 'SSV Flag', 'SSV Action', 'SSV Status', 'SSV Error', 'SSV Date', 'Seq', 'LU Key', 'LAM SK', 'Nature', 'Nr TPs', 'PBox', 'App', 'Block', 'Floor', 'OtherRef', 'CAD', 'CAD Details', 'CAD Type', 'CAD Type Descr', 'CAD SubType', 'Prov Status LU', 'Prov Reason LU', 'Prov Planned LU', 'Prov Mod By LU', 'Prov Mod Date LU', 'Comments LU', 'SSV Flag LU', 'SSV Action LU', 'SSV Status LU', 'SSV Error LU', 'SSV Date LU','LU','BU','SU','TOTAAL','LANGUAGE','BT','CONTACT','EMAIL','TELNR']]
 
     csv = survey.to_csv(exportfile,sep=';',index=False)
     
@@ -277,21 +271,30 @@ def make_city_names(file1,cityfile):
     
 
     survey = pd.read_csv(file1, delimiter=';', encoding = "ISO-8859-1")
-    input_cities = pd.read_csv(cityfile, delimiter=';', encoding = "ISO-8859-1")
+    input_cities = pd.read_csv(cityfile, delimiter=';', encoding = "ISO-8859-1", keep_default_na=False)
+
+    input_cities = input_cities.applymap(str)
+
+
 
     columnReplaceAllChars(survey, 'Municipality')
     columnToInt(survey,'Zip')
     columnToInt(input_cities,'Zip')
     
+
+
     cities = survey.drop_duplicates(subset='Zip', keep='first')
     
     out_cities = pd.merge(input_cities,cities,how='outer', on=['Zip','Zip'])
     out_cities['Municipality'] = out_cities.Municipality_x.combine_first(out_cities.Municipality_y)
+    
+    out_cities = out_cities.applymap(str)
 
-    csv = out_cities.to_csv(cityfile,sep=';',columns=['Zip','Municipality'],index=False)
+
+    csv = out_cities.to_csv(cityfile,sep=';',columns=['Zip','Municipality','CONTACT','EMAIL','TELNR'],index=False)
 
     out.print_df(input_cities,['Zip','Municipality'],'input cities')
-    out.print_df(out_cities,['Zip','Municipality'],'output cities')
+    out.print_df(out_cities,['Zip','Municipality','CONTACT','EMAIL','TELNR'],'output cities')
     out.info_file('New cities', str(out_cities.shape[0] - input_cities.shape[0]) )
     out.info_file('writing output cities file', cityfile)
 
