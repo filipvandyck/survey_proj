@@ -1,0 +1,1458 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_da6b00f756ab43d5a3835d5948d97b4f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_da6b00f756ab43d5a3835d5948d97b4f" ></div>
+        
+</body>
+<script>    
+    
+            var map_da6b00f756ab43d5a3835d5948d97b4f = L.map(
+                "map_da6b00f756ab43d5a3835d5948d97b4f",
+                {
+                    center: [51.35337410253919, 3.2888148309665333],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ed58a33dc44f46f8a80295fcd402e86e = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_da6b00f756ab43d5a3835d5948d97b4f);
+        
+    
+        function geo_json_689acd669f344890bef68b45c0735314_onEachFeature(feature, layer) {
+            layer.on({
+                click: function(e) {
+                    map_da6b00f756ab43d5a3835d5948d97b4f.fitBounds(e.target.getBounds());
+                }
+            });
+        };
+        var geo_json_689acd669f344890bef68b45c0735314 = L.geoJson(null, {
+                onEachFeature: geo_json_689acd669f344890bef68b45c0735314_onEachFeature,
+            
+        }).addTo(map_da6b00f756ab43d5a3835d5948d97b4f);
+            geo_json_689acd669f344890bef68b45c0735314.addData({"crs": {"properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}, "type": "name"}, "features": [{"geometry": {"coordinates": [[[3.289640659177974, 51.353670358812195, -9.05909768e-06], [3.290087483840885, 51.352685721415305, -9.05909768e-06], [3.293433116399553, 51.35342099686911, -9.05909768e-06], [3.295092727969792, 51.35372897430006, -9.05909768e-06], [3.295370880193055, 51.35371318162314, -9.05909768e-06], [3.295644810352718, 51.35388044245106, -9.05909768e-06], [3.296311936951358, 51.35411534019465, -9.05909768e-06], [3.296791362804037, 51.35424783683297, -9.05909768e-06], [3.297578603643534, 51.354346492705936, -9.05909768e-06], [3.298630859818251, 51.35436514263581, -9.05909768e-06], [3.299126805356547, 51.35441538758206, -9.05909768e-06], [3.301118917156751, 51.35489105957387, -9.05909768e-06], [3.303328660655949, 51.355441888658774, -9.05909768e-06], [3.30495812705688, 51.355795228794776, -9.05909768e-06], [3.306326163538394, 51.3560729691712, -9.05909768e-06], [3.306092988218466, 51.3564152937265, -9.05909768e-06], [3.306087779702703, 51.35664757345196, -9.05909768e-06], [3.305837089761286, 51.35698061496267, -9.05909768e-06], [3.305648474599279, 51.35693658527288, -9.05909768e-06], [3.303948176072873, 51.356481919311165, -9.05909768e-06], [3.301856999820572, 51.35585893146191, -9.05909768e-06], [3.30040233894021, 51.35553458683153, -9.05909768e-06], [3.299708129067522, 51.35541427593019, -9.05909768e-06], [3.299892096150148, 51.3550464470766, -9.05909768e-06], [3.29938394646295, 51.354961114743446, -9.05909768e-06], [3.299301523749242, 51.355318283947426, -9.05909768e-06], [3.29772043085759, 51.3551716884319, -9.05909768e-06], [3.296639975681402, 51.35510700274864, -9.05909768e-06], [3.294558292587666, 51.354712836107346, -9.05909768e-06], [3.289640659177974, 51.353670358812195, -9.05909768e-06]]], "type": "Polygon"}, "properties": {"fid": "7577430", "layoutCode": "NA", "technologyCode": "FTTH-Cu", "typeCode": "NA", "zoningId": 19895, "zoningName": "W03-C-Knokke-Heist-FH04"}, "type": "Feature"}], "type": "FeatureCollection"});
+        
+    
+
+    //    http://zoologie.umons.ac.be/tc/algorithms.aspx#c2
+
+        function convertBelgianDatum(Lat,Lng){
+		var Haut = 0;      
+		var LatBel; var LngBel;
+		var DLat; var DLng;
+		var Rm; var Rn; 
+		var LWb; var LWe2;
+		var SinLat; var SinLng;
+		var CoSinLat; var CoSinLng;
+		var Adb;
+
+		var dx = 125.8;
+		var dy = -79.9;
+		var dz = 100.5;
+		var da = 251.0;
+		var df = 0.000014192702;
+
+		var LWf = 1 / 297;
+		var LWa = 6378388;
+		LWb = (1 - LWf) * LWa;
+		LWe2 = (2 * LWf) - (LWf * LWf);
+		Adb = 1 / (1 - LWf);
+
+		Lat = (Math.PI / 180) * Lat;
+		Lng = (Math.PI / 180) * Lng;
+
+		SinLat = Math.sin(Lat);
+		SinLng = Math.sin(Lng);
+		CoSinLat = Math.cos(Lat);
+		CoSinLng = Math.cos(Lng);
+
+	 
+		Rn = LWa / Math.sqrt(1 - LWe2 * SinLat * SinLat);
+		Rm = LWa * (1 - LWe2) / (1 - LWe2 * Lat * Lat) ^ 1.5;
+		 
+		DLat = -dx * SinLat * CoSinLng - dy * SinLat * SinLng + dz * CoSinLat;
+		DLat = DLat + da * (Rn * LWe2 * SinLat * CoSinLat) / LWa;
+		DLat = DLat + df * (Rm * Adb + Rn / Adb) * SinLat * CoSinLat;
+		DLat = DLat / (Rm + Haut);
+		 
+		DLng = (-dx * SinLng + dy * CoSinLng) / ((Rn + Haut) * CoSinLat);
+
+		 
+		LatBel = ((Lat + DLat) * 180) / Math.PI;
+		LngBel = ((Lng + DLng) * 180) / Math.PI;
+
+		return Array(LatBel, LngBel);
+	}
+
+	
+
+        function convertxy(lat,lng){
+		dat = convertBelgianDatum(lat,lng);
+		lat = dat[0]; 
+		lng = dat[1];
+
+		var LongRef = 0.076042943;
+
+
+		var bLamb = 6378388 * (1 - (1 / 297));
+   		var aCarre = Math.pow(6378388,2);
+   		var eCarre = (aCarre - Math.pow(bLamb,2)) / aCarre;
+   		var KLamb = 11565915.812935;
+		var nLamb = 0.7716421928;
+ 
+   		var eLamb = Math.sqrt(eCarre);
+   		var eSur2 = eLamb / 2;
+ 
+		lat = (Math.PI / 180) * lat;
+   		lng = (Math.PI / 180) * lng;
+
+		
+ 
+   		var eSinLatitude = eLamb * Math.sin(lat);
+   		var TanZDemi = ( Math.tan((Math.PI / 4) - (lat / 2)) ) * ( Math.pow( ((1 + eSinLatitude) / (1 - eSinLatitude)), eSur2) );
+
+
+   		var RLamb = KLamb * (Math.pow(TanZDemi, nLamb));
+ 
+   		var Teta = nLamb * (lng - LongRef);
+		 
+   		 
+		var CX = 150000 + 0.01256 + RLamb * Math.sin(Teta - 0.000142043);
+   		var CY = 5400000 + 88.4378 - RLamb * Math.cos(Teta - 0.000142043);            
+                
+                CX = CX.toFixed(4);
+                CY = CY.toFixed(4);
+
+            	return Array(CX, CY);
+
+        };
+
+        var mapid = document.getElementsByClassName('folium-map')[0].id;
+        var g_adres = '';
+        var g_key = '';
+        var g_file = ' C:\Users\hb-fidy\Desktop\Python\survey_proj\survey/coordinates\KNOKKE-HEIST - FH04-coordinaten_pr-20200121.csv ';
+        var g_str_file = ' OpdrachtID;Projectnummer;Straat;Huisnummer;Huisnummer Toevoeging;Postcode;Plaats;xPos;yPos;Opdrachtnummer;LAM MK;Opdrachttemplate;Adres\n617250;KNOKKE-HEIST - FH04;Zeedijk-Knokke;659;;8300;Knokke-Heist;74766,52;227613,45;NB-830065996b686;NB-830065996b686;BUILDING template;Zeedijk-Knokke 659 8300 Knokke-Heist\n617280;KNOKKE-HEIST - FH04;Kustlaan;299;;8300;Knokke-Heist;75861,0;227866,0;NB-8300299837516;NB-8300299837516;BUILDING template;Kustlaan 299 8300 Knokke-Heist\n617288;KNOKKE-HEIST - FH04;Kustlaan;297;;8300;Knokke-Heist;75854,0;227866,0;NB-8300297cb8d17;NB-8300297cb8d17;BUILDING template;Kustlaan 297 8300 Knokke-Heist\n617339;KNOKKE-HEIST - FH04;Zeedijk-Knokke;664;;8300;Knokke-Heist;74973,0;227670,0;NB-8300664da5455;NB-8300664da5455;BUILDING template;Zeedijk-Knokke 664 8300 Knokke-Heist\n617112;KNOKKE-HEIST - FH04;Duindistelstraat;10;;8300;Knokke-Heist;75259,95;227716,13;NB-8300108be948;NB-8300108be948;BUILDING template;Duindistelstraat 10 8300 Knokke-Heist\n617114;KNOKKE-HEIST - FH04;Duindistelstraat;8;;8300;Knokke-Heist;75264,95;227716,13;NB-830082b4749;NB-830082b4749;BUILDING template;Duindistelstraat 8 8300 Knokke-Heist\n617116;KNOKKE-HEIST - FH04;Antoine Breartstraat;13;B;8300;Knokke-Heist;75316,3;227748,01;NB-830013B4667;NB-830013B4667;BUILDING template;Antoine Breartstraat 13 B 8300 Knokke-Heist\n617372;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;798;;8300;Knokke-Heist;77041,18;228304,24;NB-8300798fb1c52;NB-8300798fb1c52;BUILDING template;Zeedijk-Het Zoute 798 8300 Knokke-Heist\n617122;KNOKKE-HEIST - FH04;Kustlaan;235;;8300;Knokke-Heist;75916,85;227866,83;NB-83002358e2701;NB-83002358e2701;BUILDING template;Kustlaan 235 8300 Knokke-Heist\n617124;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;729;;8300;Knokke-Heist;75341,0;227779,0;NB-8300729705092;NB-8300729705092;BUILDING template;Zeedijk-Het Zoute 729 8300 Knokke-Heist\n617393;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;806;;8300;Knokke-Heist;77046,18;228304,24;NB-830080680eb62;NB-830080680eb62;BUILDING template;Zeedijk-Het Zoute 806 8300 Knokke-Heist\n617138;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;734;;8300;Knokke-Heist;77046,18;228304,24;NB-83007342d6850;NB-83007342d6850;BUILDING template;Zeedijk-Het Zoute 734 8300 Knokke-Heist\n617140;KNOKKE-HEIST - FH04;Kustlaan;219;;8300;Knokke-Heist;75670,0;227796,0;NB-8300219b2f099;NB-8300219b2f099;BUILDING template;Kustlaan 219 8300 Knokke-Heist\n626112;KNOKKE-HEIST - FH04;De Wielingen;17;;8300;Knokke-Heist;75935,0;227970,0;NB-83001773a739;NB-83001773a739;BUILDING template;De Wielingen 17 8300 Knokke-Heist\n626116;KNOKKE-HEIST - FH04;Kustlaan;349;;8300;Knokke-Heist;75964,05;227906,05;NB-8300349a07547;NB-8300349a07547;BUILDING template;Kustlaan 349 8300 Knokke-Heist\n626118;KNOKKE-HEIST - FH04;Kustlaan;347;;8300;Knokke-Heist;75969,05;227906,05;NB-8300347222263;NB-8300347222263;BUILDING template;Kustlaan 347 8300 Knokke-Heist\n617176;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;753;;8300;Knokke-Heist;75535,0;227809,0;NB-8300753ff1373;NB-8300753ff1373;BUILDING template;Zeedijk-Het Zoute 753 8300 Knokke-Heist\n617178;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;758;;8300;Knokke-Heist;77046,18;228304,24;NB-83007586fb030;NB-83007586fb030;BUILDING template;Zeedijk-Het Zoute 758 8300 Knokke-Heist\n622811;KNOKKE-HEIST - FH04;Kustlaan;21;;8300;Knokke-Heist;75658,0;227792,0;NB-830021ed6f19;NB-830021ed6f19;BUILDING template;Kustlaan 21 8300 Knokke-Heist\n617180;KNOKKE-HEIST - FH04;Zeedijk-Het Zoute;759;;8300;Knokke-Heist;75574,0;227821,0;NB-8300759c00d90;NB-8300759c00d90;BUILDING template;Zeedijk-Het Zoute 759 8300 Knokke-Heist\n617183;KNOKKE-HEIST - FH04;Kustlaan;147;A;8300;Knokke-Heist;75540,0;227746,0;NB-8300147A5747;NB-8300147A5747;BUILDING template;Kustlaan 147 A 8300 Knokke-Heist\n617210;KNOKKE-HEIST - FH04;Kustlaan;269;;8300;Knokke-Heist;75766,0;227833,0;NB-83002695d0c44;NB-83002695d0c44;BUILDING template;Kustlaan 269 8300 Knokke-Heist\n ';
+        var g_str_filename = ' KNOKKE-HEIST - FH04-coordinaten_pr-20200121.csv ';
+        
+        function setMarkerAdres(adres, key){
+            alert("Set marker on new location for\n\n" + key + "\n" + adres);
+            g_adres = adres;
+            g_key = key;
+        };
+        
+        
+        
+        function saveData(data, fileName) {
+//            alert(data);
+            var a = document.createElement('a');
+            document.body.appendChild(a);
+            a.style = 'display: none';
+
+            var json = JSON.stringify(data),
+            blob = new Blob([data], {type: 'text/plain;charset=utf-8'}),
+
+            url = window.URL.createObjectURL(blob);
+            a.href = url;
+
+            a.download = fileName;
+
+            a.click();
+
+            window.URL.revokeObjectURL(url);
+
+        }
+
+
+        function addToCsv(x,y){
+            if(g_adres !== ''){
+                                
+                x = x.toString().replace('.',',');
+                y = y.toString().replace('.',',');
+                
+                row = g_str_file.split('\n');
+
+                console.log(row);
+
+                header = row[0].split(';');
+                var index_of_xPos = 0;
+                var index_of_yPos = 0;
+
+                for (index = 0; index < header.length; index++) {
+                    if (header[index] == 'xPos'){
+                        index_of_xPos = index;
+                    }
+                    if (header[index] == 'yPos'){
+                        index_of_yPos = index;
+                    }
+                } 
+                console.log('index of xPos:' + index_of_xPos);
+                console.log('index of yPos:' + index_of_yPos);
+                
+                var index_of_key = 0
+
+                for (index = 0; index < row.length; index++) {
+                    if (row[index].includes(g_key)){
+                        index_of_key = index;
+                    }
+                } 
+                console.log('index of key:' + index_of_key);
+                console.log(row[index_of_key]);
+
+                row_to_change = row[index_of_key].split(';');
+                row_to_change[index_of_xPos] = x;
+                row_to_change[index_of_yPos] = y;
+                
+                row_changed = '';
+                for (index = 0; index < row_to_change.length; index++) {
+                    row_changed = row_changed + row_to_change[index] + ';';
+                } 
+                row_changed = row_changed.slice(0,-1);
+                
+                console.log('new row:' + row_changed);
+                
+                row[index_of_key] = row_changed;
+                
+                var csvdata = '';
+                for (index = 0; index < row.length; index++) {
+                    csvdata = csvdata + row[index] + '\n'
+                } 
+                
+
+                alert('Change xy for : ' + g_key + '\
+                   \n' + g_adres + ' \
+                   \n\nx: ' + x + '\ny: ' + y + '\
+                   \n\n' + row_changed 
+                   );
+                
+
+
+           //     saveData(csvdata,g_str_filename);                
+                g_str_file = csvdata;
+
+            }else{
+                alert('no key found!!');
+            }
+        };
+ 
+        function saveToCsv(){
+            alert('data to write: \n' + g_str_file);        
+            saveData(g_str_file,g_str_filename);                
+           
+        };
+
+        function newMarker(e){
+            
+	    var new_mark = L.marker().setLatLng(e.latlng).addTo(window[mapid]);
+	    new_mark.on('dblclick', function(e){ window[mapid].removeLayer(e.target)})
+
+            var lat = e.latlng.lat.toFixed(4);
+            var lng = e.latlng.lng.toFixed(4);
+            var xy = [];
+            xy = convertxy(lat, lng);
+            
+            var adres = g_adres;
+
+            new_mark.bindPopup("<b>"+ adres + "</b><br> \
+                    <u>" + g_key + "</u><BR><BR> \
+                    <i>lat, lng:</i> :: " + lat + ", " + lng + "<BR><BR> \
+                    <i>x, y:</i> :: " + xy[0] + ", " + xy[1] + "<BR><BR> \
+                    <a target='_blank' href='https://www.google.be/maps/place/" + g_adres + "/@" + lat + "," + lng + "'>Google Maps</a><hr> \
+                    <a href='#' onclick='addToCsv(" + '"' + xy[0] + '","' + xy[1] + '"' + ");'>Change</a>&nbsp;&nbsp \
+                    <a href='#' onclick='saveToCsv();'>Save to csv</a> \
+                    ");
+              };
+        
+        window[mapid].on('click', newMarker);
+        
+                 
+    
+        function addCss(fileName) {
+
+            var head = document.head;
+            var link = document.createElement('link');
+
+            link.type = 'text/css';
+            link.rel = 'stylesheet';
+            link.href = fileName;
+
+            head.appendChild(link);
+        }
+        addCss('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css');
+        addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+                        
+    
+            var feature_group_1844152861aa4b2e943242aee56800d9 = L.featureGroup(
+                {}
+            ).addTo(map_da6b00f756ab43d5a3835d5948d97b4f);
+        
+    
+            var marker_914d86e598d449b2957bb2376628ccfa = L.marker(
+                [51.35337410253919, 3.2888148309665333],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_cef5d05c236f43c6aeec6b15c87e151f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_914d86e598d449b2957bb2376628ccfa.setIcon(icon_cef5d05c236f43c6aeec6b15c87e151f);
+        
+    
+        var popup_d9db155d77674bf7b0cff8e420836271 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a9dd9c8a2bec468e99e3d30d3a6b81c3 = $(`<div id="html_a9dd9c8a2bec468e99e3d30d3a6b81c3" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 659 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 659 /@3.2888148309665333,51.35337410253919'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 659 ","NB-830065996b686");'>Change Coords</a></div>`)[0];
+            popup_d9db155d77674bf7b0cff8e420836271.setContent(html_a9dd9c8a2bec468e99e3d30d3a6b81c3);
+        
+
+        marker_914d86e598d449b2957bb2376628ccfa.bindPopup(popup_d9db155d77674bf7b0cff8e420836271)
+        ;
+
+        
+    
+    
+            var marker_4c5c7d143b40402bbde21221adca71e3 = L.marker(
+                [51.35578570144702, 3.3044715333676855],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_bed1d4cf46a14d1a97e051528b1ee25d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_4c5c7d143b40402bbde21221adca71e3.setIcon(icon_bed1d4cf46a14d1a97e051528b1ee25d);
+        
+    
+        var popup_f96036ca231840a0a15454962b8a2a27 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6b29cff708114377a46c2494c771b2c0 = $(`<div id="html_6b29cff708114377a46c2494c771b2c0" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 299 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 299 /@3.3044715333676855,51.35578570144702'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 299 ","NB-8300299837516");'>Change Coords</a></div>`)[0];
+            popup_f96036ca231840a0a15454962b8a2a27.setContent(html_6b29cff708114377a46c2494c771b2c0);
+        
+
+        marker_4c5c7d143b40402bbde21221adca71e3.bindPopup(popup_f96036ca231840a0a15454962b8a2a27)
+        ;
+
+        
+    
+    
+            var marker_bc5cb6483b734ad59b63340b18976ef6 = L.marker(
+                [51.35578480021106, 3.3043710599926555],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_eacab23091954db2be68d939f5f971bf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bc5cb6483b734ad59b63340b18976ef6.setIcon(icon_eacab23091954db2be68d939f5f971bf);
+        
+    
+        var popup_a9c0991f0ff94d7eb7e48c9387441f7b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b111d939a4534fae94112ccaa261e0da = $(`<div id="html_b111d939a4534fae94112ccaa261e0da" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 297 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 297 /@3.3043710599926555,51.35578480021106'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 297 ","NB-8300297cb8d17");'>Change Coords</a></div>`)[0];
+            popup_a9c0991f0ff94d7eb7e48c9387441f7b.setContent(html_b111d939a4534fae94112ccaa261e0da);
+        
+
+        marker_bc5cb6483b734ad59b63340b18976ef6.bindPopup(popup_a9c0991f0ff94d7eb7e48c9387441f7b)
+        ;
+
+        
+    
+    
+            var marker_bb8d51eab2494e619c517daf203ce535 = L.marker(
+                [51.353909251666714, 3.291766581556809],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_f299e224478d4cc2a4bba6b524f67812 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bb8d51eab2494e619c517daf203ce535.setIcon(icon_f299e224478d4cc2a4bba6b524f67812);
+        
+    
+        var popup_b6d0a386f5714384a4724423ace7d3b5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d755699a52f941b4a8d7102720f397ed = $(`<div id="html_d755699a52f941b4a8d7102720f397ed" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 664 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 664 /@3.291766581556809,51.353909251666714'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 664 ","NB-8300664da5455");'>Change Coords</a></div>`)[0];
+            popup_b6d0a386f5714384a4724423ace7d3b5.setContent(html_d755699a52f941b4a8d7102720f397ed);
+        
+
+        marker_bb8d51eab2494e619c517daf203ce535.bindPopup(popup_b6d0a386f5714384a4724423ace7d3b5)
+        ;
+
+        
+    
+    
+            var marker_bea90543b7df402aadb254cfe3b48798 = L.marker(
+                [51.354361132329686, 3.295875537868089],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_cc1fe9d3984f45beab5bc70e125e6985 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bea90543b7df402aadb254cfe3b48798.setIcon(icon_cc1fe9d3984f45beab5bc70e125e6985);
+        
+    
+        var popup_b563fa3b630c4be4a96d45e993d81e15 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_43d68b18d91b490a9b8f03f8e31f0e6e = $(`<div id="html_43d68b18d91b490a9b8f03f8e31f0e6e" style="width: 100.0%; height: 100.0%;"><b>Duindistelstraat 10 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Duindistelstraat 10 /@3.295875537868089,51.354361132329686'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Duindistelstraat 10 ","NB-8300108be948");'>Change Coords</a></div>`)[0];
+            popup_b563fa3b630c4be4a96d45e993d81e15.setContent(html_43d68b18d91b490a9b8f03f8e31f0e6e);
+        
+
+        marker_bea90543b7df402aadb254cfe3b48798.bindPopup(popup_b563fa3b630c4be4a96d45e993d81e15)
+        ;
+
+        
+    
+    
+            var marker_adbbb253e4c34f07b11f303f4451d7f6 = L.marker(
+                [51.35436178121998, 3.2959473022484844],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_8e494c03e5a64b8ab834f3ae46ecb325 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_adbbb253e4c34f07b11f303f4451d7f6.setIcon(icon_8e494c03e5a64b8ab834f3ae46ecb325);
+        
+    
+        var popup_5b2c3368c2a840c2b99e68e7b49c3f93 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f6f5676e3ccd471a9a7000d695b9e04f = $(`<div id="html_f6f5676e3ccd471a9a7000d695b9e04f" style="width: 100.0%; height: 100.0%;"><b>Duindistelstraat 8 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Duindistelstraat 8 /@3.2959473022484844,51.35436178121998'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Duindistelstraat 8 ","NB-830082b4749");'>Change Coords</a></div>`)[0];
+            popup_5b2c3368c2a840c2b99e68e7b49c3f93.setContent(html_f6f5676e3ccd471a9a7000d695b9e04f);
+        
+
+        marker_adbbb253e4c34f07b11f303f4451d7f6.bindPopup(popup_5b2c3368c2a840c2b99e68e7b49c3f93)
+        ;
+
+        
+    
+    
+            var marker_442ab5f7d7714120978a628be4a6fc75 = L.marker(
+                [51.35465494705553, 3.2966777196408747],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_bd08625f63f142b293d3da1e45332b51 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_442ab5f7d7714120978a628be4a6fc75.setIcon(icon_bd08625f63f142b293d3da1e45332b51);
+        
+    
+        var popup_17d3fde582c74330a12193641df29412 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_137bc757ce504622abc71e589cf909d1 = $(`<div id="html_137bc757ce504622abc71e589cf909d1" style="width: 100.0%; height: 100.0%;"><b>Antoine Breartstraat 13 B</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Antoine Breartstraat 13 B/@3.2966777196408747,51.35465494705553'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Antoine Breartstraat 13 B","NB-830013B4667");'>Change Coords</a></div>`)[0];
+            popup_17d3fde582c74330a12193641df29412.setContent(html_137bc757ce504622abc71e589cf909d1);
+        
+
+        marker_442ab5f7d7714120978a628be4a6fc75.bindPopup(popup_17d3fde582c74330a12193641df29412)
+        ;
+
+        
+    
+    
+            var marker_a645f3894bcc4292a0a3dadfd3c93712 = L.marker(
+                [51.35987488790936, 3.321322430206299],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_e03868e424ff4535b48dbed506ba315b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_a645f3894bcc4292a0a3dadfd3c93712.setIcon(icon_e03868e424ff4535b48dbed506ba315b);
+        
+    
+        var popup_75a33a6cce104071bd335b2fe7721ecf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b9bb64cdd39d4033bdb9825b8c9cd8a9 = $(`<div id="html_b9bb64cdd39d4033bdb9825b8c9cd8a9" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 798 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 798 /@3.321322430206299,51.35987488790936'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 798 ","NB-8300798fb1c52");'>Change Coords</a></div>`)[0];
+            popup_75a33a6cce104071bd335b2fe7721ecf.setContent(html_b9bb64cdd39d4033bdb9825b8c9cd8a9);
+        
+
+        marker_a645f3894bcc4292a0a3dadfd3c93712.bindPopup(popup_75a33a6cce104071bd335b2fe7721ecf)
+        ;
+
+        
+    
+    
+            var marker_0ffc600b5c39428d9474e178d99de59d = L.marker(
+                [51.35580034815743, 3.3052729969726564],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_a1cce1ea00414760808cd18d323a52fb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0ffc600b5c39428d9474e178d99de59d.setIcon(icon_a1cce1ea00414760808cd18d323a52fb);
+        
+    
+        var popup_cf1e1a5a61bf4b41bc68dbe99b2ef0d9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1527b1b2160f4570bdb31241c78c8c60 = $(`<div id="html_1527b1b2160f4570bdb31241c78c8c60" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 235 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 235 /@3.3052729969726564,51.35580034815743'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 235 ","NB-83002358e2701");'>Change Coords</a></div>`)[0];
+            popup_cf1e1a5a61bf4b41bc68dbe99b2ef0d9.setContent(html_1527b1b2160f4570bdb31241c78c8c60);
+        
+
+        marker_0ffc600b5c39428d9474e178d99de59d.bindPopup(popup_cf1e1a5a61bf4b41bc68dbe99b2ef0d9)
+        ;
+
+        
+    
+    
+            var marker_ef59df483f274c4f8114e3580766ecbc = L.marker(
+                [51.354936655588986, 3.297025821465061],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_18e00f19be624ee682ec1991c0b1e977 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_ef59df483f274c4f8114e3580766ecbc.setIcon(icon_18e00f19be624ee682ec1991c0b1e977);
+        
+    
+        var popup_f59936ca24d0435cbe51ab945e9c99f5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fa421c538bb7468793d91e00583b2703 = $(`<div id="html_fa421c538bb7468793d91e00583b2703" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 729 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 729 /@3.297025821465061,51.354936655588986'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 729 ","NB-8300729705092");'>Change Coords</a></div>`)[0];
+            popup_f59936ca24d0435cbe51ab945e9c99f5.setContent(html_fa421c538bb7468793d91e00583b2703);
+        
+
+        marker_ef59df483f274c4f8114e3580766ecbc.bindPopup(popup_f59936ca24d0435cbe51ab945e9c99f5)
+        ;
+
+        
+    
+    
+            var marker_45b9d8ce70c84b6f9f3ee1bb294f9170 = L.marker(
+                [51.35987552139836, 3.3213942034494472],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_4513848c02f14af3a340a9cfb9255c5c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_45b9d8ce70c84b6f9f3ee1bb294f9170.setIcon(icon_4513848c02f14af3a340a9cfb9255c5c);
+        
+    
+        var popup_9b8f3e778f18458085630d75c354e4b7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c2bc0e4e0a1c4cefac216b9dd8f1c489 = $(`<div id="html_c2bc0e4e0a1c4cefac216b9dd8f1c489" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 806 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 806 /@3.3213942034494472,51.35987552139836'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 806 ","NB-830080680eb62");'>Change Coords</a></div>`)[0];
+            popup_9b8f3e778f18458085630d75c354e4b7.setContent(html_c2bc0e4e0a1c4cefac216b9dd8f1c489);
+        
+
+        marker_45b9d8ce70c84b6f9f3ee1bb294f9170.bindPopup(popup_9b8f3e778f18458085630d75c354e4b7)
+        ;
+
+        
+    
+    
+            var marker_fbd342d0cb0a49e586aca24453ca1be5 = L.marker(
+                [51.35987552139836, 3.3213942034494472],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_c072f34d3a174c38a87df7811d7eff9d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_fbd342d0cb0a49e586aca24453ca1be5.setIcon(icon_c072f34d3a174c38a87df7811d7eff9d);
+        
+    
+        var popup_d0f7c86161634ed0baa9b6be8a41734d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_16c8f2d468e847e3a983ce26e93cdf78 = $(`<div id="html_16c8f2d468e847e3a983ce26e93cdf78" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 734 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 734 /@3.3213942034494472,51.35987552139836'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 734 ","NB-83007342d6850");'>Change Coords</a></div>`)[0];
+            popup_d0f7c86161634ed0baa9b6be8a41734d.setContent(html_16c8f2d468e847e3a983ce26e93cdf78);
+        
+
+        marker_fbd342d0cb0a49e586aca24453ca1be5.bindPopup(popup_d0f7c86161634ed0baa9b6be8a41734d)
+        ;
+
+        
+    
+    
+            var marker_655172ec37464e3aaff5edb8c0f4affc = L.marker(
+                [51.35513199257809, 3.301744477068751],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_6c65d8c3803f480295b9fe680bbfcc25 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_655172ec37464e3aaff5edb8c0f4affc.setIcon(icon_6c65d8c3803f480295b9fe680bbfcc25);
+        
+    
+        var popup_6035b726f8a34dd0b4aaa6ca884c8648 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fd53582964aa42ffbb06bfcaaaa7856f = $(`<div id="html_fd53582964aa42ffbb06bfcaaaa7856f" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 219 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 219 /@3.301744477068751,51.35513199257809'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 219 ","NB-8300219b2f099");'>Change Coords</a></div>`)[0];
+            popup_6035b726f8a34dd0b4aaa6ca884c8648.setContent(html_fd53582964aa42ffbb06bfcaaaa7856f);
+        
+
+        marker_655172ec37464e3aaff5edb8c0f4affc.bindPopup(popup_6035b726f8a34dd0b4aaa6ca884c8648)
+        ;
+
+        
+    
+    
+            var marker_672193abcca548e0a68270cf19aa6b5a = L.marker(
+                [51.35672986819316, 3.3055123174289966],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_a3c3dfb86af24f66bf554c57179ce406 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_672193abcca548e0a68270cf19aa6b5a.setIcon(icon_a3c3dfb86af24f66bf554c57179ce406);
+        
+    
+        var popup_2b5b7e3949264e51813db6ccaf39eb70 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_953abf750b2740dba1209dc897772268 = $(`<div id="html_953abf750b2740dba1209dc897772268" style="width: 100.0%; height: 100.0%;"><b>De Wielingen 17 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/De Wielingen 17 /@3.3055123174289966,51.35672986819316'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("De Wielingen 17 ","NB-83001773a739");'>Change Coords</a></div>`)[0];
+            popup_2b5b7e3949264e51813db6ccaf39eb70.setContent(html_953abf750b2740dba1209dc897772268);
+        
+
+        marker_672193abcca548e0a68270cf19aa6b5a.bindPopup(popup_2b5b7e3949264e51813db6ccaf39eb70)
+        ;
+
+        
+    
+    
+            var marker_f3af862f55bf4bd9902657247d3fe57a = L.marker(
+                [51.35615888719165, 3.305942421842532],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_7a104888780e4866a25c8b082a53937c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_f3af862f55bf4bd9902657247d3fe57a.setIcon(icon_7a104888780e4866a25c8b082a53937c);
+        
+    
+        var popup_fadc8070b7cc420aaedb0afef92ea2de = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1a20ee76e84446018239e17b94f9abfb = $(`<div id="html_1a20ee76e84446018239e17b94f9abfb" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 349 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 349 /@3.305942421842532,51.35615888719165'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 349 ","NB-8300349a07547");'>Change Coords</a></div>`)[0];
+            popup_fadc8070b7cc420aaedb0afef92ea2de.setContent(html_1a20ee76e84446018239e17b94f9abfb);
+        
+
+        marker_f3af862f55bf4bd9902657247d3fe57a.bindPopup(popup_fadc8070b7cc420aaedb0afef92ea2de)
+        ;
+
+        
+    
+    
+            var marker_e460a791eab544ce9e79694a3a979411 = L.marker(
+                [51.356159529989256, 3.306014189137791],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_2c040627720d4391a99e4bf5baa7618a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_e460a791eab544ce9e79694a3a979411.setIcon(icon_2c040627720d4391a99e4bf5baa7618a);
+        
+    
+        var popup_9c6561903cd84c10893928fbe4c1999b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e4607cf4e14b4a28a126a8e7d416a5a1 = $(`<div id="html_e4607cf4e14b4a28a126a8e7d416a5a1" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 347 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 347 /@3.306014189137791,51.356159529989256'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 347 ","NB-8300347222263");'>Change Coords</a></div>`)[0];
+            popup_9c6561903cd84c10893928fbe4c1999b.setContent(html_e4607cf4e14b4a28a126a8e7d416a5a1);
+        
+
+        marker_e460a791eab544ce9e79694a3a979411.bindPopup(popup_9c6561903cd84c10893928fbe4c1999b)
+        ;
+
+        
+    
+    
+            var marker_e3af8c415f144b0db168fa3e3483b9f9 = L.marker(
+                [51.355231382526654, 3.2998041205036546],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_8772d8c276204e35a67dbaa291f5565f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_e3af8c415f144b0db168fa3e3483b9f9.setIcon(icon_8772d8c276204e35a67dbaa291f5565f);
+        
+    
+        var popup_f9e7dcee733049f18b2a0fd6b462e7f5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_be9234ffb3954679b31ede0252e5cd3c = $(`<div id="html_be9234ffb3954679b31ede0252e5cd3c" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 753 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 753 /@3.2998041205036546,51.355231382526654'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 753 ","NB-8300753ff1373");'>Change Coords</a></div>`)[0];
+            popup_f9e7dcee733049f18b2a0fd6b462e7f5.setContent(html_be9234ffb3954679b31ede0252e5cd3c);
+        
+
+        marker_e3af8c415f144b0db168fa3e3483b9f9.bindPopup(popup_f9e7dcee733049f18b2a0fd6b462e7f5)
+        ;
+
+        
+    
+    
+            var marker_3161fdb41fc74a3486fcbe7c13f34140 = L.marker(
+                [51.35987552139836, 3.3213942034494472],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_150b36c2eadc4468a803a8855a80dc91 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_3161fdb41fc74a3486fcbe7c13f34140.setIcon(icon_150b36c2eadc4468a803a8855a80dc91);
+        
+    
+        var popup_e76569e7812948c09c1b345231e71ea2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2f177250bad648478c2cc2e541a2aefb = $(`<div id="html_2f177250bad648478c2cc2e541a2aefb" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 758 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 758 /@3.3213942034494472,51.35987552139836'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 758 ","NB-83007586fb030");'>Change Coords</a></div>`)[0];
+            popup_e76569e7812948c09c1b345231e71ea2.setContent(html_2f177250bad648478c2cc2e541a2aefb);
+        
+
+        marker_3161fdb41fc74a3486fcbe7c13f34140.bindPopup(popup_e76569e7812948c09c1b345231e71ea2)
+        ;
+
+        
+    
+    
+            var marker_089fb77181b54d9983ceba3cadd20184 = L.marker(
+                [51.35509449572901, 3.3015730642111483],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_590437d8719c4af8bbb01946c8115080 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_089fb77181b54d9983ceba3cadd20184.setIcon(icon_590437d8719c4af8bbb01946c8115080);
+        
+    
+        var popup_3dccc507b7f84495ab6fb83bc38fdf7f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_16fbad1cf7fc4ca49166dde3de53628e = $(`<div id="html_16fbad1cf7fc4ca49166dde3de53628e" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 21 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 21 /@3.3015730642111483,51.35509449572901'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 21 ","NB-830021ed6f19");'>Change Coords</a></div>`)[0];
+            popup_3dccc507b7f84495ab6fb83bc38fdf7f.setContent(html_16fbad1cf7fc4ca49166dde3de53628e);
+        
+
+        marker_089fb77181b54d9983ceba3cadd20184.bindPopup(popup_3dccc507b7f84495ab6fb83bc38fdf7f)
+        ;
+
+        
+    
+    
+            var marker_b023197a4fdd40c8baca64ea1f2f8868 = L.marker(
+                [51.35534426771886, 3.3003614167152175],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_5ca9ccc65a5d4a7986f13e3d6ded6f8c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_b023197a4fdd40c8baca64ea1f2f8868.setIcon(icon_5ca9ccc65a5d4a7986f13e3d6ded6f8c);
+        
+    
+        var popup_b0d0c9b8f4c74b3e95ed85ec442119c0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b99ffdddc36e47f0958976c841e3dac6 = $(`<div id="html_b99ffdddc36e47f0958976c841e3dac6" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 759 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 759 /@3.3003614167152175,51.35534426771886'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 759 ","NB-8300759c00d90");'>Change Coords</a></div>`)[0];
+            popup_b0d0c9b8f4c74b3e95ed85ec442119c0.setContent(html_b99ffdddc36e47f0958976c841e3dac6);
+        
+
+        marker_b023197a4fdd40c8baca64ea1f2f8868.bindPopup(popup_b0d0c9b8f4c74b3e95ed85ec442119c0)
+        ;
+
+        
+    
+    
+            var marker_70e5c426c10541b08fd8799a0c369490 = L.marker(
+                [51.35466585039255, 3.299888895828943],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_fc5be0fc5d43459a847e3d67c4662f97 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_70e5c426c10541b08fd8799a0c369490.setIcon(icon_fc5be0fc5d43459a847e3d67c4662f97);
+        
+    
+        var popup_f9156e7d68d84a569a96b2b494f63e1b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5ec1d9372aa044629cf4f074c9a89e01 = $(`<div id="html_5ec1d9372aa044629cf4f074c9a89e01" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 147 A</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 147 A/@3.299888895828943,51.35466585039255'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 147 A","NB-8300147A5747");'>Change Coords</a></div>`)[0];
+            popup_f9156e7d68d84a569a96b2b494f63e1b.setContent(html_5ec1d9372aa044629cf4f074c9a89e01);
+        
+
+        marker_70e5c426c10541b08fd8799a0c369490.bindPopup(popup_f9156e7d68d84a569a96b2b494f63e1b)
+        ;
+
+        
+    
+    
+            var marker_ed37c370d8dd47f3b6d6216500b8b754 = L.marker(
+                [51.35547689326042, 3.303114760493126],
+                {}
+            ).addTo(feature_group_1844152861aa4b2e943242aee56800d9);
+        
+    
+            var icon_36b6ffdff27d491fa7d97c1f36912982 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_ed37c370d8dd47f3b6d6216500b8b754.setIcon(icon_36b6ffdff27d491fa7d97c1f36912982);
+        
+    
+        var popup_48ff95aeef124817a45204bc778597d0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b6c10ba0598346af9ddf16699f405685 = $(`<div id="html_b6c10ba0598346af9ddf16699f405685" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 269 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 269 /@3.303114760493126,51.35547689326042'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 269 ","NB-83002695d0c44");'>Change Coords</a></div>`)[0];
+            popup_48ff95aeef124817a45204bc778597d0.setContent(html_b6c10ba0598346af9ddf16699f405685);
+        
+
+        marker_ed37c370d8dd47f3b6d6216500b8b754.bindPopup(popup_48ff95aeef124817a45204bc778597d0)
+        ;
+
+        
+    
+    
+            var feature_group_7804182a207d4042aad2e912409f2472 = L.featureGroup(
+                {}
+            ).addTo(map_da6b00f756ab43d5a3835d5948d97b4f);
+        
+    
+            var marker_aedf0982a45744558ffc2ad745568c3c = L.marker(
+                [51.35337410253919, 3.2888148309665333],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_4d9da68f088541208bf91a93911395d5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_aedf0982a45744558ffc2ad745568c3c.setIcon(icon_4d9da68f088541208bf91a93911395d5);
+        
+    
+        var popup_0f4b61f12b314513ade181b77aeb58fa = L.popup({"maxWidth": 330});
+
+        
+            var html_15b9462ad17a47a6a1b71f6ce297b0de = $(`<div id="html_15b9462ad17a47a6a1b71f6ce297b0de" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 659 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 659 /@3.2888148309665333,51.35337410253919'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 659 ","NB-830065996b686");'>Change Coords</a></div>`)[0];
+            popup_0f4b61f12b314513ade181b77aeb58fa.setContent(html_15b9462ad17a47a6a1b71f6ce297b0de);
+        
+
+        marker_aedf0982a45744558ffc2ad745568c3c.bindPopup(popup_0f4b61f12b314513ade181b77aeb58fa)
+        ;
+
+        
+    
+    
+            var marker_fd32dc3aa20f430fbf8f29a5c6b4c9f2 = L.marker(
+                [51.35578570144702, 3.3044715333676855],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_9d08b35416c74d6d9dc7d3a09d547c2b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_fd32dc3aa20f430fbf8f29a5c6b4c9f2.setIcon(icon_9d08b35416c74d6d9dc7d3a09d547c2b);
+        
+    
+        var popup_e86b1d1024864b18878525db9de09c20 = L.popup({"maxWidth": 330});
+
+        
+            var html_e9848ab175034ba689fc1077ac2a94ab = $(`<div id="html_e9848ab175034ba689fc1077ac2a94ab" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 299 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 299 /@3.3044715333676855,51.35578570144702'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 299 ","NB-8300299837516");'>Change Coords</a></div>`)[0];
+            popup_e86b1d1024864b18878525db9de09c20.setContent(html_e9848ab175034ba689fc1077ac2a94ab);
+        
+
+        marker_fd32dc3aa20f430fbf8f29a5c6b4c9f2.bindPopup(popup_e86b1d1024864b18878525db9de09c20)
+        ;
+
+        
+    
+    
+            var marker_d0e670c40cdb45bd82539dfd89b15c71 = L.marker(
+                [51.35578480021106, 3.3043710599926555],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_9faca6ab2e8e4155a83ee1d12372d399 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_d0e670c40cdb45bd82539dfd89b15c71.setIcon(icon_9faca6ab2e8e4155a83ee1d12372d399);
+        
+    
+        var popup_51c0db683252460d88457ea26a5a3077 = L.popup({"maxWidth": 330});
+
+        
+            var html_830d6a30adc14b168146b6094a1ea056 = $(`<div id="html_830d6a30adc14b168146b6094a1ea056" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 297 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 297 /@3.3043710599926555,51.35578480021106'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 297 ","NB-8300297cb8d17");'>Change Coords</a></div>`)[0];
+            popup_51c0db683252460d88457ea26a5a3077.setContent(html_830d6a30adc14b168146b6094a1ea056);
+        
+
+        marker_d0e670c40cdb45bd82539dfd89b15c71.bindPopup(popup_51c0db683252460d88457ea26a5a3077)
+        ;
+
+        
+    
+    
+            var marker_3397c04d4e844d94a7acd3ebe4e6727b = L.marker(
+                [51.353909251666714, 3.291766581556809],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_8b0b417938264cebabdf7006c5d69676 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_3397c04d4e844d94a7acd3ebe4e6727b.setIcon(icon_8b0b417938264cebabdf7006c5d69676);
+        
+    
+        var popup_8c1e737182cd4669937bc5bfdc5934c6 = L.popup({"maxWidth": 330});
+
+        
+            var html_46f64ad70f9743a0bbc1d80e3d67e46b = $(`<div id="html_46f64ad70f9743a0bbc1d80e3d67e46b" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Knokke 664 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Knokke 664 /@3.291766581556809,51.353909251666714'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Knokke 664 ","NB-8300664da5455");'>Change Coords</a></div>`)[0];
+            popup_8c1e737182cd4669937bc5bfdc5934c6.setContent(html_46f64ad70f9743a0bbc1d80e3d67e46b);
+        
+
+        marker_3397c04d4e844d94a7acd3ebe4e6727b.bindPopup(popup_8c1e737182cd4669937bc5bfdc5934c6)
+        ;
+
+        
+    
+    
+            var marker_fc664242bd8d419788237d1dd2353d5d = L.marker(
+                [51.354361132329686, 3.295875537868089],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_75f46beaa25141f9a4e5c5ec67fb2e0f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_fc664242bd8d419788237d1dd2353d5d.setIcon(icon_75f46beaa25141f9a4e5c5ec67fb2e0f);
+        
+    
+        var popup_783a923cdd834d19924ce551045ffac8 = L.popup({"maxWidth": 330});
+
+        
+            var html_e9fe18ab42814a88855c2319d227f29a = $(`<div id="html_e9fe18ab42814a88855c2319d227f29a" style="width: 100.0%; height: 100.0%;"><b>Duindistelstraat 10 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Duindistelstraat 10 /@3.295875537868089,51.354361132329686'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Duindistelstraat 10 ","NB-8300108be948");'>Change Coords</a></div>`)[0];
+            popup_783a923cdd834d19924ce551045ffac8.setContent(html_e9fe18ab42814a88855c2319d227f29a);
+        
+
+        marker_fc664242bd8d419788237d1dd2353d5d.bindPopup(popup_783a923cdd834d19924ce551045ffac8)
+        ;
+
+        
+    
+    
+            var marker_7cef25fca0394a62ac9ff1fa65bf6b34 = L.marker(
+                [51.35436178121998, 3.2959473022484844],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_a4ad4739743c418396634b91f1095724 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_7cef25fca0394a62ac9ff1fa65bf6b34.setIcon(icon_a4ad4739743c418396634b91f1095724);
+        
+    
+        var popup_a0047a55da5a4dd1955409d5f059027f = L.popup({"maxWidth": 330});
+
+        
+            var html_d39f4444ed87468eb3e83590ed1a9fe6 = $(`<div id="html_d39f4444ed87468eb3e83590ed1a9fe6" style="width: 100.0%; height: 100.0%;"><b>Duindistelstraat 8 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Duindistelstraat 8 /@3.2959473022484844,51.35436178121998'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Duindistelstraat 8 ","NB-830082b4749");'>Change Coords</a></div>`)[0];
+            popup_a0047a55da5a4dd1955409d5f059027f.setContent(html_d39f4444ed87468eb3e83590ed1a9fe6);
+        
+
+        marker_7cef25fca0394a62ac9ff1fa65bf6b34.bindPopup(popup_a0047a55da5a4dd1955409d5f059027f)
+        ;
+
+        
+    
+    
+            var marker_ee93dae9a71d4fd99363b427b4ca4ee4 = L.marker(
+                [51.35465494705553, 3.2966777196408747],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_29a989302cc9469cbd06862efed5d5e6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_ee93dae9a71d4fd99363b427b4ca4ee4.setIcon(icon_29a989302cc9469cbd06862efed5d5e6);
+        
+    
+        var popup_295d160429394bb6bfd78f9ccb22bada = L.popup({"maxWidth": 330});
+
+        
+            var html_a5eb71a385784fb3a6bfdd7e9c673539 = $(`<div id="html_a5eb71a385784fb3a6bfdd7e9c673539" style="width: 100.0%; height: 100.0%;"><b>Antoine Breartstraat 13 B</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Antoine Breartstraat 13 B/@3.2966777196408747,51.35465494705553'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Antoine Breartstraat 13 B","NB-830013B4667");'>Change Coords</a></div>`)[0];
+            popup_295d160429394bb6bfd78f9ccb22bada.setContent(html_a5eb71a385784fb3a6bfdd7e9c673539);
+        
+
+        marker_ee93dae9a71d4fd99363b427b4ca4ee4.bindPopup(popup_295d160429394bb6bfd78f9ccb22bada)
+        ;
+
+        
+    
+    
+            var marker_6470ce7d264241aea5b9a85a4bb8d5a2 = L.marker(
+                [51.35987488790936, 3.321322430206299],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_4495b7bbf694421aacac19a68bfdad9c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_6470ce7d264241aea5b9a85a4bb8d5a2.setIcon(icon_4495b7bbf694421aacac19a68bfdad9c);
+        
+    
+        var popup_a14aff9ba7f04fad87e875b3cf17294e = L.popup({"maxWidth": 330});
+
+        
+            var html_02d93d91e1904e6ba160b0f73db54537 = $(`<div id="html_02d93d91e1904e6ba160b0f73db54537" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 798 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 798 /@3.321322430206299,51.35987488790936'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 798 ","NB-8300798fb1c52");'>Change Coords</a></div>`)[0];
+            popup_a14aff9ba7f04fad87e875b3cf17294e.setContent(html_02d93d91e1904e6ba160b0f73db54537);
+        
+
+        marker_6470ce7d264241aea5b9a85a4bb8d5a2.bindPopup(popup_a14aff9ba7f04fad87e875b3cf17294e)
+        ;
+
+        
+    
+    
+            var marker_c2aa0f3e0c9f4526abbd02b7bdfa41c1 = L.marker(
+                [51.35580034815743, 3.3052729969726564],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_948df7f0e42849cb80013db34f312871 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_c2aa0f3e0c9f4526abbd02b7bdfa41c1.setIcon(icon_948df7f0e42849cb80013db34f312871);
+        
+    
+        var popup_b4e71353e7754bb69930b75f34012b9b = L.popup({"maxWidth": 330});
+
+        
+            var html_812365f36c46409fa46b0402368a910f = $(`<div id="html_812365f36c46409fa46b0402368a910f" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 235 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 235 /@3.3052729969726564,51.35580034815743'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 235 ","NB-83002358e2701");'>Change Coords</a></div>`)[0];
+            popup_b4e71353e7754bb69930b75f34012b9b.setContent(html_812365f36c46409fa46b0402368a910f);
+        
+
+        marker_c2aa0f3e0c9f4526abbd02b7bdfa41c1.bindPopup(popup_b4e71353e7754bb69930b75f34012b9b)
+        ;
+
+        
+    
+    
+            var marker_bdf6ccac7ce046d5b1f6bc2b78ed3742 = L.marker(
+                [51.354936655588986, 3.297025821465061],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_b9ab81135ad34f969ffd75c45bd7efb5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bdf6ccac7ce046d5b1f6bc2b78ed3742.setIcon(icon_b9ab81135ad34f969ffd75c45bd7efb5);
+        
+    
+        var popup_f4c07208c1664ac99886232fc52e85ee = L.popup({"maxWidth": 330});
+
+        
+            var html_0514be88337f47339111db7c284b60a0 = $(`<div id="html_0514be88337f47339111db7c284b60a0" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 729 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 729 /@3.297025821465061,51.354936655588986'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 729 ","NB-8300729705092");'>Change Coords</a></div>`)[0];
+            popup_f4c07208c1664ac99886232fc52e85ee.setContent(html_0514be88337f47339111db7c284b60a0);
+        
+
+        marker_bdf6ccac7ce046d5b1f6bc2b78ed3742.bindPopup(popup_f4c07208c1664ac99886232fc52e85ee)
+        ;
+
+        
+    
+    
+            var marker_a44f50d6e6a14746ac1dc3851a960ca7 = L.marker(
+                [51.35987552139836, 3.3213942034494472],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_bdeadc9856784809856fe1b1afcd7466 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_a44f50d6e6a14746ac1dc3851a960ca7.setIcon(icon_bdeadc9856784809856fe1b1afcd7466);
+        
+    
+        var popup_f5c6ecb91cbf4a1ba08139094410ba50 = L.popup({"maxWidth": 330});
+
+        
+            var html_e92e8ad728b0407db2a4131024a7cb6a = $(`<div id="html_e92e8ad728b0407db2a4131024a7cb6a" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 806 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 806 /@3.3213942034494472,51.35987552139836'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 806 ","NB-830080680eb62");'>Change Coords</a></div>`)[0];
+            popup_f5c6ecb91cbf4a1ba08139094410ba50.setContent(html_e92e8ad728b0407db2a4131024a7cb6a);
+        
+
+        marker_a44f50d6e6a14746ac1dc3851a960ca7.bindPopup(popup_f5c6ecb91cbf4a1ba08139094410ba50)
+        ;
+
+        
+    
+    
+            var marker_828207cd6029417f95689132758c62e1 = L.marker(
+                [51.35987552139836, 3.3213942034494472],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_465c180882dc4916abb1d6f0835884f2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_828207cd6029417f95689132758c62e1.setIcon(icon_465c180882dc4916abb1d6f0835884f2);
+        
+    
+        var popup_c23fd07c38844c1b90d82fe6839262d0 = L.popup({"maxWidth": 330});
+
+        
+            var html_071048a2f05242219f764fe093328926 = $(`<div id="html_071048a2f05242219f764fe093328926" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 734 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 734 /@3.3213942034494472,51.35987552139836'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 734 ","NB-83007342d6850");'>Change Coords</a></div>`)[0];
+            popup_c23fd07c38844c1b90d82fe6839262d0.setContent(html_071048a2f05242219f764fe093328926);
+        
+
+        marker_828207cd6029417f95689132758c62e1.bindPopup(popup_c23fd07c38844c1b90d82fe6839262d0)
+        ;
+
+        
+    
+    
+            var marker_933b14ff5db24d659965afc4e548fc55 = L.marker(
+                [51.35513199257809, 3.301744477068751],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_c30da4420ce943c6b4a6c1f1c40c2dca = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_933b14ff5db24d659965afc4e548fc55.setIcon(icon_c30da4420ce943c6b4a6c1f1c40c2dca);
+        
+    
+        var popup_370b9ce97ee04e2a94531217d5c9bec6 = L.popup({"maxWidth": 330});
+
+        
+            var html_f7e2d04e14b14c67b5251ea2d5667bf5 = $(`<div id="html_f7e2d04e14b14c67b5251ea2d5667bf5" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 219 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 219 /@3.301744477068751,51.35513199257809'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 219 ","NB-8300219b2f099");'>Change Coords</a></div>`)[0];
+            popup_370b9ce97ee04e2a94531217d5c9bec6.setContent(html_f7e2d04e14b14c67b5251ea2d5667bf5);
+        
+
+        marker_933b14ff5db24d659965afc4e548fc55.bindPopup(popup_370b9ce97ee04e2a94531217d5c9bec6)
+        ;
+
+        
+    
+    
+            var marker_493b9e50ff574a07b31cebf64edf9075 = L.marker(
+                [51.35672986819316, 3.3055123174289966],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_3d06c7e47b19426898298279c6755d46 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_493b9e50ff574a07b31cebf64edf9075.setIcon(icon_3d06c7e47b19426898298279c6755d46);
+        
+    
+        var popup_a3657914b80f46f1b4f2f9395e1a3167 = L.popup({"maxWidth": 330});
+
+        
+            var html_975378b9a7964ebd909f940fb3415ce7 = $(`<div id="html_975378b9a7964ebd909f940fb3415ce7" style="width: 100.0%; height: 100.0%;"><b>De Wielingen 17 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/De Wielingen 17 /@3.3055123174289966,51.35672986819316'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("De Wielingen 17 ","NB-83001773a739");'>Change Coords</a></div>`)[0];
+            popup_a3657914b80f46f1b4f2f9395e1a3167.setContent(html_975378b9a7964ebd909f940fb3415ce7);
+        
+
+        marker_493b9e50ff574a07b31cebf64edf9075.bindPopup(popup_a3657914b80f46f1b4f2f9395e1a3167)
+        ;
+
+        
+    
+    
+            var marker_bb1167807cf0476794b98f940d55226a = L.marker(
+                [51.35615888719165, 3.305942421842532],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_b0fa4c92cdc34508b2548490de5d8642 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_bb1167807cf0476794b98f940d55226a.setIcon(icon_b0fa4c92cdc34508b2548490de5d8642);
+        
+    
+        var popup_fc09e337c3fb440aa2c8c8098c44f678 = L.popup({"maxWidth": 330});
+
+        
+            var html_e6be9efc37fb41df97b04e71ca99355e = $(`<div id="html_e6be9efc37fb41df97b04e71ca99355e" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 349 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 349 /@3.305942421842532,51.35615888719165'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 349 ","NB-8300349a07547");'>Change Coords</a></div>`)[0];
+            popup_fc09e337c3fb440aa2c8c8098c44f678.setContent(html_e6be9efc37fb41df97b04e71ca99355e);
+        
+
+        marker_bb1167807cf0476794b98f940d55226a.bindPopup(popup_fc09e337c3fb440aa2c8c8098c44f678)
+        ;
+
+        
+    
+    
+            var marker_666fd2e045504c2ba5a9f295e5d03a30 = L.marker(
+                [51.356159529989256, 3.306014189137791],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_8a56dd3f0268474fba5c0f273b09229f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_666fd2e045504c2ba5a9f295e5d03a30.setIcon(icon_8a56dd3f0268474fba5c0f273b09229f);
+        
+    
+        var popup_998cd9ad14574756bee315c712a851ae = L.popup({"maxWidth": 330});
+
+        
+            var html_94960edd9f1c4fda9658fd4b8ea34cee = $(`<div id="html_94960edd9f1c4fda9658fd4b8ea34cee" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 347 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 347 /@3.306014189137791,51.356159529989256'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 347 ","NB-8300347222263");'>Change Coords</a></div>`)[0];
+            popup_998cd9ad14574756bee315c712a851ae.setContent(html_94960edd9f1c4fda9658fd4b8ea34cee);
+        
+
+        marker_666fd2e045504c2ba5a9f295e5d03a30.bindPopup(popup_998cd9ad14574756bee315c712a851ae)
+        ;
+
+        
+    
+    
+            var marker_194775b6586e4d39b84391b606b96284 = L.marker(
+                [51.355231382526654, 3.2998041205036546],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_b72b26ebebbe4338b76385cc78b333c4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_194775b6586e4d39b84391b606b96284.setIcon(icon_b72b26ebebbe4338b76385cc78b333c4);
+        
+    
+        var popup_9d49c874803d40d7b8fe890dcd661127 = L.popup({"maxWidth": 330});
+
+        
+            var html_d4996e9bab1a4e20a8e0e95a92757fb9 = $(`<div id="html_d4996e9bab1a4e20a8e0e95a92757fb9" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 753 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 753 /@3.2998041205036546,51.355231382526654'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 753 ","NB-8300753ff1373");'>Change Coords</a></div>`)[0];
+            popup_9d49c874803d40d7b8fe890dcd661127.setContent(html_d4996e9bab1a4e20a8e0e95a92757fb9);
+        
+
+        marker_194775b6586e4d39b84391b606b96284.bindPopup(popup_9d49c874803d40d7b8fe890dcd661127)
+        ;
+
+        
+    
+    
+            var marker_36942c11d8ed48af9884eaa9bf956a69 = L.marker(
+                [51.35987552139836, 3.3213942034494472],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_26fe09ce2e4d41d5bd558135c32a446e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_36942c11d8ed48af9884eaa9bf956a69.setIcon(icon_26fe09ce2e4d41d5bd558135c32a446e);
+        
+    
+        var popup_dc24d0d5ee2e4739b2a76be6637dbd4b = L.popup({"maxWidth": 330});
+
+        
+            var html_ebaee341689e48c0bd47e0a295cc9c57 = $(`<div id="html_ebaee341689e48c0bd47e0a295cc9c57" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 758 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 758 /@3.3213942034494472,51.35987552139836'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 758 ","NB-83007586fb030");'>Change Coords</a></div>`)[0];
+            popup_dc24d0d5ee2e4739b2a76be6637dbd4b.setContent(html_ebaee341689e48c0bd47e0a295cc9c57);
+        
+
+        marker_36942c11d8ed48af9884eaa9bf956a69.bindPopup(popup_dc24d0d5ee2e4739b2a76be6637dbd4b)
+        ;
+
+        
+    
+    
+            var marker_0da829cd7238407292d0e35972f7712f = L.marker(
+                [51.35509449572901, 3.3015730642111483],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_e65b4d19496248878717cbab13961f5b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0da829cd7238407292d0e35972f7712f.setIcon(icon_e65b4d19496248878717cbab13961f5b);
+        
+    
+        var popup_e98a914eea444788a93ccb8c284b5a12 = L.popup({"maxWidth": 330});
+
+        
+            var html_e22a9d8b31de41599ba4531ed65c0512 = $(`<div id="html_e22a9d8b31de41599ba4531ed65c0512" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 21 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 21 /@3.3015730642111483,51.35509449572901'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 21 ","NB-830021ed6f19");'>Change Coords</a></div>`)[0];
+            popup_e98a914eea444788a93ccb8c284b5a12.setContent(html_e22a9d8b31de41599ba4531ed65c0512);
+        
+
+        marker_0da829cd7238407292d0e35972f7712f.bindPopup(popup_e98a914eea444788a93ccb8c284b5a12)
+        ;
+
+        
+    
+    
+            var marker_52dde81d1e78446a89e11f3586c89c6e = L.marker(
+                [51.35534426771886, 3.3003614167152175],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_a7b30db2885348a9ab8cc6c760a3f6ac = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_52dde81d1e78446a89e11f3586c89c6e.setIcon(icon_a7b30db2885348a9ab8cc6c760a3f6ac);
+        
+    
+        var popup_de21013a81e84c9a8ba953f691440fad = L.popup({"maxWidth": 330});
+
+        
+            var html_6219eeccf0894e2a80b6f02e048a2874 = $(`<div id="html_6219eeccf0894e2a80b6f02e048a2874" style="width: 100.0%; height: 100.0%;"><b>Zeedijk-Het Zoute 759 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Zeedijk-Het Zoute 759 /@3.3003614167152175,51.35534426771886'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Zeedijk-Het Zoute 759 ","NB-8300759c00d90");'>Change Coords</a></div>`)[0];
+            popup_de21013a81e84c9a8ba953f691440fad.setContent(html_6219eeccf0894e2a80b6f02e048a2874);
+        
+
+        marker_52dde81d1e78446a89e11f3586c89c6e.bindPopup(popup_de21013a81e84c9a8ba953f691440fad)
+        ;
+
+        
+    
+    
+            var marker_babcb94d380c43c4a8b93a5961edf795 = L.marker(
+                [51.35466585039255, 3.299888895828943],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_04427291d0524165b2d13f858401fed1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_babcb94d380c43c4a8b93a5961edf795.setIcon(icon_04427291d0524165b2d13f858401fed1);
+        
+    
+        var popup_2e271d28daed40e0ac6637e936f360cf = L.popup({"maxWidth": 330});
+
+        
+            var html_66fcebb4b92242b5b7f3be22e5d0df30 = $(`<div id="html_66fcebb4b92242b5b7f3be22e5d0df30" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 147 A</b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 147 A/@3.299888895828943,51.35466585039255'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 147 A","NB-8300147A5747");'>Change Coords</a></div>`)[0];
+            popup_2e271d28daed40e0ac6637e936f360cf.setContent(html_66fcebb4b92242b5b7f3be22e5d0df30);
+        
+
+        marker_babcb94d380c43c4a8b93a5961edf795.bindPopup(popup_2e271d28daed40e0ac6637e936f360cf)
+        ;
+
+        
+    
+    
+            var marker_af13820c94a349588110c3884082aaae = L.marker(
+                [51.35547689326042, 3.303114760493126],
+                {}
+            ).addTo(feature_group_7804182a207d4042aad2e912409f2472);
+        
+    
+            var icon_58ceb01c147647d1aa4a06ac07f49491 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "simplybuilt", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_af13820c94a349588110c3884082aaae.setIcon(icon_58ceb01c147647d1aa4a06ac07f49491);
+        
+    
+        var popup_ff052d71b8bb46d789cc51fb8a746ba8 = L.popup({"maxWidth": 330});
+
+        
+            var html_ba1a00c563cb474db1d38f95def3c084 = $(`<div id="html_ba1a00c563cb474db1d38f95def3c084" style="width: 100.0%; height: 100.0%;"><b>Kustlaan 269 </b><br><br><br>                   <a target='_blank' href='https://www.google.be/maps/place/Kustlaan 269 /@3.303114760493126,51.35547689326042'>Google Maps</a><br><br><a href='#' onclick='setMarkerAdres("Kustlaan 269 ","NB-83002695d0c44");'>Change Coords</a></div>`)[0];
+            popup_ff052d71b8bb46d789cc51fb8a746ba8.setContent(html_ba1a00c563cb474db1d38f95def3c084);
+        
+
+        marker_af13820c94a349588110c3884082aaae.bindPopup(popup_ff052d71b8bb46d789cc51fb8a746ba8)
+        ;
+
+        
+    
+    
+            var feature_group_39081ead953c45a09b916203d2cbb644 = L.featureGroup(
+                {}
+            ).addTo(map_da6b00f756ab43d5a3835d5948d97b4f);
+        
+    
+            var layer_control_e62ecffa0de6433f9adcdcdf76375758 = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_ed58a33dc44f46f8a80295fcd402e86e,
+                },
+                overlays :  {
+                    "Knokke-Heist-FH04" : geo_json_689acd669f344890bef68b45c0735314,
+                    "New Builings" : feature_group_1844152861aa4b2e943242aee56800d9,
+                    "Street Survey" : feature_group_7804182a207d4042aad2e912409f2472,
+                    "Site Survey" : feature_group_39081ead953c45a09b916203d2cbb644,
+                },
+            };
+            L.control.layers(
+                layer_control_e62ecffa0de6433f9adcdcdf76375758.base_layers,
+                layer_control_e62ecffa0de6433f9adcdcdf76375758.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_da6b00f756ab43d5a3835d5948d97b4f);
+        
+</script>

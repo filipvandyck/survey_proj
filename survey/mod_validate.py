@@ -295,7 +295,16 @@ def process_for_street_survey(survey):
 
 
 
-    check_columns_must_be_the_same_for_lam(survey,['BG_Id','BG_Version','BG_Name','BG_SSV_Action','Building_FID','Building_Version','Street','Nr','Suffix','xPos','yPos','Wall_Mount','SS_Reason','Number_Floors','Height_Cable','VC_Method','SSV_Action'])
+    #check_columns_must_be_the_same_for_lam(survey,['BG_Id','Prov Status','Prov Reason','Prov Status LU','Prov Reason LU','BG_Version','BG_Name','BG_SSV_Action','Building_FID','Building_Version','Street','Nr','Suffix','xPos','yPos','Wall_Mount','SS_Reason','Number_Floors','Height_Cable','VC_Method','SSV_Action'])
+    check_columns_must_be_the_same_for_lam(survey,['BG_Id','Prov_Status','Prov_Reason','Prov_Status_LU','Prov_Reason_LU','BG_Version','BG_Name','BG_SSV_Action','Building_FID','Building_Version','Street','Nr','Suffix','xPos','yPos','Wall_Mount','SS_Reason','Number_Floors','Height_Cable','VC_Method','SSV_Action'])
+
+    #######  PROV STATUS
+    checkValidValues(survey,'Prov_Status_LU',['B',''])
+    checkValidValues(survey,'Prov_Status',['B',''])
+
+    checkValidValues(survey,'Prov_Reason',['BOWN','BNEO',''])
+    checkValidValues(survey,'Prov_Reason_LU',['BOWN','BNEO',''])
+
 
     #######  BUILDING GROUPS
     checkValidValues(survey,'BG_SSV_Action',['MODIFY','DELETE','KEEP','NEW',''])

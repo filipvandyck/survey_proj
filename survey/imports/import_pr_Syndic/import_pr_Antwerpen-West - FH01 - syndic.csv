@@ -1,0 +1,585 @@
+Projectnummer;Opdrachtnummer;SYNDIC NAME;SYNDIC ADDRESS;SYNDIC ZIPCODE;SYNDIC CITY;SYNDIC PHONE;SYNDIC EMAIL;SYNDIC DATE;Straat;Huisnummer;Huisnummer Toevoeging;Opdrachttemplate
+ANTWERPEN-WEST - FH01;5569316;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;annick@03beheer.be;2020-01-31;Bordeauxstraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;109139;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;annick@03beheer.be;2020-01-28;Bordeauxstraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;5507312;03 beheer;Belgiëlei 182;2018;Antwerpen;032859825;info@03beheer.be;2020-02-13;Bordeauxstraat;16;;BUILDING template
+ANTWERPEN-WEST - FH01;2024759;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;annick@03beheer.be;2020-02-21;Napoleonkaai;13;;BUILDING template
+ANTWERPEN-WEST - FH01;2024771;03 beheer;Belgiëlei 182;2018;Antwerpen;032859825;info@03beheer.be;2020-02-13;Napoleonkaai;19;;BUILDING template
+ANTWERPEN-WEST - FH01;2024775;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;annick@03beheer.be;2020-01-28;Napoleonkaai;23;;BUILDING template
+ANTWERPEN-WEST - FH01;12721;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;JVL@ASX.be;2019-12-10;Indiestraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;5508518;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;annick@03beheer.be;2019-09-19;Verbindingsdok-Oostkaai;23;;BUILDING template
+ANTWERPEN-WEST - FH01;2024772;03 Beheer;Belgiëlei 182;2018;Antwerpen;032859825;annick@03beheer.be;2019-09-19;Napoleonkaai;21;;BUILDING template
+ANTWERPEN-WEST - FH01;4505623;Aarimmo;Schupstraat 1;2018;Antwerpen;032252867;info@aarimmo.be;2019-12-12;Nassaustraat;14;;BUILDING template
+ANTWERPEN-WEST - FH01;4048591;Anker 18;Napelsstraat 73;2000;Antwerpen;032321818;info@anker18.be;2019-11-07;Genuastraat;11;;BUILDING template
+ANTWERPEN-WEST - FH01;1892421;Anker 18;Napelsstraat 73;2000;Antwerpen;032321818;info@anker18.be;2019-12-06;Genuastraat;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1366835;Anker 18;Napelsstraat 73;2000;Antwerpen;032321818;info@anker18.be;2020-02-20;Oudeleeuwenrui;19;;BUILDING template
+ANTWERPEN-WEST - FH01;59289;Anker 18;Napelsstraat 73;2000;Antwerpen;032321818;info@anker18.be;2019-08-28;Tavernierkaai;2;;BUILDING template
+ANTWERPEN-WEST - FH01;5963666;Anker 18;Napelsstraat 73;2000;Antwerpen;032321818;info@anker18.be;2019-09-27;Napelsstraat;73;;BUILDING template
+ANTWERPEN-WEST - FH01;2047589;Annenco;Rollebeekstraat 14;2160;Wommelgem;037071999;Maxim@annenco.be;2019-04-12;Rijnkaai;22;;BUILDING template
+ANTWERPEN-WEST - FH01;4505626;Annenco;Rollebeekstraat 14;2160;Wommelgem;037071999;Maxim@annenco.be;2019-04-11;Nassaustraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;3989962;Annenco;Rollebeekstraat 14;2160;Wommelgem;037071999;info@annenco.be;2019-09-05;Rijnkaai;23;;BUILDING template
+ANTWERPEN-WEST - FH01;2024875;Anouk Horsten;Kattendijkdok-Westkaai 33;2000;Antwerpen;0478307887;ah@notarisbogaert.be;2019-09-03;Nassaustraat;11;;BUILDING template
+ANTWERPEN-WEST - FH01;1088758;AppartCo;Herentalsebaan 77;2150;Borsbeek;035003050;geen@email.be;2019-06-18;Londenstraat;60;;BUILDING template
+ANTWERPEN-WEST - FH01;52547;Bart Dheer;Geen Adres;2000;Antwerpen;032867525;bart.dheer@elegast.be;2020-02-19;Rijnkaai;20;;BUILDING template
+ANTWERPEN-WEST - FH01;62437;Beheer;Geen Adres;2000;Antwerpen;032386566;info@beheer.be;2020-02-19;Godefriduskaai;26;;BUILDING template
+ANTWERPEN-WEST - FH01;1090148;Beheer;Geen Adres;2000;Antwerpen;032386566;info@beheer.be;2020-02-20;Godefriduskaai;28;;BUILDING template
+ANTWERPEN-WEST - FH01;62065;BNP Real Estate;Meir 48;2000;Antwerpen;022905959;geen@email.be;2019-06-18;Italielei;2;;BUILDING template
+ANTWERPEN-WEST - FH01;2047598;Braboimmo; Vlaamsekaai 90;2000;Antwerpen;032478916;tineke.michiels@braboimmo.be;2020-02-19;Rijnkaai;31;;BUILDING template
+ANTWERPEN-WEST - FH01;52539;BVBA Beheer;Amerikalei 132;2000;Antwerpen;032386566;geen@email.be;2019-04-12;Amsterdamstraat;41;;BUILDING template
+ANTWERPEN-WEST - FH01;2024913;BVBA Beheer;Amerikalei 132;2000;Antwerpen;032386566;geen@email.be;2019-04-12;Nassaustraat;20;;BUILDING template
+ANTWERPEN-WEST - FH01;1905601;Bvba Beheer;Amerikalei 132;2000;Antwerpen;032386566;geen@email.be;2020-02-27;Godefriduskaai;50;;BUILDING template
+ANTWERPEN-WEST - FH01;2047595;CoDominus beheer;Kapelsesteenweg 583;2180;Ekeren;035411877;geen@email.be;2019-08-23;Rijnkaai;28;;BUILDING template
+ANTWERPEN-WEST - FH01;4128343;Cofinimmo;Londenstraat 60;2000;Antwerpen;033736060;geen@email.be;2019-06-18;Noorderplaats;9;;BUILDING template
+ANTWERPEN-WEST - FH01;2028886;Cofinimmo;Londenstraat 60;2000;Antwerpen;023736060;geen@email.be;2019-06-18;Noorderplaats;5;;BUILDING template
+ANTWERPEN-WEST - FH01;4128344;Cofinimmo;Londenstraat 60;2000;Antwerpen;033736060;geen@email.be;2019-06-18;Noorderplaats;7;;BUILDING template
+ANTWERPEN-WEST - FH01;1892380;De ideale Woning;Diksmuidelaan 276;2000;Antwerpen;033202970;geen@email.be;2020-01-13;Genuastraat;4;A;BUILDING template
+ANTWERPEN-WEST - FH01;2069012;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;samen@deels.be;2019-09-05;Entrepotkaai;4;;BUILDING template
+ANTWERPEN-WEST - FH01;2069024;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;samen@deels.be;2019-09-05;Entrepotkaai;14;;BUILDING template
+ANTWERPEN-WEST - FH01;2069015;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;damen@deels.be;2019-09-05;Entrepotkaai;6;;BUILDING template
+ANTWERPEN-WEST - FH01;2069017;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;samen@deels.be;2019-09-05;Entrepotkaai;8;;BUILDING template
+ANTWERPEN-WEST - FH01;2069019;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;samen@deels.be;2019-09-05;Entrepotkaai;10;;BUILDING template
+ANTWERPEN-WEST - FH01;2069022;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;samen@deels.be;2019-09-05;Entrepotkaai;12;;BUILDING template
+ANTWERPEN-WEST - FH01;5576507;Deels bvba;Zagerijstraat 10;2240;Zandhoven;038080408;samen@deels.be;2019-09-05;Entrepotkaai;16;;BUILDING template
+ANTWERPEN-WEST - FH01;1960581;Dirk Lenaerts;Geen Adres;2000;Antwerpen;0499318418;geen@email.be;2019-08-20;Kattendijkdok-Westkaai;26;;BUILDING template
+ANTWERPEN-WEST - FH01;3962176;Equilibre RW bvba;Liersebaan 35;2240;Zandhoven;034804904;info@beheergebouwen.be;2019-08-28;Sint-Aldegondiskaai;38;;BUILDING template
+ANTWERPEN-WEST - FH01;1735095;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-11-08;Amsterdamstraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;1735099;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-08-19;Amsterdamstraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;108074;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-08-30;Bataviastraat;7;;BUILDING template
+ANTWERPEN-WEST - FH01;108073;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-08-30;Bataviastraat;11;;BUILDING template
+ANTWERPEN-WEST - FH01;4505621;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-12-13;Verbindingsdok-Westkaai;22;;BUILDING template
+ANTWERPEN-WEST - FH01;1128029;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-04-02;Verbindingsdok-Westkaai;26;;BUILDING template
+ANTWERPEN-WEST - FH01;1735088;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-11-08;Amsterdamstraat;14;;BUILDING template
+ANTWERPEN-WEST - FH01;62443;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2020-01-21;Godefriduskaai;12;;BUILDING template
+ANTWERPEN-WEST - FH01;62439;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-08-27;Godefriduskaai;18;;BUILDING template
+ANTWERPEN-WEST - FH01;62444;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-08-27;Godefriduskaai;22;;BUILDING template
+ANTWERPEN-WEST - FH01;2059556;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-09-27;Verbindingsdok-Westkaai;18;;BUILDING template
+ANTWERPEN-WEST - FH01;1970926;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-09-20;Kribbestraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;108081;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-04-12;Napoleonkaai;7;;BUILDING template
+ANTWERPEN-WEST - FH01;2024719;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2019-09-20;Napelsstraat;120;;BUILDING template
+ANTWERPEN-WEST - FH01;108078;Fidimco;Meir 24;2000;Antwerpen;032312617;info@fidimco.be;2020-02-25;Nassaustraat;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1287193;Globus;Belgiëlei 112;2018;Antwerpen;0475261100;erik@globus.be;2020-02-18;Godefriduskaai;16;;BUILDING template
+ANTWERPEN-WEST - FH01;1266714;Green Star;Zegeplein 3;2930;Brasschaat;036331229;geen@email.be;2019-08-23;Braziliestraat;33;;BUILDING template
+ANTWERPEN-WEST - FH01;5575022;Groep L;Ankerrui 26;2000;Antwerpen;032131367;geen@email.be;2019-09-10;Ankerrui;13;;BUILDING template
+ANTWERPEN-WEST - FH01;186520;Gysels vastgoed;Marie-Josélaan 67;2600;Berchem;0478726266;geen@email.be;2019-09-12;Ankerrui;9;;BUILDING template
+ANTWERPEN-WEST - FH01;108947;Housing beheer;Plantin en Moretuslei 12;2000;Antwerpen;032876888;info@housing-beheer.be;2020-01-17;Indiestraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;1128021;Housing beheer;Plantin en Moretuslei 12;2000;Antwerpen;032876888;info@housing-beheer.be;2019-08-22;Amsterdamstraat;28;;BUILDING template
+ANTWERPEN-WEST - FH01;4505440;Housing beheer;Plantin en Moretuslei 12;2000;Antwerpen;032876888;info@housing-beheer.be;2019-09-30;Napelsstraat;6;;BUILDING template
+ANTWERPEN-WEST - FH01;4506393;Housing beheer;Plantin en Moretuslei 12;2000;Antwerpen;032876888;info@housing-beheer.be;2019-09-22;August Michielsstraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;1128028;Housing beheer;Plantin en Moretuslei 12;2000;Antwerpen;032876888;info@housing-beheer.be;2019-09-02;Nassaustraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1735101;Human Residence;Kattendijkdok-Westkaai 41;2000;Antwerpen;0477892792;geen@email.be;2019-08-19;Amsterdamstraat;31;;BUILDING template
+ANTWERPEN-WEST - FH01;1992477;Human Residence;Kattendijkdok-Westkaai 41;2000;Antwerpen;0495523177;geen@email.be;2019-07-30;Londenstraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;1970933;Ilse van Kalsteren;Geen Adres;2000;Antwerpen;0496771819;geen@email.be;2020-02-27;Kribbestraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;108300;Immo Bollaert;Heirweg 98;9270;Laarne;012345687;geen@email.be;2019-07-30;Genuastraat;16;;BUILDING template
+ANTWERPEN-WEST - FH01;108929;Imroco nv;Geen Adres;2000;Antwerpen;015794626;info@imroco.be;2020-01-24;Cadixstraat;7;;BUILDING template
+ANTWERPEN-WEST - FH01;108294;Integraal vastgoedbeheer;Ruggeveldlaan 774;2100;Deurne;033608530;geen@email.be;2019-09-08;Napelsstraat;63;;BUILDING template
+ANTWERPEN-WEST - FH01;108293;Integraal vastgoedbeheer;Ruggeveldlaan 774;2100;Deurne;033251825;geen@email.be;2019-09-16;Napelsstraat;65;;BUILDING template
+ANTWERPEN-WEST - FH01;4126592;Jalo Beheer;Kopstraat 63;2900;Schoten;014848457;beheer@jalo.be;2019-09-12;August Michielsstraat;32;;BUILDING template
+ANTWERPEN-WEST - FH01;1735098;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2019-08-19;Amsterdamstraat;25;;BUILDING template
+ANTWERPEN-WEST - FH01;1775235;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2019-08-13;Braziliestraat;28;;BUILDING template
+ANTWERPEN-WEST - FH01;1786975;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2020-01-17;Cadixstraat;47;;BUILDING template
+ANTWERPEN-WEST - FH01;5394016;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2020-01-17;Cadixstraat;51;;BUILDING template
+ANTWERPEN-WEST - FH01;1454935;Jalo Beheer;Kopstraat 63;2900;Schoten;014848457;beheer@jalo.be;2019-12-06;Genuastraat;6;;BUILDING template
+ANTWERPEN-WEST - FH01;1892429;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2020-02-21;Genuastraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1128035;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2019-12-16;Napoleonkaai;51;;BUILDING template
+ANTWERPEN-WEST - FH01;2024873;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2020-02-21;Nassaustraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1960897;Jalo Beheer;Kopstraat 63;2900;Schoten;032570000;beheer@jalo.be;2019-09-12;Kempischdok-Westkaai;100;;BUILDING template
+ANTWERPEN-WEST - FH01;1365795;Jurimmo;Mechelsesteenweg 34;2018;Antwerpen;032306884;bart@jurimmo.be;2019-08-14;Braziliestraat;24;;BUILDING template
+ANTWERPEN-WEST - FH01;1288092;Jurimmo;Mechelsesteenweg 34;2018;Antwerpen;032306884;bart@jurimmo.be;2019-09-12;Cadixstraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;1299606;Jurimmo;Mechelsesteenweg 34;2018;Antwerpen;032306884;bart@jurimmo.be;2019-09-12;Cadixstraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;4155271;Numberz;Nassaustraat 35;2000;Antwerpen;036890809;Michael@numberz.be;2019-04-02;Nassaustraat;33;;BUILDING template
+ANTWERPEN-WEST - FH01;108292;Numberz;Nassaustraat 35;2000;Antwerpen;0475781010;geen@email.be;2019-09-08;Napelsstraat;67;;BUILDING template
+ANTWERPEN-WEST - FH01;1960587;;;;;;;2020-02-18;Kattendijkdok-Westkaai;32;;BUILDING template
+ANTWERPEN-WEST - FH01;4004297;Solvio;Fruithoflaan 17;2600;Antwerpen;032390409;geen@email.be;2019-08-23;Rijnkaai;33;;BUILDING template
+ANTWERPEN-WEST - FH01;59277;Syncura;Artsen zonder Grenzenstraat 36;2018;Antwerpen;032271614;antwerpen@syncura.be;2020-02-19;Sint-Aldegondiskaai;10;;BUILDING template
+ANTWERPEN-WEST - FH01;59274;Syncura;Artsen zonder Grenzenstraat 36;2018;Antwerpen;032271614;antwerpen@syncura.be;2020-02-18;Adriaan Brouwerstraat;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1128023;Verver NV;Indiestraat;2000;Antwerpen;012345678;dany.gybels@telenet.be;2019-09-03;Amsterdamstraat;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1960584;Verver NV;Indiestraat;2000;Antwerpen;0475843301;dany.gybels@telenet.be;2020-02-20;Kattendijkdok-Westkaai;29;;BUILDING template
+ANTWERPEN-WEST - FH01;1992494;;;;;;;;Londenstraat;13;;BUILDING template
+ANTWERPEN-WEST - FH01;1992496;;;;;;;;Londenstraat;17;;BUILDING template
+ANTWERPEN-WEST - FH01;4506378;;;;;;;;Napelsstraat;53;;BUILDING template
+ANTWERPEN-WEST - FH01;5978286;;;;;;;;Napelsstraat;71;;BUILDING template
+ANTWERPEN-WEST - FH01;108957;;;;;;;;Genuastraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;1986445;;;;;;;;Oudeleeuwenrui;3;;BUILDING template
+ANTWERPEN-WEST - FH01;4031647;;;;;;;;Genuastraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;2047587;;;;;;;;Rijnkaai;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1986450;;;;;;;;Oudeleeuwenrui;5;;BUILDING template
+ANTWERPEN-WEST - FH01;108301;;;;;;;;Genuastraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;186516;;;;;;;;Oudeleeuwenrui;7;;BUILDING template
+ANTWERPEN-WEST - FH01;6000240;;;;;;;;Indiestraat;38;;BUILDING template
+ANTWERPEN-WEST - FH01;5802358;;;;;;;;Rijnkaai;4;;BUILDING template
+ANTWERPEN-WEST - FH01;186517;;;;;;;;Oudeleeuwenrui;13;;BUILDING template
+ANTWERPEN-WEST - FH01;1949212;;;;;;;;Indiestraat;44;;BUILDING template
+ANTWERPEN-WEST - FH01;186515;;;;;;;;Oudeleeuwenrui;25;;BUILDING template
+ANTWERPEN-WEST - FH01;1088922;;;;;;;;Adriaan Brouwerstraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;1734637;;;;;;;;Sint-Aldegondiskaai;58;;BUILDING template
+ANTWERPEN-WEST - FH01;5575903;;;;;;;;Oudeleeuwenrui;31;;BUILDING template
+ANTWERPEN-WEST - FH01;1781985;;;;;;;;Adriaan Brouwerstraat;13;;BUILDING template
+ANTWERPEN-WEST - FH01;62430;;;;;;;;Oudeleeuwenrui;33;;BUILDING template
+ANTWERPEN-WEST - FH01;4128342;;;;;;;;Londenstraat;58;;BUILDING template
+ANTWERPEN-WEST - FH01;1986516;;;;;;;;Oudeleeuwenrui;35;;BUILDING template
+ANTWERPEN-WEST - FH01;62433;;;;;;;;Oudeleeuwenrui;47;;BUILDING template
+ANTWERPEN-WEST - FH01;1782029;;;;;;;2019-03-26;Adriaan Brouwerstraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;108303;;;;;;;;Londenstraat;53;;BUILDING template
+ANTWERPEN-WEST - FH01;108296;;;;;;;;Rigastraat;26;;BUILDING template
+ANTWERPEN-WEST - FH01;1782040;;;;;;;;Adriaan Brouwerstraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;1734627;;;;;;;;Sint-Aldegondiskaai;20;;BUILDING template
+ANTWERPEN-WEST - FH01;1782047;;;;;;;;Adriaan Brouwerstraat;29;;BUILDING template
+ANTWERPEN-WEST - FH01;4505458;;;;;;;;Napelsstraat;34;;BUILDING template
+ANTWERPEN-WEST - FH01;1782050;;;;;;;;Adriaan Brouwerstraat;31;;BUILDING template
+ANTWERPEN-WEST - FH01;59276;;;;;;;;Sint-Aldegondiskaai;30;;BUILDING template
+ANTWERPEN-WEST - FH01;182977;;;;;;;;Adriaan Brouwerstraat;33;;BUILDING template
+ANTWERPEN-WEST - FH01;109078;;;;;;;;Rijnkaai;25;;BUILDING template
+ANTWERPEN-WEST - FH01;1735094;;;;;;;;Amsterdamstraat;16;;BUILDING template
+ANTWERPEN-WEST - FH01;2047591;;;;;;;;Rijnkaai;26;;BUILDING template
+ANTWERPEN-WEST - FH01;108283;;;;;;;;Kempischdok-Westkaai;90;;BUILDING template
+ANTWERPEN-WEST - FH01;2047593;;;;;;;;Rijnkaai;27;;BUILDING template
+ANTWERPEN-WEST - FH01;59279;;;;;;;;Sint-Aldegondiskaai;36;;BUILDING template
+ANTWERPEN-WEST - FH01;52537;;;;;;;;Amsterdamstraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;2047596;;;;;;;;Rijnkaai;29;;BUILDING template
+ANTWERPEN-WEST - FH01;1734631;;;;;;;;Sint-Aldegondiskaai;44;;BUILDING template
+ANTWERPEN-WEST - FH01;108082;;;;;;;;Amsterdamstraat;22;;BUILDING template
+ANTWERPEN-WEST - FH01;2047597;;;;;;;;Rijnkaai;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1734632;;;;;;;;Sint-Aldegondiskaai;46;;BUILDING template
+ANTWERPEN-WEST - FH01;108942;;;;;;;;Indiestraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;1735097;;;;;;;;Amsterdamstraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;108955;;;;;;;;Kempischdok-Westkaai;20;;BUILDING template
+ANTWERPEN-WEST - FH01;4513324;;;;;;;;Sint-Aldegondiskaai;48;;BUILDING template
+ANTWERPEN-WEST - FH01;1734633;;;;;;;;Sint-Aldegondiskaai;50;;BUILDING template
+ANTWERPEN-WEST - FH01;1949013;;;;;;;;Indiestraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1734634;;;;;;;;Sint-Aldegondiskaai;52;;BUILDING template
+ANTWERPEN-WEST - FH01;1734635;;;;;;;;Sint-Aldegondiskaai;54;;BUILDING template
+ANTWERPEN-WEST - FH01;5492426;;;;;;;;Indiestraat;12;B;BUILDING template
+ANTWERPEN-WEST - FH01;1734636;;;;;;;;Sint-Aldegondiskaai;56;;BUILDING template
+ANTWERPEN-WEST - FH01;108952;;;;;;;2018-08-24;Napelsstraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;1128022;;;;;;;;Amsterdamstraat;32;;BUILDING template
+ANTWERPEN-WEST - FH01;1970984;;;;;;;;Kribbestraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;1734638;;;;;;;;Sint-Aldegondiskaai;60;;BUILDING template
+ANTWERPEN-WEST - FH01;4505438;;;;;;;;Napelsstraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;4513329;;;;;;;;Sint-Aldegondiskaai;62;;BUILDING template
+ANTWERPEN-WEST - FH01;1735103;;;;;;;;Amsterdamstraat;34;;BUILDING template
+ANTWERPEN-WEST - FH01;59280;;;;;;;;Sint-Aldegondiskaai;64;;BUILDING template
+ANTWERPEN-WEST - FH01;1735104;;;;;;;;Amsterdamstraat;35;;BUILDING template
+ANTWERPEN-WEST - FH01;109072;;;;;;;;Sint-Laureiskaai;7;;BUILDING template
+ANTWERPEN-WEST - FH01;4505442;;;;;;;;Napelsstraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;108085;;;;;;;;Amsterdamstraat;36;;BUILDING template
+ANTWERPEN-WEST - FH01;1970988;;;;;;;;Kribbestraat;20;;BUILDING template
+ANTWERPEN-WEST - FH01;1984033;;;;;;;;Sint-Laureiskaai;13;;BUILDING template
+ANTWERPEN-WEST - FH01;109084;;;;;;;;Amsterdamstraat;37;;BUILDING template
+ANTWERPEN-WEST - FH01;1735105;;;;;;;;Amsterdamstraat;39;;BUILDING template
+ANTWERPEN-WEST - FH01;59302;;;;;;;;Spanjaardsteeg;1;;BUILDING template
+ANTWERPEN-WEST - FH01;2024656;;;;;;;;Napelsstraat;40;;BUILDING template
+ANTWERPEN-WEST - FH01;2053439;;;;;;;;Spanjaardsteeg;3;;BUILDING template
+ANTWERPEN-WEST - FH01;2053440;;;;;;;;Spanjaardsteeg;5;;BUILDING template
+ANTWERPEN-WEST - FH01;4505443;;;;;;;;Napelsstraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;4510642;;;;;;;;Ankerrui;15;;BUILDING template
+ANTWERPEN-WEST - FH01;186509;;;;;;;;Spanjaardsteeg;19;;BUILDING template
+ANTWERPEN-WEST - FH01;2008888;;;;;;;;August Michielsstraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;2008915;;;;;;;;August Michielsstraat;6;;BUILDING template
+ANTWERPEN-WEST - FH01;1775168;;;;;;;;Braziliestraat;2;A;BUILDING template
+ANTWERPEN-WEST - FH01;4145817;;;;;;;;August Michielsstraat;16;;BUILDING template
+ANTWERPEN-WEST - FH01;4506381;;;;;;;;August Michielsstraat;17;;BUILDING template
+ANTWERPEN-WEST - FH01;1986469;;;;;;;;Oudeleeuwenrui;15;;BUILDING template
+ANTWERPEN-WEST - FH01;2051445;;;;;;;;Van Schoonbekeplein;3;;BUILDING template
+ANTWERPEN-WEST - FH01;6440424;;;;;;;;Braziliestraat;2;E;BUILDING template
+ANTWERPEN-WEST - FH01;59293;;;;;;;;Van Schoonbekeplein;4;;BUILDING template
+ANTWERPEN-WEST - FH01;2009021;;;;;;;;August Michielsstraat;22;;BUILDING template
+ANTWERPEN-WEST - FH01;59296;;;;;;;;Van Schoonbekeplein;11;;BUILDING template
+ANTWERPEN-WEST - FH01;4511988;;;;;;;;Braziliestraat;26;;BUILDING template
+ANTWERPEN-WEST - FH01;2009033;;;;;;;;August Michielsstraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;2051451;;;;;;;;Van Schoonbekeplein;13;;BUILDING template
+ANTWERPEN-WEST - FH01;5802357;;;;;;;;Rijnkaai;2;;BUILDING template
+ANTWERPEN-WEST - FH01;108275;;;;;;;;August Michielsstraat;24;;BUILDING template
+ANTWERPEN-WEST - FH01;6005416;;;;;;;;Oudeleeuwenrui;11;;BUILDING template
+ANTWERPEN-WEST - FH01;2051452;;;;;;;;Van Schoonbekeplein;15;;BUILDING template
+ANTWERPEN-WEST - FH01;6395025;;;;;;;;Rijnkaai;12;;BUILDING template
+ANTWERPEN-WEST - FH01;4101358;;;;;;;;August Michielsstraat;25;;BUILDING template
+ANTWERPEN-WEST - FH01;2051455;;;;;;;;Van Schoonbekeplein;19;;BUILDING template
+ANTWERPEN-WEST - FH01;1015486;;;;;;;;Rijnkaai;15;;BUILDING template
+ANTWERPEN-WEST - FH01;108271;;;;;;;;August Michielsstraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;59295;;;;;;;;Van Schoonbekeplein;21;;BUILDING template
+ANTWERPEN-WEST - FH01;4510620;;;;;;;;Van Schoonbekeplein;23;;BUILDING template
+ANTWERPEN-WEST - FH01;109135;;;;;;;;Verbindingsdok-Oostkaai;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1984031;;;;;;;;Sint-Laureiskaai;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1265934;;;;;;;;August Michielsstraat;34;;BUILDING template
+ANTWERPEN-WEST - FH01;2059542;;;;;;;;Verbindingsdok-Oostkaai;5;;BUILDING template
+ANTWERPEN-WEST - FH01;108068;;;;;;;;Verbindingsdok-Westkaai;30;;BUILDING template
+ANTWERPEN-WEST - FH01;108272;;;;;;;;August Michielsstraat;38;;BUILDING template
+ANTWERPEN-WEST - FH01;2059544;;;;;;;;Verbindingsdok-Oostkaai;7;;BUILDING template
+ANTWERPEN-WEST - FH01;4021011;;;;;;;;Verbindingsdok-Westkaai;28;;BUILDING template
+ANTWERPEN-WEST - FH01;108075;;;;;;;;Bataviastraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;2059545;;;;;;;;Verbindingsdok-Oostkaai;9;;BUILDING template
+ANTWERPEN-WEST - FH01;2059553;;;;;;;;Verbindingsdok-Westkaai;12;A;BUILDING template
+ANTWERPEN-WEST - FH01;108069;;;;;;;;Verbindingsdok-Westkaai;2;;BUILDING template
+ANTWERPEN-WEST - FH01;1735096;;;;;;;;Amsterdamstraat;20;;BUILDING template
+ANTWERPEN-WEST - FH01;2059548;;;;;;;;Verbindingsdok-Westkaai;4;;BUILDING template
+ANTWERPEN-WEST - FH01;2067063;;;;;;;;Bataviastraat;19;;BUILDING template
+ANTWERPEN-WEST - FH01;2059549;;;;;;;;Verbindingsdok-Westkaai;6;;BUILDING template
+ANTWERPEN-WEST - FH01;1746379;;;;;;;;Binnenvaartstraat;50;;BUILDING template
+ANTWERPEN-WEST - FH01;2059550;;;;;;;;Verbindingsdok-Westkaai;8;;BUILDING template
+ANTWERPEN-WEST - FH01;4059303;;;;;;;;Nassaustraat;22;;BUILDING template
+ANTWERPEN-WEST - FH01;109137;;;;;;;;Bordeauxstraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;2059551;;;;;;;;Verbindingsdok-Westkaai;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1755770;;;;;;;;Bordeauxstraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;2059554;;;;;;;;Verbindingsdok-Westkaai;14;;BUILDING template
+ANTWERPEN-WEST - FH01;4092751;;;;;;;;Bordeauxstraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;2059555;;;;;;;;Verbindingsdok-Westkaai;16;;BUILDING template
+ANTWERPEN-WEST - FH01;2024854;;;;;;;;Nassaustraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;4153712;;;;;;;;Bordeauxstraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;2059557;;;;;;;;Verbindingsdok-Westkaai;20;;BUILDING template
+ANTWERPEN-WEST - FH01;1755771;;;;;;;;Bordeauxstraat;7;A;BUILDING template
+ANTWERPEN-WEST - FH01;1755774;;;;;;;;Bordeauxstraat;7;C;BUILDING template
+ANTWERPEN-WEST - FH01;108787;;;;;;;;Bordeauxstraat;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1755779;;;;;;;;Bordeauxstraat;11;;BUILDING template
+ANTWERPEN-WEST - FH01;11983;;;;;;;;Zeevaartstraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;109140;;;;;;;;Bordeauxstraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;2066332;;;;;;;;Zeevaartstraat;6;;BUILDING template
+ANTWERPEN-WEST - FH01;5944507;;;;;;;;Kattendijkdok-Westkaai;91;;BUILDING template
+ANTWERPEN-WEST - FH01;186510;;;;;;;;Zeevaartstraat;16;;BUILDING template
+ANTWERPEN-WEST - FH01;4511975;;;;;;;;Braziliestraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;4042596;;;;;;;;Hanzestedenplaats;5;;BUILDING template
+ANTWERPEN-WEST - FH01;59271;;;;;;;;Adriaan Brouwerstraat;17;;BUILDING template
+ANTWERPEN-WEST - FH01;4511920;;;;;;;;Kattendijkdok-Westkaai;42;;BUILDING template
+ANTWERPEN-WEST - FH01;1775191;;;;;;;;Braziliestraat;15;;BUILDING template
+ANTWERPEN-WEST - FH01;6525842;;;;;;;;Kattendijkdok-Westkaai;43;;BUILDING template
+ANTWERPEN-WEST - FH01;1775195;;;;;;;;Braziliestraat;17;;BUILDING template
+ANTWERPEN-WEST - FH01;108083;;;;;;;;Amsterdamstraat;24;;BUILDING template
+ANTWERPEN-WEST - FH01;5944504;;;;;;;;Kattendijkdok-Westkaai;81;;BUILDING template
+ANTWERPEN-WEST - FH01;1775199;;;;;;;;Braziliestraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;62428;;;;;;;;Entrepotplaats;18;;BUILDING template
+ANTWERPEN-WEST - FH01;5891727;;;;;;;;Kattendijkdok-Westkaai;71;;BUILDING template
+ANTWERPEN-WEST - FH01;1775206;;;;;;;;Braziliestraat;22;;BUILDING template
+ANTWERPEN-WEST - FH01;1735100;;;;;;;;Amsterdamstraat;29;;BUILDING template
+ANTWERPEN-WEST - FH01;5804916;;;;;;;;Kattendijkdok-Westkaai;61;;BUILDING template
+ANTWERPEN-WEST - FH01;1735143;;;;;;;;Ankerrui;5;;BUILDING template
+ANTWERPEN-WEST - FH01;62446;;;;;;;;Ankerrui;11;;BUILDING template
+ANTWERPEN-WEST - FH01;4511990;;;;;;;;Braziliestraat;30;;BUILDING template
+ANTWERPEN-WEST - FH01;2008923;;;;;;;;August Michielsstraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;972217;;;;;;;;August Michielsstraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1775251;;;;;;;;Braziliestraat;37;;BUILDING template
+ANTWERPEN-WEST - FH01;2008939;;;;;;;;August Michielsstraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1775252;;;;;;;;Braziliestraat;38;;BUILDING template
+ANTWERPEN-WEST - FH01;2008982;;;;;;;;August Michielsstraat;15;;BUILDING template
+ANTWERPEN-WEST - FH01;1775258;;;;;;;;Braziliestraat;41;;BUILDING template
+ANTWERPEN-WEST - FH01;108930;;;;;;;;Cadixstraat;1;;BUILDING template
+ANTWERPEN-WEST - FH01;2008988;;;;;;;;August Michielsstraat;19;;BUILDING template
+ANTWERPEN-WEST - FH01;1786795;;;;;;;;Cadixstraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;108076;;;;;;;;Bataviastraat;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1905662;;;;;;;;Godefriduskaai;58;;BUILDING template
+ANTWERPEN-WEST - FH01;108788;;;;;;;;Bordeauxstraat;7;;BUILDING template
+ANTWERPEN-WEST - FH01;1786894;;;;;;;;Cadixstraat;35;;BUILDING template
+ANTWERPEN-WEST - FH01;4510612;;;;;;;;Oudeleeuwenrui;17;;BUILDING template
+ANTWERPEN-WEST - FH01;108299;;;;;;;;Cadixstraat;37;;BUILDING template
+ANTWERPEN-WEST - FH01;5507308;;;;;;;;Bordeauxstraat;10;A;BUILDING template
+ANTWERPEN-WEST - FH01;1195065;;;;;;;;Kattendijkdok-Westkaai;51;;BUILDING template
+ANTWERPEN-WEST - FH01;108298;;;;;;;;Cadixstraat;39;;BUILDING template
+ANTWERPEN-WEST - FH01;4511892;;;;;;;;Kattendijkdok-Westkaai;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1786953;;;;;;;;Cadixstraat;43;;BUILDING template
+ANTWERPEN-WEST - FH01;1775176;;;;;;;;Braziliestraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;108783;;;;;;;;Kribbestraat;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1775185;;;;;;;;Braziliestraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1128033;;;;;;;;Kribbestraat;11;;BUILDING template
+ANTWERPEN-WEST - FH01;5751357;;;;;;;;Nassaustraat;34;A;BUILDING template
+ANTWERPEN-WEST - FH01;1892372;;;;;;;;Genuastraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1775203;;;;;;;;Braziliestraat;19;;BUILDING template
+ANTWERPEN-WEST - FH01;1992472;;;;;;;;Londenstraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;2024962;;;;;;;;Nassaustraat;42;;BUILDING template
+ANTWERPEN-WEST - FH01;2069014;;;;;;;;Entrepotkaai;5;;BUILDING template
+ANTWERPEN-WEST - FH01;1775213;;;;;;;;Braziliestraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;1266447;;;;;;;;Londenstraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;5575585;;;;;;;;Genuastraat;7;;BUILDING template
+ANTWERPEN-WEST - FH01;4511909;;;;;;;;Braziliestraat;25;;BUILDING template
+ANTWERPEN-WEST - FH01;4506352;;;;;;;;Genuastraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;4510542;;;;;;;;Londenstraat;14;;BUILDING template
+ANTWERPEN-WEST - FH01;4506351;;;;;;;;Genuastraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;1775218;;;;;;;;Braziliestraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;4506376;;;;;;;;Londenstraat;15;;BUILDING template
+ANTWERPEN-WEST - FH01;2069018;;;;;;;;Entrepotkaai;9;;BUILDING template
+ANTWERPEN-WEST - FH01;4511991;;;;;;;;Braziliestraat;32;;BUILDING template
+ANTWERPEN-WEST - FH01;1992508;;;;;;;;Londenstraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;4070580;;;;;;;;Genuastraat;14;;BUILDING template
+ANTWERPEN-WEST - FH01;4511992;;;;;;;;Braziliestraat;34;;BUILDING template
+ANTWERPEN-WEST - FH01;59299;;;;;;;;Godefriduskaai;2;;BUILDING template
+ANTWERPEN-WEST - FH01;1992564;;;;;;;;Londenstraat;45;;BUILDING template
+ANTWERPEN-WEST - FH01;1786771;;;;;;;;Cadixstraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;1294704;;;;;;;;Londenstraat;47;;BUILDING template
+ANTWERPEN-WEST - FH01;3928764;;;;;;;;Entrepotkaai;13;;BUILDING template
+ANTWERPEN-WEST - FH01;1892503;;;;;;;;Genuastraat;17;;BUILDING template
+ANTWERPEN-WEST - FH01;5906909;;;;;;;;Londenstraat;56;;BUILDING template
+ANTWERPEN-WEST - FH01;1905254;;;;;;;;Godefriduskaai;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1866317;;;;;;;;Entrepotplaats;10;;BUILDING template
+ANTWERPEN-WEST - FH01;4510648;;;;;;;;Godefriduskaai;6;;BUILDING template
+ANTWERPEN-WEST - FH01;185911;;;;;;;;Entrepotkaai;3;;BUILDING template
+ANTWERPEN-WEST - FH01;62440;;;;;;;;Godefriduskaai;36;;BUILDING template
+ANTWERPEN-WEST - FH01;2015971;;;;;;;;Montevideostraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;1295616;;;;;;;;Entrepotplaats;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1905268;;;;;;;;Godefriduskaai;8;;BUILDING template
+ANTWERPEN-WEST - FH01;3954604;;;;;;;;Hanzestedenplaats;1;;BUILDING template
+ANTWERPEN-WEST - FH01;2015972;;;;;;;;Montevideostraat;5;;BUILDING template
+ANTWERPEN-WEST - FH01;1088919;;;;;;;;Entrepotplaats;16;;BUILDING template
+ANTWERPEN-WEST - FH01;1905273;;;;;;;;Godefriduskaai;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1948967;;;;;;;;Indiestraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;2024627;;;;;;;;Napelsstraat;25;;BUILDING template
+ANTWERPEN-WEST - FH01;108958;;;;;;;;Genuastraat;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1089007;;;;;;;;Indiestraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;108791;;;;;;;;Napelsstraat;112;;BUILDING template
+ANTWERPEN-WEST - FH01;108940;;;;;;;;Indiestraat;36;;BUILDING template
+ANTWERPEN-WEST - FH01;108079;;;;;;;;Napoleonkaai;1;;BUILDING template
+ANTWERPEN-WEST - FH01;108080;;;;;;;;Napoleonkaai;3;;BUILDING template
+ANTWERPEN-WEST - FH01;1905577;;;;;;;;Godefriduskaai;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1950413;;;;;;;;Italielei;2;A;BUILDING template
+ANTWERPEN-WEST - FH01;62442;;;;;;;;Godefriduskaai;32;;BUILDING template
+ANTWERPEN-WEST - FH01;62060;;;;;;;;Italielei;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1206770;;;;;;;;Nassaustraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;4510651;;;;;;;;Godefriduskaai;34;;BUILDING template
+ANTWERPEN-WEST - FH01;2024906;;;;;;;;Nassaustraat;18;A;BUILDING template
+ANTWERPEN-WEST - FH01;2024788;;;;;;;;Napoleonkaai;35;;BUILDING template
+ANTWERPEN-WEST - FH01;1128025;;;;;;;;Nassaustraat;31;;BUILDING template
+ANTWERPEN-WEST - FH01;1905643;;;;;;;;Godefriduskaai;52;;BUILDING template
+ANTWERPEN-WEST - FH01;1960577;;;;;;;;Kattendijkdok-Westkaai;21;;BUILDING template
+ANTWERPEN-WEST - FH01;2024805;;;;;;;;Napoleonkaai;41;;BUILDING template
+ANTWERPEN-WEST - FH01;4510637;;;;;;;;Godefriduskaai;54;;BUILDING template
+ANTWERPEN-WEST - FH01;108794;;;;;;;;Napoleonkaai;45;;BUILDING template
+ANTWERPEN-WEST - FH01;109069;;;;;;;;Nassaustraat;36;;BUILDING template
+ANTWERPEN-WEST - FH01;108948;;;;;;;;Indiestraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1195063;;;;;;;;Kattendijkdok-Westkaai;41;;BUILDING template
+ANTWERPEN-WEST - FH01;2024953;;;;;;;;Nassaustraat;40;;BUILDING template
+ANTWERPEN-WEST - FH01;108067;;;;;;;;Nassaustraat;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1986487;;;;;;;;Oudeleeuwenrui;23;;BUILDING template
+ANTWERPEN-WEST - FH01;1949119;;;;;;;;Indiestraat;26;;BUILDING template
+ANTWERPEN-WEST - FH01;186519;;;;;;;;Oudeleeuwenrui;29;;BUILDING template
+ANTWERPEN-WEST - FH01;1949129;;;;;;;;Indiestraat;28;;BUILDING template
+ANTWERPEN-WEST - FH01;186518;;;;;;;;Oudeleeuwenrui;37;;BUILDING template
+ANTWERPEN-WEST - FH01;1949160;;;;;;;;Indiestraat;30;;BUILDING template
+ANTWERPEN-WEST - FH01;4505462;;;;;;;;Indiestraat;32;;BUILDING template
+ANTWERPEN-WEST - FH01;4274709;;;;;;;;Nassaustraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1949181;;;;;;;;Indiestraat;34;;BUILDING template
+ANTWERPEN-WEST - FH01;1734625;;;;;;;;Sint-Aldegondiskaai;18;;BUILDING template
+ANTWERPEN-WEST - FH01;3962177;;;;;;;;Sint-Aldegondiskaai;40;;BUILDING template
+ANTWERPEN-WEST - FH01;4509558;;;;;;;;Sint-Laureiskaai;8;;BUILDING template
+ANTWERPEN-WEST - FH01;108937;;;;;;;;Kattendijkdok-Oostkaai;3;;BUILDING template
+ANTWERPEN-WEST - FH01;59300;;;;;;;;Spanjaardsteeg;21;;BUILDING template
+ANTWERPEN-WEST - FH01;1960564;;;;;;;;Kattendijkdok-Oostkaai;6;;BUILDING template
+ANTWERPEN-WEST - FH01;1960565;;;;;;;;Kattendijkdok-Oostkaai;7;;BUILDING template
+ANTWERPEN-WEST - FH01;1960566;;;;;;;;Kattendijkdok-Oostkaai;8;;BUILDING template
+ANTWERPEN-WEST - FH01;1960567;;;;;;;;Kattendijkdok-Oostkaai;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1960569;;;;;;;;Kattendijkdok-Oostkaai;11;;BUILDING template
+ANTWERPEN-WEST - FH01;1960570;;;;;;;;Kattendijkdok-Oostkaai;12;;BUILDING template
+ANTWERPEN-WEST - FH01;59298;;;;;;;;Van Schoonbekeplein;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1960571;;;;;;;;Kattendijkdok-Oostkaai;13;;BUILDING template
+ANTWERPEN-WEST - FH01;2051446;;;;;;;;Van Schoonbekeplein;5;;BUILDING template
+ANTWERPEN-WEST - FH01;1960572;;;;;;;;Kattendijkdok-Oostkaai;14;;BUILDING template
+ANTWERPEN-WEST - FH01;2051449;;;;;;;;Van Schoonbekeplein;7;;BUILDING template
+ANTWERPEN-WEST - FH01;6077503;;;;;;;;Londenstraat;49;;BUILDING template
+ANTWERPEN-WEST - FH01;1960573;;;;;;;;Kattendijkdok-Oostkaai;15;;BUILDING template
+ANTWERPEN-WEST - FH01;2059541;;;;;;;;Verbindingsdok-Oostkaai;3;;BUILDING template
+ANTWERPEN-WEST - FH01;108939;;;;;;;;Kattendijkdok-Oostkaai;5;;BUILDING template
+ANTWERPEN-WEST - FH01;4505471;;;;;;;;Kattendijkdok-Oostkaai;16;;BUILDING template
+ANTWERPEN-WEST - FH01;6463255;;;;;;;;Catharina Pepijnstraat;3;A;BUILDING template
+ANTWERPEN-WEST - FH01;108936;;;;;;;;Kattendijkdok-Oostkaai;17;;BUILDING template
+ANTWERPEN-WEST - FH01;5507311;;;;;;;;Verbindingsdok-Oostkaai;29;;BUILDING template
+ANTWERPEN-WEST - FH01;2059552;;;;;;;;Verbindingsdok-Westkaai;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1128037;;;;;;;;Kattendijkdok-Westkaai;16;;BUILDING template
+ANTWERPEN-WEST - FH01;1960580;;;;;;;;Kattendijkdok-Westkaai;25;;BUILDING template
+ANTWERPEN-WEST - FH01;1128020;;;;;;;;Verbindingsdok-Westkaai;24;;BUILDING template
+ANTWERPEN-WEST - FH01;1960582;;;;;;;;Kattendijkdok-Westkaai;27;;BUILDING template
+ANTWERPEN-WEST - FH01;62435;;;;;;;;Zeevaartstraat;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1960583;;;;;;;;Kattendijkdok-Westkaai;28;;BUILDING template
+ANTWERPEN-WEST - FH01;5576453;;;;;;;;Zeevaartstraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;62434;;;;;;;;Zeevaartstraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;1960586;;;;;;;;Kattendijkdok-Westkaai;31;;BUILDING template
+ANTWERPEN-WEST - FH01;11985;;;;;;;;Kattendijkdok-Westkaai;33;;BUILDING template
+ANTWERPEN-WEST - FH01;1960880;;;;;;;;Kempischdok-Westkaai;6;;BUILDING template
+ANTWERPEN-WEST - FH01;1960881;;;;;;;;Kempischdok-Westkaai;8;;BUILDING template
+ANTWERPEN-WEST - FH01;4048873;;;;;;;;Kempischdok-Westkaai;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1960882;;;;;;;;Kempischdok-Westkaai;12;;BUILDING template
+ANTWERPEN-WEST - FH01;5507310;;;;;;;;Verbindingsdok-Oostkaai;27;;BUILDING template
+ANTWERPEN-WEST - FH01;4505465;;;;;;;;Kempischdok-Westkaai;14;;BUILDING template
+ANTWERPEN-WEST - FH01;5507309;;;;;;;;Verbindingsdok-Oostkaai;21;;BUILDING template
+ANTWERPEN-WEST - FH01;108288;;;;;;;;Kempischdok-Westkaai;26;;BUILDING template
+ANTWERPEN-WEST - FH01;1960886;;;;;;;;Kempischdok-Westkaai;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1755772;;;;;;;;Bordeauxstraat;7;B;BUILDING template
+ANTWERPEN-WEST - FH01;6198471;;;;;;;;Sint-Aldegondiskaai;2;;BUILDING template
+ANTWERPEN-WEST - FH01;1960887;;;;;;;;Kempischdok-Westkaai;32;;BUILDING template
+ANTWERPEN-WEST - FH01;1960888;;;;;;;;Kempischdok-Westkaai;34;;BUILDING template
+ANTWERPEN-WEST - FH01;1128032;;;;;;;;Londenstraat;30;;BUILDING template
+ANTWERPEN-WEST - FH01;108785;;;;;;;;Kribbestraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;4513307;;;;;;;;Sint-Aldegondiskaai;24;;BUILDING template
+ANTWERPEN-WEST - FH01;4506388;;;;;;;;Kempischdok-Westkaai;36;;BUILDING template
+ANTWERPEN-WEST - FH01;108287;;;;;;;;Kempischdok-Westkaai;38;;BUILDING template
+ANTWERPEN-WEST - FH01;1970943;;;;;;;;Kribbestraat;6;;BUILDING template
+ANTWERPEN-WEST - FH01;6242346;;;;;;;;Sint-Aldegondiskaai;42;;BUILDING template
+ANTWERPEN-WEST - FH01;108284;;;;;;;;Kempischdok-Westkaai;74;;BUILDING template
+ANTWERPEN-WEST - FH01;1970946;;;;;;;;Kribbestraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;62432;;;;;;;;Oudeleeuwenrui;1;;BUILDING template
+ANTWERPEN-WEST - FH01;1960890;;;;;;;;Kempischdok-Westkaai;76;;BUILDING template
+ANTWERPEN-WEST - FH01;1970954;;;;;;;;Kribbestraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;1960891;;;;;;;;Kempischdok-Westkaai;78;;BUILDING template
+ANTWERPEN-WEST - FH01;186506;;;;;;;;Kribbestraat;12;;BUILDING template
+ANTWERPEN-WEST - FH01;1986483;;;;;;;;Oudeleeuwenrui;21;;BUILDING template
+ANTWERPEN-WEST - FH01;1960892;;;;;;;;Kempischdok-Westkaai;80;;BUILDING template
+ANTWERPEN-WEST - FH01;1970973;;;;;;;;Kribbestraat;13;;BUILDING template
+ANTWERPEN-WEST - FH01;1960893;;;;;;;;Kempischdok-Westkaai;82;;BUILDING template
+ANTWERPEN-WEST - FH01;5804911;;;;;;;;Kattendijkdok-Westkaai;56;;BUILDING template
+ANTWERPEN-WEST - FH01;4506128;;;;;;;;Kribbestraat;14;;BUILDING template
+ANTWERPEN-WEST - FH01;62436;;;;;;;;Zeevaartstraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1986500;;;;;;;;Oudeleeuwenrui;27;;BUILDING template
+ANTWERPEN-WEST - FH01;4016605;;;;;;;;Kempischdok-Westkaai;98;;BUILDING template
+ANTWERPEN-WEST - FH01;1970980;;;;;;;;Kribbestraat;15;;BUILDING template
+ANTWERPEN-WEST - FH01;108273;;;;;;;;August Michielsstraat;26;;BUILDING template
+ANTWERPEN-WEST - FH01;1986523;;;;;;;;Oudeleeuwenrui;37;A;BUILDING template
+ANTWERPEN-WEST - FH01;4505630;;;;;;;;Nassaustraat;41;;BUILDING template
+ANTWERPEN-WEST - FH01;108782;;;;;;;;Kribbestraat;24;;BUILDING template
+ANTWERPEN-WEST - FH01;108276;;;;;;;;August Michielsstraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;1088925;;;;;;;;Oudeleeuwenrui;39;;BUILDING template
+ANTWERPEN-WEST - FH01;108306;;;;;;;;Londenstraat;1;;BUILDING template
+ANTWERPEN-WEST - FH01;108282;;;;;;;;Kempischdok-Westkaai;92;;BUILDING template
+ANTWERPEN-WEST - FH01;2066334;;;;;;;;Zeevaartstraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;109143;;;;;;;;Londenstraat;2;;BUILDING template
+ANTWERPEN-WEST - FH01;108941;;;;;;;;Indiestraat;22;;BUILDING template
+ANTWERPEN-WEST - FH01;1992574;;;;;;;;Londenstraat;53;A;BUILDING template
+ANTWERPEN-WEST - FH01;109146;;;;;;;;Londenstraat;4;;BUILDING template
+ANTWERPEN-WEST - FH01;1933982;;;;;;;;Hanzestedenplaats;3;;BUILDING template
+ANTWERPEN-WEST - FH01;4510623;;;;;;;;Ankerrui;1;;BUILDING template
+ANTWERPEN-WEST - FH01;2066333;;;;;;;;Zeevaartstraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;62445;;;;;;;;Ankerrui;3;;BUILDING template
+ANTWERPEN-WEST - FH01;1992481;;;;;;;;Londenstraat;6;;BUILDING template
+ANTWERPEN-WEST - FH01;1735144;;;;;;;;Ankerrui;7;;BUILDING template
+ANTWERPEN-WEST - FH01;1992482;;;;;;;;Catharina Pepijnstraat;7;;BUILDING template
+ANTWERPEN-WEST - FH01;6419169;;;;;;;;Braziliestraat;2;D;BUILDING template
+ANTWERPEN-WEST - FH01;52549;;;;;;;;Braziliestraat;43;;BUILDING template
+ANTWERPEN-WEST - FH01;1992485;;;;;;;;Londenstraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;6419634;;;;;;;;Braziliestraat;2;C;BUILDING template
+ANTWERPEN-WEST - FH01;1992488;;;;;;;;Londenstraat;10;;BUILDING template
+ANTWERPEN-WEST - FH01;4511917;;;;;;;;Braziliestraat;39;;BUILDING template
+ANTWERPEN-WEST - FH01;1506186;;;;;;;;Catharina Pepijnstraat;11;;BUILDING template
+ANTWERPEN-WEST - FH01;1992495;;;;;;;;Londenstraat;16;;BUILDING template
+ANTWERPEN-WEST - FH01;4511993;;;;;;;;Braziliestraat;36;;BUILDING template
+ANTWERPEN-WEST - FH01;109147;;;;;;;;Londenstraat;18;;BUILDING template
+ANTWERPEN-WEST - FH01;108796;;;;;;;;Londenstraat;20;;BUILDING template
+ANTWERPEN-WEST - FH01;1992511;;;;;;;;Londenstraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;1992517;;;;;;;;Londenstraat;24;;BUILDING template
+ANTWERPEN-WEST - FH01;1992519;;;;;;;;Londenstraat;25;;BUILDING template
+ANTWERPEN-WEST - FH01;4511908;;;;;;;;Braziliestraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;1992528;;;;;;;;Londenstraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;3918458;;;;;;;;Braziliestraat;29;;BUILDING template
+ANTWERPEN-WEST - FH01;108797;;;;;;;;Londenstraat;28;;BUILDING template
+ANTWERPEN-WEST - FH01;1992540;;;;;;;;Londenstraat;29;;BUILDING template
+ANTWERPEN-WEST - FH01;108305;;;;;;;;Londenstraat;31;;BUILDING template
+ANTWERPEN-WEST - FH01;4506338;;;;;;;;Kempischdok-Westkaai;102;;BUILDING template
+ANTWERPEN-WEST - FH01;4511926;;;;;;;;Kattendijkdok-Westkaai;54;;BUILDING template
+ANTWERPEN-WEST - FH01;108285;;;;;;;;Kempischdok-Westkaai;72;;BUILDING template
+ANTWERPEN-WEST - FH01;108799;;;;;;;;Londenstraat;38;;BUILDING template
+ANTWERPEN-WEST - FH01;5537964;;;;;;;;Kattendijkdok-Westkaai;65;;BUILDING template
+ANTWERPEN-WEST - FH01;1992550;;;;;;;;Londenstraat;39;;BUILDING template
+ANTWERPEN-WEST - FH01;5899748;;;;;;;;Kattendijkdok-Westkaai;73;;BUILDING template
+ANTWERPEN-WEST - FH01;1960885;;;;;;;;Kempischdok-Westkaai;28;;BUILDING template
+ANTWERPEN-WEST - FH01;1992553;;;;;;;;Londenstraat;40;;BUILDING template
+ANTWERPEN-WEST - FH01;6008100;;;;;;;;Kattendijkdok-Westkaai;72;;BUILDING template
+ANTWERPEN-WEST - FH01;4505441;;;;;;;;Napelsstraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;4506340;;;;;;;;Londenstraat;41;;BUILDING template
+ANTWERPEN-WEST - FH01;6187119;;;;;;;;Kattendijkdok-Westkaai;63;;BUILDING template
+ANTWERPEN-WEST - FH01;1992555;;;;;;;;Londenstraat;42;;BUILDING template
+ANTWERPEN-WEST - FH01;6521029;;;;;;;;Kattendijkdok-Westkaai;82;;BUILDING template
+ANTWERPEN-WEST - FH01;1992559;;;;;;;;Londenstraat;43;;BUILDING template
+ANTWERPEN-WEST - FH01;6521030;;;;;;;;Kattendijkdok-Westkaai;93;;BUILDING template
+ANTWERPEN-WEST - FH01;2047563;;;;;;;;Rigastraat;30;;BUILDING template
+ANTWERPEN-WEST - FH01;1992561;;;;;;;;Londenstraat;44;;BUILDING template
+ANTWERPEN-WEST - FH01;6592314;;;;;;;;Kempischdok-Westkaai;61;;BUILDING template
+ANTWERPEN-WEST - FH01;1992566;;;;;;;;Londenstraat;46;;BUILDING template
+ANTWERPEN-WEST - FH01;6605117;;;;;;;;Kattendijkdok-Westkaai;83;;BUILDING template
+ANTWERPEN-WEST - FH01;4506382;;;;;;;;August Michielsstraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;1992570;;;;;;;;Londenstraat;48;;BUILDING template
+ANTWERPEN-WEST - FH01;6605118;;;;;;;;Kattendijkdok-Westkaai;92;;BUILDING template
+ANTWERPEN-WEST - FH01;108274;;;;;;;;August Michielsstraat;13;;BUILDING template
+ANTWERPEN-WEST - FH01;108800;;;;;;;;Londenstraat;50;;BUILDING template
+ANTWERPEN-WEST - FH01;108801;;;;;;;;Londenstraat;52;;BUILDING template
+ANTWERPEN-WEST - FH01;5448225;;;;;;;;Cadixstraat;55;;BUILDING template
+ANTWERPEN-WEST - FH01;2024620;;;;;;;;Napelsstraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;5911749;;;;;;;;Cadixstraat;53;;BUILDING template
+ANTWERPEN-WEST - FH01;2024624;;;;;;;;Napelsstraat;23;;BUILDING template
+ANTWERPEN-WEST - FH01;6027745;;;;;;;;Cadixstraat;51;A;BUILDING template
+ANTWERPEN-WEST - FH01;2024631;;;;;;;;Napelsstraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;6027282;;;;;;;;Cadixstraat;49;A;BUILDING template
+ANTWERPEN-WEST - FH01;2024634;;;;;;;;Napelsstraat;29;;BUILDING template
+ANTWERPEN-WEST - FH01;108297;;;;;;;;Cadixstraat;49;;BUILDING template
+ANTWERPEN-WEST - FH01;4506358;;;;;;;;Napelsstraat;31;;BUILDING template
+ANTWERPEN-WEST - FH01;6427222;;;;;;;;Cadixstraat;47;C;BUILDING template
+ANTWERPEN-WEST - FH01;2024639;;;;;;;;Napelsstraat;32;;BUILDING template
+ANTWERPEN-WEST - FH01;6375622;;;;;;;;Cadixstraat;47;A;BUILDING template
+ANTWERPEN-WEST - FH01;4506359;;;;;;;;Napelsstraat;33;;BUILDING template
+ANTWERPEN-WEST - FH01;4506391;;;;;;;;Cadixstraat;45;;BUILDING template
+ANTWERPEN-WEST - FH01;108332;;;;;;;;Napelsstraat;35;;BUILDING template
+ANTWERPEN-WEST - FH01;4506389;;;;;;;;Cadixstraat;41;;BUILDING template
+ANTWERPEN-WEST - FH01;108951;;;;;;;;Napelsstraat;36;;BUILDING template
+ANTWERPEN-WEST - FH01;108331;;;;;;;;Napelsstraat;37;;BUILDING template
+ANTWERPEN-WEST - FH01;5576029;;;;;;;;Napelsstraat;38;;BUILDING template
+ANTWERPEN-WEST - FH01;108291;;;;;;;;Napelsstraat;42;;BUILDING template
+ANTWERPEN-WEST - FH01;108308;;;;;;;;Napelsstraat;51;;BUILDING template
+ANTWERPEN-WEST - FH01;4083535;;;;;;;;Napelsstraat;55;;BUILDING template
+ANTWERPEN-WEST - FH01;2024662;;;;;;;;Napelsstraat;57;;BUILDING template
+ANTWERPEN-WEST - FH01;1215943;;;;;;;;Napelsstraat;79;;BUILDING template
+ANTWERPEN-WEST - FH01;108290;;;;;;;;Napelsstraat;104;;BUILDING template
+ANTWERPEN-WEST - FH01;2024695;;;;;;;;Napelsstraat;106;;BUILDING template
+ANTWERPEN-WEST - FH01;2024698;;;;;;;;Napelsstraat;108;;BUILDING template
+ANTWERPEN-WEST - FH01;108289;;;;;;;;Napelsstraat;110;;BUILDING template
+ANTWERPEN-WEST - FH01;2024710;;;;;;;;Napelsstraat;114;;BUILDING template
+ANTWERPEN-WEST - FH01;59272;;;;;;;;Adriaan Brouwerstraat;3;;BUILDING template
+ANTWERPEN-WEST - FH01;2024713;;;;;;;;Napelsstraat;116;;BUILDING template
+ANTWERPEN-WEST - FH01;2024715;;;;;;;;Napelsstraat;118;;BUILDING template
+ANTWERPEN-WEST - FH01;2024723;;;;;;;;Napelsstraat;122;;BUILDING template
+ANTWERPEN-WEST - FH01;3959497;;;;;;;;Hanzestedenplaats;15;;BUILDING template
+ANTWERPEN-WEST - FH01;2024728;;;;;;;;Napelsstraat;126;;BUILDING template
+ANTWERPEN-WEST - FH01;6590994;;;;;;;;Hanzestedenplaats;7;;BUILDING template
+ANTWERPEN-WEST - FH01;4513293;;;;;;;;Van Schoonbekeplein;17;;BUILDING template
+ANTWERPEN-WEST - FH01;2024731;;;;;;;;Napelsstraat;128;;BUILDING template
+ANTWERPEN-WEST - FH01;6590995;;;;;;;;Hanzestedenplaats;11;;BUILDING template
+ANTWERPEN-WEST - FH01;59297;;;;;;;;Van Schoonbekeplein;9;;BUILDING template
+ANTWERPEN-WEST - FH01;108790;;;;;;;;Napelsstraat;130;;BUILDING template
+ANTWERPEN-WEST - FH01;6590996;;;;;;;;Hanzestedenplaats;19;;BUILDING template
+ANTWERPEN-WEST - FH01;2024753;;;;;;;;Napoleonkaai;5;;BUILDING template
+ANTWERPEN-WEST - FH01;6590997;;;;;;;;Hanzestedenplaats;23;;BUILDING template
+ANTWERPEN-WEST - FH01;1905398;;;;;;;;Godefriduskaai;20;;BUILDING template
+ANTWERPEN-WEST - FH01;6132277;;;;;;;;Kattendijkdok-Westkaai;32;A;BUILDING template
+ANTWERPEN-WEST - FH01;62441;;;;;;;;Godefriduskaai;38;;BUILDING template
+ANTWERPEN-WEST - FH01;186521;;;;;;;;Napoleonkaai;29;;BUILDING template
+ANTWERPEN-WEST - FH01;108792;;;;;;;;Napoleonkaai;31;;BUILDING template
+ANTWERPEN-WEST - FH01;4510628;;;;;;;;Entrepotplaats;14;;BUILDING template
+ANTWERPEN-WEST - FH01;2024783;;;;;;;;Napoleonkaai;33;;BUILDING template
+ANTWERPEN-WEST - FH01;2024791;;;;;;;;Napoleonkaai;37;;BUILDING template
+ANTWERPEN-WEST - FH01;2024799;;;;;;;;Napoleonkaai;39;;BUILDING template
+ANTWERPEN-WEST - FH01;4066155;;;;;;;;Entrepotkaai;10;A;BUILDING template
+ANTWERPEN-WEST - FH01;108793;;;;;;;;Napoleonkaai;43;;BUILDING template
+ANTWERPEN-WEST - FH01;4507060;;;;;;;;Entrepotkaai;7;;BUILDING template
+ANTWERPEN-WEST - FH01;1128034;;;;;;;;Napoleonkaai;49;;BUILDING template
+ANTWERPEN-WEST - FH01;2069021;;;;;;;;Entrepotkaai;11;;BUILDING template
+ANTWERPEN-WEST - FH01;108795;;;;;;;;Napoleonkaai;53;;BUILDING template
+ANTWERPEN-WEST - FH01;2069025;;;;;;;;Entrepotkaai;15;;BUILDING template
+ANTWERPEN-WEST - FH01;1128036;;;;;;;;Napoleonkaai;55;;BUILDING template
+ANTWERPEN-WEST - FH01;186503;;;;;;;;Nassaustraat;7;;BUILDING template
+ANTWERPEN-WEST - FH01;4510550;;;;;;;;Napoleonkaai;11;;BUILDING template
+ANTWERPEN-WEST - FH01;1513863;;;;;;;;Nassaustraat;8;;BUILDING template
+ANTWERPEN-WEST - FH01;4510554;;;;;;;;Napoleonkaai;15;;BUILDING template
+ANTWERPEN-WEST - FH01;2024869;;;;;;;;Nassaustraat;9;;BUILDING template
+ANTWERPEN-WEST - FH01;2024882;;;;;;;;Nassaustraat;13;;BUILDING template
+ANTWERPEN-WEST - FH01;2024763;;;;;;;;Napoleonkaai;17;;BUILDING template
+ANTWERPEN-WEST - FH01;2024884;;;;;;;;Nassaustraat;15;;BUILDING template
+ANTWERPEN-WEST - FH01;2024895;;;;;;;;Nassaustraat;17;;BUILDING template
+ANTWERPEN-WEST - FH01;109142;;;;;;;;Napoleonkaai;27;;BUILDING template
+ANTWERPEN-WEST - FH01;2024910;;;;;;;;Nassaustraat;19;;BUILDING template
+ANTWERPEN-WEST - FH01;2024779;;;;;;;;Napoleonkaai;25;;BUILDING template
+ANTWERPEN-WEST - FH01;1292390;;;;;;;;Nassaustraat;21;;BUILDING template
+ANTWERPEN-WEST - FH01;108065;;;;;;;;Nassaustraat;24;;BUILDING template
+ANTWERPEN-WEST - FH01;108786;;;;;;;;Bordeauxstraat;13;;BUILDING template
+ANTWERPEN-WEST - FH01;108077;;;;;;;;Nassaustraat;26;;BUILDING template
+ANTWERPEN-WEST - FH01;2024934;;;;;;;;Nassaustraat;27;;BUILDING template
+ANTWERPEN-WEST - FH01;109136;;;;;;;;Bordeauxstraat;14;;BUILDING template
+ANTWERPEN-WEST - FH01;2024938;;;;;;;;Nassaustraat;29;;BUILDING template
+ANTWERPEN-WEST - FH01;186508;;;;;;;;Kribbestraat;19;;BUILDING template
+ANTWERPEN-WEST - FH01;1992486;;;;;;;;Catharina Pepijnstraat;9;;BUILDING template
+ANTWERPEN-WEST - FH01;1892443;;;;;;;;Genuastraat;15;;BUILDING template
+ANTWERPEN-WEST - FH01;5320926;;;;;;;;Nassaustraat;34;;BUILDING template
+ANTWERPEN-WEST - FH01;108798;;;;;;;;Londenstraat;36;;BUILDING template
+ANTWERPEN-WEST - FH01;1128026;;;;;;;;Nassaustraat;37;;BUILDING template
+ANTWERPEN-WEST - FH01;4081990;;;;;;;;Londenstraat;22;;BUILDING template
+ANTWERPEN-WEST - FH01;4505491;;;;;;;;Genuastraat;19;;BUILDING template
+ANTWERPEN-WEST - FH01;108064;;;;;;;;Nassaustraat;38;;BUILDING template
+ANTWERPEN-WEST - FH01;108063;;;;;;;;Nassaustraat;43;;BUILDING template

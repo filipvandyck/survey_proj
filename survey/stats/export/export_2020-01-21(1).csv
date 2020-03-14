@@ -1,0 +1,553 @@
+OpdrachtID,Projectnummer,"Cluster NR",Blok,Straat,Huisnummer,"Huisnummer Toevoeging",Kamer,Plaats,Opdrachttemplate,Opdrachtnummer,"BUILDING KEY",Quadrant,Buildingtype,"NR BU","NR LU","NR SU","UNITS TOTAL","SSV Completed","SSV Date","TSA NEEDED","TSA SIGNED","TSA SENT",Surveyor,"Building exists","STS COMPLETED DATE"
+598784,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",18,,,Knokke-Heist,"BUILDING template",2758570,2758570,,MDU,1,7,0,8,,,,,,"Geert Stockman",Y,2020-01-20
+599040,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",815,,,Knokke-Heist,"BUILDING template",2768078,2768078,,MDU,0,7,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598785,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,5,,,Knokke-Heist,"BUILDING template",2759116,2759116,,MDU,0,7,1,8,,,,,,"Hidde Kiekens",Y,2020-01-15
+599041,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",817,,,Knokke-Heist,"BUILDING template",2768081,2768081,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598786,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,7,,,Knokke-Heist,"BUILDING template",2759118,2759118,,MDU,0,10,0,10,,,,,,"Hidde Kiekens",Y,2020-01-15
+599042,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",818,,,Knokke-Heist,"BUILDING template",2768082,2768082,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598787,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,9,,,Knokke-Heist,"BUILDING template",2759119,2759119,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599043,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",16,,,Knokke-Heist,"BUILDING template",3923027,3923027,,MDU,0,12,1,13,,,,,,"Hidde Kiekens",Y,2020-01-16
+598788,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,11,,,Knokke-Heist,"BUILDING template",2759121,2759121,,MDU,1,12,0,13,,,,,,"Hidde Kiekens",Y,2020-01-15
+599044,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,16,,,Knokke-Heist,"BUILDING template",3939667,3939667,,MDU,0,8,0,8,,,,,,"Geert Stockman",Y,2020-01-19
+598789,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,12,,,Knokke-Heist,"BUILDING template",2759123,2759123,,MDU,1,15,0,16,,,,,,"Hidde Kiekens",Y,2020-01-15
+599045,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,213,,,Knokke-Heist,"BUILDING template",3954195,3954195,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598790,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,15,,,Knokke-Heist,"BUILDING template",2759125,2759125,,MDU,0,16,1,17,,,,,,"Hidde Kiekens",Y,2020-01-15
+599046,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",723,,,Knokke-Heist,"BUILDING template",4067471,4067471,,MDU,0,17,0,17,,,,,,"Hidde Kiekens",Y,2020-01-16
+598791,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,3,,,Knokke-Heist,"BUILDING template",2759447,2759447,,MDU,0,10,1,11,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599047,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,10,,,Knokke-Heist,"BUILDING template",4070277,4070277,,MDU,0,2,0,2,,,,,,"Maayken Vanfleteren",N,
+598792,"KNOKKE-HEIST - FH04",,BL0414,Ebbestraat,4,,,Knokke-Heist,"BUILDING template",2759448,2759448,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+599048,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,14,,,Knokke-Heist,"BUILDING template",4073573,4073573,,SDU,0,1,0,1,,,,,,"Hidde Kiekens",N,
+598793,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,5,,,Knokke-Heist,"BUILDING template",2759449,2759449,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599049,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,11,,,Knokke-Heist,"BUILDING template",4091179,4091179,,MDU,0,13,0,13,,,,,,"Hidde Kiekens",Y,2020-01-15
+598794,"KNOKKE-HEIST - FH04",,BL0414,Ebbestraat,8,,,Knokke-Heist,"BUILDING template",2759451,2759451,,MDU,0,10,1,11,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+599050,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",741,,,Knokke-Heist,"BUILDING template",4128652,4128652,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598795,"KNOKKE-HEIST - FH04",,BL0410,Golvenstraat,4,,,Knokke-Heist,"BUILDING template",2760023,2760023,,MDU,0,23,1,24,,,,,,"Hidde Kiekens",Y,2020-01-17
+599051,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",753,,,Knokke-Heist,"BUILDING template",4342854,4342854,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+598796,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,5,,,Knokke-Heist,"BUILDING template",2760024,2760024,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599052,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",725,,,Knokke-Heist,"BUILDING template",4343060,4343060,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598797,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,7,,,Knokke-Heist,"BUILDING template",2760025,2760025,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599053,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,16,,,Knokke-Heist,"BUILDING template",4343871,4343871,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598798,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,9,,,Knokke-Heist,"BUILDING template",2760027,2760027,,MDU,0,8,1,9,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599054,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,191,,,Knokke-Heist,"BUILDING template",4343877,4343877,,MDU,1,6,2,9,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598799,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,11,,,Knokke-Heist,"BUILDING template",2760029,2760029,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599055,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,223,,,Knokke-Heist,"BUILDING template",4343880,4343880,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598800,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,13,,,Knokke-Heist,"BUILDING template",2760031,2760031,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599056,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,69,,,Knokke-Heist,"BUILDING template",4345021,4345021,,SDU,0,1,0,1,,,,,,"Hidde Kiekens",N,
+598801,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,15,,,Knokke-Heist,"BUILDING template",2760032,2760032,,MDU,0,17,1,18,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599057,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",710,,,Knokke-Heist,"BUILDING template",4345048,4345048,,SDU,0,1,0,1,,,,,,"Hidde Kiekens",N,
+598802,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,17,,,Knokke-Heist,"BUILDING template",2760033,2760033,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599058,"KNOKKE-HEIST - FH04",,BL0407,"Zeedijk-Het Zoute",717,,,Knokke-Heist,"BUILDING template",4345065,4345065,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598803,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,648,A,,Knokke-Heist,"BUILDING template",2761457,2761457,,SDU,,1,,1,,,,,,,,
+599059,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",11,,,Knokke-Heist,"BUILDING template",4345067,4345067,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598804,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,651,,,Knokke-Heist,"BUILDING template",2761459,2761459,,MDU,0,18,0,18,,,,,,"Geert Stockman",Y,2020-01-19
+599060,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,329,,,Knokke-Heist,"BUILDING template",4345256,4345256,,SDU,1,,,1,,,,,,"Maayken Vanfleteren",N,
+598805,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,653,,,Knokke-Heist,"BUILDING template",2761461,2761461,,MDU,0,16,0,16,,,,,,"Geert Stockman",Y,2020-01-19
+599061,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,333,,,Knokke-Heist,"BUILDING template",4345257,4345257,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598806,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,654,,,Knokke-Heist,"BUILDING template",2761464,2761464,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599062,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,665,,,Knokke-Heist,"BUILDING template",4346484,4346484,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598807,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,657,,,Knokke-Heist,"BUILDING template",2761466,2761466,,MDU,0,8,0,8,,,,,,"Geert Stockman",Y,2020-01-19
+599063,"KNOKKE-HEIST - FH04",,BL0401,Kustlaan,3,,,Knokke-Heist,"BUILDING template",4346486,4346486,,SDU,,1,,1,,,,,,,,
+598808,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,658,,,Knokke-Heist,"BUILDING template",2761468,2761468,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599064,"KNOKKE-HEIST - FH04",,BL0401,Kustlaan,7,,,Knokke-Heist,"BUILDING template",4346487,4346487,,SDU,,1,,1,,,,,,,,
+598809,"KNOKKE-HEIST - FH04",,BL0402,Zeedijk-Knokke,660,,,Knokke-Heist,"BUILDING template",2761472,2761472,,SDU,1,,,1,,,,,,,,
+599065,"KNOKKE-HEIST - FH04",,BL0401,Kustlaan,9,,,Knokke-Heist,"BUILDING template",4346488,4346488,,SDU,,1,,1,,,,,,,,
+598810,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,662,,,Knokke-Heist,"BUILDING template",2761475,2761475,,MDU,1,8,0,9,,,,,,"Geert Stockman",Y,2020-01-17
+599066,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,33,,,Knokke-Heist,"BUILDING template",4347674,4347674,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598811,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,663,,,Knokke-Heist,"BUILDING template",2761477,2761477,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+599067,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,674,,,Knokke-Heist,"BUILDING template",4347685,4347685,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598812,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,666,,,Knokke-Heist,"BUILDING template",2761479,2761479,,MDU,1,8,0,9,,,,,,"Geert Stockman",Y,2020-01-17
+599068,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,683,,,Knokke-Heist,"BUILDING template",4347699,4347699,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598813,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,667,,,Knokke-Heist,"BUILDING template",2761482,2761482,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+599069,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,3,,,Knokke-Heist,"BUILDING template",4347702,4347702,,SDU,0,1,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598814,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,668,,,Knokke-Heist,"BUILDING template",2761483,2761483,,MDU,0,16,0,16,,,,,,"Geert Stockman",Y,2020-01-17
+599070,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,5,,,Knokke-Heist,"BUILDING template",4347703,4347703,,SDU,0,1,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598815,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,669,,,Knokke-Heist,"BUILDING template",2761485,2761485,,MDU,1,8,0,9,,,,,,"Geert Stockman",Y,2020-01-17
+599071,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",783,,,Knokke-Heist,"BUILDING template",4348169,4348169,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598816,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,672,,,Knokke-Heist,"BUILDING template",2761490,2761490,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+599072,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,10,,,Knokke-Heist,"BUILDING template",4348172,4348172,,SDU,1,,,1,,,,,,"Maayken Vanfleteren",N,
+598817,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,675,,,Knokke-Heist,"BUILDING template",2761492,2761492,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+599073,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,247,,,Knokke-Heist,"BUILDING template",4348174,4348174,,SDU,,1,,1,,,,,,"Maayken Vanfleteren",N,
+598818,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,676,,,Knokke-Heist,"BUILDING template",2761494,2761494,,MDU,0,15,0,15,,,,,,"Geert Stockman",Y,2020-01-17
+599074,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,253,,,Knokke-Heist,"BUILDING template",4348177,4348177,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+617250,"KNOKKE-HEIST - FH04",,,Zeedijk-Knokke,659,,,Knokke-Heist,"BUILDING template",NB-830065996b686,NB-830065996b686,,SDU,1,0,0,1,,2020-01-17,,,,"Geert Stockman",,
+598819,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,682,,,Knokke-Heist,"BUILDING template",2761501,2761501,,MDU,1,7,0,8,,,,,,"Geert Stockman",Y,2020-01-17
+599075,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",801,,,Knokke-Heist,"BUILDING template",4348188,4348188,,MDU,0,8,1,9,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598820,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,684,,,Knokke-Heist,"BUILDING template",2761502,2761502,,MDU,0,8,0,8,,,,,,"Geert Stockman",Y,2020-01-17
+599076,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,7,,,Knokke-Heist,"BUILDING template",4348190,4348190,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598821,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,686,,,Knokke-Heist,"BUILDING template",2761504,2761504,,MDU,2,14,0,16,,,,,,"Geert Stockman",Y,2020-01-19
+599077,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,11,,,Knokke-Heist,"BUILDING template",4348192,4348192,,SDU,,1,,1,,,,,,,,
+598822,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,689,,,Knokke-Heist,"BUILDING template",2761505,2761505,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599078,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",745,,,Knokke-Heist,"BUILDING template",4348200,4348200,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598823,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,690,,,Knokke-Heist,"BUILDING template",2761506,2761506,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+599079,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,9,,,Knokke-Heist,"BUILDING template",4348202,4348202,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",N,
+598824,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,691,,,Knokke-Heist,"BUILDING template",2761507,2761507,,MDU,1,8,0,9,,,,,,,,
+599080,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,6,A,,Knokke-Heist,"BUILDING template",5446596,5446596,,SDU,1,,,1,,,,,,,,
+598825,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,692,,,Knokke-Heist,"BUILDING template",2761510,2761510,,MDU,1,8,0,9,,,,,,"Geert Stockman",Y,2020-01-19
+599081,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,9,,,Knokke-Heist,"BUILDING template",5567537,5567537,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598826,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,693,,,Knokke-Heist,"BUILDING template",2761511,2761511,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599082,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,4,,,Knokke-Heist,"BUILDING template",5579236,5579236,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-16
+598827,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,694,,,Knokke-Heist,"BUILDING template",2761513,2761513,,MDU,0,8,0,8,,,,,,"Geert Stockman",Y,2020-01-19
+599083,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,6,,,Knokke-Heist,"BUILDING template",5579237,5579237,,MDU,0,8,1,9,,,,,,"Hidde Kiekens",Y,2020-01-16
+598828,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,695,,,Knokke-Heist,"BUILDING template",2761514,2761514,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599084,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,11,,,Knokke-Heist,"BUILDING template",5579238,5579238,,MDU,0,36,3,39,,,,,,"Hidde Kiekens",Y,2020-01-16
+598829,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,696,,,Knokke-Heist,"BUILDING template",2761516,2761516,,MDU,0,8,0,8,,,,,,"Geert Stockman",Y,2020-01-19
+599085,"KNOKKE-HEIST - FH04",,BL0410,Albertplein,17,,,Knokke-Heist,"BUILDING template",5579240,5579240,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+598830,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,697,,,Knokke-Heist,"BUILDING template",2761517,2761517,,MDU,0,29,0,29,,,,,,"Geert Stockman",Y,2020-01-19
+599086,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",3,,,Knokke-Heist,"BUILDING template",5579288,5579288,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598831,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,699,,,Knokke-Heist,"BUILDING template",2761519,2761519,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599087,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",5,,,Knokke-Heist,"BUILDING template",5579289,5579289,,MDU,0,27,1,28,,,,,,"Hidde Kiekens",Y,2020-01-15
+598832,"KNOKKE-HEIST - FH04",,BL0401,Kustlaan,5,,,Knokke-Heist,"BUILDING template",2762273,2762273,,SDU,,1,,1,,,,,,,,
+599088,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",15,,,Knokke-Heist,"BUILDING template",5579290,5579290,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598833,"KNOKKE-HEIST - FH04",,BL0403,Kustlaan,13,A,,Knokke-Heist,"BUILDING template",2762279,2762279,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599089,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",13,,,Knokke-Heist,"BUILDING template",5579293,5579293,,MDU,1,25,,26,,,,,,,,
+598834,"KNOKKE-HEIST - FH04",,BL0403,Kustlaan,13,B,,Knokke-Heist,"BUILDING template",2762280,2762280,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599090,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,16,,,Knokke-Heist,"BUILDING template",5579334,5579334,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598835,"KNOKKE-HEIST - FH04",,BL0403,Kustlaan,15,,,Knokke-Heist,"BUILDING template",2762281,2762281,,MDU,1,10,0,11,,,,,,"Geert Stockman",Y,2020-01-19
+599091,"KNOKKE-HEIST - FH04",,BL0414,Ebbestraat,6,,,Knokke-Heist,"BUILDING template",5579354,5579354,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598836,"KNOKKE-HEIST - FH04",,BL0403,Kustlaan,17,,,Knokke-Heist,"BUILDING template",2762283,2762283,,MDU,1,2,0,3,,,,,,"Geert Stockman",Y,2020-01-19
+599092,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,652,,,Knokke-Heist,"BUILDING template",5579394,5579394,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598837,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,29,,,Knokke-Heist,"BUILDING template",2762292,2762292,,MDU,1,5,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+599093,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,671,,,Knokke-Heist,"BUILDING template",5579395,5579395,,MDU,0,21,0,21,,,,,,"Geert Stockman",Y,2020-01-17
+598838,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,31,,,Knokke-Heist,"BUILDING template",2762294,2762294,,MDU,1,5,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+599094,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,677,,,Knokke-Heist,"BUILDING template",5579396,5579396,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598839,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,35,,,Knokke-Heist,"BUILDING template",2762299,2762299,,MDU,0,10,0,10,,,,,,"Geert Stockman",Y,2020-01-19
+599095,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,679,,,Knokke-Heist,"BUILDING template",5579397,5579397,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598840,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,37,,,Knokke-Heist,"BUILDING template",2762300,2762300,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599096,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,681,,,Knokke-Heist,"BUILDING template",5579398,5579398,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-17
+598841,"KNOKKE-HEIST - FH04",,BL0405,Kustlaan,45,,,Knokke-Heist,"BUILDING template",2762308,2762308,,MDU,2,24,0,26,,,,,,,,
+599097,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,27,,,Knokke-Heist,"BUILDING template",5579419,5579419,,MDU,1,10,0,11,,,,,,"Geert Stockman",Y,2020-01-19
+598842,"KNOKKE-HEIST - FH04",,BL0405,Kustlaan,47,,,Knokke-Heist,"BUILDING template",2762309,2762309,,MDU,0,23,0,23,,,,,,"Geert Stockman",Y,2020-01-19
+599098,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,41,,,Knokke-Heist,"BUILDING template",5579420,5579420,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598843,"KNOKKE-HEIST - FH04",,BL0405,Kustlaan,49,,,Knokke-Heist,"BUILDING template",2762312,2762312,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599099,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,65,,,Knokke-Heist,"BUILDING template",5579422,5579422,,MDU,0,11,0,11,,,,,,"Hidde Kiekens",Y,2020-01-15
+598844,"KNOKKE-HEIST - FH04",,BL0405,Kustlaan,51,,,Knokke-Heist,"BUILDING template",2762313,2762313,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599100,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,101,,,Knokke-Heist,"BUILDING template",5579428,5579428,,MDU,1,6,0,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+598845,"KNOKKE-HEIST - FH04",,BL0406,Kustlaan,59,,,Knokke-Heist,"BUILDING template",2762318,2762318,,MDU,0,28,1,29,,,,,,"Hidde Kiekens",Y,2020-01-15
+599101,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,129,,,Knokke-Heist,"BUILDING template",5579430,5579430,,MDU,0,6,1,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+598846,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,67,,,Knokke-Heist,"BUILDING template",2762329,2762329,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599102,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,137,,,Knokke-Heist,"BUILDING template",5579432,5579432,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598847,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,71,,,Knokke-Heist,"BUILDING template",2762333,2762333,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599103,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,145,,,Knokke-Heist,"BUILDING template",5579434,5579434,,MDU,0,37,2,39,,,,,,"Hidde Kiekens",Y,2020-01-17
+598848,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,73,,,Knokke-Heist,"BUILDING template",2762335,2762335,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599104,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,149,,,Knokke-Heist,"BUILDING template",5579435,5579435,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+617280,"KNOKKE-HEIST - FH04",,,Kustlaan,299,,,Knokke-Heist,"BUILDING template",NB-8300299837516,NB-8300299837516,,MDU,0,6,1,7,,2020-01-17,,,,"Maayken Vanfleteren",,
+598849,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,75,,,Knokke-Heist,"BUILDING template",2762336,2762336,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599105,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,173,,,Knokke-Heist,"BUILDING template",5579436,5579436,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+598850,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,77,,,Knokke-Heist,"BUILDING template",2762339,2762339,,MDU,0,24,1,25,,,,,,"Hidde Kiekens",Y,2020-01-15
+599106,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,183,,,Knokke-Heist,"BUILDING template",5579437,5579437,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-17
+598851,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,79,,,Knokke-Heist,"BUILDING template",2762341,2762341,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-15
+599107,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,189,,,Knokke-Heist,"BUILDING template",5579438,5579438,,MDU,0,6,0,6,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598852,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,81,,,Knokke-Heist,"BUILDING template",2762343,2762343,,MDU,1,6,2,9,,,,,,"Hidde Kiekens",Y,2020-01-15
+599108,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,241,,,Knokke-Heist,"BUILDING template",5579442,5579442,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598853,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,83,,,Knokke-Heist,"BUILDING template",2762344,2762344,,MDU,1,6,1,8,,,,,,"Hidde Kiekens",Y,2020-01-15
+599109,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,311,,,Knokke-Heist,"BUILDING template",5579446,5579446,,SDU,,1,,1,,,,,,"Maayken Vanfleteren",N,
+598854,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,87,,,Knokke-Heist,"BUILDING template",2762347,2762347,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599110,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,12,,,Knokke-Heist,"BUILDING template",5579464,5579464,,MDU,0,14,0,14,,,,,,"Geert Stockman",Y,2020-01-17
+598855,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,89,,,Knokke-Heist,"BUILDING template",2762349,2762349,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599111,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,20,,,Knokke-Heist,"BUILDING template",5579466,5579466,,MDU,0,32,0,32,,,,,,"Geert Stockman",Y,2020-01-17
+598856,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,91,,,Knokke-Heist,"BUILDING template",2762351,2762351,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599112,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,1,,,Knokke-Heist,"BUILDING template",5579489,5579489,,MDU,0,13,0,13,,,,,,"Geert Stockman",Y,2020-01-17
+617288,"KNOKKE-HEIST - FH04",,,Kustlaan,297,,,Knokke-Heist,"BUILDING template",NB-8300297cb8d17,NB-8300297cb8d17,,MDU,1,6,1,8,,2020-01-17,,,,"Maayken Vanfleteren",,
+598857,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,93,,,Knokke-Heist,"BUILDING template",2762354,2762354,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599113,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,19,,,Knokke-Heist,"BUILDING template",5579490,5579490,,MDU,1,4,0,5,,,,,,"Geert Stockman",Y,2020-01-19
+598858,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,103,,,Knokke-Heist,"BUILDING template",2762363,2762363,,MDU,1,6,0,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+599114,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,3,,,Knokke-Heist,"BUILDING template",5579559,5579559,,SDU,,1,,1,,,,,,,,
+598859,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,105,,,Knokke-Heist,"BUILDING template",2762365,2762365,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599115,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,8,,,Knokke-Heist,"BUILDING template",5579560,5579560,,MDU,0,15,0,15,,,,,,"Geert Stockman",Y,2020-01-17
+598860,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,107,,,Knokke-Heist,"BUILDING template",2762366,2762366,,MDU,1,6,0,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+599116,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,16,,,Knokke-Heist,"BUILDING template",5579561,5579561,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598861,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,113,,,Knokke-Heist,"BUILDING template",2762369,2762369,,MDU,0,6,0,6,,,,,,"Hidde Kiekens",Y,2020-01-16
+599117,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,1,,,Knokke-Heist,"BUILDING template",5579580,5579580,,MDU,0,28,1,29,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598862,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,115,,,Knokke-Heist,"BUILDING template",2762370,2762370,,MDU,0,5,2,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+599118,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,12,,,Knokke-Heist,"BUILDING template",5579581,5579581,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598863,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,117,,,Knokke-Heist,"BUILDING template",2762372,2762372,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599119,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",707,,,Knokke-Heist,"BUILDING template",5579585,5579585,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598864,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,119,,,Knokke-Heist,"BUILDING template",2762373,2762373,,MDU,1,6,0,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+599120,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",720,,,Knokke-Heist,"BUILDING template",5579586,5579586,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598865,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,121,,,Knokke-Heist,"BUILDING template",2762376,2762376,,MDU,1,6,0,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+599121,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",738,,,Knokke-Heist,"BUILDING template",5579587,5579587,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598866,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,133,,,Knokke-Heist,"BUILDING template",2762391,2762391,,MDU,1,19,0,20,,,,,,"Hidde Kiekens",Y,2020-01-16
+599122,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",740,,,Knokke-Heist,"BUILDING template",5579588,5579588,,MDU,0,15,2,17,,,,,,"Hidde Kiekens",Y,2020-01-16
+598867,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,135,,,Knokke-Heist,"BUILDING template",2762395,2762395,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599123,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",779,,,Knokke-Heist,"BUILDING template",5579590,5579590,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598868,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,151,,,Knokke-Heist,"BUILDING template",2762409,2762409,,MDU,0,8,0,8,,,,,,"Hidde Kiekens",Y,2020-01-17
+599124,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",791,,,Knokke-Heist,"BUILDING template",5579591,5579591,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598869,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,153,,,Knokke-Heist,"BUILDING template",2762410,2762410,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+599125,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",747,,,Knokke-Heist,"BUILDING template",5777380,5777380,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598870,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,155,,,Knokke-Heist,"BUILDING template",2762413,2762413,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+599126,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",793,,,Knokke-Heist,"BUILDING template",5801592,5801592,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",N,
+598871,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,157,,,Knokke-Heist,"BUILDING template",2762416,2762416,,MDU,0,6,1,7,,,,,,"Hidde Kiekens",Y,2020-01-17
+599127,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,13,,,Knokke-Heist,"BUILDING template",5830672,5830672,,MDU,1,16,0,17,,,,,,,,
+598872,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,159,,,Knokke-Heist,"BUILDING template",2762421,2762421,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+599128,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,9,,,Knokke-Heist,"BUILDING template",5831022,5831022,,MDU,0,14,0,14,,,,,,"Geert Stockman",Y,2020-01-17
+598873,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,161,,,Knokke-Heist,"BUILDING template",2762425,2762425,,MDU,0,6,1,7,,,,,,"Hidde Kiekens",Y,2020-01-17
+599129,"KNOKKE-HEIST - FH04",,BL0410,"Zeedijk-Het Zoute",757,B,,Knokke-Heist,"BUILDING template",5905413,5905413,,MDU,1,8,0,9,,,,,,"Hidde Kiekens",Y,2020-01-17
+598874,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,163,,,Knokke-Heist,"BUILDING template",2762426,2762426,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+599130,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",808,,,Knokke-Heist,"BUILDING template",5905414,5905414,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",N,
+598875,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,165,,,Knokke-Heist,"BUILDING template",2762427,2762427,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-17
+599131,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",809,,,Knokke-Heist,"BUILDING template",5905415,5905415,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",N,
+598876,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,167,,,Knokke-Heist,"BUILDING template",2762429,2762429,,MDU,0,6,1,7,,,,,,"Hidde Kiekens",Y,2020-01-17
+599132,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",794,,,Knokke-Heist,"BUILDING template",5911098,5911098,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598877,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,171,,,Knokke-Heist,"BUILDING template",2762431,2762431,,MDU,0,12,2,14,,,,,,"Hidde Kiekens",Y,2020-01-17
+599133,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",4,,,Knokke-Heist,"BUILDING template",5935147,5935147,,MDU,0,10,2,12,,,,,,"Hidde Kiekens",Y,2020-01-16
+598622,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,16,,,Knokke-Heist,"BUILDING template",12860,12860,,MDU,0,17,0,17,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598878,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,175,,,Knokke-Heist,"BUILDING template",2762436,2762436,,MDU,0,6,1,7,,,,,,"Hidde Kiekens",Y,2020-01-17
+599134,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",749,,,Knokke-Heist,"BUILDING template",6044454,6044454,,SDU,0,1,0,1,,,,,,"Hidde Kiekens",N,
+598623,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,19,,,Knokke-Heist,"BUILDING template",12872,12872,,MDU,0,5,1,6,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598879,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,177,,,Knokke-Heist,"BUILDING template",2762438,2762438,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+599135,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,697,B,,Knokke-Heist,"BUILDING template",6058388,6058388,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598624,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,6,,,Knokke-Heist,"BUILDING template",13044,13044,,SDU,1,0,0,1,,,,,,,,
+598880,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,179,,,Knokke-Heist,"BUILDING template",2762440,2762440,,MDU,1,3,0,4,,,,,,"Hidde Kiekens",Y,2020-01-17
+599136,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,697,A,,Knokke-Heist,"BUILDING template",6058392,6058392,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598625,"KNOKKE-HEIST - FH04",,BL0410,Albertplein,15,,,Knokke-Heist,"BUILDING template",320854,320854,,MDU,1,8,2,11,,,,,,"Hidde Kiekens",Y,2020-01-17
+598881,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,193,,,Knokke-Heist,"BUILDING template",2762459,2762459,,SDU,1,0,1,2,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599137,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,341,,,Knokke-Heist,"BUILDING template",6089756,6089756,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598626,"KNOKKE-HEIST - FH04",,BL0410,Albertplein,19,,,Knokke-Heist,"BUILDING template",320855,320855,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+598882,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,195,,,Knokke-Heist,"BUILDING template",2762464,2762464,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599138,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,2,A,,Knokke-Heist,"BUILDING template",6326403,6326403,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",N,
+598627,"KNOKKE-HEIST - FH04",,BL0410,Albertplein,18,,,Knokke-Heist,"BUILDING template",320856,320856,,MDU,0,8,1,9,,,,,,"Hidde Kiekens",Y,2020-01-17
+598883,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,197,,,Knokke-Heist,"BUILDING template",2762470,2762470,,SDU,1,0,1,2,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599139,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,309,,,Knokke-Heist,"BUILDING template",6401164,6401164,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598628,"KNOKKE-HEIST - FH04",,BL0410,Albertplein,16,,,Knokke-Heist,"BUILDING template",320857,320857,,MDU,1,12,0,13,,,,,,"Hidde Kiekens",Y,2020-01-17
+598884,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,199,,,Knokke-Heist,"BUILDING template",2762473,2762473,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599140,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,697,C,,Knokke-Heist,"BUILDING template",6417469,6417469,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598629,"KNOKKE-HEIST - FH04",,BL0410,Golvenstraat,6,,,Knokke-Heist,"BUILDING template",320858,320858,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-17
+598885,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,201,,,Knokke-Heist,"BUILDING template",2762474,2762474,,MDU,1,6,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599141,"KNOKKE-HEIST - FH04",,BL0410,Golvenstraat,6,A,,Knokke-Heist,"BUILDING template",6420952,6420952,,SDU,0,1,0,1,,,,,,"Hidde Kiekens",N,
+598630,"KNOKKE-HEIST - FH04",,BL0410,Golvenstraat,2,,,Knokke-Heist,"BUILDING template",320859,320859,,MDU,0,39,2,41,,,,,,"Hidde Kiekens",Y,2020-01-17
+598886,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,205,,,Knokke-Heist,"BUILDING template",2762476,2762476,,MDU,1,6,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599142,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,6,B,,Knokke-Heist,"BUILDING template",6425283,6425283,,SDU,,1,,1,,,,,,,,
+598631,"KNOKKE-HEIST - FH04",,BL0410,Golvenstraat,8,,,Knokke-Heist,"BUILDING template",320860,320860,,MDU,0,10,1,11,,,,,,"Hidde Kiekens",Y,2020-01-17
+598887,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,207,,,Knokke-Heist,"BUILDING template",2762477,2762477,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599143,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",15,A,,Knokke-Heist,"BUILDING template",6441864,6441864,,SDU,,1,,1,,,,,,"Hidde Kiekens",N,
+598632,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,181,,,Knokke-Heist,"BUILDING template",320866,320866,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+598888,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,209,,,Knokke-Heist,"BUILDING template",2762479,2762479,,MDU,2,0,1,3,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599144,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",17,A,,Knokke-Heist,"BUILDING template",6445966,6445966,,MDU,,2,,2,,,,,,"Hidde Kiekens",N,
+598633,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,185,,,Knokke-Heist,"BUILDING template",320867,320867,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598889,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,211,,,Knokke-Heist,"BUILDING template",2762480,2762480,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599145,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",16,A,,Knokke-Heist,"BUILDING template",6455009,6455009,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598634,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,139,,,Knokke-Heist,"BUILDING template",320868,320868,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+598890,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,215,,,Knokke-Heist,"BUILDING template",2762481,2762481,,SDU,1,0,1,2,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599146,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",805,,,Knokke-Heist,"BUILDING template",6524234,6524234,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598635,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,147,,,Knokke-Heist,"BUILDING template",320870,320870,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-17
+598891,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,217,,,Knokke-Heist,"BUILDING template",2762482,2762482,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599147,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,15,,,Knokke-Heist,"BUILDING template",6524235,6524235,,MDU,0,17,1,18,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598636,"KNOKKE-HEIST - FH04",,BL0410,Kustlaan,169,,,Knokke-Heist,"BUILDING template",320871,320871,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-17
+598892,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,221,,,Knokke-Heist,"BUILDING template",2762487,2762487,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599148,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,3,,,Knokke-Heist,"BUILDING template",6524250,6524250,,MDU,0,2,0,2,,,,,,,,
+598637,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",760,,,Knokke-Heist,"BUILDING template",320874,320874,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598893,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,229,,,Knokke-Heist,"BUILDING template",2762489,2762489,,MDU,6,0,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599149,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,3,,,Knokke-Heist,"BUILDING template",6524252,6524252,,MDU,0,10,1,11,,,,,,"Hidde Kiekens",Y,2020-01-15
+598638,"KNOKKE-HEIST - FH04",,BL0410,"Zeedijk-Het Zoute",754,,,Knokke-Heist,"BUILDING template",320876,320876,,SDU,0,1,0,1,,,,,,"Hidde Kiekens",N,
+598894,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,233,,,Knokke-Heist,"BUILDING template",2762492,2762492,,SDU,1,,,1,,,,,,"Maayken Vanfleteren",N,
+599150,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,125,,,Knokke-Heist,"BUILDING template",6524254,6524254,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-16
+598639,"KNOKKE-HEIST - FH04",,BL0410,"Zeedijk-Het Zoute",755,,,Knokke-Heist,"BUILDING template",320877,320877,,MDU,0,33,3,36,,,,,,"Hidde Kiekens",Y,2020-01-17
+598895,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,239,,,Knokke-Heist,"BUILDING template",2762496,2762496,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599151,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,25,,,Knokke-Heist,"BUILDING template",6524260,6524260,,MDU,0,4,0,4,,,,,,"Geert Stockman",Y,2020-01-19
+598640,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,237,,,Knokke-Heist,"BUILDING template",321345,321345,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598896,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,243,,,Knokke-Heist,"BUILDING template",2762498,2762498,,SDU,1,,,1,,,,,,"Maayken Vanfleteren",N,
+599152,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,227,,,Knokke-Heist,"BUILDING template",6526795,6526795,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598641,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,271,,,Knokke-Heist,"BUILDING template",321346,321346,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598897,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,245,,,Knokke-Heist,"BUILDING template",2762500,2762500,,MDU,1,8,1,10,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598642,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,273,,,Knokke-Heist,"BUILDING template",321347,321347,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598898,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,251,,,Knokke-Heist,"BUILDING template",2762501,2762501,,MDU,0,6,0,6,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598643,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,303,,,Knokke-Heist,"BUILDING template",321349,321349,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598899,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,255,,,Knokke-Heist,"BUILDING template",2762503,2762503,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598644,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",778,,,Knokke-Heist,"BUILDING template",321350,321350,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598900,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,257,,,Knokke-Heist,"BUILDING template",2762504,2762504,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598645,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",786,,,Knokke-Heist,"BUILDING template",321351,321351,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598901,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,259,,,Knokke-Heist,"BUILDING template",2762505,2762505,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598646,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",792,,,Knokke-Heist,"BUILDING template",321352,321352,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598902,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,261,,,Knokke-Heist,"BUILDING template",2762508,2762508,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598647,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",804,,,Knokke-Heist,"BUILDING template",321354,321354,,MDU,0,8,1,9,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598903,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,263,,,Knokke-Heist,"BUILDING template",2762510,2762510,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598648,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",795,,,Knokke-Heist,"BUILDING template",321355,321355,,MDU,1,8,1,10,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598904,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,265,,,Knokke-Heist,"BUILDING template",2762513,2762513,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598649,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,2,,,Knokke-Heist,"BUILDING template",321356,321356,,MDU,1,50,4,55,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598905,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,267,,,Knokke-Heist,"BUILDING template",2762515,2762515,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598650,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,3,,,Knokke-Heist,"BUILDING template",321357,321357,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598906,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,275,,,Knokke-Heist,"BUILDING template",2762518,2762518,,MDU,1,6,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598651,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,8,,,Knokke-Heist,"BUILDING template",321358,321358,,MDU,1,20,1,22,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598907,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,279,,,Knokke-Heist,"BUILDING template",2762519,2762519,,MDU,1,6,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+617339,"KNOKKE-HEIST - FH04",,,Zeedijk-Knokke,664,,,Knokke-Heist,"BUILDING template",NB-8300664da5455,NB-8300664da5455,,MDU,0,28,0,28,,2020-01-17,,,,"Geert Stockman",,
+598652,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,15,,,Knokke-Heist,"BUILDING template",321359,321359,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598908,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,281,,,Knokke-Heist,"BUILDING template",2762521,2762521,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598653,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,14,,,Knokke-Heist,"BUILDING template",321360,321360,,MDU,0,7,0,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598909,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,283,,,Knokke-Heist,"BUILDING template",2762524,2762524,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598654,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,17,,,Knokke-Heist,"BUILDING template",321361,321361,,MDU,0,10,1,11,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598910,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,285,,,Knokke-Heist,"BUILDING template",2762525,2762525,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598655,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,1,,,Knokke-Heist,"BUILDING template",321362,321362,,MDU,0,16,1,17,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598911,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,287,,,Knokke-Heist,"BUILDING template",2762527,2762527,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598656,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,13,,,Knokke-Heist,"BUILDING template",321363,321363,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598912,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,289,,,Knokke-Heist,"BUILDING template",2762529,2762529,,MDU,1,6,0,7,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598657,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,1,,,Knokke-Heist,"BUILDING template",321364,321364,,MDU,0,5,1,6,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598913,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,291,,,Knokke-Heist,"BUILDING template",2762530,2762530,,MDU,1,11,0,12,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598658,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,9,,,Knokke-Heist,"BUILDING template",321365,321365,,MDU,0,15,1,16,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598914,"KNOKKE-HEIST - FH04",,BL0413,Kustlaan,301,,,Knokke-Heist,"BUILDING template",2762538,2762538,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598659,"KNOKKE-HEIST - FH04",,BL0413,Ebbestraat,15,,,Knokke-Heist,"BUILDING template",321366,321366,,MDU,,2,,2,,,,,,,,
+598915,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,307,,,Knokke-Heist,"BUILDING template",2762540,2762540,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598660,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",807,,,Knokke-Heist,"BUILDING template",321985,321985,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598916,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,313,,,Knokke-Heist,"BUILDING template",2762541,2762541,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598661,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",814,,,Knokke-Heist,"BUILDING template",321986,321986,,MDU,0,14,1,15,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598917,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,315,,,Knokke-Heist,"BUILDING template",2762543,2762543,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598662,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",816,,,Knokke-Heist,"BUILDING template",321987,321987,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598918,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,317,,,Knokke-Heist,"BUILDING template",2762544,2762544,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598663,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",819,,,Knokke-Heist,"BUILDING template",321988,321988,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598919,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,319,,,Knokke-Heist,"BUILDING template",2762547,2762547,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598664,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,305,,,Knokke-Heist,"BUILDING template",321989,321989,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598920,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,321,,,Knokke-Heist,"BUILDING template",2762548,2762548,,MDU,0,9,1,10,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598665,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,337,,,Knokke-Heist,"BUILDING template",321992,321992,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598921,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,323,,,Knokke-Heist,"BUILDING template",2762549,2762549,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598666,"KNOKKE-HEIST - FH04",,BL0414,Ebbestraat,2,,,Knokke-Heist,"BUILDING template",321994,321994,,MDU,0,24,1,25,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598922,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,325,,,Knokke-Heist,"BUILDING template",2762551,2762551,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598667,"KNOKKE-HEIST - FH04",,BL0414,Ebbestraat,10,,,Knokke-Heist,"BUILDING template",321996,321996,,MDU,0,51,2,53,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598923,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,327,,,Knokke-Heist,"BUILDING template",2762552,2762552,,MDU,0,12,1,13,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598668,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",1,,,Knokke-Heist,"BUILDING template",322000,322000,,MDU,0,17,1,18,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598924,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,331,,,Knokke-Heist,"BUILDING template",2762554,2762554,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598669,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,1,,,Knokke-Heist,"BUILDING template",322281,322281,,MDU,1,6,,7,,,,,,"Maayken Vanfleteren",N,
+598925,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,335,,,Knokke-Heist,"BUILDING template",2762555,2762555,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598670,"KNOKKE-HEIST - FH04",,BL0411,Golvenstraat,3,,,Knokke-Heist,"BUILDING template",322282,322282,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598926,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,339,,,Knokke-Heist,"BUILDING template",2762558,2762558,,MDU,0,12,1,13,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598671,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,6,,,Knokke-Heist,"BUILDING template",322283,322283,,SDU,,1,,1,,,,,,"Maayken Vanfleteren",N,
+598927,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,343,,,Knokke-Heist,"BUILDING template",2762561,2762561,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598672,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,22,,,Knokke-Heist,"BUILDING template",322284,322284,,MDU,0,14,1,15,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598928,"KNOKKE-HEIST - FH04",,BL0414,Kustlaan,345,,,Knokke-Heist,"BUILDING template",2762564,2762564,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598673,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",777,,,Knokke-Heist,"BUILDING template",322286,322286,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598929,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,1,B,,Knokke-Heist,"BUILDING template",2762907,2762907,,SDU,0,1,0,1,,,,,,,,
+598674,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,231,,,Knokke-Heist,"BUILDING template",322287,322287,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598930,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,4,,,Knokke-Heist,"BUILDING template",2762909,2762909,,SDU,0,1,0,1,,,,,,,,
+598675,"KNOKKE-HEIST - FH04",,BL0411,Kustlaan,187,,,Knokke-Heist,"BUILDING template",322289,322289,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598931,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,7,,,Knokke-Heist,"BUILDING template",2762913,2762913,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598932,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,14,,,Knokke-Heist,"BUILDING template",2762922,2762922,,MDU,1,7,0,8,,,,,,"Geert Stockman",Y,2020-01-17
+598677,"KNOKKE-HEIST - FH04",,BL0401,Kustlaan,1,,,Knokke-Heist,"BUILDING template",323112,323112,,MDU,4,114,,118,,,,,,,,
+598933,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,6,,,Knokke-Heist,"BUILDING template",2763519,2763519,,MDU,1,15,,16,,,,,,,,
+598678,"KNOKKE-HEIST - FH04",,BL0401,Kustlaan,11,,,Knokke-Heist,"BUILDING template",323113,323113,,MDU,,58,,58,,,,,,,,
+598934,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,8,,,Knokke-Heist,"BUILDING template",2763522,2763522,,SDU,,1,,1,,,,,,,,
+598679,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,649,,,Knokke-Heist,"BUILDING template",334954,334954,,MDU,1,8,,9,,,,,,,,
+598935,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,9,,,Knokke-Heist,"BUILDING template",2763524,2763524,,MDU,0,9,0,9,,,,,,"Geert Stockman",Y,2020-01-19
+598680,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,650,,,Knokke-Heist,"BUILDING template",334955,334955,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598936,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,10,,,Knokke-Heist,"BUILDING template",2763525,2763525,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+617112,"KNOKKE-HEIST - FH04",,,Duindistelstraat,10,,,Knokke-Heist,"BUILDING template",NB-8300108be948,NB-8300108be948,,SDU,1,0,0,1,,2020-01-15,,,,"Hidde Kiekens",,
+598681,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,661,,,Knokke-Heist,"BUILDING template",334957,334957,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598937,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,11,,,Knokke-Heist,"BUILDING template",2763526,2763526,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+598682,"KNOKKE-HEIST - FH04",,BL0403,Zeedijk-Knokke,670,,,Knokke-Heist,"BUILDING template",334958,334958,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598938,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,12,,,Knokke-Heist,"BUILDING template",2763527,2763527,,MDU,0,11,0,11,,,,,,"Geert Stockman",Y,2020-01-19
+617114,"KNOKKE-HEIST - FH04",,,Duindistelstraat,8,,,Knokke-Heist,"BUILDING template",NB-830082b4749,NB-830082b4749,,SDU,1,0,0,1,,2020-01-15,,,,"Hidde Kiekens",,
+598683,"KNOKKE-HEIST - FH04",,BL0403,Kustlaan,13,,,Knokke-Heist,"BUILDING template",334964,334964,,MDU,0,10,0,10,,,,,,"Geert Stockman",Y,2020-01-19
+598939,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,13,,,Knokke-Heist,"BUILDING template",2763531,2763531,,MDU,0,16,0,16,,,,,,"Geert Stockman",Y,2020-01-19
+598684,"KNOKKE-HEIST - FH04",,BL0403,Kustlaan,19,,,Knokke-Heist,"BUILDING template",334965,334965,,MDU,1,4,0,5,,,,,,"Geert Stockman",Y,2020-01-19
+598940,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,16,,,Knokke-Heist,"BUILDING template",2763533,2763533,,MDU,0,16,0,16,,,,,,"Geert Stockman",Y,2020-01-19
+617116,"KNOKKE-HEIST - FH04",,,"Antoine Breartstraat",13,B,,Knokke-Heist,"BUILDING template",NB-830013B4667,NB-830013B4667,,SDU,1,0,0,1,,2020-01-15,,,,"Hidde Kiekens",,
+617372,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",798,,,Knokke-Heist,"BUILDING template",NB-8300798fb1c52,NB-8300798fb1c52,,SDU,1,0,0,1,,2020-01-17,,,,"Maayken Vanfleteren",,
+598685,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,2,,,Knokke-Heist,"BUILDING template",334966,334966,,SDU,,1,,1,,,,,,,,
+598941,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,2,,,Knokke-Heist,"BUILDING template",2766752,2766752,,MDU,0,9,1,10,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598686,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,8,,,Knokke-Heist,"BUILDING template",334967,334967,,SDU,,1,,1,,,,,,,,
+598942,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,3,,,Knokke-Heist,"BUILDING template",2766753,2766753,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598687,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,10,,,Knokke-Heist,"BUILDING template",334968,334968,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598943,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,5,,,Knokke-Heist,"BUILDING template",2766756,2766756,,MDU,0,16,1,17,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598688,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,16,,,Knokke-Heist,"BUILDING template",334969,334969,,MDU,2,16,0,18,,,,,,"Geert Stockman",Y,2020-01-17
+598944,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,7,,,Knokke-Heist,"BUILDING template",2766758,2766758,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598689,"KNOKKE-HEIST - FH04",,BL0401,Lichttorenplein,18,,,Knokke-Heist,"BUILDING template",334970,334970,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598945,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,8,,,Knokke-Heist,"BUILDING template",2766759,2766759,,MDU,0,8,1,9,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598690,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",20,,,Knokke-Heist,"BUILDING template",334973,334973,,MDU,3,,,3,,,,,,,,
+598946,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,9,,,Knokke-Heist,"BUILDING template",2766761,2766761,,MDU,0,13,0,13,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+617122,"KNOKKE-HEIST - FH04",,,Kustlaan,235,,,Knokke-Heist,"BUILDING template",NB-83002358e2701,NB-83002358e2701,,SDU,1,0,0,1,,2020-01-16,,,,"Maayken Vanfleteren",,
+598691,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",19,,,Knokke-Heist,"BUILDING template",334974,334974,,MDU,1,7,0,8,,,,,,"Geert Stockman",Y,2020-01-20
+598947,"KNOKKE-HEIST - FH04",,BL0412,Strandstraat,11,,,Knokke-Heist,"BUILDING template",2766762,2766762,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598692,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",12,,,Knokke-Heist,"BUILDING template",334976,334976,,SDU,,1,,1,,,,,,,,
+598948,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,12,,,Knokke-Heist,"BUILDING template",2766763,2766763,,MDU,0,4,0,4,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+617124,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",729,,,Knokke-Heist,"BUILDING template",NB-8300729705092,NB-8300729705092,,MDU,0,12,1,13,,2020-01-16,,,,"Hidde Kiekens",,
+598693,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,1,,,Knokke-Heist,"BUILDING template",334977,334977,,MDU,2,12,,14,,,,,,,,
+598949,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,14,,,Knokke-Heist,"BUILDING template",2766766,2766766,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598694,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,5,,,Knokke-Heist,"BUILDING template",334978,334978,,MDU,0,18,0,18,,,,,,"Geert Stockman",Y,2020-01-17
+598950,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,18,,,Knokke-Heist,"BUILDING template",2766768,2766768,,MDU,0,6,0,6,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598695,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,11,,,Knokke-Heist,"BUILDING template",334979,334979,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598951,"KNOKKE-HEIST - FH04",,BL0411,Strandstraat,20,,,Knokke-Heist,"BUILDING template",2766769,2766769,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598696,"KNOKKE-HEIST - FH04",,BL0403,Lichttorenplein,13,,,Knokke-Heist,"BUILDING template",334980,334980,,MDU,0,30,0,30,,,,,,"Geert Stockman",Y,2020-01-17
+598952,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,4,,,Knokke-Heist,"BUILDING template",2766774,2766774,,MDU,1,8,0,9,,,,,,"Geert Stockman",Y,2020-01-17
+598697,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,4,,,Knokke-Heist,"BUILDING template",334982,334982,,MDU,0,8,0,8,,,,,,"Geert Stockman",Y,2020-01-17
+598953,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,5,,,Knokke-Heist,"BUILDING template",2766775,2766775,,MDU,1,12,,13,,,,,,,,
+598698,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,2,,,Knokke-Heist,"BUILDING template",334983,334983,,SDU,,1,,1,,,,,,,,
+598954,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,7,,,Knokke-Heist,"BUILDING template",2766776,2766776,,SDU,,1,,1,,,,,,,,
+598699,"KNOKKE-HEIST - FH04",,BL0405,Kustlaan,53,,,Knokke-Heist,"BUILDING template",335025,335025,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598955,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,9,,,Knokke-Heist,"BUILDING template",2766782,2766782,,MDU,0,16,0,16,,,,,,"Geert Stockman",Y,2020-01-17
+598700,"KNOKKE-HEIST - FH04",,BL0405,Kustlaan,43,,,Knokke-Heist,"BUILDING template",335026,335026,,MDU,2,0,0,2,,,,,,"Geert Stockman",Y,2020-01-17
+598956,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,11,,,Knokke-Heist,"BUILDING template",2766785,2766785,,MDU,0,10,0,10,,,,,,"Geert Stockman",Y,2020-01-17
+598701,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,1,,,Knokke-Heist,"BUILDING template",335027,335027,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+598957,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,12,,,Knokke-Heist,"BUILDING template",2766786,2766786,,MDU,0,12,0,12,,,,,,"Geert Stockman",Y,2020-01-17
+598702,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,15,,,Knokke-Heist,"BUILDING template",335028,335028,,MDU,0,14,0,14,,,,,,"Geert Stockman",Y,2020-01-17
+598958,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,13,,,Knokke-Heist,"BUILDING template",2766787,2766787,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598703,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,688,,,Knokke-Heist,"BUILDING template",335029,335029,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598959,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,14,,,Knokke-Heist,"BUILDING template",2766788,2766788,,MDU,0,5,0,5,,,,,,"Geert Stockman",Y,2020-01-17
+598704,"KNOKKE-HEIST - FH04",,BL0405,Zeedijk-Knokke,698,,,Knokke-Heist,"BUILDING template",335030,335030,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598960,"KNOKKE-HEIST - FH04",,BL0405,Swolfsstraat,17,,,Knokke-Heist,"BUILDING template",2766791,2766791,,MDU,0,13,0,13,,,,,,"Geert Stockman",Y,2020-01-17
+598705,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,22,,,Knokke-Heist,"BUILDING template",335031,335031,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+598961,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",3,,,Knokke-Heist,"BUILDING template",2767771,2767771,,MDU,1,5,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+617393,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",806,,,Knokke-Heist,"BUILDING template",NB-830080680eb62,NB-830080680eb62,,SDU,1,0,0,1,,2020-01-17,,,,"Maayken Vanfleteren",,
+598706,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,6,,,Knokke-Heist,"BUILDING template",335032,335032,,MDU,0,5,0,5,,,,,,"Geert Stockman",Y,2020-01-19
+598962,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",5,,,Knokke-Heist,"BUILDING template",2767773,2767773,,MDU,1,4,1,6,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+617138,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",734,,,Knokke-Heist,"BUILDING template",NB-83007342d6850,NB-83007342d6850,,SDU,1,0,0,1,,2020-01-16,,,,"Hidde Kiekens",,
+598707,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,4,,,Knokke-Heist,"BUILDING template",335033,335033,,MDU,0,11,0,11,,,,,,"Geert Stockman",Y,2020-01-19
+598963,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",7,,,Knokke-Heist,"BUILDING template",2767775,2767775,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598708,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,2,,,Knokke-Heist,"BUILDING template",335034,335034,,MDU,1,16,0,17,,,,,,"Geert Stockman",Y,2020-01-19
+598964,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",9,,,Knokke-Heist,"BUILDING template",2767776,2767776,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+617140,"KNOKKE-HEIST - FH04",,,Kustlaan,219,,,Knokke-Heist,"BUILDING template",NB-8300219b2f099,NB-8300219b2f099,,MDU,0,5,1,6,,2020-01-16,,,,"Maayken Vanfleteren",,
+598709,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",700,,,Knokke-Heist,"BUILDING template",335093,335093,,MDU,1,8,0,9,,,,,,"Hidde Kiekens",Y,2020-01-16
+598965,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",19,,,Knokke-Heist,"BUILDING template",2767788,2767788,,SDU,,1,,1,,,,,,"Maayken Vanfleteren",N,
+598710,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",713,,,Knokke-Heist,"BUILDING template",335094,335094,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-16
+598966,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",21,,,Knokke-Heist,"BUILDING template",2767790,2767790,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",N,
+598711,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",705,,,Knokke-Heist,"BUILDING template",335095,335095,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598967,"KNOKKE-HEIST - FH04",,BL0414,"De Wielingen",23,,,Knokke-Heist,"BUILDING template",2767792,2767792,,MDU,2,52,2,56,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598712,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",708,,,Knokke-Heist,"BUILDING template",335096,335096,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598968,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,5,,,Knokke-Heist,"BUILDING template",2767838,2767838,,MDU,0,15,0,15,,,,,,"Hidde Kiekens",Y,2020-01-15
+598713,"KNOKKE-HEIST - FH04",,BL0407,"Zeedijk-Het Zoute",714,,,Knokke-Heist,"BUILDING template",335097,335097,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598969,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,8,,,Knokke-Heist,"BUILDING template",2767840,2767840,,MDU,0,5,0,5,,,,,,"Geert Stockman",Y,2020-01-19
+598714,"KNOKKE-HEIST - FH04",,BL0407,"Zeedijk-Het Zoute",718,,,Knokke-Heist,"BUILDING template",335098,335098,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598970,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,9,,,Knokke-Heist,"BUILDING template",2767841,2767841,,MDU,0,11,1,12,,,,,,"Hidde Kiekens",Y,2020-01-15
+598715,"KNOKKE-HEIST - FH04",,BL0406,Kustlaan,55,,,Knokke-Heist,"BUILDING template",335099,335099,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598971,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,10,,,Knokke-Heist,"BUILDING template",2767843,2767843,,MDU,1,9,0,10,,,,,,"Geert Stockman",Y,2020-01-19
+598716,"KNOKKE-HEIST - FH04",,BL0406,Kustlaan,57,,,Knokke-Heist,"BUILDING template",335100,335100,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598972,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,12,,,Knokke-Heist,"BUILDING template",2767845,2767845,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598717,"KNOKKE-HEIST - FH04",,BL0406,Kustlaan,61,,,Knokke-Heist,"BUILDING template",335101,335101,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598973,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,13,,,Knokke-Heist,"BUILDING template",2767846,2767846,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-15
+598718,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,95,,,Knokke-Heist,"BUILDING template",335102,335102,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598974,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,14,,,Knokke-Heist,"BUILDING template",2767847,2767847,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+598719,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,85,,,Knokke-Heist,"BUILDING template",335103,335103,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598975,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,18,,,Knokke-Heist,"BUILDING template",2767848,2767848,,MDU,1,5,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+598720,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,63,,,Knokke-Heist,"BUILDING template",335104,335104,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-15
+598976,"KNOKKE-HEIST - FH04",,BL0405,Zandstraat,20,,,Knokke-Heist,"BUILDING template",2767849,2767849,,MDU,1,5,0,6,,,,,,"Geert Stockman",Y,2020-01-19
+626112,"KNOKKE-HEIST - FH04",,,"De Wielingen",17,,,Knokke-Heist,"BUILDING template",NB-83001773a739,NB-83001773a739,,SDU,0,1,0,1,,2020-01-20,,,,"Maayken Vanfleteren",,
+598721,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,1,,,Knokke-Heist,"BUILDING template",335105,335105,,MDU,0,7,0,7,,,,,,"Hidde Kiekens",N,
+598977,"KNOKKE-HEIST - FH04",,BL0412,Zeewindstraat,4,,,Knokke-Heist,"BUILDING template",2767893,2767893,,SDU,,1,,1,,,,,,"Maayken Vanfleteren",N,
+598722,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,3,,,Knokke-Heist,"BUILDING template",335107,335107,,MDU,0,20,1,21,,,,,,"Hidde Kiekens",Y,2020-01-15
+598978,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,5,,,Knokke-Heist,"BUILDING template",2767894,2767894,,MDU,0,8,0,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598723,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,7,,,Knokke-Heist,"BUILDING template",335108,335108,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598979,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,7,,,Knokke-Heist,"BUILDING template",2767895,2767895,,MDU,0,7,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598724,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,15,,,Knokke-Heist,"BUILDING template",335109,335109,,MDU,0,12,1,13,,,,,,"Hidde Kiekens",Y,2020-01-15
+598980,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,11,,,Knokke-Heist,"BUILDING template",2767896,2767896,,MDU,0,14,1,15,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+626116,"KNOKKE-HEIST - FH04",,,Kustlaan,349,,,Knokke-Heist,"BUILDING template",NB-8300349a07547,NB-8300349a07547,,SDU,1,0,0,1,,2020-01-20,,,,"Maayken Vanfleteren",,
+598725,"KNOKKE-HEIST - FH04",,BL0406,Zandstraat,17,,,Knokke-Heist,"BUILDING template",335110,335110,,MDU,0,7,1,8,,,,,,"Hidde Kiekens",Y,2020-01-15
+598981,"KNOKKE-HEIST - FH04",,BL0413,Zeewindstraat,13,,,Knokke-Heist,"BUILDING template",2767898,2767898,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598726,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,18,,,Knokke-Heist,"BUILDING template",335111,335111,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+598982,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",701,,,Knokke-Heist,"BUILDING template",2767938,2767938,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+626118,"KNOKKE-HEIST - FH04",,,Kustlaan,347,,,Knokke-Heist,"BUILDING template",NB-8300347222263,NB-8300347222263,,SDU,1,0,0,1,,2020-01-20,,,,"Maayken Vanfleteren",,
+598727,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,4,,,Knokke-Heist,"BUILDING template",335112,335112,,MDU,0,6,0,6,,,,,,"Hidde Kiekens",Y,2020-01-15
+598983,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",702,,,Knokke-Heist,"BUILDING template",2767941,2767941,,MDU,0,7,0,7,,,,,,"Hidde Kiekens",Y,2020-01-16
+598728,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,2,,,Knokke-Heist,"BUILDING template",335113,335113,,MDU,0,23,1,24,,,,,,"Hidde Kiekens",Y,2020-01-15
+598984,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",703,,,Knokke-Heist,"BUILDING template",2767944,2767944,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598729,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,17,,,Knokke-Heist,"BUILDING template",335114,335114,,MDU,0,6,0,6,,,,,,"Hidde Kiekens",Y,2020-01-15
+598985,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",704,,,Knokke-Heist,"BUILDING template",2767945,2767945,,MDU,0,11,0,11,,,,,,"Hidde Kiekens",Y,2020-01-16
+598730,"KNOKKE-HEIST - FH04",,BL0407,Duindistelstraat,1,,,Knokke-Heist,"BUILDING template",335115,335115,,MDU,,1,,1,,,,,,"Hidde Kiekens",N,
+598986,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",706,,,Knokke-Heist,"BUILDING template",2767948,2767948,,MDU,0,13,0,13,,,,,,"Hidde Kiekens",Y,2020-01-16
+598731,"KNOKKE-HEIST - FH04",,BL0406,Duindistelstraat,6,,,Knokke-Heist,"BUILDING template",335116,335116,,MDU,0,11,1,12,,,,,,"Hidde Kiekens",Y,2020-01-15
+598987,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",709,,,Knokke-Heist,"BUILDING template",2767951,2767951,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598732,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",13,,,Knokke-Heist,"BUILDING template",335118,335118,,MDU,0,15,1,16,,,,,,"Hidde Kiekens",Y,2020-01-15
+598988,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",711,,,Knokke-Heist,"BUILDING template",2767953,2767953,,MDU,0,46,0,46,,,,,,"Hidde Kiekens",Y,2020-01-16
+598733,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",19,,,Knokke-Heist,"BUILDING template",335119,335119,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598989,"KNOKKE-HEIST - FH04",,BL0406,"Zeedijk-Het Zoute",712,,,Knokke-Heist,"BUILDING template",2767956,2767956,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598734,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",1,,,Knokke-Heist,"BUILDING template",335120,335120,,MDU,0,27,0,27,,,,,,"Hidde Kiekens",N,
+598990,"KNOKKE-HEIST - FH04",,BL0407,"Zeedijk-Het Zoute",716,,,Knokke-Heist,"BUILDING template",2767960,2767960,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598735,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",735,,,Knokke-Heist,"BUILDING template",335746,335746,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598991,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",721,,,Knokke-Heist,"BUILDING template",2767964,2767964,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598736,"KNOKKE-HEIST - FH04",,BL0407,Kustlaan,97,,,Knokke-Heist,"BUILDING template",335748,335748,,SDU,1,,,1,,,,,,"Hidde Kiekens",N,
+598992,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",722,,,Knokke-Heist,"BUILDING template",2767965,2767965,,MDU,,2,,2,,,,,,"Hidde Kiekens",N,
+598737,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,127,,,Knokke-Heist,"BUILDING template",335749,335749,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598993,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",726,,,Knokke-Heist,"BUILDING template",2767968,2767968,,SDU,,1,,1,,,,,,"Hidde Kiekens",N,
+598738,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,123,,,Knokke-Heist,"BUILDING template",335751,335751,,MDU,1,10,1,12,,,,,,"Hidde Kiekens",Y,2020-01-16
+598994,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",727,,,Knokke-Heist,"BUILDING template",2767969,2767969,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598739,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",18,,,Knokke-Heist,"BUILDING template",335752,335752,,MDU,0,22,1,23,,,,,,"Hidde Kiekens",Y,2020-01-16
+598995,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",728,,,Knokke-Heist,"BUILDING template",2767970,2767970,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",N,
+598740,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",6,,,Knokke-Heist,"BUILDING template",335753,335753,,MDU,1,5,2,8,,,,,,"Hidde Kiekens",Y,2020-01-16
+598996,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",730,,,Knokke-Heist,"BUILDING template",2767974,2767974,,MDU,0,8,1,9,,,,,,"Hidde Kiekens",Y,2020-01-16
+598741,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,673,,,Knokke-Heist,"BUILDING template",337097,337097,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+598997,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",731,,,Knokke-Heist,"BUILDING template",2767976,2767976,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598742,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,685,,,Knokke-Heist,"BUILDING template",337098,337098,,MDU,2,14,0,16,,,,,,,,
+598998,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",732,,,Knokke-Heist,"BUILDING template",2767977,2767977,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+598743,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,687,,,Knokke-Heist,"BUILDING template",337099,337099,,SDU,0,1,0,1,,,,,,,,
+598999,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",733,,,Knokke-Heist,"BUILDING template",2767979,2767979,,MDU,0,16,1,17,,,,,,"Hidde Kiekens",Y,2020-01-16
+598744,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,678,,,Knokke-Heist,"BUILDING template",337100,337100,,MDU,0,14,0,14,,,,,,"Geert Stockman",Y,2020-01-17
+599000,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",736,,,Knokke-Heist,"BUILDING template",2767987,2767987,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+617176,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",753,,,Knokke-Heist,"BUILDING template",NB-8300753ff1373,NB-8300753ff1373,,SDU,1,0,0,1,,2020-01-17,,,,"Hidde Kiekens",,
+598745,"KNOKKE-HEIST - FH04",,BL0404,Zeedijk-Knokke,680,,,Knokke-Heist,"BUILDING template",337101,337101,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-17
+599001,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",742,,,Knokke-Heist,"BUILDING template",2767996,2767996,,MDU,0,12,1,13,,,,,,"Hidde Kiekens",Y,2020-01-16
+598746,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,39,,,Knokke-Heist,"BUILDING template",337102,337102,,SDU,0,1,0,1,,,,,,"Geert Stockman",N,
+599002,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",744,,,Knokke-Heist,"BUILDING template",2768001,2768001,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+617178,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",758,,,Knokke-Heist,"BUILDING template",NB-83007586fb030,NB-83007586fb030,,SDU,1,0,0,1,,2020-01-17,,,,"Hidde Kiekens",,
+598747,"KNOKKE-HEIST - FH04",,BL0404,Kustlaan,23,,,Knokke-Heist,"BUILDING template",337103,337103,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-19
+599003,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",746,,,Knokke-Heist,"BUILDING template",2768002,2768002,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+622811,"KNOKKE-HEIST - FH04",,,Kustlaan,21,,,Knokke-Heist,"BUILDING template",NB-830021ed6f19,NB-830021ed6f19,,SDU,1,0,0,1,,2020-01-19,,,,"Geert Stockman",,
+598748,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,2,,,Knokke-Heist,"BUILDING template",337107,337107,,MDU,1,7,0,8,,,,,,"Geert Stockman",Y,2020-01-19
+599004,"KNOKKE-HEIST - FH04",,BL0410,"Zeedijk-Het Zoute",756,,,Knokke-Heist,"BUILDING template",2768013,2768013,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-17
+617180,"KNOKKE-HEIST - FH04",,,"Zeedijk-Het Zoute",759,,,Knokke-Heist,"BUILDING template",NB-8300759c00d90,NB-8300759c00d90,,SDU,1,0,1,2,,2020-01-17,,,,"Hidde Kiekens",,
+598749,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,6,,,Knokke-Heist,"BUILDING template",337108,337108,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-17
+599005,"KNOKKE-HEIST - FH04",,BL0410,"Zeedijk-Het Zoute",757,A,,Knokke-Heist,"BUILDING template",2768015,2768015,,MDU,1,8,2,11,,,,,,"Hidde Kiekens",Y,2020-01-17
+598750,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,10,,,Knokke-Heist,"BUILDING template",337109,337109,,MDU,0,16,0,16,,,,,,"Geert Stockman",Y,2020-01-17
+599006,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",761,,,Knokke-Heist,"BUILDING template",2768018,2768018,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598751,"KNOKKE-HEIST - FH04",,BL0404,Swolfsstraat,18,,,Knokke-Heist,"BUILDING template",337110,337110,,MDU,0,6,0,6,,,,,,"Geert Stockman",Y,2020-01-17
+599007,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",762,,,Knokke-Heist,"BUILDING template",2768019,2768019,,MDU,0,6,1,7,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+617183,"KNOKKE-HEIST - FH04",,,Kustlaan,147,A,,Knokke-Heist,"BUILDING template",NB-8300147A5747,NB-8300147A5747,,MDU,0,12,1,13,,2020-01-17,,,,"Hidde Kiekens",,
+598752,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,7,,,Knokke-Heist,"BUILDING template",337111,337111,,MDU,0,10,0,10,,,,,,"Geert Stockman",Y,2020-01-17
+599008,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",763,,,Knokke-Heist,"BUILDING template",2768020,2768020,,MDU,0,14,1,15,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598753,"KNOKKE-HEIST - FH04",,BL0404,Marie-Josestraat,21,,,Knokke-Heist,"BUILDING template",337112,337112,,SDU,,1,,1,,,,,,,,
+599009,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",764,,,Knokke-Heist,"BUILDING template",2768022,2768022,,SDU,1,0,1,2,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598754,"KNOKKE-HEIST - FH04",,BL0403,Marie-Josestraat,14,,,Knokke-Heist,"BUILDING template",337115,337115,,MDU,0,4,0,4,,,,,,"Geert Stockman",Y,2020-01-19
+599010,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",765,,,Knokke-Heist,"BUILDING template",2768023,2768023,,MDU,0,13,1,14,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598755,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,5,,,Knokke-Heist,"BUILDING template",337141,337141,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-16
+599011,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",766,,,Knokke-Heist,"BUILDING template",2768024,2768024,,MDU,1,8,0,9,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598756,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",739,,,Knokke-Heist,"BUILDING template",337142,337142,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599012,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",768,,,Knokke-Heist,"BUILDING template",2768028,2768028,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598757,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",743,,,Knokke-Heist,"BUILDING template",337143,337143,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599013,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",769,,,Knokke-Heist,"BUILDING template",2768031,2768031,,MDU,0,14,1,15,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598758,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,131,,,Knokke-Heist,"BUILDING template",337147,337147,,SDU,1,0,1,2,,,,,,"Hidde Kiekens",Y,2020-01-16
+599014,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",770,,,Knokke-Heist,"BUILDING template",2768033,2768033,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598759,"KNOKKE-HEIST - FH04",,BL0401,Zeedijk-Knokke,648,,,Knokke-Heist,"BUILDING template",337592,337592,,SDU,1,,,1,,,,,,,,
+599015,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",771,,,Knokke-Heist,"BUILDING template",2768035,2768035,,MDU,0,8,1,9,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598760,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",767,,,Knokke-Heist,"BUILDING template",1322806,1322806,,MDU,0,16,1,17,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+599016,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",772,,,Knokke-Heist,"BUILDING template",2768036,2768036,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598761,"KNOKKE-HEIST - FH04",,BL0407,"Zeedijk-Het Zoute",715,,,Knokke-Heist,"BUILDING template",1327494,1327494,,MDU,0,60,2,62,,,,,,"Hidde Kiekens",Y,2020-01-16
+599017,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",773,,,Knokke-Heist,"BUILDING template",2768037,2768037,,MDU,0,14,1,15,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598762,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",724,,,Knokke-Heist,"BUILDING template",1327496,1327496,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599018,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",774,,,Knokke-Heist,"BUILDING template",2768038,2768038,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598763,"KNOKKE-HEIST - FH04",,BL0408,"Zeedijk-Het Zoute",737,,,Knokke-Heist,"BUILDING template",1327497,1327497,,MDU,0,46,2,48,,,,,,"Hidde Kiekens",Y,2020-01-16
+599019,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",775,,,Knokke-Heist,"BUILDING template",2768039,2768039,,MDU,0,7,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598764,"KNOKKE-HEIST - FH04",,BL0412,Kustlaan,249,,,Knokke-Heist,"BUILDING template",1338057,1338057,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+599020,"KNOKKE-HEIST - FH04",,BL0411,"Zeedijk-Het Zoute",776,,,Knokke-Heist,"BUILDING template",2768040,2768040,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-16
+598765,"KNOKKE-HEIST - FH04",,BL0408,Kustlaan,111,,,Knokke-Heist,"BUILDING template",1338390,1338390,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599021,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",780,,,Knokke-Heist,"BUILDING template",2768044,2768044,,SDU,0,1,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598766,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,2,,,Knokke-Heist,"BUILDING template",1523310,1523310,,MDU,1,7,0,8,,,,,,"Hidde Kiekens",N,
+599022,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",781,,,Knokke-Heist,"BUILDING template",2768045,2768045,,MDU,0,7,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598767,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,3,,,Knokke-Heist,"BUILDING template",2757624,2757624,,MDU,1,16,0,17,,,,,,"Hidde Kiekens",Y,2020-01-16
+599023,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",782,,,Knokke-Heist,"BUILDING template",2768046,2768046,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598768,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,7,,,Knokke-Heist,"BUILDING template",2757627,2757627,,MDU,0,14,0,14,,,,,,"Hidde Kiekens",Y,2020-01-16
+599024,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",784,,,Knokke-Heist,"BUILDING template",2768047,2768047,,MDU,0,28,1,29,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598769,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,8,,,Knokke-Heist,"BUILDING template",2757628,2757628,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599025,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",785,,,Knokke-Heist,"BUILDING template",2768048,2768048,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598770,"KNOKKE-HEIST - FH04",,BL0408,Albertplein,10,,,Knokke-Heist,"BUILDING template",2757629,2757629,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599026,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",787,,,Knokke-Heist,"BUILDING template",2768050,2768050,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598771,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",2,,,Knokke-Heist,"BUILDING template",2758353,2758353,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599027,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",788,,,Knokke-Heist,"BUILDING template",2768051,2768051,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598772,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",7,,,Knokke-Heist,"BUILDING template",2758359,2758359,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599028,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",789,,,Knokke-Heist,"BUILDING template",2768052,2768052,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598773,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",8,,,Knokke-Heist,"BUILDING template",2758360,2758360,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599029,"KNOKKE-HEIST - FH04",,BL0412,"Zeedijk-Het Zoute",790,,,Knokke-Heist,"BUILDING template",2768053,2768053,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598774,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",9,,,Knokke-Heist,"BUILDING template",2758361,2758361,,MDU,0,9,1,10,,,,,,"Hidde Kiekens",Y,2020-01-15
+599030,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",796,,,Knokke-Heist,"BUILDING template",2768059,2768059,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598775,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",10,,,Knokke-Heist,"BUILDING template",2758362,2758362,,MDU,0,14,1,15,,,,,,"Hidde Kiekens",Y,2020-01-16
+599031,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",797,,,Knokke-Heist,"BUILDING template",2768060,2768060,,MDU,0,15,1,16,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598776,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",12,,,Knokke-Heist,"BUILDING template",2758364,2758364,,MDU,1,3,0,4,,,,,,"Hidde Kiekens",Y,2020-01-16
+599032,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",799,,,Knokke-Heist,"BUILDING template",2768064,2768064,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598777,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",13,A,,Knokke-Heist,"BUILDING template",2758368,2758368,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-15
+599033,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",800,,,Knokke-Heist,"BUILDING template",2768065,2768065,,MDU,0,16,1,17,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598778,"KNOKKE-HEIST - FH04",,BL0408,"Antoine Breartstraat",14,,,Knokke-Heist,"BUILDING template",2758369,2758369,,SDU,1,0,0,1,,,,,,"Hidde Kiekens",Y,2020-01-16
+599034,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",802,,,Knokke-Heist,"BUILDING template",2768066,2768066,,SDU,1,0,0,1,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+617210,"KNOKKE-HEIST - FH04",,,Kustlaan,269,,,Knokke-Heist,"BUILDING template",NB-83002695d0c44,NB-83002695d0c44,,MDU,0,6,1,7,,2020-01-17,,,,"Maayken Vanfleteren",,
+598779,"KNOKKE-HEIST - FH04",,BL0407,"Antoine Breartstraat",17,,,Knokke-Heist,"BUILDING template",2758371,2758371,,MDU,1,6,2,9,,,,,,"Hidde Kiekens",Y,2020-01-15
+599035,"KNOKKE-HEIST - FH04",,BL0413,"Zeedijk-Het Zoute",803,,,Knokke-Heist,"BUILDING template",2768068,2768068,,MDU,0,7,1,8,,,,,,"Maayken Vanfleteren",Y,2020-01-17
+598780,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",14,,,Knokke-Heist,"BUILDING template",2758565,2758565,,SDU,,1,,1,,,,,,,,
+599036,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",810,,,Knokke-Heist,"BUILDING template",2768072,2768072,,MDU,0,9,1,10,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598781,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",15,,,Knokke-Heist,"BUILDING template",2758566,2758566,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-20
+599037,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",811,,,Knokke-Heist,"BUILDING template",2768073,2768073,,MDU,1,8,1,10,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598782,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",16,,,Knokke-Heist,"BUILDING template",2758568,2758568,,MDU,0,19,0,19,,,,,,"Geert Stockman",Y,2020-01-20
+599038,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",812,,,Knokke-Heist,"BUILDING template",2768074,2768074,,MDU,0,18,1,19,,,,,,"Maayken Vanfleteren",Y,2020-01-20
+598783,"KNOKKE-HEIST - FH04",,BL0401,"Van Bunnenplein",17,,,Knokke-Heist,"BUILDING template",2758569,2758569,,SDU,1,0,0,1,,,,,,"Geert Stockman",Y,2020-01-20
+599039,"KNOKKE-HEIST - FH04",,BL0414,"Zeedijk-Het Zoute",813,,,Knokke-Heist,"BUILDING template",2768076,2768076,,MDU,0,7,0,7,,,,,,"Maayken Vanfleteren",N,

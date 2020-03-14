@@ -1,0 +1,581 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
+KNOKKE-HEIST - FH09;4337458;4;0;0;4;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 3 LU's
+- Op Google Maps zijn er 4 bellen 4LU";Y;_;BUILDING template;August Beernaertstraat;7;;
+KNOKKE-HEIST - FH09;302697;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Louis Parentstraat;28;;
+KNOKKE-HEIST - FH09;5559096;17;0;1;18;MDU;XA;Y;NA;10;4;;;Y;_;BUILDING template;Parkstraat;19;;Residentie Zeeparel
+KNOKKE-HEIST - FH09;5561970;4;0;0;4;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Louis Parentstraat;12;;
+KNOKKE-HEIST - FH09;2756840;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;206;;
+KNOKKE-HEIST - FH09;5579232;0;1;0;1;SDU;;Y;NA;4;4;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps een aparte nummer in hetzelfde gebouw 
+1BU (zelfde gebouw als nr. 20)";Y;_;BUILDING template;Albatrosstraat;18;;
+KNOKKE-HEIST - FH09;2756863;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;241;;
+KNOKKE-HEIST - FH09;5579278;6;0;1;7;MDU;XC;Y;NA;6;4;;;Y;_;BUILDING template;August Beernaertstraat;20;;
+KNOKKE-HEIST - FH09;2756885;18;1;2;21;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;262;;
+KNOKKE-HEIST - FH09;5579355;9;1;1;11;MDU;XA;Y;NA;6;4;;"- Volgens CRAB zijn er hier 10 LU's
+- Op Google Maps zijn er 10 appartementen (nr. 12 is hetzelfde gebouw maar aparte ingang voor winkel) 10LU +1SU";Y;_;BUILDING template;Eerste-Geniestraat;14;;Residentie Zeerust
+KNOKKE-HEIST - FH09;5579365;8;0;2;10;MDU;XA;N;IRREG;9;0;;;Y;_;BUILDING template;Elizabetlaan;379;;
+KNOKKE-HEIST - FH09;2759165;7;1;2;10;MDU;C;Y;NA;5;4;;;Y;_;BUILDING template;Duinenstraat;19;;
+KNOKKE-HEIST - FH09;5579523;3;0;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;O.-L.-Vrouwstraat;4;;
+KNOKKE-HEIST - FH09;5579526;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Louis Parentstraat;15;;
+KNOKKE-HEIST - FH09;4018334;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Heldenplein;8;;
+KNOKKE-HEIST - FH09;5579527;7;0;1;8;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps niet controleerbaar 7LU + 1SU";Y;_;BUILDING template;Louis Parentstraat;26;;
+KNOKKE-HEIST - FH09;2756860;9;0;1;10;MDU;XA;N;IRREG;9;0;;;Y;XA want er is geen schacht in dit gebouw. - Check Jasper SSV oké;BUILDING template;Zeedijk-Heist;239;;
+KNOKKE-HEIST - FH09;5579528;10;0;1;11;MDU;XA;Y;NA;10;4;;;Y;_;BUILDING template;Parkstraat;17;;Residentie Speranza
+KNOKKE-HEIST - FH09;2759159;0;1;0;1;SDU;;Y;NA;5;4;;;Y;_;BUILDING template;Duinenstraat;11;;
+KNOKKE-HEIST - FH09;4336994;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;132;;
+KNOKKE-HEIST - FH09;5579529;0;1;0;1;SDU;;Y;NA;8;4;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU bij nr. 25";Y;_;BUILDING template;Parkstraat;23;;
+KNOKKE-HEIST - FH09;4335302;0;1;0;1;SDU;;N;IRREG;10;0;;;;check Nancy :;BUILDING template;Heldenplein;15;;
+KNOKKE-HEIST - FH09;5579530;14;0;1;15;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 15 LU's
+- Op Google Maps niet controleerbaar 14LU + 1 SU";Y;_;BUILDING template;Parkstraat;35;;Residentie Boszicht
+KNOKKE-HEIST - FH09;2759161;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Duinenstraat;12;;
+KNOKKE-HEIST - FH09;5579550;13;0;2;15;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Serweytens de Mercxstraat;1;;
+KNOKKE-HEIST - FH09;5567528;2;1;1;4;MDU;D;N;IRREG;4;0;;;Y;_;BUILDING template;August Beernaertstraat;15;;
+KNOKKE-HEIST - FH09;2760292;23;1;0;24;MDU;XA;N;IRREG;10;0;;;;check Nancy :afsluiten als sdu (1bu);BUILDING template;Heldenplein;13;;
+KNOKKE-HEIST - FH09;5579564;16;0;2;18;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;51;;
+KNOKKE-HEIST - FH09;4337345;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;265;;
+KNOKKE-HEIST - FH09;5905456;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Eerste-Geniestraat;19;;
+KNOKKE-HEIST - FH09;2756714;16;0;1;17;MDU;XA;N;IRREG;8;0;;;Y;QX want gelijkvloers moet in opbouw en er is wel een kast/schacht op elke verdieping, maar er moet overal geboord worden. - check Jasper: SSV oké;BUILDING template;Zeedijk-Heist;67;;
+KNOKKE-HEIST - FH09;302700;3;0;0;3;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Louis Parentstraat;16;;
+KNOKKE-HEIST - FH09;4337347;17;1;2;20;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;268;;
+KNOKKE-HEIST - FH09;297125;2;0;0;2;MDU;X;Y;NA;3;4;;;Y;Afbraak -  Démolition;BUILDING template;Louis Parentstraat;17;;
+KNOKKE-HEIST - FH09;4337482;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;296;;
+KNOKKE-HEIST - FH09;3939510;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;185;;
+KNOKKE-HEIST - FH09;2756911;9;1;1;11;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;297;;
+KNOKKE-HEIST - FH09;2759758;0;1;0;1;SDU;;Y;NA;8;4;;;;_;BUILDING template;Elizabetlaan;365;;
+KNOKKE-HEIST - FH09;2759740;7;0;0;7;MDU;XA;Y;NA;8;4;;;;_;BUILDING template;Elizabetlaan;329;;
+KNOKKE-HEIST - FH09;2756743;32;0;1;33;MDU;XA;N;IRREG;8;0;;;Y;Geen schacht. Werken met opbouw kabelgoten. Appartementen op glv hebben eigen nummer dus aansluiten als sdu. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;101;;
+KNOKKE-HEIST - FH09;297131;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;298;;
+KNOKKE-HEIST - FH09;290625;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;160;;
+KNOKKE-HEIST - FH09;4335301;1;0;0;1;SDU;;N;IRREG;10;0;;;;_;BUILDING template;Heldenplein;5;;
+KNOKKE-HEIST - FH09;2760291;0;1;0;1;SDU;;Y;NA;8;4;;;;_;BUILDING template;Heldenplein;12;;
+KNOKKE-HEIST - FH09;2756837;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;203;;
+KNOKKE-HEIST - FH09;6396293;0;1;0;1;SDU;;Y;NA;4;4;;;;_;BUILDING template;Serweytens de Mercxstraat;23;;
+KNOKKE-HEIST - FH09;297135;0;1;0;1;SDU;;Y;NA;6;4;;;Y;_;BUILDING template;Eerste-Geniestraat;12;;
+KNOKKE-HEIST - FH09;302632;2;0;0;2;MDU;D;Y;NA;3;4;;;;_;BUILDING template;Serweytens de Mercxstraat;7;;
+KNOKKE-HEIST - FH09;2759743;6;0;1;7;MDU;XA;Y;NA;7;3;;;Y;_;BUILDING template;Elizabetlaan;335;;
+KNOKKE-HEIST - FH09;2759749;15;0;2;17;MDU;A;Y;NA;8;3;;;Y;_;BUILDING template;Elizabetlaan;341;;
+KNOKKE-HEIST - FH09;278;13;0;2;15;MDU;XC;Y;NA;5;4;;"- Volgens CRAB zijn er hier 13 LU's
+- Op Google Maps niet controleerbaar 13LU + 1SU";Y;_;BUILDING template;Serweytens de Mercxstraat;21;;
+KNOKKE-HEIST - FH09;9883;8;0;0;8;MDU;XC;Y;NA;4;4;;;Y;_;BUILDING template;Jozef Dhoorelaan;2;;
+KNOKKE-HEIST - FH09;9885;0;1;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;18;;
+KNOKKE-HEIST - FH09;71496;8;1;1;10;MDU;XA;N;IRREG;9;0;;;Y;check Nancy : ssv ok;BUILDING template;Heldenplein;1;;
+KNOKKE-HEIST - FH09;71499;22;1;0;23;MDU;XA;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 23 LU's 
+- Op Google Maps niet controleerbaar 22LU + 1SU";Y;Schacht vanaf 1e verdieping bruikbaar.;BUILDING template;Heldenplein;33;;
+KNOKKE-HEIST - FH09;4103221;0;1;0;1;SDU;;N;IRREG;6;0;;;Y;_;BUILDING template;Louis Parentstraat;33;;
+KNOKKE-HEIST - FH09;2756866;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;243;;
+KNOKKE-HEIST - FH09;71632;13;0;1;14;MDU;XA;Y;NA;8;4;;"- Volgens CRAB zijn er hier 12 LU's
+- Op Google Maps niet controleerbaar 13LU + 1 SU";Y;"check Nancy : 12 of 13 lu?; bu op glvl ?";BUILDING template;Serweytens de Mercxstraat;34;;
+KNOKKE-HEIST - FH09;71634;9;0;0;9;MDU;B;Y;NA;6;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;24;;
+KNOKKE-HEIST - FH09;2764997;11;0;1;12;MDU;A;N;IRREG;8;0;;;Y;_;BUILDING template;Louis Parentstraat;37;;
+KNOKKE-HEIST - FH09;71699;15;0;1;16;MDU;XA;Y;NA;6;4;;"- Volgens CRAB zijn er hier 15 LU's
+- Op Google Maps niet controleerbaar 15LU";Y;Schacht pas bereikbaar op eerste tussenverdiepingen;BUILDING template;Albatrosstraat;21;;
+KNOKKE-HEIST - FH09;71700;1;1;0;2;MDU;D;Y;NA;3;4;;;Y;_;BUILDING template;Albatrosstraat;19;;
+KNOKKE-HEIST - FH09;71705;10;0;0;10;MDU;XC;N;ORN;5;0;;;Y;_;BUILDING template;Albatrosstraat;8;;
+KNOKKE-HEIST - FH09;71706;11;0;1;12;MDU;XA;Y;NA;6;4;;;Y;_;BUILDING template;Albatrosstraat;13;;Residentie Pronkenburg
+KNOKKE-HEIST - FH09;71710;4;1;0;5;MDU;D;Y;NA;5;4;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps zijn er 5 bussen 5LU + 1SU";Y;_;BUILDING template;Graaf d Ursellaan;18;;
+KNOKKE-HEIST - FH09;71712;0;1;0;1;SDU;;N;IRREG;8;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU";Y;_;BUILDING template;Graaf d Ursellaan;21;;
+KNOKKE-HEIST - FH09;71713;7;1;0;8;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;2;;
+KNOKKE-HEIST - FH09;4335285;0;1;0;1;SDU;;Y;NA;8;3;;;Y;_;BUILDING template;Elizabetlaan;343;;
+KNOKKE-HEIST - FH09;71737;35;1;0;36;MDU;XA;Y;NA;10;4;;"- Volgens CRAB zijn er hier 34 LU's   34LU +1BU +1SU
+- Op Google Maps niet controleerbaar";Y;_;BUILDING template;Elizabetlaan;325;;
+KNOKKE-HEIST - FH09;71741;12;1;1;14;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Duinenstraat;1;;
+KNOKKE-HEIST - FH09;2756718;1;0;0;1;SDU;;N;IRREG;6;0;;;Y;_;BUILDING template;Zeedijk-Heist;74;;
+KNOKKE-HEIST - FH09;71743;5;0;2;7;MDU;XC;Y;NA;5;4;;;Y;_;BUILDING template;Duinenstraat;2;;
+KNOKKE-HEIST - FH09;2756841;12;0;1;13;MDU;XA;N;IRREG;8;0;;;Y;Gelijkvloers 206 apart aansluiten. Gebouw gaat binnen dit en een half jaar max gesloopt worden. Nog niets geweten over wat er gaat komen. Gebouw is in overdracht. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;207;;
+KNOKKE-HEIST - FH09;71747;19;0;0;19;MDU;XA;Y;NA;10;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;3;;
+KNOKKE-HEIST - FH09;71739;0;1;0;1;SDU;;Y;NA;7;4;;;Y;_;BUILDING template;Elizabetlaan;353;;
+KNOKKE-HEIST - FH09;71748;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1LU";Y;BE;BUILDING template;O.-L.-Vrouwstraat;2;;
+KNOKKE-HEIST - FH09;4337540;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;102;;
+KNOKKE-HEIST - FH09;290493;34;1;0;35;MDU;XA;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 34 LU's
+- Op Google Maps niet controleerbaar 35LU + 1BU + 2SU";Y;_;BUILDING template;Vuurtorenstraat;1;;
+KNOKKE-HEIST - FH09;5579364;0;1;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;355;;
+KNOKKE-HEIST - FH09;290495;24;0;2;26;MDU;XA;N;IRREG;10;4;;"- Volgens CRAB zijn er hier 24 LU's
+- Op Google Maps niet controleerbaar 24LU + 1SU";Y;_;BUILDING template;Vuurtorenstraat;3;;
+KNOKKE-HEIST - FH09;71744;21;0;0;21;MDU;A;N;IRREG;10;0;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;1;;
+KNOKKE-HEIST - FH09;290499;14;0;2;16;MDU;XA;Y;NA;8;4;;"- Volgens CRAB zijn er hier 14 LU's
+- Op Google Maps niet controleerbaar 14LU + 1SU";Y;Schacht bereikbaar vanaf verdiep 1;BUILDING template;Kardinaal Mercierstraat;4;;
+KNOKKE-HEIST - FH09;2759760;1;0;0;1;SDU;;Y;NA;8;3;;;Y;_;BUILDING template;Elizabetlaan;371;;
+KNOKKE-HEIST - FH09;290630;1;0;0;1;SDU;;Y;NA;4;4;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps zijn er 2 bussen 1LU + 1 BU";Y;_;BUILDING template;Elizabetlaan;411;;
+KNOKKE-HEIST - FH09;2756869;7;1;0;8;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;246;;
+KNOKKE-HEIST - FH09;290632;13;0;1;14;MDU;A;Y;NA;7;4;;"- Volgens CRAB zijn er hier 24 LU's   
+- Op Google Maps niet controleerbaar 11LU +2BU +1SU";Y;Er is een schacht op elke verdieping, maar er zal wel op elke verdieping geboord moeten worden. BG met Zeedijk 168. Er is maar 1 trappenhal. check Nancy : ssv ok.;BUILDING template;Elizabetlaan;399;;
+KNOKKE-HEIST - FH09;5579219;35;0;1;36;MDU;XA;N;IRREG;8;0;;;Y;Er is een schacht aanwezig met op elke verdieping buiten het gelijkvloers een luikje maar is niet toegankelijk. check Nancy : ssv ok;BUILDING template;Zeedijk-Heist;166;;
+KNOKKE-HEIST - FH09;292334;15;0;1;16;MDU;XA;N;IRREG;9;0;;"- Volgens CRAB zijn er hier 15 LU's
+- Op Google Maps niet controleerbaar 13LU + 2BU + 1SU";Y;Enkel een schacht op het gelijkvloers;BUILDING template;Vissershuldeplein;2;;
+KNOKKE-HEIST - FH09;292335;17;0;0;17;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Graaf van Vlaanderenstraat;2;;
+KNOKKE-HEIST - FH09;292347;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;14;;
+KNOKKE-HEIST - FH09;292348;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;16;;
+KNOKKE-HEIST - FH09;292349;8;0;0;8;MDU;XC;Y;NA;4;4;;;Y;_;BUILDING template;Jozef Dhoorelaan;4;;
+KNOKKE-HEIST - FH09;292350;13;0;0;13;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 13 LU's
+- Op Google Maps niet controleerbaar 13LU+1SU";Y;_;BUILDING template;de Maerestraat;4;;
+KNOKKE-HEIST - FH09;4337754;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;187;;
+KNOKKE-HEIST - FH09;292351;8;0;0;8;MDU;F;N;ORN;8;0;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps zijn er 8 bussen AAN HET VERBOUWEN GEEN IDENTIFICATIE VAN AANTAL LU";Y;_;BUILDING template;de Maerestraat;2;;
+KNOKKE-HEIST - FH09;292353;14;0;0;14;MDU;XA;N;IRREG;9;0;;;Y;_;BUILDING template;de Maerestraat;3;;
+KNOKKE-HEIST - FH09;4337755;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;188;;
+KNOKKE-HEIST - FH09;292682;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;34;;
+KNOKKE-HEIST - FH09;292684;2;0;0;2;MDU;D;N;IRREG;2;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps zijn er 2 bussen 2LU";Y;_;BUILDING template;Jozef Dhoorelaan;28;;
+KNOKKE-HEIST - FH09;292686;1;0;0;1;SDU;;N;IRREG;1;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;30;;
+KNOKKE-HEIST - FH09;297116;14;0;1;15;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 15 LU's
+- Op Google Maps niet controleerbaar 14LU + 1SU";Y;_;BUILDING template;Parkstraat;33;;Residentie Mermaid
+KNOKKE-HEIST - FH09;1491084;20;0;1;21;MDU;XA;N;IRREG;10;0;;;Y;check Nancy :ssv ok.;BUILDING template;Zeedijk-Heist;190;;
+KNOKKE-HEIST - FH09;297117;8;0;1;9;MDU;A;N;IRREG;8;0;;;Y;QA want er is een toegankelijke schacht op elke verdieping. check Nancy : ssv ok.;BUILDING template;Parkstraat;31;;
+KNOKKE-HEIST - FH09;2756872;59;0;2;61;MDU;A;N;IRREG;10;0;;;Y;XA omdat er wel schachten zijn, maar niet op alle verdiepingen en er moet ook overal geboord worden. check Jasper - SSV oké , detail schachten toegevoegd in opmerking;BUILDING template;Zeedijk-Heist;248;;
+KNOKKE-HEIST - FH09;297122;0;1;0;1;SDU;;Y;NA;10;4;;"- Nummer niet vermeld in CRAB wel in IFH
+- Op Google Maps is dit nr. 15 1BU";Y;_;BUILDING template;Parkstraat;13;;
+KNOKKE-HEIST - FH09;297126;30;0;1;31;MDU;XA;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 29 LU's
+- Op Google Maps niet controleerbaar 30LU + 1BU + 1SU";Y;_;BUILDING template;Louis Parentstraat;1;;
+KNOKKE-HEIST - FH09;302698;0;1;0;1;SDU;;Y;NA;6;4;;;;_;BUILDING template;Louis Parentstraat;24;;
+KNOKKE-HEIST - FH09;297128;19;1;1;21;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 18 LU's 
+- Op Google Maps niet controleerbaar 19LU + 1SU";Y;_;BUILDING template;Graaf d Ursellaan;52;;
+KNOKKE-HEIST - FH09;297132;1;0;0;1;SDU;;Y;NA;3;4;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps is er 1 bus 1LU";Y;_;BUILDING template;Eerste-Geniestraat;2;;
+KNOKKE-HEIST - FH09;302686;1;0;0;1;SDU;;Y;NA;3;4;;;;_;BUILDING template;August Beernaertstraat;52;;
+KNOKKE-HEIST - FH09;297133;5;0;0;5;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Eerste-Geniestraat;1;;
+KNOKKE-HEIST - FH09;297134;3;0;0;3;MDU;D;Y;NA;3;4;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps zijn er 3 bellen 2LU MOGELIJKHEID TOT 3";Y;_;BUILDING template;Eerste-Geniestraat;10;;
+KNOKKE-HEIST - FH09;6525363;1;0;0;1;SDU;;Y;NA;8;3;;;Y;_;BUILDING template;Elizabetlaan;393;;
+KNOKKE-HEIST - FH09;2764635;3;0;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;O.-L.-Vrouwstraat;10;;
+KNOKKE-HEIST - FH09;2758020;3;0;2;5;MDU;C;Y;NA;4;4;;;;_;BUILDING template;August Beernaertstraat;50;;
+KNOKKE-HEIST - FH09;297136;5;0;1;6;MDU;XC;N;IRREG;5;0;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps niet controleerbaar 5LU +1SU";Y;_;BUILDING template;Eerste-Geniestraat;13;;Residentie Jupiter
+KNOKKE-HEIST - FH09;302627;8;0;0;8;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 15 LU's
+- Op Google Maps zijn er 8 bussen 8 LU";Y;_;BUILDING template;Serweytens de Mercxstraat;19;;
+KNOKKE-HEIST - FH09;5579366;0;1;0;1;SDU;;Y;NA;7;3;;;Y;_;BUILDING template;Elizabetlaan;397;;
+KNOKKE-HEIST - FH09;302679;7;1;1;9;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 9 LU's
+- Op Google Maps zijn er 8 verdiepen 7LU + 1BU + 1SU";Y;Geen schacht en via gevel niet mogelijk.check Nancy : ssv ok, bu ipv lu bij 'Details eenheden'.;BUILDING template;Graaf d Ursellaan;25;;
+KNOKKE-HEIST - FH09;302681;1;1;0;2;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps is dit een huisarts + woning 1LU + 1BU";Y;_;BUILDING template;Graaf d Ursellaan;33;;
+KNOKKE-HEIST - FH09;3939631;4;0;0;4;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;11;;
+KNOKKE-HEIST - FH09;302683;0;1;0;1;SDU;;Y;NA;7;4;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps 1 immokantoor 1BU";Y;_;BUILDING template;Graaf d Ursellaan;34;;
+KNOKKE-HEIST - FH09;2756778;16;0;1;17;MDU;XA;N;IRREG;9;0;;;Y;Geen schacht aanwezig dus opbouw door de trappenhal. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;145;;
+KNOKKE-HEIST - FH09;302684;7;1;1;9;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;36;;
+KNOKKE-HEIST - FH09;302685;7;1;1;9;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;44;;
+KNOKKE-HEIST - FH09;302687;3;0;0;3;MDU;B;Y;NA;7;4;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps niet controleerbaar 3LU + 1 SU";Y;_;BUILDING template;August Beernaertstraat;23;;
+KNOKKE-HEIST - FH09;302689;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;August Beernaertstraat;48;;
+KNOKKE-HEIST - FH09;2756894;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;273;;
+KNOKKE-HEIST - FH09;302692;7;1;2;10;MDU;C;Y;NA;4;4;;;Y;_;BUILDING template;August Beernaertstraat;22;;
+KNOKKE-HEIST - FH09;302693;3;0;0;3;MDU;D;Y;NA;3;4;;"- Volgens CRAB zijn er hier 4 LU's
+- Op Google Maps zijn er 3 bellen 3LU";Y;_;BUILDING template;August Beernaertstraat;9;;
+KNOKKE-HEIST - FH09;302699;1;0;0;1;SDU;;Y;NA;4;4;;"- Volgens CRAB zijn er hier 3 LU's
+- Op Google Maps niet controleerbaar 1LU";Y;_;BUILDING template;Louis Parentstraat;18;;
+KNOKKE-HEIST - FH09;302702;10;0;0;10;MDU;B;N;IRREG;10;0;;;Y;_;BUILDING template;Louis Parentstraat;2;;
+KNOKKE-HEIST - FH09;302703;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Visserskapelstraat;2;;
+KNOKKE-HEIST - FH09;302704;3;0;0;3;MDU;D;Y;NA;3;4;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps zijn er 3 bellen 3LU";Y;_;BUILDING template;Visserskapelstraat;3;;
+KNOKKE-HEIST - FH09;302705;5;1;1;7;MDU;XC;Y;NA;5;4;;"- Volgens CRAB zijn er hier 6 LU's
+- Op Google Maps niet controleerbaar 5LU + 1 BU + 1SU";Y;_;BUILDING template;Visserskapelstraat;19;;
+KNOKKE-HEIST - FH09;302706;4;0;0;4;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 4 LU's
+- Op Google Maps zijn er 4 bussen 4LU";Y;_;BUILDING template;Visserskapelstraat;8;;
+KNOKKE-HEIST - FH09;4337758;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;191;;
+KNOKKE-HEIST - FH09;302711;12;0;1;13;MDU;D;N;IRREG;4;0;;;Y;_;BUILDING template;De Kinkhoorn;1;;
+KNOKKE-HEIST - FH09;302712;8;0;1;9;MDU;D;N;IRREG;4;0;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 8LU + 1 SU";Y;_;BUILDING template;De Kinkhoorn;5;;
+KNOKKE-HEIST - FH09;4337650;1;0;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;405;;
+KNOKKE-HEIST - FH09;302713;1;0;0;1;SDU;;Y;NA;3;4;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1LU";Y;_;BUILDING template;De Kinkhoorn;15;;
+KNOKKE-HEIST - FH09;302714;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;De Kinkhoorn;14;;
+KNOKKE-HEIST - FH09;4337651;1;0;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;407;;
+KNOKKE-HEIST - FH09;6396864;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;105;;
+KNOKKE-HEIST - FH09;4335233;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;212;;
+KNOKKE-HEIST - FH09;303846;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Vuurtorenstraat;2;;
+KNOKKE-HEIST - FH09;303848;7;1;0;8;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;395;;
+KNOKKE-HEIST - FH09;4337653;1;0;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;409;;
+KNOKKE-HEIST - FH09;5579223;50;0;2;52;MDU;XA;N;IRREG;10;0;;;Y;XA want er is wel een schacht op elke verdieping, buiten op het gelijkvloers, op het gelijkvloers zijn geen units. Je kan op -1 de schacht zien vertrekken en ziet een gat vanop de eerste verdieping. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;213;;
+KNOKKE-HEIST - FH09;1329624;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;12;;
+KNOKKE-HEIST - FH09;1347701;7;0;0;7;MDU;XA;Y;NA;8;4;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps niet controleerbaar 6LU + 1SU";Y;_;BUILDING template;Elizabetlaan;369;;
+KNOKKE-HEIST - FH09;2766968;7;0;0;7;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;5;;
+KNOKKE-HEIST - FH09;2756780;14;0;1;15;MDU;XA;N;IRREG;8;0;;;Y;"Geen schachten. Werken met opbouw kabelgoot. Appartement op GLV  vooraan apart aangesloten.check Nancy ; ssv ok,; 1 tem 6 (ipv 7) 2xlu.";BUILDING template;Zeedijk-Heist;147;;
+KNOKKE-HEIST - FH09;1445319;13;1;2;16;MDU;A;Y;NA;8;4;;;Y;_;BUILDING template;Kardinaal Mercierstraat;14;;
+KNOKKE-HEIST - FH09;1470202;8;0;2;10;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;375;;
+KNOKKE-HEIST - FH09;2756800;15;0;0;15;MDU;A;N;IRREG;8;0;;;Y;Er is een schacht op elke verdieping, maar er zal wel op elke verdieping geboord moeten worden. BG met Elisabethlaan 399. Er is maar 1 trappenhal.check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;168;;
+KNOKKE-HEIST - FH09;2757575;10;0;1;11;MDU;XA;Y;NA;6;4;;;Y;_;BUILDING template;Albatrosstraat;9;;Residentie Minerve
+KNOKKE-HEIST - FH09;4146526;1;0;0;1;SDU;;N;IRREG;7;0;;;Y;_;BUILDING template;Zeedijk-Heist;84;;
+KNOKKE-HEIST - FH09;71498;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Heldenplein;25;;
+KNOKKE-HEIST - FH09;2757576;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Albatrosstraat;11;;
+KNOKKE-HEIST - FH09;71638;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;247;;
+KNOKKE-HEIST - FH09;2757577;2;0;0;2;MDU;D;Y;NA;3;4;;;Y;_;BUILDING template;Albatrosstraat;12;;
+KNOKKE-HEIST - FH09;71639;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Zeedijk-Heist;251;;
+KNOKKE-HEIST - FH09;2757578;7;1;0;8;MDU;D;Y;NA;5;4;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 7LU + 1BU";Y;_;BUILDING template;Albatrosstraat;14;;Residentie Lisa
+KNOKKE-HEIST - FH09;2757582;6;0;1;7;MDU;XA;Y;NA;6;4;;;Y;_;BUILDING template;Albatrosstraat;17;;Residentie Ter Schorre
+KNOKKE-HEIST - FH09;290627;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;165;;
+KNOKKE-HEIST - FH09;2757588;0;1;0;1;SDU;;Y;NA;6;4;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps niet controleerbaar 2LU";Y;Garagecomplex;BUILDING template;Albatrosstraat;29;;
+KNOKKE-HEIST - FH09;297120;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Parkstraat;7;;
+KNOKKE-HEIST - FH09;292670;31;0;2;33;MDU;XA;N;IRREG;7;0;;;Y;QA want er is een vuilniskoker van vroeger die nu doet als kast/schacht op elke verdieping, moet naar elke verdieping geboord worden. - check Jasper : SSV Oké , intro langs de achterkant van het gebouw;BUILDING template;Zeedijk-Heist;64;;
+KNOKKE-HEIST - FH09;2757589;0;1;0;1;SDU;;Y;NA;6;4;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps niet controleerbaar 2LU";Y;Garagecomplex. De twee LU behoren aan nr 21;BUILDING template;Albatrosstraat;31;;
+KNOKKE-HEIST - FH09;71714;7;1;0;8;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;8;;
+KNOKKE-HEIST - FH09;2758013;6;0;0;6;MDU;B;N;IRREG;6;0;;;Y;Eigenaar/bewoner weigert medewerking.;BUILDING template;August Beernaertstraat;10;;
+KNOKKE-HEIST - FH09;2765006;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Parkstraat;11;;
+KNOKKE-HEIST - FH09;292675;0;1;0;1;SDU;;N;IRREG;9;0;;;Y;_;BUILDING template;Zeedijk-Heist;83;;
+KNOKKE-HEIST - FH09;2758014;6;0;0;6;MDU;B;Y;NA;6;4;;;Y;_;BUILDING template;August Beernaertstraat;12;;
+KNOKKE-HEIST - FH09;297121;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Parkstraat;1;;
+KNOKKE-HEIST - FH09;297123;18;1;1;20;MDU;A;Y;NA;10;4;;;Y;_;BUILDING template;Parkstraat;15;;Residentie Zeebries
+KNOKKE-HEIST - FH09;302670;0;1;0;1;SDU;;N;IRREG;9;0;;;Y;_;BUILDING template;Zeedijk-Heist;260;;
+KNOKKE-HEIST - FH09;2758761;4;0;0;4;MDU;D;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;6;;
+KNOKKE-HEIST - FH09;302674;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;277;;
+KNOKKE-HEIST - FH09;2758762;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;8;;
+KNOKKE-HEIST - FH09;302675;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;290;;
+KNOKKE-HEIST - FH09;2758763;1;0;0;1;SDU;;N;IRREG;2;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps is er 1 bus 1LU";Y;_;BUILDING template;Jozef Dhoorelaan;10;;
+KNOKKE-HEIST - FH09;2756741;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;100;;
+KNOKKE-HEIST - FH09;2758764;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;20;;
+KNOKKE-HEIST - FH09;71704;11;0;1;12;MDU;XA;Y;NA;7;4;;;Y;_;BUILDING template;Albatrosstraat;20;;Residentie Graaf d’Ursel
+KNOKKE-HEIST - FH09;2756777;7;0;1;8;MDU;XA;N;IRREG;7;0;;;Y;Geen schacht aanwezig. check Nancy : verd.7 ontbreekt bij 'Details eenheden'.;BUILDING template;Zeedijk-Heist;142;;Sunhouse
+KNOKKE-HEIST - FH09;2758765;1;0;0;1;SDU;;N;ORN;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;22;;
+KNOKKE-HEIST - FH09;71715;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;10;;
+KNOKKE-HEIST - FH09;2756811;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;179;;
+KNOKKE-HEIST - FH09;2758766;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;24;;
+KNOKKE-HEIST - FH09;2756830;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;200;;
+KNOKKE-HEIST - FH09;2758767;1;0;0;1;SDU;;N;ORN;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;26;;
+KNOKKE-HEIST - FH09;4337658;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;169;;
+KNOKKE-HEIST - FH09;NB-83016e09390;5;0;0;5;MDU;F;N;ORN;6;;;;;Onder constructie;BUILDING template;Louis Parentstraat;6;;
+KNOKKE-HEIST - FH09;2758768;1;0;0;1;SDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;32;;
+KNOKKE-HEIST - FH09;2756854;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;232;;
+KNOKKE-HEIST - FH09;2758771;4;0;0;4;MDU;;N;IRREG;9;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;81;;
+KNOKKE-HEIST - FH09;2756868;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;245;;
+KNOKKE-HEIST - FH09;2758773;8;0;0;8;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 8LU + 1SU";Y;_;BUILDING template;Jozef Dhoorelaan;132;;
+KNOKKE-HEIST - FH09;2756878;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;255;;
+KNOKKE-HEIST - FH09;2759152;5;2;2;9;MDU;XC;N;IRREG;5;0;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps niet controleerbaar 6LU+1BU+1SU";Y;_;BUILDING template;Duinenstraat;3;;
+KNOKKE-HEIST - FH09;2756889;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;267;;
+KNOKKE-HEIST - FH09;2759154;11;0;1;12;MDU;XC;N;IRREG;5;0;;;Y;_;BUILDING template;Duinenstraat;5;;
+KNOKKE-HEIST - FH09;2756901;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;285;;
+KNOKKE-HEIST - FH09;2759155;5;0;0;5;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Duinenstraat;6;;
+KNOKKE-HEIST - FH09;2759157;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Duinenstraat;9;;
+KNOKKE-HEIST - FH09;2759750;0;1;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;345;;
+KNOKKE-HEIST - FH09;2759162;5;0;0;5;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Duinenstraat;15;;
+KNOKKE-HEIST - FH09;2759163;8;0;2;10;MDU;C;Y;NA;5;4;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar (zelfde gebouw als nr. 19 maar aparte ingang) 8LU +1SU";Y;_;BUILDING template;Duinenstraat;17;;
+KNOKKE-HEIST - FH09;4253977;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;146;;
+KNOKKE-HEIST - FH09;2759166;4;0;2;6;MDU;XC;Y;NA;5;4;;"- Volgens CRAB zijn er hier 4 LU's
+- Op Google Maps zijn er 4 verdiepen 4LU+1SU";Y;_;BUILDING template;Duinenstraat;20;;
+KNOKKE-HEIST - FH09;4335312;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;237;;
+KNOKKE-HEIST - FH09;2759460;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Eerste-Geniestraat;5;;
+KNOKKE-HEIST - FH09;71698;11;0;1;12;MDU;XA;Y;NA;8;4;;;Y;Schacht is vol en biedt geen plaats voor Floorbox;BUILDING template;Albatrosstraat;33;;
+KNOKKE-HEIST - FH09;5579224;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;250;;
+KNOKKE-HEIST - FH09;4337343;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;263;;
+KNOKKE-HEIST - FH09;2759461;7;0;1;8;MDU;C;N;IRREG;5;0;;"- Volgens CRAB zijn er hier 4 LU's
+- Op Google Maps zijn er 8 bussen 7LU+1SU";Y;Schacht bereikbaar na opbouw kabelgoot;BUILDING template;Eerste-Geniestraat;6;;
+KNOKKE-HEIST - FH09;290626;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;171;;
+KNOKKE-HEIST - FH09;4337440;0;1;0;1;SDU;;N;IRREG;4;0;;;Y;_;BUILDING template;Zeedijk-Heist;281;;
+KNOKKE-HEIST - FH09;2759464;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Eerste-Geniestraat;9;;Residentie Karien
+KNOKKE-HEIST - FH09;2766983;6;0;0;6;MDU;XA;N;ORN;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;13;;
+KNOKKE-HEIST - FH09;6524198;1;0;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;149;;
+KNOKKE-HEIST - FH09;4337441;3;0;0;3;MDU;D;N;IRREG;4;0;;;Y;_;BUILDING template;Zeedijk-Heist;282;;
+KNOKKE-HEIST - FH09;4337486;4;0;0;4;MDU;B;N;IRREG;4;0;;;Y;In aanbouw - En construction;BUILDING template;Zeedijk-Heist;68;;
+KNOKKE-HEIST - FH09;2759468;10;1;0;11;MDU;XA;Y;NA;9;4;;"- Volgens CRAB zijn er hier 10 LU's
+- Op Google Maps zijn er 10 verdiepen (incl. winkel) 10LU +1BU OP NUMMER 19";Y;_;BUILDING template;Eerste-Geniestraat;17;;
+KNOKKE-HEIST - FH09;6525309;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Parkstraat;21;;
+KNOKKE-HEIST - FH09;6524195;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;172;;
+KNOKKE-HEIST - FH09;4337493;1;0;0;1;SDU;;N;IRREG;6;0;;;Y;_;BUILDING template;Zeedijk-Heist;73;;
+KNOKKE-HEIST - FH09;2759741;7;1;2;10;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Elizabetlaan;331;;
+KNOKKE-HEIST - FH09;2756727;1;0;0;1;SDU;;N;IRREG;7;0;;;Y;_;BUILDING template;Zeedijk-Heist;86;;
+KNOKKE-HEIST - FH09;2756875;31;1;0;32;MDU;XA;Y;NA;10;4;;;Y;_;BUILDING template;Zeedijk-Heist;252;;
+KNOKKE-HEIST - FH09;4337756;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;189;;
+KNOKKE-HEIST - FH09;2759742;0;1;0;1;SDU;;N;IRREG;7;0;;"- Volgens CRAB zijn er hier 8 LU's (samen met nr. 335)
+- Op Google Maps zijn er 8 verdiepen 7LU +1BU (OP335)+1SU";Y;_;BUILDING template;Elizabetlaan;333;;
+KNOKKE-HEIST - FH09;290501;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;173;;
+KNOKKE-HEIST - FH09;5564757;1;0;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;391;;
+KNOKKE-HEIST - FH09;6524207;1;0;0;1;SDU;;Y;NA;3;4;;;;_;BUILDING template;Eerste-Geniestraat;3;;
+KNOKKE-HEIST - FH09;2759744;6;1;2;9;MDU;XA;Y;NA;8;4;;"- Volgens CRAB zijn er hier 10 LU's 
+- Op Google Maps niet controleerbaar 7LU +2BU +1SU";Y;_;BUILDING template;Elizabetlaan;337;;
+KNOKKE-HEIST - FH09;5579378;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Heldenplein;21;;
+KNOKKE-HEIST - FH09;2759746;0;1;0;1;SDU;;Y;NA;8;4;;"- Volgens CRAB is er hier 1 LU (samen met nr. 341 en 343)
+- Op Google Maps niet controleerbaar 13LU +2BU +1SU";Y;_;BUILDING template;Elizabetlaan;339;;
+KNOKKE-HEIST - FH09;297118;7;1;1;9;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Parkstraat;25;;Residentie Park-Inn
+KNOKKE-HEIST - FH09;2759158;5;0;0;5;MDU;X;Y;NA;6;4;;;Y;Afbraak -  Démolition;BUILDING template;Duinenstraat;10;;
+KNOKKE-HEIST - FH09;NB-830166acd98;6;0;0;6;MDU;;N;ORN;7;0;;;;_;BUILDING template;Louis Parentstraat;6;;
+KNOKKE-HEIST - FH09;2759751;13;0;1;14;MDU;A;Y;NA;8;4;;"- Volgens CRAB zijn er hier 13 LU's
+- Op Google Maps zijn er 7 verdiepen (14 appartementen) 13LU + 1SU";Y;_;BUILDING template;Elizabetlaan;347;;
+KNOKKE-HEIST - FH09;3939525;2;0;1;3;MDU;C;Y;NA;4;4;;;Y;_;BUILDING template;August Beernaertstraat;38;;
+KNOKKE-HEIST - FH09;2759752;6;0;0;6;MDU;XA;Y;NA;7;4;;"- Volgens CRAB zijn er hier 6 LU's
+- Op Google Maps zijn er 6 verdiepen 6LU +1SU";Y;_;BUILDING template;Elizabetlaan;351;;
+KNOKKE-HEIST - FH09;2766986;7;0;0;7;MDU;XA;N;ORN;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;15;;
+KNOKKE-HEIST - FH09;2756900;3;1;0;4;MDU;D;N;IRREG;4;0;;;Y;_;BUILDING template;Zeedijk-Heist;283;;
+KNOKKE-HEIST - FH09;2759755;17;0;0;17;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Elizabetlaan;363;;
+KNOKKE-HEIST - FH09;302629;4;0;0;4;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;4;;Residentie Miguel 4
+KNOKKE-HEIST - FH09;2759762;28;0;2;30;MDU;A;Y;NA;8;4;;;Y;QA want er is een schacht op elke verdieping. Op sommige verdiepingen is een trapleuning voor de schacht. In de kelder moet wel geboord worden. check Nancy : ssv ok.;BUILDING template;Elizabetlaan;373;;
+KNOKKE-HEIST - FH09;3939547;4;0;1;5;MDU;D;N;ORN;5;0;;;Y;_;BUILDING template;Duinenstraat;24;;
+KNOKKE-HEIST - FH09;2759941;21;1;1;23;MDU;XA;N;IRREG;9;0;;"- Volgens CRAB zijn er hier 23 LU's
+- Op Google Maps niet controleerbaar 22LU + 1SU";Y;"Er is een schacht maar deze is niet toegankelijk. ; check Nancy :  ssv ok";BUILDING template;de Gemblinnestraat;2;;
+KNOKKE-HEIST - FH09;2764985;5;0;1;6;MDU;XA;N;IRREG;6;0;;;Y;_;BUILDING template;Louis Parentstraat;3;;
+KNOKKE-HEIST - FH09;2760284;33;0;3;36;MDU;A;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 45 LU's
+- Op Google Maps niet controleerbaar 23LU + 1SU";Y;_;BUILDING template;Heldenplein;2;;
+KNOKKE-HEIST - FH09;4337416;6;0;1;7;MDU;XC;N;ORN;4;0;;;Y;_;BUILDING template;De Kinkhoorn;10;;
+KNOKKE-HEIST - FH09;2760285;9;0;0;9;MDU;B;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 11 LU's
+- Op Google Maps niet controleerbaar 9LU + 1SU";Y;_;BUILDING template;Heldenplein;3;;
+KNOKKE-HEIST - FH09;292673;7;0;1;8;MDU;B;N;IRREG;7;0;;;Y;Alles van voorzieningen komt toe in lokaaltje aan zijkant van gebouw. Van daaruit onmogelijk in de trappenhal te geraken. Telenet is via gevel aangesloten. Alles van voorzieningen gaat rechtstreeks naar boven naar de appartementen. Nergens bereikbare schachten te vinden en te hoog voor een QD. Enige mogelijkheid is een QB.  check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;82;;
+KNOKKE-HEIST - FH09;2760286;8;0;2;10;MDU;XA;Y;NA;10;4;;"- Volgens CRAB zijn er hier 9 LU's
+- Op Google Maps niet controleerbaar 6LU + 2BU + 1SU";Y;_;BUILDING template;Heldenplein;4;;
+KNOKKE-HEIST - FH09;2756716;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;XA want er is geen schacht in dit gebouw. check Nancy : ssv ok, lu glvl aansluitbaar zoals op andere verdiepingen.;BUILDING template;Zeedijk-Heist;72;;
+KNOKKE-HEIST - FH09;2760287;18;0;0;18;MDU;XA;N;ORN;10;0;;- Nummer niet vermeld in CRAB wel in IFH 9LU + 1SU;Y;_;BUILDING template;Heldenplein;7;;
+KNOKKE-HEIST - FH09;71633;8;0;2;10;MDU;XA;N;ORN;10;0;;;Y;_;BUILDING template;Serweytens de Mercxstraat;2;;
+KNOKKE-HEIST - FH09;6524194;0;1;0;1;SDU;;N;IRREG;7;0;;;Y;_;BUILDING template;Zeedijk-Heist;194;;
+KNOKKE-HEIST - FH09;2764644;7;0;0;7;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;19;;
+KNOKKE-HEIST - FH09;2760289;23;0;1;24;MDU;XA;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 24 LU's (samen met nr. 11 - 13 - 15)
+- Op Google Maps niet controleerbaar 24LU + 4BU + 1 SU";Y;"Geen schacht dus opbouw via de trappenhal nodig. Bu's op gelijkvloers hebben een aparte nummer en kunnen dus apart worden aangesloten.  check Nancy : ssv ok; nrs 13 en 15 afsluiten als sdu.";BUILDING template;Heldenplein;11;;
+KNOKKE-HEIST - FH09;4096025;0;1;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Graaf d Ursellaan;17;;
+KNOKKE-HEIST - FH09;4336099;7;0;1;8;MDU;C;N;IRREG;4;0;;;Y;_;BUILDING template;Louis Parentstraat;29;;
+KNOKKE-HEIST - FH09;2760293;16;1;1;18;MDU;XA;Y;NA;8;4;;;Y;Er is een schacht maar niet bruikbaar. Schacht voor de verwarmingsbuizen. Schacht geïsoleerd en dichtgewerktop somlige verdiepingen. Ook te weinig plaats check Nancy : ssv ok;BUILDING template;Heldenplein;14;;
+KNOKKE-HEIST - FH09;292346;8;0;0;8;MDU;B;N;IRREG;8;0;;;Y;No access SSV;BUILDING template;Zeedijk-Heist;154;;
+KNOKKE-HEIST - FH09;2760295;0;1;0;1;SDU;;N;IRREG;10;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU";Y;_;BUILDING template;Heldenplein;17;;
+KNOKKE-HEIST - FH09;292679;8;0;1;9;MDU;XA;N;IRREG;9;0;;;Y;Schacht begint op eerste verdieping. Er is opbouw nodig van gelijkvloers naar de schacht op de eerste verdieping. In de schacht moet ook geboord worden. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;106;;
+KNOKKE-HEIST - FH09;2760296;9;0;2;11;MDU;XA;Y;NA;10;4;;"- Volgens CRAB zijn er hier 9 LU's
+- Op Google Maps zijn er 10 verdiepen 9LU + 1SU";Y;_;BUILDING template;Heldenplein;18;;
+KNOKKE-HEIST - FH09;2756719;9;0;1;10;MDU;XA;N;IRREG;9;0;;;Y;Er is geen schacht in dit gebouw. Samen met syndicus ter plaatse geweest en geen oude installatie gevonden. - Check Jasper: SSV oké;BUILDING template;Zeedijk-Heist;75;;
+KNOKKE-HEIST - FH09;2760300;34;2;0;36;MDU;XA;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 33 LU's
+- Op Google Maps niet controleerbaar 33LU + 1BU + 2SU";Y;_;BUILDING template;Heldenplein;23;;
+KNOKKE-HEIST - FH09;71708;0;1;0;1;SDU;;Y;NA;7;4;;;Y;_;BUILDING template;Graaf d Ursellaan;19;;
+KNOKKE-HEIST - FH09;2756728;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;"XA want er is geen schacht in dit gebouw; check Nancy : ssv ok.";BUILDING template;Zeedijk-Heist;87;;
+KNOKKE-HEIST - FH09;2760303;9;1;0;10;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Heldenplein;27;;
+KNOKKE-HEIST - FH09;2756847;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;214;;
+KNOKKE-HEIST - FH09;2756750;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;Geen schachten. Werken met opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;108;;
+KNOKKE-HEIST - FH09;2760304;0;1;0;1;SDU;;N;IRREG;10;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU";Y;_;BUILDING template;Heldenplein;29;;
+KNOKKE-HEIST - FH09;71711;0;1;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Graaf d Ursellaan;20;;
+KNOKKE-HEIST - FH09;2756783;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;Geen schachten, werken met opbouw kabelgoten. Nieuwe intro op de zeedijk. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;150;;
+KNOKKE-HEIST - FH09;2756850;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;215;;
+KNOKKE-HEIST - FH09;2756784;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;"Geen schachten. Werken met opbouw kabelgoten. check Nancy : ssv ok;";BUILDING template;Zeedijk-Heist;151;;
+KNOKKE-HEIST - FH09;2761342;6;0;1;7;MDU;XA;N;ORN;6;0;;;Y;_;BUILDING template;De Kinkhoorn;7;;
+KNOKKE-HEIST - FH09;5579563;8;1;0;9;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;22;;
+KNOKKE-HEIST - FH09;2756785;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;Geen schachten. Werken met opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;152;;
+KNOKKE-HEIST - FH09;2761343;6;0;1;7;MDU;XA;N;ORN;6;0;;;Y;_;BUILDING template;De Kinkhoorn;8;;Residentie Zunneblieken
+KNOKKE-HEIST - FH09;2756801;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;XA want er is geen schacht in dit gebouw. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;170;;
+KNOKKE-HEIST - FH09;2761344;8;0;1;9;MDU;XC;N;ORN;4;0;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 8LU + 1 SU";Y;De kelder is gemeenschappelijk met nummer 10;BUILDING template;De Kinkhoorn;9;;
+KNOKKE-HEIST - FH09;NB-83002Ade35;33;0;1;34;MDU;XA;N;IRREG;10;;;;;XA want er is wel een schacht op elke verdieping, maar niet op het gelijkvloers. Er moet niet geboord worden naar elke verdieping. check Nancy : ssv ok.;BUILDING template;Heldenplein;2;A;
+KNOKKE-HEIST - FH09;2756807;9;0;1;10;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht aanwezig dus enige optie is kabelgoot in de trappenhal. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;175;;
+KNOKKE-HEIST - FH09;2761348;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;De Kinkhoorn;17;;
+KNOKKE-HEIST - FH09;2756808;8;0;1;9;MDU;XA;N;IRREG;9;0;;;Y;Schacht van de brandslang begint op GLV. Kabel moet via de plint van de trappenhal naar de schacht. In trappenhal kabelgoot gebruiken. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;176;;
+KNOKKE-HEIST - FH09;2761349;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;De Kinkhoorn;18;;
+KNOKKE-HEIST - FH09;2756839;8;0;1;9;MDU;XA;N;IRREG;6;0;;;Y;Geen schachten. Werken met opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;205;;
+KNOKKE-HEIST - FH09;2761350;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;De Kinkhoorn;19;;
+KNOKKE-HEIST - FH09;2756867;8;0;0;8;MDU;XA;N;IRREG;9;0;;;Y;_;BUILDING template;Zeedijk-Heist;244;;
+KNOKKE-HEIST - FH09;2761351;8;0;1;9;MDU;XC;N;ORN;4;0;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 8LU+1SU";Y;_;BUILDING template;De Kinkhoorn;21;;
+KNOKKE-HEIST - FH09;2756876;8;0;0;8;MDU;B;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;254;;
+KNOKKE-HEIST - FH09;2763795;32;0;0;32;MDU;B;N;IRREG;8;0;;;Y;_;BUILDING template;Kardinaal Mercierstraat;3;;
+KNOKKE-HEIST - FH09;2756903;6;0;1;7;MDU;XA;N;IRREG;7;0;;;Y;_;BUILDING template;Zeedijk-Heist;287;;
+KNOKKE-HEIST - FH09;2756904;9;1;0;10;MDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;288;;
+KNOKKE-HEIST - FH09;2764631;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;5;;
+KNOKKE-HEIST - FH09;2758018;7;0;2;9;MDU;C;Y;NA;4;4;;;Y;_;BUILDING template;August Beernaertstraat;40;;
+KNOKKE-HEIST - FH09;2764632;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;O.-L.-Vrouwstraat;6;;
+KNOKKE-HEIST - FH09;71709;0;1;0;1;SDU;;Y;NA;8;3;;;Y;_;BUILDING template;Graaf d Ursellaan;23;;
+KNOKKE-HEIST - FH09;4099099;8;0;1;9;MDU;C;N;IRREG;4;0;;;Y;_;BUILDING template;Louis Parentstraat;27;;
+KNOKKE-HEIST - FH09;2764634;7;0;0;7;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;9;;
+KNOKKE-HEIST - FH09;4141427;8;0;1;9;MDU;XC;Y;NA;5;4;;;Y;Geen QD  aangezien de bovenste verdieping te achterliggend is om via gevelbekabeling aan te sluiten. Er is geen schacht. - check Jasper : SSV Oké;BUILDING template;Duinenstraat;8;;
+KNOKKE-HEIST - FH09;2764637;5;0;0;5;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;12;;
+KNOKKE-HEIST - FH09;4337356;8;0;1;9;MDU;XC;N;ORN;4;0;;;Y;_;BUILDING template;De Kinkhoorn;20;;
+KNOKKE-HEIST - FH09;2764638;6;1;0;7;MDU;D;Y;NA;5;4;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps zijn er 7 bussen 6LU + 1BU + 1SU";Y;_;BUILDING template;O.-L.-Vrouwstraat;13;;
+KNOKKE-HEIST - FH09;4337358;8;0;1;9;MDU;XC;N;ORN;4;0;;;Y;_;BUILDING template;De Kinkhoorn;22;;
+KNOKKE-HEIST - FH09;2764639;9;0;0;9;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;14;;
+KNOKKE-HEIST - FH09;2756723;9;0;1;10;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht aanwezig. Gelijkvloers en eerste verdieping is duplex. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;81;;
+KNOKKE-HEIST - FH09;2764640;4;0;0;4;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;15;;
+KNOKKE-HEIST - FH09;2756731;10;0;1;11;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht aanwezig. Enige optie is om de kabelgoot aan de lift te plaatsen omdat de trap bestaat uit marmere treden. Het aantal deurbellen komt niet overeen met het aantal voordeuren per verdieping dus waarschijnlijk zit er ergens een duplex appartement tussen. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;90;;
+KNOKKE-HEIST - FH09;2756754;9;0;1;10;MDU;XA;N;IRREG;9;0;;;Y;Geen schacht. Werken met opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;113;;
+KNOKKE-HEIST - FH09;2764645;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;22;;
+KNOKKE-HEIST - FH09;6524218;13;1;1;15;MDU;XA;Y;NA;8;4;;;Y;XA  want er is wel een schacht in dit gebouw, maar er moet in opbouw gewerkt worden naar verdieping 7.check Nancy : ssv ok;BUILDING template;Graaf d Ursellaan;35;;
+KNOKKE-HEIST - FH09;2756855;25;1;0;26;MDU;A;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;233;;
+KNOKKE-HEIST - FH09;2756760;9;0;1;10;MDU;XA;N;IRREG;10;0;;;Y;Schacht vanaf tussenverdieping m.  check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;120;;
+KNOKKE-HEIST - FH09;2764647;5;0;0;5;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;28;;
+KNOKKE-HEIST - FH09;2756770;9;0;1;10;MDU;XA;N;IRREG;9;0;;;Y;XA want er is geen schacht in dit gebouw. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;133;;
+KNOKKE-HEIST - FH09;2764986;1;0;0;1;SDU;;N;IRREG;4;0;;;Y;_;BUILDING template;Louis Parentstraat;4;;
+KNOKKE-HEIST - FH09;2756798;8;1;1;10;MDU;XA;N;IRREG;9;0;;;Y;"XA want de schacht begint pas op de 1ste verdieping. Er moet dus in opbouw gewerkt worden op het gelijkvloers. In de schachten moet er niet geboord worden. check Nancy : ssv ok; intro buiten via Elizabetlaan 403.";BUILDING template;Zeedijk-Heist;167;;
+KNOKKE-HEIST - FH09;2764987;4;1;0;5;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Louis Parentstraat;9;;Residentie Bertolini
+KNOKKE-HEIST - FH09;2756852;8;1;0;9;MDU;A;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;231;;
+KNOKKE-HEIST - FH09;2765002;50;0;2;52;MDU;XA;N;IRREG;10;0;;"- Volgens CRAB zijn er hier 51 LU's
+- Op Google Maps niet controleerbaar 49LU + 1SU";Y;_;BUILDING template;Parkstraat;3;;
+KNOKKE-HEIST - FH09;2756858;9;0;0;9;MDU;XA;N;IRREG;9;0;;;Y;_;BUILDING template;Zeedijk-Heist;236;;
+KNOKKE-HEIST - FH09;2765005;9;0;1;10;MDU;XA;Y;NA;10;4;;"- Volgens CRAB zijn er hier 9 LU's
+- Op Google Maps niet controleerbaar 9LU + 1 SU";Y;_;BUILDING template;Parkstraat;9;;Residentie Caprini
+KNOKKE-HEIST - FH09;3996512;9;0;1;10;MDU;XA;N;IRREG;9;0;;;Y;Vanaf de eerste verdieping kan de kabelweg in de brandkast. Hier moet op elke verdieping geboord worden. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;210;;
+KNOKKE-HEIST - FH09;2765017;8;0;1;9;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Parkstraat;27;;Residentie Park
+KNOKKE-HEIST - FH09;302628;10;0;0;10;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;10;;Residentie Miquel 10
+KNOKKE-HEIST - FH09;2765019;8;0;1;9;MDU;XA;Y;NA;8;4;;;Y;_;BUILDING template;Parkstraat;29;;Residentie Morgenrood
+KNOKKE-HEIST - FH09;2756739;10;0;1;11;MDU;XA;N;IRREG;7;0;;;Y;"XA want er is geen schacht in dit gebouw; check Nancy : ssv ok.";BUILDING template;Zeedijk-Heist;99;;
+KNOKKE-HEIST - FH09;2766150;9;0;0;9;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;9;;
+KNOKKE-HEIST - FH09;2756880;18;0;0;18;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;256;;
+KNOKKE-HEIST - FH09;2756806;10;0;1;11;MDU;XA;N;IRREG;10;0;;;Y;Er is geen schacht in dit gebouw. - check Jasper: SSV oké;BUILDING template;Zeedijk-Heist;174;;
+KNOKKE-HEIST - FH09;2766157;16;0;2;18;MDU;XA;Y;NA;8;4;;"- Volgens CRAB zijn er hier 16 LU's
+- Op Google Maps niet controleerbaar 16 LU + 1 SU";Y;_;BUILDING template;Serweytens de Mercxstraat;29;;
+KNOKKE-HEIST - FH09;302695;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;August Beernaertstraat;18;;
+KNOKKE-HEIST - FH09;2756734;17;0;1;18;MDU;XA;N;IRREG;9;0;;;Y;XA want er is geen schacht in dit gebouw. check Nancy : ssv ok;BUILDING template;Zeedijk-Heist;92;;
+KNOKKE-HEIST - FH09;2756809;10;0;1;11;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht aanwezig. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;178;;
+KNOKKE-HEIST - FH09;2766964;7;1;1;9;MDU;XA;N;IRREG;8;0;;;Y;check Nancy : ssv ok;BUILDING template;Graaf d Ursellaan;3;;
+KNOKKE-HEIST - FH09;2756813;9;1;0;10;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht aanwezig. Opbouw door trappenhal. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;181;;
+KNOKKE-HEIST - FH09;2766967;0;1;0;1;SDU;;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps is er 1 Bistro 1BU";Y;_;BUILDING template;Graaf d Ursellaan;4;;
+KNOKKE-HEIST - FH09;297130;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;291;;
+KNOKKE-HEIST - FH09;2756814;9;1;1;11;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht. Gebruik maken van opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;182;;
+KNOKKE-HEIST - FH09;2766972;0;1;0;1;SDU;;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps is er 1 Cafe 1BU";Y;_;BUILDING template;Graaf d Ursellaan;6;;
+KNOKKE-HEIST - FH09;2756812;9;0;1;10;MDU;A;N;IRREG;10;0;;;Y;Schacht gebruiken. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;180;;
+KNOKKE-HEIST - FH09;2756816;10;0;1;11;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht. Werken via opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;192;;
+KNOKKE-HEIST - FH09;2766974;7;0;1;8;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps zijn er 7 verdiepen 7LU";Y;Geen schachten. Werken met opbouw kabelgoten. check Nancy : ssv ok;BUILDING template;Graaf d Ursellaan;7;;
+KNOKKE-HEIST - FH09;2756838;10;0;1;11;MDU;XA;N;IRREG;10;0;;;Y;Er is een schacht maar te weinig werkruimte. Dus werken met opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;204;;
+KNOKKE-HEIST - FH09;2766975;0;1;0;1;SDU;;N;IRREG;8;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU (samen met nr 8)";Y;_;BUILDING template;Graaf d Ursellaan;9;;
+KNOKKE-HEIST - FH09;2756862;11;0;0;11;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;240;;
+KNOKKE-HEIST - FH09;2766976;13;1;0;14;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 14 LU
+- Op Google Maps niet controleerbaar 1BU";Y;_;BUILDING template;Graaf d Ursellaan;11;;
+KNOKKE-HEIST - FH09;4335330;0;0;0;0;MDU;B;Y;NA;6;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;26;;
+KNOKKE-HEIST - FH09;2766147;10;0;0;10;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;6;;Residentie Miguel 6
+KNOKKE-HEIST - FH09;2766980;0;1;0;1;SDU;;N;ORN;7;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU";Y;_;BUILDING template;Graaf d Ursellaan;12;;
+KNOKKE-HEIST - FH09;4103220;10;0;2;12;MDU;C;N;IRREG;4;0;;;Y;Twee schachten;BUILDING template;Louis Parentstraat;31;;
+KNOKKE-HEIST - FH09;2766984;0;1;0;1;SDU;;N;ORN;8;0;;"- Volgens CRAB is er hier 1 LU
+- Op Google Maps niet controleerbaar 1BU";Y;_;BUILDING template;Graaf d Ursellaan;14;;
+KNOKKE-HEIST - FH09;2767019;13;0;1;14;MDU;XA;N;IRREG;7;0;;;Y;_;BUILDING template;Graaf d Ursellaan;37;;
+KNOKKE-HEIST - FH09;1354426;37;1;1;39;MDU;A;Y;NA;7;4;;;Y;Er is een ruimte op elke verdieping waar de kabel door kan. Er moet wel op elke verdieping geboord worden. Vanuit deze ruimte naar de Lu's aan de andere kant van de gang is al een bestaande kabelgoot geplaatst waar nog ruimte in is. check Nancy : ssv ok, lu 7de verdieping wordt aangesloten op floorbox 6de verdieping.;BUILDING template;Vissershuldeplein;3;;
+KNOKKE-HEIST - FH09;2756737;8;0;1;9;MDU;X;N;IRREG;10;0;;;Y;In aanbouw - En construction;BUILDING template;Zeedijk-Heist;97;;
+KNOKKE-HEIST - FH09;4337439;0;1;0;1;SDU;;N;IRREG;10;0;;;;_;BUILDING template;Zeedijk-Heist;280;;
+KNOKKE-HEIST - FH09;2766988;10;0;1;11;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 10 LU's
+- Op Google Maps niet controleerbaar 10LU + 1SU";Y;Er is een schacht maar niet op elke verdieping. Dus ook opbouw kabelgoten nodig. check Nancy : ssv ok.;BUILDING template;Graaf d Ursellaan;16;;
+KNOKKE-HEIST - FH09;2764642;12;0;0;12;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;18;;
+KNOKKE-HEIST - FH09;2766998;7;1;0;8;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;26;;
+KNOKKE-HEIST - FH09;290631;12;1;0;13;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Elizabetlaan;403;;
+KNOKKE-HEIST - FH09;NB-8301195B2c91;1;0;0;1;SDU;;N;IRREG;1;0;;;;_;BUILDING template;Zeedijk-Heist;195;B;
+KNOKKE-HEIST - FH09;2767002;7;1;2;10;MDU;A;N;ORN;8;0;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps zijn er 8 bussen 7LU + 1BU + 1SU";Y;_;BUILDING template;Graaf d Ursellaan;27;;
+KNOKKE-HEIST - FH09;2756768;13;0;1;14;MDU;XA;N;IRREG;8;0;;;Y;XA want er is geen schacht in dit gebouw. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;130;;
+KNOKKE-HEIST - FH09;2767003;4;0;0;4;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps zijn er 4 verdiepen 4LU + 1SU";Y;_;BUILDING template;Graaf d Ursellaan;28;;
+KNOKKE-HEIST - FH09;2767024;0;1;0;1;SDU;;N;IRREG;7;0;;;Y;_;BUILDING template;Graaf d Ursellaan;39;;
+KNOKKE-HEIST - FH09;2756729;14;0;0;14;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Zeedijk-Heist;88;;
+KNOKKE-HEIST - FH09;2767005;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Graaf d Ursellaan;29;;
+KNOKKE-HEIST - FH09;2756735;14;0;1;15;MDU;XA;N;IRREG;8;0;;;Y;Geen schachten. Werken met opbouw kabelgoten. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;94;;
+KNOKKE-HEIST - FH09;2767006;8;1;2;11;MDU;A;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;30;;
+KNOKKE-HEIST - FH09;2756745;14;0;1;15;MDU;XA;N;IRREG;8;0;;;Y;Geen schacht aanwezig. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;103;;
+KNOKKE-HEIST - FH09;2767008;16;2;2;20;MDU;A;N;IRREG;8;0;;;Y;August beernaertstraat nummer 50 is zelfde gebouw;BUILDING template;Graaf d Ursellaan;31;;
+KNOKKE-HEIST - FH09;297127;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;45;;
+KNOKKE-HEIST - FH09;2767290;14;0;2;16;MDU;XC;Y;NA;4;4;;;Y;_;BUILDING template;Visserskapelstraat;12;;
+KNOKKE-HEIST - FH09;2767022;0;1;0;1;SDU;;N;IRREG;7;0;;"- Volgens CRAB zijn er hier 16 LU's (samen met nr. 37 - 38 - 39)
+- Op Google Maps niet controleerbaar 13LU";Y;_;BUILDING template;Graaf d Ursellaan;38;;
+KNOKKE-HEIST - FH09;4016351;16;0;0;16;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;284;;
+KNOKKE-HEIST - FH09;2767025;6;1;1;8;MDU;XA;N;IRREG;7;0;;"- Volgens CRAB zijn er hier 7 LU's
+- Op Google Maps zijn er 8 verdiepen 6LU +1SU +1BU";Y;_;BUILDING template;Graaf d Ursellaan;40;;
+KNOKKE-HEIST - FH09;4336107;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;48;;
+KNOKKE-HEIST - FH09;292340;15;2;1;18;MDU;XA;N;IRREG;8;0;;;Y;"Geen schacht. Werken met opbouw kabelgoten; check Nancy : ssv ok.";BUILDING template;Zeedijk-Heist;148;;
+KNOKKE-HEIST - FH09;2767028;13;2;1;16;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 17 LU's (samen met nr. 41 - 42)
+- Op Google Maps niet controleerbaar 13LU + 2BU + 1SU";Y;_;BUILDING template;Graaf d Ursellaan;41;;
+KNOKKE-HEIST - FH09;2756715;14;0;1;15;MDU;XA;N;IRREG;8;0;;;Y;"Geen schacht. Werken via opbouw kabelgoten. check Nancy ; ssv ok.";BUILDING template;Zeedijk-Heist;70;;
+KNOKKE-HEIST - FH09;2767033;7;1;0;8;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;43;;
+KNOKKE-HEIST - FH09;2756857;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;234;;
+KNOKKE-HEIST - FH09;4335306;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;257;;
+KNOKKE-HEIST - FH09;2756738;15;0;1;16;MDU;XA;N;IRREG;8;0;;;Y;Er is geen schacht in dit gebouw - check Jasper : ssv oké;BUILDING template;Zeedijk-Heist;98;;
+KNOKKE-HEIST - FH09;2767037;13;0;1;14;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 14 LU's 
+- Op Google Maps niet controleerbaar 13LU + 1 SU + 1 BU";Y;_;BUILDING template;Graaf d Ursellaan;46;;
+KNOKKE-HEIST - FH09;2756771;15;0;1;16;MDU;XA;N;IRREG;8;0;;;Y;XA want er is geen toegankelijke schacht in dit gebouw. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;134;;
+KNOKKE-HEIST - FH09;2767038;14;1;1;16;MDU;XA;N;IRREG;8;0;;"- Volgens CRAB zijn er hier 15 LU's 
+- Op Google Maps niet controleerbaar 14LU + 1SU";Y;_;BUILDING template;Graaf d Ursellaan;47;;Residentie Promenade
+KNOKKE-HEIST - FH09;5579565;0;1;0;1;SDU;;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;53;;
+KNOKKE-HEIST - FH09;290503;16;0;2;18;MDU;XA;N;IRREG;9;0;;;Y;_;BUILDING template;Elizabetlaan;385;;
+KNOKKE-HEIST - FH09;2767041;7;1;1;9;MDU;XA;N;IRREG;8;0;;;Y;_;BUILDING template;Graaf d Ursellaan;49;;Residentie Saturnus
+KNOKKE-HEIST - FH09;292338;16;0;1;17;MDU;XA;N;IRREG;8;0;;;Y;Er is geen schacht in dit gebouw. - check Jasper : ssv oké;BUILDING template;Zeedijk-Heist;111;;
+KNOKKE-HEIST - FH09;2767280;7;0;1;8;MDU;D;Y;NA;4;4;Beschermd Erfgoed;"- Volgens CRAB zijn er hier 5 LU's
+- Op Googel maps zijn er 10 bussen 7LU";Y;BE;BUILDING template;Visserskapelstraat;1;;
+KNOKKE-HEIST - FH09;2760294;0;1;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Heldenplein;16;;
+KNOKKE-HEIST - FH09;292345;16;0;1;17;MDU;A;N;IRREG;8;0;;;Y;Er is een toegankelijke schacht op elke verdieping, waar niet geboord moet worden met plaats voor de floorbox. Er zijn wachtbuizen naar de Lu's. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;153;;
+KNOKKE-HEIST - FH09;6524219;57;0;0;57;MDU;;N;IRREG;8;0;;;;_;BUILDING template;Vuurtorenstraat;4;;
+KNOKKE-HEIST - FH09;2767282;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Visserskapelstraat;5;;
+KNOKKE-HEIST - FH09;2756721;16;0;1;17;MDU;XA;N;IRREG;9;0;;;Y;Er is een schacht aanwezig maar er is opbouw nodig van de telco kast naar de schacht en van de schacht op de 7de verdieping naar de 8ste verdieping. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;77;;
+KNOKKE-HEIST - FH09;2767283;5;0;0;5;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Visserskapelstraat;6;;
+KNOKKE-HEIST - FH09;2760297;0;1;0;1;SDU;;Y;NA;10;4;;;Y;_;BUILDING template;Heldenplein;20;;
+KNOKKE-HEIST - FH09;2756898;17;0;0;17;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;279;;
+KNOKKE-HEIST - FH09;2767284;4;0;0;4;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 4 LU's
+- Op Google Maps zijn er 4 bussen 4LU";Y;_;BUILDING template;Visserskapelstraat;7;;
+KNOKKE-HEIST - FH09;4335311;0;1;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;235;;
+KNOKKE-HEIST - FH09;2756764;18;0;1;19;MDU;XA;N;IRREG;9;0;;;Y;Beheerder van het gebouw was bij de survey aanwezig. Hij stond er op gebruik te maken van de schachten maar deze komen uit in de woning en zijn dus niet toegankelijk op elke verdieping. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;123;;
+KNOKKE-HEIST - FH09;2767287;8;0;2;10;MDU;XC;Y;NA;4;4;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 8LU + 1SU";Y;_;BUILDING template;Visserskapelstraat;10;;
+KNOKKE-HEIST - FH09;2756790;17;1;1;19;MDU;XA;N;IRREG;10;0;;;Y;Er is een schacht van m(tussenverdieping) tot 8ste. Stukje op glv kabelgoot weggewerkt met gyproc. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;157;;
+KNOKKE-HEIST - FH09;2767288;3;0;0;3;MDU;D;Y;NA;3;4;;"- Volgens CRAB zijn er hier 3 LU's
+- Op Google Maps zijn er 2 bussen 2LU";Y;_;BUILDING template;Visserskapelstraat;11;;
+KNOKKE-HEIST - FH09;2756828;18;0;1;19;MDU;XA;N;IRREG;10;0;;;Y;Er is een schacht aanwezig maar deze is alleen bereikbaar door een stuk opbouw door de hal. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;199;;
+KNOKKE-HEIST - FH09;2767292;4;0;1;5;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Visserskapelstraat;15;;
+KNOKKE-HEIST - FH09;2756896;17;1;2;20;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;278;;
+KNOKKE-HEIST - FH09;3923060;12;0;2;14;MDU;XA;Y;NA;6;4;;"- Volgens CRAB zijn er hier 12 LU's
+- Op Google Maps niet controleerbaar 12LU + 1SU";Y;_;BUILDING template;Serweytens de Mercxstraat;8;;
+KNOKKE-HEIST - FH09;3939662;3;0;0;3;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 4 LU's
+- Op Google Maps zijn er 3 bussen 3LU";Y;_;BUILDING template;Visserskapelstraat;4;;
+KNOKKE-HEIST - FH09;2760305;9;0;0;9;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Heldenplein;31;;
+KNOKKE-HEIST - FH09;2756755;19;0;1;20;MDU;XA;N;IRREG;10;0;;;Y;Geen schacht aanwezig. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;114;;
+KNOKKE-HEIST - FH09;4022844;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Louis Parentstraat;20;;
+KNOKKE-HEIST - FH09;2756845;19;0;1;20;MDU;XA;N;IRREG;10;0;;;Y;Verticale schacht per verdieping, maar deze is niet toegankelijk vanuit de kelder aangezien deze lijkt vol te zitten. - Check Jasper SSV oké;BUILDING template;Zeedijk-Heist;209;;
+KNOKKE-HEIST - FH09;4083784;5;0;0;5;MDU;D;Y;NA;5;4;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps zijn er 5 verdiepen 5LU +1SU";Y;_;BUILDING template;Duinenstraat;14;;
+KNOKKE-HEIST - FH09;2756906;19;0;1;20;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;292;;
+KNOKKE-HEIST - FH09;4092482;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Visserskapelstraat;9;;
+KNOKKE-HEIST - FH09;2756787;20;0;1;21;MDU;XA;N;IRREG;8;0;;;Y;Er is geen schacht in dit gebouw. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;155;;
+KNOKKE-HEIST - FH09;4105499;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Louis Parentstraat;5;;
+KNOKKE-HEIST - FH09;2756864;17;0;0;17;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;242;;
+KNOKKE-HEIST - FH09;4148325;2;0;0;2;MDU;D;Y;NA;3;4;;"- Volgens CRAB zijn er hier 2 LU's
+- Op Google Maps zijn er 2 bussen 1LU";Y;_;BUILDING template;Duinenstraat;16;;
+KNOKKE-HEIST - FH09;2756736;8;0;1;9;MDU;XA;N;IRREG;8;0;;;Y;XA want er zijn geen schachten in dit gebouw. check Nancy : ssv ok;BUILDING template;Zeedijk-Heist;96;;
+KNOKKE-HEIST - FH09;71742;21;0;2;23;MDU;C;N;ORN;5;0;;;Y;_;BUILDING template;Duinenstraat;26;;
+KNOKKE-HEIST - FH09;4150670;1;1;0;2;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;O.-L.-Vrouwstraat;17;;
+KNOKKE-HEIST - FH09;292343;22;0;1;23;MDU;A;N;IRREG;8;0;;;Y;QA want er is een toegankelijke schacht op elke verdieping, er moet wel geboord worden naar elke verdieping. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;135;;
+KNOKKE-HEIST - FH09;4335225;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Albatrosstraat;10;;
+KNOKKE-HEIST - FH09;4337751;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;183;;
+KNOKKE-HEIST - FH09;292344;23;0;1;24;MDU;XA;N;IRREG;9;0;;;Y;XA want er moet via opbouw gewerkt worden op gelijkvloers. Kabel en floorbox kan op elke verdieping wel in de brandkast. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;115;;
+KNOKKE-HEIST - FH09;4335275;5;0;2;7;MDU;D;N;IRREG;5;0;;"- Volgens CRAB zijn er hier 5 LU's
+- Op Google Maps zijn er 5 verdiepen 5LU+1SU";Y;_;BUILDING template;Duinenstraat;7;;
+KNOKKE-HEIST - FH09;2756766;24;0;1;25;MDU;A;N;IRREG;9;0;;;Y;QA want kabel en floorbox kunnen in de kast van de brandblusser. Er moet wel geboord worden naar elke verdieping. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;126;;
+KNOKKE-HEIST - FH09;4337752;1;0;0;1;SDU;;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;184;;
+KNOKKE-HEIST - FH09;292677;25;0;1;26;MDU;XA;N;IRREG;8;0;;;Y;XA want er zijn wel schachten, maar hierin was geen plaats dus moet er via opbouw gewerkt worden. check Nancy : ssv ok, voor lu 7de verdieping proberen  in de kast te werken.;BUILDING template;Zeedijk-Heist;104;;
+KNOKKE-HEIST - FH09;4335319;5;0;2;7;MDU;C;Y;NA;5;4;;;Y;_;BUILDING template;Duinenstraat;18;;
+KNOKKE-HEIST - FH09;2758772;10;0;0;10;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Jozef Dhoorelaan;128;;
+KNOKKE-HEIST - FH09;2756859;23;0;0;23;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;238;;
+KNOKKE-HEIST - FH09;71635;27;0;1;28;MDU;XA;N;IRREG;10;0;;;Y;XA want op het gelijkvloers moet er via opbouw gewerkt worden naar de schacht op de 1ste verdieping. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;195;;
+KNOKKE-HEIST - FH09;4335321;2;1;0;3;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Duinenstraat;22;;
+KNOKKE-HEIST - FH09;302671;27;0;1;28;MDU;XA;N;IRREG;10;0;;;Y;QX  want er zijn wel schachten maar niet toegankelij, aangezien de deuren veel te klein zijn om in te werken. - Check Jasper : SSV oké;BUILDING template;Zeedijk-Heist;271;;
+KNOKKE-HEIST - FH09;4335334;6;0;0;6;MDU;XA;Y;NA;7;4;;;Y;_;BUILDING template;Serweytens de Mercxstraat;32;;
+KNOKKE-HEIST - FH09;2756725;27;0;1;28;MDU;XA;N;IRREG;8;0;;;Y;Er moet een stuk in opbouw op het gelijkvloers en naar 7de verdieping dus XA. Boren naar 1ste en 2de verdieping kan moeilijk zijn werd mij verteld, beton is 60cm dik. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;85;;
+KNOKKE-HEIST - FH09;2756794;26;1;0;27;MDU;A;N;IRREG;10;0;;;Y;1 keer boren op het GLV om de schacht te bereiken. Er is een tussenverdieping. 0.5 daar zijn de deuren voor de duplex en op het glv. check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;161;;
+KNOKKE-HEIST - FH09;4336078;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Eerste-Geniestraat;4;;
+KNOKKE-HEIST - FH09;292341;28;0;1;29;MDU;XA;N;IRREG;8;0;;;Y;Er is een schacht van verdieping 1 tot 6 maar er moet via opbouw gewerkt worden naar verdieping 7. Op elke verdieping moet worden geboord. - check jasper : ssv oké;BUILDING template;Zeedijk-Heist;156;;
+KNOKKE-HEIST - FH09;4336094;1;1;0;2;MDU;X;Y;NA;5;4;;;Y;Afbraak -  Démolition;BUILDING template;Louis Parentstraat;19;;
+KNOKKE-HEIST - FH09;2756909;28;0;1;29;MDU;A;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;295;;
+KNOKKE-HEIST - FH09;2756887;20;0;0;20;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;264;;
+KNOKKE-HEIST - FH09;5579221;26;0;1;27;MDU;A;N;IRREG;10;0;;;Y;check Nancy : ssv ok.;BUILDING template;Zeedijk-Heist;198;;
+KNOKKE-HEIST - FH09;4337279;4;0;0;4;MDU;D;Y;NA;4;4;;"- Volgens CRAB zijn er hier 3 LU's
+- Op Google Maps zijn er 4 bussen 4LU";Y;_;BUILDING template;Serweytens de Mercxstraat;15;;
+KNOKKE-HEIST - FH09;302672;30;2;0;32;MDU;A;N;IRREG;10;0;;;Y;Met extra schacht zie meet staat;BUILDING template;Zeedijk-Heist;272;;
+KNOKKE-HEIST - FH09;4337289;3;0;0;3;MDU;D;Y;NA;3;4;;;Y;_;BUILDING template;Visserskapelstraat;13;;
+KNOKKE-HEIST - FH09;302694;34;0;1;35;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;August Beernaertstraat;3;;
+KNOKKE-HEIST - FH09;4337292;3;0;0;3;MDU;D;Y;NA;3;4;;;Y;_;BUILDING template;Visserskapelstraat;17;;
+KNOKKE-HEIST - FH09;290502;37;0;3;40;MDU;XA;N;IRREG;7;0;;;Y;Geen schacht in dit gebouw - check Jasper: SSV oké;BUILDING template;Zeedijk-Heist;193;;
+KNOKKE-HEIST - FH09;4337352;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;De Kinkhoorn;16;;
+KNOKKE-HEIST - FH09;2756832;42;2;3;47;MDU;XA;N;IRREG;10;0;;;Y;_;BUILDING template;Zeedijk-Heist;201;;
+KNOKKE-HEIST - FH09;1465872;52;0;2;54;MDU;XA;N;IRREG;10;0;;;Y;Er is geen toegankelijke schacht in dit gebouw - Check Jasper ssv oké;BUILDING template;Zeedijk-Heist;186;;
+KNOKKE-HEIST - FH09;4337361;8;1;2;11;MDU;XA;Y;NA;6;4;;;Y;_;BUILDING template;Louis Parentstraat;22;;
+KNOKKE-HEIST - FH09;3939624;14;0;2;16;MDU;XA;Y;NA;8;4;;;Y;Bestaande schacht bereikbaar vanaf verdiep 1;BUILDING template;Kardinaal Mercierstraat;6;;
+KNOKKE-HEIST - FH09;71702;8;0;1;9;MDU;XA;Y;NA;5;4;;;Y;"XA want er zijn wel schachten maar niet op elke verdieping. In elke schacht moet geboord worden. check Nancy :  BG Albatrosstraat 2-4 (5fl) en Zeedijk-Heist 248(10fl), Qa met floorbox ok; ssv ok.";BUILDING template;Albatrosstraat;2;;
+KNOKKE-HEIST - FH09;4337449;3;0;0;3;MDU;D;Y;NA;3;4;;"- Volgens CRAB zijn er hier 3 LU's
+- Op Google Maps zijn er 2 bussen 2LU";Y;_;BUILDING template;Louis Parentstraat;7;;
+KNOKKE-HEIST - FH09;2756835;43;0;2;45;MDU;XA;N;IRREG;10;0;;;Y;Er loopt een schacht in het gebouw maar deze is niet toegankelijk op elke verdieping en dus niet geschikt voor de glasvezelkabel.check Nancy : pijltje te veel voor de units bij kabelweg 2 : verd.1-8 :2xlu en verd.9 : 1xlu.;BUILDING template;Zeedijk-Heist;202;;
+KNOKKE-HEIST - FH09;71703;15;0;1;16;MDU;XA;Y;NA;5;4;;;Y;XA want er zijn wel,schachten, maar niet op elke verdieping. check Nancy : BG Albatrosstraat 2-4 (5fl) en Zeedijk-Heist 248(10fl), Qa met floorbox ok, ssv ok.;BUILDING template;Albatrosstraat;4;;
+KNOKKE-HEIST - FH09;4337451;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Eerste-Geniestraat;7;;Residentie Shannon
+KNOKKE-HEIST - FH09;292337;13;0;1;14;MDU;XA;N;IRREG;7;0;;;Y;Er zijn geen schachten in dit gebouw. BG met Zeedijk 111. - check Jasper : ssv oké;BUILDING template;Graaf van Vlaanderenstraat;1;;
+KNOKKE-HEIST - FH09;4337452;7;0;0;7;MDU;XC;N;ORN;4;0;;"- Volgens CRAB zijn er hier 8 LU's
+- Op Google Maps niet controleerbaar 7LU +1SU";Y;Geen schachten. Gebruik maken van opbouw kabelgoten.  check Nancy : ssv ok.;BUILDING template;Eerste-Geniestraat;11;;
+KNOKKE-HEIST - FH09;297138;0;1;0;1;SDU;;Y;NA;8;4;;;Y;_;BUILDING template;Eerste-Geniestraat;16;;
+KNOKKE-HEIST - FH09;4337457;7;0;0;7;MDU;XC;Y;NA;4;4;;;Y;_;BUILDING template;August Beernaertstraat;5;;
+KNOKKE-HEIST - FH09;302680;0;1;0;1;SDU;;Y;NA;9;4;;;Y;_;BUILDING template;Graaf d Ursellaan;24;;

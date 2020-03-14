@@ -1,0 +1,594 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
+ANTWERPEN-WEST - FH01;1992494;0;1;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Londenstraat;13;;
+ANTWERPEN-WEST - FH01;1992496;8;0;0;8;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Londenstraat;17;;
+ANTWERPEN-WEST - FH01;4506378;0;1;0;1;SDU;;N;ORN;4;0;;;;Afbraak -  Démolition;BUILDING template;Napelsstraat;53;;
+ANTWERPEN-WEST - FH01;5978286;0;1;0;1;MDU;C;N;ORN;3;9;;;;;BUILDING template;Napelsstraat;71;;Napelsstraat 71-73
+ANTWERPEN-WEST - FH01;4128343;0;10;4;14;MDU;A;N;IRREG;5;0;;;Y;;BUILDING template;Noorderplaats;9;;Noorderplaats 5-7-9
+ANTWERPEN-WEST - FH01;108957;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Genuastraat;3;;
+ANTWERPEN-WEST - FH01;1986445;0;1;0;1;SDU;;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;3;;
+ANTWERPEN-WEST - FH01;4031647;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Genuastraat;5;;
+ANTWERPEN-WEST - FH01;2047587;0;1;0;1;MDU;C;N;MON;2;6;Monument;;;Review Required MON;BUILDING template;Rijnkaai;1;;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E
+ANTWERPEN-WEST - FH01;1986450;0;1;0;1;SDU;;Y;NA;3;9;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;5;;
+ANTWERPEN-WEST - FH01;108301;0;1;2;3;MDU;D;Y;NA;5;4;;;;Dit zijn studenten kamers totaal 16 stuks;BUILDING template;Genuastraat;2;;
+ANTWERPEN-WEST - FH01;186516;0;1;0;1;MDU;XC;Y;NA;4;4;Dorpsgezicht;;;7 en 11 is 1 gebouw en 1 eigenaar;BUILDING template;Oudeleeuwenrui;7;;Oudeleeuwenrui 7-11
+ANTWERPEN-WEST - FH01;6000240;8;0;0;8;MDU;D;Y;NA;4;4;;;;;BUILDING template;Indiestraat;38;;
+ANTWERPEN-WEST - FH01;5802358;0;1;0;1;MDU;C;N;MON;3;9;Monument;;;Review Required MON;BUILDING template;Rijnkaai;4;;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E
+ANTWERPEN-WEST - FH01;186517;0;1;0;1;MDU;A;N;MON;6;0;Monument;;;Review Required MON;BUILDING template;Oudeleeuwenrui;13;;Oudeleeuwenrui 13-15
+ANTWERPEN-WEST - FH01;1949212;0;1;0;1;SDU;;N;ORN;5;4;;;;;BUILDING template;Indiestraat;44;;
+ANTWERPEN-WEST - FH01;186515;0;7;0;7;MDU;D;Y;MON;3;9;Monument;;;Review Required MON;BUILDING template;Oudeleeuwenrui;25;;
+ANTWERPEN-WEST - FH01;1088922;1;0;0;1;SDU;;N;MON;3;9;Monument;;Y;Review Required MON;BUILDING template;Adriaan Brouwerstraat;5;;
+ANTWERPEN-WEST - FH01;1734637;0;1;0;1;MDU;D;Y;NA;4;4;;;;Review Required;BUILDING template;Sint-Aldegondiskaai;58;;Sint-Aldegondiskaai 56-58
+ANTWERPEN-WEST - FH01;5575903;0;0;1;1;SDU;;Y;NA;5;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;31;;
+ANTWERPEN-WEST - FH01;1781985;0;1;1;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;Het gebouw loopt tot de Sint-Aldegondiskaai, waar het een ingang heeft, maar geen huisnummer. Vermoedelijk nummer 20;BUILDING template;Adriaan Brouwerstraat;13;;
+ANTWERPEN-WEST - FH01;62430;5;0;0;5;MDU;D;Y;NA;5;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;33;;
+ANTWERPEN-WEST - FH01;4128342;0;1;0;1;SDU;;N;IRREG;23;4;;;;;BUILDING template;Londenstraat;58;;
+ANTWERPEN-WEST - FH01;1986516;2;1;0;3;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;35;;
+ANTWERPEN-WEST - FH01;62433;0;1;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;47;;
+ANTWERPEN-WEST - FH01;1782029;0;1;0;1;MDU;XA;Y;NA;1;4;;;Y;Review Required Review Required MON;BUILDING template;Adriaan Brouwerstraat;21;;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27
+ANTWERPEN-WEST - FH01;108303;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Londenstraat;53;;
+ANTWERPEN-WEST - FH01;108296;4;1;0;5;MDU;D;N;ORN;5;0;;;;Review Required;BUILDING template;Rigastraat;26;;
+ANTWERPEN-WEST - FH01;1782040;4;0;1;5;MDU;XA;N;IRREG;5;4;;;Y;XA wegens BG;BUILDING template;Adriaan Brouwerstraat;27;;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27
+ANTWERPEN-WEST - FH01;1734627;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Sint-Aldegondiskaai;20;;
+ANTWERPEN-WEST - FH01;1782047;2;0;0;2;MDU;D;N;IRREG;2;6;Monument;;Y;Review Required MON;BUILDING template;Adriaan Brouwerstraat;29;;
+ANTWERPEN-WEST - FH01;4505458;0;1;0;1;MDU;D;Y;NA;2;4;;;;;BUILDING template;Napelsstraat;34;;Napelsstraat 32-34
+ANTWERPEN-WEST - FH01;1782050;0;4;1;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Adriaan Brouwerstraat;31;;
+ANTWERPEN-WEST - FH01;59276;0;1;0;1;SDU;;N;IRREG;3;0;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;Sint-Aldegondiskaai;30;;
+ANTWERPEN-WEST - FH01;182977;0;1;0;1;SDU;;N;MON;4;12;Monument;;;Review Required MON;BUILDING template;Adriaan Brouwerstraat;33;;
+ANTWERPEN-WEST - FH01;109078;4;1;0;5;MDU;D;Y;NA;5;4;;;;5e & 6e bouwlaag vormen 1 duplex. Deze informatie werd me meegedeeld door Pascal Grooten - mede-eigenaar;BUILDING template;Rijnkaai;25;;
+ANTWERPEN-WEST - FH01;1735094;0;1;0;1;MDU;A;N;IRREG;1;3;;;Y;;BUILDING template;Amsterdamstraat;16;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;2047591;3;1;0;4;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Rijnkaai;26;;
+ANTWERPEN-WEST - FH01;1735095;0;5;1;6;MDU;A;N;IRREG;6;4;;;Y;;BUILDING template;Amsterdamstraat;18;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;108283;0;1;1;2;MDU;C;N;ORN;5;4;;;;;BUILDING template;Kempischdok-Westkaai;90;;
+ANTWERPEN-WEST - FH01;2047593;0;1;0;1;SDU;;Y;NA;6;4;;;Y;Review Required;BUILDING template;Rijnkaai;27;;
+ANTWERPEN-WEST - FH01;59279;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Sint-Aldegondiskaai;36;;
+ANTWERPEN-WEST - FH01;52537;0;1;0;1;MDU;D;Y;NA;4;4;;;;SDU, BU S - BROOD & CO;BUILDING template;Amsterdamstraat;21;;Amsterdamstraat 21_Braziliestraat 43
+ANTWERPEN-WEST - FH01;2047596;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Rijnkaai;29;;
+ANTWERPEN-WEST - FH01;1734631;0;1;0;1;MDU;XA;Y;NA;2;4;;;Y;Ingang lu is aan de achterkant van straat waardoor het ander adres heeft. Adriaan brouwersstraat;BUILDING template;Sint-Aldegondiskaai;44;;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27
+ANTWERPEN-WEST - FH01;108082;6;0;1;7;MDU;D;Y;NA;4;4;;;;;BUILDING template;Amsterdamstraat;22;;
+ANTWERPEN-WEST - FH01;2047597;5;0;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Rijnkaai;30;;
+ANTWERPEN-WEST - FH01;1734632;6;0;0;6;MDU;D;Y;NA;4;4;;;;;BUILDING template;Sint-Aldegondiskaai;46;;
+ANTWERPEN-WEST - FH01;108942;0;1;0;1;SDU;;N;MON;2;6;Monument;;;Review Required MON;BUILDING template;Indiestraat;21;;
+ANTWERPEN-WEST - FH01;1735097;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Amsterdamstraat;23;;
+ANTWERPEN-WEST - FH01;108955;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;20;;Kempischdok-Westkaai 14-20
+ANTWERPEN-WEST - FH01;2047598;11;2;1;14;MDU;A;N;IRREG;7;4;;;Y;Blocked : geen toegang;BUILDING template;Rijnkaai;31;;
+ANTWERPEN-WEST - FH01;4513324;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Sint-Aldegondiskaai;48;;
+ANTWERPEN-WEST - FH01;108947;17;0;2;19;MDU;C;Y;NA;5;4;;;Y;Review Required;BUILDING template;Indiestraat;18;;
+ANTWERPEN-WEST - FH01;1735099;4;1;1;6;MDU;XA;N;IRREG;6;4;;;;;BUILDING template;Amsterdamstraat;27;;
+ANTWERPEN-WEST - FH01;1734633;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Sint-Aldegondiskaai;50;;
+ANTWERPEN-WEST - FH01;1949013;0;1;0;1;SDU;;N;IRREG;2;6;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Indiestraat;10;;
+ANTWERPEN-WEST - FH01;1128021;5;0;1;6;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Amsterdamstraat;28;;
+ANTWERPEN-WEST - FH01;1734634;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Sint-Aldegondiskaai;52;;
+ANTWERPEN-WEST - FH01;1128023;5;1;1;7;MDU;A;Y;NA;6;4;;;;;BUILDING template;Amsterdamstraat;30;;
+ANTWERPEN-WEST - FH01;59277;10;2;1;13;MDU;XA;Y;NA;8;4;;;Y;;BUILDING template;Sint-Aldegondiskaai;10;;Sint-Aldegondiskaai 10_ Adriaan Brouwerstraat 9
+ANTWERPEN-WEST - FH01;1734635;8;0;0;8;MDU;D;Y;NA;5;4;;;;;BUILDING template;Sint-Aldegondiskaai;54;;
+ANTWERPEN-WEST - FH01;5492426;0;1;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Indiestraat;12;B;
+ANTWERPEN-WEST - FH01;1735101;15;0;1;16;MDU;XA;Y;NA;7;4;;;;;BUILDING template;Amsterdamstraat;31;;
+ANTWERPEN-WEST - FH01;1734636;0;1;0;1;MDU;D;Y;NA;4;4;;;;Review Required;BUILDING template;Sint-Aldegondiskaai;56;;Sint-Aldegondiskaai 56-58
+ANTWERPEN-WEST - FH01;108952;0;1;0;1;SDU;;Y;NA;1;4;;;;Review Required;BUILDING template;Napelsstraat;2;;
+ANTWERPEN-WEST - FH01;1128022;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Amsterdamstraat;32;;
+ANTWERPEN-WEST - FH01;1970984;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Kribbestraat;18;;
+ANTWERPEN-WEST - FH01;1734638;0;1;0;1;SDU;;Y;NA;4;4;;;;BU waarop later een LU wordt voorzien voor uitbater;BUILDING template;Sint-Aldegondiskaai;60;;
+ANTWERPEN-WEST - FH01;4505438;0;1;0;1;SDU;;Y;NA;1;4;;;;Review Required;BUILDING template;Napelsstraat;4;;
+ANTWERPEN-WEST - FH01;4513329;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Sint-Aldegondiskaai;62;;
+ANTWERPEN-WEST - FH01;4505440;7;1;2;10;MDU;C;Y;NA;5;4;;;;Review Required;BUILDING template;Napelsstraat;6;;
+ANTWERPEN-WEST - FH01;1735103;0;1;0;1;SDU;;Y;NA;1;4;;;Y;;BUILDING template;Amsterdamstraat;34;;
+ANTWERPEN-WEST - FH01;59280;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Sint-Aldegondiskaai;64;;
+ANTWERPEN-WEST - FH01;1735104;8;1;0;9;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Amsterdamstraat;35;;
+ANTWERPEN-WEST - FH01;109072;1;4;0;5;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Sint-Laureiskaai;7;;
+ANTWERPEN-WEST - FH01;4505442;7;0;2;9;MDU;C;Y;NA;5;4;;;;Review Required;BUILDING template;Napelsstraat;10;;
+ANTWERPEN-WEST - FH01;108085;0;1;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Amsterdamstraat;36;;
+ANTWERPEN-WEST - FH01;1970988;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Kribbestraat;20;;
+ANTWERPEN-WEST - FH01;1984033;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;Review Required Review Required MON;BUILDING template;Sint-Laureiskaai;13;;
+ANTWERPEN-WEST - FH01;109084;2;1;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Amsterdamstraat;37;;
+ANTWERPEN-WEST - FH01;1735105;2;1;0;3;MDU;D;Y;NA;3;4;;;Y;;BUILDING template;Amsterdamstraat;39;;
+ANTWERPEN-WEST - FH01;6452834;0;0;0;0;SDU;;N;ORN;4;12;Dorpsgezicht;;N;Review Required MON;BUILDING template;Oudeleeuwenrui;19;A;
+ANTWERPEN-WEST - FH01;59302;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Spanjaardsteeg;1;;
+ANTWERPEN-WEST - FH01;2024656;3;1;0;4;MDU;D;Y;NA;4;4;;;;Review Required;BUILDING template;Napelsstraat;40;;
+ANTWERPEN-WEST - FH01;52539;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Amsterdamstraat;41;;
+ANTWERPEN-WEST - FH01;2053439;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Spanjaardsteeg;3;;
+ANTWERPEN-WEST - FH01;186520;0;60;0;60;MDU;C;Y;NA;5;4;;;Y;;BUILDING template;Ankerrui;9;;
+ANTWERPEN-WEST - FH01;2053440;2;0;0;2;MDU;D;Y;NA;4;12;Dorpsgezicht;;;Review Required MON;BUILDING template;Spanjaardsteeg;5;;
+ANTWERPEN-WEST - FH01;4505443;0;1;0;1;SDU;;Y;NA;1;4;;;;Review Required;BUILDING template;Napelsstraat;12;;
+ANTWERPEN-WEST - FH01;4510642;0;1;0;1;MDU;XA;Y;NA;6;4;;;Y;;BUILDING template;Ankerrui;15;;Ankerrui 15_Entrepotplaats 18
+ANTWERPEN-WEST - FH01;5960425;0;0;0;0;SDU;;N;ORN;4;12;Dorpsgezicht;;N;Review Required MON;BUILDING template;Oudeleeuwenrui;19;C;
+ANTWERPEN-WEST - FH01;186509;3;0;0;3;MDU;D;N;IRREG;3;0;Dorpsgezicht;;;Review Required MON;BUILDING template;Spanjaardsteeg;19;;
+ANTWERPEN-WEST - FH01;2008888;4;0;0;4;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;August Michielsstraat;4;;
+ANTWERPEN-WEST - FH01;2008915;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;August Michielsstraat;6;;
+ANTWERPEN-WEST - FH01;6452833;0;0;0;0;SDU;;N;ORN;4;12;Dorpsgezicht;;N;Review Required MON;BUILDING template;Oudeleeuwenrui;19;D;
+ANTWERPEN-WEST - FH01;4506392;0;0;0;0;SDU;;Y;NA;5;4;;;N;;BUILDING template;August Michielsstraat;14;;
+ANTWERPEN-WEST - FH01;1775168;0;2;0;2;MDU;D;Y;NA;2;6;Beschermd Erfgoed;;;Building groep met Montevideostraat 5.;BUILDING template;Braziliestraat;2;A;Brazieliestraat 2A_Montevideostraat 5
+ANTWERPEN-WEST - FH01;4145817;5;0;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;August Michielsstraat;16;;
+ANTWERPEN-WEST - FH01;4506381;0;1;0;1;SDU;;N;IRREG;3;9;;;Y;;BUILDING template;August Michielsstraat;17;;
+ANTWERPEN-WEST - FH01;1986469;0;6;2;8;MDU;A;N;IRREG;6;0;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;15;;Oudeleeuwenrui 13-15
+ANTWERPEN-WEST - FH01;2051445;0;1;0;1;SDU;;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;3;;
+ANTWERPEN-WEST - FH01;6440424;0;1;0;1;MDU;C;N;ORN;5;4;Beschermd Erfgoed;;;Niet duidelijk qua indeling;BUILDING template;Braziliestraat;2;E;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E
+ANTWERPEN-WEST - FH01;59293;0;1;0;1;SDU;;N;IRREG;1;3;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Van Schoonbekeplein;4;;
+ANTWERPEN-WEST - FH01;2009021;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;August Michielsstraat;22;;
+ANTWERPEN-WEST - FH01;59296;0;1;0;1;MDU;C;N;IRREG;1;3;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Van Schoonbekeplein;11;;Van Schoonbekeplein 11_Spanjaardsteeg 21
+ANTWERPEN-WEST - FH01;4511988;0;1;0;1;SDU;;Y;NA;1;4;;;;Review Required;BUILDING template;Braziliestraat;26;;
+ANTWERPEN-WEST - FH01;2009033;1;1;0;2;MDU;D;N;ORN;3;0;;;;Review Required;BUILDING template;August Michielsstraat;23;;
+ANTWERPEN-WEST - FH01;2051451;1;1;0;2;MDU;D;N;IRREG;3;4;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Van Schoonbekeplein;13;;
+ANTWERPEN-WEST - FH01;5802357;0;1;0;1;MDU;C;N;MON;1;6;Monument;;;Review Required MON;BUILDING template;Rijnkaai;2;;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E
+ANTWERPEN-WEST - FH01;108275;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;August Michielsstraat;24;;
+ANTWERPEN-WEST - FH01;6005416;0;24;3;27;MDU;XC;Y;NA;5;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;11;;Oudeleeuwenrui 7-11
+ANTWERPEN-WEST - FH01;2051452;6;0;1;7;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;15;;
+ANTWERPEN-WEST - FH01;6395025;0;1;0;1;MDU;C;N;MON;3;9;Monument;;;Review Required MON;BUILDING template;Rijnkaai;12;;Montevideostraat 3_Rijnkaai 12-15
+ANTWERPEN-WEST - FH01;4101358;1;1;0;2;MDU;D;N;IRREG;3;4;;;;;BUILDING template;August Michielsstraat;25;;
+ANTWERPEN-WEST - FH01;2051455;0;1;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;1 winkel op verklaring buren;BUILDING template;Van Schoonbekeplein;19;;
+ANTWERPEN-WEST - FH01;1015486;0;1;0;1;MDU;C;N;MON;2;6;Monument;;;Review Required MON;BUILDING template;Rijnkaai;15;;Montevideostraat 3_Rijnkaai 12-15
+ANTWERPEN-WEST - FH01;108271;1;0;0;1;SDU;;N;IRREG;3;4;;;;;BUILDING template;August Michielsstraat;27;;
+ANTWERPEN-WEST - FH01;59295;0;1;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;21;;
+ANTWERPEN-WEST - FH01;2047589;1;4;0;5;MDU;D;N;IRREG;5;4;;;;De BU’s lopen door tot aan de Braziliëstraat. Is hetzelfde gebouw.;BUILDING template;Rijnkaai;22;;
+ANTWERPEN-WEST - FH01;4510620;0;1;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;23;;
+ANTWERPEN-WEST - FH01;4126592;5;0;1;6;MDU;XA;N;ORN;6;4;;;;;BUILDING template;August Michielsstraat;32;;
+ANTWERPEN-WEST - FH01;109135;5;1;2;8;MDU;A;N;IRREG;6;4;;;Y;;BUILDING template;Verbindingsdok-Oostkaai;1;;
+ANTWERPEN-WEST - FH01;1984031;0;3;0;3;MDU;D;Y;NA;3;4;;;;Review Required;BUILDING template;Sint-Laureiskaai;9;;
+ANTWERPEN-WEST - FH01;1265934;1;0;0;1;SDU;;N;ORN;5;4;;;Y;;BUILDING template;August Michielsstraat;34;;
+ANTWERPEN-WEST - FH01;2059542;2;3;0;5;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Verbindingsdok-Oostkaai;5;;
+ANTWERPEN-WEST - FH01;108068;0;1;0;1;MDU;A;N;IRREG;1;3;;;;;BUILDING template;Verbindingsdok-Westkaai;30;;Verbindingsdok-Westkaai 26-28-30
+ANTWERPEN-WEST - FH01;108272;9;1;2;12;MDU;A;N;ORN;6;4;;;Y;;BUILDING template;August Michielsstraat;38;;
+ANTWERPEN-WEST - FH01;2059544;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Verbindingsdok-Oostkaai;7;;
+ANTWERPEN-WEST - FH01;4021011;0;1;0;1;MDU;A;N;IRREG;1;3;;;;;BUILDING template;Verbindingsdok-Westkaai;28;;Verbindingsdok-Westkaai 26-28-30
+ANTWERPEN-WEST - FH01;108075;0;1;0;1;MDU;A;N;IRREG;1;3;;;Y;;BUILDING template;Bataviastraat;5;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;2059545;0;1;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Verbindingsdok-Oostkaai;9;;
+ANTWERPEN-WEST - FH01;2059553;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Verbindingsdok-Westkaai;12;A;
+ANTWERPEN-WEST - FH01;108074;21;2;1;24;MDU;A;N;IRREG;7;4;;;Y;;BUILDING template;Bataviastraat;7;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;108069;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Verbindingsdok-Westkaai;2;;
+ANTWERPEN-WEST - FH01;1735096;0;1;0;1;MDU;A;N;IRREG;1;3;;;;;BUILDING template;Amsterdamstraat;20;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;108073;32;1;1;34;MDU;A;N;IRREG;7;4;;;Y;meetstaat begint op gelijkvloers met 0/7 vandaar dat er slechts 6 verdiepingen volgen.;BUILDING template;Bataviastraat;11;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;2059548;2;0;0;2;MDU;D;Y;NA;4;4;;;;Review Required;BUILDING template;Verbindingsdok-Westkaai;4;;
+ANTWERPEN-WEST - FH01;2067063;0;4;0;4;MDU;D;N;IRREG;4;9;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Bataviastraat;19;;
+ANTWERPEN-WEST - FH01;2059549;5;1;0;6;MDU;D;Y;NA;5;4;;;;;BUILDING template;Verbindingsdok-Westkaai;6;;
+ANTWERPEN-WEST - FH01;2024913;13;0;0;13;MDU;XA;Y;NA;7;4;;;;;BUILDING template;Nassaustraat;20;;
+ANTWERPEN-WEST - FH01;1746379;0;1;0;1;SDU;;N;IRREG;5;4;;;Y;Woonzorgcentrum amate het gouden anker;BUILDING template;Binnenvaartstraat;50;;
+ANTWERPEN-WEST - FH01;2059550;2;1;0;3;MDU;D;Y;NA;3;4;;;Y;Review Required;BUILDING template;Verbindingsdok-Westkaai;8;;
+ANTWERPEN-WEST - FH01;4059303;0;1;0;1;SDU;;Y;NA;1;4;;;;;BUILDING template;Nassaustraat;22;;
+ANTWERPEN-WEST - FH01;109137;4;0;0;4;MDU;D;Y;NA;3;4;;;;Review Required;BUILDING template;Bordeauxstraat;2;;
+ANTWERPEN-WEST - FH01;2059551;4;1;0;5;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Verbindingsdok-Westkaai;10;;
+ANTWERPEN-WEST - FH01;1755770;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Bordeauxstraat;3;;
+ANTWERPEN-WEST - FH01;2059554;10;0;0;10;MDU;A;Y;NA;7;4;;;Y;Blocked: toegang geweigerd door bewoner;BUILDING template;Verbindingsdok-Westkaai;14;;
+ANTWERPEN-WEST - FH01;4505626;9;0;1;10;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Nassaustraat;23;;
+ANTWERPEN-WEST - FH01;4092751;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Bordeauxstraat;4;;
+ANTWERPEN-WEST - FH01;2059555;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Verbindingsdok-Westkaai;16;;
+ANTWERPEN-WEST - FH01;2024854;5;0;1;6;MDU;A;Y;NA;6;4;;;Y;Blocked by Syndicus: geen medewerking;BUILDING template;Nassaustraat;3;;Nassaustraat 1-3
+ANTWERPEN-WEST - FH01;4153712;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Bordeauxstraat;5;;
+ANTWERPEN-WEST - FH01;2059557;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Verbindingsdok-Westkaai;20;;
+ANTWERPEN-WEST - FH01;1755771;8;1;0;9;MDU;D;Y;NA;5;4;;;;;BUILDING template;Bordeauxstraat;7;A;
+ANTWERPEN-WEST - FH01;4505621;5;0;1;6;MDU;XA;N;IRREG;7;4;;;Y;5 en 6 duplex;BUILDING template;Verbindingsdok-Westkaai;22;;
+ANTWERPEN-WEST - FH01;1755774;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Bordeauxstraat;7;C;
+ANTWERPEN-WEST - FH01;1128029;12;1;0;13;MDU;A;N;IRREG;7;4;;;Y;;BUILDING template;Verbindingsdok-Westkaai;26;;Verbindingsdok-Westkaai 26-28-30
+ANTWERPEN-WEST - FH01;108787;3;1;0;4;MDU;D;Y;NA;3;4;;;;;BUILDING template;Bordeauxstraat;9;;
+ANTWERPEN-WEST - FH01;1755779;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Bordeauxstraat;11;;
+ANTWERPEN-WEST - FH01;11983;0;3;0;3;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Zeevaartstraat;5;;
+ANTWERPEN-WEST - FH01;109140;1;3;0;4;MDU;D;N;MON;4;12;Monument;;;Review Required MON;BUILDING template;Bordeauxstraat;12;;
+ANTWERPEN-WEST - FH01;2066332;3;1;0;4;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Zeevaartstraat;6;;
+ANTWERPEN-WEST - FH01;5944507;60;2;3;65;MDU;E;N;ORN;16;4;;;;;BUILDING template;Kattendijkdok-Westkaai;91;;Kattendijkdok Westkaai 91-92-93
+ANTWERPEN-WEST - FH01;186510;3;0;0;3;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required Review Required MON;BUILDING template;Zeevaartstraat;16;;
+ANTWERPEN-WEST - FH01;4511975;5;0;1;6;MDU;D;N;IRREG;5;4;;;Y;Review Required;BUILDING template;Braziliestraat;8;;
+ANTWERPEN-WEST - FH01;4042596;0;1;1;2;MDU;C;N;IRREG;13;4;;;;;BUILDING template;Hanzestedenplaats;5;;
+ANTWERPEN-WEST - FH01;59271;0;1;0;1;SDU;;N;MON;4;12;Monument;;Y;Review Required MON;BUILDING template;Adriaan Brouwerstraat;17;;
+ANTWERPEN-WEST - FH01;4511920;0;1;0;1;MDU;A;N;IRREG;1;3;;;;;BUILDING template;Kattendijkdok-Westkaai;42;;Kattendijkdok Westkaai 41-42-43
+ANTWERPEN-WEST - FH01;1775191;0;1;0;1;SDU;;Y;NA;4;4;;;Y;Review Required;BUILDING template;Braziliestraat;15;;
+ANTWERPEN-WEST - FH01;1735088;15;0;1;16;MDU;A;N;IRREG;7;4;;;Y;;BUILDING template;Amsterdamstraat;14;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;6525842;0;1;0;1;MDU;A;N;IRREG;1;3;;;;;BUILDING template;Kattendijkdok-Westkaai;43;;Kattendijkdok Westkaai 41-42-43
+ANTWERPEN-WEST - FH01;1775195;0;1;0;1;SDU;;Y;NA;3;4;;;;achterzijde nooduitgang van Hapag Lloyd. Hoofdingang aan Kattendijkdock Westkaai 21. Aansluiting waarschijnlijk ook.;BUILDING template;Braziliestraat;17;;
+ANTWERPEN-WEST - FH01;108083;0;1;0;1;SDU;;Y;NA;5;4;;;;Review Required Review Required MON;BUILDING template;Amsterdamstraat;24;;
+ANTWERPEN-WEST - FH01;5944504;105;2;3;110;MDU;E;N;ORN;16;4;;;;;BUILDING template;Kattendijkdok-Westkaai;81;;Kattendijkdok Westkaai 81-82-83
+ANTWERPEN-WEST - FH01;1775199;2;0;0;2;MDU;D;Y;NA;4;4;;;;Appartement 22/101 is een geheel met 18/101&201;BUILDING template;Braziliestraat;18;;
+ANTWERPEN-WEST - FH01;62428;5;0;0;5;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Entrepotplaats;18;;Ankerrui 15_Entrepotplaats 18
+ANTWERPEN-WEST - FH01;1735098;5;1;1;7;MDU;XA;N;ORN;7;4;;;;;BUILDING template;Amsterdamstraat;25;;
+ANTWERPEN-WEST - FH01;5891727;60;2;3;65;MDU;E;N;ORN;16;4;;;;;BUILDING template;Kattendijkdok-Westkaai;71;;Kattendijkdok Westkaai 71-72-73
+ANTWERPEN-WEST - FH01;1775206;4;0;1;5;MDU;D;Y;NA;4;4;;;;Review Required;BUILDING template;Braziliestraat;22;;
+ANTWERPEN-WEST - FH01;1735100;0;1;0;1;SDU;;Y;NA;6;4;;;;;BUILDING template;Amsterdamstraat;29;;
+ANTWERPEN-WEST - FH01;5804916;73;2;3;78;MDU;A;N;ORN;16;4;;;;;BUILDING template;Kattendijkdok-Westkaai;61;;Kattendijkdok Westkaai 61-63-65
+ANTWERPEN-WEST - FH01;1365795;14;0;1;15;MDU;XC;Y;NA;5;4;;;Y;meetstaat begint op begane grond, vandaar geen 5e verdieping.;BUILDING template;Braziliestraat;24;;
+ANTWERPEN-WEST - FH01;1735143;0;1;1;2;MDU;D;Y;NA;3;4;;;;Multi ONU;BUILDING template;Ankerrui;5;;
+ANTWERPEN-WEST - FH01;1775235;6;0;1;7;MDU;XC;Y;NA;5;4;;;Y;Review Required;BUILDING template;Braziliestraat;28;;
+ANTWERPEN-WEST - FH01;62446;0;1;0;1;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Ankerrui;11;;Ankerrui 11-13
+ANTWERPEN-WEST - FH01;4511990;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Braziliestraat;30;;
+ANTWERPEN-WEST - FH01;2008923;8;1;1;10;MDU;D;Y;NA;4;4;;;Y;In aanbouw - En construction;BUILDING template;August Michielsstraat;8;;
+ANTWERPEN-WEST - FH01;1266714;6;0;1;7;MDU;XC;Y;NA;5;4;;;Y;Review Required;BUILDING template;Braziliestraat;33;;
+ANTWERPEN-WEST - FH01;972217;5;0;1;6;MDU;A;Y;NA;6;4;;;Y;BLOCKED: geen toegang verkregen;BUILDING template;August Michielsstraat;10;;
+ANTWERPEN-WEST - FH01;1775251;1;0;0;1;SDU;;Y;NA;3;4;;;Y;Review Required;BUILDING template;Braziliestraat;37;;
+ANTWERPEN-WEST - FH01;2008939;4;1;1;6;MDU;D;Y;NA;6;4;;;;;BUILDING template;August Michielsstraat;12;;
+ANTWERPEN-WEST - FH01;1775252;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Braziliestraat;38;;
+ANTWERPEN-WEST - FH01;2008982;0;1;0;1;SDU;;N;IRREG;2;6;;;Y;;BUILDING template;August Michielsstraat;15;;
+ANTWERPEN-WEST - FH01;1775258;1;0;0;1;SDU;;Y;NA;3;4;;;Y;Review Required;BUILDING template;Braziliestraat;41;;
+ANTWERPEN-WEST - FH01;4506393;6;0;2;8;MDU;A;Y;NA;6;4;;;;;BUILDING template;August Michielsstraat;18;;
+ANTWERPEN-WEST - FH01;108930;1;1;0;2;MDU;D;Y;NA;3;4;;;;;BUILDING template;Cadixstraat;1;;
+ANTWERPEN-WEST - FH01;2008988;0;1;0;1;SDU;;N;IRREG;3;0;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;August Michielsstraat;19;;
+ANTWERPEN-WEST - FH01;1786795;4;1;0;5;MDU;D;N;IRREG;5;4;;;;;BUILDING template;Cadixstraat;5;;
+ANTWERPEN-WEST - FH01;108076;0;1;0;1;MDU;A;N;IRREG;1;3;;;Y;;BUILDING template;Bataviastraat;1;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;59299;0;1;0;1;SDU;;Y;NA;1;4;Dorpsgezicht;;Y;Review Required Review Required MON;BUILDING template;Godefriduskaai;2;;
+ANTWERPEN-WEST - FH01;52547;6;1;1;8;MDU;A;N;IRREG;6;4;;;;;BUILDING template;Rijnkaai;20;;
+ANTWERPEN-WEST - FH01;1288092;15;1;1;17;MDU;XA;Y;NA;6;4;;;Y;Gebouw voor 6BL achter 3BL;BUILDING template;Cadixstraat;21;;
+ANTWERPEN-WEST - FH01;108788;2;1;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Bordeauxstraat;7;;
+ANTWERPEN-WEST - FH01;1299606;26;3;0;29;MDU;XA;Y;NA;6;4;;;Y;Gebouw voor 6 BL achter 3 BL;BUILDING template;Cadixstraat;23;;
+ANTWERPEN-WEST - FH01;5569316;7;0;1;8;MDU;XC;N;IRREG;5;4;;;Y;Buildinggroup er is geen ondergrondse kelder;BUILDING template;Bordeauxstraat;8;;
+ANTWERPEN-WEST - FH01;1786894;11;0;2;13;MDU;B;Y;NA;5;4;;;Y;Review Required;BUILDING template;Cadixstraat;35;;
+ANTWERPEN-WEST - FH01;4510612;1;0;0;1;SDU;;N;HEIGHT;6;4;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Oudeleeuwenrui;17;;
+ANTWERPEN-WEST - FH01;109139;5;3;2;10;MDU;XC;N;IRREG;4;12;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;Bordeauxstraat;10;;
+ANTWERPEN-WEST - FH01;108299;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Cadixstraat;37;;
+ANTWERPEN-WEST - FH01;5507308;1;0;0;1;SDU;;N;IRREG;4;4;Beschermd Erfgoed;;Y;Review Required Review Required MON;BUILDING template;Bordeauxstraat;10;A;
+ANTWERPEN-WEST - FH01;1195065;46;2;3;51;MDU;A;N;IRREG;16;4;;;Y;;BUILDING template;Kattendijkdok-Westkaai;51;;Kattendijkdok Westkaai 51-54-56
+ANTWERPEN-WEST - FH01;108298;0;2;0;2;MDU;D;N;ORN;5;0;;;Y;Review Required;BUILDING template;Cadixstraat;39;;
+ANTWERPEN-WEST - FH01;5507312;8;0;1;9;MDU;XA;N;IRREG;6;4;;;Y;Buildingroep - 5 verdiepingen;BUILDING template;Bordeauxstraat;16;;
+ANTWERPEN-WEST - FH01;2069012;9;0;2;11;MDU;A;N;ORN;9;4;;;Y;;BUILDING template;Entrepotkaai;4;;Entrepotkaai 3-4-5-6
+ANTWERPEN-WEST - FH01;5563826;0;0;0;0;SDU;;N;IRREG;5;4;;;N;;BUILDING template;Kempischdok-Westkaai;84;;
+ANTWERPEN-WEST - FH01;4511892;0;1;0;1;SDU;;Y;NA;1;4;;;Y;;BUILDING template;Kattendijkdok-Westkaai;30;;
+ANTWERPEN-WEST - FH01;1786953;7;0;0;7;MDU;D;N;IRREG;4;12;;;Y;;BUILDING template;Cadixstraat;43;;
+ANTWERPEN-WEST - FH01;1775176;4;0;0;4;MDU;D;N;IRREG;4;4;;;Y;3x LU + 1X BU die verbouwd wordt tot LU.;BUILDING template;Braziliestraat;10;;
+ANTWERPEN-WEST - FH01;2069024;13;0;2;15;MDU;A;N;IRREG;9;4;;;Y;;BUILDING template;Entrepotkaai;14;;Entrepotkaai 10A-11-12-13-14
+ANTWERPEN-WEST - FH01;108783;4;0;0;4;MDU;D;N;ORN;5;4;;;Y;;BUILDING template;Kribbestraat;9;;
+ANTWERPEN-WEST - FH01;1786975;16;0;1;17;MDU;C;N;IRREG;6;12;;;Y;Er zijn 5 verdiepingen maar QB -> min 6 verdiep. daarmee;BUILDING template;Cadixstraat;47;;Cadixstraat 45-47-47A-47C
+ANTWERPEN-WEST - FH01;1775185;0;1;0;1;SDU;;N;IRREG;2;4;;;;Review Required;BUILDING template;Braziliestraat;12;;
+ANTWERPEN-WEST - FH01;1128033;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Kribbestraat;11;;
+ANTWERPEN-WEST - FH01;5751357;0;1;0;1;SDU;;Y;NA;5;4;;;Y;Review Required;BUILDING template;Nassaustraat;34;A;
+ANTWERPEN-WEST - FH01;5394016;13;0;1;14;MDU;C;N;IRREG;6;12;;;Y;Er zijn 5 bouwlagen, maar combinatie B en verdiep. Niet mogelijk daarmee 6;BUILDING template;Cadixstraat;51;;Cadixstraat 49-49A-51-51A
+ANTWERPEN-WEST - FH01;1892372;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Genuastraat;4;;
+ANTWERPEN-WEST - FH01;1775203;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Braziliestraat;19;;
+ANTWERPEN-WEST - FH01;1992472;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Londenstraat;3;;
+ANTWERPEN-WEST - FH01;2024962;0;1;0;1;SDU;;Y;NA;4;4;;;Y;Review Required;BUILDING template;Nassaustraat;42;;
+ANTWERPEN-WEST - FH01;2069014;0;1;0;1;MDU;A;N;IRREG;2;6;;;Y;;BUILDING template;Entrepotkaai;5;;Entrepotkaai 3-4-5-6
+ANTWERPEN-WEST - FH01;1454935;9;0;2;11;MDU;XC;Y;NA;5;4;;;Y;Review Required;BUILDING template;Genuastraat;6;;
+ANTWERPEN-WEST - FH01;1775213;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Braziliestraat;23;;
+ANTWERPEN-WEST - FH01;1266447;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;12;;
+ANTWERPEN-WEST - FH01;2069015;11;0;2;13;MDU;A;N;IRREG;9;4;;;Y;;BUILDING template;Entrepotkaai;6;;Entrepotkaai 3-4-5-6
+ANTWERPEN-WEST - FH01;5575585;0;1;0;1;SDU;;Y;NA;4;4;;;Y;Hoort bij indiestraat;BUILDING template;Genuastraat;7;;
+ANTWERPEN-WEST - FH01;4511909;1;0;0;1;MDU;C;Y;NA;4;4;;;Y;Review Required;BUILDING template;Braziliestraat;25;;Braziliestraat 25-27-29
+ANTWERPEN-WEST - FH01;4506352;1;0;1;2;MDU;D;Y;NA;1;4;;;Y;Review Required;BUILDING template;Genuastraat;10;;
+ANTWERPEN-WEST - FH01;4510542;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;14;;
+ANTWERPEN-WEST - FH01;2069017;9;0;2;11;MDU;A;N;IRREG;9;4;;;Y;;BUILDING template;Entrepotkaai;8;;Entrepotkaai 7-8-9-10
+ANTWERPEN-WEST - FH01;4506351;0;1;0;1;SDU;;Y;NA;2;4;;;Y;Review Required;BUILDING template;Genuastraat;8;;
+ANTWERPEN-WEST - FH01;1775218;0;1;0;1;MDU;C;Y;NA;5;4;;;;Review Required;BUILDING template;Braziliestraat;27;;Braziliestraat 25-27-29
+ANTWERPEN-WEST - FH01;4048591;10;0;2;12;MDU;XC;Y;NA;5;4;;;Y;Review Required;BUILDING template;Genuastraat;11;;
+ANTWERPEN-WEST - FH01;4506376;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Londenstraat;15;;
+ANTWERPEN-WEST - FH01;2069018;0;1;0;1;MDU;A;N;IRREG;2;6;;;Y;;BUILDING template;Entrepotkaai;9;;Entrepotkaai 7-8-9-10
+ANTWERPEN-WEST - FH01;1892421;4;1;2;7;MDU;XC;Y;NA;4;4;;;Y;Review Required;BUILDING template;Genuastraat;9;;
+ANTWERPEN-WEST - FH01;4511991;1;0;0;1;SDU;;Y;NA;5;4;;;Y;In aanbouw - En construction;BUILDING template;Braziliestraat;32;;
+ANTWERPEN-WEST - FH01;1892429;12;0;1;13;MDU;C;Y;NA;5;4;;;Y;BLOCKED BY SYNDICUS;BUILDING template;Genuastraat;12;;
+ANTWERPEN-WEST - FH01;1992508;3;1;1;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Londenstraat;21;;
+ANTWERPEN-WEST - FH01;2069019;14;0;2;16;MDU;A;N;IRREG;9;4;;;Y;;BUILDING template;Entrepotkaai;10;;Entrepotkaai 7-8-9-10
+ANTWERPEN-WEST - FH01;4070580;2;0;0;2;MDU;D;Y;NA;4;4;;;;;BUILDING template;Genuastraat;14;;
+ANTWERPEN-WEST - FH01;4511992;2;0;0;2;MDU;D;Y;NA;3;4;;;;Review Required;BUILDING template;Braziliestraat;34;;
+ANTWERPEN-WEST - FH01;1905254;3;0;0;3;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Godefriduskaai;4;;
+ANTWERPEN-WEST - FH01;1992564;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Londenstraat;45;;
+ANTWERPEN-WEST - FH01;2069022;7;0;2;9;MDU;A;N;IRREG;9;4;;;Y;;BUILDING template;Entrepotkaai;12;;Entrepotkaai 10A-11-12-13-14
+ANTWERPEN-WEST - FH01;108300;8;0;0;8;MDU;D;Y;NA;4;4;;;;;BUILDING template;Genuastraat;16;;
+ANTWERPEN-WEST - FH01;1786771;2;1;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Cadixstraat;3;;
+ANTWERPEN-WEST - FH01;4510648;1;1;0;2;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Godefriduskaai;6;;
+ANTWERPEN-WEST - FH01;1294704;8;0;0;8;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Londenstraat;47;;
+ANTWERPEN-WEST - FH01;3928764;0;1;0;1;MDU;A;N;IRREG;2;6;;;Y;;BUILDING template;Entrepotkaai;13;;Entrepotkaai 10A-11-12-13-14
+ANTWERPEN-WEST - FH01;1892503;4;1;0;5;MDU;D;Y;NA;5;4;;;;Genuastraat 17 en 19 hetzelfde gebouw;BUILDING template;Genuastraat;17;;
+ANTWERPEN-WEST - FH01;1905268;2;0;0;2;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Godefriduskaai;8;;Godefriduskaai 8-10
+ANTWERPEN-WEST - FH01;5906909;0;1;0;1;SDU;;N;IRREG;2;6;;;Y;We vermoeden dat dit een dienstingang is. Vormt samen met 58 een medium bu behoort tot gebouw londentower bnpparibas;BUILDING template;Londenstraat;56;;
+ANTWERPEN-WEST - FH01;5576507;10;0;2;12;MDU;A;N;IRREG;9;4;;;Y;;BUILDING template;Entrepotkaai;16;;Entrepotkaai 15-16
+ANTWERPEN-WEST - FH01;1905273;0;1;0;1;MDU;D;Y;NA;3;4;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Godefriduskaai;10;;Godefriduskaai 8-10
+ANTWERPEN-WEST - FH01;62443;0;7;1;8;MDU;XA;Y;NA;7;4;Dorpsgezicht;;;Gelijksvloers slager Millevaches;BUILDING template;Godefriduskaai;12;;
+ANTWERPEN-WEST - FH01;1088758;118;10;8;136;MDU;A;N;IRREG;23;4;;;Y;;BUILDING template;Londenstraat;60;;
+ANTWERPEN-WEST - FH01;1866317;0;1;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Entrepotplaats;10;;
+ANTWERPEN-WEST - FH01;62438;0;0;0;0;SDU;;Y;NA;1;4;Dorpsgezicht;;N;Review Required MON;BUILDING template;Godefriduskaai;14;;
+ANTWERPEN-WEST - FH01;185911;0;1;0;1;MDU;A;N;IRREG;2;6;;;Y;;BUILDING template;Entrepotkaai;3;;Entrepotkaai 3-4-5-6
+ANTWERPEN-WEST - FH01;1287193;0;5;1;6;MDU;XA;N;MON;6;4;Monument;;;Review Required MON;BUILDING template;Godefriduskaai;16;;
+ANTWERPEN-WEST - FH01;2015971;0;2;0;2;MDU;C;N;MON;3;9;Monument;;Y;Review Required MON;BUILDING template;Montevideostraat;3;;Montevideostraat 3_Rijnkaai 12-15
+ANTWERPEN-WEST - FH01;1295616;0;1;0;1;SDU;;Y;NA;6;4;;;Y;;BUILDING template;Entrepotplaats;12;;
+ANTWERPEN-WEST - FH01;62439;13;0;1;14;MDU;XA;Y;NA;8;4;Dorpsgezicht;;Y;Review Required Review Required MON;BUILDING template;Godefriduskaai;18;;Godefriduskaai 18-20-22
+ANTWERPEN-WEST - FH01;3954604;0;1;2;3;MDU;C;N;ORN;13;4;;;Y;Mas Museum;BUILDING template;Hanzestedenplaats;1;;
+ANTWERPEN-WEST - FH01;2015972;0;2;0;2;MDU;D;Y;NA;2;6;;;Y;Buildinggroep met 2A;BUILDING template;Montevideostraat;5;;Brazieliestraat 2A_Montevideostraat 5
+ANTWERPEN-WEST - FH01;1088919;12;0;1;13;MDU;XA;Y;NA;7;4;;;Y;;BUILDING template;Entrepotplaats;16;;
+ANTWERPEN-WEST - FH01;1905398;0;1;0;1;MDU;XA;Y;NA;6;4;Dorpsgezicht;;;Review Required Review Required MON;BUILDING template;Godefriduskaai;20;;Godefriduskaai 18-20-22
+ANTWERPEN-WEST - FH01;1948967;0;3;1;4;MDU;D;N;IRREG;3;0;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;Indiestraat;8;;
+ANTWERPEN-WEST - FH01;2024627;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;25;;
+ANTWERPEN-WEST - FH01;108958;9;0;1;10;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Genuastraat;1;;
+ANTWERPEN-WEST - FH01;62444;13;0;1;14;MDU;XA;Y;NA;8;4;Dorpsgezicht;;Y;Review Required Review Required MON;BUILDING template;Godefriduskaai;22;;Godefriduskaai 18-20-22
+ANTWERPEN-WEST - FH01;1089007;0;1;0;1;SDU;;N;IRREG;2;6;;;Y;;BUILDING template;Indiestraat;12;;
+ANTWERPEN-WEST - FH01;108791;1;2;0;3;MDU;D;Y;NA;4;4;;;;+ Dakappartement;BUILDING template;Napelsstraat;112;;
+ANTWERPEN-WEST - FH01;62437;8;6;1;15;MDU;XA;N;IRREG;6;4;Dorpsgezicht;;Y;Review Required Review Required MON;BUILDING template;Godefriduskaai;26;;Godefriduskaai 26-28
+ANTWERPEN-WEST - FH01;108940;1;0;1;2;MDU;D;Y;NA;2;4;;;;Multi ONU;BUILDING template;Indiestraat;36;;
+ANTWERPEN-WEST - FH01;108079;4;1;1;6;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Napoleonkaai;1;;
+ANTWERPEN-WEST - FH01;1090148;17;7;1;25;MDU;XA;Y;MON;8;4;Monument;;Y;Review Required Review Required MON;BUILDING template;Godefriduskaai;28;;Godefriduskaai 26-28
+ANTWERPEN-WEST - FH01;62065;0;11;5;16;MDU;A;N;IRREG;7;4;;;Y;;BUILDING template;Italielei;2;;
+ANTWERPEN-WEST - FH01;108080;0;1;0;1;SDU;;N;ORN;1;3;;;Y;;BUILDING template;Napoleonkaai;3;;
+ANTWERPEN-WEST - FH01;1905577;0;1;0;1;SDU;;Y;MON;7;4;Monument;;;Review Required MON;BUILDING template;Godefriduskaai;30;;
+ANTWERPEN-WEST - FH01;1950413;0;1;0;1;SDU;;N;GLASS;7;4;;;Y;;BUILDING template;Italielei;2;A;
+ANTWERPEN-WEST - FH01;2024759;10;0;1;11;MDU;XA;N;IRREG;6;4;;;Y;Review Required;BUILDING template;Napoleonkaai;13;;
+ANTWERPEN-WEST - FH01;4505623;15;0;1;16;MDU;XA;Y;NA;7;4;;;Y;Review Required;BUILDING template;Nassaustraat;14;;
+ANTWERPEN-WEST - FH01;62442;2;1;1;4;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Godefriduskaai;32;;
+ANTWERPEN-WEST - FH01;62060;0;1;0;1;SDU;;N;IRREG;6;4;;;Y;;BUILDING template;Italielei;4;;
+ANTWERPEN-WEST - FH01;2024771;8;0;1;9;MDU;XA;N;IRREG;6;4;;;Y;Buildinggroup Napoleonkaai;BUILDING template;Napoleonkaai;19;;
+ANTWERPEN-WEST - FH01;1206770;4;1;1;6;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Nassaustraat;18;;
+ANTWERPEN-WEST - FH01;4510651;1;0;0;1;SDU;;Y;NA;5;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Godefriduskaai;34;;
+ANTWERPEN-WEST - FH01;2024775;5;0;1;6;MDU;XA;N;IRREG;6;4;;;;;BUILDING template;Napoleonkaai;23;;
+ANTWERPEN-WEST - FH01;2024906;0;1;0;1;SDU;;Y;NA;6;4;;;;;BUILDING template;Nassaustraat;18;A;
+ANTWERPEN-WEST - FH01;62440;0;1;0;1;SDU;;Y;MON;6;4;Monument;;;Review Required MON;BUILDING template;Godefriduskaai;36;;
+ANTWERPEN-WEST - FH01;2024788;0;5;0;5;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Napoleonkaai;35;;
+ANTWERPEN-WEST - FH01;1128025;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Nassaustraat;31;;
+ANTWERPEN-WEST - FH01;62441;0;1;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Godefriduskaai;38;;
+ANTWERPEN-WEST - FH01;1960577;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Kattendijkdok-Westkaai;21;;
+ANTWERPEN-WEST - FH01;2024805;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;Review Required;BUILDING template;Napoleonkaai;41;;
+ANTWERPEN-WEST - FH01;4155271;5;1;0;6;MDU;C;Y;NA;5;4;;;Y;;BUILDING template;Nassaustraat;33;;
+ANTWERPEN-WEST - FH01;1905601;6;1;1;8;MDU;C;N;MON;3;12;Monument;;;De twee schachten zijn in elk appartement bereikbaar;BUILDING template;Godefriduskaai;50;;
+ANTWERPEN-WEST - FH01;1960581;5;1;1;7;MDU;E;Y;NA;6;4;;;Y;Review Required;BUILDING template;Kattendijkdok-Westkaai;26;;
+ANTWERPEN-WEST - FH01;108794;0;1;0;1;MDU;A;N;ORN;1;3;;;Y;;BUILDING template;Napoleonkaai;45;;Kribbestraat 19_Napoleonkaai 45
+ANTWERPEN-WEST - FH01;109069;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Nassaustraat;36;;
+ANTWERPEN-WEST - FH01;1905643;2;1;0;3;MDU;D;N;IRREG;5;12;;;Y;;BUILDING template;Godefriduskaai;52;;
+ANTWERPEN-WEST - FH01;108948;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Indiestraat;4;;
+ANTWERPEN-WEST - FH01;1195063;39;2;3;44;MDU;A;N;IRREG;15;4;;;Y;;BUILDING template;Kattendijkdok-Westkaai;41;;Kattendijkdok Westkaai 41-42-43
+ANTWERPEN-WEST - FH01;1128035;5;1;2;8;MDU;A;N;ORN;6;4;;;Y;;BUILDING template;Napoleonkaai;51;;
+ANTWERPEN-WEST - FH01;2024953;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Nassaustraat;40;;
+ANTWERPEN-WEST - FH01;12721;0;5;2;7;MDU;C;Y;NA;4;12;;;Y;;BUILDING template;Indiestraat;2;;
+ANTWERPEN-WEST - FH01;108067;0;1;0;1;MDU;A;Y;NA;1;4;;;Y;Metropool vastgoed is nr1 Appartementen zijn nr3.;BUILDING template;Nassaustraat;1;;Nassaustraat 1-3
+ANTWERPEN-WEST - FH01;1366835;4;5;1;10;MDU;C;N;MON;3;12;Monument;;Y;Gebouw uit twee vleugels. Enkel linkervleugel aansluitbaar. Gevel is beschermd en rechterdeel is niet onderkelderd;BUILDING template;Oudeleeuwenrui;19;;
+ANTWERPEN-WEST - FH01;1986487;0;1;0;1;SDU;;N;IRREG;3;0;Dorpsgezicht;;;Eigenares gesproken : zij wonen er en hebben 4 B&B kamers ( 1 facturatieadres );BUILDING template;Oudeleeuwenrui;23;;
+ANTWERPEN-WEST - FH01;1949119;4;1;1;6;MDU;D;N;IRREG;5;4;;;;;BUILDING template;Indiestraat;26;;
+ANTWERPEN-WEST - FH01;1128028;12;1;1;14;MDU;XA;Y;NA;6;4;;;Y;Review Required;BUILDING template;Nassaustraat;4;;
+ANTWERPEN-WEST - FH01;186519;0;1;0;1;SDU;;Y;NA;6;4;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Oudeleeuwenrui;29;;
+ANTWERPEN-WEST - FH01;1949129;0;3;2;5;MDU;D;Y;NA;4;4;;;;;BUILDING template;Indiestraat;28;;
+ANTWERPEN-WEST - FH01;2024873;4;1;1;6;MDU;C;Y;NA;5;4;;;Y;BLOCKED BY SYNDICUS;BUILDING template;Nassaustraat;10;;
+ANTWERPEN-WEST - FH01;186518;0;4;1;5;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;37;;
+ANTWERPEN-WEST - FH01;1949160;2;1;1;4;MDU;D;Y;NA;3;4;;;Y;Review Required;BUILDING template;Indiestraat;30;;
+ANTWERPEN-WEST - FH01;2024875;4;1;1;6;MDU;XA;Y;NA;6;4;;;;Review Required;BUILDING template;Nassaustraat;11;;
+ANTWERPEN-WEST - FH01;4505462;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Indiestraat;32;;
+ANTWERPEN-WEST - FH01;4274709;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Nassaustraat;12;;
+ANTWERPEN-WEST - FH01;3989962;2;4;1;7;MDU;A;N;IRREG;6;4;;;Y;;BUILDING template;Rijnkaai;23;;
+ANTWERPEN-WEST - FH01;1949181;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Indiestraat;34;;
+ANTWERPEN-WEST - FH01;2047595;8;0;1;9;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Rijnkaai;28;;
+ANTWERPEN-WEST - FH01;1734625;0;1;0;1;SDU;;Y;NA;5;4;;;Y;In aanbouw - En construction toekomstige hotel;BUILDING template;Sint-Aldegondiskaai;18;;
+ANTWERPEN-WEST - FH01;3962177;0;1;0;1;MDU;XA;N;ORN;6;4;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;Sint-Aldegondiskaai;40;;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27
+ANTWERPEN-WEST - FH01;4509558;0;1;0;1;SDU;;Y;NA;3;4;;;;Review Required;BUILDING template;Sint-Laureiskaai;8;;
+ANTWERPEN-WEST - FH01;108937;0;1;0;1;SDU;;N;MON;2;6;Monument;;Y;Review Required MON;BUILDING template;Kattendijkdok-Oostkaai;3;;
+ANTWERPEN-WEST - FH01;59300;7;0;2;9;MDU;C;N;IRREG;6;4;Dorpsgezicht;;Y;Review Required MON;BUILDING template;Spanjaardsteeg;21;;Van Schoonbekeplein 11_Spanjaardsteeg 21
+ANTWERPEN-WEST - FH01;1960564;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Kattendijkdok-Oostkaai;6;;
+ANTWERPEN-WEST - FH01;59289;0;17;2;19;MDU;XA;Y;NA;12;4;;;Y;;BUILDING template;Tavernierkaai;2;;
+ANTWERPEN-WEST - FH01;1960565;1;1;0;2;MDU;D;Y;NA;3;4;;;;;BUILDING template;Kattendijkdok-Oostkaai;7;;
+ANTWERPEN-WEST - FH01;1960566;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Kattendijkdok-Oostkaai;8;;
+ANTWERPEN-WEST - FH01;1960567;5;4;0;9;MDU;D;Y;NA;5;4;;;Y;Verbouwingen zijn nog bezig. De werkman vermoed 9 appartementen;BUILDING template;Kattendijkdok-Oostkaai;9;;
+ANTWERPEN-WEST - FH01;1960569;4;2;0;6;MDU;D;Y;NA;5;4;;;;;BUILDING template;Kattendijkdok-Oostkaai;11;;
+ANTWERPEN-WEST - FH01;1960570;3;0;1;4;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Kattendijkdok-Oostkaai;12;;
+ANTWERPEN-WEST - FH01;59298;2;0;0;2;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;1;;
+ANTWERPEN-WEST - FH01;1960571;7;0;0;7;MDU;C;Y;NA;4;4;;;;Blocked: geen toegang;BUILDING template;Kattendijkdok-Oostkaai;13;;
+ANTWERPEN-WEST - FH01;2051446;4;1;0;5;MDU;D;Y;NA;4;4;Dorpsgezicht;;Y;Review Required Review Required MON;BUILDING template;Van Schoonbekeplein;5;;
+ANTWERPEN-WEST - FH01;1960572;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Kattendijkdok-Oostkaai;14;;
+ANTWERPEN-WEST - FH01;2051449;3;1;0;4;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;7;;
+ANTWERPEN-WEST - FH01;6077503;0;1;0;1;SDU;;Y;NA;5;6;;;;_;BUILDING template;Londenstraat;49;;
+ANTWERPEN-WEST - FH01;1960573;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kattendijkdok-Oostkaai;15;;
+ANTWERPEN-WEST - FH01;2059541;3;1;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Verbindingsdok-Oostkaai;3;;
+ANTWERPEN-WEST - FH01;108939;0;1;0;1;SDU;;Y;NA;2;6;;;;;BUILDING template;Kattendijkdok-Oostkaai;5;;
+ANTWERPEN-WEST - FH01;4505471;2;0;0;2;MDU;D;Y;NA;3;4;;;;;BUILDING template;Kattendijkdok-Oostkaai;16;;
+ANTWERPEN-WEST - FH01;5508518;20;0;2;22;MDU;X;N;IRREG;6;4;;;Y;4 verdiepingen. Kan het niet anders ingeven dan 6 verdiepingen;BUILDING template;Verbindingsdok-Oostkaai;23;;
+ANTWERPEN-WEST - FH01;6463255;2;0;0;2;MDU;D;Y;NA;4;4;;;;_;BUILDING template;Catharina Pepijnstraat;3;A;
+ANTWERPEN-WEST - FH01;108936;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Kattendijkdok-Oostkaai;17;;
+ANTWERPEN-WEST - FH01;5507311;0;1;0;1;SDU;;N;IRREG;1;4;Beschermd Erfgoed;;Y;Review Required Review Required MON;BUILDING template;Verbindingsdok-Oostkaai;29;;
+ANTWERPEN-WEST - FH01;2059552;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;Verbindingsdok-Westkaai;12;;
+ANTWERPEN-WEST - FH01;1128037;0;1;0;1;SDU;;Y;NA;5;4;;;Y;SDU welke al is voorzien van een Proximus glasvezelaansluiting.;BUILDING template;Kattendijkdok-Westkaai;16;;
+ANTWERPEN-WEST - FH01;2059556;6;1;1;8;MDU;XA;Y;NA;7;4;;;;;BUILDING template;Verbindingsdok-Westkaai;18;;
+ANTWERPEN-WEST - FH01;1960580;3;1;0;4;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Kattendijkdok-Westkaai;25;;
+ANTWERPEN-WEST - FH01;1128020;0;1;0;1;SDU;;N;ORN;1;3;;;Y;;BUILDING template;Verbindingsdok-Westkaai;24;;
+ANTWERPEN-WEST - FH01;1960582;3;3;0;6;MDU;C;Y;NA;4;4;;;Y;Review Required;BUILDING template;Kattendijkdok-Westkaai;27;;
+ANTWERPEN-WEST - FH01;62435;0;1;0;1;SDU;;Y;NA;2;4;Dorpsgezicht;;Y;Review Required Review Required MON;BUILDING template;Zeevaartstraat;1;;
+ANTWERPEN-WEST - FH01;1960583;2;1;1;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Review Required Review Required MON;BUILDING template;Kattendijkdok-Westkaai;28;;
+ANTWERPEN-WEST - FH01;5576453;0;1;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;Co werkplek. Hebben alleen gsm's;BUILDING template;Zeevaartstraat;2;;
+ANTWERPEN-WEST - FH01;1960584;11;1;1;13;MDU;A;Y;NA;6;4;;;Y;Review Required;BUILDING template;Kattendijkdok-Westkaai;29;;
+ANTWERPEN-WEST - FH01;62434;0;2;0;2;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Zeevaartstraat;3;;
+ANTWERPEN-WEST - FH01;1960586;0;1;0;1;MDU;A;N;IRREG;1;3;;;Y;;BUILDING template;Kattendijkdok-Westkaai;31;;Kattendijkdok-Westkaai 31-32-32A
+ANTWERPEN-WEST - FH01;1960587;10;0;1;11;MDU;A;N;IRREG;6;4;;;Y;Blocked: geen toegang verleend door bewoners;BUILDING template;Kattendijkdok-Westkaai;32;;Kattendijkdok-Westkaai 31-32-32A
+ANTWERPEN-WEST - FH01;11985;2;1;0;3;MDU;D;Y;NA;3;4;;;;Review Required;BUILDING template;Kattendijkdok-Westkaai;33;;
+ANTWERPEN-WEST - FH01;1960880;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Kempischdok-Westkaai;6;;
+ANTWERPEN-WEST - FH01;1960881;1;0;1;2;MDU;D;Y;NA;4;4;;;;Multi ONU;BUILDING template;Kempischdok-Westkaai;8;;
+ANTWERPEN-WEST - FH01;4048873;1;0;1;2;MDU;D;Y;NA;3;4;;;;Multi ONU;BUILDING template;Kempischdok-Westkaai;10;;
+ANTWERPEN-WEST - FH01;1960882;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;12;;
+ANTWERPEN-WEST - FH01;5507310;0;1;0;1;SDU;;N;IRREG;1;4;;;;;BUILDING template;Verbindingsdok-Oostkaai;27;;
+ANTWERPEN-WEST - FH01;4505465;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;14;;Kempischdok-Westkaai 14-20
+ANTWERPEN-WEST - FH01;1960897;10;0;1;11;MDU;XA;N;IRREG;6;4;;;Y;;BUILDING template;Kempischdok-Westkaai;100;;
+ANTWERPEN-WEST - FH01;5507309;0;1;0;1;SDU;;N;IRREG;1;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Verbindingsdok-Oostkaai;21;;
+ANTWERPEN-WEST - FH01;108288;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;26;;
+ANTWERPEN-WEST - FH01;1960886;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;30;;
+ANTWERPEN-WEST - FH01;1755772;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Bordeauxstraat;7;B;
+ANTWERPEN-WEST - FH01;6198471;0;1;0;1;SDU;;Y;NA;11;4;;;;;BUILDING template;Sint-Aldegondiskaai;2;;
+ANTWERPEN-WEST - FH01;1960887;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;32;;
+ANTWERPEN-WEST - FH01;59266;0;0;0;0;SDU;;N;MON;4;12;Monument;;N;Gebouw bestaat niet meer;BUILDING template;Korte Zeevaartstraat;2;;
+ANTWERPEN-WEST - FH01;1960888;1;1;0;2;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;34;;
+ANTWERPEN-WEST - FH01;1128032;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Londenstraat;30;;
+ANTWERPEN-WEST - FH01;108785;3;0;0;3;MDU;A;Y;NA;3;4;;;;;BUILDING template;Kribbestraat;2;;Kribbestraat 2-4
+ANTWERPEN-WEST - FH01;4513307;0;1;0;1;SDU;;N;ORN;0;12;;;Y;In aanbouw - En construction;BUILDING template;Sint-Aldegondiskaai;24;;
+ANTWERPEN-WEST - FH01;4506388;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;36;;
+ANTWERPEN-WEST - FH01;1970926;10;2;2;14;MDU;A;N;IRREG;5;4;;;Y;;BUILDING template;Kribbestraat;3;;
+ANTWERPEN-WEST - FH01;3962176;12;0;2;14;MDU;XA;Y;NA;6;4;;;;Kelder gemeenschappelijk met nr 36-40 en met Adriaan Brouwerstraat 27;BUILDING template;Sint-Aldegondiskaai;38;;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27
+ANTWERPEN-WEST - FH01;108287;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;38;;
+ANTWERPEN-WEST - FH01;1970943;11;0;2;14;MDU;XA;N;IRREG;7;4;;;Y;;BUILDING template;Kribbestraat;6;;Kribbestraat 6-8
+ANTWERPEN-WEST - FH01;6242346;0;1;0;1;MDU;XA;Y;NA;5;4;;;;Review Required;BUILDING template;Sint-Aldegondiskaai;42;;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27
+ANTWERPEN-WEST - FH01;108284;0;1;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Kempischdok-Westkaai;74;;
+ANTWERPEN-WEST - FH01;1970933;5;1;0;6;MDU;XA;Y;NA;6;4;;;;;BUILDING template;Kribbestraat;4;;Kribbestraat 2-4
+ANTWERPEN-WEST - FH01;1970946;0;1;0;1;MDU;XA;N;IRREG;1;3;;;Y;;BUILDING template;Kribbestraat;8;;Kribbestraat 6-8
+ANTWERPEN-WEST - FH01;62432;6;0;0;6;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;1;;
+ANTWERPEN-WEST - FH01;1960890;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;76;;
+ANTWERPEN-WEST - FH01;1970954;3;0;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Kribbestraat;10;;
+ANTWERPEN-WEST - FH01;1960891;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;78;;
+ANTWERPEN-WEST - FH01;186506;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Kribbestraat;12;;
+ANTWERPEN-WEST - FH01;1986483;3;1;0;4;MDU;D;N;IRREG;4;12;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;21;;
+ANTWERPEN-WEST - FH01;1960892;4;1;0;5;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kempischdok-Westkaai;80;;
+ANTWERPEN-WEST - FH01;1970973;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Kribbestraat;13;;
+ANTWERPEN-WEST - FH01;1960893;2;0;0;2;MDU;D;Y;NA;3;4;;;;;BUILDING template;Kempischdok-Westkaai;82;;
+ANTWERPEN-WEST - FH01;5804911;0;1;0;1;MDU;A;N;ORN;16;4;;;;;BUILDING template;Kattendijkdok-Westkaai;56;;Kattendijkdok Westkaai 51-54-56
+ANTWERPEN-WEST - FH01;4506128;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Kribbestraat;14;;
+ANTWERPEN-WEST - FH01;62436;1;0;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;;BUILDING template;Zeevaartstraat;4;;
+ANTWERPEN-WEST - FH01;1986500;4;1;0;5;MDU;D;Y;NA;4;4;Dorpsgezicht;;;Onder de dak 2 studios 1 op straat, de andere achter, 1 kabel moet binnen naar de laatste verdieping;BUILDING template;Oudeleeuwenrui;27;;
+ANTWERPEN-WEST - FH01;4016605;0;1;0;1;SDU;;N;IRREG;6;4;;;Y;;BUILDING template;Kempischdok-Westkaai;98;;
+ANTWERPEN-WEST - FH01;1970980;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Kribbestraat;15;;
+ANTWERPEN-WEST - FH01;108273;1;0;0;1;MDU;XA;N;IRREG;0;0;;;;;BUILDING template;August Michielsstraat;26;;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67
+ANTWERPEN-WEST - FH01;1986523;2;0;0;2;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;37;A;
+ANTWERPEN-WEST - FH01;4505630;0;2;0;2;MDU;D;Y;NA;4;4;;;;;BUILDING template;Nassaustraat;41;;
+ANTWERPEN-WEST - FH01;108782;0;5;0;5;MDU;D;Y;NA;5;4;;;Y;Review Required;BUILDING template;Kribbestraat;24;;
+ANTWERPEN-WEST - FH01;108276;1;1;0;2;MDU;D;Y;NA;4;4;;;;;BUILDING template;August Michielsstraat;2;;
+ANTWERPEN-WEST - FH01;1088925;0;2;1;3;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Oudeleeuwenrui;39;;
+ANTWERPEN-WEST - FH01;108306;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Londenstraat;1;;
+ANTWERPEN-WEST - FH01;108282;0;1;0;1;SDU;;N;ORN;3;0;;;;;BUILDING template;Kempischdok-Westkaai;92;;
+ANTWERPEN-WEST - FH01;2066334;0;2;0;2;MDU;D;Y;NA;3;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Zeevaartstraat;10;;
+ANTWERPEN-WEST - FH01;109143;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;2;;
+ANTWERPEN-WEST - FH01;108941;20;0;1;21;MDU;XC;N;IRREG;5;0;;;;;BUILDING template;Indiestraat;22;;
+ANTWERPEN-WEST - FH01;1992574;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;53;A;
+ANTWERPEN-WEST - FH01;109146;3;1;0;4;MDU;D;Y;NA;3;4;;;;;BUILDING template;Londenstraat;4;;
+ANTWERPEN-WEST - FH01;1933982;0;1;0;1;SDU;;N;IRREG;0;4;;;;;BUILDING template;Hanzestedenplaats;3;;
+ANTWERPEN-WEST - FH01;4510623;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Ankerrui;1;;
+ANTWERPEN-WEST - FH01;1992477;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;5;;
+ANTWERPEN-WEST - FH01;2066333;1;0;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;;;BUILDING template;Zeevaartstraat;8;;
+ANTWERPEN-WEST - FH01;62445;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;Review Required MON;BUILDING template;Ankerrui;3;;
+ANTWERPEN-WEST - FH01;1992481;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;6;;
+ANTWERPEN-WEST - FH01;4004297;5;2;0;7;MDU;XA;N;IRREG;7;4;;;;;BUILDING template;Rijnkaai;33;;
+ANTWERPEN-WEST - FH01;1735144;0;1;0;1;SDU;;Y;NA;5;4;;;;Hoort bij nummer 5;BUILDING template;Ankerrui;7;;
+ANTWERPEN-WEST - FH01;1992482;2;0;0;2;MDU;D;Y;NA;3;4;;;Y;Review Required;BUILDING template;Catharina Pepijnstraat;7;;
+ANTWERPEN-WEST - FH01;6419169;1;0;0;1;MDU;C;N;IRREG;3;4;;;;;BUILDING template;Braziliestraat;2;D;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E
+ANTWERPEN-WEST - FH01;5575022;0;8;1;9;MDU;A;Y;NA;6;4;;;;;BUILDING template;Ankerrui;13;;Ankerrui 11-13
+ANTWERPEN-WEST - FH01;52549;1;0;1;1;MDU;D;Y;NA;4;4;;;;;BUILDING template;Braziliestraat;43;;Amsterdamstraat 21_Braziliestraat 43
+ANTWERPEN-WEST - FH01;1992485;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Londenstraat;8;;
+ANTWERPEN-WEST - FH01;6419634;1;0;0;1;MDU;C;N;IRREG;3;4;;;;;BUILDING template;Braziliestraat;2;C;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E
+ANTWERPEN-WEST - FH01;2028886;0;14;4;18;MDU;A;N;HEIGHT;7;4;;;;;BUILDING template;Noorderplaats;5;;Noorderplaats 5-7-9
+ANTWERPEN-WEST - FH01;1992488;1;1;0;2;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;10;;
+ANTWERPEN-WEST - FH01;4128344;0;14;4;18;MDU;A;N;HEIGHT;7;4;;;;;BUILDING template;Noorderplaats;7;;Noorderplaats 5-7-9
+ANTWERPEN-WEST - FH01;4511917;0;0;1;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Braziliestraat;39;;
+ANTWERPEN-WEST - FH01;1506186;6;0;0;6;MDU;D;Y;NA;4;4;;;;;BUILDING template;Catharina Pepijnstraat;11;;
+ANTWERPEN-WEST - FH01;1992495;1;0;0;1;SDU;;N;IRREG;4;12;;;Y;;BUILDING template;Londenstraat;16;;
+ANTWERPEN-WEST - FH01;4511993;3;0;1;4;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Braziliestraat;36;;
+ANTWERPEN-WEST - FH01;109147;0;1;0;1;SDU;;N;IRREG;1;3;;;Y;;BUILDING template;Londenstraat;18;;
+ANTWERPEN-WEST - FH01;108796;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Afbraak -  Démolition;BUILDING template;Londenstraat;20;;
+ANTWERPEN-WEST - FH01;1992511;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Londenstraat;23;;
+ANTWERPEN-WEST - FH01;1992517;0;1;0;1;SDU;;Y;NA;5;4;;;Y;Review Required;BUILDING template;Londenstraat;24;;
+ANTWERPEN-WEST - FH01;1992519;0;1;1;2;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Londenstraat;25;;
+ANTWERPEN-WEST - FH01;4511908;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Braziliestraat;21;;
+ANTWERPEN-WEST - FH01;1992528;3;1;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Londenstraat;27;;
+ANTWERPEN-WEST - FH01;3918458;2;0;2;4;MDU;C;Y;NA;5;4;;;;Blocked : weigering eigenaar;BUILDING template;Braziliestraat;29;;Braziliestraat 25-27-29
+ANTWERPEN-WEST - FH01;108797;0;5;0;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;Review Required MON;BUILDING template;Londenstraat;28;;
+ANTWERPEN-WEST - FH01;1992540;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;29;;
+ANTWERPEN-WEST - FH01;108305;0;1;0;1;SDU;;Y;NA;4;4;;;;Review Required;BUILDING template;Londenstraat;31;;
+ANTWERPEN-WEST - FH01;1775171;0;0;0;0;SDU;;N;ORN;5;4;;;N;;BUILDING template;Braziliestraat;6;;
+ANTWERPEN-WEST - FH01;4506338;0;1;0;1;SDU;;N;IRREG;1;3;;;;;BUILDING template;Kempischdok-Westkaai;102;;
+ANTWERPEN-WEST - FH01;4511926;0;1;0;1;MDU;A;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;54;;Kattendijkdok Westkaai 51-54-56
+ANTWERPEN-WEST - FH01;108285;0;1;0;1;SDU;;N;IRREG;2;6;;;;;BUILDING template;Kempischdok-Westkaai;72;;
+ANTWERPEN-WEST - FH01;108799;3;1;0;4;MDU;D;Y;NA;4;4;;;;Op tekening gemengd ondergronds/gevel, wordt gevel;BUILDING template;Londenstraat;38;;
+ANTWERPEN-WEST - FH01;5537964;0;1;0;1;MDU;A;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;65;;Kattendijkdok Westkaai 61-63-65
+ANTWERPEN-WEST - FH01;1992550;0;1;0;1;MDU;XA;N;IRREG;1;4;;;Y;Review Required;BUILDING template;Londenstraat;39;;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67
+ANTWERPEN-WEST - FH01;5899748;0;1;0;1;MDU;E;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;73;;Kattendijkdok Westkaai 71-72-73
+ANTWERPEN-WEST - FH01;1960885;5;0;1;6;MDU;XC;Y;NA;5;4;;;;;BUILDING template;Kempischdok-Westkaai;28;;
+ANTWERPEN-WEST - FH01;1992553;10;0;1;11;MDU;A;N;IRREG;6;12;;;Y;BLOCKED : in aanbouw;BUILDING template;Londenstraat;40;;Londenstraat 40-42
+ANTWERPEN-WEST - FH01;6008100;0;1;0;1;MDU;E;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;72;;Kattendijkdok Westkaai 71-72-73
+ANTWERPEN-WEST - FH01;4505441;0;1;0;1;SDU;;Y;NA;5;4;;;;Review Required;BUILDING template;Napelsstraat;8;;
+ANTWERPEN-WEST - FH01;4506340;0;1;0;1;SDU;;N;MON;1;3;Monument;;Y;Review Required MON;BUILDING template;Londenstraat;41;;
+ANTWERPEN-WEST - FH01;6187119;0;1;0;1;MDU;A;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;63;;Kattendijkdok Westkaai 61-63-65
+ANTWERPEN-WEST - FH01;1992555;0;1;0;1;MDU;A;N;IRREG;4;12;;;Y;BG londenstraat 40-42;BUILDING template;Londenstraat;42;;Londenstraat 40-42
+ANTWERPEN-WEST - FH01;6521029;0;1;0;1;MDU;E;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;82;;Kattendijkdok Westkaai 81-82-83
+ANTWERPEN-WEST - FH01;1892380;7;0;2;9;MDU;D;Y;NA;4;4;;;;Dit wordt QD met virtuele BDFO;BUILDING template;Genuastraat;4;A;
+ANTWERPEN-WEST - FH01;1992559;0;1;0;1;SDU;;N;MON;5;4;Monument;;Y;Review Required MON;BUILDING template;Londenstraat;43;;
+ANTWERPEN-WEST - FH01;6521030;0;1;0;1;MDU;E;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;93;;Kattendijkdok Westkaai 91-92-93
+ANTWERPEN-WEST - FH01;2047563;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Rigastraat;30;;
+ANTWERPEN-WEST - FH01;1992561;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;44;;
+ANTWERPEN-WEST - FH01;6592314;0;1;0;1;SDU;;N;IRREG;1;0;;;;;BUILDING template;Kempischdok-Westkaai;61;;
+ANTWERPEN-WEST - FH01;1992566;1;1;0;2;MDU;D;Y;NA;3;4;;;;;BUILDING template;Londenstraat;46;;
+ANTWERPEN-WEST - FH01;6605117;0;1;0;1;MDU;E;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;83;;Kattendijkdok Westkaai 81-82-83
+ANTWERPEN-WEST - FH01;4506382;0;1;0;1;SDU;;N;ORN;3;9;Beschermd Erfgoed;;;Kot;BUILDING template;August Michielsstraat;21;;
+ANTWERPEN-WEST - FH01;1992570;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Londenstraat;48;;
+ANTWERPEN-WEST - FH01;6605118;0;1;0;1;MDU;E;N;IRREG;1;0;;;;;BUILDING template;Kattendijkdok-Westkaai;92;;Kattendijkdok Westkaai 91-92-93
+ANTWERPEN-WEST - FH01;108274;0;1;0;1;SDU;;N;IRREG;1;0;;;;Review Required MON;BUILDING template;August Michielsstraat;13;;
+ANTWERPEN-WEST - FH01;108800;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Londenstraat;50;;
+ANTWERPEN-WEST - FH01;108801;0;1;0;1;SDU;;N;MON;4;12;Monument;;Y;Review Required MON;BUILDING template;Londenstraat;52;;
+ANTWERPEN-WEST - FH01;5448225;0;1;0;1;SDU;;Y;NA;1;4;;;;;BUILDING template;Cadixstraat;55;;
+ANTWERPEN-WEST - FH01;108929;11;1;2;14;MDU;XA;Y;NA;6;15;;;;;BUILDING template;Cadixstraat;7;;
+ANTWERPEN-WEST - FH01;2024620;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;21;;
+ANTWERPEN-WEST - FH01;5911749;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Cadixstraat;53;;
+ANTWERPEN-WEST - FH01;2024624;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;23;;
+ANTWERPEN-WEST - FH01;6027745;0;1;0;1;MDU;C;N;ORN;1;3;;;;;BUILDING template;Cadixstraat;51;A;Cadixstraat 49-49A-51-51A
+ANTWERPEN-WEST - FH01;2024631;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;27;;
+ANTWERPEN-WEST - FH01;6027282;0;1;0;1;MDU;C;N;ORN;1;3;;;;;BUILDING template;Cadixstraat;49;A;Cadixstraat 49-49A-51-51A
+ANTWERPEN-WEST - FH01;2024634;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;29;;
+ANTWERPEN-WEST - FH01;108297;0;1;0;1;MDU;C;N;ORN;1;3;;;;;BUILDING template;Cadixstraat;49;;Cadixstraat 49-49A-51-51A
+ANTWERPEN-WEST - FH01;4506358;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;31;;
+ANTWERPEN-WEST - FH01;6427222;0;1;0;1;MDU;C;N;ORN;1;3;;;;;BUILDING template;Cadixstraat;47;C;Cadixstraat 45-47-47A-47C
+ANTWERPEN-WEST - FH01;2024639;0;1;0;1;MDU;D;Y;NA;2;4;;;Y;Review Required;BUILDING template;Napelsstraat;32;;Napelsstraat 32-34
+ANTWERPEN-WEST - FH01;6375622;0;1;0;1;MDU;C;N;ORN;1;3;;;;;BUILDING template;Cadixstraat;47;A;Cadixstraat 45-47-47A-47C
+ANTWERPEN-WEST - FH01;4506359;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;33;;
+ANTWERPEN-WEST - FH01;4506391;0;1;0;1;MDU;C;N;ORN;1;3;;;;;BUILDING template;Cadixstraat;45;;Cadixstraat 45-47-47A-47C
+ANTWERPEN-WEST - FH01;108332;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;35;;
+ANTWERPEN-WEST - FH01;4506389;0;1;0;1;SDU;;N;ORN;3;0;;;;Review Required;BUILDING template;Cadixstraat;41;;
+ANTWERPEN-WEST - FH01;108951;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;36;;
+ANTWERPEN-WEST - FH01;108331;0;1;0;1;SDU;;N;MON;4;12;Monument;;Y;Review Required MON;BUILDING template;Napelsstraat;37;;
+ANTWERPEN-WEST - FH01;5576029;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napelsstraat;38;;
+ANTWERPEN-WEST - FH01;108291;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;Review Required;BUILDING template;Napelsstraat;42;;
+ANTWERPEN-WEST - FH01;108308;0;1;0;1;SDU;;N;ORN;9;0;;;;Review Required;BUILDING template;Napelsstraat;51;;
+ANTWERPEN-WEST - FH01;4083535;0;1;0;1;SDU;;N;IRREG;1;3;;;;Afbraak -  Démolition;BUILDING template;Napelsstraat;55;;
+ANTWERPEN-WEST - FH01;2024662;0;1;0;1;SDU;;N;IRREG;0;0;;;;;BUILDING template;Napelsstraat;57;;
+ANTWERPEN-WEST - FH01;108294;16;0;2;18;MDU;XA;N;IRREG;6;4;;;Y;Review Required;BUILDING template;Napelsstraat;63;;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67
+ANTWERPEN-WEST - FH01;108293;12;0;2;14;MDU;XA;N;IRREG;6;4;;;Y;Review Required;BUILDING template;Napelsstraat;65;;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67
+ANTWERPEN-WEST - FH01;108292;15;1;2;18;MDU;XA;N;IRREG;6;4;;;Y;Review Required;BUILDING template;Napelsstraat;67;;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67
+ANTWERPEN-WEST - FH01;1215943;0;1;0;1;SDU;;N;IRREG;6;4;;;Y;;BUILDING template;Napelsstraat;79;;
+ANTWERPEN-WEST - FH01;108290;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Napelsstraat;104;;
+ANTWERPEN-WEST - FH01;2024695;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Napelsstraat;106;;
+ANTWERPEN-WEST - FH01;2024698;3;1;0;4;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Napelsstraat;108;;
+ANTWERPEN-WEST - FH01;108289;2;1;0;3;MDU;D;Y;NA;5;4;;;;6 bouwlagen maar studentenkamers (qua aansluiting te beschouwen als duplex);BUILDING template;Napelsstraat;110;;
+ANTWERPEN-WEST - FH01;59274;5;1;1;7;MDU;XA;Y;NA;7;4;;;;5de, 6de en 7de verdieping van Sint-Aldegondiskaai 10;BUILDING template;Adriaan Brouwerstraat;9;;Sint-Aldegondiskaai 10_ Adriaan Brouwerstraat 9
+ANTWERPEN-WEST - FH01;2024710;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Napelsstraat;114;;
+ANTWERPEN-WEST - FH01;59272;6;1;2;9;MDU;XA;Y;NA;6;4;;;;Review Required;BUILDING template;Adriaan Brouwerstraat;3;;
+ANTWERPEN-WEST - FH01;2024713;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Napelsstraat;116;;
+ANTWERPEN-WEST - FH01;2024715;0;1;0;1;SDU;;Y;NA;1;4;;;;Review Required;BUILDING template;Napelsstraat;118;;
+ANTWERPEN-WEST - FH01;2024723;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Napelsstraat;122;;
+ANTWERPEN-WEST - FH01;3959497;0;1;0;1;SDU;;N;ORN;1;0;;;;;BUILDING template;Hanzestedenplaats;15;;
+ANTWERPEN-WEST - FH01;2024728;0;1;0;1;SDU;;Y;NA;4;4;;;;Review Required;BUILDING template;Napelsstraat;126;;
+ANTWERPEN-WEST - FH01;6590994;0;1;0;1;SDU;;N;ORN;1;0;;;;;BUILDING template;Hanzestedenplaats;7;;
+ANTWERPEN-WEST - FH01;4513293;0;1;0;1;SDU;;Y;NA;1;4;Dorpsgezicht;;;Review Required MON;BUILDING template;Van Schoonbekeplein;17;;
+ANTWERPEN-WEST - FH01;2024731;0;1;0;1;SDU;;Y;NA;4;4;;;;Review Required;BUILDING template;Napelsstraat;128;;
+ANTWERPEN-WEST - FH01;6590995;0;1;0;1;SDU;;N;ORN;1;0;;;;;BUILDING template;Hanzestedenplaats;11;;
+ANTWERPEN-WEST - FH01;59297;0;1;0;1;SDU;;Y;NA;1;4;Dorpsgezicht;;;Review Required Review Required MON;BUILDING template;Van Schoonbekeplein;9;;
+ANTWERPEN-WEST - FH01;108790;0;1;0;1;SDU;;Y;NA;4;4;;;;Review Required;BUILDING template;Napelsstraat;130;;
+ANTWERPEN-WEST - FH01;6590996;0;1;0;1;SDU;;N;ORN;1;0;;;;;BUILDING template;Hanzestedenplaats;19;;
+ANTWERPEN-WEST - FH01;4510637;4;0;0;4;MDU;C;N;ORN;4;0;;;;Afbraakpand / renovatiepand: staat leeg;BUILDING template;Godefriduskaai;54;;
+ANTWERPEN-WEST - FH01;2024753;0;1;0;1;SDU;;N;IRREG;1;3;;;Y;;BUILDING template;Napoleonkaai;5;;
+ANTWERPEN-WEST - FH01;6590997;0;1;0;1;SDU;;N;ORN;1;0;;;;;BUILDING template;Hanzestedenplaats;23;;
+ANTWERPEN-WEST - FH01;62059;0;0;0;0;SDU;;N;ORN;6;4;;;N;Gebouw samengevoegd met Godefridus 58;BUILDING template;Godefriduskaai;56;;
+ANTWERPEN-WEST - FH01;6132277;1;0;0;1;MDU;A;N;IRREG;1;0;;;;_;BUILDING template;Kattendijkdok-Westkaai;32;A;Kattendijkdok-Westkaai 31-32-32A
+ANTWERPEN-WEST - FH01;108081;12;0;0;12;MDU;A;N;IRREG;7;4;;;Y;;BUILDING template;Napoleonkaai;7;;
+ANTWERPEN-WEST - FH01;1905662;4;0;1;5;MDU;D;N;IRREG;5;4;;;;;BUILDING template;Godefriduskaai;58;;
+ANTWERPEN-WEST - FH01;186521;0;1;0;1;SDU;;Y;NA;3;4;;;;Horecazaak met bovenliggende BenB;BUILDING template;Napoleonkaai;29;;
+ANTWERPEN-WEST - FH01;108792;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Napoleonkaai;31;;
+ANTWERPEN-WEST - FH01;4510628;0;1;0;1;SDU;;Y;NA;6;4;;;;Hoort samen bij 12 in totaal 1 bu large;BUILDING template;Entrepotplaats;14;;
+ANTWERPEN-WEST - FH01;2024783;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Napoleonkaai;33;;
+ANTWERPEN-WEST - FH01;2024791;0;1;0;1;SDU;;N;IRREG;5;4;;;Y;;BUILDING template;Napoleonkaai;37;;
+ANTWERPEN-WEST - FH01;5963666;0;2;2;4;MDU;C;N;IRREG;3;9;;;;;BUILDING template;Napelsstraat;73;;Napelsstraat 71-73
+ANTWERPEN-WEST - FH01;2024799;4;0;1;5;MDU;A;N;IRREG;6;3;;;Y;Blocked : geen toegang;BUILDING template;Napoleonkaai;39;;
+ANTWERPEN-WEST - FH01;4066155;0;1;0;1;MDU;A;N;IRREG;2;4;;;;Review Required;BUILDING template;Entrepotkaai;10;A;Entrepotkaai 10A-11-12-13-14
+ANTWERPEN-WEST - FH01;108793;2;1;0;3;MDU;D;Y;NA;4;4;;;;Review Required;BUILDING template;Napoleonkaai;43;;
+ANTWERPEN-WEST - FH01;4507060;0;1;0;1;MDU;A;N;IRREG;2;6;;;;;BUILDING template;Entrepotkaai;7;;Entrepotkaai 7-8-9-10
+ANTWERPEN-WEST - FH01;1128034;3;1;1;5;MDU;D;N;ORN;4;0;;;;Review Required;BUILDING template;Napoleonkaai;49;;
+ANTWERPEN-WEST - FH01;2069021;0;1;0;1;MDU;A;N;IRREG;2;6;;;;;BUILDING template;Entrepotkaai;11;;Entrepotkaai 10A-11-12-13-14
+ANTWERPEN-WEST - FH01;108795;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Napoleonkaai;53;;
+ANTWERPEN-WEST - FH01;2069025;0;1;0;1;MDU;A;N;IRREG;2;6;;;;Entrepotkaai 13 en 15 vormen 1 medium bu;BUILDING template;Entrepotkaai;15;;Entrepotkaai 15-16
+ANTWERPEN-WEST - FH01;1128036;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Napoleonkaai;55;;
+ANTWERPEN-WEST - FH01;2024719;12;0;2;14;MDU;C;Y;NA;5;4;;;;;BUILDING template;Napelsstraat;120;;
+ANTWERPEN-WEST - FH01;186503;2;1;0;3;MDU;D;Y;NA;5;4;;;Y;Nu 1 officiële bewoner. Mogelijkheid tot 3 aansluitpunten;BUILDING template;Nassaustraat;7;;
+ANTWERPEN-WEST - FH01;4510550;0;1;0;1;SDU;;N;IRREG;1;4;;;;Review Required;BUILDING template;Napoleonkaai;11;;
+ANTWERPEN-WEST - FH01;1513863;10;1;1;12;MDU;XA;Y;NA;7;4;;;;Review Required;BUILDING template;Nassaustraat;8;;
+ANTWERPEN-WEST - FH01;4510554;0;1;0;1;SDU;;N;ORN;1;3;;;;;BUILDING template;Napoleonkaai;15;;
+ANTWERPEN-WEST - FH01;2024869;4;0;0;4;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Nassaustraat;9;;
+ANTWERPEN-WEST - FH01;2024882;2;1;1;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Nassaustraat;13;;
+ANTWERPEN-WEST - FH01;2024763;0;1;0;1;SDU;;N;IRREG;1;3;;;;;BUILDING template;Napoleonkaai;17;;
+ANTWERPEN-WEST - FH01;2024884;4;2;0;6;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Nassaustraat;15;;
+ANTWERPEN-WEST - FH01;2024772;0;1;1;2;MDU;C;N;ORN;6;4;;;;Multi ONU;BUILDING template;Napoleonkaai;21;;
+ANTWERPEN-WEST - FH01;2024895;4;1;1;6;MDU;A;Y;NA;6;4;;;Y;Verdieping 5 & 6 vormen een duplex, dus op 5 komt de laatste floorbox.;BUILDING template;Nassaustraat;17;;
+ANTWERPEN-WEST - FH01;109142;0;1;0;1;SDU;;N;ORN;1;3;;;;;BUILDING template;Napoleonkaai;27;;
+ANTWERPEN-WEST - FH01;2024910;0;1;0;1;SDU;;Y;NA;4;4;;;;Review Required;BUILDING template;Nassaustraat;19;;
+ANTWERPEN-WEST - FH01;2024779;0;1;0;1;SDU;;N;ORN;1;3;;;;;BUILDING template;Napoleonkaai;25;;
+ANTWERPEN-WEST - FH01;1292390;0;1;0;1;SDU;;Y;NA;1;4;;;Y;Review Required;BUILDING template;Nassaustraat;21;;
+ANTWERPEN-WEST - FH01;108065;8;1;1;10;MDU;XA;N;IRREG;7;4;;;Y;Review Required;BUILDING template;Nassaustraat;24;;
+ANTWERPEN-WEST - FH01;108786;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Bordeauxstraat;13;;
+ANTWERPEN-WEST - FH01;108077;2;0;0;2;MDU;D;N;IRREG;3;4;;;Y;Review Required;BUILDING template;Nassaustraat;26;;
+ANTWERPEN-WEST - FH01;2024934;5;1;1;7;MDU;D;N;ORN;6;0;;;;Review Required;BUILDING template;Nassaustraat;27;;
+ANTWERPEN-WEST - FH01;109136;1;0;0;1;SDU;;N;MON;3;9;Monument;;;Review Required MON;BUILDING template;Bordeauxstraat;14;;
+ANTWERPEN-WEST - FH01;2024938;5;1;0;6;MDU;C;Y;NA;4;4;;;Y;Blocked : geen toegang verleend door boekenhandel/bewoner;BUILDING template;Nassaustraat;29;;
+ANTWERPEN-WEST - FH01;186508;4;1;1;6;MDU;A;N;ORN;6;4;;;;Blocked : geen toegang;BUILDING template;Kribbestraat;19;;Kribbestraat 19_Napoleonkaai 45
+ANTWERPEN-WEST - FH01;108078;11;0;1;12;MDU;A;N;IRREG;6;4;;;Y;Review Required;BUILDING template;Nassaustraat;30;;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30
+ANTWERPEN-WEST - FH01;1992486;0;1;0;1;SDU;;Y;NA;2;4;;;Y;Review Required;BUILDING template;Catharina Pepijnstraat;9;;
+ANTWERPEN-WEST - FH01;1892443;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Genuastraat;15;;
+ANTWERPEN-WEST - FH01;5320926;1;0;0;1;SDU;;Y;NA;5;4;;;Y;Review Required;BUILDING template;Nassaustraat;34;;
+ANTWERPEN-WEST - FH01;108798;2;1;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Londenstraat;36;;
+ANTWERPEN-WEST - FH01;1128026;0;4;1;5;MDU;D;Y;NA;4;4;;;Y;Review Required;BUILDING template;Nassaustraat;37;;
+ANTWERPEN-WEST - FH01;4081990;10;2;0;12;MDU;D;Y;NA;5;4;;;;Review Required;BUILDING template;Londenstraat;22;;
+ANTWERPEN-WEST - FH01;4505491;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Genuastraat;19;;
+ANTWERPEN-WEST - FH01;108064;2;2;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Nassaustraat;38;;
+ANTWERPEN-WEST - FH01;108063;0;3;0;3;MDU;D;Y;NA;3;4;;;Y;;BUILDING template;Nassaustraat;43;;

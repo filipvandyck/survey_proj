@@ -1,0 +1,910 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
+ANTWERPEN-WEST - FH07;1873244;2;1;0;3;MDU;D;Y;NA;3;4;;;Y;;BUILDING template;Franckenstraat;13;;
+ANTWERPEN-WEST - FH07;2061342;0;1;0;1;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;11;;Lange vlierstraat 11-13
+ANTWERPEN-WEST - FH07;1737812;4;1;1;6;MDU;D;Y;NA;3;9;;;;;BUILDING template;Kloosterstraat;65;;
+ANTWERPEN-WEST - FH07;5951254;5;0;2;7;MDU;D;Y;NA;5;4;;;;;BUILDING template;Van Craesbeeckstraat;7;;
+ANTWERPEN-WEST - FH07;4509958;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Franckenstraat;15;;
+ANTWERPEN-WEST - FH07;4252190;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Vlierstraat;15;;
+ANTWERPEN-WEST - FH07;5833183;0;1;0;1;SDU;;Y;NA;1;4;;;Y;;BUILDING template;Willem Lepelstraat;30;;
+ANTWERPEN-WEST - FH07;5992875;4;0;2;6;MDU;D;N;IRREG;5;15;;;;;BUILDING template;Van Craesbeeckstraat;15;B;Van Craesbeeckstraat 11-13-13A-15-15B
+ANTWERPEN-WEST - FH07;NB-200010d9f738;10;0;2;12;MDU;C;N;IRREG;5;;;;;_;BUILDING template;Prekersstraat;10;;
+ANTWERPEN-WEST - FH07;1873255;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Franckenstraat;17;;
+ANTWERPEN-WEST - FH07;2061345;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;17;;
+ANTWERPEN-WEST - FH07;6020132;8;1;0;9;MDU;E;Y;NA;5;4;;;;;BUILDING template;Pompstraat;37;;
+ANTWERPEN-WEST - FH07;1873258;4;0;0;4;MDU;D;Y;NA;4;9;;;Y;;BUILDING template;Franckenstraat;19;;
+ANTWERPEN-WEST - FH07;2061348;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;Duplex;BUILDING template;Lange Vlierstraat;19;;
+ANTWERPEN-WEST - FH07;6020652;1;1;1;3;MDU;D;N;IRREG;4;12;;;;;BUILDING template;Muntstraat;4;;
+ANTWERPEN-WEST - FH07;49162;4;0;0;4;MDU;D;Y;NA;4;9;;;Y;Derde verdieping is dakappartement;BUILDING template;Franckenstraat;21;;
+ANTWERPEN-WEST - FH07;2061350;3;0;0;3;MDU;D;Y;NA;3;13;;;Y;;BUILDING template;Lange Vlierstraat;21;;
+ANTWERPEN-WEST - FH07;6058494;0;1;0;1;MDU;XC;Y;NA;4;12;;;;;BUILDING template;Volkstraat;10;A;Volkstraat 10-10A
+ANTWERPEN-WEST - FH07;60998;0;1;0;1;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;64;;Nationalestraat 64_Sint-Andriesstraat 44
+ANTWERPEN-WEST - FH07;2061352;1;0;0;1;SDU;;Y;NA;9;4;;;Y;;BUILDING template;Lange Vlierstraat;23;;
+ANTWERPEN-WEST - FH07;6086727;2;1;0;3;MDU;D;N;GLASS;3;10;;;;De verdeling voor dit pand zan gebeuren op de zijgevel van het pand gelegen in de Prekersstraat 33.;BUILDING template;Pachtstraat;16;;
+ANTWERPEN-WEST - FH07;2025189;0;1;0;1;MDU;;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;66;;Nationalestraat 66-68
+ANTWERPEN-WEST - FH07;2061353;6;0;0;6;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;25;;
+ANTWERPEN-WEST - FH07;6089004;6;0;0;6;MDU;C;N;IRREG;3;12;;;;;BUILDING template;Korte Riddersstraat;15;3;
+ANTWERPEN-WEST - FH07;60997;0;1;0;1;SDU;;Y;NA;4;15;;;Y;;BUILDING template;Nationalestraat;70;;
+ANTWERPEN-WEST - FH07;2061354;4;0;0;4;MDU;D;Y;NA;5;4;;;Y;Vedieping 4 niet zichtbaar vanop straat.;BUILDING template;Lange Vlierstraat;27;;
+ANTWERPEN-WEST - FH07;6089031;1;0;0;1;MDU;D;N;IRREG;5;15;;;;;BUILDING template;Steenhouwersvest;1;A;Hoogstraat 79-81_Steenhouwersvest 1A
+ANTWERPEN-WEST - FH07;2025207;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;72;;
+ANTWERPEN-WEST - FH07;2061355;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;29;;
+ANTWERPEN-WEST - FH07;6339524;5;0;1;6;MDU;D;N;IRREG;5;15;;;;;BUILDING template;Willem Lepelstraat;23;A;Willem Lepelstraat 23-23A-25-25A
+ANTWERPEN-WEST - FH07;2025212;4;1;0;5;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;74;;
+ANTWERPEN-WEST - FH07;2061356;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Lange Vlierstraat;31;;
+ANTWERPEN-WEST - FH07;6353271;1;0;0;1;SDU;;N;ORN;4;12;;;;;BUILDING template;Oever;29;A;
+ANTWERPEN-WEST - FH07;49137;0;1;0;1;MDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;78;;Nationalestraat 76-78_Franckenstraat 23
+ANTWERPEN-WEST - FH07;2061357;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;33;;
+ANTWERPEN-WEST - FH07;6419320;1;0;0;1;MDU;D;N;MON;4;0;Monument;;;MON;BUILDING template;Bergstraat;2;A;Bergstraat 2A_Leeuwenstraat 15
+ANTWERPEN-WEST - FH07;61101;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Gierstraat;2;;
+ANTWERPEN-WEST - FH07;49150;0;1;0;1;MDU;;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;1;;Pompstraat 1-3
+ANTWERPEN-WEST - FH07;60993;0;1;0;1;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Nationalestraat;102;;Steenbergstraat 40_Nationalestraat 102
+ANTWERPEN-WEST - FH07;6435987;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 4;BUILDING template;Prekersstraat;4;B;
+ANTWERPEN-WEST - FH07;1897706;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Gierstraat;4;;
+ANTWERPEN-WEST - FH07;2045065;1;0;0;1;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;3;;Pompstraat 1-3
+ANTWERPEN-WEST - FH07;2025335;1;1;0;2;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Nationalestraat;104;;
+ANTWERPEN-WEST - FH07;6452134;0;0;0;0;SDU;;N;ORN;5;15;;;N;;BUILDING template;Prekersstraat;6;A;
+ANTWERPEN-WEST - FH07;1897732;1;0;0;1;SDU;;N;ORN;3;9;;;Y;;BUILDING template;Gierstraat;6;;
+ANTWERPEN-WEST - FH07;2045066;6;0;0;6;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;7;;
+ANTWERPEN-WEST - FH07;2025339;4;1;0;5;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;106;;
+ANTWERPEN-WEST - FH07;6524083;0;1;0;1;MDU;D;Y;NA;5;15;;;;;BUILDING template;Nationalestraat;40;;Nationalestraat 38-40
+ANTWERPEN-WEST - FH07;976574;6;0;1;7;MDU;C;N;IRREG;3;;;;;_;BUILDING template;Kloosterstraat;143;;
+ANTWERPEN-WEST - FH07;4254222;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;2 appartementen met 1 magazijn op gelijkvloers. Magazijn heeft geen bel en geen bus.  Bovenste 3 bellen zijn oud en niet in gebruik.;BUILDING template;Gierstraat;8;;
+ANTWERPEN-WEST - FH07;2045067;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Pompstraat;9;;
+ANTWERPEN-WEST - FH07;2025348;2;1;0;3;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;4de is duplex;BUILDING template;Nationalestraat;108;;
+ANTWERPEN-WEST - FH07;6524941;0;0;0;0;SDU;;N;ORN;5;15;;;N;Secundair adres van Pachtstraat 2;BUILDING template;Pachtstraat;4;;Pachtstraat 2-4
+ANTWERPEN-WEST - FH07;61100;1;0;0;1;SDU;;Y;NA;2;9;;;Y;;BUILDING template;Gierstraat;10;;
+ANTWERPEN-WEST - FH07;2045069;5;0;0;5;MDU;D;Y;NA;5;4;;;Y;Geen studenten;BUILDING template;Pompstraat;11;;
+ANTWERPEN-WEST - FH07;2025353;6;1;0;7;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;110;;
+ANTWERPEN-WEST - FH07;6524942;0;0;0;0;SDU;;N;ORN;5;15;;;N;Is secundair adres van Pachtstraat 6;BUILDING template;Pachtstraat;8;;Pachtstraat 6-8
+ANTWERPEN-WEST - FH07;61094;0;6;0;6;MDU;;N;ORN;6;0;;;Y;;BUILDING template;Kammenstraat;18;;
+ANTWERPEN-WEST - FH07;2045070;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;13;;
+ANTWERPEN-WEST - FH07;1445942;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Nationalestraat;112;;
+ANTWERPEN-WEST - FH07;6524943;0;0;0;0;SDU;;N;ORN;5;15;;;N;Is secundair adres van Pachtstraat 10;BUILDING template;Pachtstraat;12;;Pachtstraat 10-12
+ANTWERPEN-WEST - FH07;61095;3;0;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Een bel buiten gebruik. BU is bij Steenhouwersvest 65 getrokken.;BUILDING template;Kammenstraat;24;;
+ANTWERPEN-WEST - FH07;4509953;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;15;;
+ANTWERPEN-WEST - FH07;60994;4;0;0;4;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Nationalestraat;114;;
+ANTWERPEN-WEST - FH07;6525998;1;0;0;1;SDU;;N;IRREG;4;12;;;;;BUILDING template;Korte Riddersstraat;15;4;
+ANTWERPEN-WEST - FH07;60740;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Bergstraat;2;;
+ANTWERPEN-WEST - FH07;2054531;0;1;0;1;SDU;;N;IRREG;7;21;;;Y;;BUILDING template;Steenhouwersvest;55;;
+ANTWERPEN-WEST - FH07;4011332;1;0;0;1;MDU;;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;17;;Pompstraat 17-19
+ANTWERPEN-WEST - FH07;49134;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Sint-Andriesplaats;18;;
+ANTWERPEN-WEST - FH07;6525999;1;0;0;1;MDU;;N;ORN;2;0;Dorpsgezicht;;;Huisnummer bestaat niet!;BUILDING template;Korte Riddersstraat;23;2;Korte ridderstraat 23-25
+ANTWERPEN-WEST - FH07;2054532;2;1;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Gelijkvloers Winkel Filou & Friends, 1e verdieping rookruimte winkel, 2e verdieping appartement leegstaand, 3e verdieping appartement leegstaand. Appartementen hebben geen brievenbus en winkel heeft geen bel.;BUILDING template;Steenhouwersvest;57;;
+ANTWERPEN-WEST - FH07;4216156;7;0;0;7;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;4de verdieping is in dak gelegen en niet zichtbaar vanop straat;BUILDING template;Pompstraat;19;;Pompstraat 17-19
+ANTWERPEN-WEST - FH07;1735127;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Sint-Andriesplaats;19;;
+ANTWERPEN-WEST - FH07;6526000;1;0;0;1;MDU;;N;ORN;2;0;Dorpsgezicht;;;DG;BUILDING template;Korte Riddersstraat;23;4;Korte ridderstraat 23-25
+ANTWERPEN-WEST - FH07;1740478;1;0;0;1;SDU;;N;ORN;3;9;;;Y;;BUILDING template;Bergstraat;4;;
+ANTWERPEN-WEST - FH07;2054533;3;1;0;4;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;een brievenbus dichtgeplakt!;BUILDING template;Steenhouwersvest;59;;
+ANTWERPEN-WEST - FH07;49151;3;0;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;21;;
+ANTWERPEN-WEST - FH07;1735128;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;BU op het gelijkvloers heeft huisnummer 21 en is een SDU;BUILDING template;Sint-Andriesplaats;20;;
+ANTWERPEN-WEST - FH07;6526001;1;0;0;1;MDU;;N;ORN;2;0;Dorpsgezicht;;;DG;BUILDING template;Korte Riddersstraat;23;5;Korte ridderstraat 23-25
+ANTWERPEN-WEST - FH07;1740479;4;0;0;4;MDU;D;N;ORN;3;0;;;Y;;BUILDING template;Bergstraat;6;;
+ANTWERPEN-WEST - FH07;2054535;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;4 bellen, 3 bussen, BU heeft geen bus.;BUILDING template;Steenhouwersvest;63;;
+ANTWERPEN-WEST - FH07;1735132;1;0;0;1;SDU;;N;ORN;4;0;;;Y;;BUILDING template;Sint-Andriesstraat;24;;
+ANTWERPEN-WEST - FH07;4509987;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesplaats;21;;
+ANTWERPEN-WEST - FH07;6526002;1;0;0;1;MDU;;N;ORN;3;0;Dorpsgezicht;;;DG;BUILDING template;Korte Riddersstraat;23;6;Korte ridderstraat 23-25
+ANTWERPEN-WEST - FH07;1740480;1;0;0;1;SDU;;N;ORN;4;0;;;Y;;BUILDING template;Bergstraat;8;;
+ANTWERPEN-WEST - FH07;61096;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Gelijkvloers en eersteverdieping in gebruik bij Winkel. Winkel heeft geen bus.;BUILDING template;Steenhouwersvest;65;;
+ANTWERPEN-WEST - FH07;4064208;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesstraat;26;;
+ANTWERPEN-WEST - FH07;49167;0;1;0;1;SDU;;Y;NA;5;18;;;Y;;BUILDING template;Steenbergstraat;2;;
+ANTWERPEN-WEST - FH07;6526011;3;0;0;4;MDU;D;Y;NA;4;15;;;;;BUILDING template;Bergstraat;18;;Kammenstraat 12_Bergstraat 18
+ANTWERPEN-WEST - FH07;4507873;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Bergstraat;10;;
+ANTWERPEN-WEST - FH07;61103;1;1;0;2;MDU;D;Y;NA;4;12;;;Y;1e t/m 3e verdieping is een appartement.;BUILDING template;Vrijdagmarkt;9;;
+ANTWERPEN-WEST - FH07;4166456;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesstraat;28;;
+ANTWERPEN-WEST - FH07;2054371;0;1;0;1;SDU;;Y;NA;5;18;;;Y;Studentekoten;BUILDING template;Steenbergstraat;4;;
+ANTWERPEN-WEST - FH07;1740481;1;0;0;1;SDU;;N;ORN;3;0;;;Y;;BUILDING template;Bergstraat;12;;
+ANTWERPEN-WEST - FH07;1735133;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesstraat;30;;
+ANTWERPEN-WEST - FH07;3928457;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Steenbergstraat;6;;
+ANTWERPEN-WEST - FH07;6526019;4;0;2;6;MDU;D;Y;NA;5;4;;;;;BUILDING template;Van Craesbeeckstraat;9;B;
+ANTWERPEN-WEST - FH07;60721;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Gierstraat;1;;
+ANTWERPEN-WEST - FH07;4247899;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesstraat;32;;
+ANTWERPEN-WEST - FH07;1737821;1;1;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Kloosterstraat;83;;
+ANTWERPEN-WEST - FH07;2054373;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;8;;
+ANTWERPEN-WEST - FH07;6526020;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Huisnummer bestaat niet;BUILDING template;Prekersstraat;18;B;Prekersstraat 16_18_18A_18B_18D
+ANTWERPEN-WEST - FH07;1897679;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Gierstraat;3;;
+ANTWERPEN-WEST - FH07;1735134;8;0;0;8;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Sint-Andriesstraat;34;;
+ANTWERPEN-WEST - FH07;182846;11;2;2;15;MDU;XC;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Korte Vlierstraat;6;;
+ANTWERPEN-WEST - FH07;2054375;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;10;;
+ANTWERPEN-WEST - FH07;6526021;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 8;BUILDING template;Prekersstraat;8;B;
+ANTWERPEN-WEST - FH07;1897717;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Gierstraat;5;;
+ANTWERPEN-WEST - FH07;4509972;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Sint-Andriesstraat;40;;
+ANTWERPEN-WEST - FH07;976537;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Lange Vlierstraat;2;;
+ANTWERPEN-WEST - FH07;2054377;2;1;0;3;MDU;D;Y;NA;4;12;;;Y;Verdiep 3 is 1BU van studentekoten.;BUILDING template;Steenbergstraat;12;;
+ANTWERPEN-WEST - FH07;1737814;0;1;0;1;SDU;D;N;ORN;3;0;Beschermd Erfgoed;;;BE;BUILDING template;Kloosterstraat;67;;
+ANTWERPEN-WEST - FH07;3926832;4;1;1;6;MDU;XC;Y;NA;3;12;;;Y;;BUILDING template;Gierstraat;7;;
+ANTWERPEN-WEST - FH07;48920;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesstraat;42;;
+ANTWERPEN-WEST - FH07;2061337;5;0;0;5;MDU;D;Y;NA;5;12;;;Y;Duplex niet zichtbaar op de foto.;BUILDING template;Lange Vlierstraat;4;;
+ANTWERPEN-WEST - FH07;2054379;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;14;;
+ANTWERPEN-WEST - FH07;1897734;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Gierstraat;9;;
+ANTWERPEN-WEST - FH07;4236823;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;Pand is juist helemaal verkocht dus ik vermoed dat ze aan renovatiewerken gaan beginnen binnenkort.;BUILDING template;Lange Vlierstraat;6;;
+ANTWERPEN-WEST - FH07;61001;4;0;0;4;MDU;D;Y;NA;5;15;;;Y;Duplex;BUILDING template;Steenbergstraat;16;;
+ANTWERPEN-WEST - FH07;2061334;0;1;0;1;MDU;;Y;NA;2;4;;;;;BUILDING template;Korte Vlierstraat;17;;Korte Vlierstraat 15-17
+ANTWERPEN-WEST - FH07;60723;0;1;0;1;MDU;D;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Kammenstraat;12;;Kammenstraat 12_Bergstraat 18
+ANTWERPEN-WEST - FH07;2061339;6;0;1;7;MDU;XC;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;8;;
+ANTWERPEN-WEST - FH07;2054380;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Steenbergstraat;18;;
+ANTWERPEN-WEST - FH07;2047299;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Lange Riddersstraat;8;;
+ANTWERPEN-WEST - FH07;60724;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Kammenstraat;14;;
+ANTWERPEN-WEST - FH07;2061341;7;0;0;7;MDU;C;Y;NA;5;15;;;Y;;BUILDING template;Lange Vlierstraat;10;;
+ANTWERPEN-WEST - FH07;2054381;1;1;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Steenbergstraat;20;;
+ANTWERPEN-WEST - FH07;44497;1;0;0;1;MDU;;Y;NA;2;4;Beschermd Erfgoed;;;;BUILDING template;Sint-Andriesplaats;5;;Sint-Andriesplaats 3-4-5
+ANTWERPEN-WEST - FH07;60736;1;0;0;1;MDU;D;N;MON;4;0;Monument;;Y;MON;BUILDING template;Leeuwenstraat;15;;Bergstraat 2A_Leeuwenstraat 15
+ANTWERPEN-WEST - FH07;2061344;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;12;;
+ANTWERPEN-WEST - FH07;2054382;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Steenbergstraat;22;;
+ANTWERPEN-WEST - FH07;3918214;1;0;0;1;MDU;;Y;NA;2;4;;;;;BUILDING template;Sint-Andriesplaats;4;;Sint-Andriesplaats 3-4-5
+ANTWERPEN-WEST - FH07;1986578;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Leeuwenstraat;17;;
+ANTWERPEN-WEST - FH07;976536;3;1;0;4;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Lange Vlierstraat;14;;
+ANTWERPEN-WEST - FH07;2054384;2;0;0;2;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;In globale gebouw zitten ook nummers 26, 28, 32;BUILDING template;Steenbergstraat;24;;
+ANTWERPEN-WEST - FH07;1986581;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Leeuwenstraat;19;;
+ANTWERPEN-WEST - FH07;2061346;7;0;0;7;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;18;;
+ANTWERPEN-WEST - FH07;2054386;10;0;0;10;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenbergstraat;28;;
+ANTWERPEN-WEST - FH07;44180;2;1;1;4;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;;BE;BUILDING template;Kloosterstraat;69;;
+ANTWERPEN-WEST - FH07;4511039;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Leeuwenstraat;21;;
+ANTWERPEN-WEST - FH07;2061349;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Vlierstraat;20;;
+ANTWERPEN-WEST - FH07;4506587;0;1;0;1;SDU;;Y;NA;5;18;;;Y;;BUILDING template;Steenbergstraat;34;;
+ANTWERPEN-WEST - FH07;60737;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Leeuwenstraat;23;;
+ANTWERPEN-WEST - FH07;2061351;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Lange Vlierstraat;22;;
+ANTWERPEN-WEST - FH07;2054387;5;0;0;5;MDU;D;Y;NA;5;18;;;Y;Renovatie gebouw in afwerking;BUILDING template;Steenbergstraat;36;;
+ANTWERPEN-WEST - FH07;4518334;1;0;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Lange Vlierstraat;24;;
+ANTWERPEN-WEST - FH07;2054388;17;0;1;18;MDU;XC;Y;NA;5;18;;;Y;;BUILDING template;Steenbergstraat;38;;
+ANTWERPEN-WEST - FH07;1735135;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Sint-Andriesstraat;38;;
+ANTWERPEN-WEST - FH07;976534;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Vlierstraat;26;;
+ANTWERPEN-WEST - FH07;976547;9;0;0;9;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Pachtstraat;1;;
+ANTWERPEN-WEST - FH07;1494696;5;0;0;5;MDU;D;Y;NA;5;12;;;Y;;BUILDING template;Pachtstraat;3;;
+ANTWERPEN-WEST - FH07;2038468;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pachtstraat;5;;
+ANTWERPEN-WEST - FH07;2038472;2;1;0;3;MDU;D;Y;NA;3;12;;;Y;MDU want de units zijn nu ook apart aangesloten.;BUILDING template;Pachtstraat;7;;
+ANTWERPEN-WEST - FH07;2038479;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Pachtstraat;9;;
+ANTWERPEN-WEST - FH07;976548;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pachtstraat;11;;
+ANTWERPEN-WEST - FH07;972786;8;0;2;10;MDU;XC;N;ORN;5;15;;;Y;;BUILDING template;Pachtstraat;2;;Pachtstraat 2-4
+ANTWERPEN-WEST - FH07;972787;6;0;1;7;MDU;XC;N;ORN;5;15;;;Y;;BUILDING template;Pachtstraat;6;;Pachtstraat 6-8
+ANTWERPEN-WEST - FH07;1737817;4;2;1;7;MDU;A;N;ORN;6;18;;;;;BUILDING template;Kloosterstraat;79;;
+ANTWERPEN-WEST - FH07;972788;8;0;2;10;MDU;XC;N;ORN;5;15;;;Y;;BUILDING template;Pachtstraat;10;;Pachtstraat 10-12
+ANTWERPEN-WEST - FH07;5364247;1;0;0;1;SDU;;N;ORN;1;0;;;Y;;BUILDING template;Prekersstraat;25;;
+ANTWERPEN-WEST - FH07;972778;9;0;2;11;MDU;C;N;ORN;5;15;;;Y;;BUILDING template;Prekersstraat;27;;
+ANTWERPEN-WEST - FH07;2045610;10;0;2;12;MDU;C;N;ORN;5;15;;;Y;;BUILDING template;Prekersstraat;29;;
+ANTWERPEN-WEST - FH07;5576144;9;0;2;11;MDU;C;N;ORN;5;15;;;Y;;BUILDING template;Prekersstraat;31;;
+ANTWERPEN-WEST - FH07;972777;1;0;0;1;SDU;;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;33;;
+ANTWERPEN-WEST - FH07;719031;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Korte Riddersstraat;2;;
+ANTWERPEN-WEST - FH07;2045613;6;0;0;6;MDU;XC;N;ORN;4;12;;;Y;;BUILDING template;Prekersstraat;35;;
+ANTWERPEN-WEST - FH07;4505108;1;0;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Korte Riddersstraat;4;;
+ANTWERPEN-WEST - FH07;4215083;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Korte Riddersstraat;6;;
+ANTWERPEN-WEST - FH07;2045617;8;0;2;10;MDU;XC;N;ORN;4;12;;;Y;;BUILDING template;Prekersstraat;45;;
+ANTWERPEN-WEST - FH07;4505109;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Korte Riddersstraat;8;;
+ANTWERPEN-WEST - FH07;4518320;0;0;0;0;SDU;;N;ORN;4;12;;;N;Gebouw bestaat niet;BUILDING template;Prekersstraat;49;;
+ANTWERPEN-WEST - FH07;1737819;0;1;0;1;SDU;;Y;NA;1;3;;;;;BUILDING template;Kloosterstraat;81;;
+ANTWERPEN-WEST - FH07;1329079;26;0;1;27;MDU;XA;N;GLASS;7;12;;;Y;Gebouw heeft 4 verdiepingen en 3 tussenverdiepingen totaal 7.;BUILDING template;Korte Riddersstraat;20;;Korte ridderstraat 14-18-20_Oever 9-11-13
+ANTWERPEN-WEST - FH07;2047292;0;1;0;1;SDU;;Y;NA;4;4;;;Y;Is winkel horend bij nr 23-25;BUILDING template;Korte Riddersstraat;24;;
+ANTWERPEN-WEST - FH07;2045619;1;0;0;1;MDU;D;Y;NA;2;6;;;Y;;BUILDING template;Prekersstraat;53;;Prekersstraat 53-55
+ANTWERPEN-WEST - FH07;2047294;1;0;0;1;SDU;;Y;NA;4;4;;;Y;Komt via gavel van de 28;BUILDING template;Korte Riddersstraat;26;;
+ANTWERPEN-WEST - FH07;976553;0;0;0;0;SDU;;Y;NA;4;4;Beschermd Erfgoed;;N;Gebouw bestaat niet;BUILDING template;Prekersstraat;57;;
+ANTWERPEN-WEST - FH07;182842;4;0;0;4;MDU;D;N;ORN;5;0;;;Y;;BUILDING template;Kammenstraat;11;;Nationalestraat 12_Kammenstraat 11
+ANTWERPEN-WEST - FH07;719027;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Korte Riddersstraat;28;;
+ANTWERPEN-WEST - FH07;2045620;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Prekersstraat;61;;
+ANTWERPEN-WEST - FH07;5576031;0;1;0;1;SDU;;N;ORN;6;18;;;Y;;BUILDING template;Nationalestraat;2;;
+ANTWERPEN-WEST - FH07;44483;1;0;0;1;SDU;;N;ORN;4;12;;;Y;;BUILDING template;Muntstraat;1;;
+ANTWERPEN-WEST - FH07;3928201;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Prekersstraat;63;;
+ANTWERPEN-WEST - FH07;2024986;28;0;1;29;MDU;A;N;ORN;6;18;;;Y;Nr 10 en Nr 4 zijn hetzelfde gebouw. Alleen nr10 geeft toegang tot de 12 Appartementen op de 5e verdieping en Nr 4 to de 24 Appartementen op verdiepingen 1 t/m 4;BUILDING template;Nationalestraat;4;;Nationalestraat  4-10
+ANTWERPEN-WEST - FH07;2023749;1;0;0;1;SDU;;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Muntstraat;3;;
+ANTWERPEN-WEST - FH07;2045621;6;1;0;7;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Prekersstraat;65;;
+ANTWERPEN-WEST - FH07;1737823;6;2;0;8;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;85;;
+ANTWERPEN-WEST - FH07;2023753;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Muntstraat;5;;
+ANTWERPEN-WEST - FH07;1326107;2;0;0;2;MDU;D;Y;NA;4;4;;;Y;Prekersstraat 71 is een BU en is een aparte SDU;BUILDING template;Prekersstraat;69;;Prekerstraat 69-71
+ANTWERPEN-WEST - FH07;182832;12;0;1;13;MDU;A;Y;NA;6;4;;;Y;NR 10 en Nr 4 zijn via de kelder met elkaar verbonden. Ze delen dezelfde technische ruimte.;BUILDING template;Nationalestraat;10;;Nationalestraat  4-10
+ANTWERPEN-WEST - FH07;2023755;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Muntstraat;7;;
+ANTWERPEN-WEST - FH07;976552;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Prekersstraat;73;;
+ANTWERPEN-WEST - FH07;182836;0;1;0;1;MDU;;Y;NA;15;4;;;Y;;BUILDING template;Nationalestraat;12;;Nationalestraat 12_Kammenstraat 11
+ANTWERPEN-WEST - FH07;2023758;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Muntstraat;9;;
+ANTWERPEN-WEST - FH07;976555;6;0;0;6;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;75;;
+ANTWERPEN-WEST - FH07;2025020;0;1;0;1;SDU;;Y;NA;5;4;;;Y;;BUILDING template;Nationalestraat;14;;
+ANTWERPEN-WEST - FH07;2023764;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Muntstraat;11;;
+ANTWERPEN-WEST - FH07;2047310;1;0;0;1;SDU;;N;ORN;3;9;;;Y;;BUILDING template;Lange Riddersstraat;29;;
+ANTWERPEN-WEST - FH07;49135;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Sint-Andriesplaats;22;;
+ANTWERPEN-WEST - FH07;182834;0;1;0;1;SDU;;N;MON;5;0;Monument;;Y;MON;BUILDING template;Nationalestraat;16;;
+ANTWERPEN-WEST - FH07;2023777;2;1;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Muntstraat;15;;
+ANTWERPEN-WEST - FH07;2047312;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;31;;
+ANTWERPEN-WEST - FH07;4519685;0;1;0;1;SDU;;N;ORN;2;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesplaats;23;;
+ANTWERPEN-WEST - FH07;44379;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Oever;1;;
+ANTWERPEN-WEST - FH07;2047315;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;33;;
+ANTWERPEN-WEST - FH07;972768;0;1;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesplaats;24;;
+ANTWERPEN-WEST - FH07;2030142;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Oever;3;;
+ANTWERPEN-WEST - FH07;2047317;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;35;;
+ANTWERPEN-WEST - FH07;2030150;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Oever;5;;
+ANTWERPEN-WEST - FH07;4509944;2;0;0;2;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;37;;
+ANTWERPEN-WEST - FH07;2030159;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Oever;7;;
+ANTWERPEN-WEST - FH07;4509946;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Lange Riddersstraat;39;;
+ANTWERPEN-WEST - FH07;60713;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Heilige Geeststraat;3;;
+ANTWERPEN-WEST - FH07;2030164;0;1;0;1;MDU;XA;Y;NA;4;12;;;Y;BU met LU, een eigenaar gebruiker.;BUILDING template;Oever;9;;Korte ridderstraat 14-18-20_Oever 9-11-13
+ANTWERPEN-WEST - FH07;4509947;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;41;;
+ANTWERPEN-WEST - FH07;1936642;1;0;0;1;SDU;;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Heilige Geeststraat;5;;
+ANTWERPEN-WEST - FH07;2047321;4;0;0;4;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;45;;
+ANTWERPEN-WEST - FH07;60716;0;1;1;2;MDU;;Y;NA;3;9;;;Y;;BUILDING template;Heilige Geeststraat;7;;
+ANTWERPEN-WEST - FH07;718538;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;51;;
+ANTWERPEN-WEST - FH07;60714;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Heilige Geeststraat;9;;
+ANTWERPEN-WEST - FH07;44378;0;4;0;4;MDU;D;N;MON;3;0;Monument;;Y;MON;BUILDING template;Oever;21;;
+ANTWERPEN-WEST - FH07;3928183;0;1;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Pompstraat;6;;
+ANTWERPEN-WEST - FH07;60717;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Heilige Geeststraat;11;;
+ANTWERPEN-WEST - FH07;2030234;7;0;0;7;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Oever;23;;
+ANTWERPEN-WEST - FH07;49153;2;2;0;4;MDU;D;Y;NA;4;4;;;Y;Huisnummers 6 & 8 zijn samengevoegd tot 1 gebouw volgens businformatie;BUILDING template;Pompstraat;8;;
+ANTWERPEN-WEST - FH07;1737825;6;2;0;8;MDU;D;Y;NA;4;3;;;;;BUILDING template;Kloosterstraat;87;;
+ANTWERPEN-WEST - FH07;1936643;1;0;0;1;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Heilige Geeststraat;13;;Heilige Geeststraat 13-15
+ANTWERPEN-WEST - FH07;1439802;2;1;0;3;MDU;D;N;MON;3;0;Monument;;Y;MON;BUILDING template;Oever;27;;
+ANTWERPEN-WEST - FH07;49156;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Rijke Beukelaarstraat;1;;
+ANTWERPEN-WEST - FH07;1936644;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Heilige Geeststraat;17;;
+ANTWERPEN-WEST - FH07;44377;0;1;0;1;SDU;;N;ORN;4;12;;;Y;;BUILDING template;Oever;29;;
+ANTWERPEN-WEST - FH07;2047571;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Rijke Beukelaarstraat;3;;
+ANTWERPEN-WEST - FH07;1936645;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Heilige Geeststraat;19;;
+ANTWERPEN-WEST - FH07;48960;8;3;0;11;MDU;XC;Y;NA;6;4;;;Y;de 2  bovenste verdiepingen zijn duplexen.;BUILDING template;Steenhouwersvest;1;;
+ANTWERPEN-WEST - FH07;2047572;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Rijke Beukelaarstraat;5;;
+ANTWERPEN-WEST - FH07;60715;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Heilige Geeststraat;21;;
+ANTWERPEN-WEST - FH07;44486;0;1;0;1;SDU;;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;2;;
+ANTWERPEN-WEST - FH07;2047576;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Rijke Beukelaarstraat;9;;
+ANTWERPEN-WEST - FH07;5575679;1;2;0;3;MDU;XC;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Heilige Geeststraat;23;;
+ANTWERPEN-WEST - FH07;2054495;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;4;;
+ANTWERPEN-WEST - FH07;4509974;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Rijke Beukelaarstraat;11;;
+ANTWERPEN-WEST - FH07;1936648;6;1;0;7;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Heilige Geeststraat;25;;
+ANTWERPEN-WEST - FH07;2054496;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Steenhouwersvest;6;;
+ANTWERPEN-WEST - FH07;2047579;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Rijke Beukelaarstraat;13;;
+ANTWERPEN-WEST - FH07;60710;0;1;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;39;;
+ANTWERPEN-WEST - FH07;2054497;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;8;;
+ANTWERPEN-WEST - FH07;2047581;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Rijke Beukelaarstraat;15;;
+ANTWERPEN-WEST - FH07;NB-20001B0905;5;0;0;5;MDU;D;Y;NA;5;12;;;;_;BUILDING template;Lange Vlierstraat;1;B;
+ANTWERPEN-WEST - FH07;60709;2;1;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Hoogstraat;41;;
+ANTWERPEN-WEST - FH07;2054500;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Steenhouwersvest;12;;
+ANTWERPEN-WEST - FH07;2047583;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Rijke Beukelaarstraat;17;;
+ANTWERPEN-WEST - FH07;1944381;3;1;0;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;43;;Hoogstraat 43-43 A
+ANTWERPEN-WEST - FH07;1329076;2;1;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Winkel en 1e verdieping in gebruik bij BU, 2e en 3e verdieping LU's.;BUILDING template;Steenhouwersvest;14;;
+ANTWERPEN-WEST - FH07;49168;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Rijke Beukelaarstraat;19;;
+ANTWERPEN-WEST - FH07;1944383;4;2;0;6;MDU;D;Y;NA;3;12;;;Y;;BUILDING template;Hoogstraat;45;;
+ANTWERPEN-WEST - FH07;2054505;5;1;0;6;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;16;;
+ANTWERPEN-WEST - FH07;1735129;0;1;0;1;SDU;;N;ORN;6;18;;;Y;;BUILDING template;Sint-Andriesstraat;2;;
+ANTWERPEN-WEST - FH07;60712;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;47;;
+ANTWERPEN-WEST - FH07;2054508;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Steenhouwersvest;18;;
+ANTWERPEN-WEST - FH07;60711;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;49;;
+ANTWERPEN-WEST - FH07;2054510;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;20;;
+ANTWERPEN-WEST - FH07;1354107;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Hoogstraat;51;;
+ANTWERPEN-WEST - FH07;44487;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;22;;
+ANTWERPEN-WEST - FH07;1944387;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Hoogstraat;53;;
+ANTWERPEN-WEST - FH07;60708;0;1;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;57;;
+ANTWERPEN-WEST - FH07;60733;3;0;0;3;MDU;D;N;MON;3;0;Monument;;Y;MON;BUILDING template;Leeuwenstraat;4;;
+ANTWERPEN-WEST - FH07;1986560;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Leeuwenstraat;6;;
+ANTWERPEN-WEST - FH07;1986567;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Leeuwenstraat;8;;
+ANTWERPEN-WEST - FH07;4507902;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Leeuwenstraat;10;;
+ANTWERPEN-WEST - FH07;1986571;4;1;0;5;MDU;XC;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Leeuwenstraat;12;;
+ANTWERPEN-WEST - FH07;1986572;9;0;0;9;MDU;XC;N;MON;5;0;Monument;;Y;MON;BUILDING template;Leeuwenstraat;14;;
+ANTWERPEN-WEST - FH07;1986575;1;2;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Leeuwenstraat;16;;
+ANTWERPEN-WEST - FH07;4507906;2;0;0;2;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Leeuwenstraat;18;;
+ANTWERPEN-WEST - FH07;2047220;3;1;0;4;MDU;D;N;MON;4;0;Monument;;Y;MON;BUILDING template;Reyndersstraat;4;;
+ANTWERPEN-WEST - FH07;2047222;0;1;0;1;SDU;;N;ORN;1;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Reyndersstraat;8;;
+ANTWERPEN-WEST - FH07;2047223;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Reyndersstraat;10;;
+ANTWERPEN-WEST - FH07;2047225;1;1;0;2;MDU;D;Y;NA;3;9;;;Y;Valerie_Traan heeft gelijkvloers van 12 en 14 in gebruik.;BUILDING template;Reyndersstraat;12;;
+ANTWERPEN-WEST - FH07;2047228;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Reyndersstraat;14;;
+ANTWERPEN-WEST - FH07;4507926;2;0;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Bewoners delen 1 brievenbus.;BUILDING template;Reyndersstraat;16;;
+ANTWERPEN-WEST - FH07;2047230;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Reyndersstraat;18;;
+ANTWERPEN-WEST - FH07;2047232;1;1;0;2;MDU;D;Y;NA;3;4;;;Y;;BUILDING template;Reyndersstraat;20;;
+ANTWERPEN-WEST - FH07;4507928;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Reyndersstraat;22;;
+ANTWERPEN-WEST - FH07;60699;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Reyndersstraat;24;;
+ANTWERPEN-WEST - FH07;2047218;1;1;0;2;MDU;D;N;MON;3;0;Monument;;Y;MON;BUILDING template;Reyndersstraat;2;B;
+ANTWERPEN-WEST - FH07;60719;0;1;0;1;SDU;;N;ORN;4;12;;;Y;Bed & Breakfast BarBel;BUILDING template;Vrijdagmarkt;1;;
+ANTWERPEN-WEST - FH07;2062207;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;2;;
+ANTWERPEN-WEST - FH07;2062208;7;0;0;7;MDU;D;Y;NA;4;12;;;Y;LU gelijkvloers in gebruik als opslag.;BUILDING template;Vrijdagmarkt;3;;
+ANTWERPEN-WEST - FH07;1349608;5;0;0;5;MDU;XC;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;4;;
+ANTWERPEN-WEST - FH07;1936641;0;1;0;1;SDU;;N;ORN;4;12;;;Y;;BUILDING template;Heilige Geeststraat;4;;
+ANTWERPEN-WEST - FH07;60700;0;1;0;1;MDU;;N;ORN;4;0;Monument;;Y;_;BUILDING template;Reyndersstraat;26;;Reyndersstraat 26-28-30
+ANTWERPEN-WEST - FH07;2062210;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;5;;
+ANTWERPEN-WEST - FH07;4505555;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Heilige Geeststraat;8;;
+ANTWERPEN-WEST - FH07;2062211;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;6;;
+ANTWERPEN-WEST - FH07;1944391;0;1;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;59;;
+ANTWERPEN-WEST - FH07;60718;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Vrijdagmarkt;7;;
+ANTWERPEN-WEST - FH07;1944392;0;1;0;1;SDU;;N;MON;5;0;Monument;;Y;MON;BUILDING template;Hoogstraat;61;;
+ANTWERPEN-WEST - FH07;1944394;4;1;0;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Hoogstraat;63;;
+ANTWERPEN-WEST - FH07;4025975;2;1;0;3;MDU;D;N;MON;4;0;Monument;;Y;MON;BUILDING template;Hoogstraat;65;;
+ANTWERPEN-WEST - FH07;1944396;8;1;0;9;MDU;XC;Y;NA;5;15;;;Y;Gelijkvloers wordt verbouwd.;BUILDING template;Hoogstraat;67;;
+ANTWERPEN-WEST - FH07;1230196;12;2;0;14;MDU;XC;N;MON;5;0;Monument;;Y;Vanwege de ligging van de appartementen moet er een schacht komen vanuit de kelder in de lifthal van het voor gebouw en een naar en vanuit de  lifthal van het achtergebouw. De BU's moeten vanaf aftakkingen in lifthal 1 worden aangesloten.;BUILDING template;Hoogstraat;69;;
+ANTWERPEN-WEST - FH07;NB-200016e3c257;0;1;0;1;SDU;;N;IRREG;1;;;;;_;BUILDING template;Drukkerijstraat;16;;
+ANTWERPEN-WEST - FH07;1944400;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;71;;
+ANTWERPEN-WEST - FH07;60703;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;_;BUILDING template;Reyndersstraat;30;;Reyndersstraat 26-28-30
+ANTWERPEN-WEST - FH07;1944401;3;1;1;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Hoogstraat;73;;
+ANTWERPEN-WEST - FH07;1944403;2;1;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Hoogstraat;75;;
+ANTWERPEN-WEST - FH07;1944404;1;1;0;2;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Hoogstraat;77;;
+ANTWERPEN-WEST - FH07;1944405;0;1;0;1;MDU;D;N;ORN;5;15;;;Y;;BUILDING template;Hoogstraat;79;;Hoogstraat 79-81_Steenhouwersvest 1A
+ANTWERPEN-WEST - FH07;44176;8;0;1;9;MDU;D;N;IRREG;4;9;;;;;BUILDING template;Kloosterstraat;1;;
+ANTWERPEN-WEST - FH07;48910;0;1;0;1;MDU;D;N;ORN;5;15;;;Y;;BUILDING template;Hoogstraat;81;;Hoogstraat 79-81_Steenhouwersvest 1A
+ANTWERPEN-WEST - FH07;4519688;0;1;0;1;SDU;;N;ORN;1;0;;;;BE;BUILDING template;Kloosterstraat;77;;
+ANTWERPEN-WEST - FH07;2054498;3;1;0;4;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Steenhouwersvest;9;;
+ANTWERPEN-WEST - FH07;2054499;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;11;;
+ANTWERPEN-WEST - FH07;48898;1;0;0;1;SDU;;N;ORN;4;0;;;;;BUILDING template;Augustijnenstraat;1;;
+ANTWERPEN-WEST - FH07;2054502;1;1;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;13;;
+ANTWERPEN-WEST - FH07;972775;16;0;2;18;MDU;C;N;IRREG;4;12;;;;;BUILDING template;Kloosterstraat;139;;
+ANTWERPEN-WEST - FH07;48907;0;1;0;1;MDU;XC;N;ORN;1;3;;;;;BUILDING template;Steenhouwersvest;27;;Steenhouwersvest 27-29-31-33_Vrijdagmarktstraatje 3
+ANTWERPEN-WEST - FH07;NB-200047b3ba63;6;0;0;6;MDU;C;Y;NA;5;3;;;;_;BUILDING template;Scheldestraat;47;;
+ANTWERPEN-WEST - FH07;976246;3;1;0;4;MDU;D;N;ORN;4;12;;;Y;;BUILDING template;Graaf van Egmontstraat;1;;
+ANTWERPEN-WEST - FH07;2054504;3;1;0;4;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;15;;
+ANTWERPEN-WEST - FH07;48915;7;1;0;8;MDU;C;N;ORN;5;0;Beschermd Erfgoed;;;Pas op Steenhouwersvest 51 en Drukkerijstraat 2, delen trappenhal en kelder op Steenhouwersvest 51 en Lift aan de Drukkerijstraat 2.;BUILDING template;Drukkerijstraat;2;;
+ANTWERPEN-WEST - FH07;976247;6;1;0;7;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Graaf van Egmontstraat;5;;
+ANTWERPEN-WEST - FH07;976245;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Graaf van Egmontstraat;13;;
+ANTWERPEN-WEST - FH07;2054507;0;1;0;1;SDU;;Y;NA;1;4;;;Y;;BUILDING template;Steenhouwersvest;17;;
+ANTWERPEN-WEST - FH07;48959;3;0;0;3;MDU;D;N;IRREG;4;12;;;;;BUILDING template;Steenhouwersvest;7;;
+ANTWERPEN-WEST - FH07;49159;0;0;0;0;SDU;;Y;NA;4;12;;;N;;BUILDING template;Franckenstraat;2;;
+ANTWERPEN-WEST - FH07;976232;3;0;0;3;MDU;D;N;ORN;4;12;;;Y;;BUILDING template;Kronenburgstraat;2;;
+ANTWERPEN-WEST - FH07;1856837;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Graaf van Egmontstraat;15;;
+ANTWERPEN-WEST - FH07;2054511;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Steenhouwersvest;23;;
+ANTWERPEN-WEST - FH07;60725;0;1;0;1;SDU;;N;IRREG;1;3;;;;;BUILDING template;Kammenstraat;10;;
+ANTWERPEN-WEST - FH07;1873228;1;0;0;1;SDU;;N;ORN;3;9;;;Y;;BUILDING template;Franckenstraat;6;;
+ANTWERPEN-WEST - FH07;1971917;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kronenburgstraat;6;;
+ANTWERPEN-WEST - FH07;1856863;4;0;0;4;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Graaf van Egmontstraat;17;;
+ANTWERPEN-WEST - FH07;2054512;0;1;0;1;SDU;;Y;NA;1;4;;;Y;;BUILDING template;Steenhouwersvest;25;;
+ANTWERPEN-WEST - FH07;60738;3;3;0;6;MDU;D;Y;NA;4;12;;;;;BUILDING template;Leeuwenstraat;20;;
+ANTWERPEN-WEST - FH07;1873237;5;0;0;5;MDU;X;Y;NA;5;12;;;Y;In aanbouw - En construction;BUILDING template;Franckenstraat;8;;
+ANTWERPEN-WEST - FH07;1971920;8;0;0;8;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Kronenburgstraat;8;;
+ANTWERPEN-WEST - FH07;1856903;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Graaf van Egmontstraat;19;;
+ANTWERPEN-WEST - FH07;2062220;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Vrijdagmarkt;22;;
+ANTWERPEN-WEST - FH07;60741;1;0;0;1;SDU;;N;ORN;4;12;;;;;BUILDING template;Bergstraat;14;;
+ANTWERPEN-WEST - FH07;NB-20001512840;1;0;0;1;SDU;;N;IRREG;2;;;;;Review Required;BUILDING template;Korte Riddersstraat;15;1;
+ANTWERPEN-WEST - FH07;1971938;4;1;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Kronenburgstraat;12;;
+ANTWERPEN-WEST - FH07;1856922;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Graaf van Egmontstraat;21;;
+ANTWERPEN-WEST - FH07;60996;16;0;2;18;MDU;XA;Y;NA;6;15;;;;;BUILDING template;Nationalestraat;68;;Nationalestraat 66-68
+ANTWERPEN-WEST - FH07;1873249;4;0;0;4;MDU;D;Y;NA;4;9;;;Y;Bovenste verdiep niet zichtbaar van op straat;BUILDING template;Franckenstraat;16;;
+ANTWERPEN-WEST - FH07;1971943;6;1;0;7;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kronenburgstraat;14;;
+ANTWERPEN-WEST - FH07;4516985;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Graaf van Egmontstraat;23;;
+ANTWERPEN-WEST - FH07;61000;0;1;0;1;MDU;D;Y;NA;1;3;;;;;BUILDING template;Franckenstraat;22;;Franckenstraat 20-22
+ANTWERPEN-WEST - FH07;NB-20001714835;1;0;0;1;SDU;0;N;IRREG;2;;;;;Review Required;BUILDING template;Korte Riddersstraat;17;1;
+ANTWERPEN-WEST - FH07;49160;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;Bovenste verdiep niet zichtbaar van op straat.;BUILDING template;Franckenstraat;18;;
+ANTWERPEN-WEST - FH07;1856970;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Graaf van Egmontstraat;25;;
+ANTWERPEN-WEST - FH07;61003;4;0;0;4;MDU;D;Y;NA;5;4;;;;Op Nationalestraat 102 staat ook een SDU ingedeeld die enkel voor de BU gebruikt wordt. De aansluiting en en verdelingen dienen te gebeuren via de gevel van de Nationalestraat 102.;BUILDING template;Steenbergstraat;40;;Steenbergstraat 40_Nationalestraat 102
+ANTWERPEN-WEST - FH07;4132530;1;0;0;1;MDU;D;Y;NA;1;3;;;Y;;BUILDING template;Pompstraat;25;;Pompstraat 25-27-29
+ANTWERPEN-WEST - FH07;1462369;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kronenburgstraat;20;;
+ANTWERPEN-WEST - FH07;1857015;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;27;;
+ANTWERPEN-WEST - FH07;44173;1;0;0;1;SDU;D;Y;NA;3;9;;;;;BUILDING template;Kloosterstraat;11;;
+ANTWERPEN-WEST - FH07;61005;0;1;0;1;SDU;;Y;NA;1;3;;;;;BUILDING template;Lange Vlierstraat;35;;
+ANTWERPEN-WEST - FH07;NB-2000233c912;1;0;0;1;SDU;;N;IRREG;2;;;;;Review Required;BUILDING template;Korte Riddersstraat;23;3;
+ANTWERPEN-WEST - FH07;1737778;8;0;1;9;MDU;D;N;IRREG;4;12;;;Y;;BUILDING template;Kloosterstraat;3;;
+ANTWERPEN-WEST - FH07;2045076;0;1;0;1;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Pompstraat;27;;Pompstraat 25-27-29
+ANTWERPEN-WEST - FH07;1971977;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kronenburgstraat;22;;
+ANTWERPEN-WEST - FH07;1857030;2;0;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;29;;
+ANTWERPEN-WEST - FH07;61010;4;0;0;4;MDU;D;Y;NA;5;15;;;;Nationalestraat 64 is BU, David Mayer Naman;BUILDING template;Sint-Andriesstraat;44;;Nationalestraat 64_Sint-Andriesstraat 44
+ANTWERPEN-WEST - FH07;3918280;6;1;0;7;MDU;C;N;ORN;4;12;;;Y;;BUILDING template;Kloosterstraat;5;;
+ANTWERPEN-WEST - FH07;4509979;1;0;0;1;MDU;D;Y;NA;1;3;;;Y;;BUILDING template;Pompstraat;29;;Pompstraat 25-27-29
+ANTWERPEN-WEST - FH07;3987038;0;1;0;1;MDU;D;Y;NA;1;3;;;Y;;BUILDING template;Kronenburgstraat;24;;Kronenburgstraat  24-26
+ANTWERPEN-WEST - FH07;1857049;1;0;0;1;MDU;C;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;31;;Graaf van Egmontstraat 25A-31
+ANTWERPEN-WEST - FH07;55303;0;1;0;1;SDU;;N;IRREG;6;18;;;;;BUILDING template;Kammenstraat;2;;
+ANTWERPEN-WEST - FH07;61102;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Vrijdagmarkt;11;;
+ANTWERPEN-WEST - FH07;4207021;5;0;0;5;MDU;D;N;MON;3;;Monument;;;Review Required;BUILDING template;Korte Riddersstraat;21;;Korte Riddersstraat 19-21
+ANTWERPEN-WEST - FH07;1737780;1;1;0;2;MDU;D;N;ORN;1;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Kloosterstraat;7;;Kloosterstraat 7-9
+ANTWERPEN-WEST - FH07;2045077;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;31;;
+ANTWERPEN-WEST - FH07;4516972;3;0;0;3;MDU;D;Y;NA;4;9;;;Y;;BUILDING template;Kronenburgstraat;26;;Kronenburgstraat  24-26
+ANTWERPEN-WEST - FH07;1857065;0;1;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;33;;
+ANTWERPEN-WEST - FH07;61108;0;6;0;6;MDU;;Y;NA;7;4;;;;;BUILDING template;Nationalestraat;28;;Nationalestraat 28-32
+ANTWERPEN-WEST - FH07;1737782;2;0;0;2;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Kloosterstraat;9;;Kloosterstraat 7-9
+ANTWERPEN-WEST - FH07;2045078;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;33;;
+ANTWERPEN-WEST - FH07;1971990;5;2;0;7;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kronenburgstraat;28;;
+ANTWERPEN-WEST - FH07;976244;3;1;0;4;MDU;D;Y;NA;4;15;;;Y;Voorheen 6 Units wordt nu verbouwd tot 1 unit per verdieping;BUILDING template;Graaf van Egmontstraat;35;;
+ANTWERPEN-WEST - FH07;718875;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Waaistraat;2;;
+ANTWERPEN-WEST - FH07;1737795;4;0;0;4;MDU;C;N;MON;4;0;Monument;;Y;MON;BUILDING template;Kloosterstraat;31;;
+ANTWERPEN-WEST - FH07;61006;1;0;0;1;SDU;;Y;NA;4;12;;;Y;SDU, LU - studentenhuis;BUILDING template;Salm-Salmstraat;2;;
+ANTWERPEN-WEST - FH07;1971996;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Kronenburgstraat;30;;
+ANTWERPEN-WEST - FH07;1447842;3;1;1;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;37;;
+ANTWERPEN-WEST - FH07;718921;0;1;0;1;SDU;;Y;NA;6;4;Beschermd Erfgoed;;;BE;BUILDING template;Lange Riddersstraat;48;;
+ANTWERPEN-WEST - FH07;1737796;1;1;1;3;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Kloosterstraat;33;;
+ANTWERPEN-WEST - FH07;2049975;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Salm-Salmstraat;4;;
+ANTWERPEN-WEST - FH07;1972015;8;3;0;11;MDU;;N;MON;2;0;Monument;;Y;MON;BUILDING template;Kronenburgstraat;34;;
+ANTWERPEN-WEST - FH07;3965490;0;1;2;3;MDU;D;Y;NA;2;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;39;;Graaf van Egmontstraat 39-39A-41
+ANTWERPEN-WEST - FH07;972770;8;0;2;10;MDU;XC;N;ORN;5;0;Beschermd Erfgoed;;;BE;BUILDING template;Korte Vlierstraat;10;;
+ANTWERPEN-WEST - FH07;1737803;1;1;1;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Kloosterstraat;51;;
+ANTWERPEN-WEST - FH07;4506576;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Salm-Salmstraat;6;;
+ANTWERPEN-WEST - FH07;1972032;0;1;0;1;SDU;;Y;NA;4;12;;;Y;Na contact met de eigenaar mr Vervaet - 0478 88 50 53 - werd me bevestigd dat deze kamers inclusief internetverbinding worden verhuurd. Heden 17 entiteiten welke er 12 worden na verbouwing.;BUILDING template;Kronenburgstraat;38;;
+ANTWERPEN-WEST - FH07;1857196;5;0;0;5;MDU;;Y;NA;3;9;;;Y;;BUILDING template;Graaf van Egmontstraat;43;;
+ANTWERPEN-WEST - FH07;972771;2;1;0;3;MDU;D;N;ORN;3;0;Beschermd Erfgoed;;;BE;BUILDING template;Korte Vlierstraat;4;;
+ANTWERPEN-WEST - FH07;4006062;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;59;;
+ANTWERPEN-WEST - FH07;1321518;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Salm-Salmstraat;8;;
+ANTWERPEN-WEST - FH07;976231;5;1;0;6;MDU;XC;Y;NA;5;12;;;Y;;BUILDING template;Kronenburgstraat;40;;
+ANTWERPEN-WEST - FH07;1857207;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Graaf van Egmontstraat;45;;
+ANTWERPEN-WEST - FH07;972798;0;1;0;1;SDU;;N;IRREG;3;12;;;;;BUILDING template;Sint-Andriesplaats;25;;
+ANTWERPEN-WEST - FH07;2047277;6;0;0;6;MDU;D;N;IRREG;3;;;;;Review Required;BUILDING template;Korte Riddersstraat;11;;
+ANTWERPEN-WEST - FH07;44479;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Korte Vlierstraat;1;;
+ANTWERPEN-WEST - FH07;4105517;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Salm-Salmstraat;14;;
+ANTWERPEN-WEST - FH07;976227;6;0;0;6;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;39;;
+ANTWERPEN-WEST - FH07;1857228;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;47;;
+ANTWERPEN-WEST - FH07;1737785;5;1;0;6;MDU;C;N;IRREG;3;12;;;;;BUILDING template;Kloosterstraat;13;;
+ANTWERPEN-WEST - FH07;973303;2;0;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Kronenburgstraat;19;;
+ANTWERPEN-WEST - FH07;2061328;3;1;1;5;MDU;D;Y;NA;4;9;;;Y;;BUILDING template;Korte Vlierstraat;3;;
+ANTWERPEN-WEST - FH07;61007;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Salm-Salmstraat;16;;
+ANTWERPEN-WEST - FH07;2050518;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Scheldestraat;41;;
+ANTWERPEN-WEST - FH07;1857240;3;0;0;3;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;49;;
+ANTWERPEN-WEST - FH07;4509994;0;1;0;1;SDU;;N;ORN;5;15;;;Y;;BUILDING template;Lange Riddersstraat;55;;
+ANTWERPEN-WEST - FH07;976260;0;1;0;1;MDU;XA;N;IRREG;1;3;;;;;BUILDING template;Volkstraat;6;;Volkstraat 2-4-6
+ANTWERPEN-WEST - FH07;2061329;1;1;1;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Korte Vlierstraat;5;;
+ANTWERPEN-WEST - FH07;49165;1;0;0;1;SDU;;Y;NA;1;4;;;Y;;BUILDING template;Steenbergstraat;1;;
+ANTWERPEN-WEST - FH07;4516977;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;43;;
+ANTWERPEN-WEST - FH07;1857260;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Graaf van Egmontstraat;51;;
+ANTWERPEN-WEST - FH07;2047324;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Lange Riddersstraat;61;;
+ANTWERPEN-WEST - FH07;976542;10;0;2;12;MDU;C;N;IRREG;5;15;;;;;BUILDING template;Willem Lepelstraat;7;;Willem Lepelstraat 5-7
+ANTWERPEN-WEST - FH07;2061330;3;0;1;4;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Korte Vlierstraat;7;;
+ANTWERPEN-WEST - FH07;61004;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;5;;
+ANTWERPEN-WEST - FH07;4516978;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;45;;
+ANTWERPEN-WEST - FH07;1857263;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;studentenkoten;BUILDING template;Graaf van Egmontstraat;53;;
+ANTWERPEN-WEST - FH07;4187090;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Lange Riddersstraat;63;;
+ANTWERPEN-WEST - FH07;976544;12;0;2;14;MDU;XA;N;IRREG;6;18;;;;;BUILDING template;Willem Lepelstraat;11;;
+ANTWERPEN-WEST - FH07;4505175;2;1;1;4;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Korte Vlierstraat;9;;
+ANTWERPEN-WEST - FH07;61110;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;18;;
+ANTWERPEN-WEST - FH07;2054372;2;1;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;7;;
+ANTWERPEN-WEST - FH07;4516979;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Scheldestraat;49;;
+ANTWERPEN-WEST - FH07;1470408;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Graaf van Egmontstraat;55;;
+ANTWERPEN-WEST - FH07;3928248;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Lange Riddersstraat;65;;
+ANTWERPEN-WEST - FH07;976554;0;1;0;1;MDU;D;Y;NA;2;6;;;;;BUILDING template;Prekersstraat;55;;Prekersstraat 53-55
+ANTWERPEN-WEST - FH07;2061331;2;0;1;3;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Korte Vlierstraat;11;;
+ANTWERPEN-WEST - FH07;2025038;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;20;;
+ANTWERPEN-WEST - FH07;2054374;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;9;;
+ANTWERPEN-WEST - FH07;2050524;6;0;0;6;MDU;XC;Y;NA;5;15;;;Y;;BUILDING template;Scheldestraat;53;;
+ANTWERPEN-WEST - FH07;1857295;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Graaf van Egmontstraat;57;;
+ANTWERPEN-WEST - FH07;2047326;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;69;;
+ANTWERPEN-WEST - FH07;976556;0;0;0;0;SDU;;N;ORN;4;12;;;N;;BUILDING template;Prekersstraat;37;;
+ANTWERPEN-WEST - FH07;2061332;1;1;1;3;MDU;D;N;ORN;3;9;;;Y;;BUILDING template;Korte Vlierstraat;13;;
+ANTWERPEN-WEST - FH07;2025043;1;1;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;22;;
+ANTWERPEN-WEST - FH07;2054378;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;13;;
+ANTWERPEN-WEST - FH07;2050526;0;0;0;0;SDU;;Y;NA;3;4;Beschermd Erfgoed;;N;BE;BUILDING template;Scheldestraat;55;;
+ANTWERPEN-WEST - FH07;976243;2;1;0;3;MDU;D;Y;NA;5;15;;;Y;Gebouw gaat van binnen verbouwd worden maar blijft 1 BU en 2 LU's;BUILDING template;Graaf van Egmontstraat;59;;
+ANTWERPEN-WEST - FH07;4510000;1;0;0;1;SDU;;N;ORN;4;0;;;Y;Huisnummer bestaat niet;BUILDING template;Lange Riddersstraat;71;;
+ANTWERPEN-WEST - FH07;976567;1;0;0;1;SDU;;Y;NA;15;4;;;;;BUILDING template;Van Craesbeeckstraat;9;;
+ANTWERPEN-WEST - FH07;2047279;6;0;0;6;MDU;D;N;IRREG;3;;;;;Review Required;BUILDING template;Korte Riddersstraat;13;;
+ANTWERPEN-WEST - FH07;2061333;0;1;0;1;MDU;;Y;NA;4;12;;;Y;Nr 15 is BU;BUILDING template;Korte Vlierstraat;15;;Korte Vlierstraat 15-17
+ANTWERPEN-WEST - FH07;2025052;0;2;0;2;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;24;;
+ANTWERPEN-WEST - FH07;61012;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;17;;
+ANTWERPEN-WEST - FH07;2050530;9;1;0;10;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;59;;
+ANTWERPEN-WEST - FH07;3997468;1;2;0;3;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Graaf van Egmontstraat;35;A;
+ANTWERPEN-WEST - FH07;2047327;0;1;0;1;SDU;;N;MON;2;0;Monument;;Y;MON;BUILDING template;Lange Riddersstraat;77;;
+ANTWERPEN-WEST - FH07;976572;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Van Craesbeeckstraat;28;;
+ANTWERPEN-WEST - FH07;2061335;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Korte Vlierstraat;19;;
+ANTWERPEN-WEST - FH07;61109;4;1;0;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;26;;
+ANTWERPEN-WEST - FH07;49166;5;0;0;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;19;;
+ANTWERPEN-WEST - FH07;4516980;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;61;;
+ANTWERPEN-WEST - FH07;4516988;0;0;0;0;SDU;;Y;NA;4;12;;;N;;BUILDING template;Scheldestraat;40;;
+ANTWERPEN-WEST - FH07;718540;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;79;;
+ANTWERPEN-WEST - FH07;1072862;0;1;0;1;MDU;;Y;NA;7;4;;;;;BUILDING template;Nationalestraat;32;;Nationalestraat 28-32
+ANTWERPEN-WEST - FH07;44629;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Korte Vlierstraat;21;;
+ANTWERPEN-WEST - FH07;61098;6;1;0;7;MDU;A;N;ORN;6;18;;;Y;"Blokked; toegang geweigerd door bewoner";BUILDING template;Steenhouwersvest;40;;
+ANTWERPEN-WEST - FH07;2050532;2;0;0;2;MDU;D;Y;NA;4;4;Dorpsgezicht;;Y;DG;BUILDING template;Scheldestraat;63;;
+ANTWERPEN-WEST - FH07;976230;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;42;;
+ANTWERPEN-WEST - FH07;2045068;1;0;0;1;SDU;;N;IRREG;4;12;;;Y;;BUILDING template;Pompstraat;10;;
+ANTWERPEN-WEST - FH07;1075070;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Steenhouwersvest;3;;
+ANTWERPEN-WEST - FH07;44480;1;0;0;1;SDU;;N;IRREG;4;12;;;Y;;BUILDING template;Korte Vlierstraat;23;;
+ANTWERPEN-WEST - FH07;2054522;4;1;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Steenhouwersvest;42;;
+ANTWERPEN-WEST - FH07;60999;3;1;0;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Franckenstraat;20;;Franckenstraat 20-22
+ANTWERPEN-WEST - FH07;2050533;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;65;;
+ANTWERPEN-WEST - FH07;2050519;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;44;;
+ANTWERPEN-WEST - FH07;4510006;2;0;0;2;MDU;D;N;IRREG;4;12;;;Y;;BUILDING template;Pompstraat;12;;
+ANTWERPEN-WEST - FH07;972776;16;0;2;18;MDU;C;Y;NA;4;4;;;;;BUILDING template;Kloosterstraat;141;;
+ANTWERPEN-WEST - FH07;1101815;4;1;0;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Graaf van Egmontstraat;11;;
+ANTWERPEN-WEST - FH07;718917;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;2;;
+ANTWERPEN-WEST - FH07;2054524;0;1;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;44;;
+ANTWERPEN-WEST - FH07;60991;1;1;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;80;;
+ANTWERPEN-WEST - FH07;2050534;2;0;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;67;;
+ANTWERPEN-WEST - FH07;2050520;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;46;;
+ANTWERPEN-WEST - FH07;2045071;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;14;;
+ANTWERPEN-WEST - FH07;1737787;0;1;0;1;SDU;;N;MON;3;0;Monument;;;Monument;BUILDING template;Kloosterstraat;15;;
+ANTWERPEN-WEST - FH07;1101820;4;0;0;4;MDU;D;N;IRREG;3;9;;;;;BUILDING template;Van Craesbeeckstraat;26;;
+ANTWERPEN-WEST - FH07;2047297;4;0;1;5;MDU;D;N;IRREG;4;12;;;Y;;BUILDING template;Lange Riddersstraat;4;;
+ANTWERPEN-WEST - FH07;2054526;4;1;0;5;MDU;XC;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;46;;
+ANTWERPEN-WEST - FH07;12643;4;1;0;5;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;82;;
+ANTWERPEN-WEST - FH07;2050535;4;0;0;4;MDU;D;Y;NA;5;12;;;Y;;BUILDING template;Scheldestraat;69;;
+ANTWERPEN-WEST - FH07;2050521;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;De LU’s te 1e verdieping achter wordt in samenspraak met de eigenaar Yannick De Wieuw voorzien via inkom- en trappenhal.;BUILDING template;Scheldestraat;48;;
+ANTWERPEN-WEST - FH07;2045072;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;16;;
+ANTWERPEN-WEST - FH07;1290590;0;1;0;1;MDU;D;Y;NA;2;4;Beschermd Erfgoed;;;BE;BUILDING template;Graaf van Egmontstraat;41;;Graaf van Egmontstraat 39-39A-41
+ANTWERPEN-WEST - FH07;4505189;3;0;0;3;MDU;D;Y;NA;4;9;;;Y;;BUILDING template;Lange Riddersstraat;6;;
+ANTWERPEN-WEST - FH07;2054527;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;48;;
+ANTWERPEN-WEST - FH07;3928061;0;1;0;1;MDU;;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;84;;Nationalestraat 84-86
+ANTWERPEN-WEST - FH07;4155806;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Scheldestraat;71;;
+ANTWERPEN-WEST - FH07;4516989;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Scheldestraat;50;;
+ANTWERPEN-WEST - FH07;2045073;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Pompstraat;18;;
+ANTWERPEN-WEST - FH07;1292729;4;0;0;4;MDU;D;Y;NA;5;15;;;;;BUILDING template;Heilige Geeststraat;1;;
+ANTWERPEN-WEST - FH07;1971954;3;1;0;4;MDU;D;Y;NA;4;3;;;;_;BUILDING template;Kronenburgstraat;17;;
+ANTWERPEN-WEST - FH07;2047301;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;10;;
+ANTWERPEN-WEST - FH07;2054529;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Steenhouwersvest;50;;
+ANTWERPEN-WEST - FH07;2025267;12;1;0;13;MDU;;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;86;;Nationalestraat 84-86
+ANTWERPEN-WEST - FH07;2050538;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;73;;
+ANTWERPEN-WEST - FH07;2050523;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;52;;
+ANTWERPEN-WEST - FH07;49152;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Pompstraat;20;;
+ANTWERPEN-WEST - FH07;1737841;0;1;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Kloosterstraat;155;;
+ANTWERPEN-WEST - FH07;1303525;0;1;0;1;SDU;;N;ORN;4;12;;;;;BUILDING template;Prekersstraat;41;;
+ANTWERPEN-WEST - FH07;718922;2;0;1;3;MDU;D;N;ORN;2;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;12;;
+ANTWERPEN-WEST - FH07;2054530;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Steenhouwersvest;52;;
+ANTWERPEN-WEST - FH07;2025281;0;2;0;2;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;88;;
+ANTWERPEN-WEST - FH07;976229;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;75;;
+ANTWERPEN-WEST - FH07;2050525;1;1;0;2;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;54;;
+ANTWERPEN-WEST - FH07;2045074;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;24;;
+ANTWERPEN-WEST - FH07;1354240;3;0;0;3;MDU;D;Y;NA;3;10;;;;Eigenaar is tevens eigenaar van Steenhouwersvest 28 en  30-32. En gaat akkoord al de kabel ook bij 28 op de gevel wordt geplaatst. Graag in goed overleg. Tekent voor akkoord.;BUILDING template;Steenhouwersvest;34;;
+ANTWERPEN-WEST - FH07;2047303;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;16;;
+ANTWERPEN-WEST - FH07;61099;2;1;0;3;MDU;D;N;ORN;5;0;;;Y;;BUILDING template;Steenhouwersvest;54;;
+ANTWERPEN-WEST - FH07;2025286;11;2;0;13;MDU;XC;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;90;;Nationalestraat 90-92
+ANTWERPEN-WEST - FH07;5576383;0;1;0;1;MDU;XA;N;IRREG;1;3;;;Y;;BUILDING template;Volkstraat;2;;Volkstraat 2-4-6
+ANTWERPEN-WEST - FH07;2050527;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Scheldestraat;56;;
+ANTWERPEN-WEST - FH07;2045075;2;0;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;26;;
+ANTWERPEN-WEST - FH07;1446139;4;0;0;4;MDU;D;Y;NA;5;15;;;;;BUILDING template;Hoogstraat;55;;
+ANTWERPEN-WEST - FH07;2047305;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;18;;
+ANTWERPEN-WEST - FH07;2025303;1;1;0;2;MDU;D;Y;NA;4;15;;;Y;;BUILDING template;Nationalestraat;94;;
+ANTWERPEN-WEST - FH07;976237;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Volkstraat;8;;
+ANTWERPEN-WEST - FH07;2050529;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Scheldestraat;58;;
+ANTWERPEN-WEST - FH07;4510011;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Pompstraat;28;;
+ANTWERPEN-WEST - FH07;60739;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;BE;BUILDING template;Bergstraat;1;;
+ANTWERPEN-WEST - FH07;1737843;2;1;0;3;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Kloosterstraat;161;;
+ANTWERPEN-WEST - FH07;718924;2;0;0;2;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Lange Riddersstraat;22;;
+ANTWERPEN-WEST - FH07;2025306;10;1;0;11;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;96;;
+ANTWERPEN-WEST - FH07;2061587;8;0;0;8;MDU;XC;Y;NA;5;12;;;Y;;BUILDING template;Volkstraat;10;;Volkstraat 10-10A
+ANTWERPEN-WEST - FH07;2050531;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Scheldestraat;60;;
+ANTWERPEN-WEST - FH07;1335597;4;0;0;4;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;Bovenste verdiep is duplex;BUILDING template;Pompstraat;30;;
+ANTWERPEN-WEST - FH07;44177;3;1;1;5;MDU;D;N;ORN;4;12;;;;;BUILDING template;Kloosterstraat;19;;
+ANTWERPEN-WEST - FH07;1740482;3;0;0;3;MDU;XC;N;ORN;4;12;;;;;BUILDING template;Bergstraat;16;;
+ANTWERPEN-WEST - FH07;2047308;1;0;0;1;SDU;;N;ORN;5;15;;;Y;;BUILDING template;Lange Riddersstraat;24;;
+ANTWERPEN-WEST - FH07;60992;2;1;0;3;MDU;D;N;ORN;5;15;;;Y;;BUILDING template;Nationalestraat;100;;
+ANTWERPEN-WEST - FH07;2061589;6;1;0;7;MDU;C;Y;NA;4;12;;;Y;;BUILDING template;Volkstraat;12;;
+ANTWERPEN-WEST - FH07;4516995;2;1;0;3;MDU;D;Y;NA;4;9;;;Y;;BUILDING template;Scheldestraat;68;;
+ANTWERPEN-WEST - FH07;49158;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rijke Beukelaarstraat;4;;
+ANTWERPEN-WEST - FH07;1813924;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Van Craesbeeckstraat;24;;
+ANTWERPEN-WEST - FH07;NB-20005180e102;6;0;0;6;MDU;XC;Y;NA;5;3;;;;_;BUILDING template;Scheldestraat;51;;
+ANTWERPEN-WEST - FH07;2047311;8;0;2;10;MDU;XC;N;ORN;5;15;;;Y;;BUILDING template;Lange Riddersstraat;30;;
+ANTWERPEN-WEST - FH07;61009;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;Gebouw werd net verkocht op www.biddit.be.;BUILDING template;Salm-Salmstraat;1;;
+ANTWERPEN-WEST - FH07;2061590;6;1;0;7;MDU;C;Y;NA;4;3;;;Y;;BUILDING template;Volkstraat;14;;
+ANTWERPEN-WEST - FH07;2050536;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Scheldestraat;70;;
+ANTWERPEN-WEST - FH07;2047573;4;0;0;4;MDU;D;N;ORN;4;0;;;Y;;BUILDING template;Rijke Beukelaarstraat;6;;
+ANTWERPEN-WEST - FH07;1856979;7;0;0;7;MDU;C;Y;NA;5;4;Beschermd Erfgoed;;;Invoer via garage op Nr 31.;BUILDING template;Graaf van Egmontstraat;25;A;Graaf van Egmontstraat 25A-31
+ANTWERPEN-WEST - FH07;1736869;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Augustijnenstraat;3;;
+ANTWERPEN-WEST - FH07;2047313;5;0;1;6;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Lange Riddersstraat;32;;
+ANTWERPEN-WEST - FH07;2049974;1;0;0;1;SDU;;Y;NA;4;12;;;Y;SDU, LU - 6 studentenkamers;BUILDING template;Salm-Salmstraat;3;;
+ANTWERPEN-WEST - FH07;2061591;4;1;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Volkstraat;16;;
+ANTWERPEN-WEST - FH07;2050537;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Scheldestraat;72;;
+ANTWERPEN-WEST - FH07;2047575;2;1;0;3;MDU;D;Y;NA;4;4;Dorpsgezicht;;Y;Bouwlaag 4 is een zolder;BUILDING template;Rijke Beukelaarstraat;8;;
+ANTWERPEN-WEST - FH07;1857055;1;0;2;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;BE;BUILDING template;Graaf van Egmontstraat;31;A;
+ANTWERPEN-WEST - FH07;1736871;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Augustijnenstraat;5;;
+ANTWERPEN-WEST - FH07;2047316;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Lange Riddersstraat;34;;
+ANTWERPEN-WEST - FH07;2049976;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Salm-Salmstraat;7;;
+ANTWERPEN-WEST - FH07;2061593;3;1;0;4;MDU;D;Y;NA;4;15;;;Y;;BUILDING template;Volkstraat;18;;
+ANTWERPEN-WEST - FH07;976228;3;0;0;3;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Scheldestraat;76;;
+ANTWERPEN-WEST - FH07;2047577;1;0;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;Y;DG;BUILDING template;Rijke Beukelaarstraat;10;;
+ANTWERPEN-WEST - FH07;1873225;0;1;0;1;MDU;D;Y;NA;1;3;;;;;BUILDING template;Franckenstraat;5;;Franckenstraat 3-5
+ANTWERPEN-WEST - FH07;1736873;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Augustijnenstraat;9;;
+ANTWERPEN-WEST - FH07;2047318;1;0;0;1;SDU;;Y;NA;3;11;;;Y;;BUILDING template;Lange Riddersstraat;38;;
+ANTWERPEN-WEST - FH07;4506569;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Salm-Salmstraat;9;;
+ANTWERPEN-WEST - FH07;2061595;4;1;0;5;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;20;;
+ANTWERPEN-WEST - FH07;30243;0;2;0;2;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;36;;
+ANTWERPEN-WEST - FH07;2047578;0;1;0;1;SDU;;Y;NA;4;4;Dorpsgezicht;;Y;Bed & Breakfast The Greenhouse;BUILDING template;Rijke Beukelaarstraat;12;;
+ANTWERPEN-WEST - FH07;1873270;8;0;0;8;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;;De BU op gelijkvloers (La Trattoria Italiana) is gelegen op de Nationalestraat 76 en 78.;BUILDING template;Franckenstraat;23;;Nationalestraat 76-78_Franckenstraat 23
+ANTWERPEN-WEST - FH07;1736874;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Augustijnenstraat;11;;
+ANTWERPEN-WEST - FH07;4505199;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;40;;
+ANTWERPEN-WEST - FH07;4333846;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Salm-Salmstraat;11;;
+ANTWERPEN-WEST - FH07;2061597;8;1;1;10;MDU;A;Y;NA;6;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;22;;
+ANTWERPEN-WEST - FH07;2061609;5;1;0;6;MDU;XA;Y;NA;6;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;38;;
+ANTWERPEN-WEST - FH07;2047580;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Rijke Beukelaarstraat;14;;
+ANTWERPEN-WEST - FH07;1959753;3;0;0;3;MDU;D;N;ORN;5;15;;;;;BUILDING template;Kammenstraat;13;;
+ANTWERPEN-WEST - FH07;4141562;1;0;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Augustijnenstraat;13;;
+ANTWERPEN-WEST - FH07;2047319;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;42;;
+ANTWERPEN-WEST - FH07;4506572;1;0;0;1;SDU;;Y;NA;3;9;;;Y;SDU, LU - studentenhuis;BUILDING template;Salm-Salmstraat;13;;
+ANTWERPEN-WEST - FH07;2061600;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;26;;
+ANTWERPEN-WEST - FH07;2061611;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Volkstraat;40;;
+ANTWERPEN-WEST - FH07;2047582;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Rijke Beukelaarstraat;16;;
+ANTWERPEN-WEST - FH07;44179;5;1;0;6;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;21;;Kloosterstraat 21-27
+ANTWERPEN-WEST - FH07;1971925;0;1;0;1;SDU;;Y;NA;1;3;;;;;BUILDING template;Kronenburgstraat;10;;
+ANTWERPEN-WEST - FH07;1736875;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Augustijnenstraat;15;;
+ANTWERPEN-WEST - FH07;2047320;0;1;0;1;SDU;;Y;NA;4;14;;;Y;;BUILDING template;Lange Riddersstraat;44;;
+ANTWERPEN-WEST - FH07;2049978;2;1;0;3;MDU;D;Y;NA;5;15;;;Y;Heden worden de 2 bovenste appartementen verhuurd als B&B;BUILDING template;Salm-Salmstraat;15;;
+ANTWERPEN-WEST - FH07;2061601;0;2;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;28;;
+ANTWERPEN-WEST - FH07;2061612;6;0;0;6;MDU;XA;Y;NA;6;15;;;Y;;BUILDING template;Volkstraat;42;;
+ANTWERPEN-WEST - FH07;2047584;2;0;0;2;MDU;D;Y;NA;4;12;;;Y;2x duplex;BUILDING template;Rijke Beukelaarstraat;18;;
+ANTWERPEN-WEST - FH07;1971959;3;1;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kronenburgstraat;18;;
+ANTWERPEN-WEST - FH07;4505538;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Augustijnenstraat;17;;
+ANTWERPEN-WEST - FH07;718920;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Lange Riddersstraat;46;;
+ANTWERPEN-WEST - FH07;61013;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenbergstraat;21;;
+ANTWERPEN-WEST - FH07;2061602;1;1;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;30;;
+ANTWERPEN-WEST - FH07;2061614;5;1;0;6;MDU;XA;Y;NA;6;15;;;Y;;BUILDING template;Volkstraat;44;;
+ANTWERPEN-WEST - FH07;2047585;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Rijke Beukelaarstraat;20;;
+ANTWERPEN-WEST - FH07;60735;1;0;0;1;SDU;D;Y;NA;3;4;;;;;BUILDING template;Leeuwenstraat;13;;
+ANTWERPEN-WEST - FH07;1971979;0;1;0;1;SDU;;Y;NA;1;3;;;;;BUILDING template;Kronenburgstraat;23;;
+ANTWERPEN-WEST - FH07;1736877;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Augustijnenstraat;19;;
+ANTWERPEN-WEST - FH07;4505153;0;1;0;1;SDU;;N;ORN;2;6;;;Y;;BUILDING template;Lange Riddersstraat;52;;
+ANTWERPEN-WEST - FH07;2054383;1;0;0;1;SDU;;Y;NA;15;4;;;Y;;BUILDING template;Steenbergstraat;23;;
+ANTWERPEN-WEST - FH07;2061604;4;1;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Volkstraat;32;;
+ANTWERPEN-WEST - FH07;2061616;3;2;0;5;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;46;;
+ANTWERPEN-WEST - FH07;49157;4;0;0;4;MDU;D;N;MON;4;0;Monument;;Y;Karaktergevel en ornamenten belemmeren geveldistributie.;BUILDING template;Rijke Beukelaarstraat;22;;
+ANTWERPEN-WEST - FH07;1972005;4;0;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kronenburgstraat;33;;
+ANTWERPEN-WEST - FH07;1736878;1;0;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Augustijnenstraat;21;;
+ANTWERPEN-WEST - FH07;2054385;1;0;0;1;SDU;;Y;NA;5;15;;;Y;SDU, LU - studentenhuis;BUILDING template;Steenbergstraat;25;;
+ANTWERPEN-WEST - FH07;976236;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Volkstraat;34;;
+ANTWERPEN-WEST - FH07;2061618;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Volkstraat;48;;
+ANTWERPEN-WEST - FH07;49164;0;2;0;2;MDU;D;Y;NA;4;15;;;Y;Studentenkoten <20 en BU;BUILDING template;Sint-Andriesplaats;6;;
+ANTWERPEN-WEST - FH07;1989051;50;0;2;52;MDU;XA;N;IRREG;13;39;;;;;BUILDING template;Willem Lepelstraat;15;;Willem Lepelstraat 13-15-17
+ANTWERPEN-WEST - FH07;1736879;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Augustijnenstraat;23;;
+ANTWERPEN-WEST - FH07;2047323;6;0;1;7;MDU;D;N;ORN;4;12;;;Y;;BUILDING template;Lange Riddersstraat;60;;
+ANTWERPEN-WEST - FH07;61002;1;0;0;1;SDU;;N;ORN;4;13;;;Y;;BUILDING template;Steenbergstraat;27;;
+ANTWERPEN-WEST - FH07;2061620;5;1;0;6;MDU;XC;Y;NA;5;12;;;Y;;BUILDING template;Volkstraat;50;;
+ANTWERPEN-WEST - FH07;4510004;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesplaats;9;;
+ANTWERPEN-WEST - FH07;1989061;3;1;0;4;MDU;D;N;ORN;4;12;;;;;BUILDING template;Willem Lepelstraat;18;;Willem Lepelstraat 18-20
+ANTWERPEN-WEST - FH07;1736880;5;0;0;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Augustijnenstraat;25;;
+ANTWERPEN-WEST - FH07;2047325;7;0;1;8;MDU;D;N;ORN;5;15;;;Y;;BUILDING template;Lange Riddersstraat;62;;
+ANTWERPEN-WEST - FH07;4516966;0;0;0;0;SDU;;N;ORN;5;15;;;N;;BUILDING template;Volkstraat;52;;
+ANTWERPEN-WEST - FH07;1735121;1;0;0;1;SDU;;Y;NA;5;4;;;Y;;BUILDING template;Sint-Andriesplaats;10;;
+ANTWERPEN-WEST - FH07;NB-200012742441;0;1;0;1;MDU;A;Y;NA;3;4;;;;_;BUILDING template;Drukkerijstraat;12;;Drukkerijstraat 10-12-14-16
+ANTWERPEN-WEST - FH07;1989079;5;0;2;7;MDU;D;N;IRREG;5;15;;;;;BUILDING template;Willem Lepelstraat;25;A;Willem Lepelstraat 23-23A-25-25A
+ANTWERPEN-WEST - FH07;1736881;2;0;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Augustijnenstraat;27;;
+ANTWERPEN-WEST - FH07;4209258;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Muntstraat;6;;
+ANTWERPEN-WEST - FH07;2061627;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;58;;
+ANTWERPEN-WEST - FH07;1735122;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Sint-Andriesplaats;11;;
+ANTWERPEN-WEST - FH07;1986569;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Leeuwenstraat;11;;
+ANTWERPEN-WEST - FH07;2023772;2;1;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Muntstraat;13;;
+ANTWERPEN-WEST - FH07;1736882;1;0;0;1;SDU;;N;ORN;3;9;;;Y;;BUILDING template;Augustijnenstraat;29;;
+ANTWERPEN-WEST - FH07;2023756;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Muntstraat;8;;
+ANTWERPEN-WEST - FH07;2061630;6;1;0;7;MDU;C;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;60;;
+ANTWERPEN-WEST - FH07;1735123;1;0;0;1;SDU;;Y;NA;4;13;;;Y;;BUILDING template;Sint-Andriesplaats;12;;
+ANTWERPEN-WEST - FH07;2025007;0;1;0;1;SDU;;Y;NA;18;4;;;;;BUILDING template;Nationalestraat;6;;
+ANTWERPEN-WEST - FH07;1736883;2;0;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;beneden LU boven Studentenkoten.;BUILDING template;Augustijnenstraat;31;;
+ANTWERPEN-WEST - FH07;2023761;2;1;0;3;MDU;D;N;MON;4;0;Monument;;Y;MON;BUILDING template;Muntstraat;10;;
+ANTWERPEN-WEST - FH07;1502910;10;2;0;12;MDU;XC;Y;NA;5;15;;;Y;;BUILDING template;Volkstraat;62;;Volkstraat 62-64
+ANTWERPEN-WEST - FH07;1735124;3;0;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesplaats;13;;
+ANTWERPEN-WEST - FH07;2025225;0;1;0;1;MDU;;Y;NA;5;4;Beschermd Erfgoed;;;BE;BUILDING template;Nationalestraat;76;;Nationalestraat 76-78_Franckenstraat 23
+ANTWERPEN-WEST - FH07;3918248;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Augustijnenstraat;33;;
+ANTWERPEN-WEST - FH07;2023767;1;0;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Muntstraat;12;;
+ANTWERPEN-WEST - FH07;2061634;2;1;0;3;MDU;XC;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;66;;
+ANTWERPEN-WEST - FH07;1735125;4;0;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesplaats;14;;
+ANTWERPEN-WEST - FH07;2025299;6;1;0;7;MDU;;Y;NA;5;4;Beschermd Erfgoed;;;BE;BUILDING template;Nationalestraat;92;;Nationalestraat 90-92
+ANTWERPEN-WEST - FH07;1736884;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Augustijnenstraat;35;;
+ANTWERPEN-WEST - FH07;2023774;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Muntstraat;14;;
+ANTWERPEN-WEST - FH07;1351543;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Volkstraat;68;;
+ANTWERPEN-WEST - FH07;3918215;5;0;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Sint-Andriesplaats;15;;
+ANTWERPEN-WEST - FH07;4507881;0;1;0;1;SDU;;Y;NA;5;15;;;;;BUILDING template;Leeuwenstraat;9;;
+ANTWERPEN-WEST - FH07;2025369;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Nationalestraat;114;A;
+ANTWERPEN-WEST - FH07;1736885;2;0;0;2;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Augustijnenstraat;37;;
+ANTWERPEN-WEST - FH07;44481;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Muntstraat;16;;
+ANTWERPEN-WEST - FH07;2061637;4;1;0;5;MDU;D;Y;NA;5;12;;;Y;;BUILDING template;Volkstraat;70;;
+ANTWERPEN-WEST - FH07;1735126;1;0;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Sint-Andriesplaats;16;;
+ANTWERPEN-WEST - FH07;2025474;18;0;0;18;MDU;C;Y;NA;5;4;Beschermd Erfgoed;;;BE;BUILDING template;Nationalestraat;140;;
+ANTWERPEN-WEST - FH07;48899;3;1;0;4;MDU;D;Y;NA;4;15;;;Y;;BUILDING template;Augustijnenstraat;41;;
+ANTWERPEN-WEST - FH07;44496;3;0;1;4;MDU;D;N;ORN;5;15;;;Y;;BUILDING template;Sint-Andriesplaats;1;;
+ANTWERPEN-WEST - FH07;2061638;4;1;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Volkstraat;72;;
+ANTWERPEN-WEST - FH07;49163;0;1;0;1;SDU;;Y;NA;5;15;;;Y;;BUILDING template;Sint-Andriesplaats;17;;
+ANTWERPEN-WEST - FH07;2025485;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;;BE;BUILDING template;Nationalestraat;142;;
+ANTWERPEN-WEST - FH07;48918;5;1;0;6;MDU;XA;Y;NA;6;15;;;Y;;BUILDING template;Drukkerijstraat;6;;
+ANTWERPEN-WEST - FH07;1735118;4;0;1;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Sint-Andriesplaats;2;;
+ANTWERPEN-WEST - FH07;2061639;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Volkstraat;74;;
+ANTWERPEN-WEST - FH07;1737794;1;0;0;1;SDU;D;Y;NA;1;3;;;;;BUILDING template;Kloosterstraat;27;;
+ANTWERPEN-WEST - FH07;1737809;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;61;;
+ANTWERPEN-WEST - FH07;12591;3;1;0;4;MDU;D;N;IRREG;5;15;;;Y;;BUILDING template;Drukkerijstraat;8;;
+ANTWERPEN-WEST - FH07;1735119;9;0;0;9;MDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesplaats;3;;Sint-Andriesplaats 3-4-5
+ANTWERPEN-WEST - FH07;976235;0;1;1;2;MDU;;Y;NA;3;12;;;Y;;BUILDING template;Volkstraat;76;;
+ANTWERPEN-WEST - FH07;1986561;3;0;0;3;MDU;D;Y;NA;4;12;;;;;BUILDING template;Leeuwenstraat;7;;
+ANTWERPEN-WEST - FH07;2045603;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 2;BUILDING template;Prekersstraat;2;A;
+ANTWERPEN-WEST - FH07;48917;8;0;1;9;MDU;A;N;ORN;6;18;;;Y;Vanaf de kelder toegankelijke schacht. Op de begane grond achter de poort links van toegang naar kelder en op de verdiepingen in de trappenhal schacht die met platen dicht geschroefd is.;BUILDING template;Drukkerijstraat;10;;Drukkerijstraat 10-12-14-16
+ANTWERPEN-WEST - FH07;2045604;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 10;BUILDING template;Prekersstraat;10;A;
+ANTWERPEN-WEST - FH07;1873221;4;0;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Franckenstraat;4;;
+ANTWERPEN-WEST - FH07;2045605;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 10;BUILDING template;Prekersstraat;10;B;
+ANTWERPEN-WEST - FH07;NB-200051b2fd48;3;0;0;3;MDU;D;N;IRREG;4;;;;;Distributie bereikbaar via het terras. Het terras is maar 1,5meter diep en geeft rechtstreeks uit in de leefruimte. Zijmuur terras is zelfde steen als gevel.;BUILDING template;Prekersstraat;51;;
+ANTWERPEN-WEST - FH07;5394002;0;1;0;1;SDU;;N;IRREG;3;0;;;;;BUILDING template;Vrijdagmarktstraatje;2;;
+ANTWERPEN-WEST - FH07;1847073;0;1;0;1;MDU;A;N;ORN;6;18;;;Y;;BUILDING template;Drukkerijstraat;14;;Drukkerijstraat 10-12-14-16
+ANTWERPEN-WEST - FH07;44178;3;1;1;5;MDU;D;Y;NA;3;12;;;;;BUILDING template;Kloosterstraat;29;;
+ANTWERPEN-WEST - FH07;2045608;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Huisnummer bestaat niet;BUILDING template;Prekersstraat;18;A;Prekersstraat 16_18_18A_18B_18D
+ANTWERPEN-WEST - FH07;44482;0;1;0;1;SDU;;N;HEIGHT;1;0;;;;;BUILDING template;Muntstraat;2;;
+ANTWERPEN-WEST - FH07;1736868;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Augustijnenstraat;2;;
+ANTWERPEN-WEST - FH07;2045622;0;1;0;1;MDU;;Y;NA;12;4;;;;;BUILDING template;Prekersstraat;71;;Prekerstraat 69-71
+ANTWERPEN-WEST - FH07;976576;6;0;1;7;MDU;C;N;IRREG;3;0;;;;;BUILDING template;Kloosterstraat;147;;
+ANTWERPEN-WEST - FH07;48916;8;2;1;11;MDU;XA;N;ORN;3;0;Beschermd Erfgoed;;Y;XA vanwege benodigde kabellengtes. 50 en 75mtr.;BUILDING template;Drukkerijstraat;22;;
+ANTWERPEN-WEST - FH07;1736870;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Augustijnenstraat;4;;
+ANTWERPEN-WEST - FH07;2047217;8;0;0;8;MDU;D;N;ORN;5;0;Beschermd Erfgoed;;;BE;BUILDING template;Reyndersstraat;2;A;
+ANTWERPEN-WEST - FH07;976575;6;0;1;7;MDU;C;N;ORN;3;0;;;;;BUILDING template;Kloosterstraat;145;;
+ANTWERPEN-WEST - FH07;1183755;4;0;1;5;MDU;XC;N;ORN;4;0;Beschermd Erfgoed;;Y;Er zijn horizontale kabelgoten en verticale opbouwschachten aanwezig. alleen de diamantdoorboring moet nog plaatsvinden.;BUILDING template;Drukkerijstraat;26;;
+ANTWERPEN-WEST - FH07;48900;8;0;2;10;MDU;XA;Y;NA;4;4;;;Y;;BUILDING template;Augustijnenstraat;18;;Augustijnenstraat 18-20_Nationalestraat 50-56-62_Sint-Andriesstraat 19
+ANTWERPEN-WEST - FH07;2047282;26;0;0;26;MDU;XA;Y;NA;5;4;Beschermd Erfgoed;;;BE;BUILDING template;Korte Riddersstraat;14;;Korte ridderstraat 14-18-20_Oever 9-11-13
+ANTWERPEN-WEST - FH07;NB-200073d1cf70;3;0;0;3;MDU;D;N;ORN;4;;;;;_;BUILDING template;Lange Riddersstraat;73;;
+ANTWERPEN-WEST - FH07;4505136;1;0;0;1;SDU;;N;IRREG;4;0;;;;;BUILDING template;Kloosterstraat;43;;
+ANTWERPEN-WEST - FH07;2047275;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Korte Riddersstraat;1;;
+ANTWERPEN-WEST - FH07;5575087;8;0;2;10;MDU;XA;N;ORN;5;12;;;Y;;BUILDING template;Augustijnenstraat;20;;Augustijnenstraat 18-20_Nationalestraat 50-56-62_Sint-Andriesstraat 19
+ANTWERPEN-WEST - FH07;2047285;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Korte Riddersstraat;15;2;
+ANTWERPEN-WEST - FH07;4519687;0;1;0;1;SDU;;N;IRREG;4;0;Beschermd Erfgoed;;;;BUILDING template;Kloosterstraat;75;;
+ANTWERPEN-WEST - FH07;4230472;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Korte Riddersstraat;3;;
+ANTWERPEN-WEST - FH07;1986558;3;0;0;3;MDU;D;Y;NA;4;12;;;;;BUILDING template;Leeuwenstraat;5;;
+ANTWERPEN-WEST - FH07;2047287;7;0;0;7;MDU;XC;N;IRREG;3;12;;;;;BUILDING template;Korte Riddersstraat;17;2;
+ANTWERPEN-WEST - FH07;4519695;4;1;0;5;MDU;D;N;IRREG;5;0;;;;Bivendte verdiep is een duplex;BUILDING template;Kloosterstraat;97;;
+ANTWERPEN-WEST - FH07;2047276;3;0;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Korte Riddersstraat;5;;
+ANTWERPEN-WEST - FH07;718814;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;1;;
+ANTWERPEN-WEST - FH07;2047288;0;1;0;1;MDU;XA;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Korte Riddersstraat;18;;Korte ridderstraat 14-18-20_Oever 9-11-13
+ANTWERPEN-WEST - FH07;4519696;0;1;0;1;SDU;;N;IRREG;4;0;;;;;BUILDING template;Kloosterstraat;99;;
+ANTWERPEN-WEST - FH07;2047296;1;0;0;1;SDU;;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;3;;
+ANTWERPEN-WEST - FH07;2047300;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Lange Riddersstraat;9;;
+ANTWERPEN-WEST - FH07;5414458;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;5;;
+ANTWERPEN-WEST - FH07;2047302;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Lange Riddersstraat;11;;Lange Riddersstraat 11-13-15-17
+ANTWERPEN-WEST - FH07;2047284;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;Huisnummer 15 bestaat niet.;BUILDING template;Korte Riddersstraat;15;;
+ANTWERPEN-WEST - FH07;2047298;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;7;;
+ANTWERPEN-WEST - FH07;2047304;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Lange Riddersstraat;17;;Lange Riddersstraat 11-13-15-17
+ANTWERPEN-WEST - FH07;3928245;0;0;0;0;SDU;;N;IRREG;2;6;;;N;Huisnummer bestaat niet;BUILDING template;Korte Riddersstraat;17;;
+ANTWERPEN-WEST - FH07;4059803;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;13;;Lange Riddersstraat 11-13-15-17
+ANTWERPEN-WEST - FH07;1737797;6;1;1;8;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;35;;
+ANTWERPEN-WEST - FH07;2047574;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;BE;BUILDING template;Rijke Beukelaarstraat;7;;
+ANTWERPEN-WEST - FH07;2047289;6;0;0;6;MDU;D;N;IRREG;4;12;;;Y;;BUILDING template;Korte Riddersstraat;19;;Korte Riddersstraat 19-21
+ANTWERPEN-WEST - FH07;5394004;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;15;;Lange Riddersstraat 11-13-15-17
+ANTWERPEN-WEST - FH07;2049977;4;0;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;Huisnummer “10” herbergt heden enkel en alleen een stal.;BUILDING template;Salm-Salmstraat;12;;
+ANTWERPEN-WEST - FH07;5429490;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;19;;
+ANTWERPEN-WEST - FH07;60734;1;1;0;2;MDU;D;N;ORN;3;9;;;;;BUILDING template;Leeuwenstraat;1;;
+ANTWERPEN-WEST - FH07;2050528;2;1;0;3;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;;BE;BUILDING template;Scheldestraat;57;;
+ANTWERPEN-WEST - FH07;3928247;0;1;0;1;MDU;;N;ORN;3;0;Dorpsgezicht;;Y;DG;BUILDING template;Korte Riddersstraat;23;;Korte ridderstraat 23-25
+ANTWERPEN-WEST - FH07;2047306;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Riddersstraat;21;;
+ANTWERPEN-WEST - FH07;2054376;3;1;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Steenbergstraat;11;;
+ANTWERPEN-WEST - FH07;2047293;1;0;0;1;MDU;;N;ORN;3;9;;;Y;;BUILDING template;Korte Riddersstraat;25;;Korte ridderstraat 23-25
+ANTWERPEN-WEST - FH07;2025132;12;0;2;14;MDU;XA;N;ORN;7;21;;;Y;;BUILDING template;Nationalestraat;50;;Augustijnenstraat 18-20_Nationalestraat 50-56-62_Sint-Andriesstraat 19
+ANTWERPEN-WEST - FH07;2054509;3;0;0;3;MDU;D;Y;NA;4;4;;;;;BUILDING template;Steenhouwersvest;19;;
+ANTWERPEN-WEST - FH07;2047295;1;1;0;2;MDU;D;N;GLASS;3;9;;;Y;;BUILDING template;Korte Riddersstraat;27;;
+ANTWERPEN-WEST - FH07;60995;10;0;2;12;MDU;XA;N;ORN;7;21;;;Y;;BUILDING template;Nationalestraat;56;;Augustijnenstraat 18-20_Nationalestraat 50-56-62_Sint-Andriesstraat 19
+ANTWERPEN-WEST - FH07;2054515;0;1;0;1;MDU;XC;N;ORN;1;3;;;Y;;BUILDING template;Steenhouwersvest;29;;Steenhouwersvest 27-29-31-33_Vrijdagmarktstraatje 3
+ANTWERPEN-WEST - FH07;2054517;6;0;0;6;MDU;XC;N;ORN;4;12;;;;;BUILDING template;Steenhouwersvest;31;;Steenhouwersvest 27-29-31-33_Vrijdagmarktstraatje 3
+ANTWERPEN-WEST - FH07;4505579;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Korte Riddersstraat;29;;
+ANTWERPEN-WEST - FH07;2025160;0;1;0;1;SDU;;N;ORN;7;21;;;Y;;BUILDING template;Nationalestraat;58;;
+ANTWERPEN-WEST - FH07;2054523;2;1;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Steenhouwersvest;43;;
+ANTWERPEN-WEST - FH07;2054518;4;1;0;5;MDU;D;Y;NA;3;9;;;;gebouw heeft huisnummer 30-32;BUILDING template;Steenhouwersvest;32;;
+ANTWERPEN-WEST - FH07;4505580;1;0;0;1;SDU;;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Korte Riddersstraat;31;;
+ANTWERPEN-WEST - FH07;49136;0;1;0;1;SDU;;N;ORN;6;18;;;Y;;BUILDING template;Nationalestraat;60;;
+ANTWERPEN-WEST - FH07;48908;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;45;;
+ANTWERPEN-WEST - FH07;2054534;0;5;0;5;MDU;D;Y;NA;5;15;;;;;BUILDING template;Steenhouwersvest;61;;
+ANTWERPEN-WEST - FH07;2025097;2;1;0;3;MDU;D;N;ORN;3;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;36;;
+ANTWERPEN-WEST - FH07;48925;10;0;2;12;MDU;XA;N;ORN;7;21;;;Y;;BUILDING template;Nationalestraat;62;;Augustijnenstraat 18-20_Nationalestraat 50-56-62_Sint-Andriesstraat 19
+ANTWERPEN-WEST - FH07;2054528;1;1;0;2;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;49;;
+ANTWERPEN-WEST - FH07;2061581;25;0;1;26;MDU;XA;N;IRREG;7;18;;;;;BUILDING template;Volkstraat;4;;Volkstraat 2-4-6
+ANTWERPEN-WEST - FH07;2025110;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;42;;
+ANTWERPEN-WEST - FH07;3928777;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Pastoor Visschersplein;1;;Pastoor Visschersplein 1-2-3-4
+ANTWERPEN-WEST - FH07;48904;2;1;0;3;MDU;XC;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;51;;
+ANTWERPEN-WEST - FH07;2061625;0;0;0;0;SDU;;N;ORN;5;15;;;N;;BUILDING template;Volkstraat;56;;
+ANTWERPEN-WEST - FH07;48926;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Nationalestraat;44;;
+ANTWERPEN-WEST - FH07;2069202;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Pastoor Visschersplein;5;;Pastoor Visschersplein 5-6-7
+ANTWERPEN-WEST - FH07;48914;1;2;0;3;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;12;;
+ANTWERPEN-WEST - FH07;2061632;6;1;0;7;MDU;XC;Y;NA;5;15;;;;;BUILDING template;Volkstraat;64;;Volkstraat 62-64
+ANTWERPEN-WEST - FH07;NB-200024ab474;10;0;2;12;MDU;C;N;IRREG;5;;;;;_;BUILDING template;Prekersstraat;2;;
+ANTWERPEN-WEST - FH07;48927;0;1;0;1;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;38;;Nationalestraat 38-40
+ANTWERPEN-WEST - FH07;5414460;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Pastoor Visschersplein;10;;Pastoor Visschersplein 8-9-10
+ANTWERPEN-WEST - FH07;2062213;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;13;;
+ANTWERPEN-WEST - FH07;2062216;0;1;0;1;SDU;;Y;NA;1;3;;;;;BUILDING template;Vrijdagmarkt;16;;
+ANTWERPEN-WEST - FH07;48905;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Steenhouwersvest;24;;
+ANTWERPEN-WEST - FH07;48923;1;0;0;1;SDU;;N;ORN;2;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesstraat;1;;
+ANTWERPEN-WEST - FH07;976558;0;0;0;0;SDU;;N;ORN;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 4;BUILDING template;Prekersstraat;4;A;
+ANTWERPEN-WEST - FH07;973306;0;1;0;1;SDU;;N;ORN;1;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Kloosterstraat;159;;
+ANTWERPEN-WEST - FH07;2062214;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;14;;
+ANTWERPEN-WEST - FH07;2069201;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;3;;Pastoor Visschersplein 1-2-3-4
+ANTWERPEN-WEST - FH07;2054513;3;1;0;4;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;Y;Derde verdieping onder schuine dak.;BUILDING template;Steenhouwersvest;26;;
+ANTWERPEN-WEST - FH07;4193803;1;0;0;1;SDU;;N;ORN;3;9;;;Y;;BUILDING template;Sint-Andriesstraat;3;;
+ANTWERPEN-WEST - FH07;976560;0;0;0;0;SDU;;N;ORN;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 8;BUILDING template;Prekersstraat;8;A;
+ANTWERPEN-WEST - FH07;1737844;2;0;1;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Kloosterstraat;163;;
+ANTWERPEN-WEST - FH07;3928606;6;0;0;6;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;15;;
+ANTWERPEN-WEST - FH07;2069203;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;6;;Pastoor Visschersplein 5-6-7
+ANTWERPEN-WEST - FH07;48909;2;1;0;3;MDU;D;N;MON;3;0;Monument;;Y;2 LU's en 1 BU, 4 Bussen waarvan 3 in gebruik.;BUILDING template;Steenhouwersvest;28;;
+ANTWERPEN-WEST - FH07;49142;0;1;0;1;SDU;;N;ORN;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesstraat;5;;
+ANTWERPEN-WEST - FH07;5576142;0;1;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;14;;
+ANTWERPEN-WEST - FH07;976539;3;1;0;4;MDU;C;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;116;;
+ANTWERPEN-WEST - FH07;1737845;3;1;1;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;167;;
+ANTWERPEN-WEST - FH07;2062217;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;17;;
+ANTWERPEN-WEST - FH07;2069204;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;7;;Pastoor Visschersplein 5-6-7
+ANTWERPEN-WEST - FH07;2054516;0;1;0;1;SDU;;Y;NA;1;3;;;Y;;BUILDING template;Steenhouwersvest;30;;
+ANTWERPEN-WEST - FH07;49144;1;0;0;1;SDU;;N;MON;2;0;Monument;;Y;Studentenkamers;BUILDING template;Sint-Andriesstraat;7;;
+ANTWERPEN-WEST - FH07;976563;0;1;0;1;MDU;XC;N;IRREG;5;15;;;Y;;BUILDING template;Prekersstraat;16;;Prekersstraat 16-18-18A-18B-18D
+ANTWERPEN-WEST - FH07;2025377;1;1;0;2;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;Zie Prekersstraat 46;BUILDING template;Nationalestraat;118;;
+ANTWERPEN-WEST - FH07;1737846;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;169;;
+ANTWERPEN-WEST - FH07;2062218;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;18;;
+ANTWERPEN-WEST - FH07;2069205;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;9;;Pastoor Visschersplein 8-9-10
+ANTWERPEN-WEST - FH07;2054521;6;2;0;8;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;36;;
+ANTWERPEN-WEST - FH07;1735131;7;0;2;9;MDU;XA;N;ORN;5;18;;;Y;;BUILDING template;Sint-Andriesstraat;19;;Augustijnenstraat 18-20_Nationalestraat 50-56-62_Sint-Andriesstraat 19
+ANTWERPEN-WEST - FH07;5576143;18;0;2;20;MDU;XC;N;IRREG;5;15;;;Y;;BUILDING template;Prekersstraat;18;;Prekersstraat 16-18-18A-18B-18D
+ANTWERPEN-WEST - FH07;2025382;12;1;0;13;MDU;C;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;120;;
+ANTWERPEN-WEST - FH07;1737847;3;1;1;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;171;;
+ANTWERPEN-WEST - FH07;2062219;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Vrijdagmarkt;19;;
+ANTWERPEN-WEST - FH07;3919740;5;0;2;7;MDU;D;Y;NA;5;4;;;;;BUILDING template;Van Craesbeeckstraat;13;A;Van Craesbeeckstraat 11-13-13A-15-15B
+ANTWERPEN-WEST - FH07;2054520;6;2;0;8;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Steenhouwersvest;34;A;
+ANTWERPEN-WEST - FH07;1735130;1;0;0;1;SDU;;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Sint-Andriesstraat;3;A;
+ANTWERPEN-WEST - FH07;976564;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;;BUILDING template;Van Craesbeeckstraat;22;;
+ANTWERPEN-WEST - FH07;1326106;16;0;0;16;MDU;A;N;ORN;6;18;;;Y;;BUILDING template;Nationalestraat;122;;
+ANTWERPEN-WEST - FH07;1737848;4;2;0;6;MDU;D;Y;NA;5;12;;;Y;;BUILDING template;Kloosterstraat;173;;
+ANTWERPEN-WEST - FH07;48913;3;1;0;4;MDU;D;Y;NA;4;15;;;Y;;BUILDING template;Vrijdagmarkt;21;;
+ANTWERPEN-WEST - FH07;3928194;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Gebouw bestaat niet, survey onder huisnummer 2;BUILDING template;Prekersstraat;2;B;
+ANTWERPEN-WEST - FH07;5363285;0;1;0;1;SDU;;N;MON;1;0;Monument;;Y;MON;BUILDING template;Waaistraat;1;;
+ANTWERPEN-WEST - FH07;976541;10;0;2;12;MDU;C;N;IRREG;5;15;;;Y;;BUILDING template;Willem Lepelstraat;5;;Willem Lepelstraat 5-7
+ANTWERPEN-WEST - FH07;2025398;6;1;0;7;MDU;XA;N;ORN;7;0;Beschermd Erfgoed;;Y;Ondergrondse distributie, geen kelder, geen gevel mogelijk wegens arduin. CFR telefoon Timmy: te bespreken PXS;BUILDING template;Nationalestraat;124;;
+ANTWERPEN-WEST - FH07;1737849;3;1;1;5;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;175;;
+ANTWERPEN-WEST - FH07;3928195;0;0;0;0;SDU;;N;IRREG;5;15;;;N;Huisnummer bestaat niet;BUILDING template;Prekersstraat;18;D;Prekersstraat 16_18_18A_18B_18D
+ANTWERPEN-WEST - FH07;976543;12;0;2;14;MDU;XA;N;IRREG;6;18;;;Y;;BUILDING template;Willem Lepelstraat;9;;
+ANTWERPEN-WEST - FH07;1520006;6;1;0;7;MDU;XC;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;126;;
+ANTWERPEN-WEST - FH07;1737850;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;177;;
+ANTWERPEN-WEST - FH07;3928369;6;0;0;6;MDU;D;Y;NA;4;12;;;;;BUILDING template;Scheldestraat;74;;
+ANTWERPEN-WEST - FH07;976545;0;1;0;1;MDU;XA;N;IRREG;13;39;;;Y;;BUILDING template;Willem Lepelstraat;13;;Willem Lepelstraat 13-15-17
+ANTWERPEN-WEST - FH07;2025413;4;1;1;6;MDU;D;Y;NA;5;18;;;Y;;BUILDING template;Nationalestraat;128;;
+ANTWERPEN-WEST - FH07;1737851;1;0;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;179;;
+ANTWERPEN-WEST - FH07;3928595;7;0;0;7;MDU;XA;Y;NA;6;15;;;;;BUILDING template;Volkstraat;66;A;
+ANTWERPEN-WEST - FH07;976546;11;0;1;12;MDU;D;N;IRREG;3;9;;;Y;;BUILDING template;Willem Lepelstraat;19;;Willem Lepelstraat 19-21
+ANTWERPEN-WEST - FH07;2025420;5;1;0;6;MDU;A;N;ORN;6;18;;;Y;;BUILDING template;Nationalestraat;130;;
+ANTWERPEN-WEST - FH07;1737852;15;1;0;16;MDU;C;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;181;;
+ANTWERPEN-WEST - FH07;976577;8;0;1;9;MDU;C;N;IRREG;3;12;;;;;BUILDING template;Kloosterstraat;149;;
+ANTWERPEN-WEST - FH07;3928766;3;0;0;3;MDU;XC;N;ORN;3;9;;;;;BUILDING template;Vrijdagmarktstraatje;3;;Steenhouwersvest 27-29-31-33_Vrijdagmarktstraatje 3
+ANTWERPEN-WEST - FH07;2025438;0;1;0;1;SDU;D;N;ORN;5;18;;;Y;Bu zit mee in gebouw 132, maar heeft aparte nummer 132A;BUILDING template;Nationalestraat;132;;
+ANTWERPEN-WEST - FH07;1737853;6;1;0;7;MDU;D;Y;NA;4;12;;;Y;Gesprek met Marion Stoffels wijst uit dat elk appartement via raam op straat uitkijkt.;BUILDING template;Kloosterstraat;183;;
+ANTWERPEN-WEST - FH07;1737805;3;1;1;5;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;53;;
+ANTWERPEN-WEST - FH07;3928778;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;2;;Pastoor Visschersplein 1-2-3-4
+ANTWERPEN-WEST - FH07;NB-20004b26f58;9;0;2;11;MDU;C;N;IRREG;5;;;;;_;BUILDING template;Prekersstraat;4;;
+ANTWERPEN-WEST - FH07;2025461;3;1;0;4;MDU;C;N;ORN;4;12;;;Y;;BUILDING template;Nationalestraat;134;;
+ANTWERPEN-WEST - FH07;1737854;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Kloosterstraat;185;;
+ANTWERPEN-WEST - FH07;3971353;14;3;0;17;MDU;B;N;ORN;5;15;;;;Liften aangesloten op SIM box;BUILDING template;Volkstraat;54;;
+ANTWERPEN-WEST - FH07;2025466;12;1;0;13;MDU;C;Y;NA;4;12;;;Y;;BUILDING template;Nationalestraat;136;;
+ANTWERPEN-WEST - FH07;973305;3;1;0;4;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Kloosterstraat;187;;
+ANTWERPEN-WEST - FH07;4024487;8;0;0;8;MDU;D;Y;NA;5;15;;;;;BUILDING template;Franckenstraat;14;;
+ANTWERPEN-WEST - FH07;3928063;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Nationalestraat;138;;
+ANTWERPEN-WEST - FH07;973299;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Kronenburgstraat;1;;
+ANTWERPEN-WEST - FH07;4085699;0;1;0;1;MDU;D;Y;NA;2;6;;;;;BUILDING template;Graaf van Egmontstraat;39;A;Graaf van Egmontstraat 39-39A-41
+ANTWERPEN-WEST - FH07;2025490;7;1;0;8;MDU;C;Y;NA;5;15;;;Y;;BUILDING template;Nationalestraat;144;;
+ANTWERPEN-WEST - FH07;1971910;3;0;0;3;MDU;D;Y;NA;3;12;;;Y;;BUILDING template;Kronenburgstraat;3;;
+ANTWERPEN-WEST - FH07;4201488;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Salm-Salmstraat;5;;
+ANTWERPEN-WEST - FH07;2025505;4;1;1;6;MDU;D;Y;NA;5;18;;;Y;;BUILDING template;Nationalestraat;146;;
+ANTWERPEN-WEST - FH07;1971915;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Kronenburgstraat;5;;
+ANTWERPEN-WEST - FH07;976538;3;1;1;5;MDU;D;Y;NA;4;13;;;Y;;BUILDING template;Nationalestraat;148;;
+ANTWERPEN-WEST - FH07;4212946;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;4;;Pastoor Visschersplein 1-2-3-4
+ANTWERPEN-WEST - FH07;976551;5;0;0;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;34;;
+ANTWERPEN-WEST - FH07;4505198;0;1;0;1;SDU;;Y;NA;1;3;;;;;BUILDING template;Lange Riddersstraat;36;;
+ANTWERPEN-WEST - FH07;2045614;4;1;0;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;36;;
+ANTWERPEN-WEST - FH07;4505201;0;1;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;;BE;BUILDING template;Oever;25;;
+ANTWERPEN-WEST - FH07;4518329;5;0;0;5;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;38;;
+ANTWERPEN-WEST - FH07;4505594;0;1;0;1;SDU;;Y;NA;1;4;;;;;BUILDING template;Steenhouwersvest;21;;
+ANTWERPEN-WEST - FH07;2045615;3;1;0;4;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;40;;
+ANTWERPEN-WEST - FH07;4505143;3;0;1;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;57;;
+ANTWERPEN-WEST - FH07;4506581;5;1;0;6;MDU;;Y;NA;5;4;Beschermd Erfgoed;;;BE;BUILDING template;Nationalestraat;98;;
+ANTWERPEN-WEST - FH07;2045616;4;1;1;6;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Prekersstraat;42;;
+ANTWERPEN-WEST - FH07;973304;2;1;0;3;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Kronenburgstraat;21;;
+ANTWERPEN-WEST - FH07;4506584;1;0;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;;BE;BUILDING template;Steenbergstraat;26;;
+ANTWERPEN-WEST - FH07;NB-20006fa5627;9;0;2;11;MDU;C;N;IRREG;5;;;;;_;BUILDING template;Prekersstraat;6;;
+ANTWERPEN-WEST - FH07;1449286;0;2;0;2;MDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;44;;
+ANTWERPEN-WEST - FH07;4517181;0;1;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Kronenburgstraat;25;;
+ANTWERPEN-WEST - FH07;4506586;1;0;0;1;SDU;;Y;NA;1;4;Beschermd Erfgoed;;;BE;BUILDING template;Steenbergstraat;32;;
+ANTWERPEN-WEST - FH07;976550;7;1;0;8;MDU;D;Y;NA;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prekersstraat;46;;
+ANTWERPEN-WEST - FH07;973302;29;3;3;35;MDU;A;Y;NA;6;4;;;Y;BU 301 - FERREUM NV is reeds aangesloten op fiber. Invoer van de fiber gebeurde vanuit de “willem lepelstraat”;BUILDING template;Kronenburgstraat;27;;
+ANTWERPEN-WEST - FH07;4506593;0;1;0;1;MDU;D;Y;NA;4;12;;;;;BUILDING template;Lange Vlierstraat;13;;Lange vlierstraat 11-13
+ANTWERPEN-WEST - FH07;976565;0;1;0;1;SDU;;Y;NA;4;12;;;Y;;BUILDING template;Van Craesbeeckstraat;1;;
+ANTWERPEN-WEST - FH07;1971992;3;0;0;3;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Kronenburgstraat;29;;
+ANTWERPEN-WEST - FH07;4507885;0;1;0;1;MDU;;N;ORN;1;0;Monument;;Y;_;BUILDING template;Reyndersstraat;28;;Reyndersstraat 26-28-30
+ANTWERPEN-WEST - FH07;976571;8;0;1;9;MDU;D;Y;NA;5;12;;;Y;;BUILDING template;Van Craesbeeckstraat;3;;
+ANTWERPEN-WEST - FH07;1972000;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Kronenburgstraat;31;;
+ANTWERPEN-WEST - FH07;1471079;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;55;;
+ANTWERPEN-WEST - FH07;4507925;0;1;0;1;SDU;;N;ORN;1;0;Beschermd Erfgoed;;;BE;BUILDING template;Reyndersstraat;6;;
+ANTWERPEN-WEST - FH07;1813896;5;0;2;7;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Van Craesbeeckstraat;5;;
+ANTWERPEN-WEST - FH07;1972022;4;1;0;5;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Kronenburgstraat;35;;
+ANTWERPEN-WEST - FH07;976578;6;0;1;7;MDU;C;N;IRREG;3;12;;;;;BUILDING template;Kloosterstraat;151;;
+ANTWERPEN-WEST - FH07;4507938;1;0;0;1;MDU;D;Y;NA;4;12;;;;;BUILDING template;Heilige Geeststraat;15;;Heilige Geeststraat 13-15
+ANTWERPEN-WEST - FH07;976568;5;0;2;7;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Van Craesbeeckstraat;11;;Van Craesbeeckstraat 11-13-13A-15-15B
+ANTWERPEN-WEST - FH07;1972031;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Kronenburgstraat;37;;
+ANTWERPEN-WEST - FH07;4509952;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;;BE;BUILDING template;Pompstraat;5;;
+ANTWERPEN-WEST - FH07;976569;5;0;2;7;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Van Craesbeeckstraat;13;B;Van Craesbeeckstraat 11-13-13A-15-15B
+ANTWERPEN-WEST - FH07;973298;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Kronenburgstraat;39;;
+ANTWERPEN-WEST - FH07;4509957;0;1;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Franckenstraat;11;;
+ANTWERPEN-WEST - FH07;976570;5;0;2;7;MDU;D;N;ORN;5;0;;;Y;;BUILDING template;Van Craesbeeckstraat;15;A;Van Craesbeeckstraat 11-13-13A-15-15B
+ANTWERPEN-WEST - FH07;4510013;4;1;0;5;MDU;D;Y;NA;5;12;;;;;BUILDING template;Pompstraat;32;;
+ANTWERPEN-WEST - FH07;4040818;5;0;1;6;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Van Craesbeeckstraat;9;A;
+ANTWERPEN-WEST - FH07;4517189;0;1;0;1;SDU;;Y;NA;1;4;;;;;BUILDING template;Kloosterstraat;165;;
+ANTWERPEN-WEST - FH07;976540;10;0;0;10;MDU;D;N;IRREG;5;15;;;Y;;BUILDING template;Willem Lepelstraat;23;B;Willem Lepelstraat 23-23A-25-25A
+ANTWERPEN-WEST - FH07;4517195;1;0;0;1;MDU;;N;ORN;4;12;;;;Gebouw samen met nummer 18;BUILDING template;Willem Lepelstraat;20;;Willem Lepelstraat 18-20
+ANTWERPEN-WEST - FH07;111555;0;0;0;0;SDU;;N;ORN;5;0;;;N;Huisnummer bestaat niet;BUILDING template;Willem Lepelstraat;25;B;Willem Lepelstraat 23-23A-25-25A
+ANTWERPEN-WEST - FH07;111553;4;0;1;5;MDU;D;N;ORN;4;0;;;Y;;BUILDING template;Willem Lepelstraat;2;;
+ANTWERPEN-WEST - FH07;4517201;1;1;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Willem Lepelstraat;40;;
+ANTWERPEN-WEST - FH07;NB-20008dbda69;10;0;2;12;MDU;C;N;IRREG;5;;;;;_;BUILDING template;Prekersstraat;8;;
+ANTWERPEN-WEST - FH07;1989115;4;1;1;6;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Willem Lepelstraat;65;;
+ANTWERPEN-WEST - FH07;4082476;8;0;0;8;MDU;D;N;ORN;4;12;;;Y;;BUILDING template;Willem Lepelstraat;6;;
+ANTWERPEN-WEST - FH07;1737811;3;1;1;5;MDU;D;Y;NA;4;12;;;;;BUILDING template;Kloosterstraat;63;;
+ANTWERPEN-WEST - FH07;4518314;8;0;0;8;MDU;D;Y;NA;4;12;;;;;BUILDING template;Prekersstraat;59;;
+ANTWERPEN-WEST - FH07;1989044;6;0;0;6;MDU;D;N;ORN;4;12;;;Y;;BUILDING template;Willem Lepelstraat;8;;
+ANTWERPEN-WEST - FH07;4518315;0;0;0;0;SDU;;Y;NA;4;12;;;N;;BUILDING template;Prekersstraat;67;;
+ANTWERPEN-WEST - FH07;1989048;2;0;0;2;MDU;D;N;ORN;4;12;;;Y;;BUILDING template;Willem Lepelstraat;10;;
+ANTWERPEN-WEST - FH07;5487862;1;0;0;1;MDU;;N;ORN;4;0;Beschermd Erfgoed;;;BE;BUILDING template;Pastoor Visschersplein;8;;Pastoor Visschersplein 8-9-10
+ANTWERPEN-WEST - FH07;973307;16;0;0;16;MDU;D;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Willem Lepelstraat;14;;
+ANTWERPEN-WEST - FH07;5575917;50;0;2;52;MDU;XA;N;IRREG;13;39;;;;;BUILDING template;Willem Lepelstraat;17;;Willem Lepelstraat 13-15-17
+ANTWERPEN-WEST - FH07;973313;0;0;0;0;SDU;;N;ORN;4;13;;;N;;BUILDING template;Willem Lepelstraat;16;;
+ANTWERPEN-WEST - FH07;5575918;11;0;1;12;MDU;D;N;IRREG;3;9;;;;;BUILDING template;Willem Lepelstraat;21;;Willem Lepelstraat 19-21
+ANTWERPEN-WEST - FH07;49161;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Franckenstraat;1;;
+ANTWERPEN-WEST - FH07;49147;3;0;0;3;MDU;D;Y;NA;5;15;;;Y;;BUILDING template;Lange Vlierstraat;1;A;
+ANTWERPEN-WEST - FH07;1989071;1;0;0;1;SDU;;N;ORN;4;12;;;Y;;BUILDING template;Willem Lepelstraat;22;;
+ANTWERPEN-WEST - FH07;5576281;0;1;0;1;MDU;XC;N;ORN;1;3;;;;;BUILDING template;Steenhouwersvest;33;;Steenhouwersvest 27-29-31-33_Vrijdagmarktstraatje 3
+ANTWERPEN-WEST - FH07;1873217;6;0;0;6;MDU;D;Y;NA;4;12;;;Y;;BUILDING template;Franckenstraat;3;;Franckenstraat 3-5
+ANTWERPEN-WEST - FH07;4506589;2;0;0;2;MDU;D;Y;NA;3;9;;;Y;;BUILDING template;Lange Vlierstraat;3;;
+ANTWERPEN-WEST - FH07;1989075;1;1;0;2;MDU;D;N;ORN;3;9;;;Y;Jet gelijkvloers behoort enkel tot huisnummers 22 (links) en 28 (rechts);BUILDING template;Willem Lepelstraat;24;;
+ANTWERPEN-WEST - FH07;976579;5;0;1;6;MDU;C;N;IRREG;3;12;;;;;BUILDING template;Kloosterstraat;153;;
+ANTWERPEN-WEST - FH07;5692131;10;1;2;13;MDU;XC;N;ORN;5;0;Beschermd Erfgoed;;;BE;BUILDING template;Korte Vlierstraat;2;;
+ANTWERPEN-WEST - FH07;1873230;6;0;0;6;MDU;D;Y;NA;4;9;;;Y;Bovenste appartement niet zichtbaar vanop straat maar ik ben binnen gaan kijken.;BUILDING template;Franckenstraat;7;;
+ANTWERPEN-WEST - FH07;2061338;4;0;0;4;MDU;D;Y;NA;3;9;;;Y;Gebouw omvat huisnummer 5 en 9, huisnummer 9 omvat een cafe en theather van één uitbating.;BUILDING template;Lange Vlierstraat;5;;
+ANTWERPEN-WEST - FH07;1989081;1;1;0;2;MDU;D;N;ORN;3;9;;;Y;In gelijkvloers van hyisnummer 26 en heeft inkom aan de zijgevel van het pand.;BUILDING template;Willem Lepelstraat;28;;
+ANTWERPEN-WEST - FH07;5698232;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Leeuwenstraat;2;;
+ANTWERPEN-WEST - FH07;4509956;1;0;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Franckenstraat;9;;
+ANTWERPEN-WEST - FH07;2061340;0;1;0;1;SDU;;Y;NA;3;9;;;Y;Theater Multatuli;BUILDING template;Lange Vlierstraat;9;;
+ANTWERPEN-WEST - FH07;1989085;3;0;0;3;MDU;C;N;ORN;4;0;Beschermd Erfgoed;;Y;BE;BUILDING template;Willem Lepelstraat;34;;
+ANTWERPEN-WEST - FH07;5893007;0;1;0;1;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;;BE;BUILDING template;Hoogstraat;43;A;Hoogstraat 43-43 A

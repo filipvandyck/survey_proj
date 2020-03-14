@@ -1,0 +1,688 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
+ANTWERPEN-WEST - FH03;1396178;0;1;0;1;SDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Brilstraat;14;;
+ANTWERPEN-WEST - FH03;3928221;1;0;0;1;SDU;;N;IRREG;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Raapstraat;33;;
+ANTWERPEN-WEST - FH03;1938908;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Pieter van Hobokenstraat;9;;
+ANTWERPEN-WEST - FH03;1938916;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Pieter van Hobokenstraat;11;;
+ANTWERPEN-WEST - FH03;1479727;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus (winkel)";Y;;BUILDING template;Klapdorp;66;;
+ANTWERPEN-WEST - FH03;3970829;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Italiëlei;82;;
+ANTWERPEN-WEST - FH03;1938935;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Pieter van Hobokenstraat;17;;
+ANTWERPEN-WEST - FH03;1938949;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Pieter van Hobokenstraat;19;;
+ANTWERPEN-WEST - FH03;3993648;1;0;0;1;SDU;;N;ORN;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Hamerplaats;4;;
+ANTWERPEN-WEST - FH03;3995724;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Grote Kauwenberg;32;;
+ANTWERPEN-WEST - FH03;3999432;0;1;0;1;SDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;100;;
+ANTWERPEN-WEST - FH03;1138871;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Lange Noordstraat;40;;
+ANTWERPEN-WEST - FH03;4009408;0;1;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Blindestraat;7;;
+ANTWERPEN-WEST - FH03;4011075;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;46;;
+ANTWERPEN-WEST - FH03;1751683;0;1;0;1;SDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Van Boendalestraat;5;;
+ANTWERPEN-WEST - FH03;4033407;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Kleine Kauwenberg;12;;
+ANTWERPEN-WEST - FH03;1751705;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Van Boendalestraat;7;;
+ANTWERPEN-WEST - FH03;4043975;1;0;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 2 bussen";Y;;BUILDING template;Lange Noordstraat;37;;
+ANTWERPEN-WEST - FH03;1950961;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Italielei;60;;
+ANTWERPEN-WEST - FH03;1751732;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Van Boendalestraat;13;;
+ANTWERPEN-WEST - FH03;1950987;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Italielei;64;;
+ANTWERPEN-WEST - FH03;1951080;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Italielei;72;;
+ANTWERPEN-WEST - FH03;4257826;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Lange Winkelstraat;21;;
+ANTWERPEN-WEST - FH03;1780465;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Brilstraat;8;;
+ANTWERPEN-WEST - FH03;1951195;0;1;0;1;SDU;;Y;NA;9;4;;;;;BUILDING template;Italielei;86;;
+ANTWERPEN-WEST - FH03;1780474;1;0;0;1;SDU;;Y;NA;4;8;;OK (IDEM CRAB);Y;;BUILDING template;Lange Brilstraat;11;;
+ANTWERPEN-WEST - FH03;1960619;0;1;0;1;SDU;;N;ORN;2;4;;;;;BUILDING template;Grote Kauwenberg;31;;
+ANTWERPEN-WEST - FH03;1960621;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Grote Kauwenberg;34;;
+ANTWERPEN-WEST - FH03;1960629;0;1;0;1;SDU;;N;GLASS;2;4;;;;;BUILDING template;Kleine Kauwenberg;22;;
+ANTWERPEN-WEST - FH03;4504917;0;1;0;1;SDU;;N;ORN;2;4;;;;;BUILDING template;Kleine Kauwenberg;14;;
+ANTWERPEN-WEST - FH03;4504934;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Venusstraat;31;;
+ANTWERPEN-WEST - FH03;4504942;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Venusstraat;23;;
+ANTWERPEN-WEST - FH03;4504946;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;;;BUILDING template;Vekestraat;41;;
+ANTWERPEN-WEST - FH03;4504951;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Vekestraat;23;;
+ANTWERPEN-WEST - FH03;4508904;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Rodestraat;4;;
+ANTWERPEN-WEST - FH03;4508909;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Rodestraat;20;;
+ANTWERPEN-WEST - FH03;4508911;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Rodestraat;24;;
+ANTWERPEN-WEST - FH03;4508921;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Pieter van Hobokenstraat;15;;
+ANTWERPEN-WEST - FH03;4508960;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Ossenmarkt;32;;
+ANTWERPEN-WEST - FH03;4508982;0;1;0;1;SDU;;Y;NA;4;5;;;;;BUILDING template;Lange Winkelstraat;36;;
+ANTWERPEN-WEST - FH03;4509134;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Lange Winkelstraat;25;;
+ANTWERPEN-WEST - FH03;4509142;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Lange Winkelstraat;45;;
+ANTWERPEN-WEST - FH03;4509349;1;0;0;1;SDU;;N;MON;4;4;Monument;;;;BUILDING template;Hoornstraat;8;;
+ANTWERPEN-WEST - FH03;4510329;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Rodestraat;5;;
+ANTWERPEN-WEST - FH03;4511503;0;1;0;1;SDU;;N;ORN;6;4;;;;;BUILDING template;Paardenmarkt;8;;
+ANTWERPEN-WEST - FH03;4511529;0;1;0;1;SDU;;N;MON;2;0;Monument;;;;BUILDING template;Venusstraat;44;;
+ANTWERPEN-WEST - FH03;4511541;0;1;0;1;SDU;;N;MON;3;0;Monument;;;;BUILDING template;Blindestraat;9;;
+ANTWERPEN-WEST - FH03;4511543;0;1;0;1;SDU;;N;MON;3;0;Monument;;;;BUILDING template;Blindestraat;11;;
+ANTWERPEN-WEST - FH03;4511544;0;1;0;1;SDU;;N;IRREG;3;4;Beschermd Erfgoed;;;;BUILDING template;Blindestraat;13;;
+ANTWERPEN-WEST - FH03;4511571;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Hoornstraat;11;;
+ANTWERPEN-WEST - FH03;4513186;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Lange Noordstraat;21;;
+ANTWERPEN-WEST - FH03;4230978;0;1;0;1;SDU;;N;ORN;4;0;;;;;BUILDING template;Grote Kauwenberg;17;;
+ANTWERPEN-WEST - FH03;1960631;0;1;0;1;SDU;;Y;NA;4;4;;"OK (IDEM CRAB)
+Waarom deze huisnummer erbij (overkant van de straat)";Y;;BUILDING template;Kleine Kauwenberg;27;;
+ANTWERPEN-WEST - FH03;4511582;0;1;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Stadswaag;16;;
+ANTWERPEN-WEST - FH03;4511583;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Stadswaag;18;;
+ANTWERPEN-WEST - FH03;4511589;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Lange Brilstraat;26;;
+ANTWERPEN-WEST - FH03;1960634;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus en meerdere bellen(studentenkot ???)";Y;;BUILDING template;Kleine Kauwenberg;38;;
+ANTWERPEN-WEST - FH03;1960635;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus en 6 bellen (studentenkot ???)";Y;;BUILDING template;Kleine Kauwenberg;40;;
+ANTWERPEN-WEST - FH03;5383629;0;1;0;1;SDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Venusstraat;17;A;
+ANTWERPEN-WEST - FH03;4511645;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Grote Kauwenberg;18;;
+ANTWERPEN-WEST - FH03;5393982;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Toog;5;;
+ANTWERPEN-WEST - FH03;1962122;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Klapdorp;44;;
+ANTWERPEN-WEST - FH03;12657;1;0;0;1;SDU;;Y;NA;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;3;;
+ANTWERPEN-WEST - FH03;1962126;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;48;;
+ANTWERPEN-WEST - FH03;5566581;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;21;;
+ANTWERPEN-WEST - FH03;12734;0;1;0;1;SDU;;Y;NA;6;4;;;Y;;BUILDING template;Ossenmarkt;14;;
+ANTWERPEN-WEST - FH03;1962132;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is 1 bus (winkel)";Y;;BUILDING template;Klapdorp;54;;
+ANTWERPEN-WEST - FH03;5824608;1;0;0;1;SDU;;Y;NA;5;4;;;Y;;BUILDING template;Raapstraat;10;A;
+ANTWERPEN-WEST - FH03;5833181;0;1;0;1;SDU;;Y;NA;2;5;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;44;;
+ANTWERPEN-WEST - FH03;61832;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Lange Noordstraat;39;;
+ANTWERPEN-WEST - FH03;6391609;0;1;0;1;SDU;;Y;NA;3;5;;;Y;;BUILDING template;Vekestraat;46;;
+ANTWERPEN-WEST - FH03;6411571;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Grote Kauwenberg;38;;
+ANTWERPEN-WEST - FH03;61845;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Klapdorp;78;;
+ANTWERPEN-WEST - FH03;6525096;0;1;0;1;SDU;;Y;NA;7;4;;;Y;;BUILDING template;Italiëlei;94;;
+ANTWERPEN-WEST - FH03;6525331;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Stadswaag;8;;
+ANTWERPEN-WEST - FH03;61850;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Varkensmarkt;6;;
+ANTWERPEN-WEST - FH03;61856;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Stadswaag;2;;
+ANTWERPEN-WEST - FH03;108827;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;43;;
+ANTWERPEN-WEST - FH03;108828;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Venusstraat;25;;
+ANTWERPEN-WEST - FH03;2023994;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Mutsaardstraat;17;;
+ANTWERPEN-WEST - FH03;2024019;0;1;0;1;SDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Mutsaardstraat;29;;
+ANTWERPEN-WEST - FH03;108833;0;1;0;1;SDU;;N;ORN;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar
+Hetzelfde gebouw als nr. 7";Y;;BUILDING template;Vekestraat;5;;
+ANTWERPEN-WEST - FH03;108835;0;1;0;1;SDU;;N;IRREG;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Vekestraat;9;;
+ANTWERPEN-WEST - FH03;2028990;0;1;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;11;;
+ANTWERPEN-WEST - FH03;2028995;0;1;0;1;SDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Lange Noordstraat;15;;
+ANTWERPEN-WEST - FH03;108841;0;1;0;1;SDU;;Y;NA;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;66;;
+ANTWERPEN-WEST - FH03;108843;0;1;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;80;;
+ANTWERPEN-WEST - FH03;108846;1;0;0;1;SDU;;N;MON;4;4;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Paardenmarkt;60;;
+ANTWERPEN-WEST - FH03;108847;0;1;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;64;;
+ANTWERPEN-WEST - FH03;2029027;0;1;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;33;;
+ANTWERPEN-WEST - FH03;2034729;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Ossenmarkt;8;;
+ANTWERPEN-WEST - FH03;2034735;1;0;0;1;SDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Ossenmarkt;11;;
+ANTWERPEN-WEST - FH03;2034768;1;0;0;1;SDU;;Y;NA;4;3;;OK (IDEM CRAB);Y;;BUILDING template;Ossenmarkt;31;;
+ANTWERPEN-WEST - FH03;109200;0;1;0;1;SDU;;N;IRREG;5;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Italiëlei;114;;
+ANTWERPEN-WEST - FH03;2037785;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;18;;
+ANTWERPEN-WEST - FH03;2037803;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Paardenmarkt;24;;
+ANTWERPEN-WEST - FH03;2037808;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;26;;
+ANTWERPEN-WEST - FH03;109339;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Winkelstraat;1;;
+ANTWERPEN-WEST - FH03;109342;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 2 bussen";Y;BE;BUILDING template;Lange Winkelstraat;44;;
+ANTWERPEN-WEST - FH03;109343;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Winkelstraat;46;;
+ANTWERPEN-WEST - FH03;2037966;0;1;0;1;SDU;;N;MON;4;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Paardenmarkt;92;;
+ANTWERPEN-WEST - FH03;2037970;0;1;0;1;SDU;;N;MON;2;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Paardenmarkt;94;;
+ANTWERPEN-WEST - FH03;109366;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 18 bussen";Y;;BUILDING template;Rodestraat;2;;
+ANTWERPEN-WEST - FH03;2037999;0;1;0;1;SDU;;Y;NA;6;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;108;;
+ANTWERPEN-WEST - FH03;109407;0;1;0;1;SDU;;Y;NA;2;4;;OK (IDEM CRAB);Y;;BUILDING template;Pieter van Hobokenstraat;25;;
+ANTWERPEN-WEST - FH03;109567;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;118;;
+ANTWERPEN-WEST - FH03;2046006;0;1;0;1;SDU;;N;ORN;4;4;;;Y;;BUILDING template;Prinsstraat;17;;
+ANTWERPEN-WEST - FH03;2046008;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Prinsstraat;21;;
+ANTWERPEN-WEST - FH03;109570;0;1;0;1;SDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Ossenmarkt;15;;
+ANTWERPEN-WEST - FH03;2046565;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Raapstraat;15;;
+ANTWERPEN-WEST - FH03;2048155;1;0;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;6;;
+ANTWERPEN-WEST - FH03;109579;0;1;0;1;SDU;;N;MON;2;0;Monument;"Volgens CRAB zijn er hier 47 LU&apos;s
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Rodestraat;39;;
+ANTWERPEN-WEST - FH03;109580;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;31;;
+ANTWERPEN-WEST - FH03;1749606;0;1;0;1;SDU;;N;IRREG;4;0;;;;;BUILDING template;Blindestraat;35;;
+ANTWERPEN-WEST - FH03;2048158;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Rodestraat;10;;
+ANTWERPEN-WEST - FH03;2048160;0;1;0;1;SDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;12;;
+ANTWERPEN-WEST - FH03;2048161;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 7 bussen";Y;;BUILDING template;Rodestraat;13;;
+ANTWERPEN-WEST - FH03;2048162;0;1;0;1;SDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;15;;
+ANTWERPEN-WEST - FH03;2048163;0;1;0;1;SDU;;Y;NA;1;2;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Rodestraat;16;;
+ANTWERPEN-WEST - FH03;2048165;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Rodestraat;18;;
+ANTWERPEN-WEST - FH03;2048166;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Rodestraat;27;;
+ANTWERPEN-WEST - FH03;109955;0;1;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Toog;1;;
+ANTWERPEN-WEST - FH03;109956;0;1;0;1;SDU;;N;ORN;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;40;;
+ANTWERPEN-WEST - FH03;109958;0;1;0;1;SDU;;N;ORN;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;38;;
+ANTWERPEN-WEST - FH03;109969;0;1;0;1;SDU;;N;ORN;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Prinsstraat;15;;
+ANTWERPEN-WEST - FH03;109970;0;1;0;1;SDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Venusstraat;11;;
+ANTWERPEN-WEST - FH03;2053989;1;0;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Stadswaag;1;A;
+ANTWERPEN-WEST - FH03;109971;0;1;0;1;SDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Venusstraat;13;;
+ANTWERPEN-WEST - FH03;109982;0;1;0;1;SDU;;Y;NA;5;5;;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps is er 1 bus";Y;;BUILDING template;Vekestraat;30;;
+ANTWERPEN-WEST - FH03;2053998;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Stadswaag;13;;
+ANTWERPEN-WEST - FH03;110250;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Brilstraat;15;;
+ANTWERPEN-WEST - FH03;2058964;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Vekestraat;8;;
+ANTWERPEN-WEST - FH03;110254;0;1;0;1;SDU;;Y;NA;2;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Brilstraat;2;;
+ANTWERPEN-WEST - FH03;110255;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Brilstraat;28;;
+ANTWERPEN-WEST - FH03;2058968;0;1;0;1;SDU;;Y;NA;4;5;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;15;;
+ANTWERPEN-WEST - FH03;2058969;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Vekestraat;17;;
+ANTWERPEN-WEST - FH03;110294;0;1;0;1;SDU;;N;MON;3;0;Monument;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Raapstraat;24;;
+ANTWERPEN-WEST - FH03;2058972;0;1;0;1;SDU;;Y;NA;2;4;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;21;;
+ANTWERPEN-WEST - FH03;110298;0;1;0;1;SDU;;N;ORN;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;16;;
+ANTWERPEN-WEST - FH03;2058975;0;1;0;1;SDU;;Y;NA;2;5;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;35;;
+ANTWERPEN-WEST - FH03;2058978;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 12 bussen";Y;;BUILDING template;Vekestraat;38;;
+ANTWERPEN-WEST - FH03;110307;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;28;;
+ANTWERPEN-WEST - FH03;2058984;1;0;0;1;SDU;;Y;NA;2;5;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Vekestraat;45;;
+ANTWERPEN-WEST - FH03;110310;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;26;;
+ANTWERPEN-WEST - FH03;2058985;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus (studentenkot ???)";Y;BE;BUILDING template;Vekestraat;47;;
+ANTWERPEN-WEST - FH03;2058986;0;1;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;48;;
+ANTWERPEN-WEST - FH03;110312;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bussen";Y;BE;BUILDING template;Venusstraat;36;;
+ANTWERPEN-WEST - FH03;110313;1;0;0;1;SDU;;N;MON;3;4;Monument;;Y;BE;BUILDING template;Venusstraat;40;;
+ANTWERPEN-WEST - FH03;2059439;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;18;;
+ANTWERPEN-WEST - FH03;2059440;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;18;A;
+ANTWERPEN-WEST - FH03;6615820;1;0;0;1;SDU;;Y;NA;3;4;;;Y;;BUILDING template;Jozef de Hasquestraat;10;;
+ANTWERPEN-WEST - FH03;2059441;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;20;;
+ANTWERPEN-WEST - FH03;2059442;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;22;;
+ANTWERPEN-WEST - FH03;2059443;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 12 bussen (studentenkot ???)";Y;BE;BUILDING template;Venusstraat;24;;
+ANTWERPEN-WEST - FH03;110327;1;0;0;1;SDU;;N;ORN;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Hamerstraat;1;;
+ANTWERPEN-WEST - FH03;5920781;0;1;0;1;SDU;;N;IRREG;4;0;;;;;BUILDING template;Paardenmarkt;54;A;
+ANTWERPEN-WEST - FH03;110329;1;0;0;1;SDU;;N;ORN;2;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Hamerplaats;7;;
+ANTWERPEN-WEST - FH03;2059446;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 5 bellen (studentenkot ???)";Y;BE;BUILDING template;Venusstraat;39;;
+ANTWERPEN-WEST - FH03;110330;1;0;0;1;SDU;;Y;NA;2;4;;OK (IDEM CRAB);Y;;BUILDING template;Korte Brilstraat;7;;
+ANTWERPEN-WEST - FH03;2059447;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;41;;
+ANTWERPEN-WEST - FH03;6454682;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Paardenmarkt;42;A;
+ANTWERPEN-WEST - FH03;110400;0;1;0;1;SDU;;N;MON;2;0;Monument;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Mutsaardstraat;31;;
+ANTWERPEN-WEST - FH03;2059448;1;0;0;1;SDU;;N;MON;2;4;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Venusstraat;48;;
+ANTWERPEN-WEST - FH03;110402;1;0;0;1;SDU;;Y;NA;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Mutsaardstraat;21;;
+ANTWERPEN-WEST - FH03;NB-200023ed0d20;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Toog;23;;
+ANTWERPEN-WEST - FH03;111505;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Italiëlei;68;;
+ANTWERPEN-WEST - FH03;2065138;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps zijn er 7 bussen (studentenkot ???)";Y;;BUILDING template;Korte Winkelstraat;5;;
+ANTWERPEN-WEST - FH03;5497962;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Roskamgang;10;;
+ANTWERPEN-WEST - FH03;2065142;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 9 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Korte Winkelstraat;13;;
+ANTWERPEN-WEST - FH03;1085078;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Korte Winkelstraat;1;;
+ANTWERPEN-WEST - FH03;2065144;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 6 LU&apos;s
+Op Google Maps zijn er 2 bussen (studentenkot ???)";Y;BE;BUILDING template;Korte Winkelstraat;15;;
+ANTWERPEN-WEST - FH03;1085274;0;1;0;1;SDU;;N;IRREG;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Prinsstraat;9;;
+ANTWERPEN-WEST - FH03;1085275;0;1;0;1;SDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Prinsstraat;13;;
+ANTWERPEN-WEST - FH03;2065151;0;1;0;1;SDU;;N;IRREG;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;6;;
+ANTWERPEN-WEST - FH03;1089555;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Hoornstraat;2;;
+ANTWERPEN-WEST - FH03;1101975;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Stadswaag;11;;
+ANTWERPEN-WEST - FH03;2065156;0;1;0;1;SDU;;N;ORN;2;4;;;Y;;BUILDING template;Lange Winkelstraat;26;;
+ANTWERPEN-WEST - FH03;1138876;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Hoornstraat;12;;
+ANTWERPEN-WEST - FH03;1138886;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Raapstraat;13;;
+ANTWERPEN-WEST - FH03;2065159;0;1;0;1;SDU;;Y;NA;4;5;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;31;;
+ANTWERPEN-WEST - FH03;2065161;0;1;0;1;SDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Lange Winkelstraat;39;;
+ANTWERPEN-WEST - FH03;1164709;0;1;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;35;;
+ANTWERPEN-WEST - FH03;2065164;0;1;0;1;SDU;;Y;NA;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 8 bussen";Y;;BUILDING template;Lange Winkelstraat;43;;
+ANTWERPEN-WEST - FH03;1780491;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Lange Brilstraat;22;;
+ANTWERPEN-WEST - FH03;1932810;1;0;0;1;SDU;;N;ORN;3;4;Beschermd Erfgoed;;;;BUILDING template;Hamerplaats;3;;
+ANTWERPEN-WEST - FH03;2067088;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Korte Brilstraat;5;;
+ANTWERPEN-WEST - FH03;1932825;1;0;0;1;SDU;;N;ORN;3;4;Beschermd Erfgoed;;;;BUILDING template;Hamerplaats;5;;
+ANTWERPEN-WEST - FH03;1932840;1;0;0;1;SDU;;N;ORN;3;4;Beschermd Erfgoed;;;;BUILDING template;Hamerplaats;6;;
+ANTWERPEN-WEST - FH03;1300368;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Rodestraat;22;;
+ANTWERPEN-WEST - FH03;1307993;1;0;0;1;SDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Van Boendalestraat;8;;
+ANTWERPEN-WEST - FH03;1935974;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Jozef de Hasquestraat;8;;
+ANTWERPEN-WEST - FH03;3928220;2;0;0;2;MDU;;N;ORN;3;4;;;Y;;BUILDING template;Raapstraat;31;;
+ANTWERPEN-WEST - FH03;1477528;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Italiëlei;104;;
+ANTWERPEN-WEST - FH03;3970830;2;0;0;2;MDU;;N;IRREG;5;4;;;Y;;BUILDING template;Italiëlei;90;;
+ANTWERPEN-WEST - FH03;1944461;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Hoornstraat;4;;
+ANTWERPEN-WEST - FH03;4027753;2;0;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Brilstraat;20;;
+ANTWERPEN-WEST - FH03;4183884;1;1;0;2;MDU;;Y;NA;2;5;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;33;;
+ANTWERPEN-WEST - FH03;1951110;0;2;0;2;MDU;;Y;NA;4;4;;;;;BUILDING template;Italielei;74;;
+ANTWERPEN-WEST - FH03;1780467;2;0;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Brilstraat;9;;
+ANTWERPEN-WEST - FH03;4267636;2;0;0;2;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Kleine Kauwenberg;34;;
+ANTWERPEN-WEST - FH03;1960611;1;1;0;2;MDU;;Y;NA;2;4;;;;;BUILDING template;Grote Kauwenberg;5;;
+ANTWERPEN-WEST - FH03;1960618;0;2;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Grote Kauwenberg;30;;
+ANTWERPEN-WEST - FH03;1960620;0;2;0;2;MDU;;N;IRREG;4;4;;;;;BUILDING template;Grote Kauwenberg;33;;
+ANTWERPEN-WEST - FH03;1960623;0;2;0;2;MDU;;Y;NA;3;4;;;;;BUILDING template;Grote Kauwenberg;36;;
+ANTWERPEN-WEST - FH03;1960624;0;2;0;2;MDU;;N;IRREG;4;4;;;;;BUILDING template;Grote Kauwenberg;37;;
+ANTWERPEN-WEST - FH03;1960625;0;2;0;2;MDU;;N;ORN;4;4;;;;;BUILDING template;Grote Kauwenberg;39;;
+ANTWERPEN-WEST - FH03;1960627;0;2;0;2;MDU;;N;ORN;4;4;;;;;BUILDING template;Grote Kauwenberg;47;;
+ANTWERPEN-WEST - FH03;4504935;1;1;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Venusstraat;33;;
+ANTWERPEN-WEST - FH03;4504940;2;0;0;2;MDU;;N;MON;3;0;Monument;;;;BUILDING template;Venusstraat;15;;
+ANTWERPEN-WEST - FH03;4508930;0;2;0;2;MDU;;N;ORN;5;4;;;;;BUILDING template;Grote Kauwenberg;3;;
+ANTWERPEN-WEST - FH03;4508945;0;2;0;2;MDU;;N;ORN;4;4;;;;;BUILDING template;Grote Kauwenberg;41;;
+ANTWERPEN-WEST - FH03;4511489;1;1;0;2;MDU;;Y;NA;4;4;;;;;BUILDING template;Venusstraat;8;;
+ANTWERPEN-WEST - FH03;4511490;2;0;0;2;MDU;;Y;NA;4;5;;;;;BUILDING template;Venusstraat;10;;
+ANTWERPEN-WEST - FH03;4511564;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Stadswaag;9;;
+ANTWERPEN-WEST - FH03;4511572;1;1;0;2;MDU;;N;MON;4;0;Monument;;;;BUILDING template;Hoornstraat;13;;
+ANTWERPEN-WEST - FH03;1960633;2;0;0;2;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Kleine Kauwenberg;30;;
+ANTWERPEN-WEST - FH03;4513167;2;0;0;2;MDU;;Y;NA;5;4;;;;;BUILDING template;Lange Noordstraat;22;;
+ANTWERPEN-WEST - FH03;4513174;1;1;0;2;MDU;;N;ORN;4;4;;;;;BUILDING template;Lange Noordstraat;30;;
+ANTWERPEN-WEST - FH03;1962130;1;1;0;2;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;52;;
+ANTWERPEN-WEST - FH03;61829;2;0;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps zijn er 2 bussen";Y;;BUILDING template;Lange Noordstraat;1;;
+ANTWERPEN-WEST - FH03;61834;2;0;0;2;MDU;;N;IRREG;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Raapstraat;35;;
+ANTWERPEN-WEST - FH03;61846;1;1;0;2;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;80;;
+ANTWERPEN-WEST - FH03;1962152;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Klapdorp;76;;
+ANTWERPEN-WEST - FH03;61853;2;0;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Mutsaardstraat;13;;
+ANTWERPEN-WEST - FH03;108830;0;2;0;2;MDU;;N;MON;3;4;Monument;;Y;MON;BUILDING template;Venusstraat;19;;
+ANTWERPEN-WEST - FH03;2024012;2;0;0;2;MDU;;N;IRREG;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Mutsaardstraat;27;;
+ANTWERPEN-WEST - FH03;2028953;1;1;0;2;MDU;;Y;NA;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus (studentenkot ???)";Y;;BUILDING template;Lange Noordstraat;4;;
+ANTWERPEN-WEST - FH03;108834;0;2;0;2;MDU;;N;IRREG;2;4;;;Y;;BUILDING template;Vekestraat;11;;
+ANTWERPEN-WEST - FH03;108836;0;2;0;2;MDU;;Y;NA;2;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Vekestraat;51;;
+ANTWERPEN-WEST - FH03;2028993;0;2;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Lange Noordstraat;13;;
+ANTWERPEN-WEST - FH03;108838;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;32;;
+ANTWERPEN-WEST - FH03;2029000;2;0;0;2;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Noordstraat;16;;
+ANTWERPEN-WEST - FH03;2029008;2;0;0;2;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Noordstraat;18;;
+ANTWERPEN-WEST - FH03;108844;0;2;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;70;;
+ANTWERPEN-WEST - FH03;2029020;0;2;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Noordstraat;29;;
+ANTWERPEN-WEST - FH03;108848;1;1;0;2;MDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Paardenmarkt;56;;
+ANTWERPEN-WEST - FH03;2029029;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Noordstraat;35;;
+ANTWERPEN-WEST - FH03;108849;1;1;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 5 LU&apos;s
+Op Google Maps is er 1 bus (studentenkot ???)";Y;;BUILDING template;Paardenmarkt;44;;
+ANTWERPEN-WEST - FH03;2029032;2;0;0;2;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;36;;
+ANTWERPEN-WEST - FH03;108850;0;2;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Prinsstraat;3;;
+ANTWERPEN-WEST - FH03;109205;1;1;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Korte Winkelstraat;7;;
+ANTWERPEN-WEST - FH03;2037775;1;1;0;2;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;12;;
+ANTWERPEN-WEST - FH03;2037796;2;0;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;22;;
+ANTWERPEN-WEST - FH03;109335;1;1;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;104;;
+ANTWERPEN-WEST - FH03;2037859;0;2;0;2;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar (studentenkot ???)";Y;;BUILDING template;Paardenmarkt;48;;
+ANTWERPEN-WEST - FH03;2037866;0;2;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps zijn er 2 deuren";Y;;BUILDING template;Paardenmarkt;50;;
+ANTWERPEN-WEST - FH03;2037871;1;1;0;2;MDU;;N;ORN;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;52;;
+ANTWERPEN-WEST - FH03;2037879;0;2;0;2;MDU;;N;ORN;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;54;;
+ANTWERPEN-WEST - FH03;109340;2;0;0;2;MDU;;Y;NA;3;3;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;4;;
+ANTWERPEN-WEST - FH03;109349;0;2;0;2;MDU;;N;ORN;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Pieter van Hobokenstraat;3;;
+ANTWERPEN-WEST - FH03;109351;0;2;0;2;MDU;;N;IRREG;4;5;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 20 bellen (studentenkot ???)";Y;BE;BUILDING template;Pieter van Hobokenstraat;5;;
+ANTWERPEN-WEST - FH03;109364;2;0;0;2;MDU;;Y;NA;5;3;;"OK (IDEM CRAB)
+Waarom deze huisnummer erbij (overkant van de straat)";Y;;BUILDING template;Kleine Kauwenberg;1;;
+ANTWERPEN-WEST - FH03;2037976;1;1;0;2;MDU;;Y;NA;4;3;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;96;;
+ANTWERPEN-WEST - FH03;2037979;1;1;0;2;MDU;;Y;NA;2;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;98;;
+ANTWERPEN-WEST - FH03;109371;0;2;0;2;MDU;;N;ORN;4;4;;"-Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Grote Kauwenberg;49;;
+ANTWERPEN-WEST - FH03;109376;1;1;0;2;MDU;;Y;NA;3;3;;OK (IDEM CRAB);Y;;BUILDING template;Ossenmarkt;30;;
+ANTWERPEN-WEST - FH03;109377;1;1;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Ossenmarkt;33;;
+ANTWERPEN-WEST - FH03;2038032;1;1;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;120;;
+ANTWERPEN-WEST - FH03;109565;1;1;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;126;;
+ANTWERPEN-WEST - FH03;109585;0;2;0;2;MDU;;Y;NA;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;25;;
+ANTWERPEN-WEST - FH03;3928219;2;0;0;2;MDU;;N;IRREG;3;0;;;;;BUILDING template;Raapstraat;27;;
+ANTWERPEN-WEST - FH03;2048164;0;2;0;2;MDU;;Y;NA;5;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Rodestraat;17;;
+ANTWERPEN-WEST - FH03;2048168;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Rodestraat;28;;
+ANTWERPEN-WEST - FH03;2048172;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 5 bussen";Y;BE;BUILDING template;Rodestraat;32;;
+ANTWERPEN-WEST - FH03;2048175;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Rodestraat;34;;
+ANTWERPEN-WEST - FH03;2053997;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Stadswaag;12;;
+ANTWERPEN-WEST - FH03;110246;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Blindestraat;1;;
+ANTWERPEN-WEST - FH03;110247;1;1;0;2;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Blindestraat;39;;
+ANTWERPEN-WEST - FH03;2054001;1;1;0;2;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Stadswaag;20;;
+ANTWERPEN-WEST - FH03;2058976;0;2;0;2;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Vekestraat;36;;
+ANTWERPEN-WEST - FH03;110306;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;52;;
+ANTWERPEN-WEST - FH03;2058982;0;2;0;2;MDU;;Y;NA;2;4;;;Y;;BUILDING template;Vekestraat;42;;
+ANTWERPEN-WEST - FH03;110308;2;0;0;2;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;2;;
+ANTWERPEN-WEST - FH03;2058987;0;2;0;2;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Vekestraat;49;;
+ANTWERPEN-WEST - FH03;110322;1;1;0;2;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Lansstraat;1;;
+ANTWERPEN-WEST - FH03;110324;0;2;0;2;MDU;;Y;NA;2;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Roskamgang;1;;
+ANTWERPEN-WEST - FH03;110316;1;1;0;2;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Jozef de Hasquestraat;9;;
+ANTWERPEN-WEST - FH03;110325;2;0;0;2;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Hoornstraat;1;;
+ANTWERPEN-WEST - FH03;1071441;1;1;0;2;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;2;;
+ANTWERPEN-WEST - FH03;2065150;1;1;0;2;MDU;;N;MON;2;0;Monument;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Lange Winkelstraat;5;;
+ANTWERPEN-WEST - FH03;2065154;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Winkelstraat;19;;
+ANTWERPEN-WEST - FH03;1101974;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Stadswaag;10;;
+ANTWERPEN-WEST - FH03;1138887;2;0;0;2;MDU;;N;ORN;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Raapstraat;29;;
+ANTWERPEN-WEST - FH03;1780489;2;0;0;2;MDU;;Y;NA;3;4;;;;;BUILDING template;Lange Brilstraat;18;;
+ANTWERPEN-WEST - FH03;3928086;2;0;0;2;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Noordstraat;12;;
+ANTWERPEN-WEST - FH03;3928087;2;0;0;2;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Noordstraat;14;;
+ANTWERPEN-WEST - FH03;1935973;2;0;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Jozef de Hasquestraat;7;A;
+ANTWERPEN-WEST - FH03;3928088;2;0;0;2;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Noordstraat;20;;
+ANTWERPEN-WEST - FH03;1488452;3;0;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus (studentenkot ???)";Y;BE;BUILDING template;Venusstraat;5;;
+ANTWERPEN-WEST - FH03;1749607;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Blindestraat;37;;
+ANTWERPEN-WEST - FH03;1944463;3;0;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Hoornstraat;7;;
+ANTWERPEN-WEST - FH03;1751691;3;0;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Van Boendalestraat;6;;
+ANTWERPEN-WEST - FH03;109573;2;1;0;3;MDU;;Y;NA;3;4;;;;;BUILDING template;Van Boendalestraat;1;;
+ANTWERPEN-WEST - FH03;4065763;2;1;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 winkel en studentenkot";Y;;BUILDING template;Korte Winkelstraat;11;;
+ANTWERPEN-WEST - FH03;1751716;3;0;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bellen";Y;;BUILDING template;Van Boendalestraat;10;;
+ANTWERPEN-WEST - FH03;4247728;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Brilstraat;24;;
+ANTWERPEN-WEST - FH03;1780470;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps is er 1 frituur + studentenkot ???";Y;BE;BUILDING template;Lange Brilstraat;10;;
+ANTWERPEN-WEST - FH03;1960614;3;0;0;3;MDU;;Y;NA;4;4;;;;;BUILDING template;Grote Kauwenberg;13;;
+ANTWERPEN-WEST - FH03;1960628;3;0;0;3;MDU;;Y;NA;4;4;;;;;BUILDING template;Kleine Kauwenberg;4;;
+ANTWERPEN-WEST - FH03;2028965;3;0;0;3;MDU;;Y;NA;4;4;;;;;BUILDING template;Lange Noordstraat;7;;
+ANTWERPEN-WEST - FH03;4508913;3;0;0;3;MDU;;Y;NA;4;4;;;;;BUILDING template;Rodestraat;30;;
+ANTWERPEN-WEST - FH03;4508927;3;0;0;3;MDU;;N;ORN;3;4;;;;;BUILDING template;Pieter van Hobokenstraat;23;;
+ANTWERPEN-WEST - FH03;4511527;3;0;0;3;MDU;;N;MON;2;4;Monument;;;;BUILDING template;Venusstraat;42;;
+ANTWERPEN-WEST - FH03;1960632;3;0;0;3;MDU;;Y;NA;4;2;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bussen (studentenkot ???)";Y;;BUILDING template;Kleine Kauwenberg;28;;
+ANTWERPEN-WEST - FH03;4513230;1;2;0;3;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 7 bellen (studentenkot ???)";Y;;BUILDING template;Klapdorp;86;;
+ANTWERPEN-WEST - FH03;1962124;2;1;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Klapdorp;46;;
+ANTWERPEN-WEST - FH03;1962128;2;1;0;3;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;50;;
+ANTWERPEN-WEST - FH03;12738;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Paardenmarkt;28;;
+ANTWERPEN-WEST - FH03;1962136;2;1;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bussen";Y;;BUILDING template;Klapdorp;58;;
+ANTWERPEN-WEST - FH03;1962148;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;72;;
+ANTWERPEN-WEST - FH03;2023977;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps 1 winkel + studentenkot";Y;BE;BUILDING template;Mutsaardstraat;11;;
+ANTWERPEN-WEST - FH03;2024007;3;0;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Mutsaardstraat;23;;
+ANTWERPEN-WEST - FH03;2024009;3;0;0;3;MDU;;N;MON;4;0;Monument;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Mutsaardstraat;25;;
+ANTWERPEN-WEST - FH03;108831;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;3;;
+ANTWERPEN-WEST - FH03;108832;0;3;0;3;MDU;;Y;NA;2;5;;;Y;;BUILDING template;Vekestraat;37;;
+ANTWERPEN-WEST - FH03;108839;0;3;0;3;MDU;;Y;NA;5;4;;"Volgens CRAB zijn er hier 9 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;42;;
+ANTWERPEN-WEST - FH03;2029015;3;0;0;3;MDU;;N;IRREG;3;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps zijn er 3 bussen";Y;BE;BUILDING template;Lange Noordstraat;23;;
+ANTWERPEN-WEST - FH03;2029017;0;3;0;3;MDU;;N;IRREG;3;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Lange Noordstraat;27;;
+ANTWERPEN-WEST - FH03;2034724;3;0;0;3;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Ossenmarkt;6;;
+ANTWERPEN-WEST - FH03;109213;3;0;0;3;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bellen";Y;;BUILDING template;Van Boendalestraat;12;;
+ANTWERPEN-WEST - FH03;109337;3;0;0;3;MDU;;Y;NA;3;3;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;2;;
+ANTWERPEN-WEST - FH03;2037917;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;72;;
+ANTWERPEN-WEST - FH03;2037927;2;1;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;74;;
+ANTWERPEN-WEST - FH03;2037959;0;3;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 11 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;88;;
+ANTWERPEN-WEST - FH03;109369;1;2;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;BE;BUILDING template;Rodestraat;36;;
+ANTWERPEN-WEST - FH03;2038041;2;1;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;124;;
+ANTWERPEN-WEST - FH03;2046003;2;1;0;3;MDU;;Y;NA;2;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Prinsstraat;5;;
+ANTWERPEN-WEST - FH03;2046566;3;0;0;3;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bussen";Y;;BUILDING template;Raapstraat;16;;
+ANTWERPEN-WEST - FH03;109576;3;0;0;3;MDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;35;;
+ANTWERPEN-WEST - FH03;109577;3;0;0;3;MDU;;N;ORN;4;4;;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps zijn er 3 bussen";Y;;BUILDING template;Rodestraat;1;;
+ANTWERPEN-WEST - FH03;2048156;3;0;0;3;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bussen";Y;;BUILDING template;Rodestraat;8;;
+ANTWERPEN-WEST - FH03;109855;0;3;0;3;MDU;;Y;NA;6;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Italiëlei;98;B;
+ANTWERPEN-WEST - FH03;109963;2;1;0;3;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Prinsstraat;1;;
+ANTWERPEN-WEST - FH03;2048177;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Rodestraat;42;;
+ANTWERPEN-WEST - FH03;2053999;2;1;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Stadswaag;17;;
+ANTWERPEN-WEST - FH03;2054000;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Stadswaag;19;;
+ANTWERPEN-WEST - FH03;2058906;2;1;0;3;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Varkensmarkt;4;;
+ANTWERPEN-WEST - FH03;2058965;3;0;0;3;MDU;;Y;NA;4;5;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Vekestraat;10;;
+ANTWERPEN-WEST - FH03;110259;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 3 bussen";Y;BE;BUILDING template;Stadswaag;4;;
+ANTWERPEN-WEST - FH03;2058973;2;1;0;3;MDU;;Y;NA;2;7;;;Y;;BUILDING template;Vekestraat;27;;
+ANTWERPEN-WEST - FH03;110300;2;1;0;3;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;2;;
+ANTWERPEN-WEST - FH03;2058980;3;0;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus (studentenkot ???)";Y;BE;BUILDING template;Vekestraat;39;;
+ANTWERPEN-WEST - FH03;2058981;3;0;0;3;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 2 bussen";Y;;BUILDING template;Vekestraat;40;;
+ANTWERPEN-WEST - FH03;110311;3;0;0;3;MDU;;N;MON;3;4;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Venusstraat;38;;
+ANTWERPEN-WEST - FH03;2059449;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;50;;
+ANTWERPEN-WEST - FH03;1089556;3;0;0;3;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;5;;
+ANTWERPEN-WEST - FH03;2065155;3;0;0;3;MDU;;Y;NA;4;3;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;23;;
+ANTWERPEN-WEST - FH03;1352922;0;3;0;3;MDU;;Y;NA;3;4;;;;;BUILDING template;Stadswaag;21;;
+ANTWERPEN-WEST - FH03;1273189;0;3;0;3;MDU;;Y;NA;4;8;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Brilstraat;12;;
+ANTWERPEN-WEST - FH03;1370156;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;32;;
+ANTWERPEN-WEST - FH03;1442044;4;0;0;4;MDU;;Y;NA;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Van Boendalestraat;11;;
+ANTWERPEN-WEST - FH03;3928273;4;0;0;4;MDU;;N;IRREG;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;11;;
+ANTWERPEN-WEST - FH03;3970826;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Ossenmarkt;12;;
+ANTWERPEN-WEST - FH03;109884;4;0;0;4;MDU;;Y;NA;4;4;;;;;BUILDING template;Italielei;44;;
+ANTWERPEN-WEST - FH03;1520877;4;0;0;4;MDU;;Y;NA;2;3;;OK (IDEM CRAB);Y;;BUILDING template;Kleine Kauwenberg;26;;
+ANTWERPEN-WEST - FH03;1751676;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Van Boendalestraat;4;;
+ANTWERPEN-WEST - FH03;1944464;4;0;0;4;MDU;;Y;NA;5;4;;;;;BUILDING template;Hoornstraat;9;;
+ANTWERPEN-WEST - FH03;1944465;4;0;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Hoornstraat;10;;
+ANTWERPEN-WEST - FH03;1751712;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Van Boendalestraat;9;;
+ANTWERPEN-WEST - FH03;4256951;4;0;0;4;MDU;;N;IRREG;4;4;;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google maps zijn er 4 bussen";Y;;BUILDING template;Grote Kauwenberg;23;;
+ANTWERPEN-WEST - FH03;4259415;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Vekestraat;4;;
+ANTWERPEN-WEST - FH03;1960630;4;0;0;4;MDU;;Y;NA;2;3;;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps zijn er 4 bussen en bellen";Y;;BUILDING template;Kleine Kauwenberg;24;;
+ANTWERPEN-WEST - FH03;4513187;4;0;0;4;MDU;;N;ORN;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;25;;
+ANTWERPEN-WEST - FH03;4513231;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus en 4 bellen (studentenkot ???)";Y;;BUILDING template;Klapdorp;88;;
+ANTWERPEN-WEST - FH03;4511658;4;0;0;4;MDU;;Y;NA;3;4;;;;;BUILDING template;Prinsstraat;19;;
+ANTWERPEN-WEST - FH03;1962139;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Klapdorp;62;;
+ANTWERPEN-WEST - FH03;1962150;4;0;0;4;MDU;;Y;NA;4;8;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;74;;
+ANTWERPEN-WEST - FH03;1962160;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;90;;
+ANTWERPEN-WEST - FH03;2023969;4;0;0;4;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Mutsaardstraat;7;;
+ANTWERPEN-WEST - FH03;2023972;4;0;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Mutsaardstraat;9;;
+ANTWERPEN-WEST - FH03;2028970;4;0;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Noordstraat;9;;
+ANTWERPEN-WEST - FH03;108840;0;4;0;4;MDU;;N;IRREG;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;58;;
+ANTWERPEN-WEST - FH03;2029003;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Lange Noordstraat;17;;
+ANTWERPEN-WEST - FH03;108845;4;0;0;4;MDU;;Y;NA;2;4;;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps zijn er 3 bussen";Y;;BUILDING template;Paardenmarkt;78;;
+ANTWERPEN-WEST - FH03;2029024;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Lange Noordstraat;31;;
+ANTWERPEN-WEST - FH03;108851;4;0;0;4;MDU;;Y;NA;4;4;;Volgens CRAB zijn er hier 2 LU'sOp Google Maps zijn er 4 bussenIs hetzelfde gebouw als nr. 3;Y;;BUILDING template;Vekestraat;1;;
+ANTWERPEN-WEST - FH03;2034716;3;1;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Ossenmarkt;2;;
+ANTWERPEN-WEST - FH03;2034732;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Ossenmarkt;9;;
+ANTWERPEN-WEST - FH03;2037752;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;4;;
+ANTWERPEN-WEST - FH03;2037791;3;1;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 8 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;20;;
+ANTWERPEN-WEST - FH03;2037894;3;1;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;62;;
+ANTWERPEN-WEST - FH03;109341;0;4;0;4;MDU;;Y;NA;4;6;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;40;;
+ANTWERPEN-WEST - FH03;2037932;3;1;0;4;MDU;;Y;NA;3;4;;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;76;;
+ANTWERPEN-WEST - FH03;109568;4;0;0;4;MDU;;Y;NA;3;4;;OK (IDEM CRAB);Y;;BUILDING template;Ossenmarkt;7;;
+ANTWERPEN-WEST - FH03;109569;4;0;0;4;MDU;;N;MON;3;0;Monument;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Ossenmarkt;5;;
+ANTWERPEN-WEST - FH03;109571;3;1;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Ossenmarkt;1;;
+ANTWERPEN-WEST - FH03;2048157;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;9;;
+ANTWERPEN-WEST - FH03;109582;4;0;0;4;MDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Rodestraat;43;;
+ANTWERPEN-WEST - FH03;109583;4;0;0;4;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Rodestraat;37;;
+ANTWERPEN-WEST - FH03;109852;3;1;0;4;MDU;;N;IRREG;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Italiëlei;88;;
+ANTWERPEN-WEST - FH03;2053990;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Stadswaag;3;;
+ANTWERPEN-WEST - FH03;2053991;2;2;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Stadswaag;6;;
+ANTWERPEN-WEST - FH03;110293;2;2;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Raapstraat;12;;
+ANTWERPEN-WEST - FH03;110299;3;1;0;4;MDU;;N;ORN;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;14;;
+ANTWERPEN-WEST - FH03;2058983;4;0;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps is er 1 bus (studentenkot ???)";Y;BE;BUILDING template;Vekestraat;43;;
+ANTWERPEN-WEST - FH03;110309;2;2;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Venusstraat;14;;
+ANTWERPEN-WEST - FH03;2059433;4;0;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;6;;
+ANTWERPEN-WEST - FH03;2059444;4;0;0;4;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;30;;
+ANTWERPEN-WEST - FH03;110328;4;0;0;4;MDU;;N;ORN;4;4;Beschermd Erfgoed;"-Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Hamerplaats;2;;
+ANTWERPEN-WEST - FH03;1085111;4;0;0;4;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Ossenmarkt;13;;
+ANTWERPEN-WEST - FH03;2065153;4;0;0;4;MDU;;N;ORN;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Lange Winkelstraat;17;;
+ANTWERPEN-WEST - FH03;2065157;4;0;0;4;MDU;;Y;NA;4;3;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;BE;BUILDING template;Lange Winkelstraat;27;;
+ANTWERPEN-WEST - FH03;2065158;4;0;0;4;MDU;;Y;NA;4;3;;OK (IDEM CRAB);Y;;BUILDING template;Lange Winkelstraat;29;;
+ANTWERPEN-WEST - FH03;1780482;4;0;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Lange Brilstraat;13;;
+ANTWERPEN-WEST - FH03;1780488;4;0;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Lange Brilstraat;16;;
+ANTWERPEN-WEST - FH03;2065163;4;0;0;4;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 2 bussen";Y;;BUILDING template;Lange Winkelstraat;41;;
+ANTWERPEN-WEST - FH03;3927704;4;0;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Hoornstraat;5;;
+ANTWERPEN-WEST - FH03;1935970;4;0;0;4;MDU;;Y;NA;3;4;;;;;BUILDING template;Jozef de Hasquestraat;6;;
+ANTWERPEN-WEST - FH03;1944460;5;0;0;5;MDU;;Y;NA;3;4;;;;;BUILDING template;Hoornstraat;3;;
+ANTWERPEN-WEST - FH03;1950904;4;1;0;5;MDU;;Y;NA;5;4;;;;;BUILDING template;Italielei;56;;
+ANTWERPEN-WEST - FH03;1951123;5;0;0;5;MDU;;N;IRREG;5;4;;;;;BUILDING template;Italielei;76;;
+ANTWERPEN-WEST - FH03;4509136;5;0;0;5;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Lange Winkelstraat;33;;
+ANTWERPEN-WEST - FH03;4513229;5;0;0;5;MDU;;N;ORN;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Klapdorp;84;;
+ANTWERPEN-WEST - FH03;5552578;0;5;0;5;MDU;;Y;NA;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;19;;
+ANTWERPEN-WEST - FH03;1962140;5;0;0;5;MDU;;Y;NA;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;64;;
+ANTWERPEN-WEST - FH03;61841;4;1;0;5;MDU;;N;ORN;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Klapdorp;42;;
+ANTWERPEN-WEST - FH03;1962156;4;1;0;5;MDU;;N;ORN;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Klapdorp;82;;
+ANTWERPEN-WEST - FH03;2023951;5;0;0;5;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 5 bussen";Y;;BUILDING template;Mutsaardstraat;3;;
+ANTWERPEN-WEST - FH03;2023962;4;1;0;5;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Mutsaardstraat;5;;
+ANTWERPEN-WEST - FH03;61855;4;1;0;5;MDU;;N;ORN;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 4 bussen";Y;;BUILDING template;Mutsaardstraat;1;;
+ANTWERPEN-WEST - FH03;2037770;0;5;0;5;MDU;;Y;NA;6;4;;"Volgens CRAB zijn er hier 10 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;10;;
+ANTWERPEN-WEST - FH03;109212;0;5;0;5;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Van Boendalestraat;2;;
+ANTWERPEN-WEST - FH03;109336;5;0;0;5;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;82;;
+ANTWERPEN-WEST - FH03;109338;5;0;0;5;MDU;;Y;NA;5;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 5 bussen";Y;;BUILDING template;Lange Winkelstraat;47;;
+ANTWERPEN-WEST - FH03;2038004;5;0;0;5;MDU;;Y;NA;6;4;;"Volgens CRAB zijn er hier 10 LU&apos;s
+Op Google Maps zijn er 10 bussen";Y;;BUILDING template;Paardenmarkt;110;;
+ANTWERPEN-WEST - FH03;2038013;5;0;0;5;MDU;;Y;NA;6;4;;;Y;;BUILDING template;Paardenmarkt;112;;
+ANTWERPEN-WEST - FH03;2038024;5;0;0;5;MDU;;Y;NA;6;4;;"Volgens CRAB zijn er hier 10 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;114;;
+ANTWERPEN-WEST - FH03;2048173;3;2;0;5;MDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 4 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Rodestraat;33;;
+ANTWERPEN-WEST - FH03;110305;4;1;0;5;MDU;;Y;NA;5;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Varkensmarkt;1;;
+ANTWERPEN-WEST - FH03;2065135;5;0;0;5;MDU;;Y;NA;5;4;;"Volgens CRAB zijn er hier 5 LU&apos;s
+Op Google Maps zijn er 4 bussen + café";Y;;BUILDING template;Korte Winkelstraat;3;;
+ANTWERPEN-WEST - FH03;1085273;5;0;0;5;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;4;;
+ANTWERPEN-WEST - FH03;3919344;4;1;0;5;MDU;;Y;NA;5;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Varkensmarkt;2;A;
+ANTWERPEN-WEST - FH03;1495960;6;0;0;6;MDU;;N;ORN;5;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Stadswaag;14;;
+ANTWERPEN-WEST - FH03;1950972;6;0;0;6;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Italielei;62;;
+ANTWERPEN-WEST - FH03;5833953;6;0;0;6;MDU;;N;ORN;4;4;;;Y;;BUILDING template;Toog;3;;
+ANTWERPEN-WEST - FH03;1962143;6;0;0;6;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Klapdorp;68;;
+ANTWERPEN-WEST - FH03;61849;6;0;0;6;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Varkensmarkt;8;;
+ANTWERPEN-WEST - FH03;2029009;6;0;0;6;MDU;;N;MON;3;0;Monument;"Volgens CRAB zijn er hier 6 LU&apos;s
+Op Google Maps zijn er 6 bellen";Y;MON;BUILDING template;Lange Noordstraat;19;;
+ANTWERPEN-WEST - FH03;2038036;6;0;0;6;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Paardenmarkt;122;;
+ANTWERPEN-WEST - FH03;109566;5;1;0;6;MDU;;Y;NA;6;4;;OK (IDEM CRAB);Y;;BUILDING template;Paardenmarkt;116;;
+ANTWERPEN-WEST - FH03;2046569;4;2;0;6;MDU;;N;MON;3;4;Monument;;Y;MON;BUILDING template;Raapstraat;20;;
+ANTWERPEN-WEST - FH03;2046570;6;0;0;6;MDU;;N;IRREG;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Raapstraat;22;;
+ANTWERPEN-WEST - FH03;110295;1;5;0;6;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Raapstraat;14;;
+ANTWERPEN-WEST - FH03;110297;5;1;0;6;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Paardenmarkt;30;;
+ANTWERPEN-WEST - FH03;110315;4;2;0;6;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Venusstraat;16;;
+ANTWERPEN-WEST - FH03;2059445;6;0;0;6;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Venusstraat;34;;
+ANTWERPEN-WEST - FH03;1138888;6;0;0;6;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Mutsaardstraat;15;;
+ANTWERPEN-WEST - FH03;1938931;7;0;0;7;MDU;;Y;NA;4;3;;;;;BUILDING template;Pieter van Hobokenstraat;13;;
+ANTWERPEN-WEST - FH03;1950874;6;1;0;7;MDU;;Y;NA;3;4;Beschermd Erfgoed;;;;BUILDING template;Italielei;54;;
+ANTWERPEN-WEST - FH03;4198350;4;3;0;7;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Stadswaag;15;;
+ANTWERPEN-WEST - FH03;1780459;6;1;0;7;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Lange Brilstraat;6;;
+ANTWERPEN-WEST - FH03;1960612;6;1;0;7;MDU;;Y;NA;4;4;;;;;BUILDING template;Grote Kauwenberg;7;;
+ANTWERPEN-WEST - FH03;4508895;6;1;0;7;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Paardenmarkt;84;;
+ANTWERPEN-WEST - FH03;4509139;7;0;0;7;MDU;;Y;NA;4;5;Beschermd Erfgoed;;;;BUILDING template;Lange Winkelstraat;35;;
+ANTWERPEN-WEST - FH03;4509140;6;1;0;7;MDU;;Y;NA;4;5;Beschermd Erfgoed;;;;BUILDING template;Lange Winkelstraat;37;;
+ANTWERPEN-WEST - FH03;5569312;7;0;0;7;MDU;;N;IRREG;8;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Italiëlei;108;;
+ANTWERPEN-WEST - FH03;108842;7;0;0;7;MDU;;N;MON;3;0;Monument;OK (IDEM CRAB);Y;MON;BUILDING template;Paardenmarkt;68;;
+ANTWERPEN-WEST - FH03;109198;6;1;0;7;MDU;;Y;NA;7;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Italiëlei;110;;
+ANTWERPEN-WEST - FH03;109206;6;1;0;7;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Korte Winkelstraat;9;;
+ANTWERPEN-WEST - FH03;109370;7;0;0;7;MDU;;N;ORN;4;4;;"-Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Grote Kauwenberg;1;;
+ANTWERPEN-WEST - FH03;2058963;7;0;0;7;MDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 3 LU&apos;s
+Op Google Maps zijn er 7 bussen";Y;;BUILDING template;Vekestraat;6;;
+ANTWERPEN-WEST - FH03;1089418;6;1;0;7;MDU;;Y;NA;7;4;;"Volgens CRAB zijn er hier 8 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Italiëlei;92;;
+ANTWERPEN-WEST - FH03;1950798;7;1;0;8;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Italielei;48;;
+ANTWERPEN-WEST - FH03;1780456;8;0;0;8;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Brilstraat;4;;
+ANTWERPEN-WEST - FH03;1951415;8;0;0;8;MDU;;Y;NA;9;4;;;;;BUILDING template;Italielei;102;;
+ANTWERPEN-WEST - FH03;4509348;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Hoornstraat;6;;
+ANTWERPEN-WEST - FH03;4511577;8;0;0;8;MDU;;Y;NA;3;4;;;;;BUILDING template;Varkensmarkt;3;;
+ANTWERPEN-WEST - FH03;1962134;8;0;0;8;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Klapdorp;56;;
+ANTWERPEN-WEST - FH03;2048169;8;0;0;8;MDU;;Y;NA;2;4;;OK (IDEM CRAB);Y;;BUILDING template;Rodestraat;29;;
+ANTWERPEN-WEST - FH03;110252;8;0;0;8;MDU;;N;ORN;4;4;;"Volgens CRAB zijn er hier 10 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Lange Brilstraat;5;;
+ANTWERPEN-WEST - FH03;111504;8;0;0;8;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;80;;
+ANTWERPEN-WEST - FH03;1138869;8;0;0;8;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps zijn er 8 bussen";Y;BE;BUILDING template;Mutsaardstraat;19;;
+ANTWERPEN-WEST - FH03;2067087;5;3;0;8;MDU;;Y;NA;3;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Korte Brilstraat;3;;
+ANTWERPEN-WEST - FH03;1283694;8;0;0;8;MDU;;N;ORN;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Klapdorp;60;;
+ANTWERPEN-WEST - FH03;4511619;9;0;0;9;MDU;;N;ORN;4;4;;;;;BUILDING template;Vekestraat;24;;
+ANTWERPEN-WEST - FH03;2046564;9;0;0;9;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Raapstraat;10;;
+ANTWERPEN-WEST - FH03;2058971;9;0;0;9;MDU;;Y;NA;4;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Vekestraat;20;;
+ANTWERPEN-WEST - FH03;6615821;8;1;0;9;MDU;;Y;NA;5;4;;;;;BUILDING template;Varkensmarkt;2;B;
+ANTWERPEN-WEST - FH03;1751662;10;0;0;10;MDU;;N;ORN;5;4;;OK (IDEM CRAB);Y;;BUILDING template;Van Boendalestraat;3;;
+ANTWERPEN-WEST - FH03;1780454;10;0;0;10;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 10 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Brilstraat;3;;
+ANTWERPEN-WEST - FH03;1960636;9;1;0;10;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 8 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Kleine Kauwenberg;42;;
+ANTWERPEN-WEST - FH03;109850;9;1;0;10;MDU;;Y;NA;4;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Italiëlei;66;;
+ANTWERPEN-WEST - FH03;109983;10;0;0;10;MDU;;Y;NA;5;3;;"Volgens CRAB zijn er hier 10 LU&apos;s
+Op Google Maps zijn er 10 bussen";Y;;BUILDING template;Vekestraat;2;;
+ANTWERPEN-WEST - FH03;1935971;9;1;0;10;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Jozef de Hasquestraat;7;;
+ANTWERPEN-WEST - FH03;1366994;0;10;0;10;MDU;;Y;NA;4;4;;OK (IDEM CRAB);Y;;BUILDING template;Venusstraat;7;;
+ANTWERPEN-WEST - FH03;4504914;12;0;0;12;MDU;;Y;NA;4;4;;"Volgens CRAB zijn er hier 13 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Kleine Kauwenberg;8;;
+ANTWERPEN-WEST - FH03;4508900;12;0;0;12;MDU;;Y;NA;4;4;Beschermd Erfgoed;;;;BUILDING template;Paardenmarkt;90;;
+ANTWERPEN-WEST - FH03;1938968;13;0;0;13;MDU;;Y;NA;3;4;;;;;BUILDING template;Pieter van Hobokenstraat;21;;
+ANTWERPEN-WEST - FH03;1951320;8;5;0;13;MDU;;N;IRREG;4;4;;;;;BUILDING template;Italielei;98;A;
+ANTWERPEN-WEST - FH03;12715;0;13;0;13;MDU;;N;ORN;4;4;;;Y;;BUILDING template;Paardenmarkt;34;;
+ANTWERPEN-WEST - FH03;109854;12;1;0;13;MDU;;Y;NA;7;4;;"Volgens CRAB zijn er hier 12 LU&apos;s
+Op Google Maps zijn er 13 bussen (incl. winkel)";Y;;BUILDING template;Italiëlei;96;;
+ANTWERPEN-WEST - FH03;1292053;13;0;0;13;MDU;;Y;NA;2;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 2 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Vekestraat;32;;
+ANTWERPEN-WEST - FH03;1938864;14;0;0;14;MDU;;N;MON;3;4;Monument;;;;BUILDING template;Pieter van Hobokenstraat;7;;
+ANTWERPEN-WEST - FH03;1960617;14;0;0;14;MDU;;N;IRREG;4;4;;;;;BUILDING template;Grote Kauwenberg;29;;
+ANTWERPEN-WEST - FH03;110251;14;0;0;14;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Lange Brilstraat;7;;
+ANTWERPEN-WEST - FH03;5373798;15;0;0;15;MDU;;Y;NA;3;4;;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Venusstraat;19;A;
+ANTWERPEN-WEST - FH03;1962145;14;1;0;15;MDU;;Y;NA;5;4;Beschermd Erfgoed;OK (IDEM CRAB);Y;BE;BUILDING template;Klapdorp;70;;
+ANTWERPEN-WEST - FH03;2048178;16;0;0;16;MDU;;Y;NA;3;4;Beschermd Erfgoed;"Volgens CRAB zijn er hier 16 LU&apos;s
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Rodestraat;44;;
+ANTWERPEN-WEST - FH03;109972;13;3;0;16;MDU;;N;MON;3;4;Monument;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;MON;BUILDING template;Venusstraat;17;;
+ANTWERPEN-WEST - FH03;1304350;16;0;0;16;MDU;;N;ORN;6;4;;"Volgens CRAB zijn er hier 16 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Paardenmarkt;6;;
+ANTWERPEN-WEST - FH03;109320;16;1;0;17;MDU;;Y;NA;6;3;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;106;;
+ANTWERPEN-WEST - FH03;109849;17;0;0;17;MDU;;Y;NA;9;4;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;46;;
+ANTWERPEN-WEST - FH03;109851;16;1;0;17;MDU;;Y;NA;9;4;;"Volgens CRAB zijn er hier 15 LU&apos;s
+Op Google Maps zijn er 17 bussen";Y;;BUILDING template;Italiëlei;70;;
+ANTWERPEN-WEST - FH03;2058967;18;0;0;18;MDU;;N;IRREG;2;4;Beschermd Erfgoed;;Y;BE;BUILDING template;Vekestraat;13;;
+ANTWERPEN-WEST - FH03;5575748;18;1;0;19;MDU;;Y;NA;9;3;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;50;;
+ANTWERPEN-WEST - FH03;109848;18;1;0;19;MDU;;Y;NA;9;3;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;58;;
+ANTWERPEN-WEST - FH03;5575750;25;0;0;25;MDU;;Y;NA;9;4;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;84;;
+ANTWERPEN-WEST - FH03;109195;24;1;0;25;MDU;;Y;NA;9;4;;OK (IDEM CRAB);Y;;BUILDING template;Italiëlei;100;;
+ANTWERPEN-WEST - FH03;61833;28;0;0;28;MDU;;N;ORN;4;4;;"Volgens CRAB zijn er hier 28 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Raapstraat;25;;
+ANTWERPEN-WEST - FH03;109199;28;2;0;30;MDU;;Y;NA;8;4;;"Volgens CRAB zijn er hier 26 LU&apos;s
+Op Google Maps niet controleerbaar";Y;;BUILDING template;Italiëlei;112;;
+ANTWERPEN-WEST - FH03;109980;31;0;0;31;MDU;;Y;NA;4;4;Beschermd Erfgoed;"Volgens CRAB is er hier 1 LU
+Op Google Maps niet controleerbaar";Y;BE;BUILDING template;Vekestraat;34;;
+ANTWERPEN-WEST - FH03;109575;34;0;0;34;MDU;;N;IRREG;9;4;;"Volgens CRAB zijn er hier 31 LU&apos;s
+Op Google Maps niet controleerbaar";Y;Review Required;BUILDING template;Italiëlei;98;;
+ANTWERPEN-WEST - FH03;61827;60;0;0;60;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Noordstraat;10;;

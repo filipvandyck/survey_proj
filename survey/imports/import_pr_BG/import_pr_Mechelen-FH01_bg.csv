@@ -1,0 +1,21 @@
+Projectnummer;Opdrachtnummer;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+MECHELEN - FH01;905658;905658;;Begijnenstraat 51_Vismarkt 18;Vismarkt;18;;;D;2020-01-20 12:25:22;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5898870;5898870;;Begijnenstraat 51_Vismarkt 18;Begijnenstraat;51;;;D;2020-01-20 12:25:22;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3054432;3054432;;Bruul 90_Lekkernijstraatje 1;Lekkernijstraatje;1;;;D;2020-01-14;Jo De Clippel;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;4191732;4191732;;Frederik De Merodestraat 6-6A;Frederik de Merodestraat;6;;;D;2020-02-03 08:40:16;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3032940;3032940;;Frederik De Merodestraat 6-6A;Frederik de Merodestraat;6;A;;D;2020-02-03 08:40:16;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904293;904293;;Lange Schipstraat 58-60;Lange Schipstraat;58;;;D;2020-02-11 13:55:28;Jo De Clippel;MDU;1;4;0;5;BUILDING template
+MECHELEN - FH01;903465;903465;;Lange Schipstraat 58-60;Lange Schipstraat;60;;;D;2020-02-11 13:55:28;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;905662;905662;;Nauwstaat 9-11;Nauwstraat;9;;;C;2020-01-15 12:40:17;Jo De Clippel;MDU;2;2;0;4;BUILDING template
+MECHELEN - FH01;3043723;3043723;;Nauwstaat 9-11;Nauwstraat;11;;;C;2020-01-15 12:40:17;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032847;3032847;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik De Deckerstraat;37;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;929573;929573;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Sint-Katelijnestraat;62;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3048651;3048651;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Sint-Katelijnestraat;64;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;3032851;3032851;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik de Deckerstraat;41;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;929594;929594;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik De Deckerstraat;39;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;3055132;3055132;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Thaborstraat;35;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;2;36;BUILDING template
+MECHELEN - FH01;3055134;3055134;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Thaborstraat;37;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;2;36;BUILDING template
+MECHELEN - FH01;3050158;3050158;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;10;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;5;0;34;BUILDING template
+MECHELEN - FH01;3050160;3050160;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;11;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;5;0;34;BUILDING template
+MECHELEN - FH01;3050164;3050164;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;14;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;0;34;BUILDING template
+MECHELEN - FH01;3050162;3050162;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;12;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;0;34;BUILDING template

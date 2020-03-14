@@ -1,0 +1,996 @@
+Projectnummer;Opdrachtnummer;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+HASSELT - FH04;4888731;4888731;25947672;Ambachtsschoolstraat 5-5A-7-9;Ambachtsschoolstraat;5;;20200117154530;B;2019-10-14;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3987979;3987979;25947672;Ambachtsschoolstraat 5-5A-7-9;Ambachtsschoolstraat;7;;20200117154530;B;2019-10-14;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408080;2408080;25947672;Ambachtsschoolstraat 5-5A-7-9;Ambachtsschoolstraat;9;;20200117154530;B;2019-10-14;Jo De Clippel;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;4253694;4253694;25947672;Ambachtsschoolstraat 5-5A-7-9;Ambachtsschoolstraat;5;A;20200117154530;B;2019-10-14;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701700;701700;25872505;Grote Breemstraat 21-21A;Grote Breemstraat;21;;20200115090753;XC;2019-09-12 15:15:21;Jo De Clippel;MDU;0;8;1;9;BUILDING template
+HASSELT - FH04;3954984;3954984;25872505;Grote Breemstraat 21-21A;Grote Breemstraat;21;A;20200115090753;XC;2019-09-12 15:15:21;Jo De Clippel;MDU;0;10;1;11;BUILDING template
+HASSELT - FH04;2433797;2433797;;;Palmstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886739;4886739;21588489;Lazarijstraat 40_Palmstraat 2;Lazarijstraat;40;;20200130104353;C;2019-08-01 13:50:13;Jo De Clippel;MDU;0;12;1;13;BUILDING template
+HASSELT - FH04;28291;28291;21588489;Lazarijstraat 40_Palmstraat 2;Palmstraat;2;;20200130104353;C;2019-08-01 13:50:13;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423637;2423637;20608201;Plantenstraat 27-29;Oude Kuringerbaan;39;;20191113094725;C;2019-08-01 13:05:10;Jo De Clippel;MDU;0;12;1;13;BUILDING template
+HASSELT - FH04;2434204;2434204;20608204;Plantenstraat 27-29;Plantenstraat;27;;20191113094725;C;2019-08-01 13:05:10;Jo De Clippel;MDU;0;8;1;9;BUILDING template
+HASSELT - FH04;2434206;2434206;20608204;Plantenstraat 27-29;Plantenstraat;29;;20191113094725;C;2019-08-01 13:05:10;Jo De Clippel;MDU;0;12;1;13;BUILDING template
+HASSELT - FH04;700945;700945;27507446;Plantenstraat 31-33;Plantenstraat;31;;20200128134114;C;2019-09-06 10:25:20;Dieu Jocelin;MDU;0;8;0;8;BUILDING template
+HASSELT - FH04;701336;701336;;;Blijde-Inkomststraat;2;;;D;2019-10-07 09:40:18;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;3937451;3937451;;;Kuringersteenweg;33;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2425304;2425304;;;Lazarijstraat;90;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937588;3937588;;;Plantenstraat;72;;;D;2019-07-16 07:40:12;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2418814;2418814;;;Blijde-Inkomststraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893029;4893029;;;Kuringersteenweg;34;;;D;2019-10-10;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2425305;2425305;;;Lazarijstraat;91;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701156;701156;;;Plantenstraat;74;;;D;2019-07-16 07:40:14;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;701337;701337;;;Blijde-Inkomststraat;5;;;D;2019-07-29 12:00:17;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2423750;2423750;;;Kuringersteenweg;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425306;2425306;;;Lazarijstraat;92;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701149;701149;;;Plantenstraat;75;;;B;2019-10-08 10:00:29;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2418815;2418815;;;Blijde-Inkomststraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423754;2423754;;;Kuringersteenweg;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425307;2425307;;;Lazarijstraat;93;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701157;701157;;;Plantenstraat;76;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418817;2418817;;;Blijde-Inkomststraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423759;2423759;;;Kuringersteenweg;37;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;3937474;3937474;;;Lazarijstraat;94;;;B;2019-07-18 10:15:17;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;701148;701148;;;Plantenstraat;79;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4889008;4889008;;;Blijde-Inkomststraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937452;3937452;;;Kuringersteenweg;38;;;D;2019-08-27 10:30:20;Dieu Jocelin;MDU;0;8;0;8;BUILDING template
+HASSELT - FH04;2425309;2425309;;;Lazarijstraat;95;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434264;2434264;;;Plantenstraat;80;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418818;2418818;;;Blijde-Inkomststraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423763;2423763;;;Kuringersteenweg;41;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425311;2425311;;;Lazarijstraat;96;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434267;2434267;;;Plantenstraat;81;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418819;2418819;;;Blijde-Inkomststraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423768;2423768;;;Kuringersteenweg;42;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4888867;4888867;;;Lazarijstraat;97;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890496;4890496;;;Plantenstraat;82;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701335;701335;;;Blijde-Inkomststraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423771;2423771;;;Kuringersteenweg;43;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700985;700985;;;Lazarijstraat;98;;;D;2019-07-15 10:50:43;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4890547;4890547;;;Plantenstraat;83;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418823;2418823;;;Blijde-Inkomststraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701706;701706;;;Kuringersteenweg;44;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4235790;4235790;;;Lazarijstraat;99;;;D;2019-10-23 15:35:11;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2434270;2434270;;;Plantenstraat;84;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701333;701333;;;Blijde-Inkomststraat;13;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423779;2423779;;;Kuringersteenweg;45;;;D;2019-08-27 10:20:15;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;2425312;2425312;;;Lazarijstraat;101;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890500;4890500;;;Plantenstraat;86;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4889010;4889010;;;Blijde-Inkomststraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701705;701705;;;Kuringersteenweg;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888871;4888871;;;Lazarijstraat;105;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4218408;4218408;;;Plantenstraat;87;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888814;4888814;;;Blijde-Inkomststraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423786;2423786;;;Kuringersteenweg;47;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2425316;2425316;;;Lazarijstraat;109;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434272;2434272;;;Plantenstraat;88;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418825;2418825;;;Blijde-Inkomststraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4157483;4157483;;;Lazarijstraat;111;;;;2019-07-15 10:45:32;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2434275;2434275;;;Plantenstraat;89;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4211666;4211666;;;Blijde-Inkomststraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423790;2423790;;;Kuringersteenweg;52;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700903;700903;;;Lazarijstraat;115;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890505;4890505;;;Plantenstraat;90;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418828;2418828;;;Blijde-Inkomststraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423793;2423793;;;Kuringersteenweg;53;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4192624;4192624;;;Lazarijstraat;117;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434277;2434277;;;Plantenstraat;92;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418830;2418830;;;Blijde-Inkomststraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423794;2423794;;;Kuringersteenweg;54;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701344;701344;;;Lazarijstraat;119;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434279;2434279;;;Plantenstraat;93;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701334;701334;;;Blijde-Inkomststraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423795;2423795;;;Kuringersteenweg;56;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701343;701343;;;Lazarijstraat;121;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4243740;4243740;;;Plantenstraat;94;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418833;2418833;;;Blijde-Inkomststraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423797;2423797;;;Kuringersteenweg;57;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425334;2425334;;;Lazarijstraat;123;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4256885;4256885;;;Plantenstraat;95;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701332;701332;;;Blijde-Inkomststraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423798;2423798;;;Kuringersteenweg;58;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425338;2425338;;;Lazarijstraat;125;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434282;2434282;;;Plantenstraat;96;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423892;2423892;;;Kuringersteenweg;112;;;D;2019-10-31;Jo De Clippel;MDU;1;6;1;8;BUILDING template
+HASSELT - FH04;1445547;1445547;;;Blijde-Inkomststraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890663;4890663;;;Kuringersteenweg;59;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4889004;4889004;;;Lazarijstraat;127;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434283;2434283;;;Plantenstraat;97;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418835;2418835;;;Blijde-Inkomststraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893007;4893007;;;Kuringersteenweg;60;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700904;700904;;;Lazarijstraat;129;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890509;4890509;;;Plantenstraat;98;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1309645;1309645;;;Kleine Breemstraat;5;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888818;4888818;;;Blijde-Inkomststraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890666;4890666;;;Kuringersteenweg;61;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700905;700905;;;Lazarijstraat;131;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4051194;4051194;;;Plantenstraat;99;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890576;4890576;;;Plantenstraat;30;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418837;2418837;;;Blijde-Inkomststraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423801;2423801;;;Kuringersteenweg;62;;;D;2019-10-10 14:30:23;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+HASSELT - FH04;4882429;4882429;;;Lazarijstraat;133;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434284;2434284;;;Plantenstraat;100;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418846;2418846;;;Blijde-Inkomststraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423803;2423803;;;Kuringersteenweg;63;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425353;2425353;;;Lazarijstraat;135;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434287;2434287;;;Plantenstraat;101;;;D;2019-07-22 09:15:16;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2418848;2418848;;;Blijde-Inkomststraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423804;2423804;;;Kuringersteenweg;64;;;D;2019-10-10 13:40:19;Jo De Clippel;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;2425359;2425359;;;Lazarijstraat;137;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890510;4890510;;;Plantenstraat;102;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888820;4888820;;;Blijde-Inkomststraat;29;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423806;2423806;;;Kuringersteenweg;65;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425362;2425362;;;Lazarijstraat;139;;;XC;2019-10-28 14:40:15;Jo De Clippel;MDU;0;7;1;8;BUILDING template
+HASSELT - FH04;2434290;2434290;;;Plantenstraat;103;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418849;2418849;;;Blijde-Inkomststraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423810;2423810;;;Kuringersteenweg;66;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425371;2425371;;;Lazarijstraat;141;;;XC;2019-10-28 14:00:27;Jo De Clippel;MDU;0;8;2;10;BUILDING template
+HASSELT - FH04;2434294;2434294;;;Plantenstraat;104;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1523345;1523345;;;Blijde-Inkomststraat;31;;;D;2019-07-15 10:35:31;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423814;2423814;;;Kuringersteenweg;67;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425377;2425377;;;Lazarijstraat;149;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434296;2434296;;;Plantenstraat;105;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;6628540;6628540;;;Kuringersteenweg;112;A;;;2019-10-31;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701331;701331;;;Blijde-Inkomststraat;32;;;D;2019-08-01 13:25:10;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423817;2423817;;;Kuringersteenweg;68;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937477;3937477;;;Lazarijstraat;151;;;D;2019-07-29 11:20:09;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2434298;2434298;;;Plantenstraat;106;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701338;701338;;;Blijde-Inkomststraat;33;;;D;2019-07-15 10:40:15;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423818;2423818;;;Kuringersteenweg;69;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425378;2425378;;;Lazarijstraat;153;;;D;2019-07-29 11:15:12;Dieu Jocelin;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;2423885;2423885;;;Kuringersteenweg;110;;;D;2019-11-06;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;701330;701330;;;Blijde-Inkomststraat;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423819;2423819;;;Kuringersteenweg;70;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425380;2425380;;;Lazarijstraat;155;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700941;700941;;;Plantenstraat;108;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4062353;4062353;;;Blijde-Inkomststraat;36;;;;2019-07-15 10:40:24;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423820;2423820;;;Kuringersteenweg;71;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700907;700907;;;Lazarijstraat;157;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434301;2434301;;;Plantenstraat;109;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418864;2418864;;;Blijde-Inkomststraat;37;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423821;2423821;;;Kuringersteenweg;72;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700914;700914;;;Lijmstraat;2;;;XC;2019-10-23 11:10:15;Jo De Clippel;MDU;0;8;1;9;BUILDING template
+HASSELT - FH04;700943;700943;;;Plantenstraat;110;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418866;2418866;;;Blijde-Inkomststraat;39;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423822;2423822;;;Kuringersteenweg;73;;;D;2019-09-04 11:40:16;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+HASSELT - FH04;700912;700912;;;Lijmstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434304;2434304;;;Plantenstraat;111;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;6624710;6624710;;;Rozenstraat;29;;;;2019-06-14;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418868;2418868;;;Blijde-Inkomststraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4229254;4229254;;;Kuringersteenweg;74;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4177736;4177736;;;Lijmstraat;5;;;;2019-10-21 11:15:21;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4890560;4890560;;;Plantenstraat;113;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418870;2418870;;;Blijde-Inkomststraat;43;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423826;2423826;;;Kuringersteenweg;75;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937201;3937201;;;Lijmstraat;7;;;C;2019-10-25 14:40:13;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4890562;4890562;;;Plantenstraat;115;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;6624711;6624711;;;Kuringersteenweg;55;;;;2019-06-14;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701329;701329;;;Blijde-Inkomststraat;45;;;D;2019-10-07 09:55:15;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;439292;439292;;;Kuringersteenweg;76;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2407509;2407509;;;Lijmstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890564;4890564;;;Plantenstraat;119;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;5425138;5425138;;;Blijde-Inkomststraat;13;A;;D;2019-07-29 12:05:21;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423829;2423829;;;Kuringersteenweg;77;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2407511;2407511;;;Lijmstraat;11;;;;2019-10-23 11:50:13;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4251150;4251150;;;Plantenstraat;121;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700968;700968;;;Breestraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701704;701704;;;Kuringersteenweg;78;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4269620;4269620;;;Lijmstraat;13;;;C;2019-10-25 14:55:14;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4056106;4056106;;;Plantenstraat;123;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410912;2410912;;;Breestraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423830;2423830;;;Kuringersteenweg;79;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937202;3937202;;;Lijmstraat;15;;;C;2019-10-25 15:00:25;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;700942;700942;;;Plantenstraat;125;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;6624713;6624713;;;Grote Breemstraat;113;;;;2019-06-14;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1505853;1505853;;;Breestraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701709;701709;;;Kuringersteenweg;80;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;700913;700913;;;Lijmstraat;17;;;D;2019-10-29 10:45:23;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;700939;700939;;;Plantenstraat;127;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2410927;2410927;;;Breestraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423831;2423831;;;Kuringersteenweg;81;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701350;701350;;;Mouterijstraat;1;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;5434130;5434130;;;Plantenstraat;78;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4227480;4227480;;;Breestraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;439291;439291;;;Kuringersteenweg;82;;;D;2019-10-11 13:15:25;Jo De Clippel;MDU;1;4;1;6;BUILDING template
+HASSELT - FH04;2430859;2430859;;;Mouterijstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701345;701345;;;Prinsenstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410934;2410934;;;Breestraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423841;2423841;;;Kuringersteenweg;83;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;700981;700981;;;Oude Kuringerbaan;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700926;700926;;;Prinsenstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4243120;4243120;;;Breestraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423844;2423844;;;Kuringersteenweg;84;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423609;2423609;;;Oude Kuringerbaan;2;;;D;2019-08-27 11:30:16;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;2434517;2434517;;;Prinsenstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700967;700967;;;Breestraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423845;2423845;;;Kuringersteenweg;85;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423610;2423610;;;Oude Kuringerbaan;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434519;2434519;;;Prinsenstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700966;700966;;;Breestraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423846;2423846;;;Kuringersteenweg;86;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423611;2423611;;;Oude Kuringerbaan;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434521;2434521;;;Prinsenstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886697;4886697;;;Breestraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423848;2423848;;;Kuringersteenweg;87;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4249149;4249149;;;Oude Kuringerbaan;6;;;D;2019-10-14;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;4185473;4185473;;;Prinsenstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410943;2410943;;;Breestraat;22;;;D;2019-08-02 09:00:22;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2423851;2423851;;;Kuringersteenweg;88;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700980;700980;;;Oude Kuringerbaan;7;;;D;2019-10-15 09:20:14;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+HASSELT - FH04;2434525;2434525;;;Prinsenstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701163;701163;;;Breestraat;24;;;D;2019-08-02 09:00:18;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;4890682;4890682;;;Kuringersteenweg;89;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423615;2423615;;;Oude Kuringerbaan;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434528;2434528;;;Prinsenstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410949;2410949;;;Breestraat;26;;;XC;2019-10-30;Jo De Clippel;MDU;0;7;1;8;BUILDING template
+HASSELT - FH04;701710;701710;;;Kuringersteenweg;90;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700979;700979;;;Oude Kuringerbaan;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701346;701346;;;Prinsenstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410951;2410951;;;Breestraat;28;;;XC;2019-10-24;Jo De Clippel;MDU;0;8;1;9;BUILDING template
+HASSELT - FH04;701734;701734;;;Kuringersteenweg;91;;;D;2019-09-04 11:30:53;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+HASSELT - FH04;2423616;2423616;;;Oude Kuringerbaan;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434531;2434531;;;Prinsenstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410967;2410967;;;Breestraat;30;;;XC;2019-10-30 15:10:13;Jo De Clippel;MDU;0;8;1;9;BUILDING template
+HASSELT - FH04;701711;701711;;;Kuringersteenweg;92;;;D;2019-07-17 10:00:30;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;4080760;4080760;;;Oude Kuringerbaan;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434534;2434534;;;Prinsenstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700952;700952;;;Breestraat;32;;;D;2019-08-02 09:15:13;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2423858;2423858;;;Kuringersteenweg;95;;;D;2019-10-11;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+HASSELT - FH04;3937440;3937440;;;Oude Kuringerbaan;12;;;D;2019-09-10 09:10:14;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2434537;2434537;;;Prinsenstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700953;700953;;;Breestraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937453;3937453;;;Kuringersteenweg;96;;;D;2019-10-15 13:35:14;Jo De Clippel;MDU;1;10;1;12;BUILDING template
+HASSELT - FH04;2423617;2423617;;;Oude Kuringerbaan;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434540;2434540;;;Prinsenstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410977;2410977;;;Breestraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423861;2423861;;;Kuringersteenweg;97;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701741;701741;;;Oude Kuringerbaan;16;;;D;2019-07-15 07:55:14;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;2434542;2434542;;;Prinsenstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4235083;4235083;;;Breestraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937454;3937454;;;Kuringersteenweg;99;;;D;2019-10-11 10:40:18;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423619;2423619;;;Oude Kuringerbaan;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888933;4888933;;;Prinsenstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410985;2410985;;;Breestraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893114;4893114;;;Kuringersteenweg;100;;;;2019-08-26 10:20:10;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423621;2423621;;;Oude Kuringerbaan;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700929;700929;;;Prinsenstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4244661;4244661;;;Breestraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423863;2423863;;;Kuringersteenweg;101;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701144;701144;;;Oude Kuringerbaan;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888935;4888935;;;Prinsenstraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410993;2410993;;;Breestraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893117;4893117;;;Kuringersteenweg;102;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423624;2423624;;;Oude Kuringerbaan;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700928;700928;;;Prinsenstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410997;2410997;;;Breestraat;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423864;2423864;;;Kuringersteenweg;103;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701140;701140;;;Oude Kuringerbaan;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434545;2434545;;;Prinsenstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411001;2411001;;;Breestraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423865;2423865;;;Kuringersteenweg;104;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701138;701138;;;Oude Kuringerbaan;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434515;2434515;;;Prinsenstraat;1;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701164;701164;;;Breestraat;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423868;2423868;;;Kuringersteenweg;105;;;;2019-07-17 09:50:26;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890710;4890710;;;Oude Kuringerbaan;28;;;D;2019-07-22 10:50:17;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2434546;2434546;;;Prinsenstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411010;2411010;;;Breestraat;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701703;701703;;;Kuringersteenweg;106;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434547;2434547;;;Prinsenstraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411013;2411013;;;Breestraat;54;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423878;2423878;;;Kuringersteenweg;107;;;D;2019-08-26 10:50:10;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+HASSELT - FH04;3937441;3937441;;;Oude Kuringerbaan;30;;;D;2019-10-14 15:40:18;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2434549;2434549;;;Prinsenstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411016;2411016;;;Breestraat;56;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701604;701604;;;Kuringersteenweg;108;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434551;2434551;;;Prinsenstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411019;2411019;;;Breestraat;58;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423635;2423635;;;Oude Kuringerbaan;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434553;2434553;;;Prinsenstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411022;2411022;;;Breestraat;62;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423890;2423890;;;Kuringersteenweg;111;;;D;2019-08-26 10:55:11;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4234089;4234089;;;Oude Kuringerbaan;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434555;2434555;;;Prinsenstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2411026;2411026;;;Breestraat;64;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423897;2423897;;;Kuringersteenweg;113;;;;2019-08-26 17:40:10;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937442;3937442;20608200;;Oude Kuringerbaan;37;;20191113094725;C;2019-07-31 12:35:16;Jo De Clippel;MDU;0;7;1;8;BUILDING template
+HASSELT - FH04;700927;700927;;;Prinsenstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700946;700946;;;Breestraat;66;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888754;4888754;;;Kuringersteenweg;114;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423636;2423636;;;Oude Kuringerbaan;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888941;4888941;;;Prinsenstraat;27;;;;2019-07-16 08:40:14;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701168;701168;;;Breestraat;28;B;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423901;2423901;;;Kuringersteenweg;115;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882343;4882343;;;Prinsenstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701167;701167;;;Breestraat;28;C;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423904;2423904;;;Kuringersteenweg;116;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423639;2423639;;;Oude Kuringerbaan;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434556;2434556;;;Prinsenstraat;29;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701166;701166;;;Breestraat;28;D;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423905;2423905;;;Kuringersteenweg;117;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701142;701142;20608202;;Oude Kuringerbaan;41;;20191113094725;C;2019-07-31 13:35:11;Jo De Clippel;MDU;1;6;1;8;BUILDING template
+HASSELT - FH04;4882346;4882346;;;Prinsenstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701165;701165;;;Breestraat;28;E;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4070200;4070200;;;Kuringersteenweg;118;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423645;2423645;;;Oude Kuringerbaan;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434558;2434558;;;Prinsenstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701169;701169;;;Breestraat;28;F;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890731;4890731;;;Kuringersteenweg;119;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890715;4890715;;;Oude Kuringerbaan;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434560;2434560;;;Prinsenstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701170;701170;;;Breestraat;28;G;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423906;2423906;;;Kuringersteenweg;120;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423648;2423648;;;Oude Kuringerbaan;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434562;2434562;;;Prinsenstraat;33;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701171;701171;;;Breestraat;28;H;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701738;701738;;;Kuringersteenweg;121;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423651;2423651;;;Oude Kuringerbaan;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4153862;4153862;;;Prinsenstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701172;701172;;;Breestraat;28;I;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423907;2423907;;;Kuringersteenweg;122;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890718;4890718;;;Oude Kuringerbaan;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701349;701349;;;Prinsenstraat;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701173;701173;;;Breestraat;28;J;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701739;701739;;;Kuringersteenweg;123;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701136;701136;;;Oude Kuringerbaan;51;;;D;2019-07-15 07:40:15;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;700931;700931;;;Prinsenstraat;36;;;XC;2019-10-22 15:25:14;Jo De Clippel;MDU;0;11;1;12;BUILDING template
+HASSELT - FH04;700924;700924;;;Eeuwfeeststraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423911;2423911;;;Kuringersteenweg;124;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423653;2423653;;;Oude Kuringerbaan;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701348;701348;;;Prinsenstraat;37;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700923;700923;;;Eeuwfeeststraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4232557;4232557;;;Kuringersteenweg;125;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890472;4890472;;;Oude Kuringerbaan;53;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700930;700930;;;Prinsenstraat;38;;;XC;2019-10-23 10:50:17;Jo De Clippel;MDU;0;11;1;12;BUILDING template
+HASSELT - FH04;700922;700922;;;Eeuwfeeststraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423914;2423914;;;Kuringersteenweg;127;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423655;2423655;;;Oude Kuringerbaan;54;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888947;4888947;;;Prinsenstraat;39;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414379;2414379;;;Eeuwfeeststraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423918;2423918;;;Kuringersteenweg;129;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423657;2423657;;;Oude Kuringerbaan;55;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434568;2434568;;;Prinsenstraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882433;4882433;;;Eeuwfeeststraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937455;3937455;;;Kuringersteenweg;130;;;D;2019-10-14 12:25:14;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;701137;701137;;;Oude Kuringerbaan;56;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434571;2434571;;;Prinsenstraat;43;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414380;2414380;;;Eeuwfeeststraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423921;2423921;;;Kuringersteenweg;131;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423658;2423658;;;Oude Kuringerbaan;57;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434572;2434572;;;Prinsenstraat;45;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414382;2414382;;;Eeuwfeeststraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;28297;28297;;;Kuringersteenweg;132;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701133;701133;;;Oude Kuringerbaan;58;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4888949;4888949;;;Prinsenstraat;47;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700920;700920;;;Eeuwfeeststraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4268275;4268275;;;Kuringersteenweg;133;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423659;2423659;;;Oude Kuringerbaan;59;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434574;2434574;;;Prinsenstraat;49;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414384;2414384;;;Eeuwfeeststraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1309642;1309642;;;Kuringersteenweg;134;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937443;3937443;;;Oude Kuringerbaan;62;;;D;2019-07-15 07:40:13;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2434576;2434576;;;Prinsenstraat;51;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700921;700921;;;Eeuwfeeststraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423926;2423926;;;Kuringersteenweg;135;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423661;2423661;;;Oude Kuringerbaan;65;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434578;2434578;;;Prinsenstraat;55;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414385;2414385;;;Eeuwfeeststraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890698;4890698;;;Kuringersteenweg;137;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423662;2423662;;;Oude Kuringerbaan;66;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434581;2434581;;;Prinsenstraat;57;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414387;2414387;;;Eeuwfeeststraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423932;2423932;;;Kuringersteenweg;139;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423664;2423664;;;Oude Kuringerbaan;67;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434584;2434584;;;Prinsenstraat;59;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414388;2414388;;;Eeuwfeeststraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423936;2423936;;;Kuringersteenweg;141;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423666;2423666;;;Oude Kuringerbaan;68;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701347;701347;;;Prinsenstraat;61;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414390;2414390;;;Eeuwfeeststraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423937;2423937;;;Kuringersteenweg;143;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423667;2423667;;;Oude Kuringerbaan;69;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701325;701325;;;Rozenstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882441;4882441;;;Eeuwfeeststraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3994305;3994305;;;Kuringersteenweg;145;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890624;4890624;;;Oude Kuringerbaan;70;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701324;701324;;;Rozenstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414392;2414392;;;Eeuwfeeststraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423938;2423938;;;Kuringersteenweg;146;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423669;2423669;;;Oude Kuringerbaan;71;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436615;2436615;;;Rozenstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414394;2414394;;;Eeuwfeeststraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423941;2423941;;;Kuringersteenweg;147;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937444;3937444;;;Oude Kuringerbaan;72;;;D;2019-09-05 10:00:29;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2436618;2436618;;;Rozenstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414395;2414395;;;Eeuwfeeststraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423945;2423945;;;Kuringersteenweg;148;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423670;2423670;;;Oude Kuringerbaan;73;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436619;2436619;;;Rozenstraat;5;;;C;2019-10-24 11:55:16;Jo De Clippel;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;700919;700919;;;Eeuwfeeststraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423949;2423949;;;Kuringersteenweg;149;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937445;3937445;;;Oude Kuringerbaan;74;;;D;2019-10-15 12:40:16;Jo De Clippel;MDU;0;8;0;8;BUILDING template
+HASSELT - FH04;2436620;2436620;;;Rozenstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2414398;2414398;;;Eeuwfeeststraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423953;2423953;;;Kuringersteenweg;150;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423671;2423671;;;Oude Kuringerbaan;75;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436621;2436621;;;Rozenstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700918;700918;;;Eeuwfeeststraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423957;2423957;;;Kuringersteenweg;151;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890481;4890481;;;Oude Kuringerbaan;77;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888833;4888833;;;Rozenstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701689;701689;;;Goetsbloetsstraat;1;;;D;2019-09-09 10:55:15;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;4887654;4887654;;;Kuringersteenweg;152;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423674;2423674;;;Oude Kuringerbaan;78;;;C;2019-10-15 12:50:19;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2436622;2436622;;;Rozenstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701692;701692;;;Goetsbloetsstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890705;4890705;;;Kuringersteenweg;153;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423676;2423676;;;Oude Kuringerbaan;79;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436623;2436623;;;Rozenstraat;10;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2415928;2415928;;;Goetsbloetsstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423961;2423961;;;Kuringersteenweg;154;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423677;2423677;;;Oude Kuringerbaan;80;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436624;2436624;;;Rozenstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893066;4893066;;;Goetsbloetsstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423966;2423966;;;Kuringersteenweg;155;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423678;2423678;;;Oude Kuringerbaan;81;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;654134;654134;;;Rozenstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893069;4893069;;;Goetsbloetsstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423970;2423970;;;Kuringersteenweg;157;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423679;2423679;;;Oude Kuringerbaan;82;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888785;4888785;;;Rozenstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415930;2415930;;;Goetsbloetsstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423973;2423973;;;Kuringersteenweg;159;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701135;701135;;;Oude Kuringerbaan;83;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;654132;654132;;;Rozenstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415932;2415932;;;Goetsbloetsstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423975;2423975;;;Kuringersteenweg;161;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423680;2423680;;;Oude Kuringerbaan;84;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701328;701328;;;Rozenstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701690;701690;;;Goetsbloetsstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423976;2423976;;;Kuringersteenweg;162;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701134;701134;;;Oude Kuringerbaan;85;;;D;2019-07-15 07:30:21;Dieu Jocelin;MDU;0;10;0;10;BUILDING template
+HASSELT - FH04;4888837;4888837;;;Rozenstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415934;2415934;;;Goetsbloetsstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423978;2423978;;;Kuringersteenweg;163;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701132;701132;;;Oude Kuringerbaan;86;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701327;701327;;;Rozenstraat;17;;;XC;2019-10-25 09:15:23;Jo De Clippel;MDU;0;28;1;29;BUILDING template
+HASSELT - FH04;701696;701696;;;Goetsbloetsstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4255024;4255024;;;Kuringersteenweg;164;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701284;701284;;;Oude Kuringerbaan;88;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436632;2436632;;;Rozenstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4170997;4170997;;;Goetsbloetsstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423980;2423980;;;Kuringersteenweg;165;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423681;2423681;;;Oude Kuringerbaan;89;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701326;701326;;;Rozenstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893099;4893099;;;Goetsbloetsstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423983;2423983;;;Kuringersteenweg;166;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884374;4884374;;;Oude Kuringerbaan;90;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937613;3937613;;;Rozenstraat;1;A;;D;2019-07-30 08:30:13;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2415938;2415938;;;Goetsbloetsstraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423986;2423986;;;Kuringersteenweg;167;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890598;4890598;;;Oude Kuringerbaan;91;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436633;2436633;;;Rozenstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415940;2415940;;;Goetsbloetsstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423682;2423682;;;Oude Kuringerbaan;92;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4274274;4274274;;;Rozenstraat;21;;;;2019-07-19 09:25:15;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701691;701691;;;Goetsbloetsstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423990;2423990;;;Kuringersteenweg;169;;;D;2019-10-11 13:45:22;Jo De Clippel;MDU;2;0;0;2;BUILDING template
+HASSELT - FH04;2423684;2423684;;;Oude Kuringerbaan;94;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888839;4888839;;;Rozenstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;5552886;5552886;;;Goetsbloetsstraat;1;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1280895;1280895;;;Kuringersteenweg;170;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423685;2423685;;;Oude Kuringerbaan;95;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436642;2436642;;;Rozenstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415942;2415942;;;Goetsbloetsstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424006;2424006;;;Kuringersteenweg;171;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423686;2423686;;;Oude Kuringerbaan;96;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701322;701322;;;Rozenstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701693;701693;;;Goetsbloetsstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1355665;1355665;;;Kuringersteenweg;172;;;C;2019-10-21 08:50:19;Jo De Clippel;MDU;3;0;0;3;BUILDING template
+HASSELT - FH04;4070087;4070087;;;Oude Kuringerbaan;97;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701323;701323;;;Rozenstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701694;701694;;;Goetsbloetsstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701275;701275;;;Kuringersteenweg;173;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4884380;4884380;;;Oude Kuringerbaan;98;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701320;701320;;;Rozenstraat;27;;;D;2019-10-23 15:10:14;Jo De Clippel;MDU;0;8;0;8;BUILDING template
+HASSELT - FH04;4893057;4893057;;;Goetsbloetsstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1309643;1309643;;;Kuringersteenweg;174;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423687;2423687;;;Oude Kuringerbaan;99;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436655;2436655;;;Rozenstraat;28;;;;2019-10-21 15:15:19;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2415946;2415946;;;Goetsbloetsstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701274;701274;;;Kuringersteenweg;175;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4036932;4036932;;;Oude Kuringerbaan;100;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415949;2415949;;;Goetsbloetsstraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1309644;1309644;;;Kuringersteenweg;176;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701286;701286;;;Oude Kuringerbaan;101;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436663;2436663;;;Rozenstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415951;2415951;;;Goetsbloetsstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4155674;4155674;;;Kuringersteenweg;177;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884384;4884384;;;Oude Kuringerbaan;102;;;D;2019-07-15 07:20:13;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;701318;701318;;;Rozenstraat;33;;;D;2019-07-16 08:55:13;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2415953;2415953;;;Goetsbloetsstraat;29;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4887675;4887675;;;Kuringersteenweg;178;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423688;2423688;;;Oude Kuringerbaan;104;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436677;2436677;;;Rozenstraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415955;2415955;;;Goetsbloetsstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424017;2424017;;;Kuringersteenweg;179;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423689;2423689;;;Oude Kuringerbaan;106;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436678;2436678;;;Rozenstraat;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415957;2415957;;;Goetsbloetsstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424018;2424018;;;Kuringersteenweg;180;;;D;2019-10-09;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423690;2423690;;;Oude Kuringerbaan;107;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436673;2436673;;;Rozenstraat;44;A;;D;2019-08-02 08:25:11;Dieu Jocelin;MDU;0;8;0;8;BUILDING template
+HASSELT - FH04;2415959;2415959;;;Goetsbloetsstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424019;2424019;;;Kuringersteenweg;181;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423691;2423691;;;Oude Kuringerbaan;108;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436674;2436674;;;Rozenstraat;44;B;;D;2019-08-02 08:35:08;Dieu Jocelin;MDU;0;9;0;9;BUILDING template
+HASSELT - FH04;2415960;2415960;;;Goetsbloetsstraat;33;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424023;2424023;;;Kuringersteenweg;182;;;C;2019-10-09 12:15:19;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+HASSELT - FH04;4884389;4884389;;;Oude Kuringerbaan;110;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436676;2436676;;;Rozenstraat;44;C;;D;2019-08-02 08:40:09;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;3937323;3937323;;;Goetsbloetsstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424027;2424027;;;Kuringersteenweg;183;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4048027;4048027;;;Oude Kuringerbaan;111;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937648;3937648;;;Stokerijstraat;2;;;D;2019-08-27 12:00:29;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2415962;2415962;;;Goetsbloetsstraat;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424031;2424031;;;Kuringersteenweg;184;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423692;2423692;;;Oude Kuringerbaan;112;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442014;2442014;;;Stokerijstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4011002;4011002;;;Goetsbloetsstraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884349;4884349;;;Kuringersteenweg;185;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890612;4890612;;;Oude Kuringerbaan;113;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442016;2442016;;;Stokerijstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415964;2415964;;;Goetsbloetsstraat;37;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423693;2423693;;;Oude Kuringerbaan;114;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442019;2442019;;;Stokerijstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701697;701697;;;Goetsbloetsstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424040;2424040;;;Kuringersteenweg;187;;;D;2019-10-09 14:50:17;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+HASSELT - FH04;701131;701131;;;Oude Kuringerbaan;115;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442021;2442021;;;Stokerijstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1121142;1121142;;;Goetsbloetsstraat;39;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424043;2424043;;;Kuringersteenweg;189;;;D;2019-10-09 15:05:29;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;4884392;4884392;;;Oude Kuringerbaan;116;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442024;2442024;;;Stokerijstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701698;701698;;;Goetsbloetsstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424049;2424049;;;Kuringersteenweg;191;;;D;2019-10-09 15:10:16;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;701130;701130;;;Oude Kuringerbaan;117;;;;2019-10-29 09:50:15;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442027;2442027;;;Stokerijstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701688;701688;;;Goetsbloetsstraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424053;2424053;;;Kuringersteenweg;193;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423694;2423694;;;Oude Kuringerbaan;118;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442030;2442030;;;Stokerijstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415969;2415969;;;Goetsbloetsstraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424056;2424056;;;Kuringersteenweg;195;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701283;701283;;;Oude Kuringerbaan;119;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888848;4888848;;;Stokerijstraat;18;;;D;2019-08-27 11:55:23;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2415971;2415971;;;Goetsbloetsstraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424059;2424059;;;Kuringersteenweg;197;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423695;2423695;;;Oude Kuringerbaan;120;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442035;2442035;;;Stokerijstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415972;2415972;;;Goetsbloetsstraat;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4038250;4038250;;;Kuringersteenweg;199;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701278;701278;;;Oude Kuringerbaan;121;;;D;2019-10-29 10:05:19;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2442039;2442039;;;Stokerijstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2415974;2415974;;;Goetsbloetsstraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884354;4884354;;;Kuringersteenweg;201;;;D;2019-07-18 08:20:15;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;4884393;4884393;;;Oude Kuringerbaan;122;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937649;3937649;;;Stokerijstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1121141;1121141;;;Goetsbloetsstraat;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884356;4884356;;;Kuringersteenweg;203;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884395;4884395;;;Oude Kuringerbaan;124;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442043;2442043;;;Stokerijstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701695;701695;;;Goetsbloetsstraat;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424069;2424069;;;Kuringersteenweg;205;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884398;4884398;;;Oude Kuringerbaan;128;;;D;2019-07-15 07:10:13;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2442047;2442047;;;Stokerijstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410760;2410760;;;Grote Breemstraat;4;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701273;701273;;;Kuringersteenweg;207;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937446;3937446;;;Oude Kuringerbaan;130;;;C;2019-09-11 09:00:59;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+HASSELT - FH04;2442052;2442052;;;Stokerijstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1121144;1121144;;;Grote Breemstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701272;701272;;;Kuringersteenweg;209;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423697;2423697;;;Oude Kuringerbaan;132;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442056;2442056;;;Stokerijstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410768;2410768;;;Grote Breemstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424089;2424089;;;Kuringersteenweg;211;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701282;701282;;;Oude Kuringerbaan;134;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442058;2442058;;;Stokerijstraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1121145;1121145;;;Grote Breemstraat;15;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701276;701276;;;Kuringersteenweg;213;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423698;2423698;;;Oude Kuringerbaan;148;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442060;2442060;;;Stokerijstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1121094;1121094;;;Grote Breemstraat;17;;;C;2019-09-13;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+HASSELT - FH04;701277;701277;;;Kuringersteenweg;215;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4082991;4082991;;;Oude Kuringerbaan;14;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442063;2442063;;;Stokerijstraat;40;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701699;701699;;;Grote Breemstraat;19;;;XC;2019-09-12 14:15:17;Jo De Clippel;MDU;0;19;1;20;BUILDING template
+HASSELT - FH04;2424107;2424107;;;Kuringersteenweg;217;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423618;2423618;;;Oude Kuringerbaan;14;B;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442070;2442070;;;Stokerijstraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424114;2424114;;;Kuringersteenweg;219;;;D;2019-07-18 08:40:14;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2423699;2423699;;;Oude Kuringerbaan;150;;;;2019-07-15 06:55:10;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4700797;4700797;;;Stokerijstraat;46;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701668;701668;;;Grote Breemstraat;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884366;4884366;;;Kuringersteenweg;221;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423700;2423700;;;Oude Kuringerbaan;152;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937650;3937650;;;Stokerijstraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410791;2410791;;;Grote Breemstraat;37;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4193975;4193975;;;Kuringersteenweg;223;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423701;2423701;;;Oude Kuringerbaan;154;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442073;2442073;;;Stokerijstraat;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410793;2410793;;;Grote Breemstraat;39;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4026719;4026719;;;Kuringersteenweg;225;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423702;2423702;;;Oude Kuringerbaan;156;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2442077;2442077;;;Stokerijstraat;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410796;2410796;;;Grote Breemstraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937458;3937458;;;Kuringersteenweg;227;;;D;2019-10-21 08:40:12;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2423703;2423703;;;Oude Kuringerbaan;160;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410799;2410799;;;Grote Breemstraat;43;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424131;2424131;;;Kuringersteenweg;229;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423704;2423704;;;Oude Kuringerbaan;168;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410802;2410802;;;Grote Breemstraat;45;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884371;4884371;;;Kuringersteenweg;231;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423705;2423705;;;Oude Kuringerbaan;192;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410809;2410809;;;Grote Breemstraat;47;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424141;2424141;;;Kuringersteenweg;233;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4247492;4247492;;;Oude Kuringerbaan;194;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701667;701667;;;Grote Breemstraat;49;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1334543;1334543;;;Kuringersteenweg;235;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4192825;4192825;;;Oude Kuringerbaan;196;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701619;701619;;;Grote Breemstraat;63;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1334544;1334544;;;Kuringersteenweg;237;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;5371650;5371650;;;Oude Kuringerbaan;83;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410815;2410815;;;Grote Breemstraat;65;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4051441;4051441;;;Kuringersteenweg;239;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884293;4884293;;;Oude Kuringerbaan;158;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410818;2410818;;;Grote Breemstraat;67;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424163;2424163;;;Kuringersteenweg;241;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890530;4890530;27507446;Plantenstraat 31-33;Plantenstraat;33;;20200128134114;C;2019-09-06 10:25:20;Dieu Jocelin;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;4888685;4888685;;;Grote Breemstraat;69;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424171;2424171;;;Kuringersteenweg;243;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700974;700974;;;Palmstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4175832;4175832;;;Grote Breemstraat;71;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424176;2424176;;;Kuringersteenweg;245;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700973;700973;;;Palmstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888689;4888689;;;Grote Breemstraat;73;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937461;3937461;;;Kuringersteenweg;247;;;C;2019-10-21 09:10:18;Jo De Clippel;MDU;0;9;0;9;BUILDING template
+HASSELT - FH04;4886776;4886776;;;Palmstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433788;2433788;;;Palmstraat;34;;;D;2019-09-11 08:35:15;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4221994;4221994;;;Grote Breemstraat;75;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884338;4884338;;;Kuringersteenweg;249;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886785;4886785;;;Palmstraat;6;;;;2019-10-24 13:45:20;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2410821;2410821;;;Grote Breemstraat;77;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937462;3937462;;;Kuringersteenweg;251;;;C;2019-10-14;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;4167790;4167790;;;Palmstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888710;4888710;;;Grote Breemstraat;95;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701271;701271;;;Kuringersteenweg;253;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2433761;2433761;;;Palmstraat;8;;;;2019-07-11 10:35:43;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410825;2410825;;;Grote Breemstraat;105;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423894;2423894;;;Kuringersteenweg;112;B;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2433764;2433764;;;Palmstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888721;4888721;;;Grote Breemstraat;107;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;6194247;6194247;;;Kuringersteenweg;112;C;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;700976;700976;;;Palmstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1130473;1130473;;;Grote Breemstraat;109;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423974;2423974;;;Kuringersteenweg;159;A;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433768;2433768;;;Palmstraat;11;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;1130472;1130472;;;Grote Breemstraat;111;;;D;2019-09-10 12:10:18;Jo De Clippel;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;2423994;2423994;;;Kuringersteenweg;170;A;;C;2019-10-09;Jo De Clippel;MDU;2;1;1;4;BUILDING template
+HASSELT - FH04;700977;700977;;;Palmstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701618;701618;;;Grote Breemstraat;115;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423998;2423998;;;Kuringersteenweg;170;B;;;;Dieu Jocelin;SDU;1;0;;1;BUILDING template
+HASSELT - FH04;2433769;2433769;;;Palmstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2424001;2424001;;;Kuringersteenweg;170;C;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886792;4886792;;;Palmstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937363;3937363;;;Heilig-Hartplein;1;;;D;2019-07-30 09:45:11;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4161577;4161577;;;Kuringersteenweg;229;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433771;2433771;;;Palmstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417575;2417575;;;Heilig-Hartplein;2;;;D;2019-07-30 12:05:09;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;3937460;3937460;;;Kuringersteenweg;239;A;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433773;2433773;;;Palmstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937364;3937364;;;Heilig-Hartplein;3;;;C;2019-08-01 08:30:15;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;701340;701340;;;Lazarijstraat;1;;;D;2019-07-29 10:40:13;Dieu Jocelin;MDU;1;7;0;8;BUILDING template
+HASSELT - FH04;1519743;1519743;;;Palmstraat;17;;;D;2019-07-11 10:30:22;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2417576;2417576;;;Heilig-Hartplein;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700982;700982;;;Lazarijstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886796;4886796;;;Palmstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417578;2417578;;;Heilig-Hartplein;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425135;2425135;;;Lazarijstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1519742;1519742;;;Palmstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417580;2417580;;;Heilig-Hartplein;6;;;D;2019-10-16 09:55:13;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;4886722;4886722;;;Lazarijstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433778;2433778;;;Palmstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417581;2417581;;;Heilig-Hartplein;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425137;2425137;;;Lazarijstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700971;700971;;;Palmstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937365;3937365;;;Heilig-Hartplein;8;;;D;2019-10-07;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2425139;2425139;;;Lazarijstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433783;2433783;;;Palmstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417583;2417583;;;Heilig-Hartplein;9;;;D;2019-07-23 10:45:43;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2425143;2425143;;;Lazarijstraat;7;;;D;2019-08-27 11:35:14;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;700970;700970;;;Palmstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417586;2417586;;;Heilig-Hartplein;10;;;D;2019-07-30 12:20:09;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2425144;2425144;;;Lazarijstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1313109;1313109;;;Palmstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417589;2417589;;;Heilig-Hartplein;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888884;4888884;;;Lazarijstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417590;2417590;;;Heilig-Hartplein;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886724;4886724;;;Lazarijstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4200835;4200835;;;Palmstraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417593;2417593;;;Heilig-Hartplein;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425145;2425145;;;Lazarijstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4030628;4030628;;;Palmstraat;29;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417595;2417595;;;Heilig-Hartplein;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425148;2425148;;;Lazarijstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433785;2433785;;;Palmstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701128;701128;26048950;;Heilig-Hartplein;15;;20200128081843;B;2019-11-07 09:40:14;Jo De Clippel;MDU;0;15;1;16;BUILDING template
+HASSELT - FH04;2425151;2425151;;;Lazarijstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700972;700972;;;Palmstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937366;3937366;26048950;;Heilig-Hartplein;16;;20200128081843;B;2019-11-07 10:00:35;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4886725;4886725;;;Lazarijstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433786;2433786;;;Palmstraat;32;;;;2019-09-06 11:25:13;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890456;4890456;;;Heilig-Hartplein;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4027961;4027961;;;Lazarijstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433791;2433791;;;Palmstraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417600;2417600;;;Heilig-Hartplein;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425154;2425154;;;Lazarijstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433794;2433794;;;Palmstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701110;701110;;;Heilig-Hartplein;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4008415;4008415;;;Lazarijstraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701145;701145;;;Heilig-Hartplein;21;;;D;2019-07-31 10:35:11;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2425155;2425155;;;Lazarijstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937580;3937580;;;Palmstraat;42;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2417605;2417605;;;Heilig-Hartplein;22;;;D;2019-07-31 10:30:19;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2425156;2425156;;;Lazarijstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2433798;2433798;;;Palmstraat;44;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937367;3937367;;;Heilig-Hartplein;23;;;D;2019-07-31 10:30:15;Dieu Jocelin;MDU;0;9;0;9;BUILDING template
+HASSELT - FH04;4000925;4000925;;;Lazarijstraat;1;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937583;3937583;;;Palmstraat;46;;;XC;2019-09-06 10:55:15;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;3937368;3937368;;;Heilig-Hartplein;24;;;D;2019-07-31 10:25:10;Dieu Jocelin;MDU;0;9;0;9;BUILDING template
+HASSELT - FH04;4886728;4886728;;;Lazarijstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700969;700969;;;Palmstraat;48;;;D;2019-08-02 09:40:11;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;701267;701267;;;Alverbergstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937369;3937369;;;Heilig-Hartplein;25;;;D;2019-07-31 10:15:20;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;2425157;2425157;;;Lazarijstraat;21;;;D;2019-07-29 10:50:11;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;3937581;3937581;;;Palmstraat;44;A;;XC;2019-10-21 13:05:17;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;701614;701614;;;Ambachtsschoolstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;5309827;5309827;;;Heilig-Hartplein;14;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425161;2425161;;;Lazarijstraat;22;;;;2019-07-15 08:15:19;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882254;4882254;;;Permekelaan;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408077;2408077;;;Ambachtsschoolstraat;2;;;XC;2019-09-05 15:34:44;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;701162;701162;;;Hekkelaarstraat;1;;;XC;2019-10-16;Jo De Clippel;MDU;0;9;1;10;BUILDING template
+HASSELT - FH04;2425165;2425165;;;Lazarijstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700938;700938;;;Permekelaan;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408078;2408078;;;Ambachtsschoolstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701161;701161;;;Hekkelaarstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425168;2425168;;;Lazarijstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2405812;2405812;;;Permekelaan;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701611;701611;;;Ambachtsschoolstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417610;2417610;;;Hekkelaarstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425171;2425171;;;Lazarijstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882243;4882243;;;Permekelaan;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417612;2417612;;;Hekkelaarstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425174;2425174;;;Lazarijstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882258;4882258;;;Permekelaan;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408079;2408079;;;Ambachtsschoolstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417614;2417614;;;Hekkelaarstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425178;2425178;;;Lazarijstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2405813;2405813;;;Permekelaan;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417615;2417615;;;Hekkelaarstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425182;2425182;;;Lazarijstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700915;700915;;;Permekelaan;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888743;4888743;;;Ambachtsschoolstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701160;701160;;;Hekkelaarstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425185;2425185;;;Lazarijstraat;33;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2405815;2405815;;;Permekelaan;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417617;2417617;;;Hekkelaarstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425188;2425188;;;Lazarijstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2405817;2405817;;;Permekelaan;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408082;2408082;;;Ambachtsschoolstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417609;2417609;;;Hekkelaarstraat;2;A;;D;2019-07-31 10:40:10;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;2425191;2425191;;;Lazarijstraat;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4069145;4069145;;;Permekelaan;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408083;2408083;;;Ambachtsschoolstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1421;1421;;;Hendrik van Veldekesingel;39;;;C;2019-10-09 12:55:12;Jo De Clippel;MDU;3;0;0;3;BUILDING template
+HASSELT - FH04;4886734;4886734;;;Lazarijstraat;36;;;C;2019-08-01 13:35:10;Jo De Clippel;MDU;0;7;1;8;BUILDING template
+HASSELT - FH04;700916;700916;;;Permekelaan;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408084;2408084;;;Ambachtsschoolstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701620;701620;;;Kleine Breemstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888896;4888896;;;Lazarijstraat;37;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700917;700917;;;Permekelaan;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701617;701617;;;Ambachtsschoolstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410853;2410853;;;Kleine Breemstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886736;4886736;;;Lazarijstraat;38;;;C;2019-08-01 13:45:17;Jo De Clippel;MDU;0;7;1;8;BUILDING template
+HASSELT - FH04;5412014;5412014;;;Permekelaan;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701615;701615;;;Ambachtsschoolstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410870;2410870;;;Kleine Breemstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4065012;4065012;;;Lazarijstraat;39;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701744;701744;;;Plantenstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701608;701608;;;Ambachtsschoolstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4206079;4206079;;;Kleine Breemstraat;7;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701745;701745;;;Plantenstraat;2;;;D;2019-09-04 10:55:15;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;701616;701616;;;Ambachtsschoolstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410873;2410873;;;Kleine Breemstraat;8;;;;2019-10-07 12:50:13;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425194;2425194;;;Lazarijstraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890633;4890633;;;Plantenstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701154;701154;;;Plantenstraat;16;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408085;2408085;;;Ambachtsschoolstraat;17;;;D;2019-07-16 09:20:12;Dieu Jocelin;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;2410876;2410876;;;Kleine Breemstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425197;2425197;;;Lazarijstraat;43;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;26194;26194;;;Plantenstraat;4;;;D;2019-09-04 11:10:16;Dieu Jocelin;MDU;0;10;0;10;BUILDING template
+HASSELT - FH04;701319;701319;;;Rozenstraat;52;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408086;2408086;;;Ambachtsschoolstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410878;2410878;;;Kleine Breemstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425206;2425206;;;Lazarijstraat;45;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890635;4890635;;;Plantenstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701737;701737;;;Kuringersteenweg;93;;;;;;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701607;701607;;;Ambachtsschoolstraat;19;;;D;2019-07-16 09:30:28;Dieu Jocelin;MDU;1;5;0;6;BUILDING template
+HASSELT - FH04;1506439;1506439;;;Kleine Breemstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888902;4888902;;;Lazarijstraat;47;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701743;701743;;;Plantenstraat;6;;;;2019-07-11 10:15:30;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701740;701740;;;Oude Kuringerbaan;4;;;;;;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2408087;2408087;;;Ambachtsschoolstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4197189;4197189;;;Kleine Breemstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;700984;700984;;;Lazarijstraat;48;;;D;2019-07-29 11:05:11;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2434181;2434181;;;Plantenstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408097;2408097;;;Ambachtsschoolstraat;35;;;D;2019-09-04 14:25:37;Jo De Clippel;MDU;0;7;1;8;BUILDING template
+HASSELT - FH04;2408088;2408088;;;Ambachtsschoolstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888673;4888673;;;Kleine Breemstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425210;2425210;;;Lazarijstraat;49;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937586;3937586;;;Plantenstraat;8;;;XC;2019-09-05 07:50:13;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;2410955;2410955;;;Breestraat;28;A;;XC;2019-10-30;Jo De Clippel;MDU;0;8;1;9;BUILDING template
+HASSELT - FH04;2408089;2408089;;;Ambachtsschoolstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410885;2410885;;;Kleine Breemstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425215;2425215;;;Lazarijstraat;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434182;2434182;;;Plantenstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2436637;2436637;;;Rozenstraat;23;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888749;4888749;;;Ambachtsschoolstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410889;2410889;;;Kleine Breemstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425219;2425219;;;Lazarijstraat;51;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890688;4890688;;;Plantenstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937579;3937579;;;Palmstraat;28;;;D;2019-07-11 10:50:37;Dieu Jocelin;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;2408090;2408090;;;Ambachtsschoolstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410893;2410893;;;Kleine Breemstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425222;2425222;;;Lazarijstraat;52;;;;2019-07-15 08:30:20;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701146;701146;;;Plantenstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4273082;4273082;;;Kuringersteenweg;51;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408091;2408091;;;Ambachtsschoolstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701621;701621;;;Kleine Breemstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425224;2425224;;;Lazarijstraat;53;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701151;701151;;;Plantenstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4884300;4884300;;;Oude Kuringerbaan;170;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408092;2408092;;;Ambachtsschoolstraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701622;701622;;;Kleine Breemstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425227;2425227;;;Lazarijstraat;54;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701153;701153;;;Plantenstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888712;4888712;;;Grote Breemstraat;97;;;;;;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2408093;2408093;;;Ambachtsschoolstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888653;4888653;;;Kleine Breemstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4154331;4154331;;;Lazarijstraat;55;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434190;2434190;;;Plantenstraat;18;;;D;2019-07-17 09:10:15;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;4893113;4893113;;;Kuringersteenweg;98;;;;2019-08-26 10:20:09;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4888772;4888772;;;Ambachtsschoolstraat;29;;;D;2019-07-16 09:35:14;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2410899;2410899;;;Kleine Breemstraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425231;2425231;;;Lazarijstraat;56;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434194;2434194;;;Plantenstraat;20;;;D;2019-07-17 10:25:30;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;6020151;6020151;;;Plantenstraat;32;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701605;701605;;;Ambachtsschoolstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2410902;2410902;;;Kleine Breemstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425235;2425235;;;Lazarijstraat;57;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434197;2434197;;;Plantenstraat;22;;;D;2019-07-17 10:31:29;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;6399932;6399932;;;Ambachtsschoolstraat;50;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408095;2408095;;;Ambachtsschoolstraat;31;;;D;2019-07-16 09:35:17;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;701623;701623;;;Kleine Breemstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4886751;4886751;;;Lazarijstraat;58;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434200;2434200;;;Plantenstraat;24;;;D;2019-08-02 09:55:09;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;6404474;6404474;;;Ambachtsschoolstraat;48;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701610;701610;;;Ambachtsschoolstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425239;2425239;;;Lazarijstraat;59;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890571;4890571;;;Plantenstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888774;4888774;;;Ambachtsschoolstraat;33;;;;2019-09-04 13:15:19;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701317;701317;;;Kuringersteenweg;1;;;XC;2019-10-18 09:20:15;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2425242;2425242;;;Lazarijstraat;60;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408096;2408096;;;Ambachtsschoolstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937448;3937448;;;Kuringersteenweg;3;;;XC;2019-10-18 10:05:50;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+HASSELT - FH04;2425246;2425246;;;Lazarijstraat;61;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890573;4890573;;;Plantenstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408098;2408098;;;Ambachtsschoolstraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937449;3937449;;;Kuringersteenweg;5;;;D;2019-07-17 07:30:15;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2425249;2425249;;;Lazarijstraat;62;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408100;2408100;;;Ambachtsschoolstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701708;701708;;;Kuringersteenweg;6;;;D;2019-10-10;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;2425251;2425251;;;Lazarijstraat;63;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408101;2408101;;;Ambachtsschoolstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423707;2423707;;;Kuringersteenweg;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425253;2425253;;;Lazarijstraat;64;;;;2019-07-15 08:55:13;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701612;701612;;;Ambachtsschoolstraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4210264;4210264;;;Kuringersteenweg;8;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2425261;2425261;;;Lazarijstraat;65;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434209;2434209;;;Plantenstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701606;701606;;;Ambachtsschoolstraat;43;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423708;2423708;;;Kuringersteenweg;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937472;3937472;;;Lazarijstraat;66;;;D;2019-07-15 08:40:15;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;3937587;3937587;;;Plantenstraat;36;;;D;2019-07-16 08:00:25;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;701613;701613;;;Ambachtsschoolstraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4893022;4893022;;;Kuringersteenweg;10;;;D;2019-07-17 07:40:12;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2425262;2425262;;;Lazarijstraat;67;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1515285;1515285;;;Plantenstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3994616;3994616;;;Ambachtsschoolstraat;45;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423710;2423710;;;Kuringersteenweg;11;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425263;2425263;;;Lazarijstraat;68;;;D;2019-07-15 08:45:16;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2434214;2434214;;;Plantenstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888632;4888632;;;Ambachtsschoolstraat;46;;;C;2019-09-05 08:40:18;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;2423712;2423712;;;Kuringersteenweg;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888911;4888911;;;Lazarijstraat;69;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701152;701152;;;Plantenstraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888642;4888642;;;Ambachtsschoolstraat;56;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888984;4888984;;;Kuringersteenweg;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425265;2425265;;;Lazarijstraat;71;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701155;701155;;;Plantenstraat;44;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2408102;2408102;;;Ambachtsschoolstraat;58;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423713;2423713;;;Kuringersteenweg;14;;;D;2019-10-10;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH04;2425266;2425266;;;Lazarijstraat;72;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434219;2434219;;;Plantenstraat;47;;;D;2019-07-16 08:05:19;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH04;2423714;2423714;;;Kuringersteenweg;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425268;2425268;;;Lazarijstraat;73;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434222;2434222;;;Plantenstraat;49;;;;2019-07-19 09:25:13;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2408103;2408103;;;Ambachtsschoolstraat;60;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423715;2423715;;;Kuringersteenweg;16;;;C;2019-10-10;Jo De Clippel;MDU;0;7;0;7;BUILDING template
+HASSELT - FH04;2425271;2425271;;;Lazarijstraat;74;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701150;701150;;;Plantenstraat;50;;;D;2019-08-02 09:25:12;Dieu Jocelin;MDU;2;8;0;10;BUILDING template
+HASSELT - FH04;4210544;4210544;;;Ambachtsschoolstraat;62;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701316;701316;;;Kuringersteenweg;17;;;D;2019-10-11 09:45:25;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2425274;2425274;;;Lazarijstraat;75;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434225;2434225;;;Plantenstraat;51;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2408104;2408104;;;Ambachtsschoolstraat;64;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423717;2423717;;;Kuringersteenweg;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;3937473;3937473;;;Lazarijstraat;76;;;D;2019-07-15 08:50:15;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH04;2434228;2434228;;;Plantenstraat;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701609;701609;;;Ambachtsschoolstraat;66;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423718;2423718;;;Kuringersteenweg;20;;;D;2019-07-17 07:45:15;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2425275;2425275;;;Lazarijstraat;77;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434231;2434231;;;Plantenstraat;53;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4888627;4888627;;;Ambachtsschoolstraat;68;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4893024;4893024;;;Kuringersteenweg;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425276;2425276;;;Lazarijstraat;78;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890520;4890520;;;Plantenstraat;54;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701310;701310;;;Armand Hertzstraat;2;;;;2019-10-21 13:25:15;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701736;701736;;;Kuringersteenweg;23;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;701339;701339;;;Lazarijstraat;79;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434235;2434235;;;Plantenstraat;55;;;D;2019-08-02 09:30:23;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;700925;700925;;;Armand Hertzstraat;36;;;XC;2019-10-22 13:15:19;Jo De Clippel;MDU;0;11;1;12;BUILDING template
+HASSELT - FH04;2423720;2423720;;;Kuringersteenweg;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425278;2425278;;;Lazarijstraat;80;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434238;2434238;;;Plantenstraat;56;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882284;4882284;;;Armand Hertzstraat;38;;;XC;2019-10-23 13:40:16;Jo De Clippel;MDU;0;5;1;6;BUILDING template
+HASSELT - FH04;3937450;3937450;;;Kuringersteenweg;25;;;D;2019-10-11 09:00:24;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+HASSELT - FH04;2425281;2425281;;;Lazarijstraat;82;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701147;701147;;;Plantenstraat;57;;;D;2019-08-02 09:50:09;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+HASSELT - FH04;2417959;2417959;;;Armand Hertzstraat;40;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423722;2423722;;;Kuringersteenweg;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701341;701341;;;Lazarijstraat;83;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434249;2434249;;;Plantenstraat;58;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;1373085;1373085;;;Armand Hertzstraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423726;2423726;;;Kuringersteenweg;27;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;4886759;4886759;;;Lazarijstraat;84;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434251;2434251;;;Plantenstraat;60;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4882294;4882294;;;Armand Hertzstraat;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423734;2423734;;;Kuringersteenweg;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425289;2425289;;;Lazarijstraat;85;;;D;2019-07-15 08:35:14;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH04;4890523;4890523;;;Plantenstraat;62;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;5914868;5914868;;;Armand Hertzstraat;40;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;701735;701735;;;Kuringersteenweg;29;;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425294;2425294;;;Lazarijstraat;86;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434254;2434254;;;Plantenstraat;64;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417961;2417961;;;Armand Hertzstraat;42;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2423741;2423741;;;Kuringersteenweg;30;;;D;2019-10-14 08:40:15;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+HASSELT - FH04;2425297;2425297;;;Lazarijstraat;87;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434256;2434256;;;Plantenstraat;66;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2417963;2417963;;;Armand Hertzstraat;42;B;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4890650;4890650;;;Kuringersteenweg;31;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2425299;2425299;;;Lazarijstraat;88;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;4199842;4199842;;;Plantenstraat;68;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2418811;2418811;;;Blijde-Inkomststraat;1;;;;;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH04;2423746;2423746;;;Kuringersteenweg;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2425301;2425301;;;Lazarijstraat;89;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH04;2434258;2434258;;;Plantenstraat;70;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template

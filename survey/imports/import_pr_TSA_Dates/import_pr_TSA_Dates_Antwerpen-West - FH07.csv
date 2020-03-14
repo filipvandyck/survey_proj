@@ -1,0 +1,910 @@
+Projectnummer;Opdrachtnummer;Building FID;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;TSA SENT;TSA SIGNED;TSA NEEDED;Afronding handtekening;Meetstaat;Verzonden Offerte;SNS FIS Date;SNS FTS Date;Opdrachttemplate
+ANTWERPEN-WEST - FH07;1873244;642485;;Franckenstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061342;683313;Lange vlierstraat 11_13;Lange Vlierstraat;11;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737812;11508579;;Kloosterstraat;65;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5951254;11378977;;Van Craesbeeckstraat;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509958;707006;;Franckenstraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4252190;696484;;Lange Vlierstraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5833183;7093564;;Willem Lepelstraat;30;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5992875;11378974;Van Craesbeeckstraat 11_13_13A_15_15B;Van Craesbeeckstraat;15;B;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200010d9f738;;;Prekersstraat;10;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873255;642487;;Franckenstraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061345;683315;;Lange Vlierstraat;17;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6020132;11378670;;Pompstraat;37;;E;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873258;642488;;Franckenstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061348;683317;;Lange Vlierstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6020652;11377552;;Muntstraat;4;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49162;710599;;Franckenstraat;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061350;683319;;Lange Vlierstraat;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6058494;11378875;Volkstraat 10_10A;Volkstraat;10;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60998;714860;Nationalestraat 64 - Sint-Andriesstraat 44;Nationalestraat;64;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061352;683321;;Lange Vlierstraat;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6086727;11377758;Pachtstraat 16 - Prekerstraat 33;Pachtstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025189;664328;Nationalestraat 66-68;Nationalestraat;66;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061353;683322;;Lange Vlierstraat;25;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6089004;11377558;;Korte Riddersstraat;15;3;C;2020-01-01;2020-01-14;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;60997;714859;;Nationalestraat;70;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061354;683323;;Lange Vlierstraat;27;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6089031;11378968;Hoogstraat 79_81 - Steenhouwersvest 1A;Steenhouwersvest;1;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025207;664331;;Nationalestraat;72;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061355;683324;;Lange Vlierstraat;29;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6339524;11379445;Willem Lepelstraat 23_23A_25_25A;Willem Lepelstraat;23;A;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025212;664332;;Nationalestraat;74;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061356;683325;;Lange Vlierstraat;31;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6353271;11420948;;Oever;29;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49137;710585;Nationalestraat 76_78 - Franckenstraat 23;Nationalestraat;78;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061357;683326;;Lange Vlierstraat;33;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6419320;11378945;Bergstraat 2A - Leeuwenstraat 15;Bergstraat;2;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61101;715060;;Gierstraat;2;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49150;710589;Pompstraat 1_3;Pompstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60993;714856;Steenbergstraat 40 - Nationalestraat 102;Nationalestraat;102;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6435987;11379453;Prekersstraat 4_4B_6A;Prekersstraat;4;B;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1897706;644301;;Gierstraat;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045065;669215;Pompstraat 1_3;Pompstraat;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025335;664349;;Nationalestraat;104;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6452134;11379450;Prekersstraat 4_4B_6A;Prekersstraat;6;A;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1897732;644303;;Gierstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045066;669216;;Pompstraat;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025339;7093523;;Nationalestraat;106;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6524083;11378767;Nationalestraat 38_40;Nationalestraat;40;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976574;7093577;;Kloosterstraat;143;;C;2019-11-13;2019-12-23;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4254222;696501;;Gierstraat;8;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045067;669217;;Pompstraat;9;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025348;664353;;Nationalestraat;108;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6524941;11377744;Pachtstraat 2_4;Pachtstraat;4;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61100;715056;;Gierstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045069;669219;;Pompstraat;11;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025353;664354;;Nationalestraat;110;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6524942;11377747;Pachtstraat 6_8;Pachtstraat;8;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61094;715017;;Kammenstraat;18;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045070;669220;;Pompstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1445942;618242;;Nationalestraat;112;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6524943;11377755;Pachtstraat 10_12;Pachtstraat;12;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61095;715023;;Kammenstraat;24;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509953;707005;;Pompstraat;15;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60994;714857;;Nationalestraat;114;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6525998;11377563;;Korte Riddersstraat;15;4;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60740;714451;;Bergstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054531;8423662;;Steenhouwersvest;55;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4011332;692078;Pompstraat 17_19;Pompstraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49134;710582;;Sint-Andriesplaats;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6525999;11377564;;Korte Riddersstraat;23;2;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054532;677411;;Steenhouwersvest;57;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4216156;695681;Pompstraat 17_19;Pompstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735127;622725;;Sint-Andriesplaats;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526000;11377704;;Korte Riddersstraat;23;4;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1740478;626856;;Bergstraat;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054533;677412;;Steenhouwersvest;59;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49151;710590;;Pompstraat;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735128;622726;;Sint-Andriesplaats;20;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526001;11377719;;Korte Riddersstraat;23;5;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1740479;626857;;Bergstraat;6;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054535;677413;;Steenhouwersvest;63;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735132;622729;;Sint-Andriesstraat;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509987;707011;;Sint-Andriesplaats;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526002;11377720;;Korte Riddersstraat;23;6;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1740480;626858;;Bergstraat;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61096;715028;;Steenhouwersvest;65;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4064208;693005;;Sint-Andriesstraat;26;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49167;710604;;Steenbergstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526011;11377961;Kammenstraat 12 - Bergstraat 18;Bergstraat;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507873;706743;;Bergstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61103;715061;;Vrijdagmarkt;9;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4166456;694520;;Sint-Andriesstraat;28;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054371;677274;;Steenbergstraat;4;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1740481;626859;;Bergstraat;12;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735133;622730;;Sint-Andriesstraat;30;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928457;691295;;Steenbergstraat;6;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526019;11378979;;Van Craesbeeckstraat;9;B;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60721;714437;;Gierstraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4247899;696370;;Sint-Andriesstraat;32;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737821;7093510;;Kloosterstraat;83;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054373;677276;;Steenbergstraat;8;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526020;11379077;Prekersstraat 16_18_18A_18B_18D;Prekersstraat;18;B;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1897679;644300;;Gierstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735134;622731;Sint-Andriesstraat 34_38;Sint-Andriesstraat;34;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;182846;637748;;Korte Vlierstraat;6;;XC;2019-11-22;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054375;677278;;Steenbergstraat;10;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;6526021;11379475;Prekersstraat 8B_10A_10B;Prekersstraat;8;B;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1897717;644302;;Gierstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509972;707008;;Sint-Andriesstraat;40;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976537;726216;;Lange Vlierstraat;2;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054377;677279;;Steenbergstraat;12;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737814;624629;;Kloosterstraat;67;;D;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3926832;690928;;Gierstraat;7;;XC;;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;48920;710483;;Sint-Andriesstraat;42;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061337;683308;;Lange Vlierstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054379;677281;;Steenbergstraat;14;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1897734;644304;;Gierstraat;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4236823;696117;;Lange Vlierstraat;6;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61001;714862;;Steenbergstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061334;20912600;Korte Vlierstraat 15_17;Korte Vlierstraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60723;714438;Kammenstraat 12 - Bergstraat 18;Kammenstraat;12;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061339;683310;;Lange Vlierstraat;8;;XC;2019-10-20;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054380;677282;;Steenbergstraat;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047299;20912142;;Lange Riddersstraat;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60724;8423670;;Kammenstraat;14;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061341;683312;;Lange Vlierstraat;10;;C;2019-11-22;2019-12-19;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054381;677283;;Steenbergstraat;20;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44497;20912519;Sint-Andriesplaats 3_4_5;Sint-Andriesplaats;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60736;714448;Bergstraat 2A - Leeuwenstraat 15;Leeuwenstraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061344;683314;;Lange Vlierstraat;12;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054382;677284;;Steenbergstraat;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3918214;20912460;Sint-Andriesplaats 3_4_5;Sint-Andriesplaats;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986578;657830;;Leeuwenstraat;17;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976536;726215;;Lange Vlierstraat;14;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054384;677286;;Steenbergstraat;24;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986581;657831;;Leeuwenstraat;19;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061346;683316;;Lange Vlierstraat;18;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054386;7093536;;Steenbergstraat;28;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44180;698708;;Kloosterstraat;69;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4511039;707164;;Leeuwenstraat;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061349;683318;;Lange Vlierstraat;20;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506587;706566;;Steenbergstraat;34;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60737;714449;;Leeuwenstraat;23;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061351;683320;;Lange Vlierstraat;22;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054387;677289;;Steenbergstraat;36;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4518334;709018;;Lange Vlierstraat;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054388;677290;;Steenbergstraat;38;;XC;2019-10-01;;Y;;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735135;20928509;Sint-Andriesstraat 34_38;Sint-Andriesstraat;38;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976534;726214;;Lange Vlierstraat;26;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976547;726224;;Pachtstraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1494696;619028;;Pachtstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2038468;7093526;;Pachtstraat;5;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2038472;666966;Pachtstraat 7_9 - Prekersstraat 41;Pachtstraat;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2038479;666967;Pachtstraat 7_9 - Prekersstraat 41;Pachtstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976548;726225;;Pachtstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972786;726047;Pachtstraat 2_4;Pachtstraat;2;;C;2019-10-05;2019-12-23;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;972787;726048;Pachtstraat 6_8;Pachtstraat;6;;C;2019-10-05;2019-12-23;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737817;11508580;;Kloosterstraat;79;;A;2019-11-13;2020-02-28;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;972788;726049;Pachtstraat 10_12;Pachtstraat;10;;C;2019-10-05;2019-12-23;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;5364247;710846;;Prekersstraat;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972778;7093569;;Prekersstraat;27;;C;2019-10-05;2019-12-23;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045610;669698;;Prekersstraat;29;;C;2019-10-05;2019-12-23;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;5576144;712488;;Prekersstraat;31;;C;2019-12-23;2019-12-23;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;972777;726045;Pachtstraat 16 - Prekerstraat 33;Prekersstraat;33;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;719031;720593;;Korte Riddersstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045613;669699;Prekersstraat 35_37;Prekersstraat;35;;XC;2019-10-21;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505108;706071;;Korte Riddersstraat;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4215083;695660;;Korte Riddersstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045617;669703;;Prekersstraat;45;;XC;2019-10-21;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505109;706072;;Korte Riddersstraat;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4518320;709007;;Prekersstraat;49;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737819;11508581;;Kloosterstraat;81;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1329079;616623;Korte ridderstraat 14_18_20 - Oever 9_11_13;Korte Riddersstraat;20;;A;2019-11-22;2019-12-26;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047292;671178;;Korte Riddersstraat;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045619;669704;Prekersstraat 53_55;Prekersstraat;53;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047294;671180;;Korte Riddersstraat;26;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976553;726229;Prekersstraat 57_59;Prekersstraat;57;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;182842;637740;Nationalestraat 12 - Kammenstraat 11;Kammenstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;719027;720591;;Korte Riddersstraat;28;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045620;669705;;Prekersstraat;61;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5576031;712460;;Nationalestraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44483;700579;;Muntstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928201;691167;;Prekersstraat;63;;D;;;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2024986;664301;Nationalestraat  4_10;Nationalestraat;4;;A;2020-01-21;;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023749;664121;;Muntstraat;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045621;669706;Prekersstraat 65_67;Prekersstraat;65;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737823;11508582;;Kloosterstraat;85;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023753;664122;;Muntstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1326107;616597;Prekerstraat 69_71;Prekersstraat;69;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;182832;637725;Nationalestraat  4_10;Nationalestraat;10;;A;2020-01-21;;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023755;664123;;Muntstraat;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976552;726228;;Prekersstraat;73;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;182836;637729;Nationalestraat 12 - Kammenstraat 11;Nationalestraat;12;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023758;664125;;Muntstraat;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976555;726230;Prekerstraat 75 - Nationalestraat 114A;Prekersstraat;75;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025020;664302;;Nationalestraat;14;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023764;664127;;Muntstraat;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047310;671190;;Lange Riddersstraat;29;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49135;710583;;Sint-Andriesplaats;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;182834;637727;;Nationalestraat;16;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023777;664130;Muntstraat 13_15;Muntstraat;15;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047312;671192;;Lange Riddersstraat;31;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4519685;709630;;Sint-Andriesplaats;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44379;699916;;Oever;1;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047315;671194;;Lange Riddersstraat;33;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972768;7093568;;Sint-Andriesplaats;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2030142;665213;;Oever;3;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047317;671196;;Lange Riddersstraat;35;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2030150;665215;;Oever;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509944;707002;;Lange Riddersstraat;37;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2030159;665217;;Oever;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509946;707003;;Lange Riddersstraat;39;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60713;714430;;Heilige Geeststraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2030164;665218;Korte ridderstraat 14_18_20 - Oever 9_11_13;Oever;9;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509947;707004;;Lange Riddersstraat;41;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1936642;648025;;Heilige Geeststraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047321;671200;;Lange Riddersstraat;45;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60716;714433;;Heilige Geeststraat;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718538;720506;;Lange Riddersstraat;51;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60714;714431;;Heilige Geeststraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44378;699908;;Oever;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928183;691161;;Pompstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60717;714434;;Heilige Geeststraat;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2030234;665222;;Oever;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49153;710592;;Pompstraat;8;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737825;11508583;;Kloosterstraat;87;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1936643;648026;Heilige Geeststraat 13_15;Heilige Geeststraat;13;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1439802;7093499;;Oever;27;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49156;710593;;Rijke Beukelaarstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1936644;648027;;Heilige Geeststraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44377;699899;;Oever;29;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047571;671409;;Rijke Beukelaarstraat;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1936645;648028;;Heilige Geeststraat;19;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48960;8423667;;Steenhouwersvest;1;;XC;2019-12-01;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047572;671410;;Rijke Beukelaarstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60715;8423668;;Heilige Geeststraat;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44486;700604;;Steenhouwersvest;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047576;671413;;Rijke Beukelaarstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5575679;712360;;Heilige Geeststraat;23;;XC;;;Y;2020-01-14;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054495;677384;;Steenhouwersvest;4;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509974;707009;;Rijke Beukelaarstraat;11;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1936648;648029;;Heilige Geeststraat;25;;D;;;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054496;677385;Steenhouwersvest 6_8;Steenhouwersvest;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047579;671416;;Rijke Beukelaarstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60710;714427;;Hoogstraat;39;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054497;677386;Steenhouwersvest 6_8;Steenhouwersvest;8;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047581;671418;;Rijke Beukelaarstraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20001B0905;;;Lange Vlierstraat;1;B;D;;2019-12-24;N;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;60709;714426;;Hoogstraat;41;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054500;677389;;Steenhouwersvest;12;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047583;671420;;Rijke Beukelaarstraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944381;649901;Hoogstraat 43_43 A;Hoogstraat;43;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1329076;616622;;Steenhouwersvest;14;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49168;710605;;Rijke Beukelaarstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944383;649903;;Hoogstraat;45;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054505;677392;;Steenhouwersvest;16;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735129;622727;;Sint-Andriesstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60712;714429;;Hoogstraat;47;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054508;677394;;Steenhouwersvest;18;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60711;714428;;Hoogstraat;49;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054510;677395;;Steenhouwersvest;20;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1354107;617174;;Hoogstraat;51;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44487;700610;;Steenhouwersvest;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944387;649906;;Hoogstraat;53;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60708;714425;;Hoogstraat;57;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60733;714445;;Leeuwenstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986560;657823;;Leeuwenstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986567;657825;;Leeuwenstraat;8;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507902;706745;;Leeuwenstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986571;657827;;Leeuwenstraat;12;;XC;2020-01-21;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986572;657828;;Leeuwenstraat;14;;XC;2020-01-21;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986575;657829;;Leeuwenstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507906;706746;Leeuwenstraat 18_20;Leeuwenstraat;18;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047220;671124;;Reyndersstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047222;671126;;Reyndersstraat;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047223;671127;;Reyndersstraat;10;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047225;671129;;Reyndersstraat;12;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047228;671131;;Reyndersstraat;14;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507926;706750;;Reyndersstraat;16;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047230;671133;;Reyndersstraat;18;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047232;671135;;Reyndersstraat;20;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507928;706751;;Reyndersstraat;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60699;714419;;Reyndersstraat;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047218;671122;;Reyndersstraat;2;B;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60719;714436;;Vrijdagmarkt;1;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062207;684042;;Vrijdagmarkt;2;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062208;684043;;Vrijdagmarkt;3;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1349608;617082;;Vrijdagmarkt;4;;XC;;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;1936641;648024;;Heilige Geeststraat;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60700;714420;Reynderstraat 28, 26, 30;Reyndersstraat;26;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062210;684044;;Vrijdagmarkt;5;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505555;706192;;Heilige Geeststraat;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062211;684045;;Vrijdagmarkt;6;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944391;649909;;Hoogstraat;59;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60718;8423669;;Vrijdagmarkt;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944392;649910;;Hoogstraat;61;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944394;649912;;Hoogstraat;63;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4025975;692341;;Hoogstraat;65;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944396;649914;;Hoogstraat;67;;XC;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1230196;614742;;Hoogstraat;69;;XC;2020-01-29;;Y;;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200016e3c257;;;Drukkerijstraat;16;;0;;2019-12-24;;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944400;649917;;Hoogstraat;71;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60703;714421;Reynderstraat 30, 28, 26;Reyndersstraat;30;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944401;649918;;Hoogstraat;73;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944403;649920;;Hoogstraat;75;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944404;649921;;Hoogstraat;77;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1944405;649922;Hoogstraat 79_81 - Steenhouwersvest 1A;Hoogstraat;79;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44176;11508589;;Kloosterstraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48910;710477;Hoogstraat 79_81 - Steenhouwersvest 1A;Hoogstraat;81;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4519688;709633;;Kloosterstraat;77;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054498;677387;;Steenhouwersvest;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054499;677388;;Steenhouwersvest;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48898;11377554;;Augustijnenstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054502;677390;;Steenhouwersvest;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972775;11508597;;Kloosterstraat;139;;C;2019-10-05;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48907;11377729;Steenhouwersvest 27_29_31_33;Steenhouwersvest;27;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200047b3ba63;;;Scheldestraat;47;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;976246;726198;;Graaf van Egmontstraat;1;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054504;677391;;Steenhouwersvest;15;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48915;11378765;;Drukkerijstraat;2;;C;2019-12-01;2019-12-19;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;976247;726199;;Graaf van Egmontstraat;5;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976245;726197;;Graaf van Egmontstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054507;677393;Steenhouwersvest 17_19_21;Steenhouwersvest;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48959;11377726;;Steenhouwersvest;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49159;710596;;Franckenstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976232;726185;;Kronenburgstraat;2;;D;;;N;2019-10-29;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1856837;640601;;Graaf van Egmontstraat;15;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054511;677396;Steenhouwersvest 23_25;Steenhouwersvest;23;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60725;11377872;;Kammenstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873228;642481;;Franckenstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971917;654583;;Kronenburgstraat;6;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1856863;640603;;Graaf van Egmontstraat;17;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054512;677397;Steenhouwersvest 23_25;Steenhouwersvest;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60738;11377981;Leeuwenstraat 18_20;Leeuwenstraat;20;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873237;642483;;Franckenstraat;8;;X;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971920;654584;;Kronenburgstraat;8;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1856903;640604;;Graaf van Egmontstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062220;684051;;Vrijdagmarkt;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60741;11377977;;Bergstraat;14;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20001512840;;;Korte Riddersstraat;15;1;0;;2019-12-24;;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971938;654586;;Kronenburgstraat;12;;D;;;N;2019-10-29;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1856922;640605;;Graaf van Egmontstraat;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60996;11377815;Nationalestraat 66-68;Nationalestraat;68;;XA;2019-10-23;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873249;642486;;Franckenstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971943;654587;;Kronenburgstraat;14;;D;;;N;2019-10-29;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516985;708369;;Graaf van Egmontstraat;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61000;11377786;Franckenstraat 20 - 22;Franckenstraat;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20001714835;;;Korte Riddersstraat;17;1;0;;2019-12-24;;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;49160;710597;;Franckenstraat;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1856970;640607;;Graaf van Egmontstraat;25;;D;10/11/0219;2019-12-13;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61003;11377835;Steenbergstraat 40 - Nationalestraat 102;Steenbergstraat;40;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4132530;693683;Pompstraat 25_27_29;Pompstraat;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1462369;618548;;Kronenburgstraat;20;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857015;640609;;Graaf van Egmontstraat;27;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44173;11508588;;Kloosterstraat;11;;D;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61005;11377762;;Lange Vlierstraat;35;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-2000233c912;;;Korte Riddersstraat;23;3;0;;2019-12-24;;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737778;7093504;;Kloosterstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045076;669226;Pompstraat 25_27_29;Pompstraat;27;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971977;654589;;Kronenburgstraat;22;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857030;640611;;Graaf van Egmontstraat;29;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61010;11377824;Nationalestraat 64 - Sint-Andriesstraat 44;Sint-Andriesstraat;44;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3918280;7093537;;Kloosterstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509979;707010;Pompstraat 25_27_29;Pompstraat;29;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3987038;691671;Kronenburgstraat  24_26;Kronenburgstraat;24;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857049;640613;Graaf van Egmontstraat 25A_31;Graaf van Egmontstraat;31;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;55303;711981;;Kammenstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61102;11377837;;Vrijdagmarkt;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4207021;695466;;Korte Riddersstraat;21;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737780;11508572;Kloosterstraat 7_9;Kloosterstraat;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045077;669227;;Pompstraat;31;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516972;708360;Kronenburgstraat  24_26;Kronenburgstraat;26;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857065;640614;;Graaf van Egmontstraat;33;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61108;11377808;Nationalestraat 28_32;Nationalestraat;28;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737782;7093506;Kloosterstraat 7_9;Kloosterstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045078;669228;;Pompstraat;33;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971990;654590;;Kronenburgstraat;28;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976244;726196;;Graaf van Egmontstraat;35;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718875;11378647;;Waaistraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737795;7093507;;Kloosterstraat;31;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61006;714882;;Salm-Salmstraat;2;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971996;654592;;Kronenburgstraat;30;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1447842;618267;;Graaf van Egmontstraat;37;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718921;11377550;;Lange Riddersstraat;48;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737796;7093508;;Kloosterstraat;33;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2049975;673414;;Salm-Salmstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1972015;654594;;Kronenburgstraat;34;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3965490;8423664;Graaf van Egmontstraat 39 - 39 A - 41;Graaf van Egmontstraat;39;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972770;11377767;;Korte Vlierstraat;10;;XC;2019-11-22;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737803;7093509;;Kloosterstraat;51;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506576;706565;;Salm-Salmstraat;6;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1972032;654597;;Kronenburgstraat;38;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857196;640618;;Graaf van Egmontstraat;43;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972771;11377770;;Korte Vlierstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4006062;11508587;;Kloosterstraat;59;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1321518;616296;Salm-Salmstraat 8_12;Salm-Salmstraat;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976231;726184;;Kronenburgstraat;40;;XC;2019-12-19;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857207;640619;;Graaf van Egmontstraat;45;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972798;11377549;;Sint-Andriesplaats;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047277;671174;;Korte Riddersstraat;11;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44479;700558;;Korte Vlierstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4105517;693553;;Salm-Salmstraat;14;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976227;726180;;Scheldestraat;39;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857228;640621;;Graaf van Egmontstraat;47;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737785;11508573;;Kloosterstraat;13;;D;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973303;11378436;;Kronenburgstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061328;683301;;Korte Vlierstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61007;714889;;Salm-Salmstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050518;673841;;Scheldestraat;41;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857240;640623;;Graaf van Egmontstraat;49;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509994;7093549;;Lange Riddersstraat;55;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976260;11377996;Volkstraat 2_4_6;Volkstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061329;683302;;Korte Vlierstraat;5;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49165;710602;;Steenbergstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516977;708364;;Scheldestraat;43;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857260;640625;;Graaf van Egmontstraat;51;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047324;671203;;Lange Riddersstraat;61;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976542;11379214;Willem Lepelstraat 5_7;Willem Lepelstraat;7;;C;2019-11-13;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061330;683303;;Korte Vlierstraat;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61004;714864;;Steenbergstraat;5;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516978;708365;;Scheldestraat;45;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857263;640626;;Graaf van Egmontstraat;53;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4187090;695008;;Lange Riddersstraat;63;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976544;11379204;;Willem Lepelstraat;11;;A;2019-11-13;2019-12-23;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505175;706094;;Korte Vlierstraat;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61110;715065;;Nationalestraat;18;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054372;677275;;Steenbergstraat;7;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516979;708366;;Scheldestraat;49;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1470408;618740;;Graaf van Egmontstraat;55;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928248;691186;;Lange Riddersstraat;65;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976554;11378980;Prekersstraat 53_55;Prekersstraat;55;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061331;683304;;Korte Vlierstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025038;664306;;Nationalestraat;20;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054374;677277;Steenbergstraat 9_11;Steenbergstraat;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050524;673846;;Scheldestraat;53;;C;2020-01-04;2020-01-04;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857295;640629;;Graaf van Egmontstraat;57;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047326;671205;;Lange Riddersstraat;69;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976556;11379314;Prekersstraat 35_37;Prekersstraat;37;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061332;683305;;Korte Vlierstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025043;664308;;Nationalestraat;22;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054378;677280;;Steenbergstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050526;673848;Scheldestraat 55_57;Scheldestraat;55;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976243;726195;;Graaf van Egmontstraat;59;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4510000;707012;;Lange Riddersstraat;71;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976567;11378978;;Van Craesbeeckstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047279;671175;;Korte Riddersstraat;13;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061333;683306;Korte Vlierstraat 15_17;Korte Vlierstraat;15;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025052;664310;;Nationalestraat;24;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61012;714903;;Steenbergstraat;17;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050530;673851;;Scheldestraat;59;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3997468;691827;;Graaf van Egmontstraat;35;A;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047327;671206;;Lange Riddersstraat;77;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976572;11379451;Van Craesbeeckstraat 22_24_26_28;Van Craesbeeckstraat;28;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061335;683307;;Korte Vlierstraat;19;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61109;715064;;Nationalestraat;26;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49166;710603;;Steenbergstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516980;708367;;Scheldestraat;61;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516988;708372;;Scheldestraat;40;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718540;720507;;Lange Riddersstraat;79;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1072862;11377809;Nationalestraat 28_32;Nationalestraat;32;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44629;701055;;Korte Vlierstraat;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61098;715042;;Steenhouwersvest;40;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050532;673853;;Scheldestraat;63;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976230;726183;;Scheldestraat;42;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045068;669218;;Pompstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1075070;11378970;;Steenhouwersvest;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44480;700564;;Korte Vlierstraat;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054522;677403;;Steenhouwersvest;42;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60999;714861;Franckenstraat 20 - 22;Franckenstraat;20;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050533;673854;;Scheldestraat;65;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050519;673842;;Scheldestraat;44;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4510006;707014;;Pompstraat;12;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;972776;11508598;;Kloosterstraat;141;;C;2019-10-05;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1101815;11378692;;Graaf van Egmontstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718917;720563;;Lange Riddersstraat;2;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054524;677405;;Steenhouwersvest;44;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60991;714853;;Nationalestraat;80;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050534;673855;;Scheldestraat;67;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050520;673843;;Scheldestraat;46;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045071;669221;;Pompstraat;14;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737787;11508574;;Kloosterstraat;15;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1101820;11379447;Van Craesbeeckstraat 22_24_26_28;Van Craesbeeckstraat;26;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047297;671183;;Lange Riddersstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054526;677406;;Steenhouwersvest;46;;XC;;;Y;2020-01-14;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;12643;615352;;Nationalestraat;82;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050535;673856;;Scheldestraat;69;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050521;673844;;Scheldestraat;48;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045072;669222;;Pompstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1290590;11378829;Graaf van Egmontstraat 39 - 39 A - 41;Graaf van Egmontstraat;41;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505189;706095;;Lange Riddersstraat;6;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054527;677407;;Steenhouwersvest;48;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928061;691113;Nationalestraat 84_86;Nationalestraat;84;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4155806;694261;;Scheldestraat;71;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516989;8423666;;Scheldestraat;50;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045073;669223;;Pompstraat;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1292729;11377838;;Heilige Geeststraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971954;7093519;;Kronenburgstraat;17;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047301;671185;;Lange Riddersstraat;10;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054529;677409;;Steenhouwersvest;50;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025267;664339;Nationalestraat 84_86;Nationalestraat;86;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050538;673859;;Scheldestraat;73;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050523;673845;;Scheldestraat;52;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49152;710591;;Pompstraat;20;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737841;11508585;;Kloosterstraat;155;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1303525;11379474;Pachtstraat 7_9 - Prekersstraat 41;Prekersstraat;41;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718922;720565;;Lange Riddersstraat;12;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054530;677410;;Steenhouwersvest;52;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025281;664341;;Nationalestraat;88;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976229;726182;;Scheldestraat;75;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050525;673847;;Scheldestraat;54;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045074;669224;;Pompstraat;24;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1354240;11377736;;Steenhouwersvest;34;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047303;671186;;Lange Riddersstraat;16;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61099;715051;;Steenhouwersvest;54;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025286;664342;Nationalestraat 90_92;Nationalestraat;90;;XC;2020-01-21;;Y;2020-01-14;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;5576383;712563;Volkstraat 2_4_6;Volkstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050527;673849;;Scheldestraat;56;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045075;669225;Pompstraat 26_28;Pompstraat;26;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1446139;11377839;;Hoogstraat;55;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047305;671187;;Lange Riddersstraat;18;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025303;664343;;Nationalestraat;94;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976237;726190;;Volkstraat;8;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050529;673850;;Scheldestraat;58;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4510011;707015;Pompstraat 26_28;Pompstraat;28;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60739;714450;;Bergstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737843;11378576;;Kloosterstraat;161;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718924;7093567;;Lange Riddersstraat;22;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025306;664344;Nationalestraat 96_98;Nationalestraat;96;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061587;683517;Volkstraat 10_10A;Volkstraat;10;;C;2019-12-18;2019-12-18;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050531;673852;;Scheldestraat;60;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1335597;616794;;Pompstraat;30;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44177;11508590;;Kloosterstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1740482;11377970;;Bergstraat;16;;XC;;;Y;;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047308;671189;;Lange Riddersstraat;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60992;714854;;Nationalestraat;100;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061589;683518;;Volkstraat;12;;C;2020-12-01;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516995;708373;;Scheldestraat;68;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49158;710595;;Rijke Beukelaarstraat;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1813924;11379446;Van Craesbeeckstraat 22_24_26_28;Van Craesbeeckstraat;24;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20005180e102;;;Scheldestraat;51;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047311;671191;;Lange Riddersstraat;30;;XC;2020-01-27;;Y;2020-01-14;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;61009;714890;;Salm-Salmstraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061590;683519;;Volkstraat;14;;C;2019-12-01;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050536;673857;;Scheldestraat;70;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047573;671411;;Rijke Beukelaarstraat;6;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1856979;11378561;Graaf van Egmontstraat 25A_31;Graaf van Egmontstraat;25;A;C;2019-11-20;2019-12-13;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736869;624160;;Augustijnenstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047313;671193;;Lange Riddersstraat;32;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2049974;673413;;Salm-Salmstraat;3;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061591;683520;;Volkstraat;16;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050537;673858;;Scheldestraat;72;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047575;671412;;Rijke Beukelaarstraat;8;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1857055;11378563;;Graaf van Egmontstraat;31;A;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736871;624162;;Augustijnenstraat;5;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047316;671195;;Lange Riddersstraat;34;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2049976;673415;;Salm-Salmstraat;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061593;683521;;Volkstraat;18;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976228;726181;;Scheldestraat;76;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047577;671414;;Rijke Beukelaarstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873225;11377794;Franckenstraat 3_5;Franckenstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736873;624163;;Augustijnenstraat;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047318;671197;;Lange Riddersstraat;38;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506569;706563;;Salm-Salmstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061595;683523;;Volkstraat;20;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;30243;690460;;Volkstraat;36;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047578;671415;;Rijke Beukelaarstraat;12;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873270;11378578;Nationalestraat 76_78 - Franckenstraat 23;Franckenstraat;23;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736874;624164;;Augustijnenstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505199;706096;;Lange Riddersstraat;40;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4333846;697060;;Salm-Salmstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061597;683524;;Volkstraat;22;;A;2019-10-30;2019-10-30;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061609;8423663;;Volkstraat;38;;XA;;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047580;671417;;Rijke Beukelaarstraat;14;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1959753;11377801;;Kammenstraat;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4141562;693761;;Augustijnenstraat;13;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047319;671198;;Lange Riddersstraat;42;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506572;706564;;Salm-Salmstraat;13;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061600;683527;;Volkstraat;26;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061611;683536;;Volkstraat;40;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047582;671419;;Rijke Beukelaarstraat;16;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44179;11508592;;Kloosterstraat;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971925;11378447;;Kronenburgstraat;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736875;624165;;Augustijnenstraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047320;671199;;Lange Riddersstraat;44;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2049978;673416;;Salm-Salmstraat;15;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061601;683528;;Volkstraat;28;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061612;683537;;Volkstraat;42;;XA;2019-11-18;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047584;671421;;Rijke Beukelaarstraat;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971959;11378450;;Kronenburgstraat;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505538;706187;;Augustijnenstraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718920;720564;;Lange Riddersstraat;46;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61013;714910;;Steenbergstraat;21;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061602;683529;;Volkstraat;30;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061614;683539;;Volkstraat;44;;XA;;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047585;671422;;Rijke Beukelaarstraat;20;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60735;714447;;Leeuwenstraat;13;;D;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971979;11378435;;Kronenburgstraat;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736877;624166;;Augustijnenstraat;19;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505153;7093545;;Lange Riddersstraat;52;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054383;677285;;Steenbergstraat;23;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061604;683530;;Volkstraat;32;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061616;683541;;Volkstraat;46;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49157;710594;;Rijke Beukelaarstraat;22;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1972005;11378428;;Kronenburgstraat;33;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736878;624167;;Augustijnenstraat;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054385;677287;;Steenbergstraat;25;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976236;726189;;Volkstraat;34;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061618;683543;;Volkstraat;48;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49164;7093557;;Sint-Andriesplaats;6;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989051;11379318;Willem Lepelstraat 13_15_17;Willem Lepelstraat;15;;A;2019-11-13;2019-12-23;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736879;624168;;Augustijnenstraat;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047323;671202;;Lange Riddersstraat;60;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;61002;714863;;Steenbergstraat;27;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061620;683545;;Volkstraat;50;;XC;;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;4510004;707013;;Sint-Andriesplaats;9;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989061;11378971;Willem Lepelstraat 18_20;Willem Lepelstraat;18;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736880;624169;;Augustijnenstraat;25;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047325;671204;;Lange Riddersstraat;62;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4516966;8423665;;Volkstraat;52;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735121;622719;;Sint-Andriesplaats;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200012742441;;;Drukkerijstraat;12;;D;;2019-12-24;;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989079;11379177;Willem Lepelstraat 23_23A_25_25A;Willem Lepelstraat;25;A;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736881;624170;;Augustijnenstraat;27;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4209258;695532;;Muntstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061627;683550;;Volkstraat;58;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735122;622720;;Sint-Andriesplaats;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986569;657826;;Leeuwenstraat;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023772;11377553;Muntstraat 13_15;Muntstraat;13;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736882;624171;;Augustijnenstraat;29;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023756;664124;;Muntstraat;8;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061630;683552;;Volkstraat;60;;C;;;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735123;622721;;Sint-Andriesplaats;12;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025007;11378768;;Nationalestraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736883;624172;;Augustijnenstraat;31;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023761;664126;;Muntstraat;10;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1502910;619224;Volkstraat 62_64;Volkstraat;62;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735124;622722;;Sint-Andriesplaats;13;;D;;;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025225;11378869;Nationalestraat 76_78 - Franckenstraat 23;Nationalestraat;76;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3918248;690698;;Augustijnenstraat;33;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023767;664128;;Muntstraat;12;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061634;683554;;Volkstraat;66;;C;2019-12-23;2019-12-23;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735125;622723;;Sint-Andriesplaats;14;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025299;11378771;Nationalestraat 90_92;Nationalestraat;92;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736884;624173;;Augustijnenstraat;35;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2023774;664129;;Muntstraat;14;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1351543;617128;;Volkstraat;68;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3918215;690684;;Sint-Andriesplaats;15;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507881;706744;;Leeuwenstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025369;11378596;Prekerstraat 75 - Nationalestraat 114A;Nationalestraat;114;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736885;624174;;Augustijnenstraat;37;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44481;700571;;Muntstraat;16;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061637;683556;;Volkstraat;70;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735126;622724;;Sint-Andriesplaats;16;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025474;11378837;Nationalestraat 138_140_142;Nationalestraat;140;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48899;710470;;Augustijnenstraat;41;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44496;700666;;Sint-Andriesplaats;1;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061638;683557;;Volkstraat;72;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49163;710600;;Sint-Andriesplaats;17;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025485;11378861;Nationalestraat 138_140_142;Nationalestraat;142;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48918;710482;;Drukkerijstraat;6;;XA;2019-12-01;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735118;622717;;Sint-Andriesplaats;2;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061639;683558;;Volkstraat;74;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737794;11508576;;Kloosterstraat;27;;D;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737809;624624;;Kloosterstraat;61;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;12591;615234;;Drukkerijstraat;8;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735119;622718;Sint-Andriesplaats 3_4_5;Sint-Andriesplaats;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976235;726188;;Volkstraat;76;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986561;657824;;Leeuwenstraat;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045603;11379074;Prekersstraat 2A_2B;Prekersstraat;2;A;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48917;7093553;Drukkerijstraat 10 - 14;Drukkerijstraat;10;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045604;11378585;Prekersstraat 8B_10A_10B;Prekersstraat;10;A;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873221;13471474;;Franckenstraat;4;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045605;11379316;Prekersstraat 8B_10A_10B;Prekersstraat;10;B;;2019-11-13;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200051b2fd48;;;Prekersstraat;51;;D;;2019-12-24;N;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;5394002;13471478;;Vrijdagmarktstraatje;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1847073;7093514;Drukkerijstraat 10 - 14;Drukkerijstraat;14;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44178;11508591;;Kloosterstraat;29;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045608;11379075;Prekersstraat 16_18_18A_18B_18D;Prekersstraat;18;A;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;44482;13471477;;Muntstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736868;624159;;Augustijnenstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045622;11378590;Prekerstraat 69_71;Prekersstraat;71;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976576;13471476;;Kloosterstraat;147;;C;2019-11-13;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48916;710480;;Drukkerijstraat;22;;XA;;;Y;2020-01-14;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1736870;624161;;Augustijnenstraat;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047217;11378438;;Reyndersstraat;2;A;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976575;13471475;;Kloosterstraat;145;;C;2019-12-23;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1183755;614497;;Drukkerijstraat;26;;XC;;;Y;2020-01-14;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;48900;7093552;Augustijnenstraat 18_20 - Nationalestraat 50_56 - Sint-Andriesstraat 19;Augustijnenstraat;18;;XC;2019-11-01;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047282;11377722;Korte ridderstraat 14_18_20 - Oever 9_11_13;Korte Riddersstraat;14;;XC;2020-01-27;;Y;2019-12-20;Y;2019-10-16;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200073d1cf70;;;Lange Riddersstraat;73;;D;;2019-12-24;N;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505136;13476422;;Kloosterstraat;43;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047275;671172;;Korte Riddersstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5575087;712185;Augustijnenstraat 18_20 - Nationalestraat 50_56 - Sint-Andriesstraat 19;Augustijnenstraat;20;;XC;2019-11-14;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047285;11377557;;Korte Riddersstraat;15;2;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4519687;13476423;;Kloosterstraat;75;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4230472;695990;;Korte Riddersstraat;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1986558;657822;;Leeuwenstraat;5;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047287;11377555;;Korte Riddersstraat;17;2;C;2020-01-01;2020-01-24;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;4519695;13476424;;Kloosterstraat;97;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047276;671173;;Korte Riddersstraat;5;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;718814;720555;;Lange Riddersstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047288;11377725;Korte ridderstraat 14_18_20 - Oever 9_11_13;Korte Riddersstraat;18;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4519696;13476425;;Kloosterstraat;99;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047296;671182;;Lange Riddersstraat;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047300;11377546;;Lange Riddersstraat;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5414458;711380;;Lange Riddersstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047302;11377548;Lange Riddersstraat 13_15_17;Lange Riddersstraat;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047284;671176;;Korte Riddersstraat;15;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047298;671184;;Lange Riddersstraat;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047304;11377547;Lange Riddersstraat 13_15_17;Lange Riddersstraat;17;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928245;691184;;Korte Riddersstraat;17;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4059803;7093541;Lange Riddersstraat 13_15_17;Lange Riddersstraat;13;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737797;11508577;;Kloosterstraat;35;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047574;11377800;;Rijke Beukelaarstraat;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047289;671177;;Korte Riddersstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5394004;7093560;Lange Riddersstraat 13_15_17;Lange Riddersstraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2049977;11378763;Salm-Salmstraat 8_12;Salm-Salmstraat;12;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5429490;7093562;;Lange Riddersstraat;19;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60734;714446;;Leeuwenstraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2050528;11377848;Scheldestraat 55_57;Scheldestraat;57;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928247;691185;Korte ridderstraat 23_25;Korte Riddersstraat;23;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047306;671188;;Lange Riddersstraat;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054376;11378683;Steenbergstraat 9_11;Steenbergstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047293;671179;Korte ridderstraat 23_25;Korte Riddersstraat;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025132;664320;Augustijnenstraat 18_20 - Nationalestraat 50_56 - Sint-Andriesstraat 19;Nationalestraat;50;;XA;2019-11-14;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054509;11377727;Steenhouwersvest 17_19_21;Steenhouwersvest;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2047295;671181;;Korte Riddersstraat;27;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;60995;7093566;Augustijnenstraat 18_20 - Nationalestraat 50_56 - Sint-Andriesstraat 19;Nationalestraat;56;;XA;2019-11-14;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054515;677399;Steenhouwersvest 27_29_31_33;Steenhouwersvest;29;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054517;11377730;Steenhouwersvest 27_29_31_33;Steenhouwersvest;31;;XC;;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505579;706200;;Korte Riddersstraat;29;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025160;664323;;Nationalestraat;58;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054523;677404;;Steenhouwersvest;43;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054518;11377737;;Steenhouwersvest;32;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505580;706201;;Korte Riddersstraat;31;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49136;710584;;Nationalestraat;60;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48908;710475;;Steenhouwersvest;45;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054534;11377733;;Steenhouwersvest;61;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025097;664313;;Nationalestraat;36;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48925;710485;Augustijnenstraat 18_20 - Nationalestraat 50_56 - Sint-Andriesstraat 19;Nationalestraat;62;;XA;2019-11-14;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054528;677408;;Steenhouwersvest;49;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061581;11377999;Volkstraat 2_4_6;Volkstraat;4;;XA;2019-01-22;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025110;664316;;Nationalestraat;42;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928777;691437;Pastoor Visschersplein 1_2_3_4;Pastoor Visschersplein;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48904;710473;;Steenhouwersvest;51;;XC;2019-12-01;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061625;11378772;;Volkstraat;56;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48926;710486;;Nationalestraat;44;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2069202;689820;Pastoor Visschersplein 5_6_7;Pastoor Visschersplein;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48914;710479;;Vrijdagmarkt;12;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061632;11378828;Volkstraat 62_64;Volkstraat;64;;XC;;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-200024ab474;;;Prekersstraat;2;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;48927;710487;Nationalestraat 38_40;Nationalestraat;38;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5414460;7093561;Pastoor Visschersplein 8_9_10;Pastoor Visschersplein;10;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062213;684046;;Vrijdagmarkt;13;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062216;11377836;;Vrijdagmarkt;16;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48905;710474;;Steenhouwersvest;24;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48923;710484;;Sint-Andriesstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976558;726232;Prekersstraat 4_4B_6A;Prekersstraat;4;A;;2019-11-13;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973306;726097;;Kloosterstraat;159;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062214;684047;;Vrijdagmarkt;14;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2069201;11378632;Pastoor Visschersplein 1_2_3_4;Pastoor Visschersplein;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054513;677398;;Steenhouwersvest;26;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4193803;7093543;;Sint-Andriesstraat;3;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976560;726233;;Prekersstraat;8;A;;2019-11-13;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737844;624656;;Kloosterstraat;163;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928606;691361;;Vrijdagmarkt;15;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2069203;11378639;Pastoor Visschersplein 5_6_7;Pastoor Visschersplein;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48909;710476;;Steenhouwersvest;28;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49142;7093556;;Sint-Andriesstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5576142;7093563;;Prekersstraat;14;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976539;726218;;Nationalestraat;116;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737845;624657;;Kloosterstraat;167;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062217;684048;;Vrijdagmarkt;17;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2069204;11378641;Pastoor Visschersplein 5_6_7;Pastoor Visschersplein;7;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054516;677400;;Steenhouwersvest;30;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49144;710587;;Sint-Andriesstraat;7;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976563;7093575;Prekersstraat 16_18_18A_18B_18D;Prekersstraat;16;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025377;664355;;Nationalestraat;118;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737846;624658;;Kloosterstraat;169;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062218;684049;;Vrijdagmarkt;18;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2069205;11378645;Pastoor Visschersplein 8_9_10;Pastoor Visschersplein;9;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054521;677402;;Steenhouwersvest;36;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735131;622728;Augustijnenstraat 18_20 - Nationalestraat 50_56 - Sint-Andriesstraat 19;Sint-Andriesstraat;19;;XC;2019-11-14;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;5576143;712487;Prekersstraat 16_18_18A_18B_18D;Prekersstraat;18;;XC;2020-02-14;;Y;2019-12-20;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025382;664356;;Nationalestraat;120;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737847;624659;;Kloosterstraat;171;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2062219;684050;;Vrijdagmarkt;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3919740;11378976;Van Craesbeeckstraat 11_13_13A_15_15B;Van Craesbeeckstraat;13;A;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2054520;677401;;Steenhouwersvest;34;A;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1735130;7093502;;Sint-Andriesstraat;3;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976564;726235;Van Craesbeeckstraat 22_24_26_28;Van Craesbeeckstraat;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1326106;616596;;Nationalestraat;122;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737848;11508586;;Kloosterstraat;173;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;48913;710478;;Vrijdagmarkt;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928194;11378981;Prekersstraat 2A_2B;Prekersstraat;2;B;;2019-11-13;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5363285;710786;;Waaistraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976541;726220;Willem Lepelstraat 5_7;Willem Lepelstraat;5;;C;2019-11-13;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025398;664357;;Nationalestraat;124;;XA;2020-01-21;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737849;624661;;Kloosterstraat;175;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928195;11379076;Prekersstraat 16_18_18A_18B_18D;Prekersstraat;18;D;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976543;726221;;Willem Lepelstraat;9;;A;2019-11-13;2019-12-23;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1520006;619479;;Nationalestraat;126;;XC;2020-01-21;;Y;;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737850;624662;;Kloosterstraat;177;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928369;11377850;;Scheldestraat;74;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976545;7093573;Willem Lepelstraat 13_15_17;Willem Lepelstraat;13;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025413;664358;;Nationalestraat;128;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737851;624663;;Kloosterstraat;179;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928595;11377984;;Volkstraat;66;A;A;2019-12-23;2019-12-23;Y;2019-12-20;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976546;7093574;Willem Lepelstraat 19_21;Willem Lepelstraat;19;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025420;664359;;Nationalestraat;130;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737852;624664;;Kloosterstraat;181;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976577;726243;;Kloosterstraat;149;;C;2019-11-13;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928766;11378766;;Vrijdagmarktstraatje;3;;XC;;;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025438;664360;;Nationalestraat;132;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737853;624665;;Kloosterstraat;183;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737805;11508578;;Kloosterstraat;53;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928778;11378631;Pastoor Visschersplein 1_2_3_4;Pastoor Visschersplein;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20004b26f58;;;Prekersstraat;4;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025461;664362;;Nationalestraat;134;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737854;624666;;Kloosterstraat;185;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3971353;11378778;;Volkstraat;54;;B;2020-01-16;2020-01-16;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025466;664364;;Nationalestraat;136;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973305;726096;;Kloosterstraat;187;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4024487;11377784;;Franckenstraat;14;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;3928063;691114;Nationalestraat 138_140_142;Nationalestraat;138;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973299;726093;;Kronenburgstraat;1;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4085699;11378830;Graaf van Egmontstraat 39 - 39 A - 41;Graaf van Egmontstraat;39;A;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025490;664368;;Nationalestraat;144;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971910;654581;;Kronenburgstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4201488;11378577;;Salm-Salmstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2025505;664370;;Nationalestraat;146;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971915;7093518;;Kronenburgstraat;5;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976538;726217;;Nationalestraat;148;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4212946;11378638;Pastoor Visschersplein 1_2_3_4;Pastoor Visschersplein;4;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976551;726227;;Prekersstraat;34;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505198;11377551;;Lange Riddersstraat;36;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045614;669700;;Prekersstraat;36;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505201;11377843;;Oever;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4518329;709014;;Prekersstraat;38;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505594;11377728;Steenhouwersvest 17_19_21;Steenhouwersvest;21;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045615;669701;;Prekersstraat;40;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4505143;11508596;;Kloosterstraat;57;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506581;11378863;Nationalestraat 96_98;Nationalestraat;98;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2045616;669702;;Prekersstraat;42;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973304;726095;;Kronenburgstraat;21;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506584;11378608;;Steenbergstraat;26;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20006fa5627;;;Prekersstraat;6;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1449286;618281;;Prekersstraat;44;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4517181;708437;;Kronenburgstraat;25;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506586;11378606;;Steenbergstraat;32;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976550;726226;;Prekersstraat;46;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973302;7093570;;Kronenburgstraat;27;;XA;2020-01-30;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506593;11377760;Lange vlierstraat 11_13;Lange Vlierstraat;13;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976565;726236;;Van Craesbeeckstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1971992;654591;;Kronenburgstraat;29;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507885;11378560;Reynderstraat 28, 26, 30;Reyndersstraat;28;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976571;7093576;;Van Craesbeeckstraat;3;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1972000;654593;;Kronenburgstraat;31;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1471079;11508571;;Kloosterstraat;55;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507925;11378446;;Reyndersstraat;6;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1813896;7093513;;Van Craesbeeckstraat;5;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1972022;654595;;Kronenburgstraat;35;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976578;11508600;;Kloosterstraat;151;;C;2019-11-13;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4507938;11378896;Heilige Geeststraat 13_15;Heilige Geeststraat;15;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976568;726237;Van Craesbeeckstraat 11_13_13A_15_15B;Van Craesbeeckstraat;11;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1972031;654596;;Kronenburgstraat;37;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509952;11378623;;Pompstraat;5;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976569;726238;Van Craesbeeckstraat 11_13_13A_15_15B;Van Craesbeeckstraat;13;B;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973298;726092;;Kronenburgstraat;39;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509957;11377790;;Franckenstraat;11;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976570;726239;Van Craesbeeckstraat 11_13_13A_15_15B;Van Craesbeeckstraat;15;A;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4510013;11378610;;Pompstraat;32;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4040818;692624;;Van Craesbeeckstraat;9;A;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4517189;11378762;;Kloosterstraat;165;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976540;726219;Willem Lepelstraat 23_23A_25_25A;Willem Lepelstraat;23;B;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4517195;11378972;Willem Lepelstraat 18_20;Willem Lepelstraat;20;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;111555;613508;Willem Lepelstraat 23_23A_25_25A;Willem Lepelstraat;25;B;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;111553;7093498;;Willem Lepelstraat;2;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4517201;11378597;;Willem Lepelstraat;40;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;NB-20008dbda69;;;Prekersstraat;8;;C;;2019-12-24;Y;;;2020-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989115;658456;;Willem Lepelstraat;65;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4082476;693313;;Willem Lepelstraat;6;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1737811;624626;;Kloosterstraat;63;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4518314;11379473;Prekersstraat 57_59;Prekersstraat;59;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989044;658450;;Willem Lepelstraat;8;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4518315;11379471;Prekersstraat 65_67;Prekersstraat;67;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989048;658451;;Willem Lepelstraat;10;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5487862;11378643;Pastoor Visschersplein 8_9_10;Pastoor Visschersplein;8;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;973307;726098;;Willem Lepelstraat;14;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5575917;11379419;Willem Lepelstraat 13_15_17;Willem Lepelstraat;17;;A;2019-11-13;2019-12-23;Y;2019-12-20;Y;2020-02-21;;;BUILDING template
+ANTWERPEN-WEST - FH07;973313;7093571;;Willem Lepelstraat;16;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5575918;11379078;Willem Lepelstraat 19_21;Willem Lepelstraat;21;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49161;710598;;Franckenstraat;1;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;49147;710588;;Lange Vlierstraat;1;A;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989071;658452;;Willem Lepelstraat;22;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5576281;11377731;Steenhouwersvest 27_29_31_33;Steenhouwersvest;33;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873217;642480;Franckenstraat 3_5;Franckenstraat;3;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4506589;706567;;Lange Vlierstraat;3;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989075;658453;;Willem Lepelstraat;24;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;976579;11508601;;Kloosterstraat;153;;C;2019-11-13;2019-12-23;Y;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5692131;11377774;;Korte Vlierstraat;2;;XC;2019-11-22;;Y;2019-12-20;Y;2019-12-27;;;BUILDING template
+ANTWERPEN-WEST - FH07;1873230;642482;;Franckenstraat;7;;D;;;N;2019-12-20;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061338;683309;Lange Vlierstraat 5_9;Lange Vlierstraat;5;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989081;658454;;Willem Lepelstraat;28;;D;;;N;2020-01-14;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5698232;11377978;;Leeuwenstraat;2;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;4509956;7093548;;Franckenstraat;9;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;2061340;683311;Lange Vlierstraat 5_9;Lange Vlierstraat;9;;;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;1989085;658455;;Willem Lepelstraat;34;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH07;5893007;11378967;Hoogstraat 43_43 A;Hoogstraat;43;A;;;;;;N;;;;BUILDING template

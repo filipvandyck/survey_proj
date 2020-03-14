@@ -1,0 +1,15 @@
+Projectnummer;Opdrachtnummer;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+KNOKKE-HEIST - FH11;301075;301075;;de Vrièrestraat 41_Stadhuisstraat 16;Stadhuisstraat;16;;;XC;2020-01-31 11:05:43;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH11;301794;301794;;de Vrièrestraat 41_Stadhuisstraat 16;de Vrierestraat;41;;;XC;2020-01-31 11:05:43;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH11;71449;71449;;Knokkestraat 2-4;Knokkestraat;2;;;XC;2020-01-03 11:45:21;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH11;4335262;4335262;;Knokkestraat 2-4;Knokkestraat;4;;;XC;2020-01-03 11:45:21;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH11;5579402;5579402;;Knokkestraat 52-54;Knokkestraat;54;;;XA;2020-01-03 19:00:23;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH11;71722;71722;;Knokkestraat 52-54;Knokkestraat;52;;;XA;2020-01-03 19:00:23;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH11;302650;302650;;Knokkestraat 64-66;Knokkestraat;64;;;XA;2020-01-02 14:40:13;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH11;2761581;2761581;;Knokkestraat 64-66;Knokkestraat;66;;;XA;2020-01-02 14:40:13;Maayken Vanfleteren;MDU;0;13;1;14;BUILDING template
+KNOKKE-HEIST - FH11;2762263;2762263;;Kursaalstraat 72-74;Kursaalstraat;72;;;D;2020-01-31 09:15:38;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH11;2762265;2762265;;Kursaalstraat 72-74;Kursaalstraat;74;;;D;2020-01-31 09:15:38;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH11;2766620;2766620;;Stadhuisstraat 28-30;Stadhuisstraat;28;;;D;2020-01-08 10:10:16;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH11;2766622;2766622;;Stadhuisstraat 28-30;Stadhuisstraat;30;;;D;2020-01-08 10:10:16;Geert Stockman;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH11;71648;71648;;Vissersstraat 1_Knokkestraat 24;Vissersstraat;1;;;XA;2020-02-28 09:05:10;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH11;71720;71720;;Vissersstraat 1_Knokkestraat 24;Knokkestraat;24;;;XA;2020-02-28 09:05:10;Hidde Kiekens;MDU;1;0;0;1;BUILDING template

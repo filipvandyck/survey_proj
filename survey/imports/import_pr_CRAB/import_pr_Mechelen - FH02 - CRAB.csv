@@ -1,0 +1,136 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Building comment;Crab Comment;Opdrachttemplate;Building exists;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
+MECHELEN - FH02;3944124;4;0;0;4;MDU;B;N;GLASS;3;;nagekeken;;BUILDING template;;Moensstraat;17;;
+MECHELEN - FH02;3036061;0;1;0;1;MDU;D;N;GLASS;3;9;QD met een riser aangezien het anders een QB is doordat de telco room buiten is.;;BUILDING template;;Hanswijkstraat;51;;Hanswijkstraat_49_51
+MECHELEN - FH02;3992281;2;0;0;2;MDU;B;N;GLASS;3;;"nagekeken; opmerking : geen inside info(foto), geen contactgegevens";;BUILDING template;;Stationsstraat;19;;
+MECHELEN - FH02;336416;4;2;1;7;MDU;B;N;GLASS;7;4;;;BUILDING template;;Leopoldstraat;74;;Leopoldstraat_74_76
+MECHELEN - FH02;4758927;6;1;0;7;MDU;X;N;GLASS;7;;In aanbouw - En construction;;BUILDING template;;Leopoldstraat;76;;Leopoldstraat_74_76
+MECHELEN - FH02;10986;5;2;1;8;MDU;B;N;GLASS;5;;;;BUILDING template;;Hendrik Speecqvest;2;;
+MECHELEN - FH02;3047964;1;4;1;6;MDU;X;N;GLASS;5;;"nagekeken; opm; : bij 'details eenheden staat lu bij verd.2 en 3 ipv bu";;BUILDING template;;Schuttersvest;22;;
+MECHELEN - FH02;3044998;0;1;1;2;SDU;;N;IRREG;3;9;;;BUILDING template;;Onze-Lieve-Vrouwekerkhof;11;;
+MECHELEN - FH02;3045055;1;0;0;1;SDU;;N;IRREG;4;;_;;BUILDING template;;Onze-Lieve-Vrouwestraat;23;;
+MECHELEN - FH02;6454207;1;0;0;1;SDU;;N;IRREG;4;;_;;BUILDING template;;Stationsstraat;53;C;
+MECHELEN - FH02;6454208;1;0;0;1;SDU;;N;IRREG;4;;_;;BUILDING template;;Stationsstraat;53;A;
+MECHELEN - FH02;4759381;7;0;0;7;MDU;B;N;IRREG;4;;Geen schachten  enkel weggewerkt flex wachtbuizen.  Eigenaar wil geen opbouw. Enkel BDFO plaatsen;;BUILDING template;;Hanswijkstraat;47;;
+MECHELEN - FH02;4759382;2;0;1;3;MDU;D;N;IRREG;4;;Units zijn via de gevel bereikbaar met behulp van riser.;;BUILDING template;;Hanswijkstraat;49;;Hanswijkstraat_49_51
+MECHELEN - FH02;383274;8;1;1;10;MDU;X;N;IRREG;9;;nagekeken;;BUILDING template;;Leopoldstraat;11;;
+MECHELEN - FH02;5364853;0;3;0;3;MDU;;N;IRREG;4;;;;BUILDING template;;Stationsstraat;53;;
+MECHELEN - FH02;354064;0;1;1;2;SDU;;N;IRREG;4;12;;;BUILDING template;;Hendrik Consciencestraat;3;;
+MECHELEN - FH02;3040923;14;0;0;14;MDU;B;N;IRREG;5;15;nagekeken;;BUILDING template;;Leopoldstraat;82;;
+MECHELEN - FH02;3050737;11;1;0;12;MDU;A;N;IRREG;7;;;;BUILDING template;;Van Benedenlaan;14;;Van Benedenlaan_14_16
+MECHELEN - FH02;3050741;12;1;1;14;MDU;A;N;IRREG;8;;nagekeken;;BUILDING template;;Van Benedenlaan;16;;Van Benedenlaan_14_16
+MECHELEN - FH02;3050754;0;1;0;1;SDU;;N;IRREG;6;;;;BUILDING template;;Van Benedenlaan;26;;
+MECHELEN - FH02;3050758;9;0;0;9;MDU;X;N;IRREG;7;;nagekeken;;BUILDING template;;Van Benedenlaan;28;;
+MECHELEN - FH02;3047956;8;0;1;9;MDU;X;N;IRREG;7;;nagekeken;;BUILDING template;;Schuttersvest;16;;
+MECHELEN - FH02;3045040;0;1;0;1;SDU;;N;MON;3;;;;BUILDING template;;Onze-Lieve-Vrouwestraat;5;;
+MECHELEN - FH02;3048496;1;0;0;1;SDU;D;N;MON;2;;MON_;;BUILDING template;;Sint-Jacobstraat;62;;
+MECHELEN - FH02;354324;0;1;0;1;SDU;;N;MON;1;3;MON_;;BUILDING template;;Coxiestraat;1;;
+MECHELEN - FH02;387454;1;0;0;1;SDU;D;N;MON;3;;MON_;;BUILDING template;;Kardinaal Mercierplein;4;;
+MECHELEN - FH02;3050915;1;0;0;1;SDU;D;N;IRREG;3;3;;;BUILDING template;;Van Kerckhovenstraat;15;;
+MECHELEN - FH02;3944214;7;1;0;8;MDU;B;N;IRREG;3;9;;;BUILDING template;;Van Kerckhovenstraat;17;;
+MECHELEN - FH02;3048047;1;0;0;1;SDU;;N;IRREG;2;6;;;BUILDING template;;Schuttersvest;92;A;
+MECHELEN - FH02;405390;0;1;0;1;SDU;;N;IRREG;3;12;Gebouw gerenoveerd en geen kabels meer op de gevel;;BUILDING template;Y;Hanswijkstraat;1;;Hanswijkstraat_1_3_5
+MECHELEN - FH02;3036017;4;2;0;6;MDU;B;N;IRREG;3;12;"nagekeken; Gebouw gerenoveerd en geen kabels meer op de gevel";;BUILDING template;Y;Hanswijkstraat;3;;Hanswijkstraat_1_3_5
+MECHELEN - FH02;3045054;0;1;0;1;SDU;;N;IRREG;4;12;;;BUILDING template;;Onze-Lieve-Vrouwestraat;21;;
+MECHELEN - FH02;393887;0;1;1;2;SDU;;N;IRREG;3;9;;;BUILDING template;;Lange Nieuwstraat;40;;
+MECHELEN - FH02;3045056;3;1;1;5;MDU;XC;N;IRREG;4;12;Floorboxen niet nodig.;;BUILDING template;;Onze-Lieve-Vrouwestraat;25;;
+MECHELEN - FH02;5764071;0;5;2;7;MDU;F;N;IRREG;5;15;Gebouw al voorzien van een glasvezelnetwerk dat vertrekt vanuit het datacenter;;BUILDING template;;Van Kerckhovenstraat;2;;
+MECHELEN - FH02;3049044;0;3;2;5;MDU;F;N;IRREG;4;18;Kantoorruimtes te huur;;BUILDING template;;Stationsstraat;55;;
+MECHELEN - FH02;336410;0;1;0;1;SDU;;N;IRREG;3;9;;;BUILDING template;;Van Kerckhovenstraat;19;;
+MECHELEN - FH02;402676;1;0;0;1;SDU;D;N;IRREG;3;10;;;BUILDING template;;Stationsstraat;1;;
+MECHELEN - FH02;4758936;11;2;1;14;MDU;XC;N;IRREG;5;15;;;BUILDING template;;Van Kerckhovenstraat;14;;Residentie Stephenson
+MECHELEN - FH02;4758935;9;0;1;10;MDU;XC;N;IRREG;5;15;;;BUILDING template;;Van Kerckhovenstraat;12;;Residentie Stephenson
+MECHELEN - FH02;336412;9;0;1;10;MDU;XC;N;IRREG;5;15;;;BUILDING template;;Van Kerckhovenstraat;10;;Residentie Stephenson
+MECHELEN - FH02;5862148;11;0;1;12;MDU;XA;N;IRREG;6;4;;;BUILDING template;;Van Kerckhovenstraat;8;;Residentie Stephenson
+MECHELEN - FH02;3048998;2;1;0;3;MDU;X;N;IRREG;4;12;nagekeken;;BUILDING template;;Stationsstraat;11;;
+MECHELEN - FH02;354054;0;1;0;1;SDU;;N;IRREG;3;9;BE_Leegstaand. W momenteel in gewerkt. Hoogstwaarschijnlijk  een bu zoals de andere kant van het gebouw.;;BUILDING template;;Arsenaalstraat;2;;
+MECHELEN - FH02;4761542;0;1;0;1;SDU;;N;IRREG;2;4;_;;BUILDING template;;Onze-Lieve-Vrouwestraat;117;;
+MECHELEN - FH02;354898;0;1;0;1;SDU;;N;IRREG;5;14;;;BUILDING template;;Leopoldstraat;2;;
+MECHELEN - FH02;3040843;3;1;0;4;MDU;B;N;IRREG;4;10;"nagekeken; opmerking : reden Qb?";;BUILDING template;;Leopoldstraat;3;;
+MECHELEN - FH02;388934;0;1;0;1;SDU;;N;IRREG;3;4;_;;BUILDING template;;Onze-Lieve-Vrouwestraat;121;;
+MECHELEN - FH02;403242;0;1;0;1;SDU;;N;IRREG;4;4;_;;BUILDING template;;Raghenoplein;19;;
+MECHELEN - FH02;354045;0;1;2;3;SDU;;N;IRREG;4;15;;;BUILDING template;;Stationsstraat;51;;
+MECHELEN - FH02;165;0;1;2;3;SDU;;N;IRREG;5;15;;;BUILDING template;;Stationsstraat;58;;
+MECHELEN - FH02;5602921;2;1;1;4;MDU;B;N;IRREG;3;10;nagekeken;;BUILDING template;;Leopoldstraat;37;;
+MECHELEN - FH02;3045143;0;1;0;1;SDU;;N;IRREG;3;12;;;BUILDING template;;Onze-Lieve-Vrouwestraat;115;;
+MECHELEN - FH02;3045149;1;1;0;2;MDU;C;N;IRREG;3;12;Wachtbuizen met trekkoord;;BUILDING template;;Onze-Lieve-Vrouwestraat;119;;
+MECHELEN - FH02;10978;0;2;0;2;MDU;B;N;IRREG;4;10;nagekeken;;BUILDING template;;Onze-Lieve-Vrouwestraat;123;;
+MECHELEN - FH02;3040897;1;0;1;2;SDU;D;N;IRREG;3;9;;;BUILDING template;;Leopoldstraat;59;;
+MECHELEN - FH02;335265;1;0;0;1;SDU;D;N;IRREG;1;3;BE_;;BUILDING template;;Colomastraat;2;;
+MECHELEN - FH02;3040909;11;3;1;15;MDU;B;N;IRREG;3;9;BE_nagekeken;;BUILDING template;;Leopoldstraat;70;;
+MECHELEN - FH02;335251;1;1;0;2;MDU;D;N;IRREG;3;9;;;BUILDING template;;Leopoldstraat;77;;
+MECHELEN - FH02;3050697;1;0;0;1;SDU;;N;IRREG;3;9;;;BUILDING template;;Vaartdijk;53;;
+MECHELEN - FH02;371059;1;0;0;1;SDU;D;N;IRREG;3;9;;;BUILDING template;;Vaartdijk;54;;
+MECHELEN - FH02;3944164;6;0;1;7;MDU;B;N;IRREG;4;12;nagekeken  opmerking : renovatie,  geen inside info, geen contactgegevens;;BUILDING template;;Raghenoplein;4;;
+MECHELEN - FH02;3053934;11;0;0;11;MDU;X;N;IRREG;4;12;nagekeken;;BUILDING template;;Zoutwerf;25;;
+MECHELEN - FH02;3053935;10;0;0;10;MDU;X;N;IRREG;5;5;controle : foto's en schema's-Gevel : geen foto;;BUILDING template;;Zoutwerf;26;;
+MECHELEN - FH02;354065;0;1;0;1;SDU;;N;IRREG;5;4;_;;BUILDING template;;Hendrik Consciencestraat;5;;
+MECHELEN - FH02;3924463;8;0;0;8;MDU;X;N;IRREG;5;12;controle : geen su bij 'details eenheden';;BUILDING template;;Zoutwerf;27;;
+MECHELEN - FH02;3053938;5;0;0;5;MDU;X;N;IRREG;3;12;nagekeken;;BUILDING template;;Zoutwerf;28;;
+MECHELEN - FH02;354066;0;1;0;1;SDU;;N;IRREG;5;4;_;;BUILDING template;;Hendrik Consciencestraat;7;;
+MECHELEN - FH02;354896;1;0;0;1;SDU;;N;IRREG;2;6;BE_;;BUILDING template;;Vaartdijk;75;;
+MECHELEN - FH02;3050707;1;0;0;1;SDU;;N;IRREG;3;9;BE_;;BUILDING template;;Vaartdijk;76;;
+MECHELEN - FH02;4757353;1;0;0;1;SDU;D;N;IRREG;2;6;;;BUILDING template;;Vaartdijk;77;;
+MECHELEN - FH02;3050709;1;0;0;1;SDU;D;N;IRREG;3;9;BE_;;BUILDING template;;Vaartdijk;78;;
+MECHELEN - FH02;3050711;1;0;0;1;SDU;D;N;IRREG;2;6;BE_;;BUILDING template;;Vaartdijk;79;;
+MECHELEN - FH02;3050712;1;0;0;1;SDU;D;N;IRREG;2;6;BE_;;BUILDING template;;Vaartdijk;80;;
+MECHELEN - FH02;3048236;8;0;0;8;MDU;D;N;IRREG;3;12;;;BUILDING template;;Hendrik Speecqvest;68;;
+MECHELEN - FH02;3048238;0;1;0;1;SDU;D;N;IRREG;3;12;;;BUILDING template;;Hendrik Speecqvest;70;;
+MECHELEN - FH02;4203584;2;0;0;2;MDU;D;N;IRREG;3;12;;;BUILDING template;;Hendrik Speecqvest;72;;
+MECHELEN - FH02;6581988;1;0;0;1;SDU;;N;IRREG;3;4;_;;BUILDING template;;Hoogstraat;7;A;
+MECHELEN - FH02;3037271;2;1;0;3;MDU;D;N;IRREG;3;4;Controle : QB.  bg 23?        Nummer 21 zijn de appartementen boven .23 de winkel beneden;;BUILDING template;;Hoogstraat;21;;
+MECHELEN - FH02;3037274;2;1;0;3;MDU;D;N;IRREG;3;4;21 zijn de appartementen boven 23 is de winkel beneden;;BUILDING template;;Hoogstraat;23;;
+MECHELEN - FH02;3050849;3;1;0;4;MDU;X;N;IRREG;4;9;DG_In aanbouw - En construction. W een bg met nummer 11. Er komt 1 grote winkel met 2 appartementen  en een loft;;BUILDING template;;Graaf van Egmontstraat;9;;
+MECHELEN - FH02;386440;0;1;0;1;SDU;;N;IRREG;3;10;BE_;;BUILDING template;;Louizastraat;40;;Louizastraat_40_Van Benedenlaan_73
+MECHELEN - FH02;3031778;4;0;1;5;MDU;D;N;IRREG;3;4;nagekeken;;BUILDING template;;Brusselsepoortstraat;25;;
+MECHELEN - FH02;6527500;1;0;0;1;SDU;;Y;NA;3;6;1 woning;;BUILDING template;;Lieve-Heerstraat;6;C;
+MECHELEN - FH02;336881;6;0;1;7;MDU;X;Y;NA;5;3;"BE_controle : su ontbreekt bij &apos;details eenheden&apos;";;BUILDING template;;Willem Geetsstraat;1;;
+MECHELEN - FH02;3048038;9;2;1;12;MDU;X;Y;NA;8;6;;;BUILDING template;;Schuttersvest;74;;
+MECHELEN - FH02;4763146;1;0;0;1;SDU;D;Y;NA;2;6;;;BUILDING template;;Sint-Jacobstraat;46;;
+MECHELEN - FH02;4763080;0;1;0;1;MDU;XC;Y;NA;4;9;;;BUILDING template;;Milsenstraat;17;;
+MECHELEN - FH02;386473;15;1;1;17;MDU;XA;Y;NA;9;24;Units van Schuttersvest staan ook ingevuld in de survey van Schuttersvest 17.;;BUILDING template;;Schuttersvest;19;;
+MECHELEN - FH02;383273;5;1;1;7;MDU;X;Y;NA;7;4;"controle : aansluiting su + floorbox op kabelvoorstel ?;  gebeurt de aansluiting bu op tussenverdieping?; intro buiten (waar ga je het gebouw binnen?)";;BUILDING template;;Leopoldstraat;1;;
+MECHELEN - FH02;354883;1;0;0;1;SDU;D;Y;NA;2;6;;;BUILDING template;;Willem Herreynsstraat;43;;
+MECHELEN - FH02;3036072;2;0;0;2;MDU;D;Y;NA;3;10;;;BUILDING template;;Hanswijkstraat;60;;
+MECHELEN - FH02;4757586;2;0;0;2;MDU;D;Y;NA;3;9;;;BUILDING template;;Leopoldstraat;21;;
+MECHELEN - FH02;3045122;6;0;1;7;MDU;D;Y;NA;4;3;Units zijn via de gevel aansluitbaar.;;BUILDING template;;Onze-Lieve-Vrouwestraat;94;;
+MECHELEN - FH02;5853881;1;0;0;1;SDU;;Y;NA;4;4;_;;BUILDING template;;Raghenoplein;21;A;
+MECHELEN - FH02;4761104;1;0;0;1;SDU;D;Y;NA;3;10;BE_;;BUILDING template;;Ziekeliedenstraat;3;;
+MECHELEN - FH02;354061;3;1;0;4;MDU;B;Y;NA;4;12;;;BUILDING template;;Hendrik Consciencestraat;13;;
+MECHELEN - FH02;3053795;1;0;0;1;SDU;D;Y;NA;3;10;;;BUILDING template;;Ziekeliedenstraat;10;;
+MECHELEN - FH02;404310;6;1;0;7;MDU;X;Y;NA;4;12;nagekeken;;BUILDING template;;Raghenoplein;25;;
+MECHELEN - FH02;4222183;1;0;0;1;SDU;;Y;NA;3;9;;;BUILDING template;;Vaartdijk;71;;
+MECHELEN - FH02;5985662;1;0;0;1;SDU;;Y;NA;4;4;_;;BUILDING template;;Hendrik Consciencestraat;13;A;
+MECHELEN - FH02;3032563;1;0;0;1;SDU;;Y;NA;2;7;BE_;;BUILDING template;;Coxiestraat;17;;
+MECHELEN - FH02;3048228;1;0;0;1;SDU;;Y;NA;3;9;;;BUILDING template;;Hendrik Speecqvest;50;;
+MECHELEN - FH02;10980;1;0;0;1;SDU;D;Y;NA;3;10;BE_;;BUILDING template;;Louizastraat;13;;
+MECHELEN - FH02;3037247;0;1;1;2;SDU;;Y;NA;3;10;;;BUILDING template;;Hoogstraat;1;;
+MECHELEN - FH02;3042464;1;0;0;1;SDU;;Y;NA;4;12;;;BUILDING template;;Louizastraat;15;;
+MECHELEN - FH02;5507128;1;0;0;1;SDU;;Y;NA;3;10;;;BUILDING template;;Oude Brusselsestraat;1;A;
+MECHELEN - FH02;3050735;0;1;0;1;SDU;D;Y;NA;3;16;BE_;;BUILDING template;N;Van Benedenlaan;12;;
+MECHELEN - FH02;4754428;1;0;0;1;SDU;D;Y;NA;3;10;;;BUILDING template;;Ravenbergstraat;25;;
+MECHELEN - FH02;173463;1;0;0;1;SDU;;Y;NA;2;6;;;BUILDING template;;Schuttershofstraat;12;;
+MECHELEN - FH02;4764876;1;0;0;1;SDU;;Y;NA;3;4;_;;BUILDING template;;Korenmarkt;29;;
+MECHELEN - FH02;3047948;0;1;0;1;SDU;D;Y;NA;3;10;;;BUILDING template;;Schuttersvest;10;;
+MECHELEN - FH02;3037299;0;1;0;1;SDU;D;Y;NA;2;8;;;BUILDING template;;Hoogstraat;59;;
+MECHELEN - FH02;3042552;1;0;0;1;SDU;;Y;NA;2;7;;;BUILDING template;;Maalderijstraatje;1;A;
+MECHELEN - FH02;5558667;28;2;0;30;MDU;X;Y;NA;7;4;;;BUILDING template;;Van Benedenlaan;47;;
+MECHELEN - FH02;3995779;1;1;0;2;MDU;D;Y;NA;3;4;11 en 13 van het zelfde eigenaar;;BUILDING template;;Milsenstraat;11;;
+MECHELEN - FH02;398325;1;0;0;1;SDU;D;Y;NA;3;10;BE_;;BUILDING template;;Hoogstraatje;11;;
+MECHELEN - FH02;398321;1;0;0;1;SDU;D;Y;NA;3;12;BE_;;BUILDING template;;Hoogstraatje;12;;
+MECHELEN - FH02;3043143;7;2;0;9;MDU;;Y;NA;3;9;"Nummer 13 staat binnen achter de gebouw&period; Zelfde eigenaar";;BUILDING template;;Milsenstraat;13;;
+MECHELEN - FH02;4027942;0;1;0;1;MDU;XC;Y;NA;3;8;Via opbouw kabelgoten werken;;BUILDING template;;Milsenstraat;15;;
+MECHELEN - FH02;354044;0;1;1;2;SDU;D;Y;NA;3;9;;;BUILDING template;;Koning Albertplein;1;;
+MECHELEN - FH02;3050795;1;0;0;1;MDU;D;Y;NA;3;12;Units via gevel aansluitbaar;;BUILDING template;;Van Benedenlaan;71;;
+MECHELEN - FH02;3040928;2;1;0;3;MDU;D;N;IRREG;3;9;BE_;;BUILDING template;;Leopoldstraat;86;;
+MECHELEN - FH02;335261;4;1;0;5;MDU;B;Y;NA;3;9;;;BUILDING template;;Colomastraat;16;;
+MECHELEN - FH02;5553120;0;1;0;1;SDU;D;Y;NA;1;3;;;BUILDING template;;Groenstraat;12;;
+MECHELEN - FH02;3035598;1;0;1;2;SDU;D;Y;NA;3;10;;;BUILDING template;;Groenstraat;22;;
+MECHELEN - FH02;1332974;3;1;0;4;MDU;X;Y;NA;3;9;nagekeken;;BUILDING template;;Hoogstraat;77;;
+MECHELEN - FH02;3040930;3;1;0;4;MDU;D;N;IRREG;3;9;BE_;;BUILDING template;;Leopoldstraat;88;;
+MECHELEN - FH02;3040926;0;1;0;1;SDU;D;N;IRREG;3;9;;;BUILDING template;;Leopoldstraat;84;;
+MECHELEN - FH02;4762107;1;1;0;2;MDU;;N;IRREG;4;12;;;BUILDING template;;Louizastraat;21;;
+MECHELEN - FH02;3042474;1;0;0;1;SDU;;N;IRREG;4;12;;;BUILDING template;;Louizastraat;23;;
+MECHELEN - FH02;388434;0;4;0;4;MDU;X;N;IRREG;4;9;;;BUILDING template;;Oude Brusselsestraat;7;;
+MECHELEN - FH02;4215413;0;6;2;8;MDU;;N;IRREG;5;15;;;BUILDING template;;Stationsstraat;60;;
+MECHELEN - FH02;3050681;4;0;0;4;MDU;X;N;IRREG;4;12;"nagekeken;  opm. : bij lift staat lu ipv su bij 'details eenheden'";;BUILDING template;;Vaartdijk;27;;
+MECHELEN - FH02;3036043;1;0;0;1;SDU;;N;ORN;3;11;;;BUILDING template;;Hanswijkstraat;30;;
