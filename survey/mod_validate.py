@@ -18,6 +18,7 @@ import webbrowser
 import myoutput as out
 
 
+LIST_HEADER = ['File SSV Action', 'File SSV Status', 'File SSV Error', 'Area Type', 'Area FID', 'Area Version', 'Area Name', 'Zoning FID', 'Zoning Version', 'Zoning Name', 'Zoning Id', 'Zoning Tech', 'BG Id', 'BG Version', 'BG Name', 'BG SSV Action', 'BG SSV Status', 'BG SSV Error', 'BG Building SSV Action', 'BG Building SSV Status', 'BG Building SSV Error', 'Building FID', 'Building Version', 'LAM MK', 'LAM City Code', 'LAM Street Code', 'Street', 'Nr', 'Suffix', 'Zip', 'Municipality', 'Suburb', 'xPos', 'yPos', 'Name', 'Wall Mount', 'SS Reason', 'Number Floors', 'Height Cable', 'Orig VC Type', 'New VC Type', 'VC Method', 'Intro Tube', 'Prov Status', 'Prov Reason', 'Prov Planned', 'Prov Mod By', 'Prov Mod Date', 'Comments', 'SSV Flag', 'SSV Action', 'SSV Status', 'SSV Error', 'SSV Date', 'Seq', 'LU Key', 'LAM SK', 'Nature', 'Nr TPs', 'PBox', 'App', 'Block', 'Floor', 'OtherRef', 'CAD', 'CAD Details', 'CAD Type', 'CAD Type Descr', 'CAD SubType', 'Prov Status LU', 'Prov Reason LU', 'Prov Planned LU', 'Prov Mod By LU', 'Prov Mod Date LU', 'Comments LU', 'SSV Flag LU', 'SSV Action LU', 'SSV Status LU', 'SSV Error LU', 'SSV Date LU', 'planrrr_bid', 'planrrr_uid']
 
 
 VALIDATEFOLDER = os.path.join(os.path.dirname(os.path.realpath(__file__)),'validate/')
@@ -227,7 +228,13 @@ def processfile(f, polyglon='', process_for='S'):
 
 
     survey = pd.read_csv(f, delimiter=';',encoding = "ISO-8859-1", keep_default_na=False)
-   
+
+    
+    out.info_file('Check heading file', f)
+    lstColumns = list(survey.columns)
+    if lstColumns != LIST_HEADER :
+        print('BAD Header file!!!\n\n')
+
     survey.columns = survey.columns.str.replace(' ','_')
 
     survey['adres_full'] = survey['Street'].apply(clean_str) + ' ' + survey['Nr'].apply(clean_str) + survey['Suffix'].apply(clean_str)    
