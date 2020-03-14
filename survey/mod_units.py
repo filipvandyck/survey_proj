@@ -10,12 +10,13 @@ import pandas as pd
 import numpy as np
 import math 
 
-INPUTFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/input/' 
-OUTPUTFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/output/' 
 
 TESTFILE = os.path.dirname(os.path.realpath(__file__)) + '/units/Survey-Antwerpen-FH01.csv'
 UNITSFILE = os.path.dirname(os.path.realpath(__file__)) + '/units/appeee/units.csv'
 TESTOUTPUT = os.path.dirname(os.path.realpath(__file__)) + '/units/test.csv'
+
+UNITSFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/units/'
+
 
 def columnToInt(df, column):
     df[column].fillna(value=0,inplace=True)    
@@ -322,23 +323,6 @@ def processfile(f):
     print(merge)
 
     merge.to_csv(TESTOUTPUT,index=False, sep=";")
-'''
-
-    answer = input("Street survey [S] | Site Survey [SS] | Map [M] | All [A] ::> ") 
-    if answer == 'S' or answer == 's':
-        process_for_street_survey(survey)
-    if answer == 'M' or answer == 'm': 
-        draw_map(survey)
-    if answer == 'SS' or answer == 'ss': 
-        process_for_street_survey(survey)
-        process_for_site_survey(survey)
-    if answer == 'a' or answer == 'A': 
-        process_for_street_survey(survey)
-        process_for_site_survey(survey)
-        draw_map(survey)
-
-'''
-
 
 #processfile(TESTFILE)
 
@@ -353,9 +337,9 @@ def getimportfiles(directory):
 
 
 
-directory = os.path.join(os.path.dirname(os.path.realpath(__file__)),'units/')
-importFiles = getimportfiles(directory)
-for f in importFiles:
-    processfile(f)
+#directory = os.path.join(os.path.dirname(os.path.realpath(__file__)),'units/')
+#importFiles = getimportfiles(directory)
+#for f in importFiles:
+#    processfile(f)
 
 

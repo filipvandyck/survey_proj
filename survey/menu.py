@@ -9,6 +9,7 @@ import mod_import_coordinates as coor
 import mod_validate as val
 import mod_import_pr as imp
 import mod_correction_import as cor
+import mod_units as units
 
 import os
 import glob
@@ -147,11 +148,19 @@ def main_menu():
             'P': {'name' : 'Plannrrr Corrections', 'action' : corrections_menu},
             'C': {'name' : 'Coordinates', 'action' : coords_menu},
             'V': {'name' : 'Validate Survey', 'action' : validate_menu},
+            'U': {'name' : 'Site Survey Survey Units', 'action' : units_menu},
             'I': {'name' : 'Make Import Versions / Survey', 'action' : import_menu}
     }
     action = menu_from_dict(menu,'MAIN MENU')
     if action:
         test = action()
+
+def units_menu():
+    create_file = select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
+    if create_file:
+        units.processfile(create_file)
+    
+    main_menu()
 
 def validate_menu():
     menu = {
