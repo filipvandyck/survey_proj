@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-####  units.py
+####  mod_units.py
 ####    
 
 
@@ -11,7 +11,7 @@ import numpy as np
 import math 
 
 
-TESTFILE = os.path.dirname(os.path.realpath(__file__)) + '/units/Survey-Antwerpen-FH01.csv'
+TESTFILE = os.path.dirname(os.path.realpath(__file__)) + '/units/test_survey.csv'
 UNITSFILE = os.path.dirname(os.path.realpath(__file__)) + '/units/appeee/units.csv'
 TESTOUTPUT = os.path.dirname(os.path.realpath(__file__)) + '/units/test.csv'
 
@@ -42,6 +42,18 @@ def convert_float(x):
     except ValueError:
         return('')  
 
+
+def convert_int_all(x):
+    x  = clean_str(x)
+    x = x.replace(" ", "/")
+   
+    try:
+        x = int(x)
+    except ValueError:
+        x = 0  
+    return(x)
+
+
 def convert_int(x):
     x  = clean_str(x)
     x = x.replace(" ", "/")
@@ -50,7 +62,6 @@ def convert_int(x):
         x = int(x)
     except ValueError:
         x = 0  
-    
     if x > 0:
         return(x)
     else:
@@ -170,13 +181,56 @@ def processfile(f):
 
 
 
-    survey = survey.sort_values(by=['LAM_MK', 'Nature'])
+    # lege sequenties aanvullen zodat we hierop kunnen sorteren
+
+
+    survey['Seq_test'] = survey['Seq'].apply(convert_int_all) 
+
+    maxSeq = survey.groupby(['planrrr_bid'], sort=False)['Seq_test'].max()
+    maxSeq = maxSeq.to_frame()
+    maxSeq.columns = ['maxSeq']
+
+
+    survey = survey.join(maxSeq,on='planrrr_bid')
+
+    survey['newSeq'] = survey['Seq']
+
+    LAMPREV = ''
+    LAM = ''
+
+    for index, row in survey.iterrows():
+        LAM = row['planrrr_bid']
+
+
+        if LAM != LAMPREV:
+            seq = row['maxSeq']
+
+        if row['Seq'] != '' :
+            newSeq = row['Seq']
+        else : 
+            seq = seq + 1
+            newSeq = seq
+
+        survey.loc[index,'newSeq'] = newSeq
+        LAMPREV = LAM
+ 
+    survey['newSeq'] = survey['newSeq'].apply(convert_int_all) 
+    survey = survey.sort_values(by=['planrrr_bid', 'Nature','newSeq'])
+
+    pd.set_option('display.max_rows', None)
+
+
+    print(survey)
+
+   
     
 
     # units indexeren (nieuwe hebben geen key)
 
     survey = LUindexDF(survey,'planrrr_bid','Nature')
-    print(survey)
+
+
+
 
     # verdieping waar het unit wss zal zitten op basis van units / verdieping
 
@@ -219,7 +273,7 @@ def processfile(f):
     for index, row in merge.iterrows():
         guessed_floor = row['GUESSED_FLOOR_TRUNC']
         number_floors = row['Number_Floors']
-        print(row['FLOOR'])
+#        print(row['FLOOR'])
         floor = row['FLOOR']
         nature = row['Nature']
 
@@ -324,22 +378,15 @@ def processfile(f):
 
     merge.to_csv(TESTOUTPUT,index=False, sep=";")
 
-#processfile(TESTFILE)
+
+processfile(TESTFILE)
 
 
 
 
 
-def getimportfiles(directory):
-    files = [f for f in glob.glob(directory + "*.csv")]
-    return(files)
 
 
 
-
-#directory = os.path.join(os.path.dirname(os.path.realpath(__file__)),'units/')
-#importFiles = getimportfiles(directory)
-#for f in importFiles:
-#    processfile(f)
 
 
