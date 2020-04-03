@@ -119,34 +119,36 @@ print('[T] = FTS')
 answer = input("\n :: ") 
 answer = answer.upper()
 
+folder = ''
+
 if(answer== 'I') :
     folder = 'FIS/'
     prefix_to_check = "Doctyp_FIS-Lamkey_" 
 
 if(answer== 'T') :
-    folder = 'FTS'
+    folder = 'FTS/'
     prefix_to_check = "Doctyp_FTS-Lamkey_" 
 
+if folder != '':
+    FOLDER_TO_CHECK = os.path.join(FOLDER_TO_CHECK, folder)
+    FOLDER_TO_WRITE = os.path.join(FOLDER_TO_CHECK, 'RENAMED/')
 
-FOLDER_TO_CHECK = os.path.join(FOLDER_TO_CHECK, folder)
-FOLDER_TO_WRITE = os.path.join(FOLDER_TO_CHECK, 'RENAMED/')
-
-print('selected folder :: ' + FOLDER_TO_CHECK)
-print('prefix to check :: ' + prefix_to_check)
-
-
-if not os.path.exists(FOLDER_TO_WRITE):
-    os.makedirs(FOLDER_TO_WRITE)
+    print('selected folder :: ' + FOLDER_TO_CHECK)
+    print('prefix to check :: ' + prefix_to_check)
 
 
-
-lstFiles = glob.glob(FOLDER_TO_CHECK + '*.pdf')
+    if not os.path.exists(FOLDER_TO_WRITE):
+        os.makedirs(FOLDER_TO_WRITE)
 
 
 
+    lstFiles = glob.glob(FOLDER_TO_CHECK + '*.pdf')
 
 
-for theFile in lstFiles:
-    check_document_name(theFile,prefix_to_check)
+
+
+
+    for theFile in lstFiles:
+        check_document_name(theFile,prefix_to_check)
 
 
