@@ -1,11 +1,11 @@
 Projectnummer;Opdrachtnummer;Building FID;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;TSA SENT;TSA SIGNED;TSA NEEDED;Afronding handtekening;Meetstaat;Verzonden Offerte;SNS FIS Date;SNS FTS Date;Opdrachttemplate
-EVERE - FH01;1622018;968475;G. De Lombaerdestraat 45-49-51;G. De Lombaerdestraat - Rue Georges De Lombaerde;45;;XC;2019-12-13;;N;;Y;;;;BUILDING template
+EVERE - FH01;1622018;968475;G. De Lombaerdestraat 45-49-51;G. De Lombaerdestraat - Rue Georges De Lombaerde;45;;XC;;;N;;Y;;;;BUILDING template
 EVERE - FH01;726086;971343;;Zeventien Aprilstraat - Rue du Dix-sept Avril;4;;;;;;;N;;;;BUILDING template
 EVERE - FH01;726078;971335;;Sint-Jozefstraat - Rue Saint-Joseph;52;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621782;968287;;Franz Guillaumelaan - Avenue Franz Guillaume;4;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;725362;971238;;Oud-Strijderslaan - Avenue des Anciens Combattants;4;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620859;967535;;Leuvensesteenweg - Chaussée de Louvain;823;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5866849;7462370;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;19;;XA;2019-11-03;;N;;Y;;;;BUILDING template
+EVERE - FH01;5866849;7462370;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;19;;XA;;;N;;Y;;;;BUILDING template
 EVERE - FH01;731615;6195319;;Oud-Strijderslaan - Avenue des Anciens Combattants;202;;;;;;;N;;;;BUILDING template
 EVERE - FH01;5045909;6195259;G. De Lombaerdestraat 45-49-51;G. De Lombaerdestraat - Rue Georges De Lombaerde;51;;XC;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1623512;969798;;Zeventien Aprilstraat - Rue du Dix-sept Avril;6;;;;;;;N;;;;BUILDING template
@@ -13,7 +13,7 @@ EVERE - FH01;726087;971344;;Zeventien Aprilstraat - Rue du Dix-sept Avril;3;;;;;
 EVERE - FH01;1621783;968288;;Franz Guillaumelaan - Avenue Franz Guillaume;6;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;725363;971239;;Oud-Strijderslaan - Avenue des Anciens Combattants;6;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620860;967536;;Leuvensesteenweg - Chaussée de Louvain;825;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;4942981;7462371;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;21;;XA;2019-11-03;;N;;Y;;;;BUILDING template
+EVERE - FH01;4942981;7462371;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;21;;XA;;;N;;Y;;;;BUILDING template
 EVERE - FH01;731598;971522;;Henry Dunantlaan - Avenue Henry Dunant;31;;C;2020-03-02;;Y;;N;;;;BUILDING template
 EVERE - FH01;584104;971053;;Oud-Strijderslaan - Avenue des Anciens Combattants;260;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724024;971204;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;16;;;;;N;;N;;;;BUILDING template
@@ -24,7 +24,7 @@ EVERE - FH01;1620474;967214;;Gelukzaligheidslaan - Avenue de la Béatitude;19;;;;
 EVERE - FH01;1621786;968291;;Franz Guillaumelaan - Avenue Franz Guillaume;12;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623941;970144;;Oud-Strijderslaan - Avenue des Anciens Combattants;8;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620861;967537;;Leuvensesteenweg - Chaussée de Louvain;827;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621809;968310;;Franz Guillaumelaan - Avenue Franz Guillaume;64;;C;2019-09-30;2022-01-01;Y;;Y;;;;BUILDING template
+EVERE - FH01;1621809;968310;;Franz Guillaumelaan - Avenue Franz Guillaume;64;;C;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;731597;971521;;Henry Dunantlaan - Avenue Henry Dunant;33;;;;;;;N;;;;BUILDING template
 EVERE - FH01;584102;6195321;;Oud-Strijderslaan - Avenue des Anciens Combattants;300;;;;;Y;;N;;;;BUILDING template
 EVERE - FH01;1621822;968316;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;17;;;;;N;;N;;;;BUILDING template
@@ -46,7 +46,7 @@ EVERE - FH01;1620477;967217;;Gelukzaligheidslaan - Avenue de la Béatitude;23;;D;
 EVERE - FH01;1621788;968293;;Franz Guillaumelaan - Avenue Franz Guillaume;16;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623943;970146;;Oud-Strijderslaan - Avenue des Anciens Combattants;12;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620863;967539;;Leuvensesteenweg - Chaussée de Louvain;831;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;756473;6639298;;Oud-Strijderslaan - Avenue des Anciens Combattants;90;;C;2019-09-19;2019-10-18;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;756473;6639298;;Oud-Strijderslaan - Avenue des Anciens Combattants;90;;C;2019-09-19;2019-10-18;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;4114621;970792;;Pieter Dupontstraat - Rue Pierre Dupont;161;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4111771;970754;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620948;967604;;Leuvensesteenweg - Chaussée de Louvain;1008;;;;;N;;N;;;;BUILDING template
@@ -67,7 +67,7 @@ EVERE - FH01;1620481;967221;;Gelukzaligheidslaan - Avenue de la Béatitude;27;;;;
 EVERE - FH01;1621790;968295;;Franz Guillaumelaan - Avenue Franz Guillaume;20;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623945;970148;;Oud-Strijderslaan - Avenue des Anciens Combattants;16;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620865;967540;;Leuvensesteenweg - Chaussée de Louvain;837;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;756474;6639299;;Oud-Strijderslaan - Avenue des Anciens Combattants;90;A;C;2019-09-30;2019-10-18;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;756474;6639299;;Oud-Strijderslaan - Avenue des Anciens Combattants;90;A;C;2019-09-30;2019-10-18;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;731620;971536;;Pieter Dupontstraat - Rue Pierre Dupont;165;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621825;968319;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;21;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726568;971409;Leuvensesteenweg 1026-1028-1048;Leuvensesteenweg - Chaussée de Louvain;1026;;;;;N;;N;;;;BUILDING template
@@ -78,7 +78,7 @@ EVERE - FH01;1620483;967223;;Gelukzaligheidslaan - Avenue de la Béatitude;29;;;;
 EVERE - FH01;1621791;968296;;Franz Guillaumelaan - Avenue Franz Guillaume;22;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623947;970150;;Oud-Strijderslaan - Avenue des Anciens Combattants;18;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620866;967541;;Leuvensesteenweg - Chaussée de Louvain;839;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;756476;6639300;;Oud-Strijderslaan - Avenue des Anciens Combattants;92;A;C;2019-09-30;2019-10-18;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;756476;6639300;;Oud-Strijderslaan - Avenue des Anciens Combattants;92;A;C;2019-09-30;2019-10-18;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1621079;967712;;Olympiadenlaan - Avenue des Olympiades;2;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1621826;968320;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;22;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622003;5620861;;Rue Georges De Lombaerde - G. De Lombaerdestraat;13;;D;;;N;;N;;;;BUILDING template
@@ -101,9 +101,9 @@ EVERE - FH01;1206704;966899;;Franz Guillaumelaan - Avenue Franz Guillaume;26;;D;
 EVERE - FH01;1623949;970152;;Oud-Strijderslaan - Avenue des Anciens Combattants;22;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620869;967544;;Leuvensesteenweg - Chaussée de Louvain;863;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620432;967172;;Pierre Dupontgaarde - Clos Pierre Dupont;3;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1119911;966804;;Olympiadenlaan - Avenue des Olympiades;10;;;;;;;N;;;;BUILDING template
+EVERE - FH01;1119911;966804;Olympiadenlaan 10_Oud-Strijderslaan 135;Olympiadenlaan - Avenue des Olympiades;10;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621828;968322;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;24;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;731601;10467657;;"Eenboomstraat - Rue de l&apos;Arbre Unique";100;;;;;;;N;;;;BUILDING template
+EVERE - FH01;731601;10467657;;Eenboomstraat - Rue de l'Arbre Unique;100;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1623526;969812;;Zeventien Aprilstraat - Rue du Dix-sept Avril;28;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623520;969806;;Zeventien Aprilstraat - Rue du Dix-sept Avril;21;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726080;971337;;Sint-Jozefstraat - Rue Saint-Joseph;39;;D;;;N;;N;;;;BUILDING template
@@ -136,7 +136,7 @@ EVERE - FH01;1620872;967547;;Leuvensesteenweg - Chaussée de Louvain;869;;D;;;N;;
 EVERE - FH01;1620435;967175;;Pierre Dupontgaarde - Clos Pierre Dupont;6;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622741;969137;;Constant Permekelaan - Avenue Constant Permeke;3;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621831;968325;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;27;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620348;10273494;;"Clos de l&apos;Argilière - Kleigroeveërf";12;;;;;;;N;;;;BUILDING template
+EVERE - FH01;1620348;10273494;;Clos de l'Argilière - Kleigroeveërf;12;;;;;;;N;;;;BUILDING template
 EVERE - FH01;726085;971342;;Zeventien Aprilstraat - Rue du Dix-sept Avril;34;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1623525;969811;;Zeventien Aprilstraat - Rue du Dix-sept Avril;27;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622172;968616;;Sint-Jozefstraat - Rue Saint-Joseph;45;;;;;N;;N;;;;BUILDING template
@@ -152,12 +152,13 @@ EVERE - FH01;726268;971391;;G. Van Laethemstraat - Rue Guillaume Van Laethem;2;;
 EVERE - FH01;1623527;969813;;Zeventien Aprilstraat - Rue du Dix-sept Avril;29;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622174;968618;;Sint-Jozefstraat - Rue Saint-Joseph;47;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726778;971439;;Leuvensesteenweg - Chaussée de Louvain;795;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1356999;6195241;;Franz Guillaumelaan - Avenue Franz Guillaume;38;;C;2019-09-30;2019-10-17;Y;;Y;2020-02-19;;;BUILDING template
+EVERE - FH01;1356999;6195241;;Franz Guillaumelaan - Avenue Franz Guillaume;38;;C;2019-09-30;2019-10-17;Y;;N;;;;BUILDING template
 EVERE - FH01;1623958;970160;;Oud-Strijderslaan - Avenue des Anciens Combattants;34;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120057;966836;;Leuvensesteenweg - Chaussée de Louvain;873;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620437;967177;;Pierre Dupontgaarde - Clos Pierre Dupont;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4113223;970775;;Constant Permekelaan - Avenue Constant Permeke;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4107173;970669;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;29;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620843;31249593;;Avenue des Loisirs - Vrijetijdslaan;1;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621889;968358;;G. Van Laethemstraat - Rue Guillaume Van Laethem;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623529;969815;;Zeventien Aprilstraat - Rue du Dix-sept Avril;31;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622175;968619;;Sint-Jozefstraat - Rue Saint-Joseph;49;;;;;N;;N;;;;BUILDING template
@@ -167,6 +168,7 @@ EVERE - FH01;1620873;967548;;Leuvensesteenweg - Chaussée de Louvain;875;;;;;N;;N
 EVERE - FH01;1620438;967178;;Pierre Dupontgaarde - Clos Pierre Dupont;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724009;971190;;Constant Permekelaan - Avenue Constant Permeke;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621833;968327;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;30;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620844;31249740;;Avenue des Loisirs - Vrijetijdslaan;3;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621890;968359;;G. Van Laethemstraat - Rue Guillaume Van Laethem;6;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623531;969817;;Zeventien Aprilstraat - Rue du Dix-sept Avril;33;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726077;971334;;Sint-Jozefstraat - Rue Saint-Joseph;51;;;;;N;;N;;;;BUILDING template
@@ -177,6 +179,7 @@ EVERE - FH01;4121356;970979;;Pierre Dupontgaarde - Clos Pierre Dupont;10;;;;;N;;
 EVERE - FH01;724008;971189;;Constant Permekelaan - Avenue Constant Permeke;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724018;971198;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;31;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622159;6195325;Sint-Jozefstraat 15-21-27;Sint-Jozefstraat - Rue Saint-Joseph;27;;C;2019-07-01;2020-02-26;Y;;N;;;;BUILDING template
+EVERE - FH01;1620847;31249745;;Avenue des Loisirs - Vrijetijdslaan;5;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621893;968362;;G. Van Laethemstraat - Rue Guillaume Van Laethem;10;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726084;971341;;Zeventien Aprilstraat - Rue du Dix-sept Avril;35;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726076;971333;;Sint-Jozefstraat - Rue Saint-Joseph;1;;;;;N;;N;;;;BUILDING template
@@ -186,8 +189,9 @@ EVERE - FH01;1298412;966918;;Leuvensesteenweg - Chaussée de Louvain;879;;D;;;N;;
 EVERE - FH01;1620439;967179;;Pierre Dupontgaarde - Clos Pierre Dupont;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4119996;970969;;Constant Permekelaan - Avenue Constant Permeke;13;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;25489;970544;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;32;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
+EVERE - FH01;1620850;31249752;;Avenue des Loisirs - Vrijetijdslaan;7;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621895;968364;;G. Van Laethemstraat - Rue Guillaume Van Laethem;12;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;726187;971377;;V-Daylaan - Avenue du V-Day;2;;A;2019-06-17;2019-06-17;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;726187;971377;;V-Daylaan - Avenue du V-Day;2;;A;2019-06-17;2019-06-17;Y;;N;;;;BUILDING template
 EVERE - FH01;5583242;6639324;;Zeventien Aprilstraat - Rue du Dix-sept Avril;37;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726780;971440;;Leuvensesteenweg - Chaussée de Louvain;803;;XC;2019-10-07;;Y;;Y;;;;BUILDING template
 EVERE - FH01;725251;971230;;Franz Guillaumelaan - Avenue Franz Guillaume;46;;D;;;N;;N;;;;BUILDING template
@@ -195,8 +199,9 @@ EVERE - FH01;1620877;967552;;Leuvensesteenweg - Chaussée de Louvain;881;;;;;N;;N
 EVERE - FH01;1620440;967180;;Pierre Dupontgaarde - Clos Pierre Dupont;12;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622744;969139;;Constant Permekelaan - Avenue Constant Permeke;15;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724019;971199;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;33;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;4110151;31250049;;Avenue des Loisirs - Vrijetijdslaan;9;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621896;968365;;G. Van Laethemstraat - Rue Guillaume Van Laethem;14;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1446973;966982;;V-Daylaan - Avenue du V-Day;4;;A;2019-06-24;2019-06-24;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1446973;966982;;V-Daylaan - Avenue du V-Day;4;;A;2019-06-24;2019-06-24;Y;;N;;;;BUILDING template
 EVERE - FH01;726066;971323;;Jan De Paduwaplaats - Place Jean De Paduwa;1;;C;2019-07-15;2019-11-07;Y;;N;;;;BUILDING template
 EVERE - FH01;1620854;967530;;Leuvensesteenweg - Chaussée de Louvain;801;A;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;4058728;970646;;Leuvensesteenweg - Chaussée de Louvain;883;;D;;;N;;N;;;;BUILDING template
@@ -206,7 +211,7 @@ EVERE - FH01;4108449;970702;;Constant Permekelaan - Avenue Constant Permeke;17;;
 EVERE - FH01;1621834;968328;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;34;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726059;12713232;;Leuvensesteenweg - Chaussée de Louvain;934;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621898;968367;;G. Van Laethemstraat - Rue Guillaume Van Laethem;16;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624254;970403;;V-Daylaan - Avenue du V-Day;10;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1624254;970403;;V-Daylaan - Avenue du V-Day;10;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;1291900;966915;;Jan De Paduwaplaats - Place Jean De Paduwa;2;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620855;967531;;Leuvensesteenweg - Chaussée de Louvain;801;B;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620881;967554;;Leuvensesteenweg - Chaussée de Louvain;885;;D;;;N;;N;;;;BUILDING template
@@ -214,11 +219,11 @@ EVERE - FH01;5046162;6195322;;Zaventemstraat - Rue de Zaventem;3;;;;;N;;N;;;;BUI
 EVERE - FH01;1620442;967182;;Pierre Dupontgaarde - Clos Pierre Dupont;14;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622745;969140;;Constant Permekelaan - Avenue Constant Permeke;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621835;968329;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;35;;;;;;;N;;;;BUILDING template
-EVERE - FH01;5483807;12495021;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Leuvensesteenweg - Chaussée de Louvain;913;B;C;2019-10-01;2019-10-01;;;Y;2019-11-07;;;BUILDING template
+EVERE - FH01;5483807;12495021;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Leuvensesteenweg - Chaussée de Louvain;913;B;C;2019-10-01;2019-10-01;;;N;;;;BUILDING template
 EVERE - FH01;726271;971393;;G. Van Laethemstraat - Rue Guillaume Van Laethem;18;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624256;970405;;V-Daylaan - Avenue du V-Day;12;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1624256;970405;;V-Daylaan - Avenue du V-Day;12;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;1622800;969185;;Jan De Paduwaplaats - Place Jean De Paduwa;3;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;726864;971464;;"Optimismelaan - Avenue de l&apos;Optimisme";13;;C;2020-02-14;2020-02-28;Y;;Y;2020-03-05;;;BUILDING template
+EVERE - FH01;726864;971464;;Optimismelaan - Avenue de l'Optimisme;13;;C;2020-02-14;2020-02-28;Y;;N;;;;BUILDING template
 EVERE - FH01;1620887;967560;;Leuvensesteenweg - Chaussée de Louvain;899;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;5046163;6195323;;Zaventemstraat - Rue de Zaventem;5;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624304;970422;;Pieter Dupontstraat - Rue Pierre Dupont;167;;;;;N;;N;;;;BUILDING template
@@ -226,53 +231,53 @@ EVERE - FH01;1622746;969141;;Constant Permekelaan - Avenue Constant Permeke;21;;
 EVERE - FH01;724021;971201;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;36;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624007;10467174;;Avenue des Anciens Combattants - Oud-Strijderslaan;350;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1533743;967043;;G. Van Laethemstraat - Rue Guillaume Van Laethem;20;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624258;970407;;V-Daylaan - Avenue du V-Day;14;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1624258;970407;;V-Daylaan - Avenue du V-Day;14;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;1621996;968458;;G. De Lombaerdestraat - Rue Georges De Lombaerde;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622801;969186;;Jan De Paduwaplaats - Place Jean De Paduwa;4;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621086;5620857;Optimismelaan 1-3-5;"Avenue de l&apos;Optimisme - Optimismelaan";1;;C;2020-01-13;2020-02-17;Y;;N;;;;BUILDING template
-EVERE - FH01;1621097;967719;;"Optimismelaan - Avenue de l&apos;Optimisme";15;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1621086;5620857;Optimismelaan 1-3-5;Avenue de l'Optimisme - Optimismelaan;1;;C;2020-01-13;2020-02-17;Y;;N;;;;BUILDING template
+EVERE - FH01;1621097;967719;;Optimismelaan - Avenue de l'Optimisme;15;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620889;967562;;Leuvensesteenweg - Chaussée de Louvain;901;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;6028590;6195324;;Zaventemstraat - Rue de Zaventem;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624305;970423;;Pieter Dupontstraat - Rue Pierre Dupont;180;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;3955146;970606;;Constant Permekelaan - Avenue Constant Permeke;23;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724020;971200;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;37;;C;2019-10-16;2019-11-21;Y;;N;;;;BUILDING template
-EVERE - FH01;1620899;12495001;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Leuvensesteenweg - Chaussée de Louvain;913;A;C;2019-10-01;2019-10-01;Y;;Y;2019-11-07;;;BUILDING template
+EVERE - FH01;1620899;12495001;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Leuvensesteenweg - Chaussée de Louvain;913;A;C;2019-10-01;2019-10-01;Y;;Y;2019-11-13;;;BUILDING template
 EVERE - FH01;726260;971387;;G. Van Laethemstraat - Rue Guillaume Van Laethem;22;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624260;970409;;V-Daylaan - Avenue du V-Day;16;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1624260;970409;;V-Daylaan - Avenue du V-Day;16;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;1621998;968460;;G. De Lombaerdestraat - Rue Georges De Lombaerde;6;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622802;969187;;Jan De Paduwaplaats - Place Jean De Paduwa;5;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;726865;971465;;"Optimismelaan - Avenue de l&apos;Optimisme";19;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;726865;971465;;Optimismelaan - Avenue de l'Optimisme;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620890;967563;;Leuvensesteenweg - Chaussée de Louvain;903;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120015;966807;;Artemislaan - Avenue Artemis;1;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624306;970424;;Pieter Dupontstraat - Rue Pierre Dupont;182;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622747;969142;;Constant Permekelaan - Avenue Constant Permeke;25;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724022;971202;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;38;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4107019;10466684;;Oud-Strijderslaan - Avenue des Anciens Combattants;198;;;;;;;N;;;;BUILDING template
-EVERE - FH01;1624267;12804380;;V-Daylaan - Avenue du V-Day;26;;C;2019-09-19;2019-10-02;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;1624267;12804380;;V-Daylaan - Avenue du V-Day;26;;C;2019-09-19;2019-10-02;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;726273;971395;;G. Van Laethemstraat - Rue Guillaume Van Laethem;24;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624262;970411;;V-Daylaan - Avenue du V-Day;18;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1624262;970411;;V-Daylaan - Avenue du V-Day;18;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;4114719;970811;;G. De Lombaerdestraat - Rue Georges De Lombaerde;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726067;971324;;Jan De Paduwaplaats - Place Jean De Paduwa;6;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;726863;971463;;"Optimismelaan - Avenue de l&apos;Optimisme";21;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;726863;971463;;Optimismelaan - Avenue de l'Optimisme;21;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120020;966812;;Artemislaan - Avenue Artemis;2;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624307;970425;;Pieter Dupontstraat - Rue Pierre Dupont;184;;C;2019-12-13;2020-01-06;Y;;Y;2020-02-19;;;BUILDING template
+EVERE - FH01;1624307;970425;;Pieter Dupontstraat - Rue Pierre Dupont;184;;C;2019-12-13;2020-01-06;Y;;N;;;;BUILDING template
 EVERE - FH01;724007;971188;;Constant Permekelaan - Avenue Constant Permeke;27;;C;2019-09-30;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;1621836;968330;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;39;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621902;968371;;G. Van Laethemstraat - Rue Guillaume Van Laethem;26;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624263;970412;V-Daylaan 20-20A;V-Daylaan - Avenue du V-Day;20;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1624263;970412;V-Daylaan 20-20A;V-Daylaan - Avenue du V-Day;20;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;1622001;968463;;G. De Lombaerdestraat - Rue Georges De Lombaerde;10;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726065;971322;;Leuvensesteenweg - Chaussée de Louvain;874;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;726860;971460;;"Optimismelaan - Avenue de l&apos;Optimisme";23;;XC;;;Y;;Y;;;;BUILDING template
+EVERE - FH01;726860;971460;;Optimismelaan - Avenue de l'Optimisme;23;;XC;;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1120019;966811;;Artemislaan - Avenue Artemis;3;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624308;970426;;Pieter Dupontstraat - Rue Pierre Dupont;186;;XC;2019-10-01;;Y;;Y;;;;BUILDING template
 EVERE - FH01;724006;971187;;Constant Permekelaan - Avenue Constant Permeke;29;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;3916120;970588;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;40;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4118426;10467766;;Avenue des Anciens Combattants - Oud-Strijderslaan;220;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621904;968373;;G. Van Laethemstraat - Rue Guillaume Van Laethem;28;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624265;970413;V-Daylaan 22-22A;V-Daylaan - Avenue du V-Day;22;;C;2019-10-15;2019-10-15;Y;;Y;2019-06-12;;;BUILDING template
+EVERE - FH01;1624265;970413;V-Daylaan 22-22A;V-Daylaan - Avenue du V-Day;22;;C;2019-10-15;2019-10-15;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;1622002;968464;;G. De Lombaerdestraat - Rue Georges De Lombaerde;12;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620874;967549;;Leuvensesteenweg - Chaussée de Louvain;876;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;726859;971459;;"Optimismelaan - Avenue de l&apos;Optimisme";27;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;726859;971459;;Optimismelaan - Avenue de l'Optimisme;27;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620451;967191;;Artemislaan - Avenue Artemis;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624309;970427;;Pieter Dupontstraat - Rue Pierre Dupont;188;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622748;969143;;Constant Permekelaan - Avenue Constant Permeke;31;;;;;N;;N;;;;BUILDING template
@@ -281,7 +286,7 @@ EVERE - FH01;1120055;11471528;Leuvensesteenweg 833-835;Leuvensesteenweg - Chauss
 EVERE - FH01;1621906;968375;;G. Van Laethemstraat - Rue Guillaume Van Laethem;30;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622004;968465;;G. De Lombaerdestraat - Rue Georges De Lombaerde;14;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620875;967550;;Leuvensesteenweg - Chaussée de Louvain;878;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621103;967723;;"Optimismelaan - Avenue de l&apos;Optimisme";29;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1621103;967723;;Optimismelaan - Avenue de l'Optimisme;29;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620452;967192;;Artemislaan - Avenue Artemis;5;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624310;970428;;Pieter Dupontstraat - Rue Pierre Dupont;190;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622749;969144;;Constant Permekelaan - Avenue Constant Permeke;33;;;;;N;;N;;;;BUILDING template
@@ -289,21 +294,21 @@ EVERE - FH01;1621838;968332;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;42;;
 EVERE - FH01;584103;10466873;;Oud-Strijderslaan - Avenue des Anciens Combattants;250;;;;;;;N;;;;BUILDING template
 EVERE - FH01;726281;971400;;G. Van Laethemstraat - Rue Guillaume Van Laethem;32;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726184;971374;;V-Daylaan - Avenue du V-Day;30;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1347029;966961;Kolonel Bourgstraat 164-166-168;Kolonel Bourgstraat - Rue Colonel Bourg;164;;C;2019-09-30;2019-11-27;Y;;Y;2019-11-28;;;BUILDING template
+EVERE - FH01;1347029;966961;Kolonel Bourgstraat 164-166-168;Kolonel Bourgstraat - Rue Colonel Bourg;164;;C;2019-09-30;2019-11-27;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1622005;968466;;G. De Lombaerdestraat - Rue Georges De Lombaerde;16;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620876;967551;;Leuvensesteenweg - Chaussée de Louvain;880;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;726861;971461;;"Optimismelaan - Avenue de l&apos;Optimisme";31;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;23413;5620899;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;25;;A;2018-09-27;2020-01-22;Y;;Y;2019-11-26;;;BUILDING template
+EVERE - FH01;726861;971461;;Optimismelaan - Avenue de l'Optimisme;31;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;23413;5620899;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;25;;A;2018-09-27;2020-01-22;Y;;Y;2019-12-03;;;BUILDING template
 EVERE - FH01;1620453;967193;;Artemislaan - Avenue Artemis;6;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624311;970429;;Pieter Dupontstraat - Rue Pierre Dupont;192;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4109339;970715;;Constant Permekelaan - Avenue Constant Permeke;35;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4120061;970977;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;43;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726282;971401;;G. Van Laethemstraat - Rue Guillaume Van Laethem;34;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624264;6639323;V-Daylaan 20-20A;V-Daylaan - Avenue du V-Day;20;A;D;;;;;N;;;;BUILDING template
-EVERE - FH01;1623653;969907;;Kolonel Bourgstraat - Rue Colonel Bourg;174;;C;2019-09-30;2019-10-04;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;1623653;969907;;Kolonel Bourgstraat - Rue Colonel Bourg;174;;C;2019-09-30;2019-10-04;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;1622007;968468;;G. De Lombaerdestraat - Rue Georges De Lombaerde;18;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620878;967553;;Leuvensesteenweg - Chaussée de Louvain;882;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;726862;971462;;"Optimismelaan - Avenue de l&apos;Optimisme";33;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;726862;971462;;Optimismelaan - Avenue de l'Optimisme;33;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620454;967194;;Artemislaan - Avenue Artemis;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624312;970430;;Pieter Dupontstraat - Rue Pierre Dupont;194;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622751;969146;;Constant Permekelaan - Avenue Constant Permeke;37;;;;;N;;N;;;;BUILDING template
@@ -317,16 +322,16 @@ EVERE - FH01;4119477;970880;;Artemislaan - Avenue Artemis;8;;;;;N;;N;;;;BUILDING
 EVERE - FH01;1624313;970431;;Pieter Dupontstraat - Rue Pierre Dupont;196;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622752;969147;;Constant Permekelaan - Avenue Constant Permeke;39;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;724023;971203;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;45;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621090;12497551;Optimismelaan 1-3-5;"Optimismelaan - Avenue de l&apos;Optimisme";3;;C;2020-01-13;2020-02-17;Y;;N;;;;BUILDING template
+EVERE - FH01;1621090;12497551;Optimismelaan 1-3-5;Optimismelaan - Avenue de l'Optimisme;3;;C;2020-01-13;2020-02-17;Y;;N;;;;BUILDING template
 EVERE - FH01;1621910;968379;;G. Van Laethemstraat - Rue Guillaume Van Laethem;38;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5815571;6195231;;Bouwgezellenerf - Clos des Compagnons Bâtisseurs;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623654;969908;;Kolonel Bourgstraat - Rue Colonel Bourg;180;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622010;968471;;G. De Lombaerdestraat - Rue Georges De Lombaerde;26;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620455;967195;;Artemislaan - Avenue Artemis;9;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624314;970432;Pieter Dupontstraat 198-200;Pieter Dupontstraat - Rue Pierre Dupont;198;;A;2019-12-13;2020-01-29;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1624314;970432;Pieter Dupontstraat 198-200;Pieter Dupontstraat - Rue Pierre Dupont;198;;A;2019-12-13;2020-01-29;Y;;N;;;;BUILDING template
 EVERE - FH01;1622753;969148;;Constant Permekelaan - Avenue Constant Permeke;41;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623606;969884;;Jules Bordetlaan - Avenue Jules Bordet;40;;;;;;;N;;;;BUILDING template
-EVERE - FH01;1621092;12497557;Optimismelaan 1-3-5;"Optimismelaan - Avenue de l&apos;Optimisme";5;;C;2020-01-13;2020-02-17;Y;;N;;;;BUILDING template
+EVERE - FH01;1621092;12497557;Optimismelaan 1-3-5;Optimismelaan - Avenue de l'Optimisme;5;;C;2020-01-13;2020-02-17;Y;;N;;;;BUILDING template
 EVERE - FH01;1621912;968381;;G. Van Laethemstraat - Rue Guillaume Van Laethem;40;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5815570;6195232;;Bouwgezellenerf - Clos des Compagnons Bâtisseurs;6;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726586;971418;;Kolonel Bourgstraat - Rue Colonel Bourg;182;;;;;N;;N;;;;BUILDING template
@@ -341,7 +346,7 @@ EVERE - FH01;1620457;967197;;Artemislaan - Avenue Artemis;11;;;;;N;;N;;;;BUILDIN
 EVERE - FH01;4115060;970842;;Constant Permekelaan - Avenue Constant Permeke;45;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726286;971405;;Hugo Verrieststraat - Rue Hugo Verriest;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5819027;6195234;;Bouwgezellenerf - Clos des Compagnons Bâtisseurs;10;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620969;967607;;Maquisstraat - Rue du Maquis;3;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620969;967607;;Maquisstraat - Rue du Maquis;3;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;3916123;970589;;G. De Lombaerdestraat - Rue Georges De Lombaerde;48;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620458;967198;;Artemislaan - Avenue Artemis;12;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622754;969149;;Constant Permekelaan - Avenue Constant Permeke;47;;;;;N;;N;;;;BUILDING template
@@ -412,36 +417,36 @@ EVERE - FH01;1620990;967628;;Maquisstraat - Rue du Maquis;25;;;;;N;;N;;;;BUILDIN
 EVERE - FH01;1325305;966946;;G. Van Laethemstraat - Rue Guillaume Van Laethem;5;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623871;970098;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;149;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120018;966810;;Artemislaan - Avenue Artemis;31;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;6034050;10561137;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;13;;XA;2019-11-03;;N;;Y;;;;BUILDING template
+EVERE - FH01;6034050;10561137;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;13;;XA;;;N;;Y;;;;BUILDING template
 EVERE - FH01;4119533;970885;;Maquisstraat - Rue du Maquis;92;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620992;967630;;Maquisstraat - Rue du Maquis;27;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621891;968360;;G. Van Laethemstraat - Rue Guillaume Van Laethem;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903902;10300619;;Leemputgaarde - Clos de la Glaisière;6;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1120021;966813;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;151;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120028;5620832;Henry Dunantlaan 52-54;Avenue Henry Dunant - Henry Dunantlaan;52;;A;2020-01-17;2020-01-21;Y;;N;;;;BUILDING template
-EVERE - FH01;756584;6639303;Henry Dunantlaan 15-17;Avenue Henry Dunant;15;;A;2019-11-03;2019-12-16;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;756584;6639303;Henry Dunantlaan 15-17;Avenue Henry Dunant;15;;A;2019-11-03;2019-12-16;Y;;N;;;;BUILDING template
 EVERE - FH01;1621034;967671;;Maquisstraat - Rue du Maquis;94;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621004;967642;;Maquisstraat - Rue du Maquis;55;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621892;968361;;G. Van Laethemstraat - Rue Guillaume Van Laethem;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903905;10300620;;Leemputgaarde - Clos de la Glaisière;8;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1120013;5620828;;Rue de Zaventem - Zaventemstraat;22;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;756583;5620988;Henry Dunantlaan 11-13;Avenue Henry Dunant - Henry Dunantlaan;11;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
-EVERE - FH01;5926158;10561143;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;15;;XA;2019-11-03;;N;;Y;;;;BUILDING template
+EVERE - FH01;5926158;10561143;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;15;;XA;;;N;;Y;;;;BUILDING template
 EVERE - FH01;726095;971352;;Maquisstraat - Rue du Maquis;96;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621006;967644;;Maquisstraat - Rue du Maquis;57;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621894;968363;;G. Van Laethemstraat - Rue Guillaume Van Laethem;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903903;10300621;;Leemputgaarde - Clos de la Glaisière;10;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621549;968081;;Zaventemstraat - Rue de Zaventem;24;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5583274;5620964;Henry Dunantlaan 23-25;Avenue Henry Dunant - Henry Dunantlaan;25;;A;2019-12-13;2020-01-30;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;5583274;5620964;Henry Dunantlaan 23-25;Avenue Henry Dunant - Henry Dunantlaan;25;;A;2019-12-13;2020-01-30;Y;;N;;;;BUILDING template
 EVERE - FH01;722673;971156;;Fernand Légerstraat - Rue Fernand Léger;52;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726267;971390;;Maquisstraat - Rue du Maquis;96;A;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621007;967645;;Maquisstraat - Rue du Maquis;59;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621897;968366;;G. Van Laethemstraat - Rue Guillaume Van Laethem;15;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903906;10300622;;Leemputgaarde - Clos de la Glaisière;12;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621550;968082;;Zaventemstraat - Rue de Zaventem;26;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;756475;5620987;;Avenue des Anciens Combattants - Oud-Strijderslaan;92;;C;2019-09-30;2019-10-18;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;756475;5620987;;Avenue des Anciens Combattants - Oud-Strijderslaan;92;;C;2019-09-30;2019-10-18;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;722674;971157;;Fernand Légerstraat - Rue Fernand Léger;54;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;25447;5620902;Leon Grosjeanlaan 73-75;Avenue Léon Grosjean - Léon Grosjeanlaan;73;;A;2019-06-28;2022-01-01;Y;;Y;2019-06-12;;;BUILDING template
+EVERE - FH01;25447;5620902;Leon Grosjeanlaan 73-75;Avenue Léon Grosjean - Léon Grosjeanlaan;73;;A;2019-06-28;;Y;;Y;2020-02-04;;;BUILDING template
 EVERE - FH01;1621009;967647;;Maquisstraat - Rue du Maquis;61;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726270;971392;;G. Van Laethemstraat - Rue Guillaume Van Laethem;17;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903901;10300623;;Leemputgaarde - Clos de la Glaisière;14;;;;;;;N;;;;BUILDING template
@@ -452,43 +457,43 @@ EVERE - FH01;726175;971365;;Hugo Verrieststraat - Rue Hugo Verriest;48;;;;;N;;N;
 EVERE - FH01;1621010;967648;;Maquisstraat - Rue du Maquis;63;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621899;968368;;G. Van Laethemstraat - Rue Guillaume Van Laethem;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621551;968083;;Zaventemstraat - Rue de Zaventem;30;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;4114649;970795;;"Eenboomstraat - Rue de l&apos;Arbre Unique";132;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;4114649;970795;;Eenboomstraat - Rue de l'Arbre Unique;132;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621886;968355;;Fernand Légerstraat - Rue Fernand Léger;58;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726173;971363;;Hugo Verrieststraat - Rue Hugo Verriest;50;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621011;967649;;Maquisstraat - Rue du Maquis;65;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621900;968369;;G. Van Laethemstraat - Rue Guillaume Van Laethem;21;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903907;10300624;;Leemputgaarde - Clos de la Glaisière;16;;;;;;;N;;;;BUILDING template
 EVERE - FH01;3918848;970600;;Zaventemstraat - Rue de Zaventem;32;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623662;969914;;"Eenboomstraat - Rue de l&apos;Arbre Unique";134;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1623662;969914;;Eenboomstraat - Rue de l'Arbre Unique;134;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621887;968356;;Fernand Légerstraat - Rue Fernand Léger;60;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726172;971362;;Hugo Verrieststraat - Rue Hugo Verriest;52;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;46315;970986;;Maquisstraat - Rue du Maquis;67;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726255;971382;;G. Van Laethemstraat - Rue Guillaume Van Laethem;23;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903908;10300705;;Leemputgaarde - Clos de la Glaisière;18;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621552;968084;;Zaventemstraat - Rue de Zaventem;34;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;4111354;970748;;"Eenboomstraat - Rue de l&apos;Arbre Unique";142;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;4111354;970748;;Eenboomstraat - Rue de l'Arbre Unique;142;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621888;968357;;Fernand Légerstraat - Rue Fernand Léger;62;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621743;968253;;Hugo Verrieststraat - Rue Hugo Verriest;54;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621014;967652;;Maquisstraat - Rue du Maquis;69;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621901;968370;;G. Van Laethemstraat - Rue Guillaume Van Laethem;25;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903909;10300709;;Leemputgaarde - Clos de la Glaisière;20;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1120014;966806;;Zaventemstraat - Rue de Zaventem;38;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;731603;971525;;"Eenboomstraat - Rue de l&apos;Arbre Unique";144;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;731603;971525;;Eenboomstraat - Rue de l'Arbre Unique;144;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;723895;971184;;Maurice Utrillostraat - Rue Maurice Utrillo;1;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1505809;967024;;Maquisstraat - Rue du Maquis;71;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621903;968372;;G. Van Laethemstraat - Rue Guillaume Van Laethem;27;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903910;10300711;;Leemputgaarde - Clos de la Glaisière;22;;;;;;;N;;;;BUILDING template
-EVERE - FH01;1120035;5620835;;Avenue Henry Dunant - Henry Dunantlaan;78;;A;2019-11-03;2019-12-16;Y;;Y;2020-02-05;;;BUILDING template
+EVERE - FH01;1120035;5620835;;Avenue Henry Dunant - Henry Dunantlaan;78;;A;2019-11-03;2019-12-16;Y;;N;;;;BUILDING template
 EVERE - FH01;5583271;971050;Henry Dunantlaan 11-13;Henry Dunantlaan - Avenue Henry Dunant;13;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1623215;969540;;Maurice Utrillostraat - Rue Maurice Utrillo;3;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621016;967654;;Maquisstraat - Rue du Maquis;73;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621905;968374;;G. Van Laethemstraat - Rue Guillaume Van Laethem;29;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5903911;10300714;;Leemputgaarde - Clos de la Glaisière;24;;;;;;;N;;;;BUILDING template
-EVERE - FH01;1120036;5620836;;Avenue Henry Dunant - Henry Dunantlaan;80;;A;2019-11-03;2019-12-16;Y;;Y;2020-02-05;;;BUILDING template
+EVERE - FH01;1120036;5620836;;Avenue Henry Dunant - Henry Dunantlaan;80;;A;2019-11-03;2019-12-16;Y;;N;;;;BUILDING template
 EVERE - FH01;4120037;970974;;Maurice Utrillostraat - Rue Maurice Utrillo;5;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621019;967656;;Maquisstraat - Rue du Maquis;75;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621907;968376;;G. Van Laethemstraat - Rue Guillaume Van Laethem;31;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120037;5620837;;Avenue Henry Dunant - Henry Dunantlaan;82;;A;2019-11-03;2019-12-16;Y;;Y;2020-02-05;;;BUILDING template
+EVERE - FH01;1120037;5620837;;Avenue Henry Dunant - Henry Dunantlaan;82;;A;2019-11-03;2019-12-16;Y;;N;;;;BUILDING template
 EVERE - FH01;1623216;969541;;Maurice Utrillostraat - Rue Maurice Utrillo;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621020;967657;;Maquisstraat - Rue du Maquis;77;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726256;971383;;G. Van Laethemstraat - Rue Guillaume Van Laethem;33;;;;;N;;N;;;;BUILDING template
@@ -539,7 +544,7 @@ EVERE - FH01;46316;970987;;Maquisstraat - Rue du Maquis;95;A;;;;;;N;;;;BUILDING 
 EVERE - FH01;4114803;970824;;G. Van Laethemstraat - Rue Guillaume Van Laethem;53;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621751;968259;;Paul Gauguinstraat - Rue Paul Gauguin;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623609;969887;;Jules Bordetlaan - Avenue Jules Bordet;52;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623652;6639310;Kolonel Bourgstraat 164-166-168;Rue Colonel Bourg;166;;C;2019-09-30;2019-11-27;Y;;Y;2019-11-28;;;BUILDING template
+EVERE - FH01;1623652;6639310;Kolonel Bourgstraat 164-166-168;Rue Colonel Bourg;166;;C;2019-09-30;2019-11-27;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1621916;968385;;G. Van Laethemstraat - Rue Guillaume Van Laethem;55;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4120035;970973;;Paul Gauguinstraat - Rue Paul Gauguin;10;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623610;969888;;Jules Bordetlaan - Avenue Jules Bordet;54;;D;;;N;;N;;;;BUILDING template
@@ -565,24 +570,24 @@ EVERE - FH01;1620920;12073577;;Leuvensesteenweg - Chaussée de Louvain;949;;;;;;;
 EVERE - FH01;1621921;968390;;G. Van Laethemstraat - Rue Guillaume Van Laethem;71;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;4115043;970841;;Paul Gauguinstraat - Rue Paul Gauguin;18;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621922;968391;;G. Van Laethemstraat - Rue Guillaume Van Laethem;73;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5862169;7462377;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;11;;XA;2020-01-17;;Y;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;5862169;7462377;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;11;;XA;2020-01-17;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1621753;968261;;Paul Gauguinstraat - Rue Paul Gauguin;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621923;968392;;G. Van Laethemstraat - Rue Guillaume Van Laethem;75;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5866850;7462378;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;13;;XA;2020-01-17;;Y;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;5866850;7462378;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;13;;XA;2020-01-17;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1621754;968262;;Paul Gauguinstraat - Rue Paul Gauguin;20;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726279;971398;;G. Van Laethemstraat - Rue Guillaume Van Laethem;77;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5856588;7462379;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;15;;XA;2019-11-08;;Y;;Y;2019-06-26;;;BUILDING template
-EVERE - FH01;1120076;966851;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;104;;A;2019-12-13;2020-02-27;Y;;Y;2020-03-05;;;BUILDING template
+EVERE - FH01;5856588;7462379;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;15;;XA;2019-11-08;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1120076;966851;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;104;;A;2019-12-13;2020-02-27;Y;;N;;;;BUILDING template
 EVERE - FH01;1621755;968263;;Paul Gauguinstraat - Rue Paul Gauguin;21;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726258;971385;;G. Van Laethemstraat - Rue Guillaume Van Laethem;45;A;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120077;966852;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;106;;XA;2019-12-13;;Y;;Y;2019-06-27;;;BUILDING template
+EVERE - FH01;1120077;966852;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;106;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1621756;968264;;Paul Gauguinstraat - Rue Paul Gauguin;22;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621719;968229;;Hugo Verrieststraat - Rue Hugo Verriest;1;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5946627;7462381;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;19;;XA;2019-11-08;;N;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;5946627;7462381;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;19;;XA;;;N;;Y;;;;BUILDING template
 EVERE - FH01;1623863;6195204;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;114;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;723884;971174;;Paul Gauguinstraat - Rue Paul Gauguin;23;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621720;968230;;Hugo Verrieststraat - Rue Hugo Verriest;3;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5921614;7462382;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;21;;XA;2019-11-03;;Y;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;5921614;7462382;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;21;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
 EVERE - FH01;5046523;6195277;Kerkhof van Brussellaan 128-130;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;128;;XA;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;723892;971181;;Paul Gauguinstraat - Rue Paul Gauguin;24;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621722;968232;;Hugo Verrieststraat - Rue Hugo Verriest;5;;;;;N;;N;;;;BUILDING template
@@ -590,7 +595,7 @@ EVERE - FH01;5046524;6195280;Kerkhof van Brussellaan 128-130;Kerkhof van Brussel
 EVERE - FH01;723883;971173;;René Magrittestraat - Rue René Magritte;1;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621724;968234;;Hugo Verrieststraat - Rue Hugo Verriest;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620997;967635;;Maquisstraat - Rue du Maquis;38;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;584106;27663652;;Oud-Strijderslaan;135;;;;;;;N;;;;BUILDING template
+EVERE - FH01;584106;27663652;Olympiadenlaan 10_Oud-Strijderslaan 135;Oud-Strijderslaan;135;;;;;;;N;;;;BUILDING template
 EVERE - FH01;5046525;6195283;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;132;;XA;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;723874;971164;;René Magrittestraat - Rue René Magritte;2;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621726;968236;;Hugo Verrieststraat - Rue Hugo Verriest;9;;D;;;N;;N;;;;BUILDING template
@@ -601,7 +606,7 @@ EVERE - FH01;4108097;970690;;René Magrittestraat - Rue René Magritte;3;;;;;N;;N;
 EVERE - FH01;1621728;968238;;Hugo Verrieststraat - Rue Hugo Verriest;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;46319;970990;;Maquisstraat - Rue du Maquis;42;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620951;10492704;;Leuvensesteenweg - Chaussée de Louvain;1024;;;;;;;N;;;;BUILDING template
-EVERE - FH01;1623865;970093;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;136;;XC;2019-10-15;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1623865;970093;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;136;;XC;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1622678;969078;;René Magrittestraat - Rue René Magritte;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621730;968240;;Hugo Verrieststraat - Rue Hugo Verriest;13;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;46318;970989;;Maquisstraat - Rue du Maquis;44;;;;;N;;N;;;;BUILDING template
@@ -632,11 +637,11 @@ EVERE - FH01;723876;971166;;René Magrittestraat - Rue René Magritte;12;;;;;N;;N;
 EVERE - FH01;1621736;968246;;Hugo Verrieststraat - Rue Hugo Verriest;34;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622809;969194;;Jan De Paduwaplaats - Place Jean De Paduwa;16;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621008;967646;;Maquisstraat - Rue du Maquis;60;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621795;968299;;Franz Guillaumelaan - Avenue Franz Guillaume;33;;A;2019-09-30;2020-02-26;Y;;Y;2020-03-05;;;BUILDING template
+EVERE - FH01;1621795;968299;;Franz Guillaumelaan - Avenue Franz Guillaume;33;;A;2019-09-30;2020-02-26;Y;;N;;;;BUILDING template
 EVERE - FH01;723880;971170;;René Magrittestraat - Rue René Magritte;13;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4108148;970692;;Hugo Verrieststraat - Rue Hugo Verriest;36;;;;;;;N;;;;BUILDING template
 EVERE - FH01;4113709;970782;;Maquisstraat - Rue du Maquis;62;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;725254;971233;;Franz Guillaumelaan - Avenue Franz Guillaume;35;;XA;2019-12-13;;Y;;Y;2019-07-05;;;BUILDING template
+EVERE - FH01;725254;971233;;Franz Guillaumelaan - Avenue Franz Guillaume;35;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;723875;971165;;René Magrittestraat - Rue René Magritte;14;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621739;968249;;Hugo Verrieststraat - Rue Hugo Verriest;38;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4114707;970807;;Maquisstraat - Rue du Maquis;64;;;;;N;;N;;;;BUILDING template
@@ -648,15 +653,15 @@ EVERE - FH01;5583275;6195200;Henry Dunantlaan 52-54;Henry Dunantlaan - Avenue He
 EVERE - FH01;723877;971167;;René Magrittestraat - Rue René Magritte;16;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726182;971372;;Léon Grosjeanlaan - Avenue Léon Grosjean;61;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621013;967651;;Maquisstraat - Rue du Maquis;68;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1220676;966901;Rue Fernand Leger 40-40A;Fernand Légerstraat - Rue Fernand Léger;40;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1220676;966901;Rue Fernand Leger 40-40A;Fernand Légerstraat - Rue Fernand Léger;40;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;4108046;970689;;René Magrittestraat - Rue René Magritte;17;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621773;968281;;Léon Grosjeanlaan - Avenue Léon Grosjean;63;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621015;967653;;Maquisstraat - Rue du Maquis;70;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;722648;971143;Rue Fernand Leger 42-42A;Fernand Légerstraat - Rue Fernand Léger;42;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;722648;971143;Rue Fernand Leger 42-42A;Fernand Légerstraat - Rue Fernand Léger;42;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1622685;969085;;René Magrittestraat - Rue René Magritte;18;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621774;968282;;Léon Grosjeanlaan - Avenue Léon Grosjean;65;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;46317;970988;;Maquisstraat - Rue du Maquis;72;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1321439;966929;Rue Fernand Leger 44-44A;Fernand Légerstraat - Rue Fernand Léger;44;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1321439;966929;Rue Fernand Leger 44-44A;Fernand Légerstraat - Rue Fernand Léger;44;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1622686;969086;;René Magrittestraat - Rue René Magritte;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621775;968283;;Léon Grosjeanlaan - Avenue Léon Grosjean;67;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621017;967655;;Maquisstraat - Rue du Maquis;74;;;;;;;N;;;;BUILDING template
@@ -680,20 +685,20 @@ EVERE - FH01;723878;971168;;René Magrittestraat - Rue René Magritte;24;;;;;N;;N;
 EVERE - FH01;1621041;967677;;Maquisstraat - Rue du Maquis;103;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726283;971402;;Jan De Paduwaplaats - Place Jean De Paduwa;20;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620903;967572;;Leuvensesteenweg - Chaussée de Louvain;919;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620301;14129653;Auguste Renoirstraat 3-3A;Auguste Renoirstraat - Rue Auguste Renoir;3;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1620301;14129653;Auguste Renoirstraat 3-3A;Auguste Renoirstraat - Rue Auguste Renoir;3;A;A;2019-10-16;2019-11-06;;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1621043;967679;;Maquisstraat - Rue du Maquis;105;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5045908;5620919;G. De Lombaerdestraat 45-49-51;Rue Georges De Lombaerde - G. De Lombaerdestraat;49;;XC;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;726069;971326;;Hugo Verrieststraat - Rue Hugo Verriest;2;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620906;967575;;Leuvensesteenweg - Chaussée de Louvain;923;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620303;14129716;Auguste Renoirstraat 5-5A;Auguste Renoirstraat - Rue Auguste Renoir;5;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1620303;14129716;Auguste Renoirstraat 5-5A;Auguste Renoirstraat - Rue Auguste Renoir;5;A;A;2019-10-16;2019-11-06;;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1621045;967681;;Maquisstraat - Rue du Maquis;107;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621721;968231;;Hugo Verrieststraat - Rue Hugo Verriest;4;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620909;967578;;Leuvensesteenweg - Chaussée de Louvain;927;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;6151457;14129689;Edgar Degas straat 4-4A;Edgar Degas straat - Rue Edgard Degas;4;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1620909;967578;;Leuvensesteenweg - Chaussée de Louvain;927;;D;;;Y;;N;;;;BUILDING template
+EVERE - FH01;6151457;14129689;Edgar Degas straat 4-4A;Edgar Degas straat - Rue Edgard Degas;4;A;A;2020-10-16;2020-11-06;;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1621046;967682;;Maquisstraat - Rue du Maquis;109;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621723;968233;;Hugo Verrieststraat - Rue Hugo Verriest;6;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620911;967580;;Leuvensesteenweg - Chaussée de Louvain;929;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;6345411;14129706;Edgar Degas straat 6-6A;Edgar Degas straat - Rue Edgard Degas;6;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;6345411;14129706;Edgar Degas straat 6-6A;Edgar Degas straat - Rue Edgard Degas;6;A;A;2020-10-16;2020-11-06;;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1621047;967683;;Maquisstraat - Rue du Maquis;111;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621725;968235;;Hugo Verrieststraat - Rue Hugo Verriest;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620913;967581;;Leuvensesteenweg - Chaussée de Louvain;931;;D;;;N;;N;;;;BUILDING template
@@ -714,9 +719,9 @@ EVERE - FH01;725364;971240;;Oud-Strijderslaan - Avenue des Anciens Combattants;3
 EVERE - FH01;1620918;967585;;Leuvensesteenweg - Chaussée de Louvain;943;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621055;967691;;Maquisstraat - Rue du Maquis;121;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622803;969188;;Jan De Paduwaplaats - Place Jean De Paduwa;8;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623964;970165;;Oud-Strijderslaan - Avenue des Anciens Combattants;50;;C;2019-09-30;2019-11-07;Y;;Y;2020-03-05;;;BUILDING template
+EVERE - FH01;1623964;970165;;Oud-Strijderslaan - Avenue des Anciens Combattants;50;;C;2019-09-30;2019-11-07;Y;;N;;;;BUILDING template
 EVERE - FH01;1120062;966839;;Leuvensesteenweg - Chaussée de Louvain;945;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;6596261;13893471;;Edgar Degas straat - Rue Edgard Degas;1;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;6596261;13893471;;Edgar Degas straat - Rue Edgard Degas;1;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1621057;967693;;Maquisstraat - Rue du Maquis;123;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622804;969189;;Jan De Paduwaplaats - Place Jean De Paduwa;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623968;970169;;Oud-Strijderslaan - Avenue des Anciens Combattants;54;;D;;;N;;N;;;;BUILDING template
@@ -730,7 +735,7 @@ EVERE - FH01;1621060;967696;;Maquisstraat - Rue du Maquis;127;;;;;N;;N;;;;BUILDI
 EVERE - FH01;1621760;968268;;Léon Grosjeanlaan - Avenue Léon Grosjean;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621801;968304;;Franz Guillaumelaan - Avenue Franz Guillaume;50;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623971;970172;;Oud-Strijderslaan - Avenue des Anciens Combattants;58;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5895264;6195326;Twee Huizenstraat 31-33;Twee Huizenstraat - Rue des Deux Maisons;31;;C;2019-12-13;2020-01-06;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;5895264;6195326;Twee Huizenstraat 31-33;Twee Huizenstraat - Rue des Deux Maisons;31;;C;2019-12-13;2020-01-06;Y;;N;;;;BUILDING template
 EVERE - FH01;1621062;967698;;Maquisstraat - Rue du Maquis;129;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621761;968269;;Léon Grosjeanlaan - Avenue Léon Grosjean;21;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621802;968305;;Franz Guillaumelaan - Avenue Franz Guillaume;52;;D;;;N;;N;;;;BUILDING template
@@ -742,7 +747,7 @@ EVERE - FH01;1623975;970174;;Oud-Strijderslaan - Avenue des Anciens Combattants;
 EVERE - FH01;1621065;967701;;Maquisstraat - Rue du Maquis;133;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621763;968271;;Léon Grosjeanlaan - Avenue Léon Grosjean;25;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726870;971469;;Begeertenlaan - Avenue des Désirs;1;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;725253;971232;;Franz Guillaumelaan - Avenue Franz Guillaume;56;;XA;2019-11-03;;Y;;Y;2019-06-27;;;BUILDING template
+EVERE - FH01;725253;971232;;Franz Guillaumelaan - Avenue Franz Guillaume;56;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
 EVERE - FH01;725365;6195308;;Oud-Strijderslaan - Avenue des Anciens Combattants;64;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726581;10528168;;Avenue des Communautés - Gemeenschappenlaan;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621067;967703;;Maquisstraat - Rue du Maquis;135;;;;;N;;N;;;;BUILDING template
@@ -763,9 +768,9 @@ EVERE - FH01;1624087;10528171;;Gemeenschappenlaan - Avenue des Communautés;6;;;;
 EVERE - FH01;1621070;967706;;Maquisstraat - Rue du Maquis;139;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726073;971330;;Hugo Verrieststraat - Rue Hugo Verriest;22;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726104;971360;;Léon Grosjeanlaan - Avenue Léon Grosjean;31;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620521;967236;;Begeertenlaan - Avenue des Désirs;4;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620521;967236;;Begeertenlaan - Avenue des Désirs;4;;D;2020-02-10;2020-02-10;N;;N;;;;BUILDING template
 EVERE - FH01;1623820;970053;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;15;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5046048;5620921;;Avenue du Cimetière de Bruxelles - Kerkhof van Brussellaan;68;;XC;2019-09-30;;Y;;Y;2019-06-27;;;BUILDING template
+EVERE - FH01;5046048;5620921;;Avenue du Cimetière de Bruxelles - Kerkhof van Brussellaan;68;;XC;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1620896;967566;;Leuvensesteenweg - Chaussée de Louvain;909;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726179;971369;;Maquisstraat - Rue du Maquis;141;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726074;971331;;Hugo Verrieststraat - Rue Hugo Verriest;24;;;;;N;;N;;;;BUILDING template
@@ -778,7 +783,7 @@ EVERE - FH01;6476845;10528172;;Gemeenschappenlaan - Avenue des Communautés;12;;;
 EVERE - FH01;1624249;970400;;V-Daylaan - Avenue du V-Day;1;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1621733;968243;;Hugo Verrieststraat - Rue Hugo Verriest;26;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621766;968274;;Léon Grosjeanlaan - Avenue Léon Grosjean;35;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620523;967238;;Begeertenlaan - Avenue des Désirs;6;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620523;967238;;Begeertenlaan - Avenue des Désirs;6;;D;2020-02-10;2020-02-10;N;;N;;;;BUILDING template
 EVERE - FH01;1623827;970060;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;25;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;25429;970529;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;2;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624348;970463;;Twee Huizenstraat - Rue des Deux Maisons;28;;;;;N;;N;;;;BUILDING template
@@ -789,12 +794,12 @@ EVERE - FH01;1620524;967239;;Begeertenlaan - Avenue des Désirs;7;;;;;N;;N;;;;BUI
 EVERE - FH01;1623829;970062;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;27;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120047;966829;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624349;970464;;Twee Huizenstraat - Rue des Deux Maisons;30;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120059;5620838;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;27;;A;2018-09-27;2020-01-22;Y;;Y;2019-11-26;;;BUILDING template
+EVERE - FH01;1120059;5620838;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;27;;A;2018-09-27;2020-01-22;Y;;Y;2019-12-03;;;BUILDING template
 EVERE - FH01;1624252;970401;;V-Daylaan - Avenue du V-Day;7;;;;;;;N;;;;BUILDING template
 EVERE - FH01;726102;971358;;Léon Grosjeanlaan - Avenue Léon Grosjean;51;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621768;968276;;Léon Grosjeanlaan - Avenue Léon Grosjean;39;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620525;967240;;Begeertenlaan - Avenue des Désirs;8;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621104;967724;;"Optimismelaan - Avenue de l&apos;Optimisme";35;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1621104;967724;;Optimismelaan - Avenue de l'Optimisme;35;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623830;970063;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;29;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623816;970049;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;6;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624350;970465;;Twee Huizenstraat - Rue des Deux Maisons;32;;;;;;;N;;;;BUILDING template
@@ -802,31 +807,31 @@ EVERE - FH01;1624253;970402;;V-Daylaan - Avenue du V-Day;9;;;;;;;N;;;;BUILDING t
 EVERE - FH01;1621771;968279;;Léon Grosjeanlaan - Avenue Léon Grosjean;53;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621769;968277;;Léon Grosjeanlaan - Avenue Léon Grosjean;41;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620526;967241;;Begeertenlaan - Avenue des Désirs;9;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1315029;966924;;"Optimismelaan - Avenue de l&apos;Optimisme";37;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1315029;966924;;Optimismelaan - Avenue de l'Optimisme;37;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623832;970065;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;33;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623817;970050;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624351;970466;;Twee Huizenstraat - Rue des Deux Maisons;34;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624255;970404;;V-Daylaan - Avenue du V-Day;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621772;968280;;Léon Grosjeanlaan - Avenue Léon Grosjean;57;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621770;968278;;Léon Grosjeanlaan - Avenue Léon Grosjean;43;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1621770;968278;;Léon Grosjeanlaan - Avenue Léon Grosjean;43;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;726871;971470;;Begeertenlaan - Avenue des Désirs;10;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;726858;971458;;"Optimismelaan - Avenue de l&apos;Optimisme";39;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;726858;971458;;Optimismelaan - Avenue de l'Optimisme;39;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1293893;6195276;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;35;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;4119512;970881;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;10;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4117894;6639321;;Twee Huizenstraat - Rue des Deux Maisons;36;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1624315;5620870;Pieter Dupontstraat 198-200;Rue Pierre Dupont - Pieter Dupontstraat;200;;A;2019-12-13;2020-01-29;Y;;Y;2020-03-04;;;BUILDING template
-EVERE - FH01;1620300;967060;Auguste Renoirstraat 3-3A;Auguste Renoirstraat - Rue Auguste Renoir;3;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1624315;5620870;Pieter Dupontstraat 198-200;Rue Pierre Dupont - Pieter Dupontstraat;200;;A;2019-12-13;2020-01-29;Y;;N;;;;BUILDING template
+EVERE - FH01;1620300;967060;Auguste Renoirstraat 3-3A;Auguste Renoirstraat - Rue Auguste Renoir;3;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1624257;970406;;V-Daylaan - Avenue du V-Day;13;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726103;971359;;Léon Grosjeanlaan - Avenue Léon Grosjean;59;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726101;971357;;Léon Grosjeanlaan - Avenue Léon Grosjean;45;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726064;971321;;Leuvensesteenweg - Chaussée de Louvain;892;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;726872;971471;;Begeertenlaan - Avenue des Désirs;11;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;726872;971471;;Begeertenlaan - Avenue des Désirs;11;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;726805;971456;;Oud-Strijderslaan - Avenue des Anciens Combattants;1;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623835;970068;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;37;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623818;970051;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;12;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624352;6639322;;Twee Huizenstraat - Rue des Deux Maisons;38;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;731600;971524;;"Eenboomstraat - Rue de l&apos;Arbre Unique";101;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620302;967061;Auguste Renoirstraat 5-5A;Auguste Renoirstraat - Rue Auguste Renoir;5;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;731600;971524;;Eenboomstraat - Rue de l'Arbre Unique;101;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620302;967061;Auguste Renoirstraat 5-5A;Auguste Renoirstraat - Rue Auguste Renoir;5;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;4119465;12373043;V-Daylaan 22-22A;V-Daylaan - Avenue du V-Day;22;A;C;2019-10-15;2019-10-15;;;N;;;;BUILDING template
 EVERE - FH01;1624259;970408;;V-Daylaan - Avenue du V-Day;15;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621036;967672;;Maquisstraat - Rue du Maquis;98;;;;;N;;N;;;;BUILDING template
@@ -837,7 +842,7 @@ EVERE - FH01;726781;971441;;Oud-Strijderslaan - Avenue des Anciens Combattants;3
 EVERE - FH01;1623836;970069;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;39;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623819;970052;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;14;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624353;970467;;Twee Huizenstraat - Rue des Deux Maisons;40;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623656;969909;;"Eenboomstraat - Rue de l&apos;Arbre Unique";103;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1623656;969909;;Eenboomstraat - Rue de l'Arbre Unique;103;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5707334;5620980;;Avenue Jules Bordet - Jules Bordetlaan;132;B;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624261;970410;;V-Daylaan - Avenue du V-Day;17;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621038;967674;;Maquisstraat - Rue du Maquis;100;;;;;N;;N;;;;BUILDING template
@@ -848,28 +853,28 @@ EVERE - FH01;1623946;970149;;Oud-Strijderslaan - Avenue des Anciens Combattants;
 EVERE - FH01;1623838;970071;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;41;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623821;970054;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;16;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624354;970468;;Twee Huizenstraat - Rue des Deux Maisons;42;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623657;969910;;"Eenboomstraat - Rue de l&apos;Arbre Unique";105;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1623657;969910;;Eenboomstraat - Rue de l'Arbre Unique;105;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622750;969145;;Constant Permekelaan - Avenue Constant Permeke;36;;;;;;;N;;;;BUILDING template
 EVERE - FH01;726189;971379;;V-Daylaan - Avenue du V-Day;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621040;967676;;Maquisstraat - Rue du Maquis;102;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622145;968592;;Sint-Jozefstraat - Rue Saint-Joseph;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620886;967559;;Leuvensesteenweg - Chaussée de Louvain;898;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620529;967244;;Begeertenlaan - Avenue des Désirs;14;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1186609;966896;;Oud-Strijderslaan - Avenue des Anciens Combattants;21;;C;2019-09-30;2019-12-08;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1186609;966896;;Oud-Strijderslaan - Avenue des Anciens Combattants;21;;C;2019-09-30;2019-12-08;Y;;N;;;;BUILDING template
 EVERE - FH01;1623839;970072;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;47;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623823;970056;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;18;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624355;970469;;Twee Huizenstraat - Rue des Deux Maisons;44;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623658;969911;;"Eenboomstraat - Rue de l&apos;Arbre Unique";107;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620296;967058;;Edgar Degas straat - Rue Edgard Degas;2;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1623658;969911;;Eenboomstraat - Rue de l'Arbre Unique;107;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620296;967058;;Edgar Degas straat - Rue Edgard Degas;2;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;726188;971378;;V-Daylaan - Avenue du V-Day;21;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621042;967678;;Maquisstraat - Rue du Maquis;104;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620888;967561;;Leuvensesteenweg - Chaussée de Louvain;900;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620530;967245;;Begeertenlaan - Avenue des Désirs;15;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;726784;971444;;Oud-Strijderslaan - Avenue des Anciens Combattants;23;;C;2019-09-30;2019-12-08;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;726784;971444;;Oud-Strijderslaan - Avenue des Anciens Combattants;23;;C;2019-09-30;2019-12-08;Y;;N;;;;BUILDING template
 EVERE - FH01;1623840;970073;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;49;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623824;970057;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;20;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120050;966831;;Twee Huizenstraat - Rue des Deux Maisons;46;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623659;969912;;"Eenboomstraat - Rue de l&apos;Arbre Unique";109;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1623659;969912;;Eenboomstraat - Rue de l'Arbre Unique;109;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624266;970414;;V-Daylaan - Avenue du V-Day;23;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621044;967680;;Maquisstraat - Rue du Maquis;106;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;3916106;970584;;Leuvensesteenweg - Chaussée de Louvain;902;;D;;;N;;N;;;;BUILDING template
@@ -878,7 +883,7 @@ EVERE - FH01;726783;971443;;Oud-Strijderslaan - Avenue des Anciens Combattants;2
 EVERE - FH01;725369;971244;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;51;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623825;970058;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;22;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120051;6195333;;Twee Huizenstraat - Rue des Deux Maisons;48;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;731604;971526;;"Eenboomstraat - Rue de l&apos;Arbre Unique";111;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;731604;971526;;Eenboomstraat - Rue de l'Arbre Unique;111;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726097;971354;;Maquisstraat - Rue du Maquis;108;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726061;971319;;Leuvensesteenweg - Chaussée de Louvain;904;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620532;967247;;Begeertenlaan - Avenue des Désirs;17;;;;;N;;N;;;;BUILDING template
@@ -886,14 +891,14 @@ EVERE - FH01;1623952;970154;;Oud-Strijderslaan - Avenue des Anciens Combattants;
 EVERE - FH01;725370;971245;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;53;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623826;970059;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;24;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624358;970472;;Twee Huizenstraat - Rue des Deux Maisons;50;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623660;969913;;"Eenboomstraat - Rue de l&apos;Arbre Unique";113;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1623660;969913;;Eenboomstraat - Rue de l'Arbre Unique;113;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726096;971353;;Maquisstraat - Rue du Maquis;110;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726060;6195205;;Leuvensesteenweg - Chaussée de Louvain;906;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620533;967248;;Begeertenlaan - Avenue des Désirs;18;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623954;970156;;Oud-Strijderslaan - Avenue des Anciens Combattants;29;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623844;970075;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;55;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624360;970474;;Twee Huizenstraat - Rue des Deux Maisons;54;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;731605;971527;;"Eenboomstraat - Rue de l&apos;Arbre Unique";115;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;731605;971527;;Eenboomstraat - Rue de l'Arbre Unique;115;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621048;967684;;Maquisstraat - Rue du Maquis;112;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5695173;5620977;;Clos des Compagnons Bâtisseurs - Bouwgezellenerf;3;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726062;6639301;;Leuvensesteenweg - Chaussée de Louvain;910;;D;;;N;;N;;;;BUILDING template
@@ -925,10 +930,10 @@ EVERE - FH01;1620536;967249;;Begeertenlaan - Avenue des Désirs;23;;D;;;N;;N;;;;B
 EVERE - FH01;726786;971446;;Oud-Strijderslaan - Avenue des Anciens Combattants;37;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623852;970083;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;69;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624365;970478;;Twee Huizenstraat - Rue des Deux Maisons;62;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;722662;971155;;Jules Bordetlaan - Avenue Jules Bordet;142;;A;2020-01-13;2022-01-01;Y;;N;;;;BUILDING template
+EVERE - FH01;722662;971155;;Jules Bordetlaan - Avenue Jules Bordet;142;;A;2020-01-13;;Y;;N;;;;BUILDING template
 EVERE - FH01;1622760;969155;;Constant Permekelaan - Avenue Constant Permeke;67;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5693808;5620973;;Clos des Compagnons Bâtisseurs - Bouwgezellenerf;11;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620902;967571;;Leuvensesteenweg - Chaussée de Louvain;918;;C;2019-06-23;2019-06-23;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1620902;967571;;Leuvensesteenweg - Chaussée de Louvain;918;;C;2019-06-23;2019-06-23;Y;;N;;;;BUILDING template
 EVERE - FH01;1620537;967250;;Begeertenlaan - Avenue des Désirs;24;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726788;971448;;Oud-Strijderslaan - Avenue des Anciens Combattants;39;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623853;970084;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;71;;D;;;N;;N;;;;BUILDING template
@@ -941,7 +946,7 @@ EVERE - FH01;1620538;967251;;Begeertenlaan - Avenue des Désirs;25;;D;;;N;;N;;;;B
 EVERE - FH01;1623961;970162;;Oud-Strijderslaan - Avenue des Anciens Combattants;41;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623854;970085;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;73;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624367;970480;;Twee Huizenstraat - Rue des Deux Maisons;66;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120030;5620833;;Avenue Henry Dunant - Henry Dunantlaan;56;;A;2019-09-30;2019-12-16;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1120030;5620833;;Avenue Henry Dunant - Henry Dunantlaan;56;;A;2019-09-30;2019-12-16;Y;;N;;;;BUILDING template
 EVERE - FH01;1623628;969899;;Jules Bordetlaan - Avenue Jules Bordet;162;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622762;969157;;Constant Permekelaan - Avenue Constant Permeke;71;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5479264;5620933;;Clos des Compagnons Bâtisseurs - Bouwgezellenerf;14;;;;;N;;N;;;;BUILDING template
@@ -950,7 +955,7 @@ EVERE - FH01;1620539;967252;;Begeertenlaan - Avenue des Désirs;26;;D;;;N;;N;;;;B
 EVERE - FH01;726782;971442;;Oud-Strijderslaan - Avenue des Anciens Combattants;43;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;725368;971243;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;75;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;4119467;970879;;Twee Huizenstraat - Rue des Deux Maisons;68;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120031;5620834;;Avenue Henry Dunant - Henry Dunantlaan;66;;A;2019-10-07;2019-10-23;Y;;Y;2019-06-10;;;BUILDING template
+EVERE - FH01;1120031;5620834;;Avenue Henry Dunant - Henry Dunantlaan;66;;A;2019-10-07;2019-10-23;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;724812;971225;;Jules Bordetlaan - Avenue Jules Bordet;164;;XC;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;4114988;970839;;Constant Permekelaan - Avenue Constant Permeke;73;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5479265;5620934;;Clos des Compagnons Bâtisseurs - Bouwgezellenerf;16;;;;;N;;N;;;;BUILDING template
@@ -959,7 +964,7 @@ EVERE - FH01;1620540;967253;;Begeertenlaan - Avenue des Désirs;27;;D;;;N;;N;;;;B
 EVERE - FH01;1623959;970161;;Oud-Strijderslaan - Avenue des Anciens Combattants;37;B;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623855;970086;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;77;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624368;970481;;Twee Huizenstraat - Rue des Deux Maisons;70;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623988;5620867;;Avenue des Anciens Combattants - Oud-Strijderslaan;82;;XA;2020-01-13;;Y;;Y;2019-07-05;;;BUILDING template
+EVERE - FH01;1623988;5620867;;Avenue des Anciens Combattants - Oud-Strijderslaan;82;;XA;2020-01-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;724810;971223;;Jules Bordetlaan - Avenue Jules Bordet;166;;A;2019-09-18;2019-10-23;Y;;N;;;;BUILDING template
 EVERE - FH01;1622763;969158;;Constant Permekelaan - Avenue Constant Permeke;75;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5700478;5620979;;Clos des Compagnons Bâtisseurs - Bouwgezellenerf;17;;;;;N;;N;;;;BUILDING template
@@ -991,101 +996,101 @@ EVERE - FH01;5479938;5620936;;Clos des Compagnons Bâtisseurs - Bouwgezellenerf;2
 EVERE - FH01;1621758;968266;;Léon Grosjeanlaan - Avenue Léon Grosjean;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726791;971451;;Gelukzaligheidslaan - Avenue de la Béatitude;5;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120071;5620840;;Avenue Franz Guillaume - Franz Guillaumelaan;80;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621811;968311;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;1;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
-EVERE - FH01;1620343;967095;;"Kleigroeveërf - Clos de l&apos;Argilière";5;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1621811;968311;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;1;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
+EVERE - FH01;1620343;967095;;Kleigroeveërf - Clos de l'Argilière;5;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;46321;970991;;G. De Lombaerdestraat - Rue Georges De Lombaerde;74;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621759;968267;;Léon Grosjeanlaan - Avenue Léon Grosjean;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620467;967207;;Gelukzaligheidslaan - Avenue de la Béatitude;7;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620898;5620853;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Chaussée de Louvain - Leuvensesteenweg;913;;C;2019-10-01;2019-10-01;Y;;Y;2019-11-07;;;BUILDING template
+EVERE - FH01;1620898;5620853;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Chaussée de Louvain - Leuvensesteenweg;913;;C;2019-10-01;2019-10-01;Y;;N;;;;BUILDING template
 EVERE - FH01;1621818;968312;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;11;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620345;967097;;"Kleigroeveërf - Clos de l&apos;Argilière";7;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620345;967097;;Kleigroeveërf - Clos de l'Argilière;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622029;968484;;G. De Lombaerdestraat - Rue Georges De Lombaerde;76;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726099;971355;;Léon Grosjeanlaan - Avenue Léon Grosjean;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620469;967209;;Gelukzaligheidslaan - Avenue de la Béatitude;9;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120060;5620839;;Chaussée de Louvain - Leuvensesteenweg;915;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5583272;6195264;Henry Dunantlaan 15-17;Henry Dunantlaan - Avenue Henry Dunant;17;;A;2019-11-03;2019-12-16;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;5583272;6195264;Henry Dunantlaan 15-17;Henry Dunantlaan - Avenue Henry Dunant;17;;A;2019-11-03;2019-12-16;Y;;N;;;;BUILDING template
 EVERE - FH01;1621819;968313;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;12;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620346;967098;;"Kleigroeveërf - Clos de l&apos;Argilière";9;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620346;967098;;Kleigroeveërf - Clos de l'Argilière;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622030;968485;;G. De Lombaerdestraat - Rue Georges De Lombaerde;78;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;25445;970535;;Sint-Jozefstraat - Rue Saint-Joseph;5;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620471;967211;;Gelukzaligheidslaan - Avenue de la Béatitude;11;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;3916107;5620903;;Chaussée de Louvain - Leuvensesteenweg;925;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;756585;971566;Henry Dunantlaan 19-21;Henry Dunantlaan - Avenue Henry Dunant;19;;A;2019-09-30;2019-10-31;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;3916107;5620903;;Chaussée de Louvain - Leuvensesteenweg;925;;D;;;Y;;N;;;;BUILDING template
+EVERE - FH01;756585;971566;Henry Dunantlaan 19-21;Henry Dunantlaan - Avenue Henry Dunant;19;;A;2019-09-30;2019-10-31;Y;;N;;;;BUILDING template
 EVERE - FH01;1621820;968314;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;13;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137210;966884;;"Kleigroeveërf - Clos de l&apos;Argilière";10;;;;;;;N;;;;BUILDING template
+EVERE - FH01;1137210;966884;;Kleigroeveërf - Clos de l'Argilière;10;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1622031;968486;;G. De Lombaerdestraat - Rue Georges De Lombaerde;80;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1291898;966914;;Sint-Jozefstraat - Rue Saint-Joseph;7;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620473;967213;;Gelukzaligheidslaan - Avenue de la Béatitude;13;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;5894343;7462369;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;17;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
-EVERE - FH01;5583273;6639304;Henry Dunantlaan 19-21;Henry Dunantlaan - Avenue Henry Dunant;21;;A;2019-10-07;2019-10-31;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;5583273;6639304;Henry Dunantlaan 19-21;Henry Dunantlaan - Avenue Henry Dunant;21;;A;2019-10-07;2019-10-31;Y;;N;;;;BUILDING template
 EVERE - FH01;1621821;968315;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;14;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620347;967099;;"Kleigroeveërf - Clos de l&apos;Argilière";11;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620347;967099;;Kleigroeveërf - Clos de l'Argilière;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4119521;970883;;G. De Lombaerdestraat - Rue Georges De Lombaerde;82;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4119518;970882;;Sint-Jozefstraat - Rue Saint-Joseph;9;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726792;971452;;Gelukzaligheidslaan - Avenue de la Béatitude;15;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120033;966824;;Henry Dunantlaan - Avenue Henry Dunant;70;;B;2019-09-30;2022-01-01;Y;;N;;;;BUILDING template
-EVERE - FH01;731599;971523;Henry Dunantlaan 23-25;Henry Dunantlaan - Avenue Henry Dunant;23;;A;2019-12-13;2020-01-30;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1120033;966824;;Henry Dunantlaan - Avenue Henry Dunant;70;;B;2019-09-30;;Y;;N;;;;BUILDING template
+EVERE - FH01;731599;971523;Henry Dunantlaan 23-25;Henry Dunantlaan - Avenue Henry Dunant;23;;A;2019-12-13;2020-01-30;Y;;N;;;;BUILDING template
 EVERE - FH01;724017;971197;;Vincent Van Goghlaan - Avenue Vincent Van Gogh;15;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
-EVERE - FH01;1325306;966947;;"Kleigroeveërf - Clos de l&apos;Argilière";13;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1325306;966947;;Kleigroeveërf - Clos de l'Argilière;13;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622032;968487;;G. De Lombaerdestraat - Rue Georges De Lombaerde;84;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622146;968593;;Sint-Jozefstraat - Rue Saint-Joseph;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726793;971453;;Gelukzaligheidslaan - Avenue de la Béatitude;17;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5583276;6195265;;Henry Dunantlaan - Avenue Henry Dunant;72;;B;2019-10-07;2022-01-01;Y;;N;;;;BUILDING template
-EVERE - FH01;1620349;967101;;"Kleigroeveërf - Clos de l&apos;Argilière";14;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;5583276;6195265;;Henry Dunantlaan - Avenue Henry Dunant;72;;B;2019-10-07;;Y;;N;;;;BUILDING template
+EVERE - FH01;1620349;967101;;Kleigroeveërf - Clos de l'Argilière;14;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622033;968488;;G. De Lombaerdestraat - Rue Georges De Lombaerde;86;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622149;968596;Sint-Jozefstraat 15-21-27;Sint-Jozefstraat - Rue Saint-Joseph;15;;C;2019-07-01;2020-02-26;Y;;N;;;;BUILDING template
-EVERE - FH01;1120034;6195271;;Henry Dunantlaan - Avenue Henry Dunant;74;;B;2019-10-07;2022-01-01;Y;;N;;;;BUILDING template
-EVERE - FH01;1621100;11996740;;"Optimismelaan - Avenue de l&apos;Optimisme";17;;;;;;;N;;;;BUILDING template
-EVERE - FH01;1620350;967102;;"Kleigroeveërf - Clos de l&apos;Argilière";15;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1120034;6195271;;Henry Dunantlaan - Avenue Henry Dunant;74;;B;2019-10-07;;Y;;N;;;;BUILDING template
+EVERE - FH01;1621100;11996740;;Optimismelaan - Avenue de l'Optimisme;17;;;;;;;N;;;;BUILDING template
+EVERE - FH01;1620350;967102;;Kleigroeveërf - Clos de l'Argilière;15;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622034;968489;;G. De Lombaerdestraat - Rue Georges De Lombaerde;88;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5583277;6195274;;Henry Dunantlaan - Avenue Henry Dunant;76;;B;2019-10-07;2022-01-01;Y;;N;;;;BUILDING template
-EVERE - FH01;1620351;967103;;"Kleigroeveërf - Clos de l&apos;Argilière";16;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;5583277;6195274;;Henry Dunantlaan - Avenue Henry Dunant;76;;B;2019-10-07;;Y;;N;;;;BUILDING template
+EVERE - FH01;1620351;967103;;Kleigroeveërf - Clos de l'Argilière;16;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622035;968490;;G. De Lombaerdestraat - Rue Georges De Lombaerde;90;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120038;6195201;;Henry Dunantlaan - Avenue Henry Dunant;84;;A;2019-12-13;2019-12-16;Y;;Y;2020-02-05;;;BUILDING template
-EVERE - FH01;1620352;967104;;"Kleigroeveërf - Clos de l&apos;Argilière";17;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1120038;6195201;;Henry Dunantlaan - Avenue Henry Dunant;84;;A;2019-12-13;2019-12-16;Y;;N;;;;BUILDING template
+EVERE - FH01;1620352;967104;;Kleigroeveërf - Clos de l'Argilière;17;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622036;968491;;G. De Lombaerdestraat - Rue Georges De Lombaerde;92;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120024;966816;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;153;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137209;966883;;"Kleigroeveërf - Clos de l&apos;Argilière";18;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1137209;966883;;Kleigroeveërf - Clos de l'Argilière;18;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622037;968492;;G. De Lombaerdestraat - Rue Georges De Lombaerde;94;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120025;966817;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;155;;XC;2019-12-13;;Y;;Y;;;;BUILDING template
-EVERE - FH01;1620353;967105;;"Kleigroeveërf - Clos de l&apos;Argilière";19;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620353;967105;;Kleigroeveërf - Clos de l'Argilière;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622038;968493;;G. De Lombaerdestraat - Rue Georges De Lombaerde;96;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;4129441;6195291;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;159;;XC;2019-12-13;;Y;;Y;2019-06-10;;;BUILDING template
-EVERE - FH01;1620354;967106;;"Kleigroeveërf - Clos de l&apos;Argilière";21;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;4129441;6195291;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;159;;XC;2019-12-13;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1620354;967106;;Kleigroeveërf - Clos de l'Argilière;21;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726576;971412;;G. De Lombaerdestraat - Rue Georges De Lombaerde;98;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5372922;6195292;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;161;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620355;967107;;"Kleigroeveërf - Clos de l&apos;Argilière";23;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620355;967107;;Kleigroeveërf - Clos de l'Argilière;23;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;46322;970992;;Hugo Verrieststraat - Rue Hugo Verriest;29;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;4015019;5620904;;Rue de Zaventem - Zaventemstraat;9;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137211;966885;;"Kleigroeveërf - Clos de l&apos;Argilière";25;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1137211;966885;;Kleigroeveërf - Clos de l'Argilière;25;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621734;968244;;Hugo Verrieststraat - Rue Hugo Verriest;31;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;4085450;5620907;;Rue de Zaventem - Zaventemstraat;11;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1137193;966873;;Kolonel Bourgstraat - Rue Colonel Bourg;130;;C;2019-07-01;2019-07-01;Y;;N;;;;BUILDING template
 EVERE - FH01;1621735;968245;;Hugo Verrieststraat - Rue Hugo Verriest;33;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1297562;6639311;Kolonel Bourgstraat 164-166-168;Rue Colonel Bourg;168;;C;2019-09-30;2019-11-27;Y;;Y;2019-11-28;;;BUILDING template
+EVERE - FH01;1297562;6639311;Kolonel Bourgstraat 164-166-168;Rue Colonel Bourg;168;;C;2019-09-30;2019-11-27;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1621548;5620858;;Rue de Zaventem - Zaventemstraat;13;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1137204;966881;;Kolonel Bourgstraat - Rue Colonel Bourg;136;;C;2019-09-30;2019-10-11;Y;;N;;;;BUILDING template
 EVERE - FH01;1621737;968247;;Hugo Verrieststraat - Rue Hugo Verriest;35;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137200;5620844;;Rue Colonel Bourg - Kolonel Bourgstraat;154;;C;2019-09-30;2019-11-07;Y;;Y;2019-11-07;;;BUILDING template
+EVERE - FH01;1137200;5620844;;Rue Colonel Bourg - Kolonel Bourgstraat;154;;C;2019-09-30;2019-11-07;Y;;Y;2019-11-20;;;BUILDING template
 EVERE - FH01;5046165;5620922;;Rue de Zaventem - Zaventemstraat;15;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1137205;6639307;;Kolonel Bourgstraat - Rue Colonel Bourg;138;;C;2019-09-30;2019-10-11;Y;;N;;;;BUILDING template
 EVERE - FH01;1621738;968248;;Hugo Verrieststraat - Rue Hugo Verriest;37;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137203;5620846;;Rue Colonel Bourg - Kolonel Bourgstraat;156;;C;2019-09-30;2019-11-07;Y;;Y;2019-11-07;;;BUILDING template
+EVERE - FH01;1137203;5620846;;Rue Colonel Bourg - Kolonel Bourgstraat;156;;C;2019-09-30;2019-11-07;Y;;Y;2019-11-13;;;BUILDING template
 EVERE - FH01;4125395;5620918;;Rue de Zaventem - Zaventemstraat;17;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;722659;971152;;Jules Bordetlaan - Avenue Jules Bordet;74;;;;;Y;;N;;;;BUILDING template
-EVERE - FH01;1621777;968284;Leon Grosjeanlaan 73-75;Léon Grosjeanlaan - Avenue Léon Grosjean;75;;A;2019-09-30;2022-01-01;Y;;Y;;;;BUILDING template
+EVERE - FH01;1621777;968284;Leon Grosjeanlaan 73-75;Léon Grosjeanlaan - Avenue Léon Grosjean;75;;A;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1621740;968250;;Hugo Verrieststraat - Rue Hugo Verriest;39;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137198;5620842;;Rue Colonel Bourg - Kolonel Bourgstraat;158;;C;2019-09-19;2019-10-18;Y;;Y;2019-11-28;;;BUILDING template
+EVERE - FH01;1137198;5620842;;Rue Colonel Bourg - Kolonel Bourgstraat;158;;C;2019-09-19;2019-10-18;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;5046167;5620923;;Rue de Zaventem - Zaventemstraat;19;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623614;6195275;;Jules Bordetlaan - Avenue Jules Bordet;98;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621778;6639316;;Léon Grosjeanlaan - Avenue Léon Grosjean;77;;C;2019-09-10;2019-09-25;Y;;Y;2020-03-04;;;BUILDING template
+EVERE - FH01;1621778;6639316;;Léon Grosjeanlaan - Avenue Léon Grosjean;77;;C;2019-09-10;2019-09-25;Y;;Y; ;;;BUILDING template
 EVERE - FH01;1621741;968251;;Hugo Verrieststraat - Rue Hugo Verriest;41;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137201;5620845;Kolonel Bourgstraat 152-152A;Rue Colonel Bourg - Kolonel Bourgstraat;152;A;C;2019-06-18;NOK;Y;;Y;;;;BUILDING template
+EVERE - FH01;1137201;5620845;Kolonel Bourgstraat 152-152A;Rue Colonel Bourg - Kolonel Bourgstraat;152;A;XC;2019-06-18;;Y;;Y;;;;BUILDING template
 EVERE - FH01;5046168;5620924;;Rue de Zaventem - Zaventemstraat;21;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;722654;971148;;Jules Bordetlaan - Avenue Jules Bordet;100;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726429;971407;;Léon Grosjeanlaan - Avenue Léon Grosjean;79;;SDU;;;N;;N;;;;BUILDING template
 EVERE - FH01;46323;970993;;Hugo Verrieststraat - Rue Hugo Verriest;43;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620972;5620856;;Rue du Maquis - Maquisstraat;7;;D;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620972;5620856;;Rue du Maquis - Maquisstraat;7;;D;;;Y;;N;;;;BUILDING template
 EVERE - FH01;5046169;5620926;;Rue de Zaventem - Zaventemstraat;23;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;722655;971149;;Jules Bordetlaan - Avenue Jules Bordet;102;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1137196;6639306;;Rue Colonel Bourg;132;;C;2019-07-11;2019-07-11;Y;;N;;;;BUILDING template
@@ -1106,63 +1111,63 @@ EVERE - FH01;1623620;969893;;Jules Bordetlaan - Avenue Jules Bordet;112;;;;;N;;N
 EVERE - FH01;1621745;968255;;Hugo Verrieststraat - Rue Hugo Verriest;59;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726577;971413;;G. De Lombaerdestraat - Rue Georges De Lombaerde;2;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5583247;6195202;;Jules Bordetlaan - Avenue Jules Bordet;118;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
-EVERE - FH01;1620344;967096;;"Kleigroeveërf - Clos de l&apos;Argilière";6;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1620344;967096;;Kleigroeveërf - Clos de l'Argilière;6;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;722657;971150;;Jules Bordetlaan - Avenue Jules Bordet;120;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137207;966882;;"Kleigroeveërf - Clos de l&apos;Argilière";8;;;;;N;;N;;;;BUILDING template
+EVERE - FH01;1137207;966882;;Kleigroeveërf - Clos de l'Argilière;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623622;969894;;Jules Bordetlaan - Avenue Jules Bordet;122;;;;;;;N;;;;BUILDING template
-EVERE - FH01;15086;967029;;Kolonel Bourgstraat - Rue Colonel Bourg;142;;C;2019-09-30;2019-10-22;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;15086;967029;;Kolonel Bourgstraat - Rue Colonel Bourg;142;;C;2019-09-30;2019-10-22;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;1623623;969895;;Jules Bordetlaan - Avenue Jules Bordet;124;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623644;969905;;Kolonel Bourgstraat - Rue Colonel Bourg;150;;C;2019-06-18;NOK;Y;;Y;;;;BUILDING template
-EVERE - FH01;5946628;7462383;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;23;;XA;2019-11-03;;;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;1623644;969905;;Kolonel Bourgstraat - Rue Colonel Bourg;150;;XC;2019-06-18;;Y;;Y;;;;BUILDING template
+EVERE - FH01;5946628;7462383;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;23;;XA;;;;;Y;;;;BUILDING template
 EVERE - FH01;1623624;969896;;Jules Bordetlaan - Avenue Jules Bordet;126;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137195;966874;Kolonel Bourgstraat 160-162;Kolonel Bourgstraat - Rue Colonel Bourg;160;;C;2019-07-02;2019-07-02;Y;;Y;2019-10-31;;;BUILDING template
-EVERE - FH01;5946626;7462384;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;25;;XA;2019-11-03;;;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;1137195;966874;Kolonel Bourgstraat 160-162;Kolonel Bourgstraat - Rue Colonel Bourg;160;;C;2019-07-02;2019-07-02;Y;;Y;2019-11-06;;;BUILDING template
+EVERE - FH01;5946626;7462384;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;25;;XA;;;;;Y;;;;BUILDING template
 EVERE - FH01;1623625;969897;;Jules Bordetlaan - Avenue Jules Bordet;128;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5583250;6639309;Kolonel Bourgstraat 160-162;Kolonel Bourgstraat - Rue Colonel Bourg;162;;C;2019-07-02;2019-07-02;Y;;Y;2019-10-31;;;BUILDING template
-EVERE - FH01;25437;5620901;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;23;;A;2018-09-27;2020-01-22;Y;;Y;2019-11-26;;;BUILDING template
+EVERE - FH01;5583250;6639309;Kolonel Bourgstraat 160-162;Kolonel Bourgstraat - Rue Colonel Bourg;162;;C;2019-07-02;2019-07-02;Y;;Y;2019-11-06;;;BUILDING template
+EVERE - FH01;25437;5620901;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;23;;A;2018-09-27;2020-01-22;Y;;Y;2019-12-03;;;BUILDING template
 EVERE - FH01;1623626;969898;;Jules Bordetlaan - Avenue Jules Bordet;130;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620882;967555;;Leuvensesteenweg - Chaussée de Louvain;886;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1015647;966785;;Jules Bordetlaan - Avenue Jules Bordet;132;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120066;966843;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;57;;XA;2019-12-13;;Y;;Y;2019-07-05;;;BUILDING template
+EVERE - FH01;1120066;966843;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;57;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1620883;967556;;Leuvensesteenweg - Chaussée de Louvain;888;;;;;;;N;;;;BUILDING template
 EVERE - FH01;722660;971153;;Jules Bordetlaan - Avenue Jules Bordet;132;A;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621805;968307;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;59;;XA;2019-12-13;;Y;;Y;2019-07-02;;;BUILDING template
-EVERE - FH01;1621806;968308;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;61;;XA;2019-12-13;;Y;;Y;2019-07-02;;;BUILDING template
-EVERE - FH01;1621807;968309;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;63;;XA;2019-12-13;;Y;;Y;2019-07-02;;;BUILDING template
-EVERE - FH01;5583180;971022;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;65;;XA;2019-12-13;;Y;;Y;2019-07-02;;;BUILDING template
+EVERE - FH01;1621805;968307;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;59;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1621806;968308;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;61;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1621807;968309;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;63;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
+EVERE - FH01;5583180;971022;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;65;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1622805;969190;;Jan De Paduwaplaats - Place Jean De Paduwa;10;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1623831;970064;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;31;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120075;966850;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;100;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120078;966853;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;102;;A;2019-12-13;2020-02-27;Y;;Y;2020-03-05;;;BUILDING template
+EVERE - FH01;1120078;966853;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;102;;A;2019-12-13;2020-02-27;Y;;N;;;;BUILDING template
 EVERE - FH01;1622810;969195;;Jan De Paduwaplaats - Place Jean De Paduwa;17;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622811;969196;;Jan De Paduwaplaats - Place Jean De Paduwa;18;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622812;969197;;Jan De Paduwaplaats - Place Jean De Paduwa;19;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726248;971380;;Leuvensesteenweg - Chaussée de Louvain;936;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120029;966820;;Henry Dunantlaan - Avenue Henry Dunant;64;;A;2019-10-07;2019-10-23;Y;;Y;2019-06-10;;;BUILDING template
+EVERE - FH01;1120029;966820;;Henry Dunantlaan - Avenue Henry Dunant;64;;A;2019-10-07;2019-10-23;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;1620916;6195303;;Leuvensesteenweg - Chaussée de Louvain;940;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1324257;966942;;Oud-Strijderslaan - Avenue des Anciens Combattants;80;;A;2019-09-30;2020-02-06;Y;;Y;2020-02-19;;;BUILDING template
+EVERE - FH01;1324257;966942;;Oud-Strijderslaan - Avenue des Anciens Combattants;80;;A;2019-09-30;2020-02-06;Y;;N;;;;BUILDING template
 EVERE - FH01;1620919;967586;;Leuvensesteenweg - Chaussée de Louvain;944;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1282320;966909;;Oud-Strijderslaan - Avenue des Anciens Combattants;84;;XA;2019-09-30;;Y;;Y;2019-07-05;;;BUILDING template
+EVERE - FH01;1282320;966909;;Oud-Strijderslaan - Avenue des Anciens Combattants;84;;XA;2019-09-30;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1289386;966912;;Leuvensesteenweg - Chaussée de Louvain;946;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623993;970184;;Oud-Strijderslaan - Avenue des Anciens Combattants;86;;XA;2019-09-30;;Y;;Y;;;;BUILDING template
-EVERE - FH01;1621882;968354;Rue Fernand Leger 46-46A;Fernand Légerstraat - Rue Fernand Léger;46;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1621882;968354;Rue Fernand Leger 46-46A;Fernand Légerstraat - Rue Fernand Léger;46;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;4114527;970788;;Leuvensesteenweg - Chaussée de Louvain;948;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1336013;966956;Rue Fernand Leger 48-48A;Fernand Légerstraat - Rue Fernand Léger;48;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1336013;966956;Rue Fernand Leger 48-48A;Fernand Légerstraat - Rue Fernand Léger;48;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1620921;967587;;Leuvensesteenweg - Chaussée de Louvain;950;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1321438;966928;Rue Fernand Leger 50-50A;Fernand Légerstraat - Rue Fernand Léger;50;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1321438;966928;Rue Fernand Leger 50-50A;Fernand Légerstraat - Rue Fernand Léger;50;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1620922;967588;;Leuvensesteenweg - Chaussée de Louvain;952;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;5715054;13893495;;Steenbakkerserf - Clos des Briquetiers;7;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1620924;967589;;Leuvensesteenweg - Chaussée de Louvain;954;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;5715056;13893494;;Steenbakkerserf - Clos des Briquetiers;6;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1620926;967590;;Leuvensesteenweg - Chaussée de Louvain;956;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620517;13893474;Cicerolaan 31-33;Cicerolaan - Avenue Cicéron;33;;XA;2019-12-13;;N;;Y;;;;BUILDING template
+EVERE - FH01;1620517;13893474;Cicerolaan 31-33;Cicerolaan - Avenue Cicéron;33;;XA;;;N;;Y;;;;BUILDING template
 EVERE - FH01;1620927;967591;;Leuvensesteenweg - Chaussée de Louvain;958;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620929;967592;;Leuvensesteenweg - Chaussée de Louvain;960;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5978245;13893477;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;A;C;2019-09-30;2020-01-21;Y;;Y;2020-02-05;;;BUILDING template
+EVERE - FH01;5978245;13893477;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;A;C;2019-09-30;2020-01-21;Y;;N;;;;BUILDING template
 EVERE - FH01;1620931;967593;;Leuvensesteenweg - Chaussée de Louvain;962;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5978246;13893479;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;C;C;2019-09-30;2020-01-21;Y;;Y;2020-02-05;;;BUILDING template
+EVERE - FH01;5978246;13893479;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;C;C;2019-09-30;2020-01-21;Y;;N;;;;BUILDING template
 EVERE - FH01;1620932;967594;;Leuvensesteenweg - Chaussée de Louvain;964;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5984524;13893478;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;B;C;2019-09-30;2020-01-21;Y;;Y;2020-02-05;;;BUILDING template
+EVERE - FH01;5984524;13893478;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;B;C;2019-09-30;2020-01-21;Y;;N;;;;BUILDING template
 EVERE - FH01;1620933;967595;;Leuvensesteenweg - Chaussée de Louvain;966;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620934;967596;;Leuvensesteenweg - Chaussée de Louvain;968;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120058;13893492;;Leuvensesteenweg - Chaussée de Louvain;911;;;;;;;N;;;;BUILDING template
@@ -1173,78 +1178,78 @@ EVERE - FH01;726569;971410;;Leuvensesteenweg - Chaussée de Louvain;972;;;;;N;;N;
 EVERE - FH01;5583246;5620963;Jules Bordetlaan 66-68;Avenue Jules Bordet - Jules Bordetlaan;68;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
 EVERE - FH01;3916117;21350856;;Léon Grosjeanlaan;55;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620936;967597;;Leuvensesteenweg - Chaussée de Louvain;980;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621812;13893482;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;2;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;1621812;13893482;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;2;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;1620937;967598;;Leuvensesteenweg - Chaussée de Louvain;982;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621813;13893483;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;3;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;1621813;13893483;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;3;;C;2019-10-16;2019-11-06;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1620938;967599;;Leuvensesteenweg - Chaussée de Louvain;984;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621814;13893486;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;6;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;1621814;13893486;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;6;;C;2019-10-16;2019-11-06;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1620939;967600;;Leuvensesteenweg - Chaussée de Louvain;986;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621815;13893487;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;7;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;1621815;13893487;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;7;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;1620940;967601;;Leuvensesteenweg - Chaussée de Louvain;988;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5895268;6195327;Twee Huizenstraat 31-33;Twee Huizenstraat - Rue des Deux Maisons;33;;C;2019-12-13;2020-01-06;Y;;Y;2020-03-04;;;BUILDING template
-EVERE - FH01;1623872;13440179;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;153;A;C;2019-11-03;2020-01-24;Y;;Y;2020-02-19;;;BUILDING template
-EVERE - FH01;1621816;13893488;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;8;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;5895268;6195327;Twee Huizenstraat 31-33;Twee Huizenstraat - Rue des Deux Maisons;33;;C;2019-12-13;2020-01-06;Y;;N;;;;BUILDING template
+EVERE - FH01;1623872;13440179;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;153;A;C;2019-11-03;2020-01-24;Y;;N;;;;BUILDING template
+EVERE - FH01;1621816;13893488;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;8;;C;2019-10-16;2019-11-06;Y;;Y;2020-02-11;;;BUILDING template
 EVERE - FH01;1620942;967602;;Leuvensesteenweg - Chaussée de Louvain;994;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120081;6195330;;Twee Huizenstraat - Rue des Deux Maisons;37;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621817;13893489;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;9;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;1621817;13893489;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;9;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;1620944;6195206;;Leuvensesteenweg - Chaussée de Louvain;1000;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624356;970470;;Twee Huizenstraat - Rue des Deux Maisons;45;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1137199;21353371;Kolonel Bourgstraat 152-152A;Rue Colonel Bourg - Kolonel Bourgstraat;152;;C;2019-06-18;NOK;Y;;Y;;;;BUILDING template
-EVERE - FH01;3916119;13893490;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;10;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;1137199;21353371;Kolonel Bourgstraat 152-152A;Rue Colonel Bourg - Kolonel Bourgstraat;152;;XC;2019-06-18;;Y;;Y;;;;BUILDING template
+EVERE - FH01;3916119;13893490;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;10;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;25441;970533;;Leuvensesteenweg - Chaussée de Louvain;1002;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1324850;966944;;Twee Huizenstraat - Rue des Deux Maisons;47;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;3918850;13893484;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;4;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;3918850;13893484;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;4;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;4036998;6195304;;Leuvensesteenweg - Chaussée de Louvain;1000;A;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624357;970471;;Twee Huizenstraat - Rue des Deux Maisons;49;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622742;13873722;;Constant Permekelaan - Avenue Constant Permeke;4;;;;;;;N;;;;BUILDING template
-EVERE - FH01;4109913;13893485;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;5;;C;2019-10-16;2019-11-06;Y;;Y;2020-01-15;;;BUILDING template
+EVERE - FH01;4109913;13893485;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;5;;C;2019-10-16;2019-11-06;Y;;N;;;;BUILDING template
 EVERE - FH01;726584;971416;;Maquisstraat - Rue du Maquis;4;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1624359;970473;;Twee Huizenstraat - Rue des Deux Maisons;51;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5046515;21303566;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;138;;XC;2019-10-15;;;;Y;;;;BUILDING template
-EVERE - FH01;1621878;13893498;Rue Fernand Leger 40-40A;Fernand Légerstraat - Rue Fernand Léger;40;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;5046515;21303566;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;138;;XC;;;;;Y;;;;BUILDING template
+EVERE - FH01;1621878;13893498;Rue Fernand Leger 40-40A;Fernand Légerstraat - Rue Fernand Léger;40;A;A;2019-10-16;2019-11-06;;;N;;;;BUILDING template
 EVERE - FH01;1620971;967609;;Maquisstraat - Rue du Maquis;6;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120082;966854;;Twee Huizenstraat - Rue des Deux Maisons;55;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621880;13893499;Rue Fernand Leger 42-42A;Fernand Légerstraat - Rue Fernand Léger;42;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1621880;13893499;Rue Fernand Leger 42-42A;Fernand Légerstraat - Rue Fernand Léger;42;A;A;2019-10-16;2019-11-06;;;N;;;;BUILDING template
 EVERE - FH01;1620973;967611;;Maquisstraat - Rue du Maquis;8;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120083;966855;;Twee Huizenstraat - Rue des Deux Maisons;57;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621881;13893500;Rue Fernand Leger 44-44A;Fernand Légerstraat - Rue Fernand Léger;44;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1621881;13893500;Rue Fernand Leger 44-44A;Fernand Légerstraat - Rue Fernand Léger;44;A;A;2019-10-16;2019-11-06;;;N;;;;BUILDING template
 EVERE - FH01;1620975;967613;;Maquisstraat - Rue du Maquis;10;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1468743;6195334;;Twee Huizenstraat - Rue des Deux Maisons;61;;XC;2020-03-05;;Y;;Y;;;;BUILDING template
-EVERE - FH01;1621883;13893501;Rue Fernand Leger 46-46A;Fernand Légerstraat - Rue Fernand Léger;46;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1621883;13893501;Rue Fernand Leger 46-46A;Fernand Légerstraat - Rue Fernand Léger;46;A;A;2019-10-16;2019-11-06;;;N;;;;BUILDING template
 EVERE - FH01;1620977;967615;;Maquisstraat - Rue du Maquis;12;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1358518;6195336;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Twee Huizenstraat - Rue des Deux Maisons;63;;C;2019-10-01;2019-10-01;Y;;Y;2019-06-12;;;BUILDING template
+EVERE - FH01;1358518;6195336;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Twee Huizenstraat - Rue des Deux Maisons;63;;C;2019-10-01;2019-10-01;Y;;N;;;;BUILDING template
 EVERE - FH01;1620516;967233;Cicerolaan 31-33;Cicerolaan - Avenue Cicéron;31;;XA;2019-12-13;;Y;;Y;;;;BUILDING template
-EVERE - FH01;1621884;13893502;Rue Fernand Leger 48-48A;Fernand Légerstraat - Rue Fernand Léger;48;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1621884;13893502;Rue Fernand Leger 48-48A;Fernand Légerstraat - Rue Fernand Léger;48;A;A;2019-10-16;2019-11-06;;;N;;;;BUILDING template
 EVERE - FH01;1620979;967617;;Maquisstraat - Rue du Maquis;14;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5866853;7462372;Franz Guillaumelaan 76-78_Willy Van Der Meerenstr 2;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;2;;A;2019-12-13;2020-02-17;Y;;N;;;;BUILDING template
-EVERE - FH01;1620518;6195199;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Cicerolaan - Avenue Cicéron;35;;XC;2019-10-15;;N;;Y;;;;BUILDING template
-EVERE - FH01;4120030;13893503;Rue Fernand Leger 50-50A;Fernand Légerstraat - Rue Fernand Léger;50;A;A;2019-10-16;2019-11-06;;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1620518;6195199;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Cicerolaan - Avenue Cicéron;35;;XC;;;N;;Y;;;;BUILDING template
+EVERE - FH01;4120030;13893503;Rue Fernand Leger 50-50A;Fernand Légerstraat - Rue Fernand Léger;50;A;A;2019-10-16;2019-11-06;;;N;;;;BUILDING template
 EVERE - FH01;1620981;967619;;Maquisstraat - Rue du Maquis;16;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;5866854;7462373;;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;4;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120070;966847;;Franz Guillaumelaan - Avenue Franz Guillaume;45;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623617;13893480;;Jules Bordetlaan - Avenue Jules Bordet;106;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620983;967621;;Maquisstraat - Rue du Maquis;18;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5935345;7462374;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;5;;XA;2020-01-17;;Y;;Y;2019-06-26;;;BUILDING template
+EVERE - FH01;5935345;7462374;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;5;;XA;2020-01-17;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1120068;966845;;Franz Guillaumelaan - Avenue Franz Guillaume;47;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623864;13893504;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;116;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1620985;967623;;Maquisstraat - Rue du Maquis;20;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;5931199;7462375;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;7;;XA;2020-01-17;;Y;;Y;2019-06-26;;;BUILDING template
-EVERE - FH01;1120069;966846;;Franz Guillaumelaan - Avenue Franz Guillaume;49;;A;2019-11-03;2020-01-31;Y;;Y;2020-02-19;;;BUILDING template
+EVERE - FH01;5931199;7462375;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;7;;XA;2020-01-17;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1120069;966846;;Franz Guillaumelaan - Avenue Franz Guillaume;49;;A;2019-11-03;2020-01-31;Y;;N;;;;BUILDING template
 EVERE - FH01;1623962;13893475;;Avenue des Anciens Combattants;42;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1620987;967625;;Maquisstraat - Rue du Maquis;22;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;5943706;7462376;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;9;;XA;2020-01-17;;Y;;Y;2019-06-26;;;BUILDING template
-EVERE - FH01;1120072;966848;;Franz Guillaumelaan - Avenue Franz Guillaume;51;;A;2019-11-03;2020-01-24;Y;;Y;2019-06-27;;;BUILDING template
+EVERE - FH01;5943706;7462376;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;9;;XA;2020-01-17;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1120072;966848;;Franz Guillaumelaan - Avenue Franz Guillaume;51;;A;2019-11-03;2020-01-24;Y;;Y;2020-01-31;;;BUILDING template
 EVERE - FH01;1624362;13893497;;Twee Huizenstraat - Rue des Deux Maisons;57;A;;;;;;N;;;;BUILDING template
 EVERE - FH01;1620989;967627;;Maquisstraat - Rue du Maquis;24;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120073;966849;;Franz Guillaumelaan - Avenue Franz Guillaume;53;;XA;2019-11-03;;Y;;Y;2019-06-27;;;BUILDING template
+EVERE - FH01;1120073;966849;;Franz Guillaumelaan - Avenue Franz Guillaume;53;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
 EVERE - FH01;6071469;13893496;;Twee Huizenstraat - Rue des Deux Maisons;43;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1620991;967629;;Maquisstraat - Rue du Maquis;26;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726075;971332;;Sint-Jozefstraat - Rue Saint-Joseph;10;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1120067;966844;;Franz Guillaumelaan - Avenue Franz Guillaume;55;;XA;2019-11-03;;Y;;Y;2019-06-27;;;BUILDING template
-EVERE - FH01;1173605;966891;Edgar Degas straat 4-4A;Edgar Degas straat - Rue Edgard Degas;4;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1120067;966844;;Franz Guillaumelaan - Avenue Franz Guillaume;55;;XA;2019-11-03;;Y;;Y;;;;BUILDING template
+EVERE - FH01;1173605;966891;Edgar Degas straat 4-4A;Edgar Degas straat - Rue Edgard Degas;4;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1620993;967631;;Maquisstraat - Rue du Maquis;28;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622147;968594;;Sint-Jozefstraat - Rue Saint-Joseph;12;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1335105;966955;Edgar Degas straat 6-6A;Edgar Degas straat - Rue Edgard Degas;6;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template
+EVERE - FH01;1335105;966955;Edgar Degas straat 6-6A;Edgar Degas straat - Rue Edgard Degas;6;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-18;;;BUILDING template
 EVERE - FH01;1624268;6195338;;V-Daylaan - Avenue du V-Day;27;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1366986;966973;;Maquisstraat - Rue du Maquis;30;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622148;968595;;Sint-Jozefstraat - Rue Saint-Joseph;14;;;;;N;;N;;;;BUILDING template
@@ -1273,7 +1278,7 @@ EVERE - FH01;1621052;967688;;Maquisstraat - Rue du Maquis;118;;;;;N;;N;;;;BUILDI
 EVERE - FH01;1622157;968602;;Sint-Jozefstraat - Rue Saint-Joseph;24;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623833;970066;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;34;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1621872;968348;;Fernand Légerstraat - Rue Fernand Léger;12;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1621994;968456;;G. De Lombaerdestraat - Rue Georges De Lombaerde;1;;A;2019-09-30;2020-02-12;Y;;Y;2020-02-19;;;BUILDING template
+EVERE - FH01;1621994;968456;;G. De Lombaerdestraat - Rue Georges De Lombaerde;1;;A;2019-09-30;2020-02-12;Y;;N;;;;BUILDING template
 EVERE - FH01;1621054;967690;;Maquisstraat - Rue du Maquis;120;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622158;968603;;Sint-Jozefstraat - Rue Saint-Joseph;26;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623834;970067;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;36;;;;;N;;N;;;;BUILDING template
@@ -1308,12 +1313,12 @@ EVERE - FH01;4114709;970808;;Kerkhof van Brussellaan - Avenue du Cimetière de Br
 EVERE - FH01;725247;971226;;Franz Guillaumelaan - Avenue Franz Guillaume;1;;C;2019-10-03;2020-01-15;Y;;N;;;;BUILDING template
 EVERE - FH01;731606;971528;;Kareelovenlaan - Avenue du Four à Briques;1;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;723871;971161;;Fernand Légerstraat - Rue Fernand Léger;24;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1502163;967021;;G. De Lombaerdestraat - Rue Georges De Lombaerde;15;;C;2019-06-21;2019-06-21;Y;;Y;2019-10-31;;;BUILDING template
+EVERE - FH01;1502163;967021;;G. De Lombaerdestraat - Rue Georges De Lombaerde;15;;C;2019-06-21;2019-06-21;Y;;Y;2019-11-06;;;BUILDING template
 EVERE - FH01;1621064;967700;;Maquisstraat - Rue du Maquis;132;;;;;;;N;;;;BUILDING template
 EVERE - FH01;1622167;968611;;Sint-Jozefstraat - Rue Saint-Joseph;38;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623859;970089;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;85;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623849;970080;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;62;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;725248;971227;;Franz Guillaumelaan - Avenue Franz Guillaume;3;;C;2019-10-07;2019-12-03;Y;;Y;2020-02-19;;;BUILDING template
+EVERE - FH01;725248;971227;;Franz Guillaumelaan - Avenue Franz Guillaume;3;;C;2019-10-07;2019-12-03;Y;;N;;;;BUILDING template
 EVERE - FH01;731608;971529;;Kareelovenlaan - Avenue du Four à Briques;5;;C;2019-09-17;2019-09-20;Y;;N;;;;BUILDING template
 EVERE - FH01;723870;971160;;Fernand Légerstraat - Rue Fernand Léger;26;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622006;968467;;G. De Lombaerdestraat - Rue Georges De Lombaerde;17;;D;;;N;;N;;;;BUILDING template
@@ -1321,7 +1326,7 @@ EVERE - FH01;1621066;967702;;Maquisstraat - Rue du Maquis;134;;;;;N;;N;;;;BUILDI
 EVERE - FH01;1622168;968612;;Sint-Jozefstraat - Rue Saint-Joseph;40;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623860;970090;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;87;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1623851;970082;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;64;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;725257;971234;;Franz Guillaumelaan - Avenue Franz Guillaume;29;;XA;2019-10-07;;Y;;Y;2019-07-10;;;BUILDING template
+EVERE - FH01;725257;971234;;Franz Guillaumelaan - Avenue Franz Guillaume;29;;XA;2019-10-07;;Y;;Y;;;;BUILDING template
 EVERE - FH01;1623813;970047;;Kareelovenlaan - Avenue du Four à Briques;3;A;;;;N;;N;;;;BUILDING template
 EVERE - FH01;723872;971162;;Fernand Légerstraat - Rue Fernand Léger;28;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622008;968469;;G. De Lombaerdestraat - Rue Georges De Lombaerde;19;;D;;;N;;N;;;;BUILDING template
@@ -1330,7 +1335,7 @@ EVERE - FH01;1622169;968613;;Sint-Jozefstraat - Rue Saint-Joseph;42;;;;;N;;N;;;;
 EVERE - FH01;725361;5620983;;Avenue des Anciens Combattants - Oud-Strijderslaan;2;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1324572;966943;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;89;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;1120044;966826;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;66;;C;2019-12-13;2020-01-30;Y;;N;;;;BUILDING template
-EVERE - FH01;725258;6639302;;Franz Guillaumelaan - Avenue Franz Guillaume;31;;XA;2019-10-07;;Y;;Y;2019-07-10;;;BUILDING template
+EVERE - FH01;725258;6639302;;Franz Guillaumelaan - Avenue Franz Guillaume;31;;XA;2019-10-07;;Y;;Y;;;;BUILDING template
 EVERE - FH01;731614;971531;;Kareelovenlaan - Avenue du Four à Briques;3;B;C;2020-03-05;;Y;;N;;;;BUILDING template
 EVERE - FH01;1621876;968352;;Fernand Légerstraat - Rue Fernand Léger;30;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;726580;971415;;G. De Lombaerdestraat - Rue Georges De Lombaerde;1;A;;;;N;;N;;;;BUILDING template
@@ -1359,8 +1364,3 @@ EVERE - FH01;723869;971159;;Fernand Légerstraat - Rue Fernand Léger;36;;;;;N;;N;
 EVERE - FH01;1622015;968474;;G. De Lombaerdestraat - Rue Georges De Lombaerde;43;;D;;;N;;N;;;;BUILDING template
 EVERE - FH01;726092;971349;;Maquisstraat - Rue du Maquis;144;;;;;N;;N;;;;BUILDING template
 EVERE - FH01;1622176;968620;;Sint-Jozefstraat - Rue Saint-Joseph;50;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;725267;971235;;Franz Guillaumelaan - Avenue Franz Guillaume;2;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1623846;970077;;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;57;B;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;1620858;967534;;Leuvensesteenweg - Chaussée de Louvain;821;;D;;;N;;N;;;;BUILDING template
-EVERE - FH01;731616;971532;;Oud-Strijderslaan - Avenue des Anciens Combattants;200;;;;;N;;N;;;;BUILDING template
-EVERE - FH01;1165076;966888;;Fernand Légerstraat - Rue Fernand Léger;38;;A;2019-10-16;2019-11-06;Y;;Y;2019-10-04;;;BUILDING template

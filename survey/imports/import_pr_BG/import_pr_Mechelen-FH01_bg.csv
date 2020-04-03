@@ -1,21 +1,1067 @@
-Projectnummer;Opdrachtnummer;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
-MECHELEN - FH01;905658;905658;;Begijnenstraat 51_Vismarkt 18;Vismarkt;18;;;D;2020-01-20 12:25:22;Jo De Clippel;MDU;1;0;0;1;BUILDING template
-MECHELEN - FH01;5898870;5898870;;Begijnenstraat 51_Vismarkt 18;Begijnenstraat;51;;;D;2020-01-20 12:25:22;Jo De Clippel;MDU;1;1;0;2;BUILDING template
-MECHELEN - FH01;3054432;3054432;;Bruul 90_Lekkernijstraatje 1;Lekkernijstraatje;1;;;D;2020-01-14;Jo De Clippel;MDU;1;3;1;5;BUILDING template
-MECHELEN - FH01;4191732;4191732;;Frederik De Merodestraat 6-6A;Frederik de Merodestraat;6;;;D;2020-02-03 08:40:16;Jo De Clippel;MDU;1;1;1;3;BUILDING template
-MECHELEN - FH01;3032940;3032940;;Frederik De Merodestraat 6-6A;Frederik de Merodestraat;6;A;;D;2020-02-03 08:40:16;Jo De Clippel;MDU;1;0;0;1;BUILDING template
-MECHELEN - FH01;904293;904293;;Lange Schipstraat 58-60;Lange Schipstraat;58;;;D;2020-02-11 13:55:28;Jo De Clippel;MDU;1;4;0;5;BUILDING template
-MECHELEN - FH01;903465;903465;;Lange Schipstraat 58-60;Lange Schipstraat;60;;;D;2020-02-11 13:55:28;Jo De Clippel;MDU;1;3;0;4;BUILDING template
-MECHELEN - FH01;905662;905662;;Nauwstaat 9-11;Nauwstraat;9;;;C;2020-01-15 12:40:17;Jo De Clippel;MDU;2;2;0;4;BUILDING template
-MECHELEN - FH01;3043723;3043723;;Nauwstaat 9-11;Nauwstraat;11;;;C;2020-01-15 12:40:17;Jo De Clippel;MDU;1;0;0;1;BUILDING template
-MECHELEN - FH01;3032847;3032847;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik De Deckerstraat;37;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
-MECHELEN - FH01;929573;929573;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Sint-Katelijnestraat;62;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;1;0;0;1;BUILDING template
-MECHELEN - FH01;3048651;3048651;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Sint-Katelijnestraat;64;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
-MECHELEN - FH01;3032851;3032851;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik de Deckerstraat;41;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
-MECHELEN - FH01;929594;929594;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik De Deckerstraat;39;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
-MECHELEN - FH01;3055132;3055132;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Thaborstraat;35;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;2;36;BUILDING template
-MECHELEN - FH01;3055134;3055134;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Thaborstraat;37;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;2;36;BUILDING template
-MECHELEN - FH01;3050158;3050158;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;10;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;5;0;34;BUILDING template
-MECHELEN - FH01;3050160;3050160;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;11;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;5;0;34;BUILDING template
-MECHELEN - FH01;3050164;3050164;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;14;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;0;34;BUILDING template
-MECHELEN - FH01;3050162;3050162;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;12;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;0;34;BUILDING template
+Projectnummer;Opdrachtnummer;Blok;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+MECHELEN - FH01;3051770;BL0115;3051770;;Vismarkt 1-3;Vismarkt;1;;;D;2020-03-12 10:05:10;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;NB-28003c79a66;BL0115;NB-28003c79a66;;Vismarkt 1-3;Vismarkt;3;;;D;2020-03-12 10:05:10;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905716;BL0113;905716;;Tichelrij 1-1A;Tichelrij;1;;;;;Abdelmalek Lamkoref;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3050146;BL0113;3050146;;Tichelrij 1-1A;Tichelrij;1;A;;;;Abdelmalek Lamkoref;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3055132;BL0113;3055132;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Thaborstraat;35;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;2;8;BUILDING template
+MECHELEN - FH01;3055134;BL0113;3055134;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Thaborstraat;37;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;2;8;BUILDING template
+MECHELEN - FH01;3050158;BL0113;3050158;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;10;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3050160;BL0113;3050160;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;11;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3050164;BL0113;3050164;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;14;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;3050162;BL0113;3050162;;Tichelrij 10-11-12-14_Thaborstraat 35-37;Tichelrij;12;;;X;2020-02-20 10:50:15;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;NB-280029196b31;BL0113;NB-280029196b31;;Thaborstraat 27-29;Thaborstraat;29;;;D;2020-03-17;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905706;BL0113;905706;;Thaborstraat 27-29;Thaborstraat;27;;;D;2020-03-17;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935331;BL0111;935331;;Stadsheimelijkheid 1-3-5-7;Stadsheimelijkheid;1;;;;;;MDU;2;7;0;9;BUILDING template
+MECHELEN - FH01;4971562;BL0111;4971562;;Stadsheimelijkheid 1-3-5-7;Stadsheimelijkheid;3;;;;;;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;6611081;BL0111;6611081;;Stadsheimelijkheid 1-3-5-7;Stadsheimelijkheid;7;;;;;;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;5876086;BL0111;5876086;;Stadsheimelijkheid 1-3-5-7;Stadsheimelijkheid;5;;;;;;MDU;1;7;0;8;BUILDING template
+MECHELEN - FH01;929573;BL0108;929573;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Sint-Katelijnestraat;62;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3048651;BL0108;3048651;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Sint-Katelijnestraat;64;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;3032851;BL0108;3032851;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik de Deckerstraat;41;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;3032847;BL0108;3032847;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik De Deckerstraat;37;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;929594;BL0108;929594;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;Kanunnik De Deckerstraat;39;;;X;2020-02-21 11:30:31;Jo De Clippel;MDU;2;4;0;6;BUILDING template
+MECHELEN - FH01;930420;BL0112;930420;;;Nieuwe Beggaardenstraat;37;;;D;2020-03-17 08:45:12;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;905662;BL0115;905662;;Nauwstaat 9-11;Nauwstraat;9;;;E;2020-01-15 12:40:17;Jo De Clippel;MDU;2;2;0;4;BUILDING template
+MECHELEN - FH01;3043723;BL0115;3043723;;Nauwstaat 9-11;Nauwstraat;11;;;E;2020-01-15 12:40:17;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033126;BL0111;3033126;;Jef Denynplein 4-6;Jef Denynplein;6;;;C;2020-03-16 16:25:45;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;941663;BL0111;941663;;Jef Denynplein 4-6;Jef Denynplein;4;;;C;2020-03-16 16:25:45;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3037670;BL0116;3037670;;Ijzerleen 56- 58;Ijzerenleen;56;;;D;2020-03-16 09:30:24;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037673;BL0116;3037673;;Ijzerleen 56- 58;Ijzerenleen;58;;;D;2020-03-16 09:30:24;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905274;BL0116;905274;;Ijzerleen 46-48;Ijzerenleen;48;;;D;2020-03-16 09:55:09;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3037655;BL0116;3037655;;Ijzerleen 46-48;Ijzerenleen;46;;;D;2020-03-16 09:55:09;Jo De Clippel;MDU;0;8;2;10;BUILDING template
+MECHELEN - FH01;4191732;BL0105;4191732;;Frederik De Merodestraat 6-6A;Frederik de Merodestraat;6;;;D;2020-03-17;Dieu Jocelin;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;3032940;BL0105;3032940;;Frederik De Merodestraat 6-6A;Frederik de Merodestraat;6;A;;D;2020-03-17;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5776141;BL0110;5776141;;Drabstraat 6A-8-8A-10;Drabstraat;6;A;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;905651;BL0110;905651;;Drabstraat 6A-8-8A-10;Drabstraat;8;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4748692;BL0110;4748692;;Drabstraat 6A-8-8A-10;Drabstraat;10;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+MECHELEN - FH01;5904645;BL0110;5904645;;Drabstraat 6A-8-8A-10;Drabstraat;8;A;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3054432;BL0129;3054432;;Bruul 90_Lekkernijstraatje 1;Lekkernijstraatje;1;;;D;2020-01-14;Jo De Clippel;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;4741889;BL0125;4741889;;Borzestraat 34-36;Borzestraat;34;;;D;2020-03-03 09:40:15;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3031561;BL0125;3031561;;Borzestraat 34-36;Borzestraat;36;;;D;2020-03-03 09:40:15;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5898870;BL0116;5898870;;Begijnenstraat 51_Vismarkt 18;Begijnenstraat;51;;;D;2020-01-20 12:25:22;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;905658;BL0116;905658;;Begijnenstraat 51_Vismarkt 18;Vismarkt;18;;;D;2020-01-20 12:25:22;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905645;BL0110;905645;;Begijnenstraat 50-50A;Begijnenstraat;50;;;;;Dirk Marien;MDU;0;12;0;12;BUILDING template
+MECHELEN - FH01;5318115;BL0110;5318115;;Begijnenstraat 50-50A;Begijnenstraat;50;A;;;;Dirk Marien;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;4205021;BL0116;4205021;;Begijnenstraat 33-35-37-39-41-43A;Begijnenstraat;33;;;XC;2020-03-13 15:15:15;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;1459413;BL0116;1459413;;Begijnenstraat 33-35-37-39-41-43A;Begijnenstraat;35;;;XC;2020-03-13 15:15:15;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;1461368;BL0116;1461368;;Begijnenstraat 33-35-37-39-41-43A;Begijnenstraat;37;;;XC;2020-03-13 15:15:15;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;3030841;BL0116;3030841;;Begijnenstraat 33-35-37-39-41-43A;Begijnenstraat;39;;;XC;2020-03-13 15:15:15;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;3943977;BL0116;3943977;;Begijnenstraat 33-35-37-39-41-43A;Begijnenstraat;41;;;XC;2020-03-13 15:15:15;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;3943978;BL0116;3943978;;Begijnenstraat 33-35-37-39-41-43A;Begijnenstraat;43;A;;XC;2020-03-13 15:15:15;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;3032937;BL0105;3032937;;;Frederik de Merodestraat;4;;;D;2020-03-17 10:20:09;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;904317;BL0128;904317;;;Korte Schipstraat;29;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5383991;BL0102;5383991;;;Sint-Janstraat;16;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032938;BL0106;3032938;;;Frederik de Merodestraat;5;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;904574;BL0126;904574;;;Lange Schipstraat;1;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5904577;BL0102;5904577;;;Sint-Janstraat;8;B;;;;Kevin Dekens;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;3944029;BL0113;3944029;;;Dobbelhuizen;16;;;D;2020-02-11;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;904579;BL0127;904579;;;Lange Schipstraat;2;;;D;2020-02-17 12:00:30;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;5507055;BL0102;5507055;;;Sint-Janstraat;10;A;;;;Kevin Dekens;MDU;0;7;1;8;BUILDING template
+MECHELEN - FH01;3032941;BL0106;3032941;;;Frederik de Merodestraat;7;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4194975;BL0126;4194975;;;Lange Schipstraat;3;;;D;2020-02-17 12:30:42;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3048595;BL0110;3048595;;;Sint-Katelijnestraat;1;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901177;BL0105;901177;;;Frederik de Merodestraat;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047584;BL0127;3047584;;;Lange Schipstraat;4;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929577;BL0109;929577;;;Sint-Katelijnestraat;2;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032943;BL0106;3032943;;;Frederik de Merodestraat;9;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047585;BL0126;3047585;;;Lange Schipstraat;5;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4067640;BL0110;4067640;;;Sint-Katelijnestraat;3;;;D;2020-02-06 09:40:23;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;6447591;BL0101;6447591;;;Goswin de Stassartstraat;27;A;;;2018-06-25;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032945;BL0105;3032945;;;Frederik de Merodestraat;10;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047586;BL0127;3047586;;;Lange Schipstraat;6;;;D;2020-01-20 11:40:22;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;4042355;BL0109;4042355;;;Sint-Katelijnestraat;4;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905650;BL0110;905650;;;Drabstraat;12;;;D;2020-01-15;Jo De Clippel;MDU;0;10;1;11;BUILDING template
+MECHELEN - FH01;4752018;BL0106;4752018;;;Frederik de Merodestraat;11;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047590;BL0126;3047590;;;Lange Schipstraat;7;;;D;2020-01-20;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3048597;BL0110;3048597;;;Sint-Katelijnestraat;5;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4103699;BL0106;4103699;;;Frederik de Merodestraat;13;;;D;2020-02-03 08:45:24;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047592;BL0127;3047592;;;Lange Schipstraat;8;;;D;2018-09-05;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4740627;BL0111;4740627;;;Sint-Katelijnestraat;7;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032948;BL0106;3032948;;;Frederik de Merodestraat;15;;;D;2020-02-03 08:55:15;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3047593;BL0126;3047593;;;Lange Schipstraat;9;;;D;2020-03-11 08:35:10;Marouane Zoubir;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3048599;BL0109;3048599;;;Sint-Katelijnestraat;8;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032951;BL0106;3032951;;;Frederik de Merodestraat;17;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904315;BL0127;904315;;;Lange Schipstraat;10;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048602;BL0109;3048602;;;Sint-Katelijnestraat;10;;;D;2020-02-05 09:55:19;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3032953;BL0105;3032953;;;Frederik de Merodestraat;18;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904575;BL0126;904575;;;Lange Schipstraat;11;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048603;BL0109;3048603;;;Sint-Katelijnestraat;12;;;D;2020-02-05 10:05:16;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;NB-280011A8740;BL0122;NB-280011A8740;;;Geitestraat;11;A;;D;2020-01-22;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3032954;BL0106;3032954;;;Frederik de Merodestraat;19;;;D;2020-02-03 09:55:17;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3047595;BL0127;3047595;;;Lange Schipstraat;12;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929571;BL0110;929571;;;Sint-Katelijnestraat;13;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901182;BL0104;901182;;;Frederik de Merodestraat;20;;;D;2020-03-17 10:05:09;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;904576;BL0126;904576;;;Lange Schipstraat;13;;;D;2020-03-06 14:45:27;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;929576;BL0109;929576;;;Sint-Katelijnestraat;14;;;D;2020-02-05 10:00:27;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3032955;BL0106;3032955;;;Frederik de Merodestraat;21;;;;2020-02-03 10:00:33;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047597;BL0127;3047597;;;Lange Schipstraat;14;;;D;2020-02-17 11:20:18;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;929578;BL0110;929578;;;Sint-Katelijnestraat;15;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4751963;BL0104;4751963;;;Frederik de Merodestraat;22;;;D;2020-03-02 09:50:08;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3047599;BL0127;3047599;;;Lange Schipstraat;16;;;;2020-01-08 10:15:23;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929575;BL0108;929575;;;Sint-Katelijnestraat;16;;;D;2020-03-17 08:45:11;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;4751965;BL0104;4751965;;;Frederik de Merodestraat;24;;;D;2020-03-02 09:55:10;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3047600;BL0126;3047600;;;Lange Schipstraat;17;;;X;2020-03-02 09:35:10;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;901189;BL0106;901189;;;Frederik de Merodestraat;25;;;;2020-02-03 10:00:38;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047602;BL0126;3047602;;;Lange Schipstraat;19;;;D;2020-03-11 08:45:10;Marouane Zoubir;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3048609;BL0108;3048609;;;Sint-Katelijnestraat;20;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6463529;BL0110;6463529;;;Drabstraat;8;B;;;2019-10-24;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032958;BL0104;3032958;;;Frederik de Merodestraat;26;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047604;BL0127;3047604;;;Lange Schipstraat;20;;;XC;2020-02-19 16:25:19;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;929579;BL0110;929579;;;Sint-Katelijnestraat;21;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031641;BL0121;3031641;;;Désiré Boucherystraat;24;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901181;BL0107;901181;;;Frederik de Merodestraat;27;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4741904;BL0126;4741904;;;Lange Schipstraat;21;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048611;BL0108;3048611;;;Sint-Katelijnestraat;22;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5930292;BL0110;5930292;;;Drabstraat;8;C;;XC;2019-10-24;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;NB-280017A8020;BL0105;NB-280017A8020;;;Grote Markt;17;A;;;2020-01-23;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;919855;BL0121;919855;;;Désiré Boucherystraat;26;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032960;BL0104;3032960;;;Frederik de Merodestraat;28;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047606;BL0127;3047606;;;Lange Schipstraat;22;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048613;BL0108;3048613;;;Sint-Katelijnestraat;24;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032961;BL0107;3032961;;;Frederik de Merodestraat;29;;;D;2020-03-17 10:10:09;Dieu Jocelin;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;904577;BL0126;904577;;;Lange Schipstraat;23;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935319;BL0111;935319;;;Sint-Katelijnestraat;25;;;D;2020-02-05 11:00:28;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3032962;BL0104;3032962;;;Frederik de Merodestraat;30;;;D;2020-01-27 12:15:26;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3047607;BL0127;3047607;;;Lange Schipstraat;24;;;D;2020-03-02;Dieu Jocelin;MDU;2;1;0;3;BUILDING template
+MECHELEN - FH01;4014968;BL0108;4014968;;;Sint-Katelijnestraat;26;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032966;BL0107;3032966;;;Frederik de Merodestraat;31;;;;2020-02-03 10:10:24;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047608;BL0126;3047608;;;Lange Schipstraat;25;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048614;BL0111;3048614;;;Sint-Katelijnestraat;27;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904923;BL0123;904923;;;Ijzerenleen;11;;;D;2020-02-04;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;901185;BL0104;901185;;;Frederik de Merodestraat;32;;;D;2020-01-27;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047609;BL0127;3047609;;;Lange Schipstraat;26;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3048619;BL0111;3048619;;;Sint-Katelijnestraat;31;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032967;BL0107;3032967;;;Frederik de Merodestraat;33;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047611;BL0127;3047611;;;Lange Schipstraat;28;;;D;2018-09-05;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3048620;BL0111;3048620;;;Sint-Katelijnestraat;33;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4746768;BL0123;4746768;;;Geitestraat;12;;;;2019-10-24;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3036248;BL0131;3036248;;;Hazestraat;4;;;;2020-03-02 07:25:08;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901187;BL0104;901187;;;Frederik de Merodestraat;34;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3944180;BL0127;3944180;;;Lange Schipstraat;32;;;XC;2020-03-11 10:35:09;Marouane Zoubir;MDU;0;9;1;10;BUILDING template
+MECHELEN - FH01;4740648;BL0108;4740648;;;Sint-Katelijnestraat;36;;;D;2020-02-05 10:15:26;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3993916;BL0131;3993916;;;Hazestraat;6;;;;;Ralph Wery;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032969;BL0104;3032969;;;Frederik de Merodestraat;36;;;D;2020-01-27 13:00:32;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;903511;BL0128;903511;;;Lange Schipstraat;33;;;D;2020-03-11 10:50:07;Marouane Zoubir;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;935321;BL0111;935321;;;Sint-Katelijnestraat;37;;;D;2020-03-17 08:40:08;Dieu Jocelin;MDU;0;4;1;5;BUILDING template
+MECHELEN - FH01;3032970;BL0107;3032970;;;Frederik de Merodestraat;37;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047613;BL0127;3047613;;;Lange Schipstraat;34;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048626;BL0111;3048626;;;Sint-Katelijnestraat;41;;;D;2020-02-05 10:50:20;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;9583;BL0129;9583;;;Lange Schipstraat;99;;;;;Ralph Wery;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;3944014;BL0104;3944014;;;Frederik de Merodestraat;38;;;;;Abdelmalek Lamkoref;MDU;0;4;2;6;BUILDING template
+MECHELEN - FH01;3047614;BL0127;3047614;;;Lange Schipstraat;36;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048628;BL0111;3048628;;;Sint-Katelijnestraat;43;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032972;BL0107;3032972;;;Frederik de Merodestraat;39;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3944181;BL0128;3944181;;;Lange Schipstraat;37;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3048630;BL0108;3048630;;;Sint-Katelijnestraat;44;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;NB-2800280aa765;BL0121;NB-2800280aa765;;;Désiré Boucherystraat;28;;;D;2020-03-17;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;901183;BL0107;901183;;;Frederik de Merodestraat;41;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047615;BL0127;3047615;;;Lange Schipstraat;38;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032973;BL0104;3032973;;;Frederik de Merodestraat;42;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4736279;BL0128;4736279;;;Lange Schipstraat;39;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4740656;BL0108;4740656;;;Sint-Katelijnestraat;46;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047617;BL0127;3047617;;;Lange Schipstraat;40;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3048634;BL0111;3048634;;;Sint-Katelijnestraat;47;;;D;2020-03-17 08:30:12;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4153244;BL0104;4153244;;;Frederik de Merodestraat;44;;;D;2020-01-27 10:30:29;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3047618;BL0128;3047618;;;Lange Schipstraat;41;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048636;BL0108;3048636;;;Sint-Katelijnestraat;48;;;X;2020-02-05 10:15:22;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3032975;BL0103;3032975;;;Frederik de Merodestraat;45;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903513;BL0127;903513;;;Lange Schipstraat;42;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3944199;BL0111;3944199;;;Sint-Katelijnestraat;49;;;D;2020-03-17 08:25:08;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3032976;BL0104;3032976;;;Frederik de Merodestraat;46;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;1276380;BL0128;1276380;;;Lange Schipstraat;43;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048637;BL0108;3048637;;;Sint-Katelijnestraat;50;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037663;BL0116;3037663;;;Ijzerenleen;52;;;D;2020-01-20;Jo De Clippel;MDU;0;2;1;3;BUILDING template
+MECHELEN - FH01;3032978;BL0103;3032978;;;Frederik de Merodestraat;47;;;D;2020-03-17 10:05:07;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;904196;BL0127;904196;;;Lange Schipstraat;44;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048639;BL0111;3048639;;;Sint-Katelijnestraat;51;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901191;BL0118;901191;;;Grote Markt;6;;;;2019-10-24;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032979;BL0103;3032979;;;Frederik de Merodestraat;49;;;D;2020-02-03;Jo De Clippel;MDU;0;2;1;3;BUILDING template
+MECHELEN - FH01;3047623;BL0128;3047623;;;Lange Schipstraat;45;;;D;2020-01-08 07:40:17;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3048640;BL0108;3048640;;;Sint-Katelijnestraat;52;;;D;2020-02-05;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3032980;BL0103;3032980;;;Frederik de Merodestraat;51;;;D;2020-03-17 10:00:13;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;904197;BL0127;904197;;;Lange Schipstraat;46;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3048641;BL0111;3048641;;;Sint-Katelijnestraat;53;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4746691;BL0122;4746691;;;Grote Markt;33;;;;2020-01-23;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;901186;BL0103;901186;;;Frederik de Merodestraat;55;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047625;BL0128;3047625;;;Lange Schipstraat;47;;;D;2020-01-07 15:20:19;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3048642;BL0108;3048642;;;Sint-Katelijnestraat;54;;;D;2020-02-05 10:25:14;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3032982;BL0103;3032982;;;Frederik de Merodestraat;57;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047627;BL0127;3047627;;;Lange Schipstraat;48;;;D;2020-02-17;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4739270;BL0111;4739270;;;Sint-Katelijnestraat;55;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905042;BL0121;905042;;;Grote Markt;24;;;;2018-06-22;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032985;BL0103;3032985;;;Frederik de Merodestraat;59;;;;2020-02-03 10:35:14;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4736378;BL0127;4736378;;;Lange Schipstraat;50;;;D;2020-01-08 10:45:37;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3048643;BL0108;3048643;;;Sint-Katelijnestraat;56;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042680;BL0119;3042680;;;Grote markt;21;;;;2020-01-23 10:20:23;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901188;BL0103;901188;;;Frederik de Merodestraat;61;;;D;2020-03-17 09:55:13;Dieu Jocelin;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;903512;BL0128;903512;;;Lange Schipstraat;51;;;D;2020-03-11;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;935322;BL0111;935322;;;Sint-Katelijnestraat;57;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901597;BL0102;901597;;;Frederik de Merodestraat;63;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047629;BL0127;3047629;;;Lange Schipstraat;52;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3048645;BL0108;3048645;;;Sint-Katelijnestraat;58;;;D;2020-03-17 08:25:09;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;5602863;BL0106;5602863;;;Frederik De Merodestraat;3;;;;2018-06-22;Abdelmalek Lamkoref;MDU;2;5;1;8;BUILDING template
+MECHELEN - FH01;3032990;BL0102;3032990;;;Frederik de Merodestraat;65;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047630;BL0127;3047630;;;Lange Schipstraat;54;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3048647;BL0111;3048647;;;Sint-Katelijnestraat;59;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4731645;BL0102;4731645;;;Frederik de Merodestraat;69;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047632;BL0127;3047632;;;Lange Schipstraat;56;;;F;2020-01-20;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3048649;BL0108;3048649;;;Sint-Katelijnestraat;60;;;D;2020-02-05 10:30:36;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;5426070;BL0105;5426070;;;Befferstraat;39;;;;2020-03-17 09:30:12;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5602996;BL0114;5602996;;;'t Veer;15;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;898126;BL0102;898126;;;Frederik de Merodestraat;71;;;D;2020-02-03 10:45:25;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;904293;BL0127;904293;;;Lange Schipstraat;58;;;D;2020-03-11;Marouane Zoubir;MDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935323;BL0111;935323;;;Sint-Katelijnestraat;61;;;D;2020-02-05 10:35:17;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;1323395;BL0105;1323395;;;Varkensstraat;8;;;A;2019-11-26 13:35:14;Jo De Clippel;MDU;0;28;1;29;BUILDING template
+MECHELEN - FH01;935316;BL0114;935316;;;'t Veer;17;;;D;2020-03-06 10:30:20;Jo De Clippel;MDU;1;4;0;5;BUILDING template
+MECHELEN - FH01;3035204;BL0123;3035204;;;Geitestraat;4;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;903464;BL0129;903464;;;Lange Schipstraat;61;;;D;2020-01-07 12:40:16;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3051131;BL0105;3051131;;;Varkensstraat;10;;;C;2019-11-29 10:30:32;Jo De Clippel;MDU;0;10;1;11;BUILDING template
+MECHELEN - FH01;929555;BL0110;929555;;;A.B.-straat;1;;;D;2020-03-09 14:10:10;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;4746724;BL0122;4746724;;;Geitestraat;5;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047636;BL0127;3047636;;;Lange Schipstraat;62;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3944217;BL0105;3944217;;;Varkensstraat;12;;;C;2019-11-28 11:45:22;Jo De Clippel;MDU;0;10;1;11;BUILDING template
+MECHELEN - FH01;941666;BL0111;941666;;;A.B.-straat;2;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035206;BL0123;3035206;;;Geitestraat;6;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4731524;BL0129;4731524;;;Lange Schipstraat;63;;;D;2020-01-07 12:35:20;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;5364604;BL0111;5364604;;;Sint-Katelijnestraat;45;A;;;2020-03-17 08:35:12;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3944218;BL0105;3944218;;;Varkensstraat;14;;;A;2019-11-25 11:15:32;Jo De Clippel;MDU;0;29;1;30;BUILDING template
+MECHELEN - FH01;941664;BL0110;941664;;;A.B.-straat;3;;;D;2020-03-09 08:35:55;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3035207;BL0122;3035207;;;Geitestraat;7;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047637;BL0127;3047637;;;Lange Schipstraat;64;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929553;BL0109;929553;;;Sint-Romboutskerkhof;2;;;D;2020-03-17 11:00:21;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3028796;BL0111;3028796;;;A.B.-straat;4;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035209;BL0123;3035209;;;Geitestraat;8;;;;2020-03-09 11:55:10;Marouane Zoubir;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047639;BL0129;3047639;;;Lange Schipstraat;65;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;5414780;BL0109;5414780;;;Sint-Romboutskerkhof;3;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5706656;BL0104;5706656;;;Varkensstraat;19;;;;2018-06-20;Abdelmalek Lamkoref;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3028797;BL0110;3028797;;;A.B.-straat;5;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035211;BL0122;3035211;;;Geitestraat;9;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;903466;BL0127;903466;;;Lange Schipstraat;66;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929554;BL0109;929554;;;Sint-Romboutskerkhof;4;;;;;Ralph Wery;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;1323394;BL0104;1323394;;;Varkensstraat;13;;;A;2019-11-25 14:00:43;Jo De Clippel;MDU;0;34;1;35;BUILDING template
+MECHELEN - FH01;NB-280027B1b79;BL0122;NB-280027B1b79;;;Geitestraat;27;B;;D;2020-01-22;Jo De Clippel;MDU;0;2;1;3;BUILDING template
+MECHELEN - FH01;3028798;BL0110;3028798;;;A.B.-straat;7;;;XC;2020-03-16 12:15:21;Jo De Clippel;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;3035212;BL0123;3035212;;;Geitestraat;10;;;D;2020-03-09 12:00:15;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047641;BL0129;3047641;;;Lange Schipstraat;67;;;D;2020-01-07 12:30:26;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;929552;BL0109;929552;;;Sint-Romboutskerkhof;5;;;;;Ralph Wery;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;NB-28002Ad863;BL0104;NB-28002Ad863;;;Biest;2;A;;;2020-01-27;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905710;BL0112;905710;;;Arme-Clarenstraat;1;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035214;BL0122;3035214;;;Geitestraat;11;;;D;2020-02-12;Steffen Verhofsté;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;903467;BL0127;903467;;;Lange Schipstraat;68;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929548;BL0109;929548;;;Sint-Romboutskerkhof;1;A;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;930428;BL0111;930428;;;Arme-Clarenstraat;2;;;XC;2020-03-09 11:35:13;Jo De Clippel;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;3035215;BL0122;3035215;;;Geitestraat;13;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047645;BL0129;3047645;;;Lange Schipstraat;69;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;NB-280029A4526;BL0101;NB-280029A4526;;;Goswin de Stassartstraat;29;A;;D;2020-02-03;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3029535;BL0112;3029535;;;Arme-Clarenstraat;3;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035216;BL0123;3035216;;;Geitestraat;14;;;D;2020-03-09 12:10:08;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047646;BL0127;3047646;;;Lange Schipstraat;70;;;;;Abdelmalek Lamkoref;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3029537;BL0111;3029537;;;Arme-Clarenstraat;4;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035217;BL0122;3035217;;;Geitestraat;15;;;D;2020-03-09 10:35:19;Marouane Zoubir;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;901167;BL0105;901167;;;Standonckstraat;1;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4744409;BL0120;4744409;;;Befferstraat;36;;;;2020-02-12 09:50:27;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;4736802;BL0112;4736802;;;Arme-Clarenstraat;5;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035219;BL0123;3035219;;;Geitestraat;16;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4731537;BL0129;4731537;;;Lange Schipstraat;73;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4462632;BL0105;4462632;;;Standonckstraat;3;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4731627;BL0104;4731627;;;Veemarkt;27;;;;2018-06-20;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;NB-280076A0a43;BL0127;NB-280076A0a43;;;Lange Schipstraat;76;A;;;2020-02-17;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4185057;BL0111;4185057;;;Arme-Clarenstraat;6;;;D;2020-03-05 09:00:14;Jo De Clippel;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;904905;BL0122;904905;;;Geitestraat;17;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047652;BL0127;3047652;;;Lange Schipstraat;74;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048977;BL0105;3048977;;;Standonckstraat;5;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3029538;BL0112;3029538;;;Arme-Clarenstraat;7;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904906;BL0122;904906;;;Geitestraat;19;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047654;BL0129;3047654;;;Lange Schipstraat;75;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048979;BL0105;3048979;;;Standonckstraat;7;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3029539;BL0111;3029539;;;Arme-Clarenstraat;8;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904910;BL0123;904910;;;Geitestraat;20;;;D;2020-01-22 12:45:23;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3047655;BL0127;3047655;;;Lange Schipstraat;76;;;;;Abdelmalek Lamkoref;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;4751986;BL0105;4751986;;;Standonckstraat;9;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905713;BL0112;905713;;;Melaan;16;;;D;2020-02-18 16:10:19;Steffen Verhofste;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4081944;BL0130;4081944;;;Leermarkt;22;;;;2020-03-12;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3029540;BL0112;3029540;;;Arme-Clarenstraat;9;;;D;2020-03-05;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3035220;BL0122;3035220;;;Geitestraat;21;;;D;2020-03-09 10:45:15;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047659;BL0129;3047659;;;Lange Schipstraat;77;;;D;2020-01-07 12:30:33;Jo De Clippel;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;4751988;BL0105;4751988;;;Standonckstraat;11;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030806;BL0112;3030806;;;Nieuwe Beggaardenstraat;39;;;C;2020-02-11 12:30:41;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3029541;BL0111;3029541;;;Arme-Clarenstraat;10;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035222;BL0123;3035222;;;Geitestraat;22;;;D;2020-03-09 12:20:15;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047660;BL0127;3047660;;;Lange Schipstraat;78;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3049065;BL0116;3049065;;;Steenweg;2;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3032946;BL0105;3032946;;;Frederik de merodestraat;12;;;D;2020-03-17 10:10:10;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5991411;BL0112;5991411;;;Melaan;12;;;;2020-03-12;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3029542;BL0112;3029542;;;Arme-Clarenstraat;11;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4066751;BL0122;4066751;;;Geitestraat;25;;;;2020-03-09 11:00:27;Marouane Zoubir;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;903468;BL0127;903468;;;Lange Schipstraat;80;;;X;2020-02-17 08:20:18;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3049066;BL0116;3049066;;;Steenweg;4;;;D;2020-01-23 11:20:18;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;4164871;BL0105;4164871;;;Frederik de merodestraat;14;;;;2018-06-20;Abdelmalek Lamkoref;MDU;1;6;1;8;BUILDING template
+MECHELEN - FH01;4038372;BL0111;4038372;;;Arme-Clarenstraat;12;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4746751;BL0122;4746751;;;Geitestraat;27;;;D;2020-01-23 13:20:17;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;1283600;BL0127;1283600;;;Lange Schipstraat;82;;;XC;2020-03-06 11:15:16;Marouane Zoubir;MDU;0;7;0;7;BUILDING template
+MECHELEN - FH01;3049067;BL0116;3049067;;;Steenweg;6;;;D;2020-01-23 11:30:31;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3032950;BL0105;3032950;;;Frederik de merodestraat;16;;;;2018-06-20;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6622322;BL0110;6622322;;;A.B.-straat;3;A;;D;2020-03-12 08:55:08;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3029543;BL0112;3029543;;;Arme-Clarenstraat;13;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035225;BL0123;3035225;;;Geitestraat;28;;;D;2020-03-09 12:30:17;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047667;BL0129;3047667;;;Lange Schipstraat;83;;;D;2020-01-07 12:15:29;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3049069;BL0116;3049069;;;Steenweg;8;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4733024;BL0111;4733024;;;Arme-Clarenstraat;14;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3035226;BL0122;3035226;;;Geitestraat;29;;;;2020-01-23 10:00:38;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3049070;BL0116;3049070;;;Steenweg;10;;;D;2020-02-04;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3029544;BL0112;3029544;;;Arme-Clarenstraat;15;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035227;BL0123;3035227;;;Geitestraat;32;;;D;2020-01-22 09:40:16;Dieu Jocelin;MDU;4;0;0;4;BUILDING template
+MECHELEN - FH01;4255135;BL0127;4255135;;;Lange Schipstraat;86;;;;2020-03-06 14:55:09;Marouane Zoubir;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3049075;BL0116;3049075;;;Steenweg;12;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031082;BL0104;3031082;;;Biest;8;;;;2020-03-12 11:45:13;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3029547;BL0112;3029547;;;Arme-Clarenstraat;23;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035229;BL0123;3035229;;;Geitestraat;34;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047668;BL0129;3047668;;;Lange Schipstraat;89;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049076;BL0116;3049076;;;Steenweg;14;;;D;2020-01-23 11:05:20;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;929560;BL0108;929560;;;Goswin de Stassartstraat;1;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047670;BL0127;3047670;;;Lange Schipstraat;90;;;;;Abdelmalek Lamkoref;MDU;0;11;0;11;BUILDING template
+MECHELEN - FH01;3049078;BL0116;3049078;;;Steenweg;16;;;D;2020-01-23 11:15:33;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;4091142;BL0112;4091142;;;Arme-Clarenstraat;25;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929565;BL0107;929565;;;Goswin de Stassartstraat;2;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047671;BL0129;3047671;;;Lange Schipstraat;91;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049080;BL0116;3049080;;;Steenweg;18;;;;;Abdelmalek Lamkoref;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;929567;BL0108;929567;;;Goswin de Stassartstraat;3;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049081;BL0116;3049081;;;Steenweg;20;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;6397326;BL0120;6397326;;;Zakstraat;7;;;;2020-03-05 07:45:09;Marouane Zoubir;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;1458492;BL0107;1458492;;;Goswin de Stassartstraat;4;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047675;BL0129;3047675;;;Lange Schipstraat;95;;;D;2020-03-11 13:45:10;Marouane Zoubir;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3049083;BL0116;3049083;;;Steenweg;22;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4736819;BL0112;4736819;;;Arme-Clarenstraat;31;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033213;BL0108;3033213;;;Goswin de Stassartstraat;5;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903463;BL0129;903463;;;Lange Schipstraat;97;;;D;2020-01-07 12:20:15;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3049084;BL0116;3049084;;;Steenweg;24;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905709;BL0112;905709;;;Arme-Clarenstraat;33;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033214;BL0107;3033214;;;Goswin de Stassartstraat;6;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3049085;BL0116;3049085;;;Steenweg;26;;;D;2020-03-12 12:20:09;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;901199;BL0105;901199;;;Befferstraat;1;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929561;BL0108;929561;;;Goswin de Stassartstraat;7;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903510;BL0126;903510;;;Lange Schipstraat;27;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049086;BL0116;3049086;;;Steenweg;28;;;D;2020-01-23 10:55:16;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3030756;BL0105;3030756;;;Befferstraat;3;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4267275;BL0107;4267275;;;Goswin de Stassartstraat;8;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903155;BL0130;903155;;;Leermarkt;2;;;D;2018-09-10;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3049087;BL0116;3049087;;;Steenweg;30;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030757;BL0105;3030757;;;Befferstraat;5;;;D;2020-02-04 09:35:16;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;929562;BL0101;929562;;;Goswin de Stassartstraat;9;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3040411;BL0130;3040411;;;Leermarkt;4;;;D;2020-02-13 12:00:32;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3049088;BL0116;3049088;;;Steenweg;32;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030758;BL0105;3030758;;;Befferstraat;7;;;D;2020-02-04 09:40:15;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3033215;BL0107;3033215;;;Goswin de Stassartstraat;10;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040414;BL0130;3040414;;;Leermarkt;6;;;D;2020-02-13 11:55:23;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3049089;BL0116;3049089;;;Steenweg;34;;;D;2020-01-23 11:00:30;Jo De Clippel;MDU;1;4;0;5;BUILDING template
+MECHELEN - FH01;3052907;BL0120;3052907;;;Rik woutersstraat;22;B;;;2018-06-20;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030759;BL0105;3030759;;;Befferstraat;9;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929563;BL0101;929563;;;Goswin de Stassartstraat;11;;;;;Kevin Dekens;MDU;6;2;2;10;BUILDING template
+MECHELEN - FH01;903154;BL0130;903154;;;Leermarkt;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049091;BL0116;3049091;;;Steenweg;36;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901432;BL0104;901432;;;Veemarkt;19;;;;2018-06-20;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030761;BL0120;3030761;;;Befferstraat;10;;;D;2020-03-05 08:45:11;Marouane Zoubir;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4740683;BL0107;4740683;;;Goswin de Stassartstraat;12;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040419;BL0130;3040419;;;Leermarkt;14;;;XC;2020-03-12 09:50:13;Marouane Zoubir;MDU;1;5;2;8;BUILDING template
+MECHELEN - FH01;3049093;BL0116;3049093;;;Steenweg;40;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4751991;BL0105;4751991;;;Befferstraat;11;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929568;BL0101;929568;;;Goswin de Stassartstraat;13;;;D;2020-02-03 11:40:15;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3040422;BL0130;3040422;;;Leermarkt;16;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049095;BL0116;3049095;;;Steenweg;42;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905663;BL0115;905663;;;Nauwstraat;3;;;D;2020-02-03;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3944173;BL0125;3944173;;;Schaalstraat;31;;;D;2020-01-21 09:30:44;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;6085045;BL0107;6085045;;;Klapgat;2;;;;;;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3030762;BL0120;3030762;;;Befferstraat;12;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929566;BL0107;929566;;;Goswin de Stassartstraat;14;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040425;BL0130;3040425;;;Leermarkt;18;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049096;BL0116;3049096;;;Steenweg;44;;;D;2020-03-12 11:25:09;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;4741876;BL0125;4741876;;;Schaalstraat;23;;;;2020-01-21 09:30:35;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901426;BL0105;901426;;;Befferstraat;13;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033222;BL0101;3033222;;;Goswin de Stassartstraat;15;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040429;BL0130;3040429;;;Leermarkt;24;;;D;2020-02-13 12:00:48;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3049098;BL0116;3049098;;;Steenweg;46;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051190;BL0104;3051190;;;Veemarkt;39;;;;2018-06-20;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905661;BL0116;905661;;;Nauwstraat;2;;;;2018-07-02;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030763;BL0120;3030763;;;Befferstraat;14;;;D;2020-02-04 09:25:19;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;901600;BL0102;901600;;;Goswin de Stassartstraat;16;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3049100;BL0116;3049100;;;Steenweg;48;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030765;BL0105;3030765;;;Befferstraat;15;;;D;2020-02-04 09:45:29;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3033223;BL0101;3033223;;;Goswin de Stassartstraat;17;;;D;2020-02-03 11:30:24;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4733926;BL0130;4733926;;;Leermarkt;30;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;941661;BL0111;941661;;;Straatje-zonder-einde;3;;;;;Ralph Wery;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030766;BL0120;3030766;;;Befferstraat;16;;;D;2020-02-04 09:25:16;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3033225;BL0102;3033225;;;Goswin de Stassartstraat;18;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3944097;BL0130;3944097;;;Leermarkt;32;;;;2020-03-12 08:10:07;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905708;BL0113;905708;;;Thaborstraat;1;;;D;2018-09-18;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;901200;BL0105;901200;;;Befferstraat;17;;;D;2020-02-04 09:50:24;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3033226;BL0101;3033226;;;Goswin de Stassartstraat;19;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4733929;BL0130;4733929;;;Leermarkt;34;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3055125;BL0113;3055125;;;Thaborstraat;3;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030771;BL0105;3030771;;;Befferstraat;19;;;D;2020-02-04 09:55:26;Dieu Jocelin;MDU;1;8;1;10;BUILDING template
+MECHELEN - FH01;3033228;BL0102;3033228;;;Goswin de Stassartstraat;20;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040438;BL0130;3040438;;;Leermarkt;36;;;;;Abdelmalek Lamkoref;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3055127;BL0113;3055127;;;Thaborstraat;5;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3030770;BL0120;3030770;;;Befferstraat;20;;;D;2020-02-04 09:15:24;Dieu Jocelin;MDU;2;2;0;4;BUILDING template
+MECHELEN - FH01;4740700;BL0101;4740700;;;Goswin de Stassartstraat;21;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040443;BL0130;3040443;;;Leermarkt;40;;;XA;2020-03-12 11:45:12;Marouane Zoubir;MDU;1;5;1;7;BUILDING template
+MECHELEN - FH01;4091073;BL0113;4091073;;;Thaborstraat;7;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901423;BL0120;901423;;;Befferstraat;22;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033229;BL0101;3033229;;;Goswin de Stassartstraat;23;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;903150;BL0130;903150;;;Leermarkt;42;;;;;Abdelmalek Lamkoref;MDU;0;12;0;12;BUILDING template
+MECHELEN - FH01;935312;BL0112;935312;;;Thaborstraat;10;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901428;BL0105;901428;;;Befferstraat;23;;;;;Bernardo Kana da Rosa;MDU;1;5;1;7;BUILDING template
+MECHELEN - FH01;898134;BL0102;898134;;;Goswin de Stassartstraat;24;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3040448;BL0130;3040448;;;Leermarkt;48;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4158429;BL0112;4158429;;;Thaborstraat;12;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030777;BL0120;3030777;;;Befferstraat;24;;;D;2020-03-09 09:45:41;Marouane Zoubir;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;929569;BL0101;929569;;;Goswin de Stassartstraat;25;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3040450;BL0130;3040450;;;Leermarkt;52;;;D;2020-03-02 07:35:08;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3055129;BL0112;3055129;;;Thaborstraat;14;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901429;BL0105;901429;;;Befferstraat;25;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4737412;BL0102;4737412;;;Goswin de Stassartstraat;26;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3040451;BL0130;3040451;;;Leermarkt;54;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3055130;BL0113;3055130;;;Thaborstraat;15;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030779;BL0120;3030779;;;Befferstraat;26;;;D;2020-02-04 09:10:16;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;4740712;BL0101;4740712;;;Goswin de Stassartstraat;27;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040453;BL0130;3040453;;;Leermarkt;56;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4751186;BL0112;4751186;;;Thaborstraat;16;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030780;BL0120;3030780;;;Befferstraat;28;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901601;BL0102;901601;;;Goswin de Stassartstraat;28;;;;2020-03-12 11:55:09;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3040454;BL0130;3040454;;;Leermarkt;58;;;D;2020-02-13 12:25:15;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4236745;BL0113;4236745;;;Thaborstraat;17;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030782;BL0105;3030782;;;Befferstraat;29;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4740715;BL0101;4740715;;;Goswin de Stassartstraat;29;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;903152;BL0130;903152;;;Leermarkt;60;;;D;2020-02-13 12:15:28;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4751193;BL0112;4751193;;;Thaborstraat;18;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030783;BL0120;3030783;;;Befferstraat;30;;;D;2020-02-04 09:00:33;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3040456;BL0130;3040456;;;Leermarkt;62;;;D;2020-02-13 12:20:18;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4736702;BL0113;4736702;;;Thaborstraat;19;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901425;BL0105;901425;;;Befferstraat;31;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033234;BL0101;3033234;;;Goswin de Stassartstraat;33;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3054434;BL0128;3054434;;;Lekkernijstraatje;8;;;;;Abdelmalek Lamkoref;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;935313;BL0112;935313;;;Thaborstraat;20;;;;2020-03-06 08:15:13;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4748726;BL0116;4748726;;;Nauwstraat;6;;;;2018-07-02;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030785;BL0120;3030785;;;Befferstraat;32;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033240;BL0101;3033240;;;Goswin de Stassartstraat;45;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4246718;BL0128;4246718;;;Lekkernijstraatje;10;;;;;Abdelmalek Lamkoref;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4736704;BL0113;4736704;;;Thaborstraat;21;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030786;BL0105;3030786;;;Befferstraat;33;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929621;BL0101;929621;;;Goswin de Stassartstraat;47;;;X;2020-03-17;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;3043006;BL0112;3043006;;;Melaan;2;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4736706;BL0113;4736706;;;Thaborstraat;23;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904578;BL0125;904578;;;Schaalstraat;5;;;;2018-07-02;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030788;BL0120;3030788;;;Befferstraat;34;;;;2020-02-04 09:00:28;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905641;BL0127;905641;;;Grootbrug;1;;;D;2020-02-10 11:00:46;Jo De Clippel;MDU;3;0;0;3;BUILDING template
+MECHELEN - FH01;5602939;BL0110;5602939;;;Melaan;3;;;;2020-02-20 11:30:32;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905707;BL0113;905707;;;Thaborstraat;25;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4746681;BL0122;4746681;;;Schoenmarkt;6;;;;2019-10-28;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030789;BL0105;3030789;;;Befferstraat;35;;;D;2020-03-17 09:35:11;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;905639;BL0115;905639;;;Grootbrug;2;;;D;2018-09-10;Bernardo Kana da Rosa;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;905712;BL0112;905712;;;Melaan;4;;;D;2020-02-06 08:25:13;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3030790;BL0105;3030790;;;Befferstraat;37;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905640;BL0127;905640;;;Grootbrug;3;;;D;2020-02-10 11:10:23;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;4736837;BL0112;4736837;;;Melaan;6;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4741830;BL0126;4741830;;;Schaalstraat;6;;;;2018-07-02;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901424;BL0120;901424;;;Befferstraat;38;;;;2020-02-04 08:55:16;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3035637;BL0115;3035637;;;Grootbrug;6;;;;2020-02-10 11:25:18;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043012;BL0112;3043012;;;Melaan;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5530639;BL0102;5530639;;;Sint-Janstraat;8;D;;;2018-07-02;Kevin Dekens;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;3047697;BL0106;3047697;;;Schoolstraat;8;;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3976050;BL0116;3976050;;;Begijnenstraat;3;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905638;BL0115;905638;;;Grootbrug;8;;;;2020-02-10 11:30:27;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4736842;BL0112;4736842;;;Melaan;10;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4736780;BL0113;4736780;;;Thaborstraat;51;;;C;2020-02-19 11:45:25;Steffen Verhofste;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5539175;BL0102;5539175;;;Sint-Janstraat;8;C;;;2018-07-02;Kevin Dekens;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;3030820;BL0110;3030820;;;Begijnenstraat;4;;;XC;2020-03-13 09:25:09;Jo De Clippel;MDU;0;18;1;19;BUILDING template
+MECHELEN - FH01;901190;BL0118;901190;;;Grote Markt;1;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5394338;BL0112;5394338;;;Melaan;14;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3055135;BL0113;3055135;;;Thaborstraat;53;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5900266;BL0102;5900266;;;Sint-Janstraat;8;A;;;2018-07-02;Kevin Dekens;MDU;0;5;1;6;BUILDING template
+MECHELEN - FH01;3030822;BL0116;3030822;;;Begijnenstraat;9;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;458;BL0118;458;;;Grote Markt;2;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905714;BL0113;905714;;;Melaan;26;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4736793;BL0113;4736793;;;Thaborstraat;59;;;D;2020-02-06 12:55:18;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3030824;BL0110;3030824;;;Begijnenstraat;10;;;D;2020-02-12 12:35:17;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3042659;BL0118;3042659;;;Grote Markt;3;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043015;BL0113;3043015;;;Melaan;28;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3055137;BL0113;3055137;;;Thaborstraat;61;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048598;BL0109;3048598;;;Sint-katelijnestraat;6;;;;2020-02-05 09:55:15;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042661;BL0118;3042661;;;Grote Markt;4;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043016;BL0113;3043016;;;Melaan;30;;;D;2020-02-05 12:30:35;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3055139;BL0113;3055139;;;Thaborstraat;63;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6489935;BL0107;6489935;;;Schoutetstraat;5;;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3030826;BL0110;3030826;;;Begijnenstraat;12;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042662;BL0118;3042662;;;Grote Markt;5;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043018;BL0113;3043018;;;Melaan;32;;;;2020-03-12 10:20:10;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905705;BL0113;905705;;;Thaborstraat;65;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4238219;BL0110;4238219;;;Begijnenstraat;14;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901194;BL0105;901194;;;Grote Markt;7;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4736681;BL0113;4736681;;;Melaan;34;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935310;BL0113;935310;;;Thaborstraat;67;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042666;BL0105;3042666;;;Grote Markt;8;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043020;BL0113;3043020;;;Melaan;36;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4751168;BL0113;4751168;;;Thaborstraat;69;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905283;BL0110;905283;;;Begijnenstraat;16;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4751967;BL0105;4751967;;;Grote Markt;9;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905715;BL0113;905715;;;Melaan;38;;;D;2020-02-05 12:20:16;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4751169;BL0113;4751169;;;Thaborstraat;71;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4731179;BL0116;4731179;;;Begijnenstraat;17;;;X;2020-03-03;Dieu Jocelin;MDU;1;5;0;6;BUILDING template
+MECHELEN - FH01;3042667;BL0105;3042667;;;Grote Markt;10;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043023;BL0113;3043023;;;Melaan;40;;;D;2020-03-12 08:30:15;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;4751171;BL0113;4751171;;;Thaborstraat;75;;;D;2020-02-10 12:35:38;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;905287;BL0110;905287;;;Begijnenstraat;18;;;;;Abdelmalek Lamkoref;MDU;6;0;1;7;BUILDING template
+MECHELEN - FH01;3042669;BL0105;3042669;;;Grote Markt;11;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905289;BL0110;905289;;;Minderbroedersgang;1;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4084645;BL0113;4084645;;;Thaborstraat;79;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030828;BL0116;3030828;;;Begijnenstraat;19;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3042671;BL0105;3042671;;;Grote Markt;12;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5374205;BL0110;5374205;;;Minderbroedersgang;2;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4751177;BL0113;4751177;;;Thaborstraat;81;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030829;BL0110;3030829;;;Begijnenstraat;20;;;D;2020-02-13 11:35:21;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3042673;BL0105;3042673;;;Grote Markt;13;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905290;BL0110;905290;;;Minderbroedersgang;5;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3055143;BL0113;3055143;;;Thaborstraat;83;;;D;2020-02-10 13:00:29;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;6140426;BL0102;6140426;;;Sint-Janstraat;101;A;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3030831;BL0116;3030831;;;Begijnenstraat;21;;;D;2020-03-03 11:05:16;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;923250;BL0105;923250;;;Grote Markt;14;;;D;2020-02-04;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3043171;BL0110;3043171;;;Minderbroedersgang;10;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905288;BL0110;905288;;;Begijnenstraat;22;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3042675;BL0105;3042675;;;Grote Markt;15;;;D;2020-02-04;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;905291;BL0110;905291;;;Minderbroedersgang;12;;;;;Abdelmalek Lamkoref;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4082899;BL0116;4082899;;;Begijnenstraat;23;;;D;2020-02-13 11:30:42;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;901195;BL0105;901195;;;Grote Markt;16;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043719;BL0116;3043719;;;Nauwstraat;4;;;D;2020-01-13 08:55:14;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;905717;BL0113;905717;;;Tichelrij;2;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;6474437;BL0102;6474437;;;Sint-Janstraat;101;B;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3030832;BL0116;3030832;;;Begijnenstraat;25;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901196;BL0105;901196;;;Grote Markt;17;;;D;2020-01-23 10:40:17;Steffen Verhofsté;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043720;BL0115;3043720;;;Nauwstraat;5;;;;;Bernardo Kana da Rosa;MDU;1;6;0;7;BUILDING template
+MECHELEN - FH01;4241214;BL0113;4241214;;;Tichelrij;3;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;905647;BL0110;905647;;;Begijnenstraat;28;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901198;BL0105;901198;;;Grote Markt;18;;;D;2020-03-12 11:40:09;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3043721;BL0115;3043721;;;Nauwstraat;7;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5602992;BL0113;5602992;;;Tichelrij;4;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030835;BL0116;3030835;;;Begijnenstraat;29;;;D;2020-02-13 11:25:29;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;901197;BL0105;901197;;;Grote Markt;19;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3050150;BL0113;3050150;;;Tichelrij;5;;;D;2020-02-11 10:15:27;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;6429651;BL0102;6429651;;;Sint-Janstraat;101;C;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;905644;BL0116;905644;;;Begijnenstraat;31;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;5431501;BL0119;5431501;;;Grote Markt;20;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3043722;BL0116;3043722;;;Nauwstraat;10;;;X;2020-03-09 12:30:14;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3050151;BL0113;3050151;;;Tichelrij;6;;;D;2020-02-11 10:10:27;Dieu Jocelin;MDU;0;7;1;8;BUILDING template
+MECHELEN - FH01;3051136;BL0105;3051136;;;Varkensstraat;16;;;C;2019-11-27;Jo De Clippel;MDU;0;20;1;21;BUILDING template
+MECHELEN - FH01;4748706;BL0110;4748706;;;Begijnenstraat;32;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905043;BL0121;905043;;;Grote Markt;23;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3050152;BL0113;3050152;;;Tichelrij;7;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6442937;BL0102;6442937;;;Sint-Janstraat;102;A;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3042686;BL0122;3042686;;;Grote Markt;27;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4748736;BL0116;4748736;;;Nauwstraat;12;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3050154;BL0113;3050154;;;Tichelrij;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030836;BL0110;3030836;;;Begijnenstraat;34;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042688;BL0122;3042688;;;Grote Markt;28;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905660;BL0116;905660;;;Nauwstraat;14;;;D;2020-02-18 10:25:19;Dieu Jocelin;MDU;2;0;0;2;BUILDING template
+MECHELEN - FH01;3050156;BL0113;3050156;;;Tichelrij;9;;;D;2020-03-06;Jo De Clippel;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;3042690;BL0122;3042690;;;Grote Markt;29;;;;2020-01-23 10:20:24;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;935327;BL0111;935327;;;Nieuwe Beggaardenstraat;1;;;;;Bernardo Kana da Rosa;MDU;2;3;0;5;BUILDING template
+MECHELEN - FH01;6442938;BL0102;6442938;;;Sint-Janstraat;102;B;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3030840;BL0110;3030840;;;Begijnenstraat;36;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042692;BL0122;3042692;;;Grote Markt;30;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4053796;BL0111;4053796;;;Nieuwe Beggaardenstraat;7;;;;;Bernardo Kana da Rosa;MDU;0;7;1;8;BUILDING template
+MECHELEN - FH01;3042694;BL0122;3042694;;;Grote Markt;31;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4739222;BL0111;4739222;;;Nieuwe Beggaardenstraat;13;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901168;BL0105;901168;;;Standonckstraat;13;;;;2018-06-28;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;1350667;BL0110;1350667;;;Begijnenstraat;38;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042695;BL0122;3042695;;;Grote Markt;32;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;935328;BL0111;935328;;;Nieuwe Beggaardenstraat;15;;;D;2020-03-17 07:50:07;Dieu Jocelin;MDU;2;3;1;6;BUILDING template
+MECHELEN - FH01;905718;BL0113;905718;;;Tichelrij;15;;;D;2020-02-11 10:00:50;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;6420075;BL0102;6420075;;;Sint-Janstraat;102;C;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3042699;BL0122;3042699;;;Grote Markt;34;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;930551;BL0111;930551;;;Nieuwe Beggaardenstraat;17;;;D;2020-03-17 07:55:08;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3030842;BL0110;3030842;;;Begijnenstraat;40;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042700;BL0122;3042700;;;Grote Markt;35;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4247635;BL0111;4247635;;;Nieuwe Beggaardenstraat;19;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4737549;BL0102;4737549;;;Van Hoeystraat;5;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903518;BL0126;903518;;;Korte schipstraat;4;;;;2018-06-28;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6420147;BL0102;6420147;;;Sint-Janstraat;102;D;;;2019-10-28;Dirk Marien;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3042701;BL0122;3042701;;;Grote Markt;36;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4733077;BL0111;4733077;;;Nieuwe Beggaardenstraat;21;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;898130;BL0102;898130;;;Van Hoeystraat;7;;;D;2020-02-03 11:55:22;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4748711;BL0110;4748711;;;Begijnenstraat;42;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3042702;BL0122;3042702;;;Grote Markt;37;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4733080;BL0111;4733080;;;Nieuwe Beggaardenstraat;23;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;898131;BL0102;898131;;;Van Hoeystraat;15;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047556;BL0126;3047556;;;Korte schipstraat;6;;;D;2020-01-08 09:50:16;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;6431928;BL0102;6431928;;;Sint-Janstraat;202;A;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;1351370;BL0116;1351370;;;Begijnenstraat;43;;;;;Abdelmalek Lamkoref;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;4746694;BL0122;4746694;;;Grote Markt;38;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;930422;BL0111;930422;;;Nieuwe Beggaardenstraat;29;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4731662;BL0102;4731662;;;Van Hoeystraat;19;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4748712;BL0110;4748712;;;Begijnenstraat;44;;;;2020-03-03 11:00:23;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904902;BL0122;904902;;;Grote Markt;39;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030800;BL0111;3030800;;;Nieuwe Beggaardenstraat;31;;;D;2020-02-11 08:30:30;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4731664;BL0102;4731664;;;Van Hoeystraat;21;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901180;BL0106;901180;;;Frederik de Merodestraat;23;;;;2020-02-03 09:55:19;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4748677;BL0116;4748677;;;Begijnenstraat;45;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905040;BL0121;905040;;;Hallestraat;2;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3030803;BL0111;3030803;;;Nieuwe Beggaardenstraat;33;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4731666;BL0102;4731666;;;Van Hoeystraat;23;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905648;BL0110;905648;;;Begijnenstraat;48;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3035734;BL0121;3035734;;;Hallestraat;8;;;D;2020-01-27 09:15:22;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;930421;BL0111;930421;;;Nieuwe Beggaardenstraat;35;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5838515;BL0102;5838515;;;Van Hoeystraat;25;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047664;BL0129;3047664;;;Lange schipstraat;81;;;D;2020-01-07 12:25:23;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3944054;BL0121;3944054;;;Hallestraat;16;;;D;2020-01-24 07:45:19;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;5838514;BL0102;5838514;;;Van Hoeystraat;27;;;;;Kevin Dekens;MDU;0;11;1;12;BUILDING template
+MECHELEN - FH01;3944182;BL0129;3944182;;;Lange schipstraat;87;;;D;2020-01-07 12:15:26;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;905643;BL0110;905643;;;Begijnenstraat;52;;;D;2020-03-03 10:55:11;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3030808;BL0112;3030808;;;Nieuwe Beggaardenstraat;41;;;D;2020-03-17 08:05:10;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;5838513;BL0102;5838513;;;Van Hoeystraat;29;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030844;BL0110;3030844;;;Begijnenstraat;56;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3036250;BL0130;3036250;;;Hazestraat;5;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;930419;BL0112;930419;;;Nieuwe Beggaardenstraat;43;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4731669;BL0102;4731669;;;Van Hoeystraat;31;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047649;BL0129;3047649;;;Lange Schipstraat;71;;;;2019-10-25;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905642;BL0110;905642;;;Begijnenstraat;58;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3036251;BL0130;3036251;;;Hazestraat;7;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5394328;BL0112;5394328;;;Nieuwe Beggaardenstraat;45;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905322;BL0104;905322;;;Varkensstraat;1;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905285;BL0116;905285;;;Begijnenstraat;27;A;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4751397;BL0131;4751397;;;Hazestraat;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901204;BL0106;901204;;;Nieuwwerk;1;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4073865;BL0104;4073865;;;Varkensstraat;3;;;D;2018-09-05;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3047662;BL0129;3047662;;;Lange Schipstraat;79;;;XC;2020-03-11;Marouane Zoubir;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;3048616;BL0111;3048616;;;Sint-Katelijnestraat;29;;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3036253;BL0130;3036253;;;Hazestraat;9;;;;2020-02-13 12:30:31;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3044665;BL0106;3044665;;;Nieuwwerk;2;;;;2018-09-10;Bernardo Kana da Rosa;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;4745458;BL0104;4745458;;;Varkensstraat;5;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033487;BL0114;3033487;;;Dobbelhuizen;27;;;;2018-06-27;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3055141;BL0113;3055141;;;Thaborstraat;77;;;D;2020-02-10;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;901609;BL0104;901609;;;Biest;2;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3036255;BL0131;3036255;;;Hazestraat;10;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5403847;BL0106;5403847;;;Nieuwwerk;6;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051124;BL0105;3051124;;;Varkensstraat;6;;;D;2020-03-09;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5515790;BL0107;5515790;;;Sint-Janskerkhof;1;;;;2018-06-27;Kevin Dekens;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3031078;BL0104;3031078;;;Biest;4;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3036256;BL0130;3036256;;;Hazestraat;11;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3044667;BL0106;3044667;;;Nieuwwerk;7;;;;2020-02-19 09:40:15;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905321;BL0104;905321;;;Varkensstraat;7;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6192370;BL0108;6192370;;;Sint-Katelijnestraat;40;;;X;2020-03-17;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;4731741;BL0104;4731741;;;Biest;6;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3036258;BL0131;3036258;;;Hazestraat;12;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5374207;BL0106;5374207;;;Nieuwwerk;8;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051129;BL0104;3051129;;;Varkensstraat;9;;;XA;2019-11-26 11:15:22;Jo De Clippel;MDU;1;29;1;31;BUILDING template
+MECHELEN - FH01;901612;BL0104;901612;;;Biest;10;;;D;2020-01-27 10:05:22;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;905239;BL0130;905239;;;Hazestraat;13;;;;;Ralph Wery;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5414784;BL0106;5414784;;;Nieuwwerk;9;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051134;BL0104;3051134;;;Varkensstraat;11;;;XA;2019-11-22 11:15:33;Jo De Clippel;MDU;3;21;1;25;BUILDING template
+MECHELEN - FH01;4731497;BL0127;4731497;;;Lange Schipstraat;88;;;;2019-10-25;Dirk Marien;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;904912;BL0123;904912;;;Blauwhondstraat;1;;;D;2020-01-22 09:00:32;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3036260;BL0131;3036260;;;Hazestraat;14;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3044668;BL0106;3044668;;;Nieuwwerk;10;;;D;2020-03-17 10:25:15;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;5543967;BL0104;5543967;;;Varkensstraat;15;;;;;Bernardo Kana da Rosa;MDU;0;4;2;6;BUILDING template
+MECHELEN - FH01;3031270;BL0123;3031270;;;Blauwhondstraat;3;;;D;2020-01-22 08:50:16;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3036262;BL0131;3036262;;;Hazestraat;16;;;D;2020-02-13 12:40:20;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3044669;BL0106;3044669;;;Nieuwwerk;11;;;D;2020-03-17 10:25:09;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3051139;BL0105;3051139;;;Veemarkt;1;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031272;BL0123;3031272;;;Blauwhondstraat;5;;;D;2020-01-22 09:00:28;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;905241;BL0131;905241;;;Hazestraat;20;;;D;2020-02-13 12:35:18;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;905278;BL0116;905278;;;Onder-den-Toren;1;;;D;2020-03-17 09:05:08;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;901430;BL0120;901430;;;Veemarkt;2;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031273;BL0123;3031273;;;Blauwhondstraat;7;;;;2020-01-22 09:05:16;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904922;BL0123;904922;;;Ijzerenleen;1;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3045165;BL0116;3045165;;;Onder-den-Toren;2;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901431;BL0104;901431;;;Veemarkt;3;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901202;BL0107;901202;;;Wollemarkt;14;;;;2018-06-27;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3031275;BL0123;3031275;;;Blauwhondstraat;11;;;D;2020-01-22 09:15:25;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3037607;BL0116;3037607;;;Ijzerenleen;2;;;D;2020-01-09 10:45:23;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3051142;BL0104;3051142;;;Veemarkt;5;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031278;BL0123;3031278;;;Blauwhondstraat;15;;;;2020-01-22 09:15:29;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037608;BL0123;3037608;;;Ijzerenleen;3;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3045166;BL0110;3045166;;;Onder-den-Toren;4;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051143;BL0104;3051143;;;Veemarkt;7;;;D;2020-03-17 09:35:08;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;5547298;BL0109;5547298;;;Sint-Romboutskerkhof;6;;;;2019-10-28;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904913;BL0123;904913;;;Blauwhondstraat;21;;;;2020-03-03 09:00:22;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905273;BL0116;905273;;;Ijzerenleen;4;;;D;2020-01-09 11:00:34;Jo De Clippel;MDU;1;5;0;6;BUILDING template
+MECHELEN - FH01;3045168;BL0110;3045168;;;Onder-den-Toren;5;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051149;BL0104;3051149;;;Veemarkt;13;;;D;2020-03-17 09:40:18;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3040449;BL0130;3040449;;;Leermarkt;50;;;;;;MDU;0;11;0;11;BUILDING template
+MECHELEN - FH01;904914;BL0123;904914;;;Blauwhondstraat;25;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037611;BL0123;3037611;;;Ijzerenleen;5;;;D;2020-03-16 08:20:07;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3045170;BL0110;3045170;;;Onder-den-Toren;6;;;D;2020-03-03 11:20:17;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3051152;BL0104;3051152;;;Veemarkt;15;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;6518670;BL0109;6518670;;;Sint-Romboutskerkhof;2;A;;;2019-10-28;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5403850;BL0123;5403850;;;Blauwhondstraat;27;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037612;BL0116;3037612;;;Ijzerenleen;6;;;D;2020-01-09 11:05:17;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3045171;BL0110;3045171;;;Onder-den-Toren;7;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051155;BL0104;3051155;;;Veemarkt;17;;;D;2018-09-05;Bernardo Kana da Rosa;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3029549;BL0112;3029549;;;Arme-Clarenstraat;27;;;;2018-06-27;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3031540;BL0124;3031540;;;Borzestraat;1;;;D;2020-01-21 10:40:20;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3037613;BL0123;3037613;;;Ijzerenleen;7;;;D;2020-03-09 12:45:10;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3045175;BL0110;3045175;;;Onder-den-Toren;9;;;D;2020-03-17 08:55:10;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;4101347;BL0125;4101347;;;Borzestraat;2;;;D;2020-01-21 11:10:21;Jo De Clippel;MDU;0;3;1;4;BUILDING template
+MECHELEN - FH01;3037615;BL0116;3037615;;;Ijzerenleen;8;;;D;2020-01-10 09:30:40;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;905281;BL0110;905281;;;Onder-den-Toren;10;;;D;2020-03-17 09:00:13;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3051162;BL0104;3051162;;;Veemarkt;21;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3031543;BL0125;3031543;;;Borzestraat;4;;;D;2020-01-21 10:55:18;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3037617;BL0123;3037617;;;Ijzerenleen;9;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4705325;BL0110;4705325;;;Onder-den-Toren;11;;;;2020-03-17 09:00:15;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051163;BL0104;3051163;;;Veemarkt;23;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4745562;BL0116;4745562;;;Steenweg;38;;;;2019-10-28;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031545;BL0125;3031545;;;Borzestraat;6;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037618;BL0116;3037618;;;Ijzerenleen;10;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4700780;BL0110;4700780;;;Onder-den-Toren;12;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051165;BL0104;3051165;;;Veemarkt;25;;;D;2020-03-17 09:55:12;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3031546;BL0125;3031546;;;Borzestraat;8;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037619;BL0116;3037619;;;Ijzerenleen;12;;;D;2020-01-10 09:30:29;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;905280;BL0110;905280;;;Onder-den-Toren;14;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051168;BL0104;3051168;;;Veemarkt;29;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3031548;BL0125;3031548;;;Borzestraat;10;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904924;BL0124;904924;;;Ijzerenleen;13;;;D;2020-03-09 12:55:08;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3051172;BL0104;3051172;;;Veemarkt;31;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4741917;BL0125;4741917;;;Borzestraat;12;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037620;BL0116;3037620;;;Ijzerenleen;14;;;D;2020-01-10 09:35:16;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3054428;BL0109;3054428;;;Oude Beggaardenstraat;3;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;1339643;BL0104;1339643;;;Veemarkt;33;;;D;2020-03-17 09:45:15;Dieu Jocelin;MDU;2;6;2;10;BUILDING template
+MECHELEN - FH01;3031549;BL0125;3031549;;;Borzestraat;14;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037621;BL0124;3037621;;;Ijzerenleen;15;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;9591;BL0113;9591;;;Persoonshoek;2;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3051179;BL0104;3051179;;;Veemarkt;35;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3029545;BL0112;3029545;;;Arme-Clarenstraat;17;;;C;2020-02-18 12:00:29;Verhofste Steffen;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4031215;BL0125;4031215;;;Borzestraat;16;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905271;BL0116;905271;;;Ijzerenleen;16;;;D;2020-01-10 09:40:15;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4748668;BL0115;4748668;;;Persoonshoek;3;;;XC;2020-01-13 15:20:20;Jo De Clippel;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;3051180;BL0104;3051180;;;Veemarkt;37;;;;;Abdelmalek Lamkoref;MDU;3;0;2;5;BUILDING template
+MECHELEN - FH01;3031550;BL0125;3031550;;;Borzestraat;18;;;D;2020-03-16 10:55:11;Jo De Clippel;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3037622;BL0124;3037622;;;Ijzerenleen;17;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3046126;BL0113;3046126;;;Persoonshoek;4;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;5374208;BL0104;5374208;;;Veemarkt;41;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031551;BL0125;3031551;;;Borzestraat;20;;;D;2020-01-21 11:10:18;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;905272;BL0116;905272;;;Ijzerenleen;18;;;D;2020-01-10 09:40:19;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3046128;BL0115;3046128;;;Persoonshoek;5;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051183;BL0104;3051183;;;Veemarkt;37;B;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031553;BL0125;3031553;;;Borzestraat;22;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3037624;BL0124;3037624;;;Ijzerenleen;19;;;D;2020-03-09 13:05:12;Marouane Zoubir;MDU;2;0;1;3;BUILDING template
+MECHELEN - FH01;905711;BL0113;905711;;;Persoonshoek;6;;;D;2018-09-19;Bernardo Kana da Rosa;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;3051185;BL0104;3051185;;;Veemarkt;37;C;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031556;BL0125;3031556;;;Borzestraat;24;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037625;BL0116;3037625;;;Ijzerenleen;20;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905653;BL0115;905653;;;Persoonshoek;7;;;C;2020-01-13;Jo De Clippel;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;5970490;BL0110;5970490;;;Melaan;5;;;;2020-02-20;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037627;BL0124;3037627;;;Ijzerenleen;21;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3046132;BL0115;3046132;;;Persoonshoek;9;;;;;Abdelmalek Lamkoref;MDU;1;13;0;14;BUILDING template
+MECHELEN - FH01;905659;BL0116;905659;;;Vismarkt;2;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904599;BL0125;904599;;;Borzestraat;28;;;D;2020-01-21 11:55:21;Jo De Clippel;MDU;1;4;1;6;BUILDING template
+MECHELEN - FH01;3037628;BL0116;3037628;;;Ijzerenleen;22;;;;2020-01-09 11:15:23;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3046136;BL0115;3046136;;;Persoonshoek;11;;;;;Ralph Wery;MDU;1;33;1;35;BUILDING template
+MECHELEN - FH01;3051775;BL0116;3051775;;;Vismarkt;6;;;X;2020-02-18 10:50:17;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904600;BL0125;904600;;;Borzestraat;30;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904925;BL0124;904925;;;Ijzerenleen;23;;;X;2020-01-09 09:35:16;Dieu Jocelin;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;3046140;BL0115;3046140;;;Persoonshoek;13;;;;;Ralph Wery;MDU;1;42;0;43;BUILDING template
+MECHELEN - FH01;3051776;BL0116;3051776;;;Vismarkt;8;;;;2020-03-12 09:45:13;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031559;BL0125;3031559;;;Borzestraat;32;;;D;2020-03-16 10:35:10;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;904597;BL0125;904597;;;Ijzerenleen;25;;;;2020-03-16 08:25:08;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;903156;BL0131;903156;;;Pitzemburgstraat;2;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051778;BL0116;3051778;;;Vismarkt;10;;;;2020-03-12 09:45:10;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905269;BL0116;905269;;;Ijzerenleen;26;;;D;2020-01-20;Jo De Clippel;MDU;0;2;1;3;BUILDING template
+MECHELEN - FH01;3046218;BL0131;3046218;;;Pitzemburgstraat;4;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4748761;BL0116;4748761;;;Vismarkt;12;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031562;BL0125;3031562;;;Borzestraat;38;;;D;2020-03-03 09:40:12;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3037631;BL0125;3037631;;;Ijzerenleen;27;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3046219;BL0131;3046219;;;Pitzemburgstraat;6;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051779;BL0116;3051779;;;Vismarkt;16;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4741936;BL0125;4741936;;;Borzestraat;42;;;;2020-02-12 09:50:37;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3037632;BL0116;3037632;;;Ijzerenleen;28;;;D;2020-01-10 09:50:15;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;903157;BL0131;903157;;;Pitzemburgstraat;8;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037634;BL0125;3037634;;;Ijzerenleen;29;;;D;2020-03-16 08:40:09;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;901415;BL0120;901415;;;Rik Woutersstraat;2;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905657;BL0110;905657;;;Vismarkt;20;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901175;BL0103;901175;;;Sint-Janstraat;1;;;;2018-06-27;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037636;BL0116;3037636;;;Ijzerenleen;30;;;D;2020-01-09 11:35:21;Jo De Clippel;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3052896;BL0120;3052896;;;Rik Woutersstraat;4;;;;2020-03-05;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051781;BL0110;3051781;;;Vismarkt;22;;;D;2020-02-03;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;930423;BL0111;930423;;;Nieuwe Beggaardenstraat;27;;;;2019-10-25;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037637;BL0125;3037637;;;Ijzerenleen;31;;;D;2020-02-04;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3052899;BL0120;3052899;;;Rik Woutersstraat;6;;;;2020-03-05 08:05:09;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051783;BL0110;3051783;;;Vismarkt;24;;;D;2020-01-13 09:25:16;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;5838075;BL0111;5838075;;;Straatje-zonder-einde;2;;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037639;BL0116;3037639;;;Ijzerenleen;32;;;;;Abdelmalek Lamkoref;MDU;1;4;1;6;BUILDING template
+MECHELEN - FH01;4744531;BL0120;4744531;;;Rik Woutersstraat;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905656;BL0110;905656;;;Vismarkt;26;;;D;2018-09-19;Bernardo Kana da Rosa;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4733038;BL0111;4733038;;;Arme-Clarenstraat;28;;;;2020-03-05 08:30:12;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4037885;BL0112;4037885;;;Nieuwe Beggaardenstraat;47;;;;2019-10-25;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037640;BL0125;3037640;;;Ijzerenleen;33;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3052900;BL0120;3052900;;;Rik Woutersstraat;10;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051846;BL0122;3051846;;;Vleeshouwersstraat;1;;;D;2020-01-23 09:20:23;Jo De Clippel;MDU;3;3;1;7;BUILDING template
+MECHELEN - FH01;4749109;BL0130;4749109;;;Bruul;51;;;;;;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037642;BL0125;3037642;;;Ijzerenleen;35;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3052903;BL0120;3052903;;;Rik Woutersstraat;12;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3051848;BL0122;3051848;;;Vleeshouwersstraat;2;;;D;2020-03-09 11:20:09;Marouane Zoubir;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;6489892;BL0106;6489892;;;Nieuwwerk;4;;;;2019-10-25;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037643;BL0116;3037643;;;Ijzerenleen;36;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901416;BL0120;901416;;;Rik Woutersstraat;14;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4746675;BL0122;4746675;;;Vleeshouwersstraat;3;;;;2020-01-23 17:00:22;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;4736745;BL0112;4736745;;;Thaborstraat;31;;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904583;BL0125;904583;;;Ijzerenleen;37;;;D;2020-01-09 09:10:17;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;905301;BL0120;905301;;;Rik Woutersstraat;16;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;6328835;BL0110;6328835;;;Onder-den-Toren;8;;;D;2020-02-06;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3037645;BL0116;3037645;;;Ijzerenleen;38;;;D;2020-03-16 10:20:09;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;929549;BL0109;929549;;;Wollemarkt;1;;;;2020-02-05 09:10:16;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904582;BL0126;904582;;;Ijzerenleen;39;;;D;2020-01-09 09:25:16;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3052905;BL0120;3052905;;;Rik Woutersstraat;20;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901201;BL0107;901201;;;Wollemarkt;2;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4729770;BL0116;4729770;;;Ijzerenleen;40;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4749182;BL0120;4749182;;;Rik Woutersstraat;22;;;;2020-01-24 08:45:21;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052837;BL0107;3052837;;;Wollemarkt;4;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037647;BL0126;3037647;;;Ijzerenleen;41;;;D;2020-02-04;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;905300;BL0120;905300;;;Rik Woutersstraat;24;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052838;BL0109;3052838;;;Wollemarkt;5;;;;;Ralph Wery;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5838132;BL0109;5838132;;;Oude Beggaardenstraat;5;;;;2019-10-25;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037650;BL0126;3037650;;;Ijzerenleen;43;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904571;BL0125;904571;;;Schaalstraat;1;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3052840;BL0107;3052840;;;Wollemarkt;6;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037651;BL0116;3037651;;;Ijzerenleen;44;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904601;BL0126;904601;;;Schaalstraat;2;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3052841;BL0109;3052841;;;Wollemarkt;7;;;D;2020-03-17 10:30:17;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;935302;BL0114;935302;;;Dobbelhuizen;1;;;;2020-03-12 09:25:08;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037653;BL0126;3037653;;;Ijzerenleen;45;;;D;2020-01-09 08:55:15;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4741854;BL0125;4741854;;;Schaalstraat;7;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052845;BL0107;3052845;;;Wollemarkt;8;;;D;2020-03-17 10:30:14;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;6527842;BL0108;6527842;;;Oude Beggaardenstraat;15;;;;2018-06-26;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033469;BL0113;3033469;;;Dobbelhuizen;2;;;D;2020-02-20 08:30:24;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3047267;BL0126;3047267;;;Schaalstraat;8;;;;;Bernardo Kana da Rosa;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;3052847;BL0109;3052847;;;Wollemarkt;9;;;D;2020-03-17 10:35:10;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;6518663;BL0108;6518663;;;Sint-Katelijnestraat;42;;;;2018-06-26;Kevin Dekens;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;4062645;BL0114;4062645;;;Dobbelhuizen;3;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037658;BL0126;3037658;;;Ijzerenleen;47;;;D;2018-09-05;Bernardo Kana da Rosa;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;4752011;BL0107;4752011;;;Wollemarkt;10;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4739215;BL0111;4739215;;;Nieuwe Beggaardenstraat;9;;;D;2020-03-17 08:10:08;Dieu Jocelin;MDU;1;4;1;6;BUILDING template
+MECHELEN - FH01;4748713;BL0110;4748713;;;Begijnenstraat;46;;;;2019-10-24;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033470;BL0113;3033470;;;Dobbelhuizen;4;;;D;2020-02-11 09:55:17;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;905275;BL0116;905275;;;Ijzerenleen;50;;;D;2020-01-20;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047270;BL0125;3047270;;;Schaalstraat;13;;;D;2020-01-21 10:10:21;Jo De Clippel;MDU;0;10;0;10;BUILDING template
+MECHELEN - FH01;3052849;BL0109;3052849;;;Wollemarkt;11;;;D;2020-02-19 10:00:27;Dieu Jocelin;MDU;0;10;1;11;BUILDING template
+MECHELEN - FH01;4736746;BL0113;4736746;;;Thaborstraat;33;;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4746661;BL0123;4746661;;;Blauwhondstraat;9;;;D;2020-01-22 09:05:22;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3033472;BL0114;3033472;;;Dobbelhuizen;5;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037661;BL0126;3037661;;;Ijzerenleen;51;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929559;BL0108;929559;;;Wollemarkt;15;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935306;BL0113;935306;;;Dobbelhuizen;6;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037665;BL0126;3037665;;;Ijzerenleen;53;;;D;2020-02-04;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3047274;BL0125;3047274;;;Schaalstraat;15;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901203;BL0107;901203;;;Wollemarkt;16;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3051774;BL0116;3051774;;;Vismarkt;4;;;;2018-06-26;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031542;BL0124;3031542;;;Borzestraat;3;;;;2018-12-14;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033473;BL0114;3033473;;;Dobbelhuizen;7;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037667;BL0116;3037667;;;Ijzerenleen;54;;;D;2020-01-09 12:45:25;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;3047275;BL0126;3047275;;;Schaalstraat;16;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052852;BL0108;3052852;;;Wollemarkt;17;;;D;2020-02-19 09:50:16;Dieu Jocelin;MDU;1;2;1;4;BUILDING template
+MECHELEN - FH01;3033474;BL0113;3033474;;;Dobbelhuizen;8;;;D;2020-03-12 09:20:09;Jo De Clippel;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;3037669;BL0126;3037669;;;Ijzerenleen;55;;;D;2020-02-04;Dieu Jocelin;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;4037201;BL0125;4037201;;;Schaalstraat;17;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3052854;BL0107;3052854;;;Wollemarkt;18;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4010572;BL0116;4010572;;;Vismarkt;14;;;;2018-06-26;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033476;BL0114;3033476;;;Dobbelhuizen;9;;;D;2020-02-11 09:25:18;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4741839;BL0126;4741839;;;Schaalstraat;18;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052855;BL0108;3052855;;;Wollemarkt;19;;;;2020-02-05 09:35:14;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929597;BL0108;929597;;;Kanunnik de Deckerstraat;19;;;;2018-06-26;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4751086;BL0113;4751086;;;Dobbelhuizen;10;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037671;BL0126;3037671;;;Ijzerenleen;57;;;D;2020-01-10 10:10:15;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047276;BL0126;3047276;;;Schaalstraat;20;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052857;BL0107;3052857;;;Wollemarkt;20;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033477;BL0113;3033477;;;Dobbelhuizen;12;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047277;BL0125;3047277;;;Schaalstraat;21;;;D;2020-01-21 11:40:23;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;929558;BL0108;929558;;;Wollemarkt;21;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3037674;BL0126;3037674;;;Ijzerenleen;59;;;D;2020-03-16 08:55:10;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3047279;BL0126;3047279;;;Schaalstraat;22;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3052860;BL0107;3052860;;;Wollemarkt;22;;;D;2020-03-17 10:35:12;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3943985;BL0123;3943985;;;Blauwhondstraat;17;;;D;2020-02-12;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3033478;BL0114;3033478;;;Dobbelhuizen;15;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037675;BL0126;3037675;;;Ijzerenleen;61;;;D;2020-02-04;Dieu Jocelin;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;3047281;BL0126;3047281;;;Schaalstraat;24;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4014924;BL0107;4014924;;;Wollemarkt;26;;;D;2020-03-17 10:40:12;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3033479;BL0114;3033479;;;Dobbelhuizen;17;;;XC;2020-03-04;Jo De Clippel;MDU;0;3;1;4;BUILDING template
+MECHELEN - FH01;3037677;BL0116;3037677;;;Ijzerenleen;62;;;;2020-03-16 09:20:09;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4741877;BL0125;4741877;;;Schaalstraat;25;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3052862;BL0107;3052862;;;Wollemarkt;28;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;929572;BL0110;929572;;;Sint-Katelijnestraat;11;;;;2018-06-25;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935303;BL0114;935303;;;Dobbelhuizen;19;;;XC;2020-03-02;Jo De Clippel;MDU;0;2;1;3;BUILDING template
+MECHELEN - FH01;3037678;BL0126;3037678;;;Ijzerenleen;63;;;D;2020-02-04;Dieu Jocelin;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;3047282;BL0126;3047282;;;Schaalstraat;26;;;D;2020-03-03 09:55:12;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;929581;BL0107;929581;;;Wollemarkt;32;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929570;BL0110;929570;;;Sint-katelijnestraat;23;;;;2020-02-06 09:30:34;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;6085254;BL0130;6085254;;;Hazestraat;1;;;D;2018-12-14;Hidde Kiekens;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;3033480;BL0113;3033480;;;Dobbelhuizen;20;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037679;BL0116;3037679;;;Ijzerenleen;64;;;D;2020-01-10 10:15:21;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047284;BL0125;3047284;;;Schaalstraat;27;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5603016;BL0107;5603016;;;Wollemarkt;34;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;935304;BL0114;935304;;;Dobbelhuizen;21;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3037681;BL0126;3037681;;;Ijzerenleen;65;;;D;2020-03-16 09:05:09;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;904877;BL0126;904877;;;Schaalstraat;28;;;;;Bernardo Kana da Rosa;MDU;0;6;1;7;BUILDING template
+MECHELEN - FH01;3052868;BL0107;3052868;;;Wollemarkt;36;;;D;2020-03-17 10:40:15;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;6592006;BL0113;6592006;;;Thaborstraat;31;A;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4744463;BL0104;4744463;;;Veemarkt;11;;;;;;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3033482;BL0113;3033482;;;Dobbelhuizen;22;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905268;BL0116;905268;;;Ijzerenleen;66;;;D;2020-01-09 12:35:16;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047285;BL0125;3047285;;;Schaalstraat;29;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4744471;BL0120;4744471;;;Zakstraat;3;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3036246;BL0130;3036246;;;Hazestraat;3;;;;2018-12-14;Hidde Kiekens;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;6479589;BL0111;6479589;;;Stadsheimelijkheid;5;A;;;;;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033483;BL0114;3033483;;;Dobbelhuizen;23;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904581;BL0126;904581;;;Ijzerenleen;67;;;D;2020-01-09 09:00:25;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;904878;BL0126;904878;;;Schaalstraat;30;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901434;BL0120;901434;;;Zakstraat;13;;;;;Bernardo Kana da Rosa;MDU;1;6;0;7;BUILDING template
+MECHELEN - FH01;3033485;BL0113;3033485;;;Dobbelhuizen;24;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905655;BL0116;905655;;;Ijzerenleen;68;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4741944;BL0126;4741944;;;Schaalstraat;32;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3944228;BL0120;3944228;;;Zakstraat;15;;;;;Abdelmalek Lamkoref;MDU;0;5;0;5;BUILDING template
+MECHELEN - FH01;4741899;BL0126;4741899;;;Lange Schipstraat;15;;;;2018-12-14;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4751106;BL0114;4751106;;;Dobbelhuizen;25;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4741946;BL0126;4741946;;;Schaalstraat;34;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905314;BL0120;905314;;;Zakstraat;23;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033486;BL0113;3033486;;;Dobbelhuizen;26;;;;2020-03-12 09:05:10;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4741882;BL0125;4741882;;;Schaalstraat;35;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3053010;BL0120;3053010;;;Zakstraat;25;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903465;BL0127;903465;;;Lange Schipstraat;60;;;D;2020-03-11;Marouane Zoubir;MDU;1;5;1;7;BUILDING template
+MECHELEN - FH01;935307;BL0113;935307;;;Dobbelhuizen;28;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4746347;BL0111;4746347;;;Jef Denynplein;8;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047286;BL0126;3047286;;;Schaalstraat;36;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905308;BL0120;905308;;;Zakstraat;27;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4751109;BL0114;4751109;;;Dobbelhuizen;29;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033128;BL0111;3033128;;;Jef Denynplein;10;;;;2020-03-06 11:30:21;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4741885;BL0125;4741885;;;Schaalstraat;37;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5603020;BL0120;5603020;;;Zakstraat;29;;;D;2018-09-04;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;3048562;BL0102;3048562;;;Sint-Janstraat;4;;;;2018-06-25;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;935308;BL0113;935308;;;Dobbelhuizen;30;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033129;BL0111;3033129;;;Jef Denynplein;14;;;D;2020-03-05 10:00:14;Jo De Clippel;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;4741951;BL0126;4741951;;;Schaalstraat;38;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905309;BL0120;905309;;;Zakstraat;31;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033489;BL0114;3033489;;;Dobbelhuizen;31;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033131;BL0111;3033131;;;Jef Denynplein;16;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904572;BL0125;904572;;;Schaalstraat;39;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033490;BL0113;3033490;;;Dobbelhuizen;32;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4741955;BL0126;4741955;;;Schaalstraat;40;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;903148;BL0130;903148;;;Leermarkt;10;;;;2018-12-14;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033491;BL0114;3033491;;;Dobbelhuizen;33;;;D;2020-02-11 09:05:17;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3032828;BL0101;3032828;;;Kanunnik De Deckerstraat;3;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904598;BL0126;904598;;;Schaalstraat;42;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5693998;BL0102;5693998;;;Van Hoeystraat;13;;;;2018-06-25;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4751123;BL0113;4751123;;;Dobbelhuizen;34;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032830;BL0101;3032830;;;Kanunnik De Deckerstraat;7;;;D;2018-09-07;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;5697979;BL0106;5697979;;;Scheerstraat;8;;;;;Ralph Wery;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;901605;BL0102;901605;;;Van Hoeystraat;17;;;;2018-06-25;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3040426;BL0130;3040426;;;Leermarkt;20;;;;2020-03-12 10:15:14;Marouane Zoubir;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4751112;BL0114;4751112;;;Dobbelhuizen;35;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032833;BL0101;3032833;;;Kanunnik De Deckerstraat;9;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047333;BL0106;3047333;;;Scheerstraat;10;;;D;2018-09-19;Hidde Kiekens;MDU;1;6;0;7;BUILDING template
+MECHELEN - FH01;6592007;BL0113;6592007;;;Thaborstraat;33;A;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4240777;BL0113;4240777;;;Dobbelhuizen;36;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032835;BL0101;3032835;;;Kanunnik De Deckerstraat;11;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904926;BL0122;904926;;;Schoenmarkt;1;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033492;BL0114;3033492;;;Dobbelhuizen;37;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4732814;BL0101;4732814;;;Kanunnik De Deckerstraat;13;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047685;BL0122;3047685;;;Schoenmarkt;2;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;6445949;BL0120;6445949;;;Rik Woutersstraat;2;A;;;2019-10-25;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929547;BL0109;929547;;;Oude Beggaardenstraat;7;;;;2018-12-14;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033493;BL0113;3033493;;;Dobbelhuizen;38;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5838665;BL0101;5838665;;;Kanunnik De Deckerstraat;15;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047687;BL0122;3047687;;;Schoenmarkt;3;;;D;2020-01-23 10:05:19;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4751114;BL0114;4751114;;;Dobbelhuizen;39;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4746678;BL0122;4746678;;;Schoenmarkt;4;;;D;2020-02-03;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;6592008;BL0113;6592008;;;Thaborstraat;33;B;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5839399;BL0107;5839399;;;Sint-Janstraat;11;;;;2018-12-14;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033495;BL0113;3033495;;;Dobbelhuizen;40;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032839;BL0108;3032839;;;Kanunnik De Deckerstraat;21;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047689;BL0122;3047689;;;Schoenmarkt;5;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033499;BL0114;3033499;;;Dobbelhuizen;41;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032840;BL0108;3032840;;;Kanunnik De Deckerstraat;23;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901171;BL0107;901171;;;Schoolstraat;7;;;D;2020-03-17 12:20:17;Jo De Clippel;MDU;0;1;1;2;BUILDING template
+MECHELEN - FH01;4208745;BL0108;4208745;;;Sint-Katelijnestraat;18;;;;2018-12-14;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033500;BL0113;3033500;;;Dobbelhuizen;42;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929596;BL0108;929596;;;Kanunnik De Deckerstraat;25;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047699;BL0107;3047699;;;Schoolstraat;9;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;4751128;BL0113;4751128;;;Dobbelhuizen;44;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929595;BL0108;929595;;;Kanunnik De Deckerstraat;27;;;;2020-02-10 09:45:27;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047703;BL0106;3047703;;;Schoolstraat;10;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;6592009;BL0113;6592009;;;Thaborstraat;35;A;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048621;BL0108;3048621;;;Sint-Katelijnestraat;36;B;;;2018-12-14;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3033501;BL0113;3033501;;;Dobbelhuizen;46;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3032842;BL0108;3032842;;;Kanunnik De Deckerstraat;29;;;;2020-02-10 09:50:17;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047705;BL0107;3047705;;;Schoolstraat;11;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033502;BL0113;3033502;;;Dobbelhuizen;48;;;D;2020-02-11 09:40:17;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3032843;BL0108;3032843;;;Kanunnik De Deckerstraat;31;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047706;BL0106;3047706;;;Schoolstraat;14;;;;2020-02-12 10:00:54;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3048624;BL0111;3048624;;;Sint-Katelijnestraat;39;;;;2018-12-14;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;1283309;BL0113;1283309;;;Dobbelhuizen;52;;;D;2020-02-11 09:45:27;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3032844;BL0108;3032844;;;Kanunnik De Deckerstraat;33;;;D;2020-02-10 09:20:17;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;4140194;BL0107;4140194;;;Schoolstraat;15;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;935309;BL0113;935309;;;Dobbelhuizen;54;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4732800;BL0108;4732800;;;Kanunnik De Deckerstraat;35;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5403845;BL0107;5403845;;;Schoolstraat;17;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3030821;BL0110;3030821;;;Begijnenstraat;6;;;XC;2020-03-16 18:30:29;Jo De Clippel;MDU;0;21;0;21;BUILDING template
+MECHELEN - FH01;6380419;BL0122;6380419;;;Steenweg;1;;;;2018-12-14;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905652;BL0110;905652;;;Drabstraat;2;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5749434;BL0104;5749434;;;Varkensstraat;17;;;;2018-11-12;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3033822;BL0110;3033822;;;Drabstraat;4;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929556;BL0108;929556;;;Schoutetstraat;1;;;;;Kevin Dekens;MDU;0;2;1;3;BUILDING template
+MECHELEN - FH01;3033823;BL0110;3033823;;;Drabstraat;6;;;D;2020-01-14 12:10:21;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;904218;BL0128;904218;;;Korte Schipstraat;1;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929557;BL0101;929557;;;Schoutetstraat;2;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;6592010;BL0113;6592010;;;Thaborstraat;35;B;;;2019-10-28;Dirk Marien;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047553;BL0128;3047553;;;Korte Schipstraat;3;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4740708;BL0108;4740708;;;Schoutetstraat;3;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3035224;BL0122;3035224;;;Geitestraat;23;;;;2020-03-09 11:05:10;Marouane Zoubir;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904239;BL0128;904239;;;Korte Schipstraat;5;;;XC;2020-01-08;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+MECHELEN - FH01;3047870;BL0101;3047870;;;Schoutetstraat;4;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3035202;BL0122;3035202;;;Geitestraat;3;;;D;2020-02-04;Dieu Jocelin;MDU;1;3;1;5;BUILDING template
+MECHELEN - FH01;4748739;BL0110;4748739;;;Drabstraat;14;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904260;BL0128;904260;;;Korte Schipstraat;7;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4732895;BL0101;4732895;;;Schoutetstraat;6;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;904904;BL0122;904904;;;Geitestraat;1;;;D;2020-03-09 10:20:09;Marouane Zoubir;MDU;1;0;1;2;BUILDING template
+MECHELEN - FH01;3052863;BL0107;3052863;;;Wollemarkt;30;;;;2019-10-28;Dirk Marien;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;905649;BL0110;905649;;;Drabstraat;18;;;D;2020-01-15 09:25:18;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;903516;BL0126;903516;;;Korte Schipstraat;8;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3047872;BL0108;3047872;;;Schoutetstraat;7;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;904915;BL0123;904915;;;Blauwhondstraat;29;;;;2018-06-25;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047559;BL0128;3047559;;;Korte Schipstraat;9;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;929622;BL0101;929622;;;Schoutetstraat;8;;;;;Kevin Dekens;MDU;0;7;1;8;BUILDING template
+MECHELEN - FH01;904908;BL0123;904908;;;Geitestraat;2;;;;2018-06-25;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;919858;BL0121;919858;;;Desire Boucherystraat;2;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;903515;BL0126;903515;;;Korte Schipstraat;10;;;D;2020-01-08 08:35:19;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+MECHELEN - FH01;4260111;BL0101;4260111;;;Schoutetstraat;10;;;;;Kevin Dekens;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3031625;BL0121;3031625;;;Desire Boucherystraat;4;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047561;BL0128;3047561;;;Korte Schipstraat;11;;;D;2018-09-06;Bernardo Kana da Rosa;MDU;1;2;0;3;BUILDING template
+MECHELEN - FH01;901602;BL0107;901602;;;Sint-Janskerkhof;3;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;905282;BL0110;905282;;;Begijnenstraat;2;;;;2018-06-25;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3031628;BL0121;3031628;;;Desire Boucherystraat;6;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3047563;BL0128;3047563;;;Korte Schipstraat;13;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901603;BL0107;901603;;;Sint-Janskerkhof;5;;;D;2020-02-03 10:20:16;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;4736818;BL0112;4736818;;;Arme-Clarenstraat;29;;;;2020-02-12 09:45:47;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3031630;BL0121;3031630;;;Desire Boucherystraat;8;;;D;2020-01-24 08:05:15;Dieu Jocelin;MDU;1;3;0;4;BUILDING template
+MECHELEN - FH01;9585;BL0126;9585;;;Korte Schipstraat;14;;;;;Abdelmalek Lamkoref;MDU;0;28;1;29;BUILDING template
+MECHELEN - FH01;3048561;BL0103;3048561;;;Sint-Janstraat;3;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;5436459;BL0121;5436459;;;Hallestraat;20;;;;2020-02-12 09:55:38;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3031632;BL0121;3031632;;;Desire Boucherystraat;10;;;D;2020-03-02 08:00:13;Dieu Jocelin;MDU;1;6;1;8;BUILDING template
+MECHELEN - FH01;3047569;BL0128;3047569;;;Korte Schipstraat;15;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901620;BL0102;901620;;;Sint-Janstraat;6;;;;;Kevin Dekens;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3047572;BL0128;3047572;;;Korte Schipstraat;17;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901174;BL0103;901174;;;Sint-Janstraat;7;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;919857;BL0121;919857;;;Desire Boucherystraat;14;;;D;2020-01-24 08:00:21;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047574;BL0128;3047574;;;Korte Schipstraat;19;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5508105;BL0102;5508105;;;Sint-Janstraat;8;;;;;Kevin Dekens;MDU;0;26;1;27;BUILDING template
+MECHELEN - FH01;4733917;BL0130;4733917;;;Leermarkt;26;;;;;;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;919856;BL0121;919856;;;Desire Boucherystraat;16;;;D;2020-03-09 09:55:11;Marouane Zoubir;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3047575;BL0128;3047575;;;Korte Schipstraat;21;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901607;BL0107;901607;;;Sint-Janstraat;9;;;;;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+MECHELEN - FH01;3031638;BL0121;3031638;;;Desire Boucherystraat;18;;;D;2020-02-04;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+MECHELEN - FH01;3047577;BL0128;3047577;;;Korte Schipstraat;23;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;5524627;BL0102;5524627;;;Sint-Janstraat;10;;;;;Kevin Dekens;MDU;0;9;1;10;BUILDING template
+MECHELEN - FH01;4749181;BL0120;4749181;;;Rik Woutersstraat;18;;;;2020-02-12 10:00:48;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3031640;BL0121;3031640;;;Desire Boucherystraat;22;;;D;2020-01-24 08:15:22;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+MECHELEN - FH01;3047578;BL0128;3047578;;;Korte Schipstraat;25;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;3048565;BL0102;3048565;;;Sint-Janstraat;12;;;;;Kevin Dekens;MDU;0;4;0;4;BUILDING template
+MECHELEN - FH01;4236144;BL0107;4236144;;;Schoolstraat;19;;;;2020-02-12 10:00:51;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;901179;BL0105;901179;;;Frederik de Merodestraat;2;;;;;Abdelmalek Lamkoref;MDU;0;3;0;3;BUILDING template
+MECHELEN - FH01;3047580;BL0128;3047580;;;Korte Schipstraat;27;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;901606;BL0107;901606;;;Sint-Janstraat;13;;;;;Kevin Dekens;SDU;0;1;0;1;BUILDING template
+MECHELEN - FH01;4218797;BL0125;4218797;;;Borzestraat;40;;;;2020-02-12;Dieu Jocelin;SDU;0;0;0;0;BUILDING template
+MECHELEN - FH01;3049064;BL0122;3049064;;;Vleeshouwersstraat;6;;;;2020-01-23 17:00:30;Dieu Jocelin;SDU;0;0;0;0;BUILDING template

@@ -379,7 +379,7 @@ def processfile(f):
     merge.to_csv(TESTOUTPUT,index=False, sep=";")
 
 
-processfile(TESTFILE)
+#processfile(TESTFILE)
 
 
 
