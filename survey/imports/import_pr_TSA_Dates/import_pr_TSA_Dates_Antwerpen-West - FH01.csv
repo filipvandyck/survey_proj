@@ -2,18 +2,18 @@ Projectnummer;Opdrachtnummer;Building FID;BG Name;Straat;Huisnummer;Huisnummer T
 ANTWERPEN-WEST - FH01;1992494;11196667;;Londenstraat;13;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992496;11196668;;Londenstraat;17;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506378;11196669;;Napelsstraat;53;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5978286;11196727;Napelsstraat 71-73;Napelsstraat;71;;C;2019-10-07;2019-10-07;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4128343;693654;Noorderplaats 5-7-9;Noorderplaats;9;;A;2019-10-10;2019-10-15;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;5978286;11196727;Napelsstraat 71-73;Napelsstraat;71;;C;;2019-10-07;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;4128343;693654;Noorderplaats 5-7-9;Noorderplaats;9;;A;;2019-10-15;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108957;11196671;;Genuastraat;3;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1986445;657809;;Oudeleeuwenrui;3;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4031647;11196672;;Genuastraat;5;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047587;11196728;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E;Rijnkaai;1;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1986450;657811;;Oudeleeuwenrui;5;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108301;11196673;;Genuastraat;2;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;186516;641344;Oudeleeuwenrui 7-11;Oudeleeuwenrui;7;;XC;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;186516;641344;Oudeleeuwenrui 7-11;Oudeleeuwenrui;7;;C;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6000240;11196704;;Indiestraat;38;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5802358;11196729;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E;Rijnkaai;4;;C;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;186517;641346;Oudeleeuwenrui 13-15;Oudeleeuwenrui;13;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;186517;641346;Oudeleeuwenrui 13-15;Oudeleeuwenrui;13;;A;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1949212;11196705;;Indiestraat;44;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;186515;641343;;Oudeleeuwenrui;25;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1088922;612631;;Adriaan Brouwerstraat;5;;;;;;;N;;;;BUILDING template
@@ -24,45 +24,45 @@ ANTWERPEN-WEST - FH01;62430;716953;;Oudeleeuwenrui;33;;D;;;N;;N;;;;BUILDING temp
 ANTWERPEN-WEST - FH01;4128342;11196731;;Londenstraat;58;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1986516;657817;;Oudeleeuwenrui;35;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62433;716954;;Oudeleeuwenrui;47;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1782029;632757;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Adriaan Brouwerstraat;21;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1782029;632757;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Adriaan Brouwerstraat;21;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108303;612480;;Londenstraat;53;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108296;612476;;Rigastraat;26;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1782040;632758;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Adriaan Brouwerstraat;27;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1782040;632758;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Adriaan Brouwerstraat;27;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734627;622306;;Sint-Aldegondiskaai;20;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1782047;632759;;Adriaan Brouwerstraat;29;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505458;11196732;Napelsstraat 32-34;Napelsstraat;34;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1782050;632760;;Adriaan Brouwerstraat;31;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;59276;714092;;Londenstraat;13;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;182977;637860;;Londenstraat;17;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;109078;612709;;Napelsstraat;53;;;;;N;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735094;622694;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;16;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;59276;714092;;Sint-Aldegondiskaai;30;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;182977;637860;;Adriaan Brouwerstraat;33;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;109078;612709;;Rijnkaai;25;;D;;;N;;Y;2019-10-25;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735094;622694;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;16;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047591;671423;;Rijnkaai;26;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735095;622695;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;18;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735095;622695;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;18;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108283;11196733;;Kempischdok-Westkaai;90;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047593;671424;;Rijnkaai;27;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;59279;714095;;Sint-Aldegondiskaai;36;;;;;;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;59279;714095;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;36;;A;;;;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;52537;710669;Amsterdamstraat 21_Braziliestraat 43;Amsterdamstraat;21;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047596;671425;;Rijnkaai;29;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1734631;622307;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;44;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1734631;622307;;Sint-Aldegondiskaai;44;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108082;612396;;Amsterdamstraat;22;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047597;671426;;Rijnkaai;30;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734632;622308;;Sint-Aldegondiskaai;46;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108942;11196706;;Indiestraat;21;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1735097;622696;;Amsterdamstraat;23;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108955;11196734;Kempischdok-Westkaai 14-20;Kempischdok-Westkaai;20;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108955;11196734;;Kempischdok-Westkaai;20;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047598;671427;;Rijnkaai;31;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4513324;707390;;Sint-Aldegondiskaai;48;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108947;11196748;;Indiestraat;18;;C;2020-01-30;2020-01-31;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735099;622698;;Amsterdamstraat;27;;XA;2019-10-02;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735099;622698;;Amsterdamstraat;27;;A;2019-10-02;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734633;622309;;Sint-Aldegondiskaai;50;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1949013;11196707;;Indiestraat;10;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1128021;613755;;Amsterdamstraat;28;;XA;2019-10-28;;Y;;Y;2019-10-08;;;BUILDING template
+ANTWERPEN-WEST - FH01;1128021;613755;;Amsterdamstraat;28;;A;2019-10-28;2020-03-19;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734634;622310;;Sint-Aldegondiskaai;52;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1128023;613757;;Amsterdamstraat;30;;A;2019-10-23;2019-12-18;Y;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;59277;714093;Sint-Aldegondiskaai 10_ Adriaan Brouwerstraat 9;Sint-Aldegondiskaai;10;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1128023;613757;;Amsterdamstraat;30;;A;2019-10-23;2019-12-18;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;59277;714093;Sint-Aldegondiskaai 10_ Adriaan Brouwerstraat 9;Sint-Aldegondiskaai;10;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734635;622311;;Sint-Aldegondiskaai;54;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5492426;11196708;;Indiestraat;12;B;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735101;622700;;Amsterdamstraat;31;;XA;;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735101;622700;;Amsterdamstraat;31;;A;;;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734636;622312;Sint-Aldegondiskaai 56-58;Sint-Aldegondiskaai;56;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108952;11196674;;Napelsstraat;2;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128022;613756;;Amsterdamstraat;32;;D;;;N;;N;;;;BUILDING template
@@ -70,12 +70,12 @@ ANTWERPEN-WEST - FH01;1970984;11196735;;Kribbestraat;18;;;;;;;N;;;;BUILDING temp
 ANTWERPEN-WEST - FH01;1734638;622313;;Sint-Aldegondiskaai;60;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505438;11196675;;Napelsstraat;4;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4513329;707391;;Sint-Aldegondiskaai;62;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4505440;11196676;;Napelsstraat;6;;C;2020-01-24;2020-01-29;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;4505440;11196676;;Napelsstraat;6;;C;2020-01-24;2020-01-29;Y;;Y;2019-10-23;;;BUILDING template
 ANTWERPEN-WEST - FH01;1735103;622702;;Amsterdamstraat;34;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;59280;714096;;Sint-Aldegondiskaai;64;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735104;622703;;Amsterdamstraat;35;;XA;2019-10-03;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735104;622703;;Amsterdamstraat;35;;A;2019-10-03;;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;109072;612702;;Sint-Laureiskaai;7;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4505442;11196677;;Napelsstraat;10;;C;2020-01-24;2020-01-29;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;4505442;11196677;;Napelsstraat;10;;C;2020-01-24;2020-01-29;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;108085;612398;;Amsterdamstraat;36;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1970988;11196736;;Kribbestraat;20;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1984033;657133;;Sint-Laureiskaai;13;;;;;;;N;;;;BUILDING template
@@ -85,17 +85,17 @@ ANTWERPEN-WEST - FH01;59302;714106;;Spanjaardsteeg;1;;D;;;N;;N;;;;BUILDING templ
 ANTWERPEN-WEST - FH01;2024656;11196711;;Napelsstraat;40;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;52539;710670;;Amsterdamstraat;41;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2053439;676437;;Spanjaardsteeg;3;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;186520;641351;;Ankerrui;9;;C;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;186520;641351;;Ankerrui;9;;C;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2053440;676438;;Spanjaardsteeg;5;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505443;11196678;;Napelsstraat;12;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4510642;707106;Ankerrui 15_Entrepotplaats 18;Ankerrui;15;;XA;2019-09-23;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;4510642;707106;Ankerrui 15_Entrepotplaats 18;Ankerrui;15;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;186509;641333;;Spanjaardsteeg;19;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2008888;662457;;August Michielsstraat;4;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2008915;662458;;August Michielsstraat;6;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775168;11196679;Brazieliestraat 2A_Montevideostraat 5;Braziliestraat;2;A;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4145817;693947;;August Michielsstraat;16;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506381;706471;;August Michielsstraat;17;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1986469;11196740;Oudeleeuwenrui 13-15;Oudeleeuwenrui;15;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1986469;11196740;Oudeleeuwenrui 13-15;Oudeleeuwenrui;15;;A;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2051445;674676;;Van Schoonbekeplein;3;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6440424;11292741;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E;Braziliestraat;2;E;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;59293;714100;;Van Schoonbekeplein;4;;;;;;;N;;;;BUILDING template
@@ -106,36 +106,36 @@ ANTWERPEN-WEST - FH01;2009033;662461;;August Michielsstraat;23;;D;;;N;;N;;;;BUIL
 ANTWERPEN-WEST - FH01;2051451;674678;;Van Schoonbekeplein;13;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5802357;11196681;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E;Rijnkaai;2;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108275;612464;;August Michielsstraat;24;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6005416;11196741;Oudeleeuwenrui 7-11;Oudeleeuwenrui;11;;XC;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2051452;674679;;Van Schoonbekeplein;15;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6395025;11196682;Montevideostraat 3_Rijnkaai 12-15;Rijnkaai;12;;C;2019-10-03;2019-10-15;Y;;Y;2019-10-03;;;BUILDING template
+ANTWERPEN-WEST - FH01;6005416;11196741;Oudeleeuwenrui 7-11;Oudeleeuwenrui;11;;C;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2051452;674679;Van Schoonbekeplein 15-17;Van Schoonbekeplein;15;;C;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6395025;11196682;Montevideostraat 3_Rijnkaai 12-15;Rijnkaai;12;;C;;2019-10-15;Y;;Y;2019-10-03;;;BUILDING template
 ANTWERPEN-WEST - FH01;4101358;693514;;August Michielsstraat;25;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2051455;674680;;Van Schoonbekeplein;19;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1015486;11196683;Montevideostraat 3_Rijnkaai 12-15;Rijnkaai;15;;C;2019-10-03;2019-10-15;Y;;Y;2019-10-03;;;BUILDING template
+ANTWERPEN-WEST - FH01;1015486;11196683;Montevideostraat 3_Rijnkaai 12-15;Rijnkaai;15;;C;;2019-10-15;Y;;Y;2019-10-03;;;BUILDING template
 ANTWERPEN-WEST - FH01;108271;612462;;August Michielsstraat;27;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;59295;714102;;Van Schoonbekeplein;21;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047589;11196684;;Rijnkaai;22;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510620;707104;;Van Schoonbekeplein;23;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4126592;693584;;August Michielsstraat;32;;XA;2019-09-20;;Y;;Y;2019-10-07;;;BUILDING template
-ANTWERPEN-WEST - FH01;109135;612770;;Verbindingsdok-Oostkaai;1;;A;2019-10-09;2019-11-05;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;4126592;693584;;August Michielsstraat;32;;A;2019-09-20;;Y;;Y;2019-10-25;;;BUILDING template
+ANTWERPEN-WEST - FH01;109135;612770;;Verbindingsdok-Oostkaai;1;;A;2019-10-09;2019-11-05;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;1984031;11196685;;Sint-Laureiskaai;9;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1265934;615361;;August Michielsstraat;34;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059542;681844;;Verbindingsdok-Oostkaai;5;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108068;11196686;Verbindingsdok-Westkaai 26-28-30;Verbindingsdok-Westkaai;30;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108272;612463;;August Michielsstraat;38;;A;2019-09-24;2019-09-24;Y;;Y;2019-10-08;;;BUILDING template
+ANTWERPEN-WEST - FH01;108068;11196686;Verbindingsdok-Westkaai 26-28-30;Verbindingsdok-Westkaai;30;;A;;2020-03-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108272;612463;;August Michielsstraat;38;;A;2019-09-24;2019-09-24;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059544;681845;;Verbindingsdok-Oostkaai;7;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4021011;11196687;Verbindingsdok-Westkaai 26-28-30;Verbindingsdok-Westkaai;28;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108075;612389;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;5;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;4021011;11196687;Verbindingsdok-Westkaai 26-28-30;Verbindingsdok-Westkaai;28;;A;;2020-03-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108075;612389;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;5;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059545;681846;;Verbindingsdok-Oostkaai;9;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059553;11196688;;Verbindingsdok-Westkaai;12;A;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108074;612388;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;7;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108074;612388;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;7;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108069;612386;;Verbindingsdok-Westkaai;2;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735096;11196689;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;20;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108073;612387;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;11;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735096;11196689;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;20;;A;;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108073;612387;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;11;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059548;681847;;Verbindingsdok-Westkaai;4;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2067063;688210;;Bataviastraat;19;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059549;681848;;Verbindingsdok-Westkaai;6;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024913;11196690;;Nassaustraat;20;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024913;11196690;;Nassaustraat;20;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1746379;628234;;Binnenvaartstraat;50;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059550;681849;;Verbindingsdok-Westkaai;8;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4059303;11196691;;Nassaustraat;22;;;;;;;N;;;;BUILDING template
@@ -143,171 +143,171 @@ ANTWERPEN-WEST - FH01;109137;612771;;Bordeauxstraat;2;;D;;;N;;N;;;;BUILDING temp
 ANTWERPEN-WEST - FH01;2059551;681850;;Verbindingsdok-Westkaai;10;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1755770;629908;;Bordeauxstraat;3;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059554;681851;;Verbindingsdok-Westkaai;14;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4505626;11196693;;Nassaustraat;23;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;4505626;11196693;;Nassaustraat;23;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4092751;693450;;Bordeauxstraat;4;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059555;681852;;Verbindingsdok-Westkaai;16;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024854;11196694;Nassaustraat 1-3;Nassaustraat;3;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4153712;694212;;Bordeauxstraat;5;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059557;681854;;Verbindingsdok-Westkaai;20;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1755771;629909;;Bordeauxstraat;7;A;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4505621;706218;;Verbindingsdok-Westkaai;22;;E;;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;4505621;706218;;Verbindingsdok-Westkaai;22;;E;;2020-03-19;Y;;Y;2020-02-21;;;BUILDING template
 ANTWERPEN-WEST - FH01;1755774;629910;;Bordeauxstraat;7;C;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1128029;613760;Verbindingsdok-Westkaai 26-28-30;Verbindingsdok-Westkaai;26;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1128029;613760;Verbindingsdok-Westkaai 26-28-30;Verbindingsdok-Westkaai;26;;A;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108787;612564;;Bordeauxstraat;9;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1755779;629911;;Bordeauxstraat;11;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;11983;614581;;Zeevaartstraat;5;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;109140;612773;;Bordeauxstraat;12;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2066332;687575;;Zeevaartstraat;6;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5944507;11292633;Kattendijkdok Westkaai 91-92-93;Kattendijkdok-Westkaai;91;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;5944507;11292633;Kattendijkdok Westkaai 91-92-93;Kattendijkdok-Westkaai;91;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;186510;641335;;Zeevaartstraat;16;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511975;707235;;Braziliestraat;8;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4042596;11196742;;Hanzestedenplaats;5;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;59271;7093724;;Adriaan Brouwerstraat;17;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4511920;11292788;Kattendijkdok Westkaai 41-42-43;Kattendijkdok-Westkaai;42;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;4511920;11292788;Kattendijkdok Westkaai 41-42-43;Kattendijkdok-Westkaai;42;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775191;631690;;Braziliestraat;15;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735088;7093645;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;14;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6525842;11362664;Kattendijkdok Westkaai 41-42-43;Kattendijkdok-Westkaai;43;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735088;7093645;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Amsterdamstraat;14;;A;;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6525842;11362664;Kattendijkdok Westkaai 41-42-43;Kattendijkdok-Westkaai;43;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775195;631691;;Braziliestraat;17;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108083;7093618;;Amsterdamstraat;24;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5944504;11292790;Kattendijkdok Westkaai 81-82-83;Kattendijkdok-Westkaai;81;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;5944504;11292790;Kattendijkdok Westkaai 81-82-83;Kattendijkdok-Westkaai;81;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775199;631692;;Braziliestraat;18;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;62428;11196743;Ankerrui 15_Entrepotplaats 18;Entrepotplaats;18;;XA;2019-09-23;;Y;;Y;2020-02-10;;;BUILDING template
-ANTWERPEN-WEST - FH01;1735098;7093646;;Amsterdamstraat;25;;XA;2019-09-20;;Y;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;5891727;11292830;Kattendijkdok Westkaai 71-72-73;Kattendijkdok-Westkaai;71;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;62428;11196743;Ankerrui 15_Entrepotplaats 18;Entrepotplaats;18;;A;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1735098;7093646;;Amsterdamstraat;25;;A;2019-09-20;;Y;;Y;2019-10-25;;;BUILDING template
+ANTWERPEN-WEST - FH01;5891727;11292830;Kattendijkdok Westkaai 71-72-73;Kattendijkdok-Westkaai;71;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775206;631693;;Braziliestraat;22;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1735100;7093647;;Amsterdamstraat;29;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5804916;11292853;Kattendijkdok Westkaai 61-63-65;Kattendijkdok-Westkaai;61;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;1365795;617379;;Braziliestraat;24;;XC;;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;5804916;11292853;Kattendijkdok Westkaai 61-63-65;Kattendijkdok-Westkaai;61;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
+ANTWERPEN-WEST - FH01;1365795;617379;;Braziliestraat;24;;C;;;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1735143;7093648;;Ankerrui;5;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1775235;631694;;Braziliestraat;28;;XC;;;Y;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;62446;7093737;Ankerrui 11-13;Ankerrui;11;;A;2019-09-20;2019-09-20;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;1775235;631694;;Braziliestraat;28;;C;;;Y;;Y;2019-10-25;;;BUILDING template
+ANTWERPEN-WEST - FH01;62446;7093737;Ankerrui 11-13;Ankerrui;11;;A;;2019-09-20;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511990;707236;;Braziliestraat;30;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2008923;7093669;;August Michielsstraat;8;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1266714;615369;;Braziliestraat;33;;XC;2019-10-11;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1266714;615369;;Braziliestraat;33;;C;2019-10-11;;Y;;Y;2019-10-23;;;BUILDING template
 ANTWERPEN-WEST - FH01;972217;7093739;;August Michielsstraat;10;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775251;631695;;Braziliestraat;37;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2008939;7093670;;August Michielsstraat;12;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775252;631696;;Braziliestraat;38;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2008982;7093671;;August Michielsstraat;15;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775258;631697;;Braziliestraat;41;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4506393;7093704;;August Michielsstraat;18;;A;2019-09-23;2019-09-23;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;4506393;7093704;;August Michielsstraat;18;;A;2019-09-23;2019-09-23;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;108930;612634;;Cadixstraat;1;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2008988;7093672;;August Michielsstraat;19;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1786795;633333;;Cadixstraat;5;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108076;7093615;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;1;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108076;7093615;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Bataviastraat;1;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1905662;11196745;;Godefriduskaai;58;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;52547;710674;;Rijnkaai;20;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1288092;615641;;Cadixstraat;21;;XA;2020-01-28;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;52547;710674;;Rijnkaai;20;;A;;2020-03-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1288092;615641;;Cadixstraat;21;;A;2020-01-28;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108788;7093620;;Bordeauxstraat;7;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1299606;615874;;Cadixstraat;23;;XA;2020-01-28;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5569316;7093719;;Bordeauxstraat;8;;XC;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1786894;633334;;Cadixstraat;35;;B;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1299606;615874;;Cadixstraat;23;;A;2020-01-28;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;5569316;7093719;;Bordeauxstraat;8;;C;;2020-03-19;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1786894;633334;;Cadixstraat;35;;B;;2020-03-18;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510612;11196712;;Oudeleeuwenrui;17;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;109139;7093631;;Bordeauxstraat;10;;XC;2020-01-28;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;109139;7093631;;Bordeauxstraat;10;;C;2020-01-28;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108299;612478;;Cadixstraat;37;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5507308;7093714;;Bordeauxstraat;10;A;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1195065;7093638;Kattendijkdok Westkaai 51-54-56;Kattendijkdok-Westkaai;51;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1195065;7093638;Kattendijkdok Westkaai 51-54-56;Kattendijkdok-Westkaai;51;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;108298;612477;;Cadixstraat;39;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5507312;7093716;;Bordeauxstraat;16;;XA;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069012;7093691;Entrepotkaai 3-4-5-6;Entrepotkaai;4;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;5507312;7093716;;Bordeauxstraat;16;;A;;2020-03-19;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069012;7093691;Entrepotkaai 3-4-5-6;Entrepotkaai;4;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511892;11292865;;Kattendijkdok-Westkaai;30;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1786953;633335;;Cadixstraat;43;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775176;7093649;;Braziliestraat;10;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069024;7093692;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;14;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069024;7093692;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;14;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108783;7093619;;Kribbestraat;9;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1786975;633336;Cadixstraat 45-47-47A-47C;Cadixstraat;47;;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1786975;633336;Cadixstraat 45-47-47A-47C;Cadixstraat;47;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775185;7093650;;Braziliestraat;12;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128033;7093635;;Kribbestraat;11;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5751357;11196596;;Nassaustraat;34;A;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5394016;711197;Cadixstraat 49-49A-51-51A;Cadixstraat;51;;C;2020-01-27;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1892372;643947;;Genuastraat;4;;D;;;N;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;5394016;711197;Cadixstraat 49-49A-51-51A;Cadixstraat;51;;C;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1892372;643947;;Genuastraat;4;;D;;;N;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775203;7093651;;Braziliestraat;19;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992472;7093666;;Londenstraat;3;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024962;11196597;;Nassaustraat;42;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069014;689718;Entrepotkaai 3-4-5-6;Entrepotkaai;5;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
-ANTWERPEN-WEST - FH01;1454935;618405;;Genuastraat;6;;XC;2020-01-24;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069014;689718;Entrepotkaai 3-4-5-6;Entrepotkaai;5;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1454935;618405;;Genuastraat;6;;C;2020-01-24;;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775213;7093652;;Braziliestraat;23;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1266447;7093640;;Londenstraat;12;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069015;689719;Entrepotkaai 3-4-5-6;Entrepotkaai;6;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069015;689719;Entrepotkaai 3-4-5-6;Entrepotkaai;6;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5575585;712331;;Genuastraat;7;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511909;7093709;Braziliestraat 25-27-29;Braziliestraat;25;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506352;7093702;;Genuastraat;10;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510542;7093706;;Londenstraat;14;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069017;689720;Entrepotkaai 7-8-9-10;Entrepotkaai;8;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069017;689720;Entrepotkaai 7-8-9-10;Entrepotkaai;8;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506351;706464;;Genuastraat;8;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1775218;7093653;Braziliestraat 25-27-29;Braziliestraat;27;;C;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4048591;7093697;;Genuastraat;11;;XC;2020-01-24;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;4048591;7093697;;Genuastraat;11;;C;2020-01-24;;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506376;7093703;;Londenstraat;15;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069018;689721;Entrepotkaai 7-8-9-10;Entrepotkaai;9;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
-ANTWERPEN-WEST - FH01;1892421;643948;;Genuastraat;9;;XC;;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069018;689721;Entrepotkaai 7-8-9-10;Entrepotkaai;9;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1892421;643948;;Genuastraat;9;;C;;;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511991;7093710;;Braziliestraat;32;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1892429;7093659;;Genuastraat;12;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992508;7093667;;Londenstraat;21;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069019;689722;Entrepotkaai 7-8-9-10;Entrepotkaai;10;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069019;689722;Entrepotkaai 7-8-9-10;Entrepotkaai;10;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4070580;693130;;Genuastraat;14;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511992;7093711;;Braziliestraat;34;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;59299;7093727;;Godefriduskaai;2;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992564;7093668;;Londenstraat;45;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069022;689723;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;12;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069022;689723;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;12;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108300;612479;;Genuastraat;16;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1786771;7093654;;Cadixstraat;3;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;62443;7093736;;Godefriduskaai;12;;XA;2020-01-30;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;62443;7093736;;Godefriduskaai;12;;A;2020-01-30;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1294704;7093642;;Londenstraat;47;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;3928764;691431;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;13;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;3928764;691431;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;13;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1892503;643949;;Genuastraat;17;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;62439;7093734;Godefriduskaai 18-20-22;Godefriduskaai;18;;XA;2020-01-28;;Y;;Y;2019-10-08;;;BUILDING template
+ANTWERPEN-WEST - FH01;62439;7093734;Godefriduskaai 18-20-22;Godefriduskaai;18;;A;;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;5906909;7093723;;Londenstraat;56;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5576507;712607;Entrepotkaai 15-16;Entrepotkaai;16;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;5576507;712607;Entrepotkaai 15-16;Entrepotkaai;16;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1905254;644802;;Godefriduskaai;4;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;62437;7093733;Godefriduskaai 26-28;Godefriduskaai;26;;XA;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1088758;7093623;;Londenstraat;60;;A;2019-10-10;2019-10-11;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;62437;7093733;Godefriduskaai 26-28;Godefriduskaai;26;;A;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1088758;7093623;;Londenstraat;60;;A;2019-10-10;2019-10-11;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1866317;641468;;Entrepotplaats;10;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510648;707107;;Godefriduskaai;6;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;185911;7093656;Entrepotkaai 3-4-5-6;Entrepotkaai;3;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;185911;7093656;Entrepotkaai 3-4-5-6;Entrepotkaai;3;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62440;7093735;;Godefriduskaai;36;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2015971;7093673;Montevideostraat 3_Rijnkaai 12-15;Montevideostraat;3;;C;2019-10-03;2019-10-15;Y;;Y;2019-10-03;;;BUILDING template
+ANTWERPEN-WEST - FH01;2015971;7093673;Montevideostraat 3_Rijnkaai 12-15;Montevideostraat;3;;C;;2019-10-15;Y;;Y;2019-10-03;;;BUILDING template
 ANTWERPEN-WEST - FH01;1295616;615798;;Entrepotplaats;12;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1905268;644803;Godefriduskaai 8-10;Godefriduskaai;8;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;3954604;7093693;;Hanzestedenplaats;1;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2015972;7093674;Brazieliestraat 2A_Montevideostraat 5;Montevideostraat;5;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1088919;612629;;Entrepotplaats;16;;XA;;;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;1088919;612629;;Entrepotplaats;16;;A;;;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1905273;644804;Godefriduskaai 8-10;Godefriduskaai;10;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1948967;7093660;;Indiestraat;8;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024627;7093675;;Napelsstraat;25;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108958;612694;;Genuastraat;1;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1287193;615628;;Godefriduskaai;16;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1287193;615628;;Godefriduskaai;16;;A;;2020-03-18;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1089007;7093624;;Indiestraat;12;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108791;7093621;;Napelsstraat;112;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;62444;716959;Godefriduskaai 18-20-22;Godefriduskaai;22;;XA;2020-01-28;;Y;;Y;2019-10-08;;;BUILDING template
+ANTWERPEN-WEST - FH01;62444;716959;Godefriduskaai 18-20-22;Godefriduskaai;22;;A;;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;108940;7093625;;Indiestraat;36;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108079;7093616;;Napoleonkaai;1;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1090148;612699;Godefriduskaai 26-28;Godefriduskaai;28;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1090148;612699;Godefriduskaai 26-28;Godefriduskaai;28;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62065;7093729;;Italielei;2;;A;2020-01-08;2020-01-08;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108080;7093617;;Napoleonkaai;3;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1905577;644805;;Godefriduskaai;30;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1950413;7093661;;Italielei;2;A;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024759;7093676;;Napoleonkaai;13;;XA;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4505623;7093701;;Nassaustraat;14;;XA;2020-01-24;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024759;7093676;;Napoleonkaai;13;;A;;2020-03-19;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;4505623;7093701;;Nassaustraat;14;;A;2020-01-24;;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;62442;716957;;Godefriduskaai;32;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62060;8421323;;Italielei;4;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024771;7093677;;Napoleonkaai;19;;XA;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1206770;7093639;;Nassaustraat;18;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024771;7093677;;Napoleonkaai;19;;A;;2020-03-19;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1206770;7093639;;Nassaustraat;18;;A;;2020-03-19;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510651;707108;;Godefriduskaai;34;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024775;7093678;;Napoleonkaai;23;;XA;2020-01-30;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024775;7093678;;Napoleonkaai;23;;A;2020-01-30;2020-03-19;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024906;7093683;;Nassaustraat;18;A;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1905601;644806;;Godefriduskaai;50;;C;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1905601;644806;;Godefriduskaai;50;;C;;2020-03-18;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024788;7093679;;Napoleonkaai;35;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128025;7093633;;Nassaustraat;31;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1905643;644807;;Godefriduskaai;52;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960577;7093663;;Kattendijkdok-Westkaai;21;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024805;7093680;;Napoleonkaai;41;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4155271;7093698;;Nassaustraat;33;;C;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;4155271;7093698;;Nassaustraat;33;;C;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510637;707105;;Godefriduskaai;54;;C;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1960581;7093664;;Kattendijkdok-Westkaai;26;;E;2020-01-28;2020-02-12;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1960581;7093664;;Kattendijkdok-Westkaai;26;;E;2020-01-28;2020-02-12;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;108794;7093622;Kribbestraat 19_Napoleonkaai 45;Napoleonkaai;45;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;109069;7093626;;Nassaustraat;36;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108948;11196713;;Indiestraat;4;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1195063;7093637;Kattendijkdok Westkaai 41-42-43;Kattendijkdok-Westkaai;41;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1195063;7093637;Kattendijkdok Westkaai 41-42-43;Kattendijkdok-Westkaai;41;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128035;7093636;;Napoleonkaai;51;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024953;7093684;;Nassaustraat;40;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;12721;615435;;Indiestraat;2;;C;2020-01-24;;Y;;N;;;;BUILDING template
@@ -315,25 +315,27 @@ ANTWERPEN-WEST - FH01;108067;7093614;Nassaustraat 1-3;Nassaustraat;1;;A;;;Y;;N;;
 ANTWERPEN-WEST - FH01;1366835;7093643;;Oudeleeuwenrui;19;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1986487;7093665;;Oudeleeuwenrui;23;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1949119;650646;;Indiestraat;26;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1128028;7093634;;Nassaustraat;4;;XA;2019-10-03;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;1128028;7093634;;Nassaustraat;4;;A;2019-10-03;2020-03-19;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;186519;7093658;;Oudeleeuwenrui;29;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1949129;650647;;Indiestraat;28;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024873;7093681;;Nassaustraat;10;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;186518;7093657;;Oudeleeuwenrui;37;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1949160;650648;;Indiestraat;30;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024875;7093682;;Nassaustraat;11;;XA;2019-10-02;;Y;;Y;2019-10-08;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024875;7093682;;Nassaustraat;11;;A;2019-10-02;2020-03-19;Y;;Y;2019-10-25;;;BUILDING template
+ANTWERPEN-WEST - FH01;NB-20008Aeb15;;Bordeauxstraat 8-8A-8B;Bordeauxstraat;8;A;C;;;Y;;;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505462;706156;;Indiestraat;32;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4274709;7093700;;Nassaustraat;12;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;3989962;7093695;;Rijnkaai;23;;A;2019-10-02;2019-12-19;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;3989962;7093695;;Rijnkaai;23;;A;2019-10-02;2019-12-19;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1949181;650649;;Indiestraat;34;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2047595;7093685;;Rijnkaai;28;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2047595;7093685;;Rijnkaai;28;;A;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;NB-20008Be630;;Bordeauxstraat 8-8A-8B;Bordeauxstraat;8;B;C;;;Y;;;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1734625;7093644;;Sint-Aldegondiskaai;18;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;3962177;7093694;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;40;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;3962177;7093694;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;40;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4509558;7093705;;Sint-Laureiskaai;8;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108937;612637;;Kattendijkdok-Oostkaai;3;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;59300;7093728;Van Schoonbekeplein 11_Spanjaardsteeg 21;Spanjaardsteeg;21;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960564;652202;;Kattendijkdok-Oostkaai;6;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;59289;7093725;;Tavernierkaai;2;;XA;2019-09-20;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;59289;7093725;;Tavernierkaai;2;;A;2019-09-20;;Y;;Y;2019-10-15;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960565;652203;;Kattendijkdok-Oostkaai;7;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960566;652204;;Kattendijkdok-Oostkaai;8;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960567;652205;;Kattendijkdok-Oostkaai;9;;D;;;N;;N;;;;BUILDING template
@@ -349,20 +351,20 @@ ANTWERPEN-WEST - FH01;1960573;652211;;Kattendijkdok-Oostkaai;15;;D;;;N;;N;;;;BUI
 ANTWERPEN-WEST - FH01;2059541;7093688;;Verbindingsdok-Oostkaai;3;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108939;11196600;;Kattendijkdok-Oostkaai;5;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505471;706161;;Kattendijkdok-Oostkaai;16;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5508518;7093717;;Verbindingsdok-Oostkaai;23;;X;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;5508518;7093717;;Verbindingsdok-Oostkaai;23;;X;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6463255;14363348;;Catharina Pepijnstraat;3;A;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108936;612636;;Kattendijkdok-Oostkaai;17;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5507311;7093715;;Verbindingsdok-Oostkaai;29;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2059552;7093689;;Verbindingsdok-Westkaai;12;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128037;613768;;Kattendijkdok-Westkaai;16;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2059556;7093690;;Verbindingsdok-Westkaai;18;;XA;2019-10-02;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;2059556;7093690;;Verbindingsdok-Westkaai;18;;A;2019-10-02;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960580;652212;;Kattendijkdok-Westkaai;25;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128020;7093632;;Verbindingsdok-Westkaai;24;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1960582;652214;;Kattendijkdok-Westkaai;27;;C;2019-09-27;2019-09-27;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;1960582;652214;;Kattendijkdok-Westkaai;27;;C;2019-09-27;2019-09-27;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;62435;7093732;;Zeevaartstraat;1;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960583;652215;;Kattendijkdok-Westkaai;28;;D;2020-01-24;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5576453;7093720;;Zeevaartstraat;2;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1960584;652216;;Kattendijkdok-Westkaai;29;;A;2019-10-23;2019-12-18;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;1960584;652216;;Kattendijkdok-Westkaai;29;;A;2019-10-23;2019-12-18;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;62434;7093731;;Zeevaartstraat;3;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960586;652217;Kattendijkdok-Westkaai 31-32-32A;Kattendijkdok-Westkaai;31;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960587;652218;Kattendijkdok-Westkaai 31-32-32A;Kattendijkdok-Westkaai;32;;A;;;Y;;N;;;;BUILDING template
@@ -372,8 +374,8 @@ ANTWERPEN-WEST - FH01;1960881;652434;;Kempischdok-Westkaai;8;;D;;;N;;N;;;;BUILDI
 ANTWERPEN-WEST - FH01;4048873;692749;;Kempischdok-Westkaai;10;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960882;652435;;Kempischdok-Westkaai;12;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5507310;11196601;;Verbindingsdok-Oostkaai;27;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4505465;706158;Kempischdok-Westkaai 14-20;Kempischdok-Westkaai;14;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1960897;652443;;Kempischdok-Westkaai;100;;XA;2019-09-20;;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;4505465;706158;;Kempischdok-Westkaai;14;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1960897;652443;;Kempischdok-Westkaai;100;;A;2019-09-20;;Y;;Y;2019-10-23;;;BUILDING template
 ANTWERPEN-WEST - FH01;5507309;11196602;;Verbindingsdok-Oostkaai;21;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108288;612469;;Kempischdok-Westkaai;26;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960886;652436;;Kempischdok-Westkaai;30;;D;;;N;;N;;;;BUILDING template
@@ -382,17 +384,17 @@ ANTWERPEN-WEST - FH01;6198471;11196604;;Sint-Aldegondiskaai;2;;;;;;;N;;;;BUILDIN
 ANTWERPEN-WEST - FH01;1960887;652437;;Kempischdok-Westkaai;32;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960888;652438;;Kempischdok-Westkaai;34;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128032;11196716;;Londenstraat;30;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108785;612563;Kribbestraat 2-4;Kribbestraat;2;;A;;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108785;612563;Kribbestraat 2-4;Kribbestraat;2;;A;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4513307;707389;;Sint-Aldegondiskaai;24;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506388;706475;;Kempischdok-Westkaai;36;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1970926;654488;;Kribbestraat;3;;A;2019-09-23;2019-12-19;Y;;Y;2019-10-07;;;BUILDING template
-ANTWERPEN-WEST - FH01;3962176;11196605;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;38;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1970926;654488;;Kribbestraat;3;;A;2019-09-23;2019-12-19;Y;;Y;2019-10-16;;;BUILDING template
+ANTWERPEN-WEST - FH01;3962176;11196605;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;38;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108287;612468;;Kempischdok-Westkaai;38;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1970943;654489;Kribbestraat 6-8;Kribbestraat;6;;XA;2019-09-26;;Y;;Y;2019-10-07;;;BUILDING template
-ANTWERPEN-WEST - FH01;6242346;11196606;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;42;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1970943;654489;Kribbestraat 6-8;Kribbestraat;6;;C;;2020-03-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6242346;11196606;Sint-Aldegondiskaai 36-38-40-42_Adriaan Brouwersstraat 21-27;Sint-Aldegondiskaai;42;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108284;612467;;Kempischdok-Westkaai;74;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1970933;11196717;Kribbestraat 2-4;Kribbestraat;4;;XA;;;Y;;Y;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1970946;654490;Kribbestraat 6-8;Kribbestraat;8;;XA;2019-09-26;;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;1970933;11196717;Kribbestraat 2-4;Kribbestraat;4;;A;;2020-03-19;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1970946;654490;Kribbestraat 6-8;Kribbestraat;8;;C;;2020-03-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62432;11196607;;Oudeleeuwenrui;1;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960890;652439;;Kempischdok-Westkaai;76;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1970954;654491;;Kribbestraat;10;;D;;;N;;N;;;;BUILDING template
@@ -402,13 +404,13 @@ ANTWERPEN-WEST - FH01;1986483;11196608;;Oudeleeuwenrui;21;;D;;;N;;N;;;;BUILDING 
 ANTWERPEN-WEST - FH01;1960892;652441;;Kempischdok-Westkaai;80;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1970973;654492;;Kribbestraat;13;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1960893;652442;;Kempischdok-Westkaai;82;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5804911;11292866;Kattendijkdok Westkaai 51-54-56;Kattendijkdok-Westkaai;56;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;5804911;11292866;Kattendijkdok Westkaai 51-54-56;Kattendijkdok-Westkaai;56;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506128;706407;;Kribbestraat;14;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62436;13318876;;Zeevaartstraat;4;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1986500;11196609;;Oudeleeuwenrui;27;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4016605;692176;;Kempischdok-Westkaai;98;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1970980;654493;;Kribbestraat;15;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108273;12925254;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;August Michielsstraat;26;;A;2019-09-23;2020-02-10;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;108273;12925254;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;August Michielsstraat;26;;A;;2020-02-10;Y;;Y;2019-10-23;;;BUILDING template
 ANTWERPEN-WEST - FH01;1986523;11196610;;Oudeleeuwenrui;37;A;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505630;11196720;;Nassaustraat;41;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108782;612561;;Kribbestraat;24;;D;;;N;;N;;;;BUILDING template
@@ -418,7 +420,7 @@ ANTWERPEN-WEST - FH01;108306;612482;;Londenstraat;1;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108282;13318872;;Kempischdok-Westkaai;92;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2066334;11196612;;Zeevaartstraat;10;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;109143;612774;;Londenstraat;2;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108941;12919762;;Indiestraat;22;;XC;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108941;12919762;;Indiestraat;22;;C;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992574;11196721;;Londenstraat;53;A;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;109146;612775;;Londenstraat;4;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1933982;13318871;;Hanzestedenplaats;3;;;;;;;N;;;;BUILDING template
@@ -427,17 +429,17 @@ ANTWERPEN-WEST - FH01;1992477;659305;;Londenstraat;5;;D;;;N;;N;;;;BUILDING templ
 ANTWERPEN-WEST - FH01;2066333;13318877;;Zeevaartstraat;8;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62445;11196614;;Ankerrui;3;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992481;659306;;Londenstraat;6;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4004297;7093696;;Rijnkaai;33;;XA;;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;4004297;7093696;;Rijnkaai;33;;A;;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;1735144;11196615;;Ankerrui;7;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992482;659307;;Catharina Pepijnstraat;7;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6419169;13318870;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E;Braziliestraat;2;D;C;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5575022;11196616;Ankerrui 11-13;Ankerrui;13;;A;2019-09-20;2019-09-20;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;5575022;11196616;Ankerrui 11-13;Ankerrui;13;;A;;2019-09-20;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;52549;11196722;Amsterdamstraat 21_Braziliestraat 43;Braziliestraat;43;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992485;659308;;Londenstraat;8;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6419634;13318869;Rijnkaai 1-2-4_Braziliestraat 2C-2D-2E;Braziliestraat;2;C;C;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2028886;11196617;Noorderplaats 5-7-9;Noorderplaats;5;;A;2019-10-10;2019-10-15;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2028886;11196617;Noorderplaats 5-7-9;Noorderplaats;5;;A;;2019-10-15;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992488;659309;;Londenstraat;10;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4128344;11196618;Noorderplaats 5-7-9;Noorderplaats;7;;A;2019-10-10;2019-10-15;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;4128344;11196618;Noorderplaats 5-7-9;Noorderplaats;7;;A;;2019-10-15;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4511917;11196749;;Braziliestraat;39;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1506186;619287;;Catharina Pepijnstraat;11;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992495;659310;;Londenstraat;16;;;;;;;N;;;;BUILDING template
@@ -454,50 +456,50 @@ ANTWERPEN-WEST - FH01;108797;612575;;Londenstraat;28;;D;;;N;;N;;;;BUILDING templ
 ANTWERPEN-WEST - FH01;1992540;659316;;Londenstraat;29;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108305;612481;;Londenstraat;31;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506338;11196620;;Kempischdok-Westkaai;102;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4511926;20689250;Kattendijkdok Westkaai 51-54-56;Kattendijkdok-Westkaai;54;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;4511926;20689250;Kattendijkdok Westkaai 51-54-56;Kattendijkdok-Westkaai;54;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;108285;11196621;;Kempischdok-Westkaai;72;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108799;612576;;Londenstraat;38;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5537964;20557803;Kattendijkdok Westkaai 61-63-65;Kattendijkdok-Westkaai;65;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;1992550;659317;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Londenstraat;39;;A;2019-09-23;2020-02-10;Y;;Y;2019-10-07;;;BUILDING template
-ANTWERPEN-WEST - FH01;5899748;20558446;Kattendijkdok Westkaai 71-72-73;Kattendijkdok-Westkaai;73;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
-ANTWERPEN-WEST - FH01;1960885;11196622;;Kempischdok-Westkaai;28;;XC;;;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;5537964;20557803;Kattendijkdok Westkaai 61-63-65;Kattendijkdok-Westkaai;65;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
+ANTWERPEN-WEST - FH01;1992550;659317;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Londenstraat;39;;A;;2020-02-10;Y;;Y;2019-10-23;;;BUILDING template
+ANTWERPEN-WEST - FH01;5899748;20558446;Kattendijkdok Westkaai 71-72-73;Kattendijkdok-Westkaai;73;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
+ANTWERPEN-WEST - FH01;1960885;11196622;;Kempischdok-Westkaai;28;;C;;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992553;659318;Londenstraat 40-42;Londenstraat;40;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6008100;20558401;Kattendijkdok Westkaai 71-72-73;Kattendijkdok-Westkaai;72;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;6008100;20558401;Kattendijkdok Westkaai 71-72-73;Kattendijkdok-Westkaai;72;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505441;11196723;;Napelsstraat;8;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506340;706459;;Londenstraat;41;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6187119;20557802;Kattendijkdok Westkaai 61-63-65;Kattendijkdok-Westkaai;63;;A;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;6187119;20557802;Kattendijkdok Westkaai 61-63-65;Kattendijkdok-Westkaai;63;;A;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992555;659319;Londenstraat 40-42;Londenstraat;42;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6521029;20558550;Kattendijkdok Westkaai 81-82-83;Kattendijkdok-Westkaai;82;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;6521029;20558550;Kattendijkdok Westkaai 81-82-83;Kattendijkdok-Westkaai;82;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;1892380;11196724;;Genuastraat;4;A;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992559;659320;;Londenstraat;43;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6521030;20558634;Kattendijkdok Westkaai 91-92-93;Kattendijkdok-Westkaai;93;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;6521030;20558634;Kattendijkdok Westkaai 91-92-93;Kattendijkdok-Westkaai;93;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;2047563;11196623;;Rigastraat;30;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992561;659321;;Londenstraat;44;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6592314;14287154;;Kempischdok-Westkaai;61;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992566;659323;;Londenstraat;46;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6605117;20558572;Kattendijkdok Westkaai 81-82-83;Kattendijkdok-Westkaai;83;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;6605117;20558572;Kattendijkdok Westkaai 81-82-83;Kattendijkdok-Westkaai;83;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506382;11196624;;August Michielsstraat;21;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992570;659324;;Londenstraat;48;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6605118;20558614;Kattendijkdok Westkaai 91-92-93;Kattendijkdok-Westkaai;92;;E;2019-10-14;2019-10-22;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;6605118;20558614;Kattendijkdok Westkaai 91-92-93;Kattendijkdok-Westkaai;92;;E;;2019-10-22;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;108274;11196625;;August Michielsstraat;13;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108800;612577;;Londenstraat;50;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108801;612578;;Londenstraat;52;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5448225;11196626;;Cadixstraat;55;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108929;612633;;Cadixstraat;7;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108929;612633;;Cadixstraat;7;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024620;664269;;Napelsstraat;21;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5911749;11196627;;Cadixstraat;53;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024624;664270;;Napelsstraat;23;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6027745;11196628;Cadixstraat 49-49A-51-51A;Cadixstraat;51;A;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6027745;11196628;Cadixstraat 49-49A-51-51A;Cadixstraat;51;A;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024631;664272;;Napelsstraat;27;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6027282;11196629;Cadixstraat 49-49A-51-51A;Cadixstraat;49;A;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6027282;11196629;Cadixstraat 49-49A-51-51A;Cadixstraat;49;A;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024634;664273;;Napelsstraat;29;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108297;11196630;Cadixstraat 49-49A-51-51A;Cadixstraat;49;;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108297;11196630;Cadixstraat 49-49A-51-51A;Cadixstraat;49;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506358;706465;;Napelsstraat;31;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6427222;11196631;Cadixstraat 45-47-47A-47C;Cadixstraat;47;C;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6427222;11196631;Cadixstraat 45-47-47A-47C;Cadixstraat;47;C;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024639;664274;Napelsstraat 32-34;Napelsstraat;32;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;6375622;11196632;Cadixstraat 45-47-47A-47C;Cadixstraat;47;A;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;6375622;11196632;Cadixstraat 45-47-47A-47C;Cadixstraat;47;A;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506359;706466;;Napelsstraat;33;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4506391;11196633;Cadixstraat 45-47-47A-47C;Cadixstraat;45;;C;2020-01-27;;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;4506391;11196633;Cadixstraat 45-47-47A-47C;Cadixstraat;45;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108332;612485;;Napelsstraat;35;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4506389;11196634;;Cadixstraat;41;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108951;612674;;Napelsstraat;36;;D;;;N;;N;;;;BUILDING template
@@ -507,17 +509,17 @@ ANTWERPEN-WEST - FH01;108291;612472;;Napelsstraat;42;;D;;;N;;N;;;;BUILDING templ
 ANTWERPEN-WEST - FH01;108308;612483;;Napelsstraat;51;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4083535;693343;;Napelsstraat;55;;;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024662;664275;;Napelsstraat;57;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108294;612475;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Napelsstraat;63;;A;2019-09-23;2020-02-10;Y;;Y;2019-10-07;;;BUILDING template
-ANTWERPEN-WEST - FH01;108293;612474;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Napelsstraat;65;;A;2019-09-23;2020-02-10;Y;;Y;2019-10-07;;;BUILDING template
-ANTWERPEN-WEST - FH01;108292;612473;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Napelsstraat;67;;A;2019-09-23;2020-02-10;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;108294;612475;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Napelsstraat;63;;A;;2020-02-10;Y;;Y;2019-10-23;;;BUILDING template
+ANTWERPEN-WEST - FH01;108293;612474;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Napelsstraat;65;;A;;2020-02-10;Y;;Y;2019-10-23;;;BUILDING template
+ANTWERPEN-WEST - FH01;108292;612473;August Michielsstraat 26_Londenstraat 39_Napelsstraat 63-65-67;Napelsstraat;67;;A;;2020-02-10;Y;;Y;2019-10-23;;;BUILDING template
 ANTWERPEN-WEST - FH01;1215943;614690;;Napelsstraat;79;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108290;612471;;Napelsstraat;104;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024695;664276;;Napelsstraat;106;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024698;664277;;Napelsstraat;108;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108289;612470;;Napelsstraat;110;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;59274;11196640;Sint-Aldegondiskaai 10_ Adriaan Brouwerstraat 9;Adriaan Brouwerstraat;9;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;59274;11196640;Sint-Aldegondiskaai 10_ Adriaan Brouwerstraat 9;Adriaan Brouwerstraat;9;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024710;664278;;Napelsstraat;114;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;59272;11196641;;Adriaan Brouwerstraat;3;;XA;;;Y;;Y;2020-02-10;;;BUILDING template
+ANTWERPEN-WEST - FH01;59272;11196641;;Adriaan Brouwerstraat;3;;A;;;Y;;Y;2020-02-20;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024713;664279;;Napelsstraat;116;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024715;664280;;Napelsstraat;118;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024723;664281;;Napelsstraat;122;;;;;;;N;;;;BUILDING template
@@ -532,7 +534,7 @@ ANTWERPEN-WEST - FH01;108790;612567;;Napelsstraat;130;;;;;;;N;;;;BUILDING templa
 ANTWERPEN-WEST - FH01;6590996;13451773;;Hanzestedenplaats;19;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024753;664284;;Napoleonkaai;5;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;6590997;13451789;;Hanzestedenplaats;23;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1905398;11196645;Godefriduskaai 18-20-22;Godefriduskaai;20;;XA;2020-01-28;;Y;;Y;2019-10-08;;;BUILDING template
+ANTWERPEN-WEST - FH01;1905398;11196645;Godefriduskaai 18-20-22;Godefriduskaai;20;;A;;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;6132277;29420469;Kattendijkdok-Westkaai 31-32-32A;Kattendijkdok-Westkaai;32;A;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108081;612395;;Napoleonkaai;7;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;62441;11196646;;Godefriduskaai;38;;;;;;;N;;;;BUILDING template
@@ -541,39 +543,39 @@ ANTWERPEN-WEST - FH01;108792;612569;;Napoleonkaai;31;;D;;;N;;N;;;;BUILDING templ
 ANTWERPEN-WEST - FH01;4510628;11196647;;Entrepotplaats;14;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024783;664285;;Napoleonkaai;33;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024791;664287;;Napoleonkaai;37;;;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;5963666;11196649;Napelsstraat 71-73;Napelsstraat;73;;C;2019-10-07;2019-10-07;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;5963666;11196649;Napelsstraat 71-73;Napelsstraat;73;;C;;2019-10-07;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024799;664288;;Napoleonkaai;39;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4066155;11196650;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;10;A;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;4066155;11196650;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;10;A;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108793;612572;;Napoleonkaai;43;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;4507060;11196651;Entrepotkaai 7-8-9-10;Entrepotkaai;7;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;4507060;11196651;Entrepotkaai 7-8-9-10;Entrepotkaai;7;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128034;613765;;Napoleonkaai;49;;D;;;N;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069021;11196652;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;11;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069021;11196652;Entrepotkaai 10A-11-12-13-14;Entrepotkaai;11;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108795;612573;;Napoleonkaai;53;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2069025;11196653;Entrepotkaai 15-16;Entrepotkaai;15;;A;2019-09-20;;Y;;Y;2019-10-20;;;BUILDING template
+ANTWERPEN-WEST - FH01;2069025;11196653;Entrepotkaai 15-16;Entrepotkaai;15;;A;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1128036;613767;;Napoleonkaai;55;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024719;11196654;;Napelsstraat;120;;C;2019-09-23;2019-12-18;Y;;Y;2019-10-07;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024719;11196654;;Napelsstraat;120;;C;2019-09-23;2019-12-18;Y;;Y;2019-10-16;;;BUILDING template
 ANTWERPEN-WEST - FH01;186503;641325;;Nassaustraat;7;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510550;11196655;;Napoleonkaai;11;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;1513863;619418;;Nassaustraat;8;;XA;;;Y;;Y;;;;BUILDING template
+ANTWERPEN-WEST - FH01;1513863;619418;;Nassaustraat;8;;A;;;Y;;Y;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4510554;11196656;;Napoleonkaai;15;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024869;664290;;Nassaustraat;9;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024882;664293;;Nassaustraat;13;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024763;11196657;;Napoleonkaai;17;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024884;664294;;Nassaustraat;15;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024772;11196658;;Napoleonkaai;21;;C;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;2024895;664295;;Nassaustraat;17;;A;2019-12-18;2019-12-18;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;2024895;664295;;Nassaustraat;17;;A;2019-12-18;2019-12-18;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;109142;11196659;;Napoleonkaai;27;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024910;664296;;Nassaustraat;19;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024779;11196660;;Napoleonkaai;25;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1292390;615723;;Nassaustraat;21;;;;;;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108065;612384;;Nassaustraat;24;;XA;2019-10-03;;Y;;Y;2019-10-04;;;BUILDING template
+ANTWERPEN-WEST - FH01;108065;612384;;Nassaustraat;24;;A;2019-10-03;;Y;;Y;2019-10-25;;;BUILDING template
 ANTWERPEN-WEST - FH01;108786;11196662;;Bordeauxstraat;13;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108077;612391;;Nassaustraat;26;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024934;664297;;Nassaustraat;27;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;109136;11196663;;Bordeauxstraat;14;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;2024938;664298;;Nassaustraat;29;;C;;;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;186508;11196664;Kribbestraat 19_Napoleonkaai 45;Kribbestraat;19;;A;;;Y;;N;;;;BUILDING template
-ANTWERPEN-WEST - FH01;108078;612392;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Nassaustraat;30;;A;2019-10-02;2020-01-19;Y;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108078;612392;Amsterdamstraat 14-16-18-20_Bataviastraat 1-5-7-11_Nassaustraat 30;Nassaustraat;30;;A;;2020-01-19;Y;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1992486;11196710;;Catharina Pepijnstraat;9;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;1892443;11196725;;Genuastraat;15;;;;;;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;5320926;710722;;Nassaustraat;34;;;;;;;N;;;;BUILDING template
@@ -582,3 +584,783 @@ ANTWERPEN-WEST - FH01;1128026;613759;;Nassaustraat;37;;D;;;N;;N;;;;BUILDING temp
 ANTWERPEN-WEST - FH01;4081990;11196666;;Londenstraat;22;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;4505491;11196726;;Genuastraat;19;;D;;;N;;N;;;;BUILDING template
 ANTWERPEN-WEST - FH01;108064;612383;;Nassaustraat;38;;D;;;N;;N;;;;BUILDING template
+ANTWERPEN-WEST - FH01;108063;612382;;Nassaustraat;43;;D;;;N;;N;;;;BUILDING template
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!
+#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;#WAARDE!;;;#WAARDE!

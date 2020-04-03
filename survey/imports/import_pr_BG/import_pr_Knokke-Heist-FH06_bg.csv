@@ -1,0 +1,581 @@
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+KNOKKE-HEIST - FH06;5579271;BL0616;;5579271;;Bayauxlaan 12-14;Bayauxlaan;12;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320335;BL0616;;320335;;Bayauxlaan 12-14;Bayauxlaan;14;;;;;Hidde Kiekens;MDU;2;5;0;7;BUILDING template
+KNOKKE-HEIST - FH06;320317;BL0615;;320317;;Bayauxlaan 26A_Paul Parmentierlaan 205;Paul Parmentierlaan;205;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320324;BL0615;;320324;;Bayauxlaan 26A_Paul Parmentierlaan 205;Bayauxlaan;26;A;;;;Hidde Kiekens;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;2757983;BL0615;;2757983;;Bayauxlaan 30-32;Bayauxlaan;32;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;3939521;BL0615;;3939521;;Bayauxlaan 30-32;Bayauxlaan;30;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;4263458;BL0616;;4263458;;Blancgarinstraat 15_Leopoldlaan 91-93;Leopoldlaan;93;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+KNOKKE-HEIST - FH06;320332;BL0616;;320332;;Blancgarinstraat 15_Leopoldlaan 91-93;Leopoldlaan;91;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;320339;BL0616;;320339;;Blancgarinstraat 15_Leopoldlaan 91-93;Blancgarinstraat;15;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;318441;BL0602;;318441;;Canadasquare 15-17;Canadasquare;17;;;;;Geert Stockman;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;318442;BL0602;;318442;;Canadasquare 15-17;Canadasquare;15;;;;;Geert Stockman;MDU;0;17;0;17;BUILDING template
+KNOKKE-HEIST - FH06;319255;BL0604;;319255;;Canadasquare 4-5-6_Jozef Nellenslaan 161-163;Jozef Nellenslaan;161;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579517;BL0604;;5579517;;Canadasquare 4-5-6_Jozef Nellenslaan 161-163;Jozef Nellenslaan;163;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;5579297;BL0604;;5579297;;Canadasquare 4-5-6_Jozef Nellenslaan 161-163;Canadasquare;6;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319304;BL0604;;319304;;Canadasquare 4-5-6_Jozef Nellenslaan 161-163;Canadasquare;4;;;;;Maayken Vanfleteren;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2758594;BL0604;;2758594;;Canadasquare 8-9;Canadasquare;9;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2758593;BL0604;;2758593;;Canadasquare 8-9;Canadasquare;8;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;337441;BL0610;;337441;;Dhooghestraat 3-5-7;D Hooghestraat;7;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;4344203;BL0610;;4344203;;Dhooghestraat 3-5-7;D Hooghestraat;5;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;5579380;BL0610;;5579380;;Dhooghestraat 3-5-7;D Hooghestraat;3;;;;;Hidde Kiekens;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;318439;BL0602;;318439;;Jozef Nellenslaan 157-159_Canadasquare 18-20-21;Canadasquare;21;;;;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;318448;BL0602;;318448;;Jozef Nellenslaan 157-159_Canadasquare 18-20-21;Jozef Nellenslaan;157;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;5579300;BL0602;;5579300;;Jozef Nellenslaan 157-159_Canadasquare 18-20-21;Canadasquare;18;;;;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;5579301;BL0602;;5579301;;Jozef Nellenslaan 157-159_Canadasquare 18-20-21;Canadasquare;20;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;6524223;BL0602;;6524223;;Jozef Nellenslaan 157-159_Canadasquare 18-20-21;Jozef Nellenslaan;159;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2764203;BL0614;;2764203;;Jozef Nellenslaan 166-168;Jozef Nellenslaan;166;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2764206;BL0614;;2764206;;Jozef Nellenslaan 166-168;Jozef Nellenslaan;168;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;5299093;BL0614;;5299093;;Jozef Nellenslaan 174-174A;Jozef Nellenslaan;174;A;;;;Hidde Kiekens;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320308;BL0614;;320308;;Jozef Nellenslaan 174-174A;Jozef Nellenslaan;174;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+KNOKKE-HEIST - FH06;2764226;BL0606;;2764226;;Jozef Nellenslaan 193-195;Jozef Nellenslaan;193;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;NB-83001954e3313;;;NB-83001954e3313;;Jozef Nellenslaan 193-195;Jozef Nellenslaan;195;;;;2020-03-16;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;319362;BL0606;;319362;;Jozef Nellenslaan 199-201_Meerminlaan 11;Jozef Nellenslaan;199;;;;;Maayken Vanfleteren;MDU;0;24;1;25;BUILDING template
+KNOKKE-HEIST - FH06;5579520;BL0606;;5579520;;Jozef Nellenslaan 199-201_Meerminlaan 11;Jozef Nellenslaan;201;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;12846;BL0606;;12846;;Jozef Nellenslaan 199-201_Meerminlaan 11;Meerminlaan;11;;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2764235;BL0613;;2764235;;Jozef Nellenslaan 209-211-213;Jozef Nellenslaan;209;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2764238;BL0613;;2764238;;Jozef Nellenslaan 209-211-213;Jozef Nellenslaan;211;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2764239;BL0613;;2764239;;Jozef Nellenslaan 209-211-213;Jozef Nellenslaan;213;;;;;Hidde Kiekens;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2764240;BL0613;;2764240;;Jozef Nellenslaan 215-217;Jozef Nellenslaan;215;;;;;Hidde Kiekens;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;4026877;BL0613;;4026877;;Jozef Nellenslaan 215-217;Jozef Nellenslaan;217;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337756;BL0613;;337756;;Jozef Nellenslaan 227-229;Jozef Nellenslaan;229;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337755;BL0613;;337755;;Jozef Nellenslaan 227-229;Jozef Nellenslaan;227;;;;;Hidde Kiekens;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;337815;BL0612;;337815;;Julius Hostestraat 1_Koningslaan 232;Julius Hostestraat;1;;;;;Maayken Vanfleteren;MDU;0;18;1;19;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300232acbe29;;;NB-8300232acbe29;;Julius Hostestraat 1_Koningslaan 232;Koningslaan;232;;;;2020-03-19;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;4344108;BL0612;;4344108;;Julius Hostestraat 5-7;Julius Hostestraat;7;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2760514;BL0612;;2760514;;Julius Hostestraat 5-7;Julius Hostestraat;5;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2765310;BL0615;;2765310;;Julius Hostestraat 8_Paul Parmentierlaan 237;Paul Parmentierlaan;237;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;NB-83008f6e137;;;NB-83008f6e137;;Julius Hostestraat 8_Paul Parmentierlaan 237;Julius Hostestraat;8;;;;2020-03-16;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2761891;BL0614;;2761891;;Koningslaan 119-121;Koningslaan;121;;;;;Hidde Kiekens;MDU;1;10;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2761889;BL0614;;2761889;;Koningslaan 119-121;Koningslaan;119;;;;;Hidde Kiekens;MDU;1;9;1;11;BUILDING template
+KNOKKE-HEIST - FH06;1475884;BL0614;;1475884;;Koningslaan 127-129-131-133_Jozef Nellenslaan 182;Koningslaan;131;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320298;BL0614;;320298;;Koningslaan 127-129-131-133_Jozef Nellenslaan 182;Koningslaan;127;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320299;BL0614;;320299;;Koningslaan 127-129-131-133_Jozef Nellenslaan 182;Koningslaan;133;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;13074;BL0614;;13074;;Koningslaan 127-129-131-133_Jozef Nellenslaan 182;Koningslaan;129;;;;;Hidde Kiekens;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;5579519;BL0614;;5579519;;Koningslaan 127-129-131-133_Jozef Nellenslaan 182;Jozef Nellenslaan;182;;;;;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2761953;BL0615;;2761953;;Koningslaan 202-204;Koningslaan;204;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2761952;BL0615;;2761952;;Koningslaan 202-204;Koningslaan;202;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;320322;BL0615;;320322;;Koningslaan 230A_Julius Hostestraat 2-2B;Koningslaan;230;A;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;3939568;BL0615;;3939568;;Koningslaan 230A_Julius Hostestraat 2-2B;Julius Hostestraat;2;B;;;;Hidde Kiekens;MDU;1;10;1;12;BUILDING template
+KNOKKE-HEIST - FH06;320326;BL0615;;320326;;Koningslaan 230A_Julius Hostestraat 2-2B;Julius Hostestraat;2;;;;;Hidde Kiekens;MDU;1;10;1;12;BUILDING template
+KNOKKE-HEIST - FH06;1448395;BL0612;;1448395;;Koningslaan 236-236A-236B;Koningslaan;236;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300236A8701;;;NB-8300236A8701;;Koningslaan 236-236A-236B;Koningslaan;236;A;;;2020-03-19;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300236Bc708;;;NB-8300236Bc708;;Koningslaan 236-236A-236B;Koningslaan;236;B;;;2020-03-19;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320302;BL0614;;320302;;Koningslaan 93A_Bayauxlaan 36A;Koningslaan;93;A;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;NB-830036Adf26;;;NB-830036Adf26;;Koningslaan 93A_Bayauxlaan 36A;Bayauxlaan;36;A;;;2020-03-17;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2762861;BL0611;;2762861;;Leopoldlaan 111-113-113A;Leopoldlaan;113;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2762858;BL0611;;2762858;;Leopoldlaan 111-113-113A;Leopoldlaan;111;;;;;Maayken Vanfleteren;MDU;1;9;1;11;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300113A7a32;;;NB-8300113A7a32;;Leopoldlaan 111-113-113A;Leopoldlaan;113;A;;;2020-03-17;Maayken Vanfleteren;MDU;0;13;1;14;BUILDING template
+KNOKKE-HEIST - FH06;2762883;BL0610;;2762883;;Leopoldlaan 133-135-137;Leopoldlaan;133;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2762886;BL0610;;2762886;;Leopoldlaan 133-135-137;Leopoldlaan;135;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;337324;BL0610;;337324;;Leopoldlaan 133-135-137;Leopoldlaan;137;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;320331;BL0616;;320331;;Leopoldlaan 81-83;Leopoldlaan;81;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;5579462;BL0616;;5579462;;Leopoldlaan 81-83;Leopoldlaan;83;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762833;BL0616;;2762833;;Leopoldlaan 87-89;Leopoldlaan;89;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2762830;BL0616;;2762830;;Leopoldlaan 87-89;Leopoldlaan;87;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337846;BL0611;;337846;;Leopoldlaan 95_Blancgarinstraat 20-22;Leopoldlaan;95;;;;;Maayken Vanfleteren;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;337851;BL0611;;337851;;Leopoldlaan 95_Blancgarinstraat 20-22;Blancgarinstraat;22;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;NB-830020e52203;;;NB-830020e52203;;Leopoldlaan 95_Blancgarinstraat 20-22;Blancgarinstraat;20;;;;2020-03-17;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762843;BL0611;;2762843;;Leopoldlaan 99-101;Leopoldlaan;99;;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762847;BL0611;;2762847;;Leopoldlaan 99-101;Leopoldlaan;101;;;;;Maayken Vanfleteren;MDU;0;18;1;19;BUILDING template
+KNOKKE-HEIST - FH06;319351;BL0606;;319351;;Meerminlaan 13-15;Meerminlaan;13;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;5579494;BL0606;;5579494;;Meerminlaan 13-15;Meerminlaan;15;;;;;Maayken Vanfleteren;MDU;0;13;1;14;BUILDING template
+KNOKKE-HEIST - FH06;5579495;BL0606;;5579495;;Meerminlaan 19_Zeedijk-Albertstrand 549-550;Meerminlaan;19;;;;;Maayken Vanfleteren;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2757718;BL0606;;2757718;;Meerminlaan 19_Zeedijk-Albertstrand 549-550;Zeedijk-Albertstrand;549;;;;;Maayken Vanfleteren;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;5579258;BL0606;;5579258;;Meerminlaan 19_Zeedijk-Albertstrand 549-550;Zeedijk-Albertstrand;550;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337748;BL0613;;337748;;Meerminlaan 42-48_Zeedijk-Albertstrand 551-552;Meerminlaan;42;;;;;Hidde Kiekens;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337758;BL0613;;337758;;Meerminlaan 42-48_Zeedijk-Albertstrand 551-552;Zeedijk-Albertstrand;551;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337749;BL0613;;337749;;Meerminlaan 42-48_Zeedijk-Albertstrand 551-552;Meerminlaan;48;;;;;Hidde Kiekens;MDU;1;67;3;71;BUILDING template
+KNOKKE-HEIST - FH06;2757723;BL0613;;2757723;;Meerminlaan 42-48_Zeedijk-Albertstrand 551-552;Zeedijk-Albertstrand;552;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320318;BL0616;;320318;;Paul Parmentierlaan 172A_Bayauxlaan 24;Paul Parmentierlaan;172;A;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;320325;BL0616;;320325;;Paul Parmentierlaan 172A_Bayauxlaan 24;Bayauxlaan;24;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765271;BL0616;;2765271;;Paul Parmentierlaan 202-204;Paul Parmentierlaan;202;;;;;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300204b8e206;;;NB-8300204b8e206;;Paul Parmentierlaan 202-204;Paul Parmentierlaan;204;;;;2020-03-16;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2765316;BL0609;;2765316;;Paul Parmentierlaan 242-244-244A;Paul Parmentierlaan;242;;;;;Maayken Vanfleteren;MDU;0;48;2;50;BUILDING template
+KNOKKE-HEIST - FH06;2765319;BL0609;;2765319;;Paul Parmentierlaan 242-244-244A;Paul Parmentierlaan;244;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;6459808;BL0609;;6459808;;Paul Parmentierlaan 242-244-244A;Paul Parmentierlaan;244;A;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765322;BL0612;;2765322;;Paul Parmentierlaan 245-247;Paul Parmentierlaan;245;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;1389323;BL0612;;1389323;;Paul Parmentierlaan 245-247;Paul Parmentierlaan;247;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;5579537;BL0609;;5579537;;Paul Parmentierlaan 246-248;Paul Parmentierlaan;248;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;337338;BL0609;;337338;;Paul Parmentierlaan 246-248;Paul Parmentierlaan;246;;;;;Maayken Vanfleteren;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2765332;BL0612;;2765332;;Paul Parmentierlaan 251-253;Paul Parmentierlaan;251;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;4344129;BL0612;;4344129;;Paul Parmentierlaan 251-253;Paul Parmentierlaan;253;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;13070;BL0608;;13070;;Paul Parmentierlaan 269A-271;Paul Parmentierlaan;271;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;6436632;BL0612;;6436632;;Paul Parmentierlaan 269A-271;Paul Parmentierlaan;269;A;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765356;BL0608;;2765356;;Paul Parmentierlaan 273-275;Paul Parmentierlaan;273;;;;;Geert Stockman;MDU;0;10;0;10;BUILDING template
+KNOKKE-HEIST - FH06;NB-83002754a2c69;;;NB-83002754a2c69;;Paul Parmentierlaan 273-275;Paul Parmentierlaan;275;;;;2020-03-16;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765377;BL0608;;2765377;;Paul Parmentierlaan 291-293;Paul Parmentierlaan;291;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;6025621;BL0608;;6025621;;Paul Parmentierlaan 291-293;Paul Parmentierlaan;293;;;;;Geert Stockman;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;2766736;BL0601;;2766736;;Sterrenlaan 11-13-15;Sterrenlaan;13;;;;;Geert Stockman;MDU;0;21;0;21;BUILDING template
+KNOKKE-HEIST - FH06;2766742;BL0601;;2766742;;Sterrenlaan 11-13-15;Sterrenlaan;15;;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1320090;BL0601;;1320090;;Sterrenlaan 11-13-15;Sterrenlaan;11;;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579558;BL0602;;5579558;;Sterrenlaan 8-10;Sterrenlaan;8;;;;;Geert Stockman;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2766733;BL0602;;2766733;;Sterrenlaan 8-10;Sterrenlaan;10;;;;;Geert Stockman;MDU;0;21;1;22;BUILDING template
+KNOKKE-HEIST - FH06;4344281;BL0608;;4344281;;Sylvain Dupuisstraat 11-13;Sylvain Dupuisstraat;11;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2759391;BL0608;;2759391;;Sylvain Dupuisstraat 11-13;Sylvain Dupuisstraat;13;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;5579349;BL0608;;5579349;;Sylvain Dupuisstraat 1-3;Sylvain Dupuisstraat;3;;;;;Geert Stockman;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;337226;BL0608;;337226;;Sylvain Dupuisstraat 1-3;Sylvain Dupuisstraat;1;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5831123;BL0609;;5831123;;Sylvain Dupuisstraat 41-41A_Paul Parmentierlaan 236A;Sylvain Dupuisstraat;41;A;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;337332;BL0609;;337332;;Sylvain Dupuisstraat 41-41A_Paul Parmentierlaan 236A;Sylvain Dupuisstraat;41;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;337340;BL0609;;337340;;Sylvain Dupuisstraat 41-41A_Paul Parmentierlaan 236A;Paul Parmentierlaan;236;A;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337848;BL0611;;337848;;Sylvain Dupuisstraat 44-46;Sylvain Dupuisstraat;44;;;;;Maayken Vanfleteren;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;NB-830046a93a66;;;NB-830046a93a66;;Sylvain Dupuisstraat 44-46;Sylvain Dupuisstraat;46;;;;2020-03-17;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;4257228;BL0611;;4257228;;Sylvain Dupuisstraat 54-56-58-60;Sylvain Dupuisstraat;56;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2759434;BL0611;;2759434;;Sylvain Dupuisstraat 54-56-58-60;Sylvain Dupuisstraat;58;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;4344096;BL0611;;4344096;;Sylvain Dupuisstraat 54-56-58-60;Sylvain Dupuisstraat;60;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;NB-830054fe0158;;;NB-830054fe0158;;Sylvain Dupuisstraat 54-56-58-60;Sylvain Dupuisstraat;54;;;;2020-03-17;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;4344279;BL0608;;4344279;;Sylvain Dupuisstraat 5-7-9;Sylvain Dupuisstraat;5;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2759387;BL0608;;2759387;;Sylvain Dupuisstraat 5-7-9;Sylvain Dupuisstraat;7;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;337227;BL0608;;337227;;Sylvain Dupuisstraat 5-7-9;Sylvain Dupuisstraat;9;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;337845;BL0611;;337845;;Sylvain Dupuisstraat 64_Leopoldlaan 117;Leopoldlaan;117;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337847;BL0611;;337847;;Sylvain Dupuisstraat 64_Leopoldlaan 117;Sylvain Dupuisstraat;64;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;1519814;BL0603;;1519814;;Zeedijk Albertstrand 509-510;Zeedijk-Albertstrand;509;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579253;BL0603;;5579253;;Zeedijk Albertstrand 509-510;Zeedijk-Albertstrand;510;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757656;BL0601;;2757656;;Zeedijk-Albertstrand 482-483;Zeedijk-Albertstrand;483;;;;;Maayken Vanfleteren;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;317822;BL0601;;317822;;Zeedijk-Albertstrand 487-488;Zeedijk-Albertstrand;487;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;5579247;BL0601;;5579247;;Zeedijk-Albertstrand 487-488;Zeedijk-Albertstrand;488;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;317821;BL0601;;317821;;Zeedijk-Albertstrand 489-490;Zeedijk-Albertstrand;489;;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579248;BL0601;;5579248;;Zeedijk-Albertstrand 489-490;Zeedijk-Albertstrand;490;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;317827;BL0601;;317827;;Zeedijk-Albertstrand 494-493;Zeedijk-Albertstrand;493;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;5579249;BL0601;;5579249;;Zeedijk-Albertstrand 494-493;Zeedijk-Albertstrand;494;;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;318435;BL0602;;318435;;Zeedijk-Albertstrand 499_Sterrenlaan 14;Zeedijk-Albertstrand;499;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2766738;BL0602;;2766738;;Zeedijk-Albertstrand 499_Sterrenlaan 14;Sterrenlaan;14;;;;;Geert Stockman;MDU;0;24;0;24;BUILDING template
+KNOKKE-HEIST - FH06;318437;BL0602;;318437;;Zeedijk-Albertstrand 500-501-502;Zeedijk-Albertstrand;500;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1320279;BL0602;;1320279;;Zeedijk-Albertstrand 500-501-502;Zeedijk-Albertstrand;501;;;;;Maayken Vanfleteren;MDU;0;30;2;32;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300502220380;;;NB-8300502220380;;Zeedijk-Albertstrand 500-501-502;Zeedijk-Albertstrand;502;;;;2020-03-19;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;318436;BL0602;;318436;;Zeedijk-Albertstrand 505-506-507;Zeedijk-Albertstrand;505;;;;;Maayken Vanfleteren;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;2757672;BL0602;;2757672;;Zeedijk-Albertstrand 505-506-507;Zeedijk-Albertstrand;506;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579250;BL0602;;5579250;;Zeedijk-Albertstrand 505-506-507;Zeedijk-Albertstrand;507;;;;;Maayken Vanfleteren;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;4347398;BL0604;;4347398;;Zeedijk-Albertstrand 512-513-514;Zeedijk-Albertstrand;514;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757680;BL0604;;2757680;;Zeedijk-Albertstrand 512-513-514;Zeedijk-Albertstrand;512;;;;;Maayken Vanfleteren;MDU;0;64;4;68;BUILDING template
+KNOKKE-HEIST - FH06;2757682;BL0604;;2757682;;Zeedijk-Albertstrand 512-513-514;Zeedijk-Albertstrand;513;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319260;BL0604;;319260;;Zeedijk-Albertstrand 516-517-518;Zeedijk-Albertstrand;516;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757685;BL0604;;2757685;;Zeedijk-Albertstrand 516-517-518;Zeedijk-Albertstrand;517;;;;;Maayken Vanfleteren;MDU;0;13;1;14;BUILDING template
+KNOKKE-HEIST - FH06;2757686;BL0604;;2757686;;Zeedijk-Albertstrand 516-517-518;Zeedijk-Albertstrand;518;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757687;BL0604;;2757687;;Zeedijk-Albertstrand 519-520-521;Zeedijk-Albertstrand;519;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1438861;BL0604;;1438861;;Zeedijk-Albertstrand 519-520-521;Zeedijk-Albertstrand;520;;;;;Maayken Vanfleteren;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;5579254;BL0604;;5579254;;Zeedijk-Albertstrand 519-520-521;Zeedijk-Albertstrand;521;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1168840;BL0605;;1168840;;Zeedijk-Albertstrand 530-531;Zeedijk-Albertstrand;530;;;;;Geert Stockman;MDU;1;14;1;16;BUILDING template
+KNOKKE-HEIST - FH06;319305;BL0605;;319305;;Zeedijk-Albertstrand 530-531;Zeedijk-Albertstrand;531;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757705;BL0606;;2757705;;Zeedijk-Albertstrand 537-538;Zeedijk-Albertstrand;537;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300538ed2a99;;;NB-8300538ed2a99;;Zeedijk-Albertstrand 537-538;Zeedijk-Albertstrand;538;;;;2020-03-16;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757709;BL0606;;2757709;;Zeedijk-Albertstrand 540-541;Zeedijk-Albertstrand;540;;;;;Maayken Vanfleteren;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2757710;BL0606;;2757710;;Zeedijk-Albertstrand 540-541;Zeedijk-Albertstrand;541;;;;;Maayken Vanfleteren;MDU;1;0;1;2;BUILDING template
+KNOKKE-HEIST - FH06;2757712;BL0606;;2757712;;Zeedijk-Albertstrand 543-544;Zeedijk-Albertstrand;543;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757713;BL0606;;2757713;;Zeedijk-Albertstrand 543-544;Zeedijk-Albertstrand;544;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2757724;BL0613;;2757724;;Zeedijk-Albertstrand 556-557;Zeedijk-Albertstrand;556;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757725;BL0613;;2757725;;Zeedijk-Albertstrand 556-557;Zeedijk-Albertstrand;557;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;337760;BL0613;;337760;;Zeedijk-Albertstrand 560-561;Zeedijk-Albertstrand;560;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579260;BL0613;;5579260;;Zeedijk-Albertstrand 560-561;Zeedijk-Albertstrand;561;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2757730;BL0613;;2757730;;Zeedijk-Albertstrand 562-563;Zeedijk-Albertstrand;562;;;;;Hidde Kiekens;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;2757732;BL0613;;2757732;;Zeedijk-Albertstrand 562-563;Zeedijk-Albertstrand;563;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337761;BL0613;;337761;;Zeedijk-Albertstrand 567-568;Zeedijk-Albertstrand;567;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579261;BL0613;;5579261;;Zeedijk-Albertstrand 567-568;Zeedijk-Albertstrand;568;;;;;Hidde Kiekens;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;4344133;BL0613;;4344133;;Zeedijk-Albertstrand 569-570;Zeedijk-Albertstrand;569;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757741;BL0613;;2757741;;Zeedijk-Albertstrand 569-570;Zeedijk-Albertstrand;570;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;337762;BL0613;;337762;;Zeedijk-Albertstrand 571-572;Zeedijk-Albertstrand;571;;;;;Hidde Kiekens;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;5579262;BL0613;;5579262;;Zeedijk-Albertstrand 571-572;Zeedijk-Albertstrand;572;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337763;BL0613;;337763;;Zeedijk-Albertstrand 573-574;Zeedijk-Albertstrand;573;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757748;BL0613;;2757748;;Zeedijk-Albertstrand 573-574;Zeedijk-Albertstrand;574;;;;;Hidde Kiekens;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;5579411;BL0613;;5579411;;Zeedijk-Albertstrand 576_Koningslaan 145-147-149-153;Koningslaan;153;;;;;Hidde Kiekens;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2761910;BL0613;;2761910;;Zeedijk-Albertstrand 576_Koningslaan 145-147-149-153;Koningslaan;147;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337752;BL0613;;337752;;Zeedijk-Albertstrand 576_Koningslaan 145-147-149-153;Koningslaan;145;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;337764;BL0613;;337764;;Zeedijk-Albertstrand 576_Koningslaan 145-147-149-153;Zeedijk-Albertstrand;576;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761913;BL0613;;2761913;;Zeedijk-Albertstrand 576_Koningslaan 145-147-149-153;Koningslaan;149;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579265;BL0608;;5579265;;Zeedijk-Albertstrand 577-578;Zeedijk-Albertstrand;577;;;;;Geert Stockman;MDU;0;22;1;23;BUILDING template
+KNOKKE-HEIST - FH06;NB-830057831d259;;;NB-830057831d259;;Zeedijk-Albertstrand 577-578;Zeedijk-Albertstrand;578;;;;2020-03-18;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5573000;BL0608;;5573000;;Zeedijk-Albertstrand 579-580;Zeedijk-Albertstrand;579;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300580671589;;;NB-8300580671589;;Zeedijk-Albertstrand 579-580;Zeedijk-Albertstrand;580;;;;2020-03-18;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5564766;BL0608;;5564766;;Zeedijk-Albertstrand 581-582;Zeedijk-Albertstrand;581;;;;;Geert Stockman;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;6525366;BL0608;;6525366;;Zeedijk-Albertstrand 581-582;Zeedijk-Albertstrand;582;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757756;BL0608;;2757756;;Zeedijk-Albertstrand 583-584;Zeedijk-Albertstrand;583;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757757;BL0608;;2757757;;Zeedijk-Albertstrand 583-584;Zeedijk-Albertstrand;584;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2757759;BL0608;;2757759;;Zeedijk-Albertstrand 585-586;Zeedijk-Albertstrand;585;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2757760;BL0608;;2757760;;Zeedijk-Albertstrand 585-586;Zeedijk-Albertstrand;586;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337238;BL0608;;337238;;Zeedijk-Albertstrand 588-589;Zeedijk-Albertstrand;589;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579266;BL0608;;5579266;;Zeedijk-Albertstrand 588-589;Zeedijk-Albertstrand;588;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;1351483;BL0608;;1351483;;Zeedijk-Knokke 604-605;Zeedijk-Knokke;604;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761403;BL0608;;2761403;;Zeedijk-Knokke 604-605;Zeedijk-Knokke;605;;;;;Geert Stockman;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2761408;BL0608;;2761408;;Zeedijk-Knokke 608-609-610;Zeedijk-Knokke;609;;;;;Geert Stockman;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2761407;BL0608;;2761407;;Zeedijk-Knokke 608-609-610;Zeedijk-Knokke;608;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761410;BL0608;;2761410;;Zeedijk-Knokke 608-609-610;Zeedijk-Knokke;610;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761412;BL0608;;2761412;;Zeedijk-Knokke 611-612;Zeedijk-Knokke;612;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2761411;BL0608;;2761411;;Zeedijk-Knokke 611-612;Zeedijk-Knokke;611;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;4344269;BL0608;;4344269;;Zeedijk-Knokke 613-614;Zeedijk-Knokke;614;;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761413;BL0608;;2761413;;Zeedijk-Knokke 613-614;Zeedijk-Knokke;613;;;;;Geert Stockman;MDU;0;22;1;23;BUILDING template
+KNOKKE-HEIST - FH06;337236;BL0608;;337236;;Zeedijk-Knokke 615-616;Zeedijk-Knokke;615;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337237;BL0608;;337237;;Zeedijk-Knokke 615-616;Zeedijk-Knokke;616;;;;;Geert Stockman;MDU;1;16;1;18;BUILDING template
+KNOKKE-HEIST - FH06;2761415;BL0608;;2761415;;Zeedijk-Knokke 617-618;Zeedijk-Knokke;617;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761416;BL0608;;2761416;;Zeedijk-Knokke 617-618;Zeedijk-Knokke;618;;;;;Geert Stockman;MDU;0;11;0;11;BUILDING template
+KNOKKE-HEIST - FH06;2761426;BL0608;;2761426;;Zeedijk-Knokke 625-626;Zeedijk-Knokke;625;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;NB-830062630c367;;;NB-830062630c367;;Zeedijk-Knokke 625-626;Zeedijk-Knokke;626;;;;2020-03-16;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761433;BL0608;;2761433;;Zeedijk-Knokke 629-630;Zeedijk-Knokke;629;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761434;BL0608;;2761434;;Zeedijk-Knokke 629-630;Zeedijk-Knokke;630;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;337344;BL0609;;337344;;Zeedijk-Knokke 633-634-635;Zeedijk-Knokke;635;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337342;BL0609;;337342;;Zeedijk-Knokke 633-634-635;Zeedijk-Knokke;633;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761443;BL0609;;2761443;;Zeedijk-Knokke 633-634-635;Zeedijk-Knokke;634;;;;;Maayken Vanfleteren;MDU;0;27;2;29;BUILDING template
+KNOKKE-HEIST - FH06;319259;BL0604;;319259;;Zonnelaan 19_Zeedijk-Albertstrand 524;Zeedijk-Albertstrand;524;;;;;Maayken Vanfleteren;MDU;2;0;0;2;BUILDING template
+KNOKKE-HEIST - FH06;319247;BL0604;;319247;;Zonnelaan 19_Zeedijk-Albertstrand 524;Zonnelaan;19;;;;;Maayken Vanfleteren;MDU;0;38;2;40;BUILDING template
+KNOKKE-HEIST - FH06;5579584;BL0605;;5579584;;Zonnelaan 28-30-32-34_Zeedijk-Albertstrand 525-527;Zonnelaan;34;;;;;Geert Stockman;MDU;0;33;1;34;BUILDING template
+KNOKKE-HEIST - FH06;2767934;BL0605;;2767934;;Zonnelaan 28-30-32-34_Zeedijk-Albertstrand 525-527;Zonnelaan;30;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2767935;BL0605;;2767935;;Zonnelaan 28-30-32-34_Zeedijk-Albertstrand 525-527;Zonnelaan;32;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319317;BL0605;;319317;;Zonnelaan 28-30-32-34_Zeedijk-Albertstrand 525-527;Zonnelaan;28;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5579255;BL0605;;5579255;;Zonnelaan 28-30-32-34_Zeedijk-Albertstrand 525-527;Zeedijk-Albertstrand;527;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;NB-830052586b830;;;NB-830052586b830;;Zonnelaan 28-30-32-34_Zeedijk-Albertstrand 525-527;Zeedijk-Albertstrand;525;;;;2020-03-18;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2764205;BL0604;;2764205;;Zonnnelaan 7_Jozef Nellenslaan 167;Jozef Nellenslaan;167;;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319239;BL0604;;319239;;Zonnnelaan 7_Jozef Nellenslaan 167;Zonnelaan;7;;;;;Maayken Vanfleteren;MDU;0;40;1;41;BUILDING template
+KNOKKE-HEIST - FH06;5579600;BL0605;;5579600;;Zwaluwenlaan 15-17_Zeedijk-Albertstrand 529;Zwaluwenlaan;15;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;NB-83005293a8363;;;NB-83005293a8363;;Zwaluwenlaan 15-17_Zeedijk-Albertstrand 529;Zeedijk-Albertstrand;529;;;;2020-03-16;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319314;BL0605;;319314;;Zwaluwenlaan 15-17_Zeedijk-Albertstrand 529;Zwaluwenlaan;17;;;;;Geert Stockman;MDU;0;14;0;14;BUILDING template
+KNOKKE-HEIST - FH06;319363;BL0606;;319363;;Zwaluwenlaan 2_Zeedijk-Albertstrand 533;Zeedijk-Albertstrand;533;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319355;BL0606;;319355;;Zwaluwenlaan 2_Zeedijk-Albertstrand 533;Zwaluwenlaan;2;;;;;Geert Stockman;MDU;0;15;0;15;BUILDING template
+KNOKKE-HEIST - FH06;2768375;BL0605;;2768375;;Zwaluwenlaan 9-11;Zwaluwenlaan;9;;;;;Geert Stockman;MDU;0;15;0;15;BUILDING template
+KNOKKE-HEIST - FH06;2768382;BL0605;;2768382;;Zwaluwenlaan 9-11;Zwaluwenlaan;11;;;;;Geert Stockman;MDU;0;29;0;29;BUILDING template
+KNOKKE-HEIST - FH06;337759;BL0613;;337759;;;Zeedijk-Albertstrand;558;;;;;Hidde Kiekens;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2761966;BL0615;;2761966;;;Koningslaan;224;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2761968;BL0615;;2761968;;;Koningslaan;226;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;4343356;BL0605;;4343356;;;Zonnelaan;16;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2761969;BL0615;;2761969;;;Koningslaan;228;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2761970;BL0615;;2761970;;;Koningslaan;230;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;4344124;BL0612;;4344124;;;Sylvain Dupuisstraat;40;;;;;Maayken Vanfleteren;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2761976;BL0612;;2761976;;;Koningslaan;240;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4344142;BL0613;;4344142;;;Jozef Nellenslaan;207;;;;;Hidde Kiekens;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2761978;BL0612;;2761978;;;Koningslaan;242;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4344208;BL0609;;4344208;;;D Hooghestraat;4;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761979;BL0612;;2761979;;;Koningslaan;244;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4344210;BL0609;;4344210;;;D Hooghestraat;6;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761981;BL0612;;2761981;;;Koningslaan;246;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4344211;BL0609;;4344211;;;D Hooghestraat;8;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761983;BL0612;;2761983;;;Koningslaan;248;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4344215;BL0609;;4344215;;;D Hooghestraat;12;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2762804;BL0616;;2762804;;;Leopoldlaan;67;;;;;Hidde Kiekens;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4344251;BL0608;;4344251;;;Zeedijk-Knokke;619;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2762809;BL0616;;2762809;;;Leopoldlaan;69;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2762811;BL0616;;2762811;;;Leopoldlaan;71;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;NB-83005de1694;;;NB-83005de1694;;;Canadasquare;5;;;;2020-03-16;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762816;BL0616;;2762816;;;Leopoldlaan;79;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;4344284;BL0608;;4344284;;;Sylvain Dupuisstraat;21;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;4344932;BL0616;;4344932;;;Leopoldlaan;77;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;4345484;BL0614;;4345484;;;Koningslaan;105;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2762842;BL0611;;2762842;;;Leopoldlaan;97;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;5368122;BL0609;;5368122;;;D Hooghestraat;2;D;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;5377687;BL0609;;5377687;;;D Hooghestraat;2;A;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762851;BL0611;;2762851;;;Leopoldlaan;105;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;5432872;BL0609;;5432872;;;D Hooghestraat;2;C;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762852;BL0611;;2762852;;;Leopoldlaan;107;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;5437537;BL0604;;5437537;;;Canadasquare;13;;;;;Maayken Vanfleteren;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;2762856;BL0611;;2762856;;;Leopoldlaan;109;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2762866;BL0611;;2762866;;;Leopoldlaan;115;;;;;Maayken Vanfleteren;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;5579298;BL0602;;5579298;;;Canadasquare;14;;;;;Geert Stockman;MDU;1;29;0;30;BUILDING template
+KNOKKE-HEIST - FH06;2762870;BL0609;;2762870;;;Leopoldlaan;121;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;5579350;BL0612;;5579350;;;Sylvain Dupuisstraat;4;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2762875;BL0610;;2762875;;;Leopoldlaan;127;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2762878;BL0610;;2762878;;;Leopoldlaan;129;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;5579516;BL0602;;5579516;;;Jozef Nellenslaan;155;;;;;Geert Stockman;MDU;0;33;0;33;BUILDING template
+KNOKKE-HEIST - FH06;2763665;BL0601;;2763665;;;Meerlaan;82;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2763667;BL0601;;2763667;;;Meerlaan;84;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2763669;BL0601;;2763669;;;Meerlaan;86;;;;;Geert Stockman;MDU;0;22;0;22;BUILDING template
+KNOKKE-HEIST - FH06;NB-83006219daa39;;;NB-83006219daa39;;;Zeedijk-Knokke;621;;;;2020-03-16;Geert Stockman;MDU;0;17;0;17;BUILDING template
+KNOKKE-HEIST - FH06;2763702;BL0614;;2763702;;;Meerminlaan;8;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;5697759;BL0609;;5697759;;;Sylvain Dupuisstraat;51;;;;;Maayken Vanfleteren;MDU;0;3;1;4;BUILDING template
+KNOKKE-HEIST - FH06;2763705;BL0614;;2763705;;;Meerminlaan;10;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;5805836;BL0608;;5805836;;;Zeedijk-Knokke;632;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2763706;BL0614;;2763706;;;Meerminlaan;12;;;;;Hidde Kiekens;MDU;1;1;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2763708;BL0614;;2763708;;;Meerminlaan;14;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;6210672;BL0616;;6210672;;;Leopoldlaan;67;A;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2763710;BL0614;;2763710;;;Meerminlaan;16;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2763712;BL0614;;2763712;;;Meerminlaan;18;;;;;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2763714;BL0614;;2763714;;;Meerminlaan;20;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2763715;BL0614;;2763715;;;Meerminlaan;22;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2763716;BL0614;;2763716;;;Meerminlaan;24;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2763717;BL0614;;2763717;;;Meerminlaan;26;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2763719;BL0614;;2763719;;;Meerminlaan;30;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2763720;BL0613;;2763720;;;Meerminlaan;36;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2763722;BL0613;;2763722;;;Meerminlaan;40;;;;;Hidde Kiekens;MDU;1;6;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2763723;BL0613;;2763723;;;Meerminlaan;44;;;;;Hidde Kiekens;MDU;1;1;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2764161;BL0601;;2764161;;;Jozef Nellenslaan;125;;;;;Geert Stockman;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2764164;BL0601;;2764164;;;Jozef Nellenslaan;127;;;;;Geert Stockman;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2764167;BL0601;;2764167;;;Jozef Nellenslaan;129;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2764171;BL0601;;2764171;;;Jozef Nellenslaan;131;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300211ce6965;;;NB-8300211ce6965;;;Paul Parmentierlaan;211;;;;2020-03-16;Hidde Kiekens;MDU;1;14;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2764173;BL0601;;2764173;;;Jozef Nellenslaan;135;;;;;Geert Stockman;MDU;0;20;0;20;BUILDING template
+KNOKKE-HEIST - FH06;2764175;BL0601;;2764175;;;Jozef Nellenslaan;137;;;;;Geert Stockman;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2764179;BL0601;;2764179;;;Jozef Nellenslaan;139;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2764180;BL0601;;2764180;;;Jozef Nellenslaan;141;;;;;Geert Stockman;MDU;0;14;0;14;BUILDING template
+KNOKKE-HEIST - FH06;2764181;BL0601;;2764181;;;Jozef Nellenslaan;143;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2764212;BL0605;;2764212;;;Jozef Nellenslaan;173;;;;;Geert Stockman;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2764214;BL0614;;2764214;;;Jozef Nellenslaan;176;;;;;Hidde Kiekens;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2764218;BL0605;;2764218;;;Jozef Nellenslaan;179;;;;;Geert Stockman;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;2764220;BL0605;;2764220;;;Jozef Nellenslaan;181;;;;;Geert Stockman;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2764222;BL0606;;2764222;;;Jozef Nellenslaan;189;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2764225;BL0606;;2764225;;;Jozef Nellenslaan;191;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;NB-8300481459658;;;NB-8300481459658;;;Zeedijk-Albertstrand;481;;;;2020-03-15;Geert Stockman;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;317824;BL0601;;317824;;;Zeedijk-Albertstrand;484;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2764229;BL0606;;2764229;;;Jozef Nellenslaan;197;;;;;Maayken Vanfleteren;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;317823;BL0601;;317823;;;Zeedijk-Albertstrand;485;;;;;Geert Stockman;MDU;0;13;0;13;BUILDING template
+KNOKKE-HEIST - FH06;2757657;BL0601;;2757657;;;Zeedijk-Albertstrand;486;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;2764242;BL0613;;2764242;;;Jozef Nellenslaan;219;;;;;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2764244;BL0613;;2764244;;;Jozef Nellenslaan;223;;;;;Hidde Kiekens;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2765232;BL0616;;2765232;;;Paul Parmentierlaan;178;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765235;BL0616;;2765235;;;Paul Parmentierlaan;184;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765237;BL0616;;2765237;;;Paul Parmentierlaan;186;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765240;BL0616;;2765240;;;Paul Parmentierlaan;188;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;317828;BL0601;;317828;;;Zeedijk-Albertstrand;491;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;2765247;BL0616;;2765247;;;Paul Parmentierlaan;190;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;317826;BL0601;;317826;;;Zeedijk-Albertstrand;492;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;2765254;BL0616;;2765254;;;Paul Parmentierlaan;192;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765258;BL0616;;2765258;;;Paul Parmentierlaan;194;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2757666;BL0601;;2757666;;;Zeedijk-Albertstrand;496;;;;;Geert Stockman;MDU;0;17;0;17;BUILDING template
+KNOKKE-HEIST - FH06;2765261;BL0616;;2765261;;;Paul Parmentierlaan;196;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765263;BL0616;;2765263;;;Paul Parmentierlaan;198;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765268;BL0616;;2765268;;;Paul Parmentierlaan;200;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2757667;BL0601;;2757667;;;Zeedijk-Albertstrand;497;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;317829;BL0601;;317829;;;Zeedijk-Albertstrand;498;;;;;Geert Stockman;MDU;0;18;0;18;BUILDING template
+KNOKKE-HEIST - FH06;2765275;BL0616;;2765275;;;Paul Parmentierlaan;206;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2765277;BL0615;;2765277;;;Paul Parmentierlaan;209;;;;;Hidde Kiekens;MDU;0;14;0;14;BUILDING template
+KNOKKE-HEIST - FH06;6389864;BL0602;;6389864;;;Zeedijk-Albertstrand;503;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765279;BL0611;;2765279;;;Paul Parmentierlaan;212;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2757670;BL0602;;2757670;;;Zeedijk-Albertstrand;504;;;;;Maayken Vanfleteren;MDU;0;33;2;35;BUILDING template
+KNOKKE-HEIST - FH06;2765281;BL0615;;2765281;;;Paul Parmentierlaan;213;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2765285;BL0611;;2765285;;;Paul Parmentierlaan;214;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765289;BL0615;;2765289;;;Paul Parmentierlaan;217;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765290;BL0611;;2765290;;;Paul Parmentierlaan;218;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+KNOKKE-HEIST - FH06;2765291;BL0615;;2765291;;;Paul Parmentierlaan;219;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2765292;BL0611;;2765292;;;Paul Parmentierlaan;220;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2765293;BL0615;;2765293;;;Paul Parmentierlaan;221;;;;;Hidde Kiekens;MDU;0;19;1;20;BUILDING template
+KNOKKE-HEIST - FH06;318438;BL0603;;318438;;;Zeedijk-Albertstrand;508;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765294;BL0611;;2765294;;;Paul Parmentierlaan;222;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;319261;BL0604;;319261;;;Zeedijk-Albertstrand;511;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2765295;BL0615;;2765295;;;Paul Parmentierlaan;223;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2765296;BL0611;;2765296;;;Paul Parmentierlaan;224;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2757689;BL0604;;2757689;;;Zeedijk-Albertstrand;522;;;;;Maayken Vanfleteren;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2765297;BL0615;;2765297;;;Paul Parmentierlaan;225;;;;;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2765299;BL0611;;2765299;;;Paul Parmentierlaan;228;;;;;Maayken Vanfleteren;MDU;1;2;0;3;BUILDING template
+KNOKKE-HEIST - FH06;2765301;BL0615;;2765301;;;Paul Parmentierlaan;231;;;;;Hidde Kiekens;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2765302;BL0611;;2765302;;;Paul Parmentierlaan;232;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2765306;BL0611;;2765306;;;Paul Parmentierlaan;234;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;2757690;BL0604;;2757690;;;Zeedijk-Albertstrand;523;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2765308;BL0615;;2765308;;;Paul Parmentierlaan;235;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2765313;BL0609;;2765313;;;Paul Parmentierlaan;240;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;2759396;BL0612;;2759396;;;Sylvain Dupuisstraat;16;;;;;Maayken Vanfleteren;MDU;3;8;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2765318;BL0612;;2765318;;;Paul Parmentierlaan;243;;;;;Maayken Vanfleteren;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2759407;BL0612;;2759407;;;Sylvain Dupuisstraat;28;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2759409;BL0612;;2759409;;;Sylvain Dupuisstraat;30;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765331;BL0609;;2765331;;;Paul Parmentierlaan;250;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+KNOKKE-HEIST - FH06;2759415;BL0608;;2759415;;;Sylvain Dupuisstraat;35;;;;;Geert Stockman;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2759416;BL0612;;2759416;;;Sylvain Dupuisstraat;36;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765333;BL0609;;2765333;;;Paul Parmentierlaan;252;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765335;BL0609;;2765335;;;Paul Parmentierlaan;254;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2765336;BL0612;;2765336;;;Paul Parmentierlaan;255;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;NB-830088bef271;;;NB-830088bef271;;;Meerlaan;88;;;;2020-03-15;Geert Stockman;MDU;0;13;0;13;BUILDING template
+KNOKKE-HEIST - FH06;2765338;BL0609;;2765338;;;Paul Parmentierlaan;256;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2761418;BL0608;;2761418;;;Zeedijk-Knokke;620;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2765340;BL0609;;2765340;;;Paul Parmentierlaan;258;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2761871;BL0614;;2761871;;;Koningslaan;101;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2765342;BL0612;;2765342;;;Paul Parmentierlaan;259;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2765352;BL0612;;2765352;;;Paul Parmentierlaan;261;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2765353;BL0612;;2765353;;;Paul Parmentierlaan;263;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2761916;BL0613;;2761916;;;Koningslaan;151;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2765355;BL0612;;2765355;;;Paul Parmentierlaan;265;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;2761986;BL0612;;2761986;;;Koningslaan;250;;;;;Maayken Vanfleteren;MDU;1;0;1;2;BUILDING template
+KNOKKE-HEIST - FH06;2765360;BL0608;;2765360;;;Paul Parmentierlaan;277;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2765366;BL0608;;2765366;;;Paul Parmentierlaan;285;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2765371;BL0608;;2765371;;;Paul Parmentierlaan;287;;;;;Geert Stockman;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2765372;BL0608;;2765372;;;Paul Parmentierlaan;289;;;;;Geert Stockman;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2764189;BL0602;;2764189;;;Jozef Nellenslaan;153;;;;;Geert Stockman;MDU;0;34;0;34;BUILDING template
+KNOKKE-HEIST - FH06;2765380;BL0608;;2765380;;;Paul Parmentierlaan;295;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2765856;BL0607;;2765856;;;Rubensplein;1;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;4347417;BL0604;;4347417;;;Zeedijk-Albertstrand;524;A;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2766723;BL0602;;2766723;;;Sterrenlaan;6;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2766747;BL0601;;2766747;;;Sterrenlaan;23;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2766730;BL0601;;2766730;;;Sterrenlaan;9;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;319364;BL0606;;319364;;;Zeedijk-Albertstrand;535;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2766744;BL0601;;2766744;;;Sterrenlaan;17;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2766746;BL0601;;2766746;;;Sterrenlaan;21;;;;;Geert Stockman;MDU;1;5;0;6;BUILDING template
+KNOKKE-HEIST - FH06;5579257;BL0606;;5579257;;;Zeedijk-Albertstrand;536;;;;;Maayken Vanfleteren;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;2766748;BL0601;;2766748;;;Sterrenlaan;25;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2767920;BL0604;;2767920;;;Zonnelaan;9;;;;;Maayken Vanfleteren;MDU;1;14;2;17;BUILDING template
+KNOKKE-HEIST - FH06;2767925;BL0604;;2767925;;;Zonnelaan;13;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2767928;BL0605;;2767928;;;Zonnelaan;18;;;;;Geert Stockman;MDU;0;10;0;10;BUILDING template
+KNOKKE-HEIST - FH06;2767930;BL0605;;2767930;;;Zonnelaan;20;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2757707;BL0606;;2757707;;;Zeedijk-Albertstrand;539;;;;;Maayken Vanfleteren;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;NB-83001806cc322;;;NB-83001806cc322;;;Paul Parmentierlaan;180;;;;2020-03-16;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2767931;BL0605;;2767931;;;Zonnelaan;22;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;318440;BL0602;;318440;;;Canadasquare;19;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2767932;BL0605;;2767932;;;Zonnelaan;24;;;;;Geert Stockman;MDU;0;22;0;22;BUILDING template
+KNOKKE-HEIST - FH06;2768367;BL0606;;2768367;;;Zwaluwenlaan;4;;;;;Geert Stockman;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;2768369;BL0605;;2768369;;;Zwaluwenlaan;5;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2757711;BL0606;;2757711;;;Zeedijk-Albertstrand;542;;;;;Maayken Vanfleteren;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2768371;BL0606;;2768371;;;Zwaluwenlaan;6;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;2768373;BL0605;;2768373;;;Zwaluwenlaan;7;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;2768374;BL0606;;2768374;;;Zwaluwenlaan;8;;;;;Geert Stockman;MDU;0;30;0;30;BUILDING template
+KNOKKE-HEIST - FH06;2757714;BL0606;;2757714;;;Zeedijk-Albertstrand;545;;;;;Maayken Vanfleteren;MDU;0;18;1;19;BUILDING template
+KNOKKE-HEIST - FH06;2768381;BL0606;;2768381;;;Zwaluwenlaan;10;;;;;Geert Stockman;MDU;0;13;0;13;BUILDING template
+KNOKKE-HEIST - FH06;2757715;BL0606;;2757715;;;Zeedijk-Albertstrand;546;;;;;Maayken Vanfleteren;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;317798;BL0601;;317798;;;Sterrenlaan;7;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;317799;BL0601;;317799;;;Sterrenlaan;27;;;;;Geert Stockman;MDU;0;11;0;11;BUILDING template
+KNOKKE-HEIST - FH06;317805;BL0601;;317805;;;Jozef Nellenslaan;121;;;;;Geert Stockman;MDU;0;13;0;13;BUILDING template
+KNOKKE-HEIST - FH06;317806;BL0601;;317806;;;Jozef Nellenslaan;123;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;317808;BL0601;;317808;;;Jozef Nellenslaan;149;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;337333;BL0609;;337333;;;Paul Parmentierlaan;262;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;319246;BL0604;;319246;;;Zonnelaan;15;;;;;Maayken Vanfleteren;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;319249;BL0604;;319249;;;Canadasquare;11;;;;;Maayken Vanfleteren;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;319252;BL0604;;319252;;;Jozef Nellenslaan;165;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;1024246;BL0611;;1024246;;;Paul Parmentierlaan;236;;;;;Maayken Vanfleteren;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;319308;BL0605;;319308;;;Jozef Nellenslaan;175;;;;;Geert Stockman;MDU;0;40;1;41;BUILDING template
+KNOKKE-HEIST - FH06;12838;BL0601;;12838;;;Meerlaan;80;;;;;Geert Stockman;MDU;0;20;0;20;BUILDING template
+KNOKKE-HEIST - FH06;319309;BL0605;;319309;;;Jozef Nellenslaan;177;;;;;Geert Stockman;MDU;0;13;0;13;BUILDING template
+KNOKKE-HEIST - FH06;12854;BL0605;;12854;;;Zonnelaan;10;;;;;Geert Stockman;MDU;0;10;0;10;BUILDING template
+KNOKKE-HEIST - FH06;319312;BL0605;;319312;;;Jozef Nellenslaan;183;;;;;Geert Stockman;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;1288479;BL0611;;1288479;;;Paul Parmentierlaan;230;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;319313;BL0605;;319313;;;Zwaluwenlaan;3;;;;;Geert Stockman;MDU;0;10;0;10;BUILDING template
+KNOKKE-HEIST - FH06;13072;BL0609;;13072;;;Sylvain Dupuisstraat;53;;;;;Maayken Vanfleteren;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;319316;BL0605;;319316;;;Zwaluwenlaan;13;;;;;Geert Stockman;MDU;0;17;0;17;BUILDING template
+KNOKKE-HEIST - FH06;4094814;BL0614;;4094814;;;Koningslaan;117;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;319318;BL0605;;319318;;;Zonnelaan;26;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+KNOKKE-HEIST - FH06;337229;BL0608;;337229;;;Zeedijk-Knokke;600;;;;;Geert Stockman;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;1327501;BL0613;;1327501;;;Jozef Nellenslaan;221;;;;;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;4344119;BL0612;;4344119;;;Sylvain Dupuisstraat;12;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;1327502;BL0611;;1327502;;;Paul Parmentierlaan;226;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;319354;BL0606;;319354;;;Zwaluwenlaan;12;;;;;Geert Stockman;MDU;1;21;0;22;BUILDING template
+KNOKKE-HEIST - FH06;4344120;BL0612;;4344120;;;Sylvain Dupuisstraat;24;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1357249;BL0615;;1357249;;;Paul Parmentierlaan;215;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;4344121;BL0612;;4344121;;;Sylvain Dupuisstraat;32;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1389366;BL0612;;1389366;;;Koningslaan;238;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;320281;BL0605;;320281;;;Jozef Nellenslaan;169;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;1389515;BL0612;;1389515;;;Sylvain Dupuisstraat;34;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;320285;BL0605;;320285;;;Zonnelaan;12;;;;;Geert Stockman;MDU;0;20;0;20;BUILDING template
+KNOKKE-HEIST - FH06;4344145;BL0613;;4344145;;;Jozef Nellenslaan;225;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;1442660;BL0615;;1442660;;;Paul Parmentierlaan;233;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;320300;BL0614;;320300;;;Koningslaan;95;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;4344147;BL0613;;4344147;;;Meerminlaan;46;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;320301;BL0614;;320301;;;Koningslaan;125;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;1454526;BL0611;;1454526;;;Paul Parmentierlaan;216;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;1470497;BL0601;;1470497;;;Jozef Nellenslaan;147;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+KNOKKE-HEIST - FH06;320303;BL0614;;320303;;;Meerminlaan;2;;;;;Hidde Kiekens;MDU;0;27;1;28;BUILDING template
+KNOKKE-HEIST - FH06;1473385;BL0612;;1473385;;;Koningslaan;234;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;320304;BL0614;;320304;;;Meerminlaan;4;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;1478070;BL0611;;1478070;;;Blancgarinstraat;24;;;;;Maayken Vanfleteren;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;320306;BL0614;;320306;;;Bayauxlaan;38;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;1481972;BL0614;;1481972;;;Meerminlaan;28;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;320307;BL0614;;320307;;;Jozef Nellenslaan;164;;;;;Hidde Kiekens;MDU;1;9;1;11;BUILDING template
+KNOKKE-HEIST - FH06;1494837;BL0615;;1494837;;;Paul Parmentierlaan;207;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2757976;BL0616;;2757976;;;Bayauxlaan;16;;;;;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;320309;BL0614;;320309;;;Jozef Nellenslaan;172;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2757979;BL0616;;2757979;;;Bayauxlaan;20;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;320310;BL0614;;320310;;;Jozef Nellenslaan;180;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2757982;BL0615;;2757982;;;Bayauxlaan;28;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2757985;BL0615;;2757985;;;Bayauxlaan;34;;;;;Hidde Kiekens;MDU;0;17;1;18;BUILDING template
+KNOKKE-HEIST - FH06;6389863;BL0613;;6389863;;;Zeedijk-Albertstrand;553;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2758121;BL0616;;2758121;;;Blancgarinstraat;17;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;320319;BL0616;;320319;;;Paul Parmentierlaan;208;;;;;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2758123;BL0616;;2758123;;;Blancgarinstraat;19;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;320321;BL0615;;320321;;;Koningslaan;196;;;;;Hidde Kiekens;MDU;0;13;1;14;BUILDING template
+KNOKKE-HEIST - FH06;2758127;BL0611;;2758127;;;Blancgarinstraat;26;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;320323;BL0615;;320323;;;Bayauxlaan;36;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2758128;BL0611;;2758128;;;Blancgarinstraat;28;;;;;Maayken Vanfleteren;MDU;2;4;1;7;BUILDING template
+KNOKKE-HEIST - FH06;6407944;BL0613;;6407944;;;Zeedijk-Albertstrand;554;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2758591;BL0604;;2758591;;;Canadasquare;7;;;;;Maayken Vanfleteren;MDU;2;13;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2758595;BL0604;;2758595;;;Canadasquare;10;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;320329;BL0616;;320329;;;Leopoldlaan;65;A;;;;Hidde Kiekens;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;2759385;BL0612;;2759385;;;Sylvain Dupuisstraat;6;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;320330;BL0616;;320330;;;Leopoldlaan;85;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2759388;BL0612;;2759388;;;Sylvain Dupuisstraat;8;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;6380609;BL0613;;6380609;;;Zeedijk-Albertstrand;555;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2759389;BL0612;;2759389;;;Sylvain Dupuisstraat;10;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+KNOKKE-HEIST - FH06;320333;BL0616;;320333;;;Paul Parmentierlaan;174;;;;;Hidde Kiekens;MDU;0;10;0;10;BUILDING template
+KNOKKE-HEIST - FH06;5579299;BL0602;;5579299;;;Canadasquare;16;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2759392;BL0612;;2759392;;;Sylvain Dupuisstraat;14;;;;;Maayken Vanfleteren;MDU;2;9;0;11;BUILDING template
+KNOKKE-HEIST - FH06;320336;BL0616;;320336;;;Blancgarinstraat;27;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;2759395;BL0608;;2759395;;;Sylvain Dupuisstraat;15;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;320337;BL0616;;320337;;;Blancgarinstraat;23;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2759397;BL0608;;2759397;;;Sylvain Dupuisstraat;17;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;320338;BL0616;;320338;;;Blancgarinstraat;21;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2759398;BL0612;;2759398;;;Sylvain Dupuisstraat;18;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2759400;BL0608;;2759400;;;Sylvain Dupuisstraat;19;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;320340;BL0616;;320340;;;Blancgarinstraat;25;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;5579381;BL0615;;5579381;;;Julius Hostestraat;2;A;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2759401;BL0612;;2759401;;;Sylvain Dupuisstraat;20;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;337225;BL0608;;337225;;;Sylvain Dupuisstraat;39;;;;;Geert Stockman;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;5579410;BL0613;;5579410;;;Koningslaan;141;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+KNOKKE-HEIST - FH06;2759402;BL0612;;2759402;;;Sylvain Dupuisstraat;22;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2759404;BL0608;;2759404;;;Sylvain Dupuisstraat;23;;;;;Geert Stockman;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;2759405;BL0612;;2759405;;;Sylvain Dupuisstraat;26;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;337228;BL0608;;337228;;;Paul Parmentierlaan;283;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;2759406;BL0608;;2759406;;;Sylvain Dupuisstraat;27;;;;;Geert Stockman;MDU;0;10;0;10;BUILDING template
+KNOKKE-HEIST - FH06;337230;BL0608;;337230;;;Zeedijk-Knokke;601;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2759408;BL0608;;2759408;;;Sylvain Dupuisstraat;29;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;337231;BL0608;;337231;;;Zeedijk-Knokke;602;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2759410;BL0608;;2759410;;;Sylvain Dupuisstraat;31;;;;;Geert Stockman;MDU;0;12;0;12;BUILDING template
+KNOKKE-HEIST - FH06;337232;BL0608;;337232;;;Zeedijk-Knokke;603;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2759412;BL0608;;2759412;;;Sylvain Dupuisstraat;33;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;337233;BL0608;;337233;;;Zeedijk-Knokke;631;;;;;Geert Stockman;MDU;1;23;0;24;BUILDING template
+KNOKKE-HEIST - FH06;2759417;BL0608;;2759417;;;Sylvain Dupuisstraat;37;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;337234;BL0608;;337234;;;Zeedijk-Knokke;624;;;;;Geert Stockman;MDU;0;13;0;13;BUILDING template
+KNOKKE-HEIST - FH06;6307183;BL0604;;6307183;;;Canadasquare;12;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;NB-83005030c354;;;NB-83005030c354;;;Sylvain Dupuisstraat;50;;;;2020-03-17;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2759423;BL0609;;2759423;;;Sylvain Dupuisstraat;43;;;;;Maayken Vanfleteren;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;2757733;BL0613;;2757733;;;Zeedijk-Albertstrand;564;;;;;Hidde Kiekens;MDU;1;13;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2759428;BL0611;;2759428;;;Sylvain Dupuisstraat;48;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;6386928;BL0613;;6386928;;;Jozef Nellenslaan;205;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2759429;BL0609;;2759429;;;Sylvain Dupuisstraat;49;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;337325;BL0610;;337325;;;Leopoldlaan;125;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2757737;BL0613;;2757737;;;Zeedijk-Albertstrand;566;;;;;Hidde Kiekens;MDU;1;8;1;10;BUILDING template
+KNOKKE-HEIST - FH06;2760502;BL0609;;2760502;;;D Hooghestraat;2;B;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337326;BL0609;;337326;;;Leopoldlaan;119;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2760506;BL0610;;2760506;;;D Hooghestraat;9;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+KNOKKE-HEIST - FH06;337327;BL0609;;337327;;;Leopoldlaan;123;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2760507;BL0609;;2760507;;;D Hooghestraat;10;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;337328;BL0609;;337328;;;D Hooghestraat;2;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2760512;BL0615;;2760512;;;Julius Hostestraat;4;;;;;Hidde Kiekens;MDU;0;13;1;14;BUILDING template
+KNOKKE-HEIST - FH06;337329;BL0610;;337329;;;D Hooghestraat;1;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+KNOKKE-HEIST - FH06;6455780;BL0613;;6455780;;;Koningslaan;135;A;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337330;BL0609;;337330;;;D Hooghestraat;14;;;;;Maayken Vanfleteren;MDU;0;3;1;4;BUILDING template
+KNOKKE-HEIST - FH06;2760516;BL0612;;2760516;;;Julius Hostestraat;9;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;337331;BL0610;;337331;;;D Hooghestraat;11;;;;;Hidde Kiekens;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;2760517;BL0612;;2760517;;;Julius Hostestraat;11;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;337334;BL0609;;337334;;;Paul Parmentierlaan;238;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;2761404;BL0608;;2761404;;;Zeedijk-Knokke;606;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;337336;BL0609;;337336;;;Paul Parmentierlaan;260;;;;;Maayken Vanfleteren;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2761405;BL0608;;2761405;;;Zeedijk-Knokke;607;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;337346;BL0610;;337346;;;Zeedijk-Knokke;638;;;;;Hidde Kiekens;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;337348;BL0610;;337348;;;Zeedijk-Knokke;639;;;;;Hidde Kiekens;MDU;1;83;0;84;BUILDING template
+KNOKKE-HEIST - FH06;337350;BL0609;;337350;;;Zeedijk-Knokke;636;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;337352;BL0609;;337352;;;Zeedijk-Knokke;637;;;;;Maayken Vanfleteren;MDU;1;14;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2761423;BL0608;;2761423;;;Zeedijk-Knokke;623;;;;;Geert Stockman;MDU;0;9;0;9;BUILDING template
+KNOKKE-HEIST - FH06;337751;BL0613;;337751;;;Koningslaan;139;;;;;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2761427;BL0608;;2761427;;;Zeedijk-Knokke;627;;;;;Geert Stockman;MDU;0;15;0;15;BUILDING template
+KNOKKE-HEIST - FH06;337753;BL0613;;337753;;;Koningslaan;135;;;;;Hidde Kiekens;MDU;1;6;1;8;BUILDING template
+KNOKKE-HEIST - FH06;337809;BL0612;;337809;;;Sylvain Dupuisstraat;38;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;337810;BL0612;;337810;;;Sylvain Dupuisstraat;2;;;;;Maayken Vanfleteren;MDU;1;14;1;16;BUILDING template
+KNOKKE-HEIST - FH06;2761866;BL0614;;2761866;;;Koningslaan;97;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+KNOKKE-HEIST - FH06;337812;BL0612;;337812;;;Koningslaan;252;;;;;Maayken Vanfleteren;MDU;1;6;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2761869;BL0614;;2761869;;;Koningslaan;99;;;;;Hidde Kiekens;MDU;0;11;0;11;BUILDING template
+KNOKKE-HEIST - FH06;337813;BL0612;;337813;;;Paul Parmentierlaan;241;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2761873;BL0614;;2761873;;;Koningslaan;103;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+KNOKKE-HEIST - FH06;337814;BL0612;;337814;;;Paul Parmentierlaan;269;;;;;Maayken Vanfleteren;MDU;1;5;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2761879;BL0614;;2761879;;;Koningslaan;107;;;;;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+KNOKKE-HEIST - FH06;2761884;BL0614;;2761884;;;Koningslaan;113;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;337816;BL0612;;337816;;;Julius Hostestraat;13;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2761886;BL0614;;2761886;;;Koningslaan;115;;;;;Hidde Kiekens;MDU;1;10;1;12;BUILDING template
+KNOKKE-HEIST - FH06;2761893;BL0614;;2761893;;;Koningslaan;123;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2761904;BL0613;;2761904;;;Koningslaan;137;;;;;Hidde Kiekens;MDU;1;6;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2761907;BL0613;;2761907;;;Koningslaan;143;;;;;Hidde Kiekens;MDU;1;6;0;7;BUILDING template
+KNOKKE-HEIST - FH06;337849;BL0611;;337849;;;Sylvain Dupuisstraat;62;;;;;Maayken Vanfleteren;MDU;0;3;1;4;BUILDING template
+KNOKKE-HEIST - FH06;337850;BL0611;;337850;;;Blancgarinstraat;30;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+KNOKKE-HEIST - FH06;2761949;BL0615;;2761949;;;Koningslaan;198;;;;;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+KNOKKE-HEIST - FH06;2761950;BL0615;;2761950;;;Koningslaan;200;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;3939519;BL0615;;3939519;;;Bayauxlaan;26;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH06;2761955;BL0615;;2761955;;;Koningslaan;206;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;3939602;BL0616;;3939602;;;Leopoldlaan;73;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;2761956;BL0615;;2761956;;;Koningslaan;208;;;;;Hidde Kiekens;MDU;0;14;1;15;BUILDING template
+KNOKKE-HEIST - FH06;3939626;BL0601;;3939626;;;Jozef Nellenslaan;145;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+KNOKKE-HEIST - FH06;2757762;BL0608;;2757762;;;Zeedijk-Albertstrand;587;;;;;Geert Stockman;MDU;0;16;1;17;BUILDING template
+KNOKKE-HEIST - FH06;2761958;BL0615;;2761958;;;Koningslaan;212;;;;;Hidde Kiekens;MDU;0;15;1;16;BUILDING template
+KNOKKE-HEIST - FH06;3939641;BL0615;;3939641;;;Paul Parmentierlaan;229;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;2761961;BL0615;;2761961;;;Koningslaan;216;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+KNOKKE-HEIST - FH06;3939642;BL0612;;3939642;;;Paul Parmentierlaan;257;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+KNOKKE-HEIST - FH06;2761962;BL0615;;2761962;;;Koningslaan;220;;;;;Hidde Kiekens;MDU;0;4;1;5;BUILDING template
+KNOKKE-HEIST - FH06;3976701;BL0616;;3976701;;;Leopoldlaan;75;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+KNOKKE-HEIST - FH06;2761964;BL0615;;2761964;;;Koningslaan;222;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+KNOKKE-HEIST - FH06;4032032;BL0612;;4032032;;;Paul Parmentierlaan;267;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template

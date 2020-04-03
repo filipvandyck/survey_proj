@@ -1,0 +1,478 @@
+Projectnummer;Opdrachtnummer;SYNDIC NAME;SYNDIC ADDRESS;SYNDIC ZIPCODE;SYNDIC CITY;SYNDIC PHONE;SYNDIC EMAIL;SYNDIC DATE;Straat;Huisnummer;Huisnummer Toevoeging;Opdrachttemplate
+KNOKKE-HEIST - FH09;2756809;A. Degroote;geen adres;8301;Knokke-Heist;0476371953;geen@email.be;2019-12-02;Zeedijk-Heist;178;;BUILDING template
+KNOKKE-HEIST - FH09;2756832;AB imo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-16;Zeedijk-Heist;201;;BUILDING template
+KNOKKE-HEIST - FH09;2760292;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-14;Heldenplein;13;;BUILDING template
+KNOKKE-HEIST - FH09;5579564;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-22;Graaf d Ursellaan;51;;BUILDING template
+KNOKKE-HEIST - FH09;2759740;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-02-11;Elizabetlaan;329;;BUILDING template
+KNOKKE-HEIST - FH09;2756743;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-27;Zeedijk-Heist;101;;BUILDING template
+KNOKKE-HEIST - FH09;71496;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-22;Heldenplein;1;;BUILDING template
+KNOKKE-HEIST - FH09;71705;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-21;Albatrosstraat;8;;BUILDING template
+KNOKKE-HEIST - FH09;292350;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-30;de Maerestraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;302705;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-16;Visserskapelstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;2759152;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-16;Duinenstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;3939547;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-30;Duinenstraat;24;;BUILDING template
+KNOKKE-HEIST - FH09;2764644;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-13;O.-L.-Vrouwstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;2760293;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-21;Heldenplein;14;;BUILDING template
+KNOKKE-HEIST - FH09;2764634;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-13;O.-L.-Vrouwstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;2764639;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-13;O.-L.-Vrouwstraat;14;;BUILDING template
+KNOKKE-HEIST - FH09;2756855;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-21;Zeedijk-Heist;233;;BUILDING template
+KNOKKE-HEIST - FH09;2766974;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-21;Graaf d Ursellaan;7;;BUILDING template
+KNOKKE-HEIST - FH09;2756838;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-12-02;Zeedijk-Heist;204;;BUILDING template
+KNOKKE-HEIST - FH09;2756729;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-30;Zeedijk-Heist;88;;BUILDING template
+KNOKKE-HEIST - FH09;2756864;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-21;Zeedijk-Heist;242;;BUILDING template
+KNOKKE-HEIST - FH09;4335334;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-30;Serweytens de Mercxstraat;32;;BUILDING template
+KNOKKE-HEIST - FH09;2756794;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-25;Zeedijk-Heist;161;;BUILDING template
+KNOKKE-HEIST - FH09;2756835;Abimo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-21;Zeedijk-Heist;202;;BUILDING template
+KNOKKE-HEIST - FH09;292353;ABL Invest bvba;Knokkestraat 150;8301;Knokke-Heist;050515864;syndic@ablinvest.be;2020-01-30;de Maerestraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;71741;ADW Immo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-16;Duinenstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;5579219;ADW Immo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-26;Zeedijk-Heist;166;;BUILDING template
+KNOKKE-HEIST - FH09;2760289;ADW Immo;Zeedijk-Heist 201;8301;Knokke-Heist;050515864;info@adwimmo.be;2019-11-26;Heldenplein;11;;BUILDING template
+KNOKKE-HEIST - FH09;2764631;ADW Immo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2020-01-13;O.-L.-Vrouwstraat;5;;BUILDING template
+KNOKKE-HEIST - FH09;2756715;ADW Immo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-11-27;Zeedijk-Heist;70;;BUILDING template
+KNOKKE-HEIST - FH09;4337452;ADW Immo;Zeedijk-Heist 201;8301;Knokke-Heist;050513994;info@adwimmo.be;2019-12-02;Eerste-Geniestraat;11;;BUILDING template
+KNOKKE-HEIST - FH09;5579355;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-12-13;Eerste-Geniestraat;14;;BUILDING template
+KNOKKE-HEIST - FH09;297117;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-26;Parkstraat;31;;BUILDING template
+KNOKKE-HEIST - FH09;2756778;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-25;Zeedijk-Heist;145;;BUILDING template
+KNOKKE-HEIST - FH09;2756716;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-27;Zeedijk-Heist;72;;BUILDING template
+KNOKKE-HEIST - FH09;2756719;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-19;Zeedijk-Heist;75;;BUILDING template
+KNOKKE-HEIST - FH09;6524218;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-20;Graaf d Ursellaan;35;;BUILDING template
+KNOKKE-HEIST - FH09;2756734;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-20;Zeedijk-Heist;92;;BUILDING template
+KNOKKE-HEIST - FH09;2756771;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-20;Zeedijk-Heist;134;;BUILDING template
+KNOKKE-HEIST - FH09;2767283;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2020-01-21;Visserskapelstraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;2756736;Anseeuw Syndic Buro;Natiënlaan 178;8300;Knokke-Heist;050621222;info@anseeuwsyndicburo.be;2019-11-20;Zeedijk-Heist;96;;BUILDING template
+KNOKKE-HEIST - FH09;302694;Appartco;Zoutlaan 50;8300;Knokke-Heist;050345002;support@appartco.be;2020-01-14;August Beernaertstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;6637419;Architecten Ludo Coopman;geen adres;8300;Knokke-Heist;050511618;geen@email.be;2020-02-11;Louis Parentstraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;2756790;Aurus Syndicus;Kortrijkstraat 140;8700;Tielt;0478550002;info@aurus.be;2019-12-09;Zeedijk-Heist;157;;BUILDING template
+KNOKKE-HEIST - FH09;2759755;BVBA Syndic Vlaanderen;Kouter 82;9000;Gent;093958080;info@syndic.be;2020-02-11;Elizabetlaan;363;;BUILDING template
+KNOKKE-HEIST - FH09;2766983;De Groote Hugo;Eieburg 17;8301;Knokke-Heist;050511831;hugo.de.groote.2@telenet.be;2020-01-28;Graaf d Ursellaan;13;;BUILDING template
+KNOKKE-HEIST - FH09;2756898;Dhr Megens Vital;Olmenlei 105;2980;Zoersel;123456789;geen@email.be;2020-01-27;Zeedijk-Heist;279;;BUILDING template
+KNOKKE-HEIST - FH09;1491084;Dieter De Maeseneire;Smedestraat 91;8300;Knokke-Heist;050628880;info.res.dedijk@gmail.com;2019-11-26;Zeedijk-Heist;190;;BUILDING template
+KNOKKE-HEIST - FH09;2764647;Dieter De Maeseneire;Smedestraat 91;8300;Knokke-Heist;0476430045;info.res.dedijk@gmail.com;2020-01-13;O.-L.-Vrouwstraat;28;;BUILDING template
+KNOKKE-HEIST - FH09;2756887;Dieter De Maeseneire;Smedestraat 91;8300;Knokke-Heist;050628880;info.res.dedijk@gmail.com;2020-01-27;Zeedijk-Heist;264;;BUILDING template
+KNOKKE-HEIST - FH09;2756816;F. Melkert;Zeedijk - Knokke 631;8300;Knokke-Heist;050603471;geen@email.be;2019-11-25;Zeedijk-Heist;192;;BUILDING template
+KNOKKE-HEIST - FH09;292679;Frans D'Hooghe;geen adres;8300;Knokke-Heist;038870717;geen@email.be;2019-11-27;Zeedijk-Heist;106;;BUILDING template
+KNOKKE-HEIST - FH09;2756807;Geen naam opgegeven;geen adres;8300;Knokke-Heist;0475754364;geen@email.be;2019-11-25;Zeedijk-Heist;175;;BUILDING template
+KNOKKE-HEIST - FH09;302629;Gods Marie-Christine;Serweytens De Mercxstraat 10-31;8300;Knokke-Heist;0475523947;geen@email.be;2019-12-15;Serweytens de Mercxstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;302628;Herregods Marie-Christine;Serweytens De Mercxstraat 10-31;8300;Knokke-Heist;0475523947;geen@email.be;2019-12-15;Serweytens de Mercxstraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;2766147;Herregods Marie-Christine;Serweytens De Mercxstraat 10-31;8300;Knokke-Heist;0475523947;geen@email.be;2019-12-15;Serweytens de Mercxstraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;3923060;Herregods Marie-Christine;Serweytens de Mercxstraat straat 10-31;8300;Knokke-Heist;0475523947;geen@email.be;2020-02-13;Serweytens de Mercxstraat;8;;BUILDING template
+KNOKKE-HEIST - FH09;2765002;Immo  De Nil;Zeedijk - Albertstrand 465;8301;Knokke-Heist;050609970;info@immodenil.be;2020-01-22;Parkstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;2756783;Immo Ackx;Vissershuldeplein 5;8301;Knokke-Heist;050511863;geen@email.be;2019-11-25;Zeedijk-Heist;150;;BUILDING template
+KNOKKE-HEIST - FH09;292340;Immo Ackx;Vissershuldeplein 5;8301;Knokke-Heist;050511863;geen@email.be;2019-11-28;Zeedijk-Heist;148;;BUILDING template
+KNOKKE-HEIST - FH09;4337347;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-12-20;Zeedijk-Heist;268;;BUILDING template
+KNOKKE-HEIST - FH09;2756911;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-20;Zeedijk-Heist;297;;BUILDING template
+KNOKKE-HEIST - FH09;2756841;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-12-03;Zeedijk-Heist;207;;BUILDING template
+KNOKKE-HEIST - FH09;290493;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-31;Vuurtorenstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;297126;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-20;Louis Parentstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;302711;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-12-11;De Kinkhoorn;1;;BUILDING template
+KNOKKE-HEIST - FH09;2766968;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-21;Graaf d Ursellaan;5;;BUILDING template
+KNOKKE-HEIST - FH09;2757582;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-12-14;Albatrosstraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;2758773;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-31;Jozef Dhoorelaan;132;;BUILDING template
+KNOKKE-HEIST - FH09;2759468;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-31;Eerste-Geniestraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;2759158;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-09;Duinenstraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;2759751;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-21;Elizabetlaan;347;;BUILDING template
+KNOKKE-HEIST - FH09;2759752;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-31;Elizabetlaan;351;;BUILDING template
+KNOKKE-HEIST - FH09;2764985;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-20;Louis Parentstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;4337416;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-13;De Kinkhoorn;10;;BUILDING template
+KNOKKE-HEIST - FH09;2761342;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-13;De Kinkhoorn;7;;BUILDING template
+KNOKKE-HEIST - FH09;2761343;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-12-14;De Kinkhoorn;8;;BUILDING template
+KNOKKE-HEIST - FH09;2761344;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-13;De Kinkhoorn;9;;BUILDING template
+KNOKKE-HEIST - FH09;2756862;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-21;Zeedijk-Heist;240;;BUILDING template
+KNOKKE-HEIST - FH09;6524219;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-11-04;Vuurtorenstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;2760305;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-21;Heldenplein;31;;BUILDING template
+KNOKKE-HEIST - FH09;2756906;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-20;Zeedijk-Heist;292;;BUILDING template
+KNOKKE-HEIST - FH09;2756859;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2020-01-21;Zeedijk-Heist;238;;BUILDING template
+KNOKKE-HEIST - FH09;302672;Immo Cauwe;Elizabethlaan 223;8301;Knokke-Heist;050631100;syndic@immo-cauwe.be;2019-12-20;Zeedijk-Heist;272;;BUILDING template
+KNOKKE-HEIST - FH09;2756860;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-12;Zeedijk-Heist;239;;BUILDING template
+KNOKKE-HEIST - FH09;2756714;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;67;;BUILDING template
+KNOKKE-HEIST - FH09;71632;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-21;Serweytens de Mercxstraat;34;;BUILDING template
+KNOKKE-HEIST - FH09;71744;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2020-01-23;O.-L.-Vrouwstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;290632;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-18;Elizabetlaan;399;;BUILDING template
+KNOKKE-HEIST - FH09;2756872;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-12-09;Zeedijk-Heist;248;;BUILDING template
+KNOKKE-HEIST - FH09;297128;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2020-01-22;Graaf d Ursellaan;52;;BUILDING template
+KNOKKE-HEIST - FH09;302679;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-21;Graaf d Ursellaan;25;;BUILDING template
+KNOKKE-HEIST - FH09;5579223;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-12-04;Zeedijk-Heist;213;;BUILDING template
+KNOKKE-HEIST - FH09;2756800;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-22;Zeedijk-Heist;168;;BUILDING template
+KNOKKE-HEIST - FH09;292670;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;64;;BUILDING template
+KNOKKE-HEIST - FH09;2759762;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-18;Elizabetlaan;373;;BUILDING template
+KNOKKE-HEIST - FH09;2759941;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-22;de Gemblinnestraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;2760284;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2020-01-17;Heldenplein;2;;BUILDING template
+KNOKKE-HEIST - FH09;5979720;Immo Holiday;Zeedijk-Heist;8301;Knokke-Heist;050530104;info@immoholiday.be;2019-12-09;Heldenplein;2;A;BUILDING template
+KNOKKE-HEIST - FH09;4141427;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-18;Duinenstraat;8;;BUILDING template
+KNOKKE-HEIST - FH09;2756806;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-13;Zeedijk-Heist;174;;BUILDING template
+KNOKKE-HEIST - FH09;2766964;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-21;Graaf d Ursellaan;3;;BUILDING template
+KNOKKE-HEIST - FH09;1354426;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-18;Vissershuldeplein;3;;BUILDING template
+KNOKKE-HEIST - FH09;2766988;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-21;Graaf d Ursellaan;16;;BUILDING template
+KNOKKE-HEIST - FH09;2756738;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;98;;BUILDING template
+KNOKKE-HEIST - FH09;292338;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;111;;BUILDING template
+KNOKKE-HEIST - FH09;2756845;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-12;Zeedijk-Heist;209;;BUILDING template
+KNOKKE-HEIST - FH09;71742;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2020-01-17;Duinenstraat;26;;BUILDING template
+KNOKKE-HEIST - FH09;71635;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-12-03;Zeedijk-Heist;195;;BUILDING template
+KNOKKE-HEIST - FH09;302671;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-12;Zeedijk-Heist;271;;BUILDING template
+KNOKKE-HEIST - FH09;292341;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;156;;BUILDING template
+KNOKKE-HEIST - FH09;5579221;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-12-02;Zeedijk-Heist;198;;BUILDING template
+KNOKKE-HEIST - FH09;290502;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;193;;BUILDING template
+KNOKKE-HEIST - FH09;1465872;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-14;Zeedijk-Heist;186;;BUILDING template
+KNOKKE-HEIST - FH09;71702;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-12-09;Albatrosstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;71703;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-12-09;Albatrosstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;292337;Immo Holiday;Zeedijk-Heist 212;8301;Knokke-Heist;050530104;beheer@immoholiday.be;2019-11-19;Graaf van Vlaanderenstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;2756764;Immo Melkert;Zeedijk 631;8300;Knokke-Heist;050603471;frederic@immomelkert.be;2019-11-25;Zeedijk-Heist;123;;BUILDING template
+KNOKKE-HEIST - FH09;292349;Immo Tropic;Zeedijk 148/bus2;;Knokke-Heist;050515049;geen@email.be;2020-02-13;Jozef Dhoorelaan;4;;BUILDING template
+KNOKKE-HEIST - FH09;2756780;Immo Tropic;Zeedijk 148/2;8301;Knokke-Heist;050515049;geen@email.be;2019-11-28;Zeedijk-Heist;147;;BUILDING template
+KNOKKE-HEIST - FH09;2756777;Immo Tropic;Zeedijk 148/2;8301;Knokke-Heist;050515049;geen@email.be;2020-01-28;Zeedijk-Heist;142;;BUILDING template
+KNOKKE-HEIST - FH09;2756750;Immo Tropic;Zeedijk 148/2;8301;Knokke-Heist;050515049;geen@email.be;2019-11-26;Zeedijk-Heist;108;;BUILDING template
+KNOKKE-HEIST - FH09;2756731;Immo Tropic;Zeedijk 148/2;8301;Knokke-Heist;050515049;geen@email.be;2019-11-28;Zeedijk-Heist;90;;BUILDING template
+KNOKKE-HEIST - FH09;292345;Immo Tropic;Zeedijk 148/2;8301;Knokke-Heist;050515049;geen@email.be;2019-11-28;Zeedijk-Heist;153;;BUILDING template
+KNOKKE-HEIST - FH09;2756787;Immo Tropic;Zeedijk 148/2;8301;Knokke-Heist;050515049;geen@email.be;2019-11-28;Zeedijk-Heist;155;;BUILDING template
+KNOKKE-HEIST - FH09;71737;Immo Van De Walle;Zeedijk Albertstrand 506;8300;Knokke-Heist;050632222;Info@immovandewalle.be;2020-01-22;Elizabetlaan;325;;BUILDING template
+KNOKKE-HEIST - FH09;297136;Immo Van De Walle;Zeedijk Albertstrand 506;8300;Knokke-Heist;050632222;Info@immovandewalle.be;2019-12-13;Eerste-Geniestraat;13;;BUILDING template
+KNOKKE-HEIST - FH09;2765019;Immo Van De Walle;Zeedijk Albertstrand 506;8300;Knokke;050632222;Info@immovandewalle.be;2019-12-14;Parkstraat;29;;BUILDING template
+KNOKKE-HEIST - FH09;2766998;Immo Van De Walle;Zeedijk Albertstrand 506;8300;Knokke-Heist;050632222;Info@immovandewalle.be;2020-01-28;Graaf d Ursellaan;26;;BUILDING template
+KNOKKE-HEIST - FH09;3939525;Ingelbrecht Karl;Dorpsstraat 105;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-29;August Beernaertstraat;38;;BUILDING template
+KNOKKE-HEIST - FH09;2758018;Ingelbrecht Karl;Natiënlaan 228;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-09;August Beernaertstraat;40;;BUILDING template
+KNOKKE-HEIST - FH09;2767002;Ingelbrecht Karl;Natiënlaan 228;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-09;Graaf d Ursellaan;27;;BUILDING template
+KNOKKE-HEIST - FH09;2767290;Ingelbrecht Karl;Dorpsstraat 105;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-29;Visserskapelstraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;4016351;Ingelbrecht Karl;Dorpsstraat 105;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-27;Zeedijk-Heist;284;;BUILDING template
+KNOKKE-HEIST - FH09;2767287;Ingelbrecht Karl;Dorpsstraat 105;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-29;Visserskapelstraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;4337361;Ingelbrecht Karl;Natiënlaan;8300;Knokke-Heist;050601542;karl@ingelbrecht.be;2020-01-09;Louis Parentstraat;22;;BUILDING template
+KNOKKE-HEIST - FH09;303848;Lootens Nadine;geen adres;8300;Knokke-Heist;0475821208;geen@email.be;2020-02-11;Elizabetlaan;395;;BUILDING template
+KNOKKE-HEIST - FH09;4337439;Menens;geen adres;8300;Knokke-Heist;0475496563;geen@email.be;2019-10-29;Zeedijk-Heist;280;;BUILDING template
+KNOKKE-HEIST - FH09;5559096;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-20;Parkstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;5579527;Nordic beheer;Graaf dUrsellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-17;Louis Parentstraat;26;;BUILDING template
+KNOKKE-HEIST - FH09;5579528;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-20;Parkstraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;2764997;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-21;Louis Parentstraat;37;;BUILDING template
+KNOKKE-HEIST - FH09;71713;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-23;Graaf d Ursellaan;2;;BUILDING template
+KNOKKE-HEIST - FH09;2757589;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-10-31;Albatrosstraat;31;;BUILDING template
+KNOKKE-HEIST - FH09;71714;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@stonetales.be;2020-01-23;Graaf d Ursellaan;8;;BUILDING template
+KNOKKE-HEIST - FH09;2759461;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-21;Eerste-Geniestraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;2756875;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-27;Zeedijk-Heist;252;;BUILDING template
+KNOKKE-HEIST - FH09;2766986;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-23;Graaf d Ursellaan;15;;BUILDING template
+KNOKKE-HEIST - FH09;71633;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-02-13;Serweytens de Mercxstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;4336099;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-21;Louis Parentstraat;29;;BUILDING template
+KNOKKE-HEIST - FH09;2756839;Nordic Beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-03;Zeedijk-Heist;205;;BUILDING template
+KNOKKE-HEIST - FH09;2756867;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-23;Zeedijk-Heist;244;;BUILDING template
+KNOKKE-HEIST - FH09;2756903;Nordic beheer;Graaf d Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-17;Zeedijk-Heist;287;;BUILDING template
+KNOKKE-HEIST - FH09;4099099;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-21;Louis Parentstraat;27;;BUILDING template
+KNOKKE-HEIST - FH09;2764645;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-13;O.-L.-Vrouwstraat;22;;BUILDING template
+KNOKKE-HEIST - FH09;4103220;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-21;Louis Parentstraat;31;;BUILDING template
+KNOKKE-HEIST - FH09;2767019;Nordic Beheer;Graaf d Ursellaan 40;8301;Knokke-Heist;050511314;geen@email.be;2019-12-17;Graaf d Ursellaan;37;;BUILDING template
+KNOKKE-HEIST - FH09;2764642;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-13;O.-L.-Vrouwstraat;18;;BUILDING template
+KNOKKE-HEIST - FH09;2767022;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-10-30;Graaf d Ursellaan;38;;BUILDING template
+KNOKKE-HEIST - FH09;2767025;Nordic beheer;Graaf d Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-17;Graaf d Ursellaan;40;;BUILDING template
+KNOKKE-HEIST - FH09;2767028;Nordic beheer;Graaf d Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-17;Graaf d Ursellaan;41;;BUILDING template
+KNOKKE-HEIST - FH09;2767037;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2020-01-21;Graaf d Ursellaan;46;;BUILDING template
+KNOKKE-HEIST - FH09;2767038;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-20;Graaf d Ursellaan;47;;BUILDING template
+KNOKKE-HEIST - FH09;2767041;Nordic beheer;Graaf d' Ursellaan 40;8301;Knokke-Heist;050511314;info@nordicbeheer.be;2019-12-20;Graaf d Ursellaan;49;;BUILDING template
+KNOKKE-HEIST - FH09;2763795;Nv B.I.G.;Blauwkasteelweg 8/002;8310;Brugge Sint-Kruis;050370942;big.nv@belgacom.net;2020-02-24;Kardinaal Mercierstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;2756770;NV Darah;Goudsbloemenlaan 11;8301;Knokke-Heist;050609579;geen@email.be;2019-11-25;Zeedijk-Heist;133;;BUILDING template
+KNOKKE-HEIST - FH09;4337458;;;;;;;;August Beernaertstraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;5561970;;;;;;;;Louis Parentstraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;302700;;;;;;;;Louis Parentstraat;16;;BUILDING template
+KNOKKE-HEIST - FH09;302693;;;;;;;;August Beernaertstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;2761348;;;;;;;;De Kinkhoorn;17;;BUILDING template
+KNOKKE-HEIST - FH09;2761349;;;;;;;;De Kinkhoorn;18;;BUILDING template
+KNOKKE-HEIST - FH09;2761350;;;;;;;;De Kinkhoorn;19;;BUILDING template
+KNOKKE-HEIST - FH09;2756904;;;;;;;;Zeedijk-Heist;288;;BUILDING template
+KNOKKE-HEIST - FH09;2767280;;;;;;;;Visserskapelstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;3939662;;;;;;;;Visserskapelstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;4022844;;;;;;;;Louis Parentstraat;20;;BUILDING template
+KNOKKE-HEIST - FH09;4092482;;;;;;;;Visserskapelstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;4337289;;;;;;;;Visserskapelstraat;13;;BUILDING template
+KNOKKE-HEIST - FH09;5567528;Pallen Duinbergen bvba;Duinbergenlaan 92;8301;Knokke-Heist;050530830;syndic@pallen.be;2019-12-11;August Beernaertstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;2761351;Pallen Duinbergen bvba;Duinbergenlaan 92;8301;Knokke-Heist;050530830;syndic@pallen.be;2020-01-13;De Kinkhoorn;21;;BUILDING template
+KNOKKE-HEIST - FH09;4337356;Pallen Duinbergen bvba;Duinbergenlaan 92;8301;Knokke-Heist;050530830;syndic@pallen.be;2020-01-13;De Kinkhoorn;20;;BUILDING template
+KNOKKE-HEIST - FH09;4337358;Pallen Duinbergen bvba;Duinbergenlaan 92;8301;Knokke-Heist;050530830;syndic@pallen.be;2020-01-13;De Kinkhoorn;22;;BUILDING template
+KNOKKE-HEIST - FH09;2758772;Phare syndic;geen adres;8301;Knokke-Heist;0475277840;geen@email.be;2020-02-13;Jozef Dhoorelaan;128;;BUILDING template
+KNOKKE-HEIST - FH09;2756739;Pieter De Witte;Zeedijk-Heist 99 bus 52;8301;Knokke-Heist;0472727155;geen@email.be;2019-12-04;Zeedijk-Heist;99;;BUILDING template
+KNOKKE-HEIST - FH09;2756798;Poleyn Ivan;Zeedijk 167 app 7;8301;Knokke Heist;123456799;geen@email.be;2019-12-02;Zeedijk-Heist;167;;BUILDING template
+KNOKKE-HEIST - FH09;290631;Poleyn Ivan;Zeedijken 167 App7A;8301;Knokke-heist;;;2020-02-11;Elizabetlaan;403;;BUILDING template
+KNOKKE-HEIST - FH09;292343;Residentie Françoise;Zeedijk 135 bus oc;8301;Heist;050510887;geen@email.be;2019-11-25;Zeedijk-Heist;135;;BUILDING template
+KNOKKE-HEIST - FH09;2759464;Roger Van Cutsem;Kon. Leopold III straat 10 bus 31;1785;Merchtem;052332490;vancutsem.roger@belgacom.net;2019-12-11;Eerste-Geniestraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;1347701;Steffimmo;Elizabethlaan 355;8301;Knokke-Heist;050514627;info@steffimmo.be;2020-02-11;Elizabetlaan;369;;BUILDING template
+KNOKKE-HEIST - FH09;2756812;Steffimmo;Elizabethlaan 355;8301;Knokke-Heist;050514627;info@steffimmo.be;2019-12-02;Zeedijk-Heist;180;;BUILDING template
+KNOKKE-HEIST - FH09;2760303;Stonetale;Elizabethlaan 355;8301;Knokke-Heist;050515864;syndic@ablinvest.be;2020-01-24;Heldenplein;27;;BUILDING template
+KNOKKE-HEIST - FH09;5579278;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-14;August Beernaertstraat;20;;BUILDING template
+KNOKKE-HEIST - FH09;2756885;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-14;Zeedijk-Heist;262;;BUILDING template
+KNOKKE-HEIST - FH09;2759165;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-20;Duinenstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;5579530;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-11;Parkstraat;35;;BUILDING template
+KNOKKE-HEIST - FH09;5579550;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-19;Serweytens de Mercxstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;2759749;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Elizabetlaan;341;;BUILDING template
+KNOKKE-HEIST - FH09;278;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-14;Serweytens de Mercxstraat;21;;BUILDING template
+KNOKKE-HEIST - FH09;71499;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-24;Heldenplein;33;;BUILDING template
+KNOKKE-HEIST - FH09;71699;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Albatrosstraat;21;;BUILDING template
+KNOKKE-HEIST - FH09;71706;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-14;Albatrosstraat;13;;BUILDING template
+KNOKKE-HEIST - FH09;71743;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-20;Duinenstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;71747;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-24;O.-L.-Vrouwstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;290495;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Vuurtorenstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;290499;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-29;Kardinaal Mercierstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;292334;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-29;Vissershuldeplein;2;;BUILDING template
+KNOKKE-HEIST - FH09;292335;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Graaf van Vlaanderenstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;297116;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-14;Parkstraat;33;;BUILDING template
+KNOKKE-HEIST - FH09;2758020;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-02-13;August Beernaertstraat;50;;BUILDING template
+KNOKKE-HEIST - FH09;302684;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-09;Graaf d Ursellaan;36;;BUILDING template
+KNOKKE-HEIST - FH09;302685;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-09;Graaf d Ursellaan;44;;BUILDING template
+KNOKKE-HEIST - FH09;302692;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-14;August Beernaertstraat;22;;BUILDING template
+KNOKKE-HEIST - FH09;1445319;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-29;Kardinaal Mercierstraat;14;;BUILDING template
+KNOKKE-HEIST - FH09;1470202;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Elizabetlaan;375;;BUILDING template
+KNOKKE-HEIST - FH09;2757575;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-15;Albatrosstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;2757588;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-10-31;Albatrosstraat;29;;BUILDING template
+KNOKKE-HEIST - FH09;297123;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-13;Parkstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;71704;Stonetales Properties;Elizabethlaan 40;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-15;Albatrosstraat;20;;BUILDING template
+KNOKKE-HEIST - FH09;2759154;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Duinenstraat;5;;BUILDING template
+KNOKKE-HEIST - FH09;2759163;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-20;Duinenstraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;71698;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Albatrosstraat;33;;BUILDING template
+KNOKKE-HEIST - FH09;2759741;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Elizabetlaan;331;;BUILDING template
+KNOKKE-HEIST - FH09;2759744;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-20;Elizabetlaan;337;;BUILDING template
+KNOKKE-HEIST - FH09;297118;Stonetales Properties;Elizabetlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-13;Parkstraat;25;;BUILDING template
+KNOKKE-HEIST - FH09;292673;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-02-24;Zeedijk-Heist;82;;BUILDING template
+KNOKKE-HEIST - FH09;2760286;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-20;Heldenplein;4;;BUILDING template
+KNOKKE-HEIST - FH09;2760296;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-21;Heldenplein;18;;BUILDING template
+KNOKKE-HEIST - FH09;2760300;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-14;Heldenplein;23;;BUILDING template
+KNOKKE-HEIST - FH09;2756728;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;87;;BUILDING template
+KNOKKE-HEIST - FH09;2756784;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;151;;BUILDING template
+KNOKKE-HEIST - FH09;5579563;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Graaf d Ursellaan;22;;BUILDING template
+KNOKKE-HEIST - FH09;2756785;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;152;;BUILDING template
+KNOKKE-HEIST - FH09;2756808;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;176;;BUILDING template
+KNOKKE-HEIST - FH09;2764637;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-13;O.-L.-Vrouwstraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;2764638;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-13;O.-L.-Vrouwstraat;13;;BUILDING template
+KNOKKE-HEIST - FH09;2756723;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;81;;BUILDING template
+KNOKKE-HEIST - FH09;2764640;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-13;O.-L.-Vrouwstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;2756754;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;113;;BUILDING template
+KNOKKE-HEIST - FH09;2764987;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-14;Louis Parentstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;2756852;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-24;Zeedijk-Heist;231;;BUILDING template
+KNOKKE-HEIST - FH09;2756858;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-24;Zeedijk-Heist;236;;BUILDING template
+KNOKKE-HEIST - FH09;2765005;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-13;Parkstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;3996512;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;210;;BUILDING template
+KNOKKE-HEIST - FH09;2765017;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-13;Parkstraat;27;;BUILDING template
+KNOKKE-HEIST - FH09;2766150;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-16;Serweytens de Mercxstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;2756880;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-24;Zeedijk-Heist;256;;BUILDING template
+KNOKKE-HEIST - FH09;2766157;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-14;Serweytens de Mercxstraat;29;;BUILDING template
+KNOKKE-HEIST - FH09;2756813;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;181;;BUILDING template
+KNOKKE-HEIST - FH09;2766976;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-24;Graaf d Ursellaan;11;;BUILDING template
+KNOKKE-HEIST - FH09;2756735;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;94;;BUILDING template
+KNOKKE-HEIST - FH09;2767006;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-22;Graaf d Ursellaan;30;;BUILDING template
+KNOKKE-HEIST - FH09;2756745;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;103;;BUILDING template
+KNOKKE-HEIST - FH09;2767008;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-19;Graaf d Ursellaan;31;;BUILDING template
+KNOKKE-HEIST - FH09;290503;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-28;Elizabetlaan;385;;BUILDING template
+KNOKKE-HEIST - FH09;2756896;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-09;Zeedijk-Heist;278;;BUILDING template
+KNOKKE-HEIST - FH09;2756755;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;114;;BUILDING template
+KNOKKE-HEIST - FH09;292344;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;115;;BUILDING template
+KNOKKE-HEIST - FH09;2756766;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;126;;BUILDING template
+KNOKKE-HEIST - FH09;292677;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-11-28;Zeedijk-Heist;104;;BUILDING template
+KNOKKE-HEIST - FH09;4335319;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-20;Duinenstraat;18;;BUILDING template
+KNOKKE-HEIST - FH09;2756725;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2019-12-04;Zeedijk-Heist;85;;BUILDING template
+KNOKKE-HEIST - FH09;2756909;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-22;Zeedijk-Heist;295;;BUILDING template
+KNOKKE-HEIST - FH09;3939624;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-29;Kardinaal Mercierstraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;4337457;Stonetales Properties;Elizabethlaan 355;8301;Knokke-Heist;050511111;info@stonetales.be;2020-01-09;August Beernaertstraat;5;;BUILDING template
+KNOKKE-HEIST - FH09;302712;Swennen Raymond;Bokrijkseweg 21;3520;Zonhoven;0475237693;swennen.raymond@gmail.com;2019-12-11;De Kinkhoorn;5;;BUILDING template
+KNOKKE-HEIST - FH09;2756801;Tom Ackx;Vissershuldeplein 5;8301;Knokke-Heist;050511863;geen@email.be;2019-11-25;Zeedijk-Heist;170;;BUILDING template
+KNOKKE-HEIST - FH09;2756760;Tom Ackx;Vissershuldeplein 5;8301;Knokke-Heist;050512880;geen@email.be;2019-11-25;Zeedijk-Heist;120;;BUILDING template
+KNOKKE-HEIST - FH09;2756721;Tom Ackx;Vissershuldeplein 5;8301;Knokke-Heist;050512880;geen@email.be;2019-11-27;Zeedijk-Heist;77;;BUILDING template
+KNOKKE-HEIST - FH09;2756869;van den Broek;graaf d'Ursellelaan 40;;;050511314;;2020-01-14;Zeedijk-Heist;246;;BUILDING template
+KNOKKE-HEIST - FH09;2756768;Vanderhaeghen;geen adres;8301;Knokke-Heist;050519869;geen@email.be;2019-11-27;Zeedijk-Heist;130;;BUILDING template
+KNOKKE-HEIST - FH09;2756814;Verbergt Marcel;Geelsebaan 45;2400;Mol;0473820104;geen@email.be;2019-12-05;Zeedijk-Heist;182;;BUILDING template
+KNOKKE-HEIST - FH09;2756876;Willy De Smul;Zeedijk 254 / 51;8301;Knokke-Heist;0475451758;geen@email.be;2020-02-24;Zeedijk-Heist;254;;BUILDING template
+KNOKKE-HEIST - FH09;302697;;;;;;;;Louis Parentstraat;28;;BUILDING template
+KNOKKE-HEIST - FH09;2756840;;;;;;;;Zeedijk-Heist;206;;BUILDING template
+KNOKKE-HEIST - FH09;5579232;;;;;;;;Albatrosstraat;18;;BUILDING template
+KNOKKE-HEIST - FH09;2756863;;;;;;;;Zeedijk-Heist;241;;BUILDING template
+KNOKKE-HEIST - FH09;5579365;;;;;;;;Elizabetlaan;379;;BUILDING template
+KNOKKE-HEIST - FH09;5579523;;;;;;;;O.-L.-Vrouwstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;5579526;;;;;;;;Louis Parentstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;4018334;;;;;;;;Heldenplein;8;;BUILDING template
+KNOKKE-HEIST - FH09;2759159;;;;;;;;Duinenstraat;11;;BUILDING template
+KNOKKE-HEIST - FH09;4336994;;;;;;;;Zeedijk-Heist;132;;BUILDING template
+KNOKKE-HEIST - FH09;5579529;;;;;;;;Parkstraat;23;;BUILDING template
+KNOKKE-HEIST - FH09;4335302;;;;;;;;Heldenplein;15;;BUILDING template
+KNOKKE-HEIST - FH09;2759161;;;;;;;;Duinenstraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;4337345;;;;;;;;Zeedijk-Heist;265;;BUILDING template
+KNOKKE-HEIST - FH09;5905456;;;;;;;;Eerste-Geniestraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;297125;;;;;;;;Louis Parentstraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;4337482;;;;;;;;Zeedijk-Heist;296;;BUILDING template
+KNOKKE-HEIST - FH09;3939510;;;;;;;;Zeedijk-Heist;185;;BUILDING template
+KNOKKE-HEIST - FH09;2759758;;;;;;;;Elizabetlaan;365;;BUILDING template
+KNOKKE-HEIST - FH09;297131;;;;;;;;Zeedijk-Heist;298;;BUILDING template
+KNOKKE-HEIST - FH09;290625;;;;;;;;Zeedijk-Heist;160;;BUILDING template
+KNOKKE-HEIST - FH09;4335301;;;;;;;;Heldenplein;5;;BUILDING template
+KNOKKE-HEIST - FH09;2760291;;;;;;;;Heldenplein;12;;BUILDING template
+KNOKKE-HEIST - FH09;2756837;;;;;;;;Zeedijk-Heist;203;;BUILDING template
+KNOKKE-HEIST - FH09;6396293;;;;;;;;Serweytens de Mercxstraat;23;;BUILDING template
+KNOKKE-HEIST - FH09;297135;;;;;;;;Eerste-Geniestraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;302632;;;;;;;;Serweytens de Mercxstraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;2759743;;;;;;;;Elizabetlaan;335;;BUILDING template
+KNOKKE-HEIST - FH09;9883;;;;;;;;Jozef Dhoorelaan;2;;BUILDING template
+KNOKKE-HEIST - FH09;9885;;;;;;;;Jozef Dhoorelaan;18;;BUILDING template
+KNOKKE-HEIST - FH09;4103221;;;;;;;;Louis Parentstraat;33;;BUILDING template
+KNOKKE-HEIST - FH09;2756866;;;;;;;;Zeedijk-Heist;243;;BUILDING template
+KNOKKE-HEIST - FH09;71634;;;;;;;;Serweytens de Mercxstraat;24;;BUILDING template
+KNOKKE-HEIST - FH09;71700;;;;;;;;Albatrosstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;71710;;;;;;;;Graaf d Ursellaan;18;;BUILDING template
+KNOKKE-HEIST - FH09;71712;;;;;;;;Graaf d Ursellaan;21;;BUILDING template
+KNOKKE-HEIST - FH09;4335285;;;;;;;;Elizabetlaan;343;;BUILDING template
+KNOKKE-HEIST - FH09;2756718;;;;;;;;Zeedijk-Heist;74;;BUILDING template
+KNOKKE-HEIST - FH09;71739;;;;;;;;Elizabetlaan;353;;BUILDING template
+KNOKKE-HEIST - FH09;71748;;;;;;;;O.-L.-Vrouwstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;4337540;;;;;;;;Zeedijk-Heist;102;;BUILDING template
+KNOKKE-HEIST - FH09;5579364;;;;;;;;Elizabetlaan;355;;BUILDING template
+KNOKKE-HEIST - FH09;2759760;;;;;;;;Elizabetlaan;371;;BUILDING template
+KNOKKE-HEIST - FH09;290630;;;;;;;;Elizabetlaan;411;;BUILDING template
+KNOKKE-HEIST - FH09;292347;;;;;;;;Jozef Dhoorelaan;14;;BUILDING template
+KNOKKE-HEIST - FH09;292348;;;;;;;;Jozef Dhoorelaan;16;;BUILDING template
+KNOKKE-HEIST - FH09;4337754;;;;;;;;Zeedijk-Heist;187;;BUILDING template
+KNOKKE-HEIST - FH09;292351;;;;;;;;de Maerestraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;4337755;;;;;;;;Zeedijk-Heist;188;;BUILDING template
+KNOKKE-HEIST - FH09;292682;;;;;;;;Jozef Dhoorelaan;34;;BUILDING template
+KNOKKE-HEIST - FH09;292684;;;;;;;;Jozef Dhoorelaan;28;;BUILDING template
+KNOKKE-HEIST - FH09;292686;;;;;;;;Jozef Dhoorelaan;30;;BUILDING template
+KNOKKE-HEIST - FH09;297122;;;;;;;;Parkstraat;13;;BUILDING template
+KNOKKE-HEIST - FH09;302698;;;;;;;;Louis Parentstraat;24;;BUILDING template
+KNOKKE-HEIST - FH09;297132;;;;;;;;Eerste-Geniestraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;302686;;;;;;;;August Beernaertstraat;52;;BUILDING template
+KNOKKE-HEIST - FH09;297133;;;;;;;;Eerste-Geniestraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;297134;;;;;;;;Eerste-Geniestraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;6525363;;;;;;;;Elizabetlaan;393;;BUILDING template
+KNOKKE-HEIST - FH09;2764635;;;;;;;;O.-L.-Vrouwstraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;302627;;;;;;;;Serweytens de Mercxstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;5579366;;;;;;;;Elizabetlaan;397;;BUILDING template
+KNOKKE-HEIST - FH09;302681;;;;;;;;Graaf d Ursellaan;33;;BUILDING template
+KNOKKE-HEIST - FH09;3939631;;;;;;;;O.-L.-Vrouwstraat;11;;BUILDING template
+KNOKKE-HEIST - FH09;302683;;;;;;;;Graaf d Ursellaan;34;;BUILDING template
+KNOKKE-HEIST - FH09;302687;;;;;;;;August Beernaertstraat;23;;BUILDING template
+KNOKKE-HEIST - FH09;302689;;;;;;;;August Beernaertstraat;48;;BUILDING template
+KNOKKE-HEIST - FH09;2756894;;;;;;;;Zeedijk-Heist;273;;BUILDING template
+KNOKKE-HEIST - FH09;302699;;;;;;;;Louis Parentstraat;18;;BUILDING template
+KNOKKE-HEIST - FH09;302702;;;;;;;;Louis Parentstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;302703;;;;;;;;Visserskapelstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;302704;;;;;;;;Visserskapelstraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;302706;;;;;;;;Visserskapelstraat;8;;BUILDING template
+KNOKKE-HEIST - FH09;4337758;;;;;;;;Zeedijk-Heist;191;;BUILDING template
+KNOKKE-HEIST - FH09;4337650;;;;;;;;Elizabetlaan;405;;BUILDING template
+KNOKKE-HEIST - FH09;302713;;;;;;;;De Kinkhoorn;15;;BUILDING template
+KNOKKE-HEIST - FH09;302714;;;;;;;;De Kinkhoorn;14;;BUILDING template
+KNOKKE-HEIST - FH09;4337651;;;;;;;;Elizabetlaan;407;;BUILDING template
+KNOKKE-HEIST - FH09;6396864;;;;;;;;Zeedijk-Heist;105;;BUILDING template
+KNOKKE-HEIST - FH09;4335233;;;;;;;;Zeedijk-Heist;212;;BUILDING template
+KNOKKE-HEIST - FH09;303846;;;;;;;;Vuurtorenstraat;2;;BUILDING template
+KNOKKE-HEIST - FH09;4337653;;;;;;;;Elizabetlaan;409;;BUILDING template
+KNOKKE-HEIST - FH09;1329624;;;;;;;;Jozef Dhoorelaan;12;;BUILDING template
+KNOKKE-HEIST - FH09;4146526;;;;;;;;Zeedijk-Heist;84;;BUILDING template
+KNOKKE-HEIST - FH09;71498;;;;;;;;Heldenplein;25;;BUILDING template
+KNOKKE-HEIST - FH09;2757576;;;;;;;;Albatrosstraat;11;;BUILDING template
+KNOKKE-HEIST - FH09;71638;;;;;;;;Zeedijk-Heist;247;;BUILDING template
+KNOKKE-HEIST - FH09;2757577;;;;;;;;Albatrosstraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;71639;;;;;;;;Zeedijk-Heist;251;;BUILDING template
+KNOKKE-HEIST - FH09;2757578;;;;;;;;Albatrosstraat;14;;BUILDING template
+KNOKKE-HEIST - FH09;290627;;;;;;;;Zeedijk-Heist;165;;BUILDING template
+KNOKKE-HEIST - FH09;297120;;;;;;;;Parkstraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;2758013;;;;;;;;August Beernaertstraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;2765006;;;;;;;;Parkstraat;11;;BUILDING template
+KNOKKE-HEIST - FH09;292675;;;;;;;;Zeedijk-Heist;83;;BUILDING template
+KNOKKE-HEIST - FH09;2758014;;;;;;;;August Beernaertstraat;12;;BUILDING template
+KNOKKE-HEIST - FH09;297121;;;;;;;;Parkstraat;1;;BUILDING template
+KNOKKE-HEIST - FH09;302670;;;;;;;;Zeedijk-Heist;260;;BUILDING template
+KNOKKE-HEIST - FH09;2758761;;;;;;;;Jozef Dhoorelaan;6;;BUILDING template
+KNOKKE-HEIST - FH09;302674;;;;;;;;Zeedijk-Heist;277;;BUILDING template
+KNOKKE-HEIST - FH09;2758762;;;;;;;;Jozef Dhoorelaan;8;;BUILDING template
+KNOKKE-HEIST - FH09;302675;;;;;;;;Zeedijk-Heist;290;;BUILDING template
+KNOKKE-HEIST - FH09;2758763;;;;;;;;Jozef Dhoorelaan;10;;BUILDING template
+KNOKKE-HEIST - FH09;2756741;;;;;;;;Zeedijk-Heist;100;;BUILDING template
+KNOKKE-HEIST - FH09;2758764;;;;;;;;Jozef Dhoorelaan;20;;BUILDING template
+KNOKKE-HEIST - FH09;2758765;;;;;;;;Jozef Dhoorelaan;22;;BUILDING template
+KNOKKE-HEIST - FH09;71715;;;;;;;;Graaf d Ursellaan;10;;BUILDING template
+KNOKKE-HEIST - FH09;2756811;;;;;;;;Zeedijk-Heist;179;;BUILDING template
+KNOKKE-HEIST - FH09;2758766;;;;;;;;Jozef Dhoorelaan;24;;BUILDING template
+KNOKKE-HEIST - FH09;2756830;;;;;;;;Zeedijk-Heist;200;;BUILDING template
+KNOKKE-HEIST - FH09;2758767;;;;;;;;Jozef Dhoorelaan;26;;BUILDING template
+KNOKKE-HEIST - FH09;4337658;;;;;;;;Zeedijk-Heist;169;;BUILDING template
+KNOKKE-HEIST - FH09;2758768;;;;;;;;Jozef Dhoorelaan;32;;BUILDING template
+KNOKKE-HEIST - FH09;2756854;;;;;;;;Zeedijk-Heist;232;;BUILDING template
+KNOKKE-HEIST - FH09;2758771;;;;;;;;Jozef Dhoorelaan;81;;BUILDING template
+KNOKKE-HEIST - FH09;2756868;;;;;;;;Zeedijk-Heist;245;;BUILDING template
+KNOKKE-HEIST - FH09;2756878;;;;;;;;Zeedijk-Heist;255;;BUILDING template
+KNOKKE-HEIST - FH09;2756889;;;;;;;;Zeedijk-Heist;267;;BUILDING template
+KNOKKE-HEIST - FH09;2756901;;;;;;;;Zeedijk-Heist;285;;BUILDING template
+KNOKKE-HEIST - FH09;2759155;;;;;;;;Duinenstraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;2759157;;;;;;;;Duinenstraat;9;;BUILDING template
+KNOKKE-HEIST - FH09;2759750;;;;;;;;Elizabetlaan;345;;BUILDING template
+KNOKKE-HEIST - FH09;2759162;;;;;;;;Duinenstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;4253977;;;;;;;;Zeedijk-Heist;146;;BUILDING template
+KNOKKE-HEIST - FH09;2759166;;;;;;;;Duinenstraat;20;;BUILDING template
+KNOKKE-HEIST - FH09;4335312;;;;;;;;Zeedijk-Heist;237;;BUILDING template
+KNOKKE-HEIST - FH09;2759460;;;;;;;;Eerste-Geniestraat;5;;BUILDING template
+KNOKKE-HEIST - FH09;5579224;;;;;;;;Zeedijk-Heist;250;;BUILDING template
+KNOKKE-HEIST - FH09;4337343;;;;;;;;Zeedijk-Heist;263;;BUILDING template
+KNOKKE-HEIST - FH09;290626;;;;;;;;Zeedijk-Heist;171;;BUILDING template
+KNOKKE-HEIST - FH09;4337440;;;;;;;;Zeedijk-Heist;281;;BUILDING template
+KNOKKE-HEIST - FH09;6524198;;;;;;;;Zeedijk-Heist;149;;BUILDING template
+KNOKKE-HEIST - FH09;4337441;;;;;;;;Zeedijk-Heist;282;;BUILDING template
+KNOKKE-HEIST - FH09;4337486;;;;;;;2019-12-04;Zeedijk-Heist;68;;BUILDING template
+KNOKKE-HEIST - FH09;6525309;;;;;;;;Parkstraat;21;;BUILDING template
+KNOKKE-HEIST - FH09;6524195;;;;;;;;Zeedijk-Heist;172;;BUILDING template
+KNOKKE-HEIST - FH09;4337493;;;;;;;;Zeedijk-Heist;73;;BUILDING template
+KNOKKE-HEIST - FH09;2756727;;;;;;;;Zeedijk-Heist;86;;BUILDING template
+KNOKKE-HEIST - FH09;4337756;;;;;;;;Zeedijk-Heist;189;;BUILDING template
+KNOKKE-HEIST - FH09;2759742;;;;;;;;Elizabetlaan;333;;BUILDING template
+KNOKKE-HEIST - FH09;290501;;;;;;;;Zeedijk-Heist;173;;BUILDING template
+KNOKKE-HEIST - FH09;5564757;;;;;;;;Elizabetlaan;391;;BUILDING template
+KNOKKE-HEIST - FH09;6524207;;;;;;;;Eerste-Geniestraat;3;;BUILDING template
+KNOKKE-HEIST - FH09;5579378;;;;;;;;Heldenplein;21;;BUILDING template
+KNOKKE-HEIST - FH09;2759746;;;;;;;;Elizabetlaan;339;;BUILDING template
+KNOKKE-HEIST - FH09;2756900;;;;;;;;Zeedijk-Heist;283;;BUILDING template
+KNOKKE-HEIST - FH09;2760285;;;;;;;;Heldenplein;3;;BUILDING template
+KNOKKE-HEIST - FH09;2760287;;;;;;;;Heldenplein;7;;BUILDING template
+KNOKKE-HEIST - FH09;6524194;;;;;;;;Zeedijk-Heist;194;;BUILDING template
+KNOKKE-HEIST - FH09;4096025;;;;;;;;Graaf d Ursellaan;17;;BUILDING template
+KNOKKE-HEIST - FH09;292346;;;;;;;;Zeedijk-Heist;154;;BUILDING template
+KNOKKE-HEIST - FH09;2760295;;;;;;;;Heldenplein;17;;BUILDING template
+KNOKKE-HEIST - FH09;71708;;;;;;;;Graaf d Ursellaan;19;;BUILDING template
+KNOKKE-HEIST - FH09;2756847;;;;;;;;Zeedijk-Heist;214;;BUILDING template
+KNOKKE-HEIST - FH09;2760304;;;;;;;;Heldenplein;29;;BUILDING template
+KNOKKE-HEIST - FH09;71711;;;;;;;;Graaf d Ursellaan;20;;BUILDING template
+KNOKKE-HEIST - FH09;2756850;;;;;;;;Zeedijk-Heist;215;;BUILDING template
+KNOKKE-HEIST - FH09;2764632;;;;;;;;O.-L.-Vrouwstraat;6;;BUILDING template
+KNOKKE-HEIST - FH09;71709;;;;;;;;Graaf d Ursellaan;23;;BUILDING template
+KNOKKE-HEIST - FH09;2764986;;;;;;;;Louis Parentstraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;302695;;;;;;;;August Beernaertstraat;18;;BUILDING template
+KNOKKE-HEIST - FH09;2766967;;;;;;;;Graaf d Ursellaan;4;;BUILDING template
+KNOKKE-HEIST - FH09;297130;;;;;;;;Zeedijk-Heist;291;;BUILDING template
+KNOKKE-HEIST - FH09;2766972;;;;;;;;Graaf d Ursellaan;6;;BUILDING template
+KNOKKE-HEIST - FH09;2766975;;;;;;;;Graaf d Ursellaan;9;;BUILDING template
+KNOKKE-HEIST - FH09;4335330;;;;;;;;Serweytens de Mercxstraat;26;;BUILDING template
+KNOKKE-HEIST - FH09;2766980;;;;;;;;Graaf d Ursellaan;12;;BUILDING template
+KNOKKE-HEIST - FH09;2766984;;;;;;;;Graaf d Ursellaan;14;;BUILDING template
+KNOKKE-HEIST - FH09;2756737;;;;;;;2019-12-04;Zeedijk-Heist;97;;BUILDING template
+KNOKKE-HEIST - FH09;2767003;;;;;;;;Graaf d Ursellaan;28;;BUILDING template
+KNOKKE-HEIST - FH09;2767024;;;;;;;;Graaf d Ursellaan;39;;BUILDING template
+KNOKKE-HEIST - FH09;2767005;;;;;;;;Graaf d Ursellaan;29;;BUILDING template
+KNOKKE-HEIST - FH09;297127;;;;;;;;Graaf d Ursellaan;45;;BUILDING template
+KNOKKE-HEIST - FH09;4336107;;;;;;;;Graaf d Ursellaan;48;;BUILDING template
+KNOKKE-HEIST - FH09;2767033;;;;;;;;Graaf d Ursellaan;43;;BUILDING template
+KNOKKE-HEIST - FH09;2756857;;;;;;;;Zeedijk-Heist;234;;BUILDING template
+KNOKKE-HEIST - FH09;4335306;;;;;;;;Zeedijk-Heist;257;;BUILDING template
+KNOKKE-HEIST - FH09;5579565;;;;;;;;Graaf d Ursellaan;53;;BUILDING template
+KNOKKE-HEIST - FH09;2760294;;;;;;;;Heldenplein;16;;BUILDING template
+KNOKKE-HEIST - FH09;2767282;;;;;;;;Visserskapelstraat;5;;BUILDING template
+KNOKKE-HEIST - FH09;2760297;;;;;;;;Heldenplein;20;;BUILDING template
+KNOKKE-HEIST - FH09;2767284;;;;;;;;Visserskapelstraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;4335311;;;;;;;;Zeedijk-Heist;235;;BUILDING template
+KNOKKE-HEIST - FH09;2767288;;;;;;;;Visserskapelstraat;11;;BUILDING template
+KNOKKE-HEIST - FH09;2756828;;;;;;;;Zeedijk-Heist;199;;BUILDING template
+KNOKKE-HEIST - FH09;2767292;;;;;;;;Visserskapelstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;4083784;;;;;;;;Duinenstraat;14;;BUILDING template
+KNOKKE-HEIST - FH09;4105499;;;;;;;;Louis Parentstraat;5;;BUILDING template
+KNOKKE-HEIST - FH09;4148325;;;;;;;;Duinenstraat;16;;BUILDING template
+KNOKKE-HEIST - FH09;4150670;;;;;;;;O.-L.-Vrouwstraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;4335225;;;;;;;;Albatrosstraat;10;;BUILDING template
+KNOKKE-HEIST - FH09;4337751;;;;;;;;Zeedijk-Heist;183;;BUILDING template
+KNOKKE-HEIST - FH09;4335275;;;;;;;;Duinenstraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;4337752;;;;;;;;Zeedijk-Heist;184;;BUILDING template
+KNOKKE-HEIST - FH09;4335321;;;;;;;;Duinenstraat;22;;BUILDING template
+KNOKKE-HEIST - FH09;4336078;;;;;;;;Eerste-Geniestraat;4;;BUILDING template
+KNOKKE-HEIST - FH09;4336094;;;;;;;;Louis Parentstraat;19;;BUILDING template
+KNOKKE-HEIST - FH09;4337279;;;;;;;;Serweytens de Mercxstraat;15;;BUILDING template
+KNOKKE-HEIST - FH09;4337292;;;;;;;;Visserskapelstraat;17;;BUILDING template
+KNOKKE-HEIST - FH09;4337352;;;;;;;;De Kinkhoorn;16;;BUILDING template
+KNOKKE-HEIST - FH09;4337449;;;;;;;;Louis Parentstraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;4337451;;;;;;;;Eerste-Geniestraat;7;;BUILDING template
+KNOKKE-HEIST - FH09;297138;;;;;;;;Eerste-Geniestraat;16;;BUILDING template
+KNOKKE-HEIST - FH09;302680;;;;;;;;Graaf d Ursellaan;24;;BUILDING template

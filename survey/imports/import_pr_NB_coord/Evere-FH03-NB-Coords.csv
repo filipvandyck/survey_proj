@@ -1,0 +1,126 @@
+Projectnummer;Blok;LAM MK;Straat;Huisnummer;Huisnummer Toevoeging;Huisnr;xPos;yPos;BT;VC Method;LU;BU;SU;TOTAAL;Wall Mount;SS Reason;Number Floors;Perceel eigenschap;Building comment;Building exists;BG Name;Opdrachttemplate
+EVERE - FH03;;NB-11408100029;A. Vanden Bosschestraat - Rue A. Vanden Bossche;81;;;152392;173388;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11406500028;A. Vanden Bosschestraat - Rue A. Vanden Bossche;65;;;152368;173436;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11406300031;Adolf De Brandtstraat - Rue Adolphe De Brandt;63;;;152150;173288;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11403500030;Adolf De Brandtstraat - Rue Adolphe De Brandt;35;;;152081;173414;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401900040;Andalusielaan - Avenue de l Andalousie;19;;;152457;172470;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401800039;Andalusielaan - Avenue de l Andalousie;18;;;152535;172657;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401700038;Andalusielaan - Avenue de l Andalousie;17;;;152539;172651;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401600037;Andalusielaan - Avenue de l Andalousie;16;;;152541;172647;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401500036;Andalusielaan - Avenue de l Andalousie;15;;;152542;172642;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401400035;Andalusielaan - Avenue de l Andalousie;14;;;152539;172635;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401300034;Andalusielaan - Avenue de l Andalousie;13;;;152540;172625;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401200033;Andalusielaan - Avenue de l Andalousie;12;;;152540;172618;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401100032;Andalusielaan - Avenue de l Andalousie;11;;;152542;172609;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114068C00055;August De Boeckstraat - Rue Auguste De Boeck;68;C;;152260;173031;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114068B00054;August De Boeckstraat - Rue Auguste De Boeck;68;B;;152251;173035;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114068A00053;August De Boeckstraat - Rue Auguste De Boeck;68;A;;152245;173040;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114064A00052;August De Boeckstraat - Rue Auguste De Boeck;64;A;;152234;173047;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11405800051;August De Boeckstraat - Rue Auguste De Boeck;58;;;152193;173047;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11405700050;August De Boeckstraat - Rue Auguste De Boeck;57;;;152174;173074;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11405600049;August De Boeckstraat - Rue Auguste De Boeck;56;;;152176;173053;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11404800048;August De Boeckstraat - Rue Auguste De Boeck;48;;;152082;173071;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11404600047;August De Boeckstraat - Rue Auguste De Boeck;46;;;152080;173073;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114045A00046;August De Boeckstraat - Rue Auguste De Boeck;45;A;;152102;173087;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11403300045;August De Boeckstraat - Rue Auguste De Boeck;33;;;152044;173096;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402A00042;August De Boeckstraat - Rue Auguste De Boeck;2;A;;151960;173093;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402500044;August De Boeckstraat - Rue Auguste De Boeck;25;;;152020;173100;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140200041;August De Boeckstraat - Rue Auguste De Boeck;2;;;151957;173094;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401100043;August De Boeckstraat - Rue Auguste De Boeck;11;;;151978;173108;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11408000057;Edward Deknoopstraat - Rue Edouard Deknoop;80;;;152182;173522;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140600056;Edward Deknoopstraat - Rue Edouard Deknoop;6;;;151897;173366;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402000058;F. Vande Maelestraat - Rue F. Vande Maele;20;;;152182;173552;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140800061;Friulilaan - Avenue du Frioul;8;;;152502;172408;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140600060;Friulilaan - Avenue du Frioul;6;;;152478;172407;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140400059;Friulilaan - Avenue du Frioul;4;;;152462;172407;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401000062;Friulilaan - Avenue du Frioul;10;;;152520;172408;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140900067;Genevestraat - Rue de Geneve;9;;;152463;172600;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140500065;Genevestraat - Rue de Geneve;5;;;152485;172438;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140300064;Genevestraat - Rue de Geneve;3;;;152470;172442;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401700071;Genevestraat - Rue de Geneve;17;;;152471;172513;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114015A00070;Genevestraat - Rue de Geneve;15;A;;152465;172549;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401300069;Genevestraat - Rue de Geneve;13;;;152478;172548;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401100068;Genevestraat - Rue de Geneve;11;;;152453;172584;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140100063;Genevestraat - Rue de Geneve;1;;;152449;172702;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11409200080;Godfroid Kurthstraat - Rue Godfroid Kurth;92;;;152188;173081;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11407400079;Godfroid Kurthstraat - Rue Godfroid Kurth;74;;;152138;173151;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11407200078;Godfroid Kurthstraat - Rue Godfroid Kurth;72;;;152132;173154;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11404500077;Godfroid Kurthstraat - Rue Godfroid Kurth;45;;;152066;173188;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140400072;Godfroid Kurthstraat - Rue Godfroid Kurth;4;;;151953;173161;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402700076;Godfroid Kurthstraat - Rue Godfroid Kurth;27;;;152010;173193;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402300075;Godfroid Kurthstraat - Rue Godfroid Kurth;23;;;151997;173192;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402200074;Godfroid Kurthstraat - Rue Godfroid Kurth;22;;;152029;173170;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401600073;Godfroid Kurthstraat - Rue Godfroid Kurth;16;;;151991;173170;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11407200087;H. Consciencelaan - Avenue Henri Conscience;72;;;152139;173081;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140700081;H. Consciencelaan - Avenue Henri Conscience;7;;;152038;172943;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11407000086;H. Consciencelaan - Avenue Henri Conscience;70;;;152152;173054;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11405500085;H. Consciencelaan - Avenue Henri Conscience;55;;;152098;173065;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114047B00084;H. Consciencelaan - Avenue Henri Conscience;47;B;;152088;173046;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402600083;H. Consciencelaan - Avenue Henri Conscience;26;;;152076;172957;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140236A00099;H. Consciencelaan - Avenue Henri Conscience;236;A;;152292;173644;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114023600098;H. Consciencelaan - Avenue Henri Conscience;236;;;152291;173640;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114023200097;H. Consciencelaan - Avenue Henri Conscience;232;;;152282;173635;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114022300096;H. Consciencelaan - Avenue Henri Conscience;223;;;152307;173693;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402000082;H. Consciencelaan - Avenue Henri Conscience;20;;;152070;172943;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114018400095;H. Consciencelaan - Avenue Henri Conscience;184;;;152221;173526;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114017200094;H. Consciencelaan - Avenue Henri Conscience;172;;;152213;173480;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114017100093;H. Consciencelaan - Avenue Henri Conscience;171;;;152192;173521;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114016600092;H. Consciencelaan - Avenue Henri Conscience;166;;;152213;173463;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114016500091;H. Consciencelaan - Avenue Henri Conscience;165;;;152188;173505;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114014100090;H. Consciencelaan - Avenue Henri Conscience;141;;;152192;173392;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114012100089;H. Consciencelaan - Avenue Henri Conscience;121;;;152200;173302;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114011900088;H. Consciencelaan - Avenue Henri Conscience;119;;;152201;173297;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140976A00105;Haachtsesteenweg - Chaussee de Haecht;976;A;;152095;173571;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114097000104;Haachtsesteenweg - Chaussee de Haecht;970;;;152072;173564;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114095600103;Haachtsesteenweg - Chaussee de Haecht;956;;;152030;173542;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114095400102;Haachtsesteenweg - Chaussee de Haecht;954;;;152023;173540;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114095200101;Haachtsesteenweg - Chaussee de Haecht;952;;;152021;173536;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114093400100;Haachtsesteenweg - Chaussee de Haecht;934;;;151980;173517;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140119800109;Haachtsesteenweg - Chaussee de Haecht;1198;;;152646;173962;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140108000107;Haachtsesteenweg - Chaussee de Haecht;1080;;;152379;173776;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140800111;J. B. Bauwensstraat - Rue J. B. Bauwens;8;;;152534;173850;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140400110;J. B. Bauwensstraat - Rue J. B. Bauwens;4;;;152537;173862;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114023B00112;J. B. Bauwensstraat - Rue J. B. Bauwens;23;B;;152544;173800;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140100113;J. B. Mosselmansstraat - Rue Jean-Baptiste Mosselmans;1;;;152025;173383;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402300114;J. Houtmeyersstraat - Rue J. Houtmeyers;23;;;152084;173233;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140100115;J. Houtmeyersstraat - Rue J. Houtmeyers;1;;;152145;173252;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140800116;J. Van Ruusbroeckstraat - Rue J. Van Ruusbroeck;8;;;152209;173158;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114010900117;J. Van Ruusbroeckstraat - Rue J. Van Ruusbroeck;109;;;152435;173448;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140800120;Jean-Baptiste Desmethstraat - Rue Jean-Baptiste Desmeth;8;;;152304;173656;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140700119;Jean-Baptiste Desmethstraat - Rue Jean-Baptiste Desmeth;7;;;152300;173705;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140100118;Jean-Baptiste Desmethstraat - Rue Jean-Baptiste Desmeth;1;;;152285;173721;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401G00126;Languedocwandelwegen - Allees du Languedoc;1;G;;152590;173530;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401E00125;Languedocwandelwegen - Allees du Languedoc;1;E;;152585;173524;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401D00124;Languedocwandelwegen - Allees du Languedoc;1;D;;152582;173519;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401C00123;Languedocwandelwegen - Allees du Languedoc;1;C;;152581;173515;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401B00122;Languedocwandelwegen - Allees du Languedoc;1;B;;152576;173510;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401A00121;Languedocwandelwegen - Allees du Languedoc;1;A;;152571;173502;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402000127;Leekaertsstraat - Rue Leekaerts;20;;;152406;173666;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114041700133;Lindestraat - Rue du Tilleul;417;;;152049;172891;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114041300132;Lindestraat - Rue du Tilleul;413;;;152026;172934;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114041100131;Lindestraat - Rue du Tilleul;411;;;152026;172940;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114034900130;Lindestraat - Rue du Tilleul;349;;;151934;173132;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114030100129;Lindestraat - Rue du Tilleul;301;;;151892;173295;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114026500128;Lindestraat - Rue du Tilleul;265;;;151871;173383;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11404400136;Louis Pierardlaan - Avenue Louis Pierard;44;;;152668;173811;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11403900135;Louis Pierardlaan - Avenue Louis Pierard;39;;;152641;173889;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402000134;Louis Pierardlaan - Avenue Louis Pierard;20;;;152586;173749;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11409900143;Onze Lieve Vrouwlaan - Avenue Notre-Dame;99;;;152183;173431;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11409500142;Onze Lieve Vrouwlaan - Avenue Notre-Dame;95;;;152175;173427;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11409200141;Onze Lieve Vrouwlaan - Avenue Notre-Dame;92;;;152181;173397;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11407900140;Onze Lieve Vrouwlaan - Avenue Notre-Dame;79;;;152132;173416;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11406300139;Onze Lieve Vrouwlaan - Avenue Notre-Dame;63;;;152053;173411;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114013400146;Onze Lieve Vrouwlaan - Avenue Notre-Dame;134;;;152359;173488;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114011500145;Onze Lieve Vrouwlaan - Avenue Notre-Dame;115;;;152254;173453;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-114010500144;Onze Lieve Vrouwlaan - Avenue Notre-Dame;105;;;152229;173445;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401200147;Oud-Kapellekelaan - Avenue de l Oud-Kapelleke;12;;;152498;173766;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11403300149;Pater Damiaanstraat - Rue Pere Damien;33;;;152314;173321;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140300148;Pater Damiaanstraat - Rue Pere Damien;3;;;152355;173399;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401100151;S. Hoedemaekerssquare - Square Servaas Hoedemaekers;11;;;152425;173612;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11401000150;S. Hoedemaekerssquare - Square Servaas Hoedemaekers;10;;;152436;173573;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140700154;Weerstandstraat - Rue de la Resistance;7;;;151920;173267;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11405100157;Weerstandstraat - Rue de la Resistance;51;;;152074;173316;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-1140500153;Weerstandstraat - Rue de la Resistance;5;;;151915;173266;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11404700156;Weerstandstraat - Rue de la Resistance;47;;;152053;173307;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402B00152;Weerstandstraat - Rue de la Resistance;2;B;;151915;173244;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
+EVERE - FH03;;NB-11402900155;Weerstandstraat - Rue de la Resistance;29;;;151999;173292;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template
