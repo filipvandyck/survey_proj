@@ -3,14 +3,13 @@
 # menu.py
 
 
-
 import mod_map as mymap
 import mod_import_coordinates as coor
 import mod_validate as val
 import mod_import_pr as imp
 import mod_correction_import as cor
 import mod_units as units
-
+import mod_check_documents as check_documents
 import os
 import glob
 
@@ -149,14 +148,25 @@ def main_menu():
             'C': {'name' : 'Coordinates', 'action' : coords_menu},
             'V': {'name' : 'Validate Survey', 'action' : validate_menu},
             'U': {'name' : 'Site Survey Survey Units', 'action' : units_menu},
+            'D': {'name' : 'Documents', 'action' : documents_menu},
             'I': {'name' : 'Make Import Versions / Survey', 'action' : import_menu}
     }
     action = menu_from_dict(menu,'MAIN MENU')
     if action:
         test = action()
 
+
+def documents_menu():
+    print('test')
+ #   create_file = select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
+ #   if create_file:
+ #       units.processfile(create_file)
+    check_documents.check_dir()    
+    main_menu()
+
+
 def units_menu():
-    create_file = select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
+    create_file = mod_menu.select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
     if create_file:
         units.processfile(create_file)
     
@@ -172,8 +182,8 @@ def validate_menu():
 
 def validate_file_street():
 
-    geojsonfile = select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
-    validatefile = select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
+    geojsonfile = mod_menu.select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
+    validatefile = mod_menu.select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
     
     if validatefile:
         val.processfile(validatefile, geojsonfile, process_for='S')
@@ -182,8 +192,8 @@ def validate_file_street():
 
 def validate_file_site():
 
-    geojsonfile = select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
-    validatefile = select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
+    geojsonfile = mod_menu.select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
+    validatefile = mod_menu.select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
     
     if validatefile:
         val.processfile(validatefile, geojsonfile, process_for='SS')
