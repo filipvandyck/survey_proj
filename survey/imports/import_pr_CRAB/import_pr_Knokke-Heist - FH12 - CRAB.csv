@@ -1,0 +1,779 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Kolom1;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+KNOKKE-HEIST - FH12;299884;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat20; ;1 Unit in CRAB en GM.;;;BUILDING template;Zuidstraat;20;;;71949;225990
+KNOKKE-HEIST - FH12;2763590;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein17; ; ;;;BUILDING template;Matrozenplein;17;;;71970,257;226080,955
+KNOKKE-HEIST - FH12;297276;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder18; ; ;;;BUILDING template;Noordhinder;18;;;71743,681;225585,434
+KNOKKE-HEIST - FH12;300767;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat15; ;1 Unit in CRAB, niet in GM.;;;BUILDING template;Heestersstraat;15;;;72347;225536
+KNOKKE-HEIST - FH12;2763592;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein18; ; ;;;BUILDING template;Matrozenplein;18;;;71974,296;226080,237
+KNOKKE-HEIST - FH12;297277;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder16; ; ;;;BUILDING template;Noordhinder;16;;;71765,959;225577,002
+KNOKKE-HEIST - FH12;4164821;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat316; ;1 Unit in CRAB en GM.;;;BUILDING template;Knokkestraat;316;;;72492;226067
+KNOKKE-HEIST - FH12;2763593;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein21; ; ;;;BUILDING template;Matrozenplein;21;;;72015,166;226073,45
+KNOKKE-HEIST - FH12;297278;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder2; ; ;;;BUILDING template;Noordhinder;2;;;71900,756;225510,965
+KNOKKE-HEIST - FH12;4191097;3;0;0;3;MDU;;Y;NA;2;4;Knokkestraat272; ;8 Units in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;272;;;72309;226063
+KNOKKE-HEIST - FH12;2763595;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein22; ; ;;;BUILDING template;Matrozenplein;22;;;72020,072;226072,863
+KNOKKE-HEIST - FH12;297280;2;0;0;2;MDU;;Y;NA;4;4;Westkapellestraat124; ; ;;;BUILDING template;Westkapellestraat;124;;;71787,08;225615,698
+KNOKKE-HEIST - FH12;4334559;35;0;0;35;MDU;;Y;NA;2;4;Knokkestraat355; ;4 Units in CRAB, 6 bussen in GM.;;;BUILDING template;Knokkestraat;355;;;72541;226089
+KNOKKE-HEIST - FH12;2763596;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein23; ; ;;;BUILDING template;Matrozenplein;23;;;72025,697;226072,527
+KNOKKE-HEIST - FH12;297281;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat113; ; ;;;BUILDING template;Westkapellestraat;113;;;71835,241;225625,517
+KNOKKE-HEIST - FH12;4334560;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat357; ;3 Units in CRAB, 6 bussen in GM.;;;BUILDING template;Knokkestraat;357;;;72550;226089
+KNOKKE-HEIST - FH12;2763598;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein24; ; ;;;BUILDING template;Matrozenplein;24;;;72030,483;226071,822
+KNOKKE-HEIST - FH12;297284;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat153; ; ;;;BUILDING template;Westkapellestraat;153;;;71956,367;225568,836
+KNOKKE-HEIST - FH12;4334562;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat359; ;1 Unit in CRAB, niet in GM.;;;BUILDING template;Knokkestraat;359;;;72559;226090
+KNOKKE-HEIST - FH12;2764400;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder4; ; ;;;BUILDING template;Noordhinder;4;;;71883,656;225518,698
+KNOKKE-HEIST - FH12;297285;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat176; ; ;;;BUILDING template;Westkapellestraat;176;;;71945,816;225548,041
+KNOKKE-HEIST - FH12;4334591;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat230; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Knokkestraat;230;;;72184;226076
+KNOKKE-HEIST - FH12;2764403;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder6; ; ;;;BUILDING template;Noordhinder;6;;;71865,67;225527,119
+KNOKKE-HEIST - FH12;297346;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat73; ; ;;;BUILDING template;Hendrik Consciencestraat;73;;;71773,231;225676,533
+KNOKKE-HEIST - FH12;4334592;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat232; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Knokkestraat;232;;;72192;226075
+KNOKKE-HEIST - FH12;2764405;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder8; ; ;;;BUILDING template;Noordhinder;8;;;71844,944;225535,784
+KNOKKE-HEIST - FH12;297347;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk6; ; ;;;BUILDING template;Krommedijk;6;;;72194,99;225550,645
+KNOKKE-HEIST - FH12;4334601;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat252; ;1 Unit in CRAB en GM.;;;BUILDING template;Knokkestraat;252;;;72249;226069
+KNOKKE-HEIST - FH12;2764407;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder10; ; ;;;BUILDING template;Noordhinder;10;;;71825,153;225545,227
+KNOKKE-HEIST - FH12;297348;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk3; ; ;;;BUILDING template;Krommedijk;3;;;72263,155;225562,158
+KNOKKE-HEIST - FH12;4334606;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat274; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;274;;;72315;226063
+KNOKKE-HEIST - FH12;2764408;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder12; ; ;;;BUILDING template;Noordhinder;12;;;71806,141;225554,735
+KNOKKE-HEIST - FH12;297349;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk7; ; ;;;BUILDING template;Krommedijk;7;;;72281,197;225597,716
+KNOKKE-HEIST - FH12;4334607;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat276; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;276;;;72319;226064
+KNOKKE-HEIST - FH12;2764410;1;0;0;1;SDU;;Y;NA;2;4;Noordhinder14; ; ;;;BUILDING template;Noordhinder;14;;;71784,188;225563,938
+KNOKKE-HEIST - FH12;297350;0;1;0;1;SDU;;Y;NA;2;4;Krommedijk32; ; ;;;BUILDING template;Krommedijk;32;;;72198,966;225690,611
+KNOKKE-HEIST - FH12;4334677;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat236; ;1 Unit in CRAB en GM.;;;BUILDING template;Pannenstraat;236;;;72046;225857
+KNOKKE-HEIST - FH12;2764820;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat155; ; ;;;BUILDING template;Pannenstraat;155;;;71825,756;225903,141
+KNOKKE-HEIST - FH12;297351;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat169; ; ;;;BUILDING template;Westkapellestraat;169;;;72035,712;225579,175
+KNOKKE-HEIST - FH12;4334751;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat330; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;330;;;72525;226071
+KNOKKE-HEIST - FH12;2764821;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat160; ; ;;;BUILDING template;Pannenstraat;160;;;71801,404;225890,101
+KNOKKE-HEIST - FH12;297352;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat171; ; ;;;BUILDING template;Westkapellestraat;171;;;72055,821;225545,655
+KNOKKE-HEIST - FH12;4335559;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat24; ;1 Unit in CRAB en GM.;;;BUILDING template;Laurierstraat;24;;;72377;225431
+KNOKKE-HEIST - FH12;2764822;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat162; ; ;;;BUILDING template;Pannenstraat;162;;;71807,242;225888,341
+KNOKKE-HEIST - FH12;297353;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat175; ; ;;;BUILDING template;Westkapellestraat;175;;;72098,923;225533,04
+KNOKKE-HEIST - FH12;4335560;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat26; ;enkel in GM.;;;BUILDING template;Laurierstraat;26;;;72395;225438
+KNOKKE-HEIST - FH12;2764823;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat163; ; ;;;BUILDING template;Pannenstraat;163;;;71852,706;225892,952
+KNOKKE-HEIST - FH12;297354;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat177; ; ;;;BUILDING template;Westkapellestraat;177;;;72156,639;225519,447
+KNOKKE-HEIST - FH12;4335561;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat28; ;1 Unit in CRAB en GM.;;;BUILDING template;Laurierstraat;28;;;72416;225444
+KNOKKE-HEIST - FH12;2764825;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat164; ; ;;;BUILDING template;Pannenstraat;164;;;71812,969;225885,031
+KNOKKE-HEIST - FH12;297356;1;0;0;1;SDU;;Y;NA;2;4;Walstraat4; ; ;;;BUILDING template;Walstraat;4;;;72060,518;225565,451
+KNOKKE-HEIST - FH12;4337700;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat6;Beschermd Erfgoed;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Emanuel Hielstraat;6;;;71969;225940
+KNOKKE-HEIST - FH12;2764826;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat165; ; ;;;BUILDING template;Pannenstraat;165;;;71859,469;225889,904
+KNOKKE-HEIST - FH12;297357;1;0;0;1;SDU;;Y;NA;2;4;Walstraat6; ; ;;;BUILDING template;Walstraat;6;;;72066,344;225583,174
+KNOKKE-HEIST - FH12;4337703;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat16;Beschermd Erfgoed;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Emanuel Hielstraat;16;;;71950;225959
+KNOKKE-HEIST - FH12;2764827;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat168; ; ;;;BUILDING template;Pannenstraat;168;;;71823,89;225880,368
+KNOKKE-HEIST - FH12;297358;1;0;0;1;SDU;;Y;NA;2;4;Walstraat5; ; ;;;BUILDING template;Walstraat;5;;;72059,661;225643,905
+KNOKKE-HEIST - FH12;4338509;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat134; ;1 Unit in CRAB en GM.;;;BUILDING template;Westkapellestraat;134;;;71824;225601
+KNOKKE-HEIST - FH12;2764828;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat169; ; ;;;BUILDING template;Pannenstraat;169;;;71868,202;225882,498
+KNOKKE-HEIST - FH12;297359;1;0;0;1;SDU;;Y;NA;2;4;Walstraat10; ; ;;;BUILDING template;Walstraat;10;;;72090,415;225617,964
+KNOKKE-HEIST - FH12;4338550;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat159; ;1 Unit in CRAB en GM.;;;BUILDING template;Westkapellestraat;159;;;71980;225563
+KNOKKE-HEIST - FH12;2764830;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat170; ; ;;;BUILDING template;Pannenstraat;170;;;71830,085;225879,215
+KNOKKE-HEIST - FH12;297360;1;0;0;1;SDU;;Y;NA;2;4;Walstraat3; ; ;;;BUILDING template;Walstraat;3;;;72076,338;225651,972
+KNOKKE-HEIST - FH12;4338551;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat161; ;1 Unit in CRAB en GM.;;;BUILDING template;Westkapellestraat;161;;;71986;225561
+KNOKKE-HEIST - FH12;2764831;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat172; ; ;;;BUILDING template;Pannenstraat;172;;;71836,175;225877,747
+KNOKKE-HEIST - FH12;297361;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat1; ; ;;;BUILDING template;Weibroekstraat;1;;;72105,816;225551,549
+KNOKKE-HEIST - FH12;4338553;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat163; ;1 Unit in CRAB en GM.;;;BUILDING template;Westkapellestraat;163;;;71991;225560
+KNOKKE-HEIST - FH12;2764832;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat173; ; ;;;BUILDING template;Pannenstraat;173;;;71896,289;225901,966
+KNOKKE-HEIST - FH12;297362;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat2; ; ;;;BUILDING template;Weibroekstraat;2;;;72135,944;225522,034
+KNOKKE-HEIST - FH12;5489835;1;0;0;1;SDU;;Y;NA;2;4;Walstraat17; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Walstraat;17;;;72025;225694
+KNOKKE-HEIST - FH12;2764833;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat174; ; ;;;BUILDING template;Pannenstraat;174;;;71843,035;225873,422
+KNOKKE-HEIST - FH12;299806;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat216; ; ;;;BUILDING template;Pannenstraat;216;;;71967,176;225827,211
+KNOKKE-HEIST - FH12;5489837;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat28;Bouwgrond;leeg perceel in Kadaster;;;BUILDING template;Weibroekstraat;28;;;72101;225716
+KNOKKE-HEIST - FH12;2764834;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat175; ; ;;;BUILDING template;Pannenstraat;175;;;71884,698;225872,113
+KNOKKE-HEIST - FH12;299807;0;1;0;1;SDU;;Y;NA;2;4;Pannenstraat152; ; ;;;BUILDING template;Pannenstraat;152;;;71779,005;225894,118
+KNOKKE-HEIST - FH12;5489838;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat19; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Weibroekstraat;19;;;72063;225708
+KNOKKE-HEIST - FH12;2764835;2;0;0;2;MDU;;Y;NA;4;4;Pannenstraat176; ; ;;;BUILDING template;Pannenstraat;176;;;71849,474;225869,864
+KNOKKE-HEIST - FH12;299808;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat156; ; ;;;BUILDING template;Pannenstraat;156;;;71790,198;225891,696
+KNOKKE-HEIST - FH12;5489839;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat17; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Weibroekstraat;17;;;72072;225695
+KNOKKE-HEIST - FH12;2764836;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat179; ; ;;;BUILDING template;Pannenstraat;179;;;71900,052;225866,167
+KNOKKE-HEIST - FH12;299809;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat180; ; ;;;BUILDING template;Pannenstraat;180;;;71861,45;225865,207
+KNOKKE-HEIST - FH12;5490480;1;0;0;1;SDU;;Y;NA;2;4;Walstraat9; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Walstraat;9;;;72041;225662
+KNOKKE-HEIST - FH12;2764838;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat181; ; ;;;BUILDING template;Pannenstraat;181;;;71905,451;225864,533
+KNOKKE-HEIST - FH12;299810;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat178; ; ;;;BUILDING template;Pannenstraat;178;;;71856,523;225867,477
+KNOKKE-HEIST - FH12;5490482;2;0;0;2;MDU;;Y;NA;2;4;Walstraat15; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Walstraat;15;;;72030;225689
+KNOKKE-HEIST - FH12;2764840;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat182; ; ;;;BUILDING template;Pannenstraat;182;;;71865,587;225862,211
+KNOKKE-HEIST - FH12;299834;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat1; ; ;;;BUILDING template;Hendrik Consciencestraat;1;;;71780,054;225887,63
+KNOKKE-HEIST - FH12;5544701;2;0;0;2;MDU;;Y;NA;2;4;Paasleliehof8; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Paasleliehof;8;;;72472;226029
+KNOKKE-HEIST - FH12;2764841;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat187; ; ;;;BUILDING template;Pannenstraat;187;;;71929,021;225858,852
+KNOKKE-HEIST - FH12;299853;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat145; ; ;;;BUILDING template;Pannenstraat;145;;;71792,748;225907,547
+KNOKKE-HEIST - FH12;5579229;2;0;0;2;MDU;;Y;NA;2;4;Paasleliehof2; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Paasleliehof;2;;;72464;225994
+KNOKKE-HEIST - FH12;2764843;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat188; ; ;;;BUILDING template;Pannenstraat;188;;;71878,854;225854,95
+KNOKKE-HEIST - FH12;299854;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat151; ; ;;;BUILDING template;Pannenstraat;151;;;71814,138;225908,2
+KNOKKE-HEIST - FH12;5579230;2;0;0;2;MDU;;Y;NA;2;4;Paasleliehof4; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Paasleliehof;4;;;72480;225998
+KNOKKE-HEIST - FH12;2764844;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat189; ; ;;;BUILDING template;Pannenstraat;189;;;71933,832;225854,919
+KNOKKE-HEIST - FH12;299855;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat153; ; ;;;BUILDING template;Pannenstraat;153;;;71821,164;225904,208
+KNOKKE-HEIST - FH12;6075466;1;0;0;1;SDU;;Y;NA;2;4;Walstraat29; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Walstraat;29;;;71966;225659
+KNOKKE-HEIST - FH12;2764845;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat190; ; ;;;BUILDING template;Pannenstraat;190;;;71883,935;225854,154
+KNOKKE-HEIST - FH12;299856;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat205; ; ;;;BUILDING template;Pannenstraat;205;;;71974,042;225848,46
+KNOKKE-HEIST - FH12;6075467;1;0;0;1;SDU;;Y;NA;2;4;Walstraat37; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Walstraat;37;;;71939;225659
+KNOKKE-HEIST - FH12;2764846;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat191; ; ;;;BUILDING template;Pannenstraat;191;;;71939,664;225853,202
+KNOKKE-HEIST - FH12;299857;2;0;0;2;MDU;;Y;NA;4;4;Peter Benoitlaan2; ;1 Unit in CRAB en GM.;;;BUILDING template;Peter Benoitlaan;2;;;72000,091;225989,452
+KNOKKE-HEIST - FH12;6075468;1;0;0;1;SDU;;Y;NA;2;4;Walstraat28; ;;;;BUILDING template;Walstraat;28;;;71965;225630
+KNOKKE-HEIST - FH12;2764847;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat192; ;;;;BUILDING template;Pannenstraat;192;;;71887,839;225851,349
+KNOKKE-HEIST - FH12;299859;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat2;Beschermd Erfgoed;;;;BUILDING template;Emanuel Hielstraat;2;;;71977,983;225926,785
+KNOKKE-HEIST - FH12;6148094;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat212A; ;;;;BUILDING template;Pannenstraat;212;A;;71931;225789
+KNOKKE-HEIST - FH12;2764848;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat193; ;;;;BUILDING template;Pannenstraat;193;;;71944,631;225852,157
+KNOKKE-HEIST - FH12;299860;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat17; ;;;;BUILDING template;Emanuel Hielstraat;17;;;71962,356;225900,879
+KNOKKE-HEIST - FH12;6170898;1;0;0;1;SDU;;Y;NA;2;4;Walstraat34; ;;;;BUILDING template;Walstraat;34;;;71940;225632
+KNOKKE-HEIST - FH12;2764849;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat194; ;;;;BUILDING template;Pannenstraat;194;;;71893,269;225849,457
+KNOKKE-HEIST - FH12;299861;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein15; ;;;;BUILDING template;Matrozenplein;15;;;71960,695;226081,999
+KNOKKE-HEIST - FH12;6205993;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof10; ;;;;BUILDING template;Paasleliehof;10;;;72445;226014
+KNOKKE-HEIST - FH12;2764851;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat195; ;;;;BUILDING template;Pannenstraat;195;;;71949,401;225851,001
+KNOKKE-HEIST - FH12;299862;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein19; ;;;;BUILDING template;Matrozenplein;19;;;71979,617;226079,888
+KNOKKE-HEIST - FH12;6338190;1;0;0;1;SDU;;Y;NA;2;4;Walstraat35; ;;;;BUILDING template;Walstraat;35;;;71946;225660
+KNOKKE-HEIST - FH12;2764853;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat199; ;;;;BUILDING template;Pannenstraat;199;;;71959,544;225847,576
+KNOKKE-HEIST - FH12;299863;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein3; ;;;;BUILDING template;Matrozenplein;3;;;71995,23;226056,149
+KNOKKE-HEIST - FH12;6347074;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat143; ;;;;BUILDING template;Westkapellestraat;143;;;71928;225581
+KNOKKE-HEIST - FH12;2764854;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat201; ;;;;BUILDING template;Pannenstraat;201;;;71964,467;225848,306
+KNOKKE-HEIST - FH12;299864;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein20; ;;;;BUILDING template;Matrozenplein;20;;;72009,724;226074,005
+KNOKKE-HEIST - FH12;6347075;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat145; ;;;;BUILDING template;Westkapellestraat;145;;;71933;225578
+KNOKKE-HEIST - FH12;2764856;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat203; ;;;;BUILDING template;Pannenstraat;203;;;71969,07;225848,476
+KNOKKE-HEIST - FH12;299865;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein25; ;;;;BUILDING template;Matrozenplein;25;;;72035,683;226071,424
+KNOKKE-HEIST - FH12;6347076;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat147; ;;;;BUILDING template;Westkapellestraat;147;;;71939;225575
+KNOKKE-HEIST - FH12;2764859;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat206; ;;;;BUILDING template;Pannenstraat;206;;;71926,565;225836,324
+KNOKKE-HEIST - FH12;299867;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan24; ;;;;BUILDING template;Peter Benoitlaan;24;;;71984,294;225924,938
+KNOKKE-HEIST - FH12;6382504;1;0;0;1;SDU;;Y;NA;2;4;Walstraat32; ;;;;BUILDING template;Walstraat;32;;;71947;225631
+KNOKKE-HEIST - FH12;2764861;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat208; ;;;;BUILDING template;Pannenstraat;208;;;71932,247;225834,916
+KNOKKE-HEIST - FH12;299870;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat77; ;;;;BUILDING template;Polderstraat;77;;;71791,895;225914,925
+KNOKKE-HEIST - FH12;6387164;1;0;0;1;SDU;;Y;NA;2;4;Walstraat33; ;;;;BUILDING template;Walstraat;33;;;71952;225660
+KNOKKE-HEIST - FH12;2764862;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat210; ;;;;BUILDING template;Pannenstraat;210;;;71938,68;225832,41
+KNOKKE-HEIST - FH12;299872;0;1;0;1;SDU;;Y;NA;2;4;Polderstraat79; ;;;;BUILDING template;Polderstraat;79;;;71785,961;225907,387
+KNOKKE-HEIST - FH12;6388047;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat139; ;;;;BUILDING template;Westkapellestraat;139;;;71915;225585
+KNOKKE-HEIST - FH12;2764864;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat212; ;;;;BUILDING template;Pannenstraat;212;;;71954,088;225829,158
+KNOKKE-HEIST - FH12;299875;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat41; ;;;;BUILDING template;Polderstraat;41;;;71853,933;226003,359
+KNOKKE-HEIST - FH12;6396133;1;0;0;1;SDU;;Y;NA;2;4;Walstraat30; ;;;;BUILDING template;Walstraat;30;;;71956;225630
+KNOKKE-HEIST - FH12;2764866;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat213; ;;;;BUILDING template;Pannenstraat;213;;;72017,052;225869,442
+KNOKKE-HEIST - FH12;299876;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat37; ;;;;BUILDING template;Polderstraat;37;;;71866,674;226018,448
+KNOKKE-HEIST - FH12;6402637;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat24;Bouwgrond;;;;BUILDING template;Emanuel Hielstraat;24;;;71903;225998
+KNOKKE-HEIST - FH12;2764867;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat214; ;;;;BUILDING template;Pannenstraat;214;;;71960,512;225827,669
+KNOKKE-HEIST - FH12;299878;3;0;0;3;MDU;;Y;NA;4;4;Polderstraat3; ;2 Units in CRAB, 1 bus in GM.;;;BUILDING template;Polderstraat;3;;;71920,118;226090,949
+KNOKKE-HEIST - FH12;6405276;1;0;0;1;SDU;;Y;NA;2;4;Walstraat31; ;;;;BUILDING template;Walstraat;31;;;71960;225659
+KNOKKE-HEIST - FH12;2764868;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat215; ;;;;BUILDING template;Pannenstraat;215;;;72022,334;225871,271
+KNOKKE-HEIST - FH12;299879;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat33; ;;;;BUILDING template;Zuidstraat;33;;;71924,559;225995,408
+KNOKKE-HEIST - FH12;6406030;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat1; ;;;;BUILDING template;Heestersstraat;1;;;72240;225487
+KNOKKE-HEIST - FH12;2764869;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat217; ;;;;BUILDING template;Pannenstraat;217;;;72019,63;225886,679
+KNOKKE-HEIST - FH12;299880;2;0;0;2;MDU;;Y;NA;4;4;Zuidstraat35; ;;;;BUILDING template;Zuidstraat;35;;;71921,004;225990,623
+KNOKKE-HEIST - FH12;6406152;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat141; ;;;;BUILDING template;Westkapellestraat;141;;;71922;225583
+KNOKKE-HEIST - FH12;2764870;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat219; ;;;;BUILDING template;Pannenstraat;219;;;72032,606;225880,934
+KNOKKE-HEIST - FH12;299882;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat31; ;;;;BUILDING template;Zuidstraat;31;;;71916,069;226016,156
+KNOKKE-HEIST - FH12;6423427;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat37A; ;;;;BUILDING template;Emanuel Hielstraat;37;A;;71911;225953
+KNOKKE-HEIST - FH12;2764871;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat221; ;;;;BUILDING template;Pannenstraat;221;;;72037,303;225881,79
+KNOKKE-HEIST - FH12;299883;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat22; ;;;;BUILDING template;Zuidstraat;22;;;71948,141;225986,827
+KNOKKE-HEIST - FH12;6471267;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat292; ;;;;BUILDING template;Knokkestraat;292;;;72411;226056
+KNOKKE-HEIST - FH12;2764872;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat222; ;;;;BUILDING template;Pannenstraat;222;;;72000,203;225827,307
+KNOKKE-HEIST - FH12;299885;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat29; ;;;;BUILDING template;Zuidstraat;29;;;71920,84;226018,869
+KNOKKE-HEIST - FH12;6492878;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof9; ;;;;BUILDING template;Paasleliehof;9;;;72458;226024
+KNOKKE-HEIST - FH12;2764874;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat223; ;;;;BUILDING template;Pannenstraat;223;;;72041,511;225885,221
+KNOKKE-HEIST - FH12;299886;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat28; ;;;;BUILDING template;Emanuel Hielstraat;28;;;71885,352;226007,429
+KNOKKE-HEIST - FH12;6524204;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk77; ;;;;BUILDING template;Krommedijk;77;;;72442;226049
+KNOKKE-HEIST - FH12;2764876;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat225; ;;;;BUILDING template;Pannenstraat;225;;;72047,596;225886,327
+KNOKKE-HEIST - FH12;299887;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat26; ;;;;BUILDING template;Emanuel Hielstraat;26;;;71897,15;226004,473
+KNOKKE-HEIST - FH12;6524208;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat154; ;;;;BUILDING template;Pannenstraat;154;;;71781;225893
+KNOKKE-HEIST - FH12;2764878;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat226; ;;;;BUILDING template;Pannenstraat;226;;;72010,912;225836,811
+KNOKKE-HEIST - FH12;299888;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat45; ;;;;BUILDING template;Emanuel Hielstraat;45;;;71898,626;225969,224
+KNOKKE-HEIST - FH12;6525311;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan22; ;;;;BUILDING template;Peter Benoitlaan;22;;;71988;225937
+KNOKKE-HEIST - FH12;2764879;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat227; ;;;;BUILDING template;Pannenstraat;227;;;72053,648;225888,423
+KNOKKE-HEIST - FH12;299889;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat22; ;;;;BUILDING template;Emanuel Hielstraat;22;;;71909,869;225994,587
+KNOKKE-HEIST - FH12;6627141;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk1A; ;;;;BUILDING template;Krommedijk;1;A;;72237;225528
+KNOKKE-HEIST - FH12;2764881;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat230; ;;;;BUILDING template;Pannenstraat;230;;;72021,793;225845,103
+KNOKKE-HEIST - FH12;299890;2;0;0;2;MDU;;Y;NA;4;4;Emanuel Hielstraat18;Beschermd Erfgoed;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Emanuel Hielstraat;18;;;71941,697;225969,902
+KNOKKE-HEIST - FH12;6670527;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk62;Bouwgrond;;;;BUILDING template;Krommedijk;62;;;72424;225988
+KNOKKE-HEIST - FH12;2764882;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat231; ;;;;BUILDING template;Pannenstraat;231;;;72061,218;225897,23
+KNOKKE-HEIST - FH12;299891;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat19; ;;;;BUILDING template;Zuidstraat;19;;;71950,164;226044,099
+KNOKKE-HEIST - FH12;6670528;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk70A; ;;;;BUILDING template;Krommedijk;70;A;;72416;226031
+KNOKKE-HEIST - FH12;2764883;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat233; ;;;;BUILDING template;Pannenstraat;233;;;72066,113;225899,731
+KNOKKE-HEIST - FH12;299892;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat2; ;;;;BUILDING template;Zuidstraat;2;;;71982,086;226001,454
+KNOKKE-HEIST - FH12;6670529;1;0;0;1;SDU;;Y;NA;2;4;Breed Veertien3;Bouwgrond;;;;BUILDING template;Breed Veertien;3;;;71980;225489
+KNOKKE-HEIST - FH12;2764885;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat234; ;;;;BUILDING template;Pannenstraat;234;;;72036,488;225855,11
+KNOKKE-HEIST - FH12;299893;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat1; ;;;;BUILDING template;Zuidstraat;1;;;71995,521;226023,421
+KNOKKE-HEIST - FH12;9869;1;1;0;2;MDU;;Y;NA;2;4;Westkapellestraat180; ;;;;BUILDING template;Westkapellestraat;180;;;72009;225527
+KNOKKE-HEIST - FH12;2764886;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat235; ;;;;BUILDING template;Pannenstraat;235;;;72070,659;225903,022
+KNOKKE-HEIST - FH12;299896;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat176; ;;;;BUILDING template;Knokkestraat;176;;;71980,842;226098,477
+KNOKKE-HEIST - FH12;2764887;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat239; ;;;;BUILDING template;Pannenstraat;239;;;72081,275;225910,078
+KNOKKE-HEIST - FH12;299897;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat178; ;;;;BUILDING template;Knokkestraat;178;;;71998,075;226093,801
+KNOKKE-HEIST - FH12;1299779;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat27; ;;;;BUILDING template;Zuidstraat;27;;;71924,67;226023,606
+KNOKKE-HEIST - FH12;2764889;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat241; ;;;;BUILDING template;Pannenstraat;241;;;72086,021;225913,122
+KNOKKE-HEIST - FH12;300723;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat5; ;;;;BUILDING template;Zonnebloemstraat;5;;;72611,528;225648,86
+KNOKKE-HEIST - FH12;1347237;1;0;0;1;SDU;;Y;NA;2;4;Oostenhem28; ;;;;BUILDING template;Oostenhem;28;;;72000,728;225453,429
+KNOKKE-HEIST - FH12;2764890;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat242; ;;;;BUILDING template;Pannenstraat;242;;;72057,186;225864,628
+KNOKKE-HEIST - FH12;300729;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat29; ;;;;BUILDING template;Zonnebloemstraat;29;;;72591,212;225732,729
+KNOKKE-HEIST - FH12;1441406;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat19; ;;;;BUILDING template;Emanuel Hielstraat;19;;;71959,439;225907,469
+KNOKKE-HEIST - FH12;2764892;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat243; ;;;;BUILDING template;Pannenstraat;243;;;72091,768;225915,653
+KNOKKE-HEIST - FH12;300745;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat25; ;;;;BUILDING template;Hulststraat;25;;;72645,046;225497,099
+KNOKKE-HEIST - FH12;1448711;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof6; ;;;;BUILDING template;Pinksterbloemhof;6;;;72514,785;225955,656
+KNOKKE-HEIST - FH12;2764894;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat245; ;2 Unit in CRAB, 3 bussen in GM.;;;BUILDING template;Pannenstraat;245;;;72098,036;225916,951
+KNOKKE-HEIST - FH12;300746;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat21; ;;;;BUILDING template;Hulststraat;21;;;72599,216;225478,636
+KNOKKE-HEIST - FH12;1449134;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat10; ;;;;BUILDING template;Laurierstraat;10;;;72313,063;225445,214
+KNOKKE-HEIST - FH12;2764896;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat246; ;;;;BUILDING template;Pannenstraat;246;;;72071,857;225873,168
+KNOKKE-HEIST - FH12;300747;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat26; ;;;;BUILDING template;Hulststraat;26;;;72590,1;225444,548
+KNOKKE-HEIST - FH12;1449304;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat65; ;;;;BUILDING template;Hendrik Consciencestraat;65;;;71770,502;225698,92
+KNOKKE-HEIST - FH12;2764897;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat247; ;;;;BUILDING template;Pannenstraat;247;;;72103,683;225922,032
+KNOKKE-HEIST - FH12;300748;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat13; ;;;;BUILDING template;Hulststraat;13;;;72449,67;225421,762
+KNOKKE-HEIST - FH12;1449722;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat37; ;;;;BUILDING template;Hendrik Consciencestraat;37;;;71774,819;225784,064
+KNOKKE-HEIST - FH12;2764898;4;0;0;4;MDU;;Y;NA;4;4;Pannenstraat249; ;;;;BUILDING template;Pannenstraat;249;;;72110,659;225925,695
+KNOKKE-HEIST - FH12;300749;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat34; ;;;;BUILDING template;Heestersstraat;34;;;72557,324;225531,916
+KNOKKE-HEIST - FH12;1459948;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof13; ;;;;BUILDING template;Pinksterbloemhof;13;;;72546,049;225952,715
+KNOKKE-HEIST - FH12;2764899;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat250; ;;;;BUILDING template;Pannenstraat;250;;;72078,207;225881,105
+KNOKKE-HEIST - FH12;300750;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat38; ;;;;BUILDING template;Heestersstraat;38;;;72603,438;225547,263
+KNOKKE-HEIST - FH12;1460912;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat55; ;;;;BUILDING template;Hendrik Consciencestraat;55;;;71771,819;225725,691
+KNOKKE-HEIST - FH12;2764901;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat252; ;;;;BUILDING template;Pannenstraat;252;;;72083,247;225882,85
+KNOKKE-HEIST - FH12;300751;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat42; ;;;;BUILDING template;Laurierstraat;42;;;72475,308;225528,752
+KNOKKE-HEIST - FH12;1461104;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat9; ;;;;BUILDING template;Polderstraat;9;;;71908,239;226076,543
+KNOKKE-HEIST - FH12;2764903;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat257; ;;;;BUILDING template;Pannenstraat;257;;;72130,072;225935,147
+KNOKKE-HEIST - FH12;300752;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat34; ;;;;BUILDING template;Laurierstraat;34;;;72500,471;225446,518
+KNOKKE-HEIST - FH12;1461579;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat41; ;;;;BUILDING template;Emanuel Hielstraat;41;;;71909,1;225962,028
+KNOKKE-HEIST - FH12;2764904;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat258; ;;;;BUILDING template;Pannenstraat;258;;;72102,709;225889,238
+KNOKKE-HEIST - FH12;300753;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat13; ;;;;BUILDING template;Laurierstraat;13;;;72446,604;225525,314
+KNOKKE-HEIST - FH12;1463191;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat17; ;;;;BUILDING template;Zuidstraat;17;;;71954,667;226042,491
+KNOKKE-HEIST - FH12;2764906;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat260; ;;;;BUILDING template;Pannenstraat;260;;;72114,285;225893,284
+KNOKKE-HEIST - FH12;300754;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat32; ;;;;BUILDING template;Laurierstraat;32;;;72470,042;225432,01
+KNOKKE-HEIST - FH12;1467954;2;0;0;2;MDU;;Y;NA;4;4;Pannenstraat290; ;;;;BUILDING template;Pannenstraat;290;;;72373,411;226031,187
+KNOKKE-HEIST - FH12;2764907;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat264; ;;;;BUILDING template;Pannenstraat;264;;;72118,568;225899,61
+KNOKKE-HEIST - FH12;300755;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat18; ;;;;BUILDING template;Laurierstraat;18;;;72324,626;225404,871
+KNOKKE-HEIST - FH12;1468910;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk65; ;;;;BUILDING template;Krommedijk;65;;;72481,598;225911,016
+KNOKKE-HEIST - FH12;2764908;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat273; ;;;;BUILDING template;Pannenstraat;273;;;72122,886;225957,22
+KNOKKE-HEIST - FH12;300756;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat22; ;;;;BUILDING template;Laurierstraat;22;;;72357,752;225422,848
+KNOKKE-HEIST - FH12;1468911;0;1;0;1;SDU;;Y;NA;2;4;Knokkestraat298; ;;;;BUILDING template;Knokkestraat;298;;;72441,86;226050,963
+KNOKKE-HEIST - FH12;2764910;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat275; ;;;;BUILDING template;Pannenstraat;275;;;72126,584;225960,416
+KNOKKE-HEIST - FH12;300757;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat30; ;;;;BUILDING template;Laurierstraat;30;;;72446,846;225453,19
+KNOKKE-HEIST - FH12;1475681;2;0;0;2;MDU;;Y;NA;4;4;Emanuel Hielstraat14;Beschermd Erfgoed;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Emanuel Hielstraat;14;;;71952,718;225959,351
+KNOKKE-HEIST - FH12;2764911;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat277; ;;;;BUILDING template;Pannenstraat;277;;;72145,908;225946,15
+KNOKKE-HEIST - FH12;300758;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat9; ;;;;BUILDING template;Laurierstraat;9;;;72449,404;225485,329
+KNOKKE-HEIST - FH12;1475682;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat12;Beschermd Erfgoed;;;;BUILDING template;Emanuel Hielstraat;12;;;71958,108;225954,369
+KNOKKE-HEIST - FH12;2764912;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat278; ;;;;BUILDING template;Pannenstraat;278;;;72150,498;225913,388
+KNOKKE-HEIST - FH12;300759;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat3;Beschermd Erfgoed;;;;BUILDING template;Laurierstraat;3;;;72367,147;225466,093
+KNOKKE-HEIST - FH12;1475709;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat10; ;;;;BUILDING template;Zuidstraat;10;;;71963,531;226009,866
+KNOKKE-HEIST - FH12;2764913;2;0;0;2;MDU;;Y;NA;4;4;Pannenstraat281; ;;;;BUILDING template;Pannenstraat;281;;;72159,929;225950,607
+KNOKKE-HEIST - FH12;300760;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat6; ;;;;BUILDING template;Laurierstraat;6;;;72337,833;225455,797
+KNOKKE-HEIST - FH12;1475710;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat12; ;;;;BUILDING template;Zuidstraat;12;;;71958,539;226011,88
+KNOKKE-HEIST - FH12;2764914;6;0;0;6;MDU;;Y;NA;4;4;Pannenstraat283; ;;;;BUILDING template;Pannenstraat;283;;;72168,745;225955,809
+KNOKKE-HEIST - FH12;300761;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat14; ;;;;BUILDING template;Laurierstraat;14;;;72294,64;225431,742
+KNOKKE-HEIST - FH12;1476265;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat167; ;;;;BUILDING template;Pannenstraat;167;;;71862,727;225885,291
+KNOKKE-HEIST - FH12;2764916;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat285; ;1 Unit in CRAB, 3 bussen in GM.;;;BUILDING template;Pannenstraat;285;;;72178,175;225956,958
+KNOKKE-HEIST - FH12;300762;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat26; ;;;;BUILDING template;Heestersstraat;26;;;72403,472;225504,471
+KNOKKE-HEIST - FH12;1494374;5;0;0;5;MDU;;Y;NA;4;4;Emanuel Hielstraat1; ;;;;BUILDING template;Emanuel Hielstraat;1;;;71979,168;225856,337
+KNOKKE-HEIST - FH12;2764919;7;0;0;7;MDU;;Y;NA;4;4;Pannenstraat289; ;;;;BUILDING template;Pannenstraat;289;;;72185,772;225992,333
+KNOKKE-HEIST - FH12;300763;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat24; ;;;;BUILDING template;Heestersstraat;24;;;72384,322;225497,325
+KNOKKE-HEIST - FH12;1497556;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat6; ;;;;BUILDING template;Zuidstraat;6;;;71972,9;226005,92
+KNOKKE-HEIST - FH12;2764922;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat293; ;;;;BUILDING template;Pannenstraat;293;;;72195,112;225985,329
+KNOKKE-HEIST - FH12;300764;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat18; ;;;;BUILDING template;Heestersstraat;18;;;72330,537;225482,322
+KNOKKE-HEIST - FH12;1497764;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat7; ;;;;BUILDING template;Hendrik Consciencestraat;7;;;71781,431;225870,416
+KNOKKE-HEIST - FH12;2764923;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat294; ;;;;BUILDING template;Pannenstraat;294;;;72378,177;226036,49
+KNOKKE-HEIST - FH12;300765;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat2; ;;;;BUILDING template;Heestersstraat;2;;;72234,236;225454,616
+KNOKKE-HEIST - FH12;2312;34;1;0;35;MDU;;Y;NA;4;4;Krommedijk57; ;41 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Krommedijk;57;;;72494,522;225807,148
+KNOKKE-HEIST - FH12;2764925;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat295; ;;;;BUILDING template;Pannenstraat;295;;;72208,537;225969,213
+KNOKKE-HEIST - FH12;300766;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat32; ;;;;BUILDING template;Heestersstraat;32;;;72498,818;225533,149
+KNOKKE-HEIST - FH12;2756563;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof2; ;;;;BUILDING template;Pinksterbloemhof;2;;;72510,889;225929,688
+KNOKKE-HEIST - FH12;2764926;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat296; ;;;;BUILDING template;Pannenstraat;296;;;72385,129;226045,726
+KNOKKE-HEIST - FH12;300768;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat8; ;;;;BUILDING template;Varenstraat;8;;;72586,08;225520,487
+KNOKKE-HEIST - FH12;2756564;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof9; ;;;;BUILDING template;Pinksterbloemhof;9;;;72531,42;225978,039
+KNOKKE-HEIST - FH12;2764928;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat297; ;;;;BUILDING template;Pannenstraat;297;;;72217,463;225973,532
+KNOKKE-HEIST - FH12;300769;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat2; ;;;;BUILDING template;Varenstraat;2;;;72575,974;225476,167
+KNOKKE-HEIST - FH12;2756565;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof10; ;;;;BUILDING template;Pinksterbloemhof;10;;;72533,479;225972,333
+KNOKKE-HEIST - FH12;2764930;2;0;0;2;MDU;;Y;NA;4;4;Pannenstraat299; ;;;;BUILDING template;Pannenstraat;299;;;72226,415;225977,262
+KNOKKE-HEIST - FH12;300770;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat11; ;;;;BUILDING template;Varenstraat;11;;;72505,32;225510,3
+KNOKKE-HEIST - FH12;2756566;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof11; ;;;;BUILDING template;Pinksterbloemhof;11;;;72539,811;225962,722
+KNOKKE-HEIST - FH12;2764931;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat301; ;;;;BUILDING template;Pannenstraat;301;;;72236,665;225979,648
+KNOKKE-HEIST - FH12;300771;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat3; ;;;;BUILDING template;Varenstraat;3;;;72516,68;225473,162
+KNOKKE-HEIST - FH12;2756567;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof16; ;;;;BUILDING template;Pinksterbloemhof;16;;;72551,486;225924,205
+KNOKKE-HEIST - FH12;2764932;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat303; ;;;;BUILDING template;Pannenstraat;303;;;72242,445;225982,9
+KNOKKE-HEIST - FH12;300772;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat13; ;;;;BUILDING template;Varenstraat;13;;;72522,71;225541,673
+KNOKKE-HEIST - FH12;2756569;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof25; ;;;;BUILDING template;Pinksterbloemhof;25;;;72567,988;225968,649
+KNOKKE-HEIST - FH12;2764934;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat305; ;;;;BUILDING template;Pannenstraat;305;;;72238,435;226005,421
+KNOKKE-HEIST - FH12;300778;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat205; ;;;;BUILDING template;Westkapellestraat;205;;;72287,749;225359,235
+KNOKKE-HEIST - FH12;2756570;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof32; ;;;;BUILDING template;Pinksterbloemhof;32;;;72603,606;225938,104
+KNOKKE-HEIST - FH12;2764935;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat307; ;;;;BUILDING template;Pannenstraat;307;;;72250,426;225991,661
+KNOKKE-HEIST - FH12;300779;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat187; ;;;;BUILDING template;Westkapellestraat;187;;;72238,473;225440,241
+KNOKKE-HEIST - FH12;2757252;1;0;0;1;SDU;;Y;NA;2;4;Logenhoek22; ;;;;BUILDING template;Logenhoek;22;;;72640,544;226019,342
+KNOKKE-HEIST - FH12;2764936;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat309; ;;;;BUILDING template;Pannenstraat;309;;;72255,958;225993,296
+KNOKKE-HEIST - FH12;300780;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat210; ;;;;BUILDING template;Westkapellestraat;210;;;72211,871;225404,771
+KNOKKE-HEIST - FH12;2757379;1;0;0;1;SDU;;Y;NA;2;4;Oostenhem20; ;;;;BUILDING template;Oostenhem;20;;;72025,78;225385,23
+KNOKKE-HEIST - FH12;2764937;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat311; ;;;;BUILDING template;Pannenstraat;311;;;72262,925;225992,84
+KNOKKE-HEIST - FH12;300781;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat220; ;2 Units in CRAB, onduidelijk in GM.;;;BUILDING template;Westkapellestraat;220;;;72254,823;225238,807
+KNOKKE-HEIST - FH12;2757380;1;0;0;1;SDU;;Y;NA;2;4;Oostenhem22; ;;;;BUILDING template;Oostenhem;22;;;72020,277;225402,101
+KNOKKE-HEIST - FH12;2764938;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat313; ;2 Units in CRAB en GM.;;;BUILDING template;Pannenstraat;313;;;72267,64;225997,71
+KNOKKE-HEIST - FH12;300782;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat231; ;;;;BUILDING template;Westkapellestraat;231;;;72328,834;225284,253
+KNOKKE-HEIST - FH12;2757381;1;0;0;1;SDU;;Y;NA;2;4;Oostenhem26; ;;;;BUILDING template;Oostenhem;26;;;71999,75;225431,023
+KNOKKE-HEIST - FH12;2764939;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat315; ;;;;BUILDING template;Pannenstraat;315;;;72275,568;225995,506
+KNOKKE-HEIST - FH12;300796;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat1; ;;;;BUILDING template;Zonnebloemstraat;1;;;72618,416;225606,68
+KNOKKE-HEIST - FH12;2757404;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat3; ;;;;BUILDING template;Zonnebloemstraat;3;;;72617,788;225626,682
+KNOKKE-HEIST - FH12;2764941;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat317; ;;;;BUILDING template;Pannenstraat;317;;;72280,257;225999,146
+KNOKKE-HEIST - FH12;300797;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat7; ;;;;BUILDING template;Zonnebloemstraat;7;;;72604,641;225670,559
+KNOKKE-HEIST - FH12;2758037;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan1; ;;;;BUILDING template;Peter Benoitlaan;1;;;72064,764;226067,543
+KNOKKE-HEIST - FH12;2764943;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat319; ;;;;BUILDING template;Pannenstraat;319;;;72284,58;226001,709
+KNOKKE-HEIST - FH12;300798;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat11; ;;;;BUILDING template;Zonnebloemstraat;11;;;72595,387;225711,429
+KNOKKE-HEIST - FH12;2758038;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan6; ;;;;BUILDING template;Peter Benoitlaan;6;;;71998,339;225982,32
+KNOKKE-HEIST - FH12;2764944;5;0;0;5;MDU;;Y;NA;4;4;Pannenstraat323; ;;;;BUILDING template;Pannenstraat;323;;;72299,314;226008,659
+KNOKKE-HEIST - FH12;300804;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat31; ;;;;BUILDING template;Hulststraat;31;;;72609,189;225527,088
+KNOKKE-HEIST - FH12;2758039;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan8; ;;;;BUILDING template;Peter Benoitlaan;8;;;71996,955;225976,756
+KNOKKE-HEIST - FH12;2764946;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat325; ;;;;BUILDING template;Pannenstraat;325;;;72306,325;226010,162
+KNOKKE-HEIST - FH12;300805;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat29; ;;;;BUILDING template;Hulststraat;29;;;72634,846;225521,868
+KNOKKE-HEIST - FH12;2758040;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan10; ;;;;BUILDING template;Peter Benoitlaan;10;;;71994,993;225969,89
+KNOKKE-HEIST - FH12;2764947;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat327; ;;;;BUILDING template;Pannenstraat;327;;;72311,648;226012,184
+KNOKKE-HEIST - FH12;302539;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat164; ;5 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;164;;;71941,855;226096,864
+KNOKKE-HEIST - FH12;2758041;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan11; ;;;;BUILDING template;Peter Benoitlaan;11;;;72042,323;226048,892
+KNOKKE-HEIST - FH12;2764949;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat331; ;;;;BUILDING template;Pannenstraat;331;;;72322,253;226014,802
+KNOKKE-HEIST - FH12;302541;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat166; ;3 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;166;;;71947,751;226096,238
+KNOKKE-HEIST - FH12;2758042;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan12; ;;;;BUILDING template;Peter Benoitlaan;12;;;71993,524;225964,117
+KNOKKE-HEIST - FH12;2764950;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat333; ;;;;BUILDING template;Pannenstraat;333;;;72327,231;226017,485
+KNOKKE-HEIST - FH12;3939535;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat15; ;;;;BUILDING template;Hendrik Consciencestraat;15;;;71799,102;225845,07
+KNOKKE-HEIST - FH12;2758043;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan14; ;;;;BUILDING template;Peter Benoitlaan;14;;;71992,064;225958,317
+KNOKKE-HEIST - FH12;2764951;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat337; ;;;;BUILDING template;Pannenstraat;337;;;72338,441;226026,373
+KNOKKE-HEIST - FH12;3939583;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat172;Beschermd Erfgoed;;;;BUILDING template;Knokkestraat;172;;;71971,345;226097,415
+KNOKKE-HEIST - FH12;2758044;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan16; ;;;;BUILDING template;Peter Benoitlaan;16;;;71990,629;225952,534
+KNOKKE-HEIST - FH12;2764952;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat339; ;;;;BUILDING template;Pannenstraat;339;;;72342,656;226030,63
+KNOKKE-HEIST - FH12;3939584;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat300; ;niet in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;300;;;72454,913;226051,348
+KNOKKE-HEIST - FH12;2758045;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan18; ;;;;BUILDING template;Peter Benoitlaan;18;;;71987,358;225946,962
+KNOKKE-HEIST - FH12;2764954;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat341; ;;;;BUILDING template;Pannenstraat;341;;;72346,585;226034,093
+KNOKKE-HEIST - FH12;3939589;40;0;0;40;MDU;;Y;NA;4;4;Krommedijk47; ;;;;BUILDING template;Krommedijk;47;;;72563,415;225665,98
+KNOKKE-HEIST - FH12;2758048;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan29; ;;;;BUILDING template;Peter Benoitlaan;29;;;72034,518;225984,236
+KNOKKE-HEIST - FH12;2764955;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat343; ;;;;BUILDING template;Pannenstraat;343;;;72348,909;226038,56
+KNOKKE-HEIST - FH12;3984037;0;1;0;1;SDU;;Y;NA;2;4;Westkapellestraat178; ;;;;BUILDING template;Westkapellestraat;178;;;71951,913;225546,584
+KNOKKE-HEIST - FH12;2758049;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan31; ;;;;BUILDING template;Peter Benoitlaan;31;;;72031,697;225978,522
+KNOKKE-HEIST - FH12;2764957;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat349; ;;;;BUILDING template;Pannenstraat;349;;;72357,479;226054,48
+KNOKKE-HEIST - FH12;3990583;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat190; ;;;;BUILDING template;Knokkestraat;190;;;72029,56;226090,77
+KNOKKE-HEIST - FH12;2758050;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan33; ;;;;BUILDING template;Peter Benoitlaan;33;;;72032,151;225971,472
+KNOKKE-HEIST - FH12;2765383;1;0;0;1;SDU;;Y;NA;2;4;Pastuurdijk1; ;;;;BUILDING template;Pastuurdijk;1;;;72570,988;226129,212
+KNOKKE-HEIST - FH12;4025646;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat6; ;;;;BUILDING template;Varenstraat;6;;;72567,886;225502,942
+KNOKKE-HEIST - FH12;2758051;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan35; ;;;;BUILDING template;Peter Benoitlaan;35;;;72030,008;225965,666
+KNOKKE-HEIST - FH12;2765626;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat1; ;;;;BUILDING template;Polderstraat;1;;;71923,455;226098,226
+KNOKKE-HEIST - FH12;4030959;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat201; ;;;;BUILDING template;Westkapellestraat;201;;;72276,963;225379,105
+KNOKKE-HEIST - FH12;2758052;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan37; ;;;;BUILDING template;Peter Benoitlaan;37;;;72028,41;225959,6
+KNOKKE-HEIST - FH12;2765629;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat5; ;;;;BUILDING template;Polderstraat;5;;;71916,724;226085,714
+KNOKKE-HEIST - FH12;4035024;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat25; ;;;;BUILDING template;Emanuel Hielstraat;25;;;71945,616;225920,733
+KNOKKE-HEIST - FH12;2758053;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan39; ;;;;BUILDING template;Peter Benoitlaan;39;;;72025,594;225953,732
+KNOKKE-HEIST - FH12;2765631;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat7; ;;;;BUILDING template;Polderstraat;7;;;71912,427;226080,759
+KNOKKE-HEIST - FH12;4040659;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof36; ;;;;BUILDING template;Pinksterbloemhof;36;;;72585,634;225928,803
+KNOKKE-HEIST - FH12;2758054;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan41; ;;;;BUILDING template;Peter Benoitlaan;41;;;72025,553;225947,706
+KNOKKE-HEIST - FH12;2765636;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat11; ;;;;BUILDING template;Polderstraat;11;;;71906,579;226071,181
+KNOKKE-HEIST - FH12;4053276;1;0;0;1;SDU;;Y;NA;2;4;Zonnebloemstraat9; ;;;;BUILDING template;Zonnebloemstraat;9;;;72599,938;225688,726
+KNOKKE-HEIST - FH12;2758055;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan41B; ;;;;BUILDING template;Peter Benoitlaan;41;B;;72018,463;225935,156
+KNOKKE-HEIST - FH12;2765637;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat15; ;;;;BUILDING template;Polderstraat;15;;;71898,069;226064,167
+KNOKKE-HEIST - FH12;4055279;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat136; ;;;;BUILDING template;Westkapellestraat;136;;;71828,85;225598,696
+KNOKKE-HEIST - FH12;2758057;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan51; ;;;;BUILDING template;Peter Benoitlaan;51;;;72012,71;225906,546
+KNOKKE-HEIST - FH12;2765640;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat17; ;;;;BUILDING template;Polderstraat;17;;;71895,463;226058,998
+KNOKKE-HEIST - FH12;4057199;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof28; ;;;;BUILDING template;Pinksterbloemhof;28;;;72591,589;225965,947
+KNOKKE-HEIST - FH12;2758058;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan53; ;;;;BUILDING template;Peter Benoitlaan;53;;;72010,747;225900,961
+KNOKKE-HEIST - FH12;2765641;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat19; ;;;;BUILDING template;Polderstraat;19;;;71891,957;226054,68
+KNOKKE-HEIST - FH12;4057945;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat324; ;;;;BUILDING template;Knokkestraat;324;;;72515,036;226069,405
+KNOKKE-HEIST - FH12;2758645;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat3; ;;;;BUILDING template;Hendrik Consciencestraat;3;;;71779,602;225881,904
+KNOKKE-HEIST - FH12;2765644;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat21; ;;;;BUILDING template;Polderstraat;21;;;71889,064;226050,821
+KNOKKE-HEIST - FH12;4060428;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat7; ;;;;BUILDING template;Varenstraat;7;;;72511,92;225492,449
+KNOKKE-HEIST - FH12;2758646;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat5; ;;;;BUILDING template;Hendrik Consciencestraat;5;;;71778,417;225876,919
+KNOKKE-HEIST - FH12;2765647;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat25; ;;;;BUILDING template;Polderstraat;25;;;71882,68;226042,234
+KNOKKE-HEIST - FH12;4075951;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat53; ;;;;BUILDING template;Polderstraat;53;;;71836,198;225969,965
+KNOKKE-HEIST - FH12;2758648;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat13; ;;;;BUILDING template;Hendrik Consciencestraat;13;;;71776,034;225853,468
+KNOKKE-HEIST - FH12;2765650;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat27; ;;;;BUILDING template;Polderstraat;27;;;71879,261;226037,729
+KNOKKE-HEIST - FH12;4101202;5;0;0;5;MDU;;Y;NA;4;4;Krommedijk50; ;3 Units in CRAB,  aantal onduidelijk in GM.;;;BUILDING template;Krommedijk;50;;;72442,532;225942,457
+KNOKKE-HEIST - FH12;2758650;3;0;0;3;MDU;;Y;NA;4;4;Hendrik Consciencestraat17; ;;;;BUILDING template;Hendrik Consciencestraat;17;;;71776,756;225847,124
+KNOKKE-HEIST - FH12;2765652;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat29; ;;;;BUILDING template;Polderstraat;29;;;71876,8;226033,776
+KNOKKE-HEIST - FH12;4102029;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof31; ;;;;BUILDING template;Pinksterbloemhof;31;;;72601,3;225944,843
+KNOKKE-HEIST - FH12;2758651;0;1;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat19; ;;;;BUILDING template;Hendrik Consciencestraat;19;;;71777,764;225839,89
+KNOKKE-HEIST - FH12;2765655;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat33; ;;;;BUILDING template;Polderstraat;33;;;71870,703;226026,196
+KNOKKE-HEIST - FH12;4141759;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat244; ;2 Units in CRAB, 3 in GM.;;;BUILDING template;Knokkestraat;244;;;72225,147;226069,461
+KNOKKE-HEIST - FH12;2758655;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat23; ;;;;BUILDING template;Hendrik Consciencestraat;23;;;71776,758;225827,268
+KNOKKE-HEIST - FH12;2765657;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat35; ;;;;BUILDING template;Polderstraat;35;;;71868,35;226023,261
+KNOKKE-HEIST - FH12;4143585;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk60; ;;;;BUILDING template;Krommedijk;60;;;72426,837;225980,787
+KNOKKE-HEIST - FH12;2758658;3;0;0;3;MDU;;Y;NA;4;4;Hendrik Consciencestraat25; ;;;;BUILDING template;Hendrik Consciencestraat;25;;;71774,56;225821,269
+KNOKKE-HEIST - FH12;2765664;0;1;0;1;SDU;;Y;NA;2;4;Polderstraat43; ;;;;BUILDING template;Polderstraat;43;;;71850,162;225996,76
+KNOKKE-HEIST - FH12;4147189;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat314; ;;;;BUILDING template;Knokkestraat;314;;;72484,386;226067,291
+KNOKKE-HEIST - FH12;2758660;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat27; ;;;;BUILDING template;Hendrik Consciencestraat;27;;;71776,349;225814,784
+KNOKKE-HEIST - FH12;2765666;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat45; ;;;;BUILDING template;Polderstraat;45;;;71850,242;225988,711
+KNOKKE-HEIST - FH12;4149412;2;0;0;2;MDU;;Y;NA;4;4;Pannenstraat254; ;;;;BUILDING template;Pannenstraat;254;;;72090,029;225882,353
+KNOKKE-HEIST - FH12;2758662;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat29; ;;;;BUILDING template;Hendrik Consciencestraat;29;;;71777,812;225809,62
+KNOKKE-HEIST - FH12;2765667;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat47; ;;;;BUILDING template;Polderstraat;47;;;71846,702;225984,774
+KNOKKE-HEIST - FH12;4150595;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof29; ;;;;BUILDING template;Pinksterbloemhof;29;;;72593,057;225959,889
+KNOKKE-HEIST - FH12;2758666;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat33; ;;;;BUILDING template;Hendrik Consciencestraat;33;;;71776,554;225798,364
+KNOKKE-HEIST - FH12;2765668;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat49; ;;;;BUILDING template;Polderstraat;49;;;71844,845;225978,57
+KNOKKE-HEIST - FH12;4154773;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat149; ;;;;BUILDING template;Pannenstraat;149;;;71806,991;225905,085
+KNOKKE-HEIST - FH12;2758670;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat39; ;;;;BUILDING template;Hendrik Consciencestraat;39;;;71775,373;225778,53
+KNOKKE-HEIST - FH12;2765670;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat51; ;;;;BUILDING template;Polderstraat;51;;;71840,795;225972,688
+KNOKKE-HEIST - FH12;4163970;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan3; ;;;;BUILDING template;Peter Benoitlaan;3;;;72058,424;226064,423
+KNOKKE-HEIST - FH12;2758672;2;1;0;3;MDU;;Y;NA;4;4;Hendrik Consciencestraat41; ;4 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Hendrik Consciencestraat;41;;;71796,234;225763,046
+KNOKKE-HEIST - FH12;2765674;0;1;0;1;SDU;;Y;NA;2;4;Polderstraat55; ;;;;BUILDING template;Polderstraat;55;;;71830,227;225967,058
+KNOKKE-HEIST - FH12;4164305;2;0;0;2;MDU;;Y;NA;4;4;Peter Benoitlaan47; ;;;;BUILDING template;Peter Benoitlaan;47;;;72016,84;225918,536
+KNOKKE-HEIST - FH12;2758676;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat45; ;;;;BUILDING template;Hendrik Consciencestraat;45;;;71771,467;225756,3
+KNOKKE-HEIST - FH12;2765676;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat57; ;;;;BUILDING template;Polderstraat;57;;;71828,66;225959,342
+KNOKKE-HEIST - FH12;4164312;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat71; ;;;;BUILDING template;Polderstraat;71;;;71801,517;225927,833
+KNOKKE-HEIST - FH12;2758678;0;5;0;5;MDU;;Y;NA;4;4;Hendrik Consciencestraat47; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Hendrik Consciencestraat;47;;;71842,697;225716,614
+KNOKKE-HEIST - FH12;2765678;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat61; ;7 Units in CRAB, 1 bus in GM.;;;BUILDING template;Polderstraat;61;;;71819,245;225949,849
+KNOKKE-HEIST - FH12;4164353;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat284; ;3 Units in CRAB, 1 in GM.;;;BUILDING template;Knokkestraat;284;;;72339,287;226063,626
+KNOKKE-HEIST - FH12;2758679;0;2;0;2;MDU;;Y;NA;4;4;Hendrik Consciencestraat47C; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Hendrik Consciencestraat;47;C;;71877,042;225727,881
+KNOKKE-HEIST - FH12;2765682;3;0;0;3;MDU;;Y;NA;4;4;Polderstraat65; ;4 Units in CRAB, 4 bussen in GM.;;;BUILDING template;Polderstraat;65;;;71812,845;225940,557
+KNOKKE-HEIST - FH12;4171228;5;0;0;5;MDU;;Y;NA;4;4;Hendrik Consciencestraat35; ;;;;BUILDING template;Hendrik Consciencestraat;35;;;71773,233;225793,68
+KNOKKE-HEIST - FH12;2758682;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat51; ;;;;BUILDING template;Hendrik Consciencestraat;51;;;71773,715;225739,728
+KNOKKE-HEIST - FH12;2765684;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat69; ;;;;BUILDING template;Polderstraat;69;;;71805,13;225932,318
+KNOKKE-HEIST - FH12;4173604;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof12; ;;;;BUILDING template;Pinksterbloemhof;12;;;72541,958;225957,223
+KNOKKE-HEIST - FH12;2758684;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat57; ;;;;BUILDING template;Hendrik Consciencestraat;57;;;71771,735;225719,504
+KNOKKE-HEIST - FH12;2765685;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat73; ;;;;BUILDING template;Polderstraat;73;;;71801,348;225921,273
+KNOKKE-HEIST - FH12;4174149;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat206; ;;;;BUILDING template;Knokkestraat;206;;;72085,516;226087,379
+KNOKKE-HEIST - FH12;2758686;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat59; ;;;;BUILDING template;Hendrik Consciencestraat;59;;;71774,291;225713,445
+KNOKKE-HEIST - FH12;2765686;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat75; ;;;;BUILDING template;Polderstraat;75;;;71794,844;225919,099
+KNOKKE-HEIST - FH12;4180592;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof3; ;;;;BUILDING template;Pinksterbloemhof;3;;;72518,482;225931,474
+KNOKKE-HEIST - FH12;2758687;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat61; ;;;;BUILDING template;Hendrik Consciencestraat;61;;;71772,614;225709,246
+KNOKKE-HEIST - FH12;2767055;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat1; ;;;;BUILDING template;Varenstraat;1;;;72543,689;225463,444
+KNOKKE-HEIST - FH12;4186560;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat129; ;;;;BUILDING template;Westkapellestraat;129;;;71881,909;225601,721
+KNOKKE-HEIST - FH12;2758688;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat63; ;;;;BUILDING template;Hendrik Consciencestraat;63;;;71770,256;225704,282
+KNOKKE-HEIST - FH12;2767057;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat4; ;;;;BUILDING template;Varenstraat;4;;;72592,262;225499,828
+KNOKKE-HEIST - FH12;4188115;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat9; ;;;;BUILDING template;Varenstraat;9;;;72529,376;225513,513
+KNOKKE-HEIST - FH12;2758691;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat67; ;;;;BUILDING template;Hendrik Consciencestraat;67;;;71771,49;225693,534
+KNOKKE-HEIST - FH12;2767058;1;0;0;1;SDU;;Y;NA;2;4;Varenstraat5; ;;;;BUILDING template;Varenstraat;5;;;72535,978;225489,089
+KNOKKE-HEIST - FH12;4191908;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein16; ;;;;BUILDING template;Matrozenplein;16;;;71965,258;226081,198
+KNOKKE-HEIST - FH12;2758693;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat71; ;;;;BUILDING template;Hendrik Consciencestraat;71;;;71769,701;225682,308
+KNOKKE-HEIST - FH12;2767076;1;0;0;1;SDU;;Y;NA;2;4;Breed Veertien5; ;;;;BUILDING template;Breed Veertien;5;;;71972,015;225468,381
+KNOKKE-HEIST - FH12;4192706;3;0;0;3;MDU;;Y;NA;4;4;Zuidstraat37; ;2 Units in CRAB, 2 bussen in GM.;;;BUILDING template;Zuidstraat;37;;;71916,311;225986,375
+KNOKKE-HEIST - FH12;2760116;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat3; ;;;;BUILDING template;Heestersstraat;3;;;72269,315;225512,187
+KNOKKE-HEIST - FH12;2767483;1;0;0;1;SDU;;Y;NA;2;4;Walstraat8; ;;;;BUILDING template;Walstraat;8;;;72069,747;225610,753
+KNOKKE-HEIST - FH12;4193037;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat171; ;;;;BUILDING template;Pannenstraat;171;;;71873,194;225878,928
+KNOKKE-HEIST - FH12;2760117;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat6; ;;;;BUILDING template;Heestersstraat;6;;;72260,618;225456,528
+KNOKKE-HEIST - FH12;2767484;1;0;0;1;SDU;;Y;NA;2;4;Walstraat12; ;;;;BUILDING template;Walstraat;12;;;72029,663;225618,312
+KNOKKE-HEIST - FH12;4201049;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat162; ;niet in CRAB, 1 unit in GM.;;;BUILDING template;Knokkestraat;162;;;71935,795;226097,475
+KNOKKE-HEIST - FH12;2760118;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat8; ;;;;BUILDING template;Heestersstraat;8;;;72266,73;225456,577
+KNOKKE-HEIST - FH12;2767690;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat115; ;;;;BUILDING template;Westkapellestraat;115;;;71839,933;225621,86
+KNOKKE-HEIST - FH12;4209663;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan25; ;;;;BUILDING template;Peter Benoitlaan;25;;;72037,66;225995,835
+KNOKKE-HEIST - FH12;2760119;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat9; ;;;;BUILDING template;Heestersstraat;9;;;72301,646;225556,372
+KNOKKE-HEIST - FH12;2767692;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat117; ;;;;BUILDING template;Westkapellestraat;117;;;71847,209;225617,038
+KNOKKE-HEIST - FH12;4210281;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat229; ;;;;BUILDING template;Pannenstraat;229;;;72058,793;225891,735
+KNOKKE-HEIST - FH12;2760120;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat10; ;;;;BUILDING template;Heestersstraat;10;;;72283,918;225464,198
+KNOKKE-HEIST - FH12;2767693;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat121; ;;;;BUILDING template;Westkapellestraat;121;;;71855,076;225614,491
+KNOKKE-HEIST - FH12;4220618;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat166; ;;;;BUILDING template;Pannenstraat;166;;;71818,383;225881,987
+KNOKKE-HEIST - FH12;2760121;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat12; ;;;;BUILDING template;Heestersstraat;12;;;72303,21;225474,698
+KNOKKE-HEIST - FH12;2767697;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat126; ;;;;BUILDING template;Westkapellestraat;126;;;71795,126;225613,531
+KNOKKE-HEIST - FH12;4227904;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat39; ;;;;BUILDING template;Emanuel Hielstraat;39;;;71913,401;225958,131
+KNOKKE-HEIST - FH12;2760122;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat16; ;;;;BUILDING template;Heestersstraat;16;;;72322,972;225477,483
+KNOKKE-HEIST - FH12;2767698;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat128; ;;;;BUILDING template;Westkapellestraat;128;;;71800,466;225610,839
+KNOKKE-HEIST - FH12;4233275;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat267; ;;;;BUILDING template;Pannenstraat;267;;;72107,646;225952,763
+KNOKKE-HEIST - FH12;2760414;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat8;Beschermd Erfgoed;;;;BUILDING template;Emanuel Hielstraat;8;;;71966,636;225945,637
+KNOKKE-HEIST - FH12;2767700;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat130; ;;;;BUILDING template;Westkapellestraat;130;;;71806,017;225608,635
+KNOKKE-HEIST - FH12;4238975;2;0;0;2;MDU;;Y;NA;4;4;Pannenstraat157; ;1 Unit in CRAB en GM.;;;BUILDING template;Pannenstraat;157;;;71833,477;225906,04
+KNOKKE-HEIST - FH12;2760415;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat10;Beschermd Erfgoed;;;;BUILDING template;Emanuel Hielstraat;10;;;71962,181;225950,477
+KNOKKE-HEIST - FH12;2767701;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat133; ;;;;BUILDING template;Westkapellestraat;133;;;71893,254;225597,561
+KNOKKE-HEIST - FH12;4261400;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat7; ;;;;BUILDING template;Zuidstraat;7;;;71979,823;226030,238
+KNOKKE-HEIST - FH12;2760417;4;0;0;4;MDU;;Y;NA;4;4;Emanuel Hielstraat13; ;;;;BUILDING template;Emanuel Hielstraat;13;;;71967,06;225882,703
+KNOKKE-HEIST - FH12;2767703;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat135; ;;;;BUILDING template;Westkapellestraat;135;;;71898,265;225594,152
+KNOKKE-HEIST - FH12;4262952;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat237; ;;;;BUILDING template;Pannenstraat;237;;;72076,522;225905,489
+KNOKKE-HEIST - FH12;2760418;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat23; ;;;;BUILDING template;Emanuel Hielstraat;23;;;71950,744;225914,448
+KNOKKE-HEIST - FH12;2767705;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat137; ;;;;BUILDING template;Westkapellestraat;137;;;71904,167;225591,717
+KNOKKE-HEIST - FH12;4267992;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat132; ;;;;BUILDING template;Westkapellestraat;132;;;71813,756;225606,206
+KNOKKE-HEIST - FH12;2760419;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat27; ;;;;BUILDING template;Emanuel Hielstraat;27;;;71941,359;225928,817
+KNOKKE-HEIST - FH12;2767707;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat138; ;;;;BUILDING template;Westkapellestraat;138;;;71835,01;225597,198
+KNOKKE-HEIST - FH12;4273079;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat127; ;;;;BUILDING template;Westkapellestraat;127;;;71876,882;225604,607
+KNOKKE-HEIST - FH12;2760420;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat29; ;;;;BUILDING template;Emanuel Hielstraat;29;;;71936,952;225936,606
+KNOKKE-HEIST - FH12;2767708;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat140; ;;;;BUILDING template;Westkapellestraat;140;;;71846,825;225593,078
+KNOKKE-HEIST - FH12;4334152;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat184; ;;;;BUILDING template;Knokkestraat;184;;;72014,155;226094,773
+KNOKKE-HEIST - FH12;2760421;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat33; ;;;;BUILDING template;Emanuel Hielstraat;33;;;71928,671;225946,572
+KNOKKE-HEIST - FH12;2767710;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat146; ;;;;BUILDING template;Westkapellestraat;146;;;71836,787;225568,077
+KNOKKE-HEIST - FH12;4334206;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat160; ;;;;BUILDING template;Knokkestraat;160;;;71930,108;226099,388
+KNOKKE-HEIST - FH12;2760422;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat35; ;;;;BUILDING template;Emanuel Hielstraat;35;;;71923,785;225950,957
+KNOKKE-HEIST - FH12;2767711;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat148; ;;;;BUILDING template;Westkapellestraat;148;;;71870,002;225581,626
+KNOKKE-HEIST - FH12;4334553;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat347; ;;;;BUILDING template;Knokkestraat;347;;;72514,777;226089,692
+KNOKKE-HEIST - FH12;2760423;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat37; ;;;;BUILDING template;Emanuel Hielstraat;37;;;71918,718;225954,411
+KNOKKE-HEIST - FH12;2767713;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat150; ;;;;BUILDING template;Westkapellestraat;150;;;71875,99;225579,742
+KNOKKE-HEIST - FH12;4334584;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat214; ;;;;BUILDING template;Knokkestraat;214;;;72109,485;226085,45
+KNOKKE-HEIST - FH12;2760425;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat43; ;;;;BUILDING template;Emanuel Hielstraat;43;;;71903,922;225965,148
+KNOKKE-HEIST - FH12;2767715;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat151; ;;;;BUILDING template;Westkapellestraat;151;;;71950,82;225576,69
+KNOKKE-HEIST - FH12;4334589;11;0;0;11;MDU;;Y;NA;4;4;Knokkestraat226; ;9 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;226;;;72184,868;226078,53
+KNOKKE-HEIST - FH12;2760519;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat3; ;;;;BUILDING template;Hulststraat;3;;;72350,007;225385,885
+KNOKKE-HEIST - FH12;2767716;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat152; ;;;;BUILDING template;Westkapellestraat;152;;;71880,324;225577,133
+KNOKKE-HEIST - FH12;4334595;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat240; ;;;;BUILDING template;Knokkestraat;240;;;72215,491;226076,2
+KNOKKE-HEIST - FH12;2760520;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat5; ;;;;BUILDING template;Hulststraat;5;;;72368,407;225389,94
+KNOKKE-HEIST - FH12;2767718;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat154; ;;;;BUILDING template;Westkapellestraat;154;;;71885,428;225574,609
+KNOKKE-HEIST - FH12;4334598;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat246; ;;;;BUILDING template;Knokkestraat;246;;;72230,703;226069,734
+KNOKKE-HEIST - FH12;2760521;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat7; ;;;;BUILDING template;Hulststraat;7;;;72389,773;225398,982
+KNOKKE-HEIST - FH12;2767720;3;0;0;3;MDU;;Y;NA;4;4;Westkapellestraat155; ;;;;BUILDING template;Westkapellestraat;155;;;71966,4;225565,391
+KNOKKE-HEIST - FH12;4334611;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat248; ;;;;BUILDING template;Pannenstraat;248;;;72075,2;225876,372
+KNOKKE-HEIST - FH12;2760522;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat9; ;;;;BUILDING template;Hulststraat;9;;;72409,04;225407,167
+KNOKKE-HEIST - FH12;2767721;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat156; ;;;;BUILDING template;Westkapellestraat;156;;;71889,536;225570,5
+KNOKKE-HEIST - FH12;4334625;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat276; ;;;;BUILDING template;Pannenstraat;276;;;72145,024;225909,184
+KNOKKE-HEIST - FH12;2760524;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat11; ;;;;BUILDING template;Hulststraat;11;;;72427,874;225413,083
+KNOKKE-HEIST - FH12;2767723;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat157; ;;;;BUILDING template;Westkapellestraat;157;;;71979,758;225564,096
+KNOKKE-HEIST - FH12;4334626;3;0;0;3;MDU;;Y;NA;4;4;Pannenstraat280; ;;;;BUILDING template;Pannenstraat;280;;;72159,704;225913,337
+KNOKKE-HEIST - FH12;2760525;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat23; ;;;;BUILDING template;Hulststraat;23;;;72621,349;225486,405
+KNOKKE-HEIST - FH12;2767725;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat158; ;;;;BUILDING template;Westkapellestraat;158;;;71895,192;225570,675
+KNOKKE-HEIST - FH12;4334649;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat265; ;;;;BUILDING template;Pannenstraat;265;;;72105,134;225947,686
+KNOKKE-HEIST - FH12;2760527;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat27; ;;;;BUILDING template;Hulststraat;27;;;72615,413;225506,217
+KNOKKE-HEIST - FH12;2767726;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat160; ;;;;BUILDING template;Westkapellestraat;160;;;71900,183;225568,509
+KNOKKE-HEIST - FH12;4334650;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat269; ;;;;BUILDING template;Pannenstraat;269;;;72113,803;225952,739
+KNOKKE-HEIST - FH12;2761614;2;0;0;2;MDU;;Y;NA;4;4;Knokkestraat168; ;1 Unit in CRAB, 2 bussen in GM.;;;BUILDING template;Knokkestraat;168;;;71955,978;226097,549
+KNOKKE-HEIST - FH12;2767728;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat162; ;;;;BUILDING template;Westkapellestraat;162;;;71904,825;225565,63
+KNOKKE-HEIST - FH12;4334651;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat271; ;;;;BUILDING template;Pannenstraat;271;;;72117,598;225955,019
+KNOKKE-HEIST - FH12;2761615;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat170;Beschermd Erfgoed;;;;BUILDING template;Knokkestraat;170;;;71965,186;226097,041
+KNOKKE-HEIST - FH12;2767730;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat167; ;;;;BUILDING template;Westkapellestraat;167;;;72019,847;225551,557
+KNOKKE-HEIST - FH12;4334653;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat279; ;;;;BUILDING template;Pannenstraat;279;;;72153,856;225948,726
+KNOKKE-HEIST - FH12;2761616;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat174;Beschermd Erfgoed;;;;BUILDING template;Knokkestraat;174;;;71975,603;226096,748
+KNOKKE-HEIST - FH12;2767731;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat170; ;;;;BUILDING template;Westkapellestraat;170;;;71917,368;225559,541
+KNOKKE-HEIST - FH12;4334655;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat287; ;;;;BUILDING template;Pannenstraat;287;;;72184,755;225959,753
+KNOKKE-HEIST - FH12;2761617;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat180; ;;;;BUILDING template;Knokkestraat;180;;;72003,06;226093,327
+KNOKKE-HEIST - FH12;2767733;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat172; ;;;;BUILDING template;Westkapellestraat;172;;;71926,14;225556,946
+KNOKKE-HEIST - FH12;4334660;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat321; ;;;;BUILDING template;Pannenstraat;321;;;72291,406;226003,228
+KNOKKE-HEIST - FH12;2761618;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat182; ;;;;BUILDING template;Knokkestraat;182;;;72008,794;226094,127
+KNOKKE-HEIST - FH12;2767734;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat173; ;;;;BUILDING template;Westkapellestraat;173;;;72075,567;225541,185
+KNOKKE-HEIST - FH12;4334663;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat335; ;;;;BUILDING template;Pannenstraat;335;;;72333,273;226022,762
+KNOKKE-HEIST - FH12;2761619;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat186; ;;;;BUILDING template;Knokkestraat;186;;;72019,003;226091,842
+KNOKKE-HEIST - FH12;2767736;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat191; ;;;;BUILDING template;Westkapellestraat;191;;;72250,768;225420,106
+KNOKKE-HEIST - FH12;4334667;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat347; ;;;;BUILDING template;Pannenstraat;347;;;72355,513;226049,817
+KNOKKE-HEIST - FH12;2761620;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat188; ;;;;BUILDING template;Knokkestraat;188;;;72024,78;226092,997
+KNOKKE-HEIST - FH12;2767737;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat193; ;;;;BUILDING template;Westkapellestraat;193;;;72253,62;225414,849
+KNOKKE-HEIST - FH12;4334689;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof17; ;;;;BUILDING template;Pinksterbloemhof;17;;;72554,285;225918,859
+KNOKKE-HEIST - FH12;2761621;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat192; ;;;;BUILDING template;Knokkestraat;192;;;72035,218;226090,303
+KNOKKE-HEIST - FH12;2767740;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat195; ;;;;BUILDING template;Westkapellestraat;195;;;72260,572;225401,798
+KNOKKE-HEIST - FH12;4334690;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof24; ;;;;BUILDING template;Pinksterbloemhof;24;;;72570,425;225963,118
+KNOKKE-HEIST - FH12;2761622;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat194; ;;;;BUILDING template;Knokkestraat;194;;;72040,206;226089,825
+KNOKKE-HEIST - FH12;2767741;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat197; ;;;;BUILDING template;Westkapellestraat;197;;;72266,586;225398,424
+KNOKKE-HEIST - FH12;4334694;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof30; ;;;;BUILDING template;Pinksterbloemhof;30;;;72596,562;225953,91
+KNOKKE-HEIST - FH12;2761623;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat196; ;;;;BUILDING template;Knokkestraat;196;;;72046,128;226089,284
+KNOKKE-HEIST - FH12;2768339;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat3; ;;;;BUILDING template;Zuidstraat;3;;;71990,715;226027,133
+KNOKKE-HEIST - FH12;4334695;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof33; ;;;;BUILDING template;Pinksterbloemhof;33;;;72607,025;225932,914
+KNOKKE-HEIST - FH12;2761624;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat202; ;;;;BUILDING template;Knokkestraat;202;;;72074,336;226089,444
+KNOKKE-HEIST - FH12;2768341;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat4; ;;;;BUILDING template;Zuidstraat;4;;;71977,072;226004,077
+KNOKKE-HEIST - FH12;4334698;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof37; ;;;;BUILDING template;Pinksterbloemhof;37;;;72583,013;225934,136
+KNOKKE-HEIST - FH12;2761625;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat204; ;;;;BUILDING template;Knokkestraat;204;;;72079,907;226087,253
+KNOKKE-HEIST - FH12;2768343;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat8; ;;;;BUILDING template;Zuidstraat;8;;;71967,907;226008,089
+KNOKKE-HEIST - FH12;4334711;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan49; ;;;;BUILDING template;Peter Benoitlaan;49;;;72014,259;225912,63
+KNOKKE-HEIST - FH12;2761626;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat208; ;;;;BUILDING template;Knokkestraat;208;;;72091,614;226086,861
+KNOKKE-HEIST - FH12;2768345;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat9; ;;;;BUILDING template;Zuidstraat;9;;;71975,303;226032,311
+KNOKKE-HEIST - FH12;4334727;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan5; ;;;;BUILDING template;Peter Benoitlaan;5;;;72054,008;226060,886
+KNOKKE-HEIST - FH12;2761627;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat210; ;;;;BUILDING template;Knokkestraat;210;;;72096,994;226086,172
+KNOKKE-HEIST - FH12;2768347;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat13; ;;;;BUILDING template;Zuidstraat;13;;;71964,374;226037,399
+KNOKKE-HEIST - FH12;4334729;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan7; ;;;;BUILDING template;Peter Benoitlaan;7;;;72050,232;226057,072
+KNOKKE-HEIST - FH12;2761628;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat212; ;;;;BUILDING template;Knokkestraat;212;;;72102,78;226083,028
+KNOKKE-HEIST - FH12;2768349;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat15; ;;;;BUILDING template;Zuidstraat;15;;;71958,884;226038,822
+KNOKKE-HEIST - FH12;4334730;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan9; ;;;;BUILDING template;Peter Benoitlaan;9;;;72045,846;226053,454
+KNOKKE-HEIST - FH12;2761629;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat216; ;8 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;216;;;72129,011;226080,744
+KNOKKE-HEIST - FH12;2768350;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat16; ;;;;BUILDING template;Zuidstraat;16;;;71948,716;226015,612
+KNOKKE-HEIST - FH12;4334748;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat318; ;;;;BUILDING template;Knokkestraat;318;;;72497,203;226068,682
+KNOKKE-HEIST - FH12;2761630;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat218; ;8 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;218;;;72139,262;226079,252
+KNOKKE-HEIST - FH12;2768352;2;0;0;2;MDU;;Y;NA;4;4;Zuidstraat18; ;1 Unit in CRAB en GM.;;;BUILDING template;Zuidstraat;18;;;71948,716;225994,008
+KNOKKE-HEIST - FH12;4334752;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat332; ;;;;BUILDING template;Knokkestraat;332;;;72529,902;226069,159
+KNOKKE-HEIST - FH12;2761631;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat220; ;8 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;220;;;72158,446;226078,643
+KNOKKE-HEIST - FH12;2768354;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat21; ;;;;BUILDING template;Zuidstraat;21;;;71934,5;226036,818
+KNOKKE-HEIST - FH12;4335469;1;0;0;1;SDU;;Y;NA;2;4;Heestersstraat36; ;;;;BUILDING template;Heestersstraat;36;;;72580,829;225539,036
+KNOKKE-HEIST - FH12;2761632;3;0;0;3;MDU;;Y;NA;4;4;Knokkestraat222; ;niet in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;222;;;72166,768;226079,261
+KNOKKE-HEIST - FH12;2768356;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat23; ;;;;BUILDING template;Zuidstraat;23;;;71931,771;226032,184
+KNOKKE-HEIST - FH12;4335491;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat199; ;;;;BUILDING template;Westkapellestraat;199;;;72272,805;225381,897
+KNOKKE-HEIST - FH12;2761633;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat224; ;4 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;224;;;72174,405;226077,275
+KNOKKE-HEIST - FH12;2768358;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat25; ;;;;BUILDING template;Zuidstraat;25;;;71927,961;226027,473
+KNOKKE-HEIST - FH12;4335492;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat203; ;;;;BUILDING template;Westkapellestraat;203;;;72287,771;225366,415
+KNOKKE-HEIST - FH12;2761635;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat234; ;;;;BUILDING template;Knokkestraat;234;;;72198,533;226077,141
+KNOKKE-HEIST - FH12;2768360;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat26; ;;;;BUILDING template;Zuidstraat;26;;;71944,661;225975,361
+KNOKKE-HEIST - FH12;4336548;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat158; ;;;;BUILDING template;Pannenstraat;158;;;71795,917;225890,889
+KNOKKE-HEIST - FH12;2761636;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat236; ;;;;BUILDING template;Knokkestraat;236;;;72203,72;226074,681
+KNOKKE-HEIST - FH12;2768458;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat3; ;;;;BUILDING template;Weibroekstraat;3;;;72085,423;225564,7
+KNOKKE-HEIST - FH12;4336553;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat184; ;;;;BUILDING template;Pannenstraat;184;;;71871,095;225859,094
+KNOKKE-HEIST - FH12;2761637;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat238; ;;;;BUILDING template;Knokkestraat;238;;;72209,697;226076,306
+KNOKKE-HEIST - FH12;2768459;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat4; ;;;;BUILDING template;Weibroekstraat;4;;;72139,628;225542,25
+KNOKKE-HEIST - FH12;4336554;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat186; ;;;;BUILDING template;Pannenstraat;186;;;71875,554;225857,501
+KNOKKE-HEIST - FH12;2761638;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat242; ;;;;BUILDING template;Knokkestraat;242;;;72220,291;226075,433
+KNOKKE-HEIST - FH12;2768460;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat5; ;;;;BUILDING template;Weibroekstraat;5;;;72092,149;225589,662
+KNOKKE-HEIST - FH12;4336555;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat196; ;;;;BUILDING template;Pannenstraat;196;;;71895,108;225838,519
+KNOKKE-HEIST - FH12;2761639;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat248; ;;;;BUILDING template;Knokkestraat;248;;;72234,604;226051,354
+KNOKKE-HEIST - FH12;2768462;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat6; ;;;;BUILDING template;Weibroekstraat;6;;;72145,226;225560,388
+KNOKKE-HEIST - FH12;4336557;0;1;0;1;SDU;;Y;NA;2;4;Pannenstraat200; ;;;;BUILDING template;Pannenstraat;200;;;71922,409;225774,548
+KNOKKE-HEIST - FH12;2761640;4;0;0;4;MDU;;Y;NA;4;4;Knokkestraat250; ;;;;BUILDING template;Knokkestraat;250;;;72245,028;226074,1
+KNOKKE-HEIST - FH12;2768463;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat7; ;;;;BUILDING template;Weibroekstraat;7;;;72114,043;225581
+KNOKKE-HEIST - FH12;4336558;0;1;0;1;SDU;;Y;NA;2;4;Pannenstraat202; ;niet in CRAB, onduidelijk in GM.;;;BUILDING template;Pannenstraat;202;;;71915,611;225743,799
+KNOKKE-HEIST - FH12;2761641;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat254; ;;;;BUILDING template;Knokkestraat;254;;;72253,232;226072,291
+KNOKKE-HEIST - FH12;2768465;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat8; ;;;;BUILDING template;Weibroekstraat;8;;;72168,841;225556,24
+KNOKKE-HEIST - FH12;4336583;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat9; ;;;;BUILDING template;Hendrik Consciencestraat;9;;;71782,712;225864,836
+KNOKKE-HEIST - FH12;2761642;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat256; ;;;;BUILDING template;Knokkestraat;256;;;72258,751;226066,904
+KNOKKE-HEIST - FH12;2768466;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat9; ;;;;BUILDING template;Weibroekstraat;9;;;72117,906;225605,071
+KNOKKE-HEIST - FH12;4336585;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat11; ;;;;BUILDING template;Hendrik Consciencestraat;11;;;71778,681;225859,325
+KNOKKE-HEIST - FH12;2761643;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat258; ;;;;BUILDING template;Knokkestraat;258;;;72264,748;226067,811
+KNOKKE-HEIST - FH12;2768467;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat10; ;;;;BUILDING template;Weibroekstraat;10;;;72176,269;225579,027
+KNOKKE-HEIST - FH12;4336589;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat21; ;;;;BUILDING template;Hendrik Consciencestraat;21;;;71777;225833,103
+KNOKKE-HEIST - FH12;2761644;4;0;0;4;MDU;;Y;NA;4;4;Knokkestraat262; ;;;;BUILDING template;Knokkestraat;262;;;72277,384;226070,824
+KNOKKE-HEIST - FH12;2768470;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat12; ;;;;BUILDING template;Weibroekstraat;12;;;72152,826;225590,166
+KNOKKE-HEIST - FH12;4336590;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat31; ;;;;BUILDING template;Hendrik Consciencestraat;31;;;71776,815;225803,981
+KNOKKE-HEIST - FH12;2761645;3;0;0;3;MDU;;Y;NA;4;4;Knokkestraat264; ;;;;BUILDING template;Knokkestraat;264;;;72283,815;226069,295
+KNOKKE-HEIST - FH12;2768471;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat14; ;;;;BUILDING template;Weibroekstraat;14;;;72163,236;225608,055
+KNOKKE-HEIST - FH12;4336595;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat53; ;;;;BUILDING template;Hendrik Consciencestraat;53;;;71771,841;225732,829
+KNOKKE-HEIST - FH12;2761646;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat266; ;;;;BUILDING template;Knokkestraat;266;;;72290,452;226068,32
+KNOKKE-HEIST - FH12;2768473;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat15; ;;;;BUILDING template;Weibroekstraat;15;;;72079,077;225682,925
+KNOKKE-HEIST - FH12;4336597;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat69; ;;;;BUILDING template;Hendrik Consciencestraat;69;;;71771,045;225687,604
+KNOKKE-HEIST - FH12;2761647;22;0;0;22;MDU;;Y;NA;4;4;Knokkestraat268; ;7 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Knokkestraat;268;;;72310,584;226066,686
+KNOKKE-HEIST - FH12;2768474;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat16; ;;;;BUILDING template;Weibroekstraat;16;;;72150,493;225626,062
+KNOKKE-HEIST - FH12;4337671;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat59; ;;;;BUILDING template;Polderstraat;59;;;71823,769;225953,562
+KNOKKE-HEIST - FH12;2761651;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat282; ;niet in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;282;;;72334,145;226064,467
+KNOKKE-HEIST - FH12;2768476;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat18; ;;;;BUILDING template;Weibroekstraat;18;;;72136,075;225640,651
+KNOKKE-HEIST - FH12;4337673;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat63; ;;;;BUILDING template;Polderstraat;63;;;71814,421;225946,074
+KNOKKE-HEIST - FH12;2761652;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat286; ;;;;BUILDING template;Knokkestraat;286;;;72344,72;226059,471
+KNOKKE-HEIST - FH12;2768477;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat26; ;;;;BUILDING template;Weibroekstraat;26;;;72110,703;225698,7
+KNOKKE-HEIST - FH12;4337677;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat5; ;;;;BUILDING template;Zuidstraat;5;;;71985,329;226028,107
+KNOKKE-HEIST - FH12;2761656;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat304; ;6 Units in CRAB, Onduidelijk in GM.;;;BUILDING template;Knokkestraat;304;;;72460,833;226063,036
+KNOKKE-HEIST - FH12;294467;1;0;0;1;SDU;;Y;NA;2;4;Logenhoek28; ;;;;BUILDING template;Logenhoek;28;;;72672,144;225962,28
+KNOKKE-HEIST - FH12;4337678;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat11; ;;;;BUILDING template;Zuidstraat;11;;;71969,88;226034,343
+KNOKKE-HEIST - FH12;2761657;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat306; ;niet in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;306;;;72466,521;226064,491
+KNOKKE-HEIST - FH12;294473;1;0;0;1;SDU;;Y;NA;2;4;Logenhoek24; ;;;;BUILDING template;Logenhoek;24;;;72648,612;226000,994
+KNOKKE-HEIST - FH12;4337689;1;0;0;1;SDU;;Y;NA;2;4;Emanuel Hielstraat31; ;;;;BUILDING template;Emanuel Hielstraat;31;;;71932,687;225941,915
+KNOKKE-HEIST - FH12;2761658;2;1;0;3;MDU;;Y;NA;4;4;Knokkestraat308; ;2 Units in CRAB, 3 in GM.;;;BUILDING template;Knokkestraat;308;;;72476,607;226065,149
+KNOKKE-HEIST - FH12;294475;1;0;0;1;SDU;;Y;NA;2;4;Logenhoek20; ;;;;BUILDING template;Logenhoek;20;;;72625,739;226035,808
+KNOKKE-HEIST - FH12;4337693;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat13; ;;;;BUILDING template;Polderstraat;13;;;71901,894;226068,208
+KNOKKE-HEIST - FH12;2761660;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat322; ;;;;BUILDING template;Knokkestraat;322;;;72508,31;226068,843
+KNOKKE-HEIST - FH12;296187;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat244; ;;;;BUILDING template;Pannenstraat;244;;;72063,693;225871,938
+KNOKKE-HEIST - FH12;4337694;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat23; ;;;;BUILDING template;Polderstraat;23;;;71885,467;226046,429
+KNOKKE-HEIST - FH12;2761661;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat326; ;;;;BUILDING template;Knokkestraat;326;;;72519,084;226069,713
+KNOKKE-HEIST - FH12;296188;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat224; ;;;;BUILDING template;Pannenstraat;224;;;72004,231;225834,688
+KNOKKE-HEIST - FH12;4337697;1;0;0;1;SDU;;Y;NA;2;4;Polderstraat31; ;;;;BUILDING template;Polderstraat;31;;;71873,874;226029,825
+KNOKKE-HEIST - FH12;2761662;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat328; ;;;;BUILDING template;Knokkestraat;328;;;72523,107;226068,671
+KNOKKE-HEIST - FH12;296189;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat211; ;;;;BUILDING template;Pannenstraat;211;;;72010,987;225869,362
+KNOKKE-HEIST - FH12;4337699;2;0;0;2;MDU;;Y;NA;4;4;Emanuel Hielstraat4;Beschermd Erfgoed;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Emanuel Hielstraat;4;;;71969,407;225941,19
+KNOKKE-HEIST - FH12;2761664;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat334; ;;;;BUILDING template;Knokkestraat;334;;;72536,244;226071,193
+KNOKKE-HEIST - FH12;296190;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat232; ;;;;BUILDING template;Pannenstraat;232;;;72029,35;225847,154
+KNOKKE-HEIST - FH12;4337702;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat24; ;;;;BUILDING template;Zuidstraat;24;;;71946,874;225980,888
+KNOKKE-HEIST - FH12;2761665;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat336; ;;;;BUILDING template;Knokkestraat;336;;;72542,074;226071,821
+KNOKKE-HEIST - FH12;296191;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat282; ;;;;BUILDING template;Pannenstraat;282;;;72162,993;225919,007
+KNOKKE-HEIST - FH12;4337704;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat147; ;;;;BUILDING template;Pannenstraat;147;;;71801,034;225906,306
+KNOKKE-HEIST - FH12;2761667;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat341; ;;;;BUILDING template;Knokkestraat;341;;;72489,704;226088,881
+KNOKKE-HEIST - FH12;296192;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat345; ;;;;BUILDING template;Pannenstraat;345;;;72349,84;226045,677
+KNOKKE-HEIST - FH12;4337705;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat159; ;;;;BUILDING template;Pannenstraat;159;;;71839,87;225899,326
+KNOKKE-HEIST - FH12;2761668;5;0;0;5;MDU;;Y;NA;4;4;Knokkestraat343; ;6 Units in CRAB, 5 bussen in GM.;;;BUILDING template;Knokkestraat;343;;;72497,363;226089,401
+KNOKKE-HEIST - FH12;296193;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat288; ;;;;BUILDING template;Pannenstraat;288;;;72370,62;226024,067
+KNOKKE-HEIST - FH12;4337706;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat161; ;;;;BUILDING template;Pannenstraat;161;;;71848,755;225898,09
+KNOKKE-HEIST - FH12;2761669;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat345; ;;;;BUILDING template;Knokkestraat;345;;;72507,917;226088,624
+KNOKKE-HEIST - FH12;296195;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat351; ;;;;BUILDING template;Pannenstraat;351;;;72362,516;226056,472
+KNOKKE-HEIST - FH12;4337709;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat183; ;;;;BUILDING template;Pannenstraat;183;;;71917,298;225862,647
+KNOKKE-HEIST - FH12;2761671;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat346; ;;;;BUILDING template;Knokkestraat;346;;;72602,85;226066,229
+KNOKKE-HEIST - FH12;296200;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof1; ;;;;BUILDING template;Pinksterbloemhof;1;;;72504,089;225923,515
+KNOKKE-HEIST - FH12;4337711;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat185; ;2 Units in CRAB, 1 in GM.;;;BUILDING template;Pannenstraat;185;;;71922,39;225858,001
+KNOKKE-HEIST - FH12;2761673;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat353; ;;;;BUILDING template;Knokkestraat;353;;;72530,096;226094,57
+KNOKKE-HEIST - FH12;296202;4;0;0;4;MDU;;Y;NA;4;4;Peter Benoitlaan59; ;;;;BUILDING template;Peter Benoitlaan;59;;;72006,41;225863,819
+KNOKKE-HEIST - FH12;4337712;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat197; ;;;;BUILDING template;Pannenstraat;197;;;71954,74;225849,524
+KNOKKE-HEIST - FH12;2761675;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat363; ;;;;BUILDING template;Knokkestraat;363;;;72581,981;226106,639
+KNOKKE-HEIST - FH12;296229;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof22; ;;;;BUILDING template;Pinksterbloemhof;22;;;72507,886;225904,255
+KNOKKE-HEIST - FH12;4337736;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat14; ;;;;BUILDING template;Zuidstraat;14;;;71954,34;226013,751
+KNOKKE-HEIST - FH12;2762170;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk2; ;;;;BUILDING template;Krommedijk;2;;;72176,763;225511,176
+KNOKKE-HEIST - FH12;296252;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof4; ;;;;BUILDING template;Pinksterbloemhof;4;;;72526,794;225931,76
+KNOKKE-HEIST - FH12;4338442;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat24; ;;;;BUILDING template;Weibroekstraat;24;;;72119,038;225681,566
+KNOKKE-HEIST - FH12;2762172;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk4; ;;;;BUILDING template;Krommedijk;4;;;72189,345;225529,041
+KNOKKE-HEIST - FH12;296311;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof18; ;;;;BUILDING template;Pinksterbloemhof;18;;;72556,702;225912,472
+KNOKKE-HEIST - FH12;4338517;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat164; ;;;;BUILDING template;Westkapellestraat;164;;;71910,701;225564,154
+KNOKKE-HEIST - FH12;2762173;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk5; ;;;;BUILDING template;Krommedijk;5;;;72278,814;225575,068
+KNOKKE-HEIST - FH12;296312;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof15; ;;;;BUILDING template;Pinksterbloemhof;15;;;72554,243;225931,939
+KNOKKE-HEIST - FH12;4338530;3;0;0;3;MDU;;Y;NA;4;4;Westkapellestraat125; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Westkapellestraat;125;;;71867,677;225610,505
+KNOKKE-HEIST - FH12;2762176;0;2;0;2;MDU;;Y;NA;4;4;Krommedijk30; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Krommedijk;30;;;72265,743;225746,129
+KNOKKE-HEIST - FH12;296313;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof5; ;;;;BUILDING template;Pinksterbloemhof;5;;;72517,204;225950,038
+KNOKKE-HEIST - FH12;4338554;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat165; ;;;;BUILDING template;Westkapellestraat;165;;;72012,376;225550,837
+KNOKKE-HEIST - FH12;2762177;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk42; ;;;;BUILDING template;Krommedijk;42;;;72449,819;225911,404
+KNOKKE-HEIST - FH12;296314;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof14; ;;;;BUILDING template;Pinksterbloemhof;14;;;72547,991;225947,269
+KNOKKE-HEIST - FH12;5321980;0;1;0;1;SDU;;Y;NA;2;4;Pannenstraat284; ;niet in CRAB en GM.;;;BUILDING template;Pannenstraat;284;;;72294,854;225879,373
+KNOKKE-HEIST - FH12;2762178;66;0;0;66;MDU;;Y;NA;4;4;Krommedijk43; ;29 Units in CRAB, Onduidelijk in GM.;;;BUILDING template;Krommedijk;43;;;72577,204;225627,98
+KNOKKE-HEIST - FH12;296315;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof7; ;;;;BUILDING template;Pinksterbloemhof;7;;;72511,184;225960,901
+KNOKKE-HEIST - FH12;5368305;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat353; ;;;;BUILDING template;Pannenstraat;353;;;72360,076;226060,014
+KNOKKE-HEIST - FH12;2762180;3;0;0;3;MDU;;Y;NA;4;4;Krommedijk44; ;;;;BUILDING template;Krommedijk;44;;;72448,878;225917,125
+KNOKKE-HEIST - FH12;296316;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof8; ;;;;BUILDING template;Pinksterbloemhof;8;;;72529,585;225983,869
+KNOKKE-HEIST - FH12;5368309;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat17; ;;;;BUILDING template;Hulststraat;17;;;72522,53;225453,362
+KNOKKE-HEIST - FH12;2762184;3;0;0;3;MDU;;Y;NA;4;4;Krommedijk46; ;;;;BUILDING template;Krommedijk;46;;;72447,801;225923,372
+KNOKKE-HEIST - FH12;296317;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof34; ;;;;BUILDING template;Pinksterbloemhof;34;;;72609,524;225926,12
+KNOKKE-HEIST - FH12;5377847;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan41A; ;;;;BUILDING template;Peter Benoitlaan;41;A;;72019,869;225939,005
+KNOKKE-HEIST - FH12;2762185;98;0;0;98;MDU;;Y;NA;4;4;Krommedijk49; ;94 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Krommedijk;49;;;72534,222;225691,694
+KNOKKE-HEIST - FH12;296318;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof35; ;;;;BUILDING template;Pinksterbloemhof;35;;;72586,663;225922,587
+KNOKKE-HEIST - FH12;5377852;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat33; ;;;;BUILDING template;Hulststraat;33;;;72625,88;225551,14
+KNOKKE-HEIST - FH12;2762186;135;0;0;135;MDU;;Y;NA;4;4;Krommedijk51; ;142 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Krommedijk;51;;;72519,459;225736,723
+KNOKKE-HEIST - FH12;296319;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof38; ;;;;BUILDING template;Pinksterbloemhof;38;;;72578,256;225939,818
+KNOKKE-HEIST - FH12;5397868;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat24; ;;;;BUILDING template;Hulststraat;24;;;72530,725;225422,404
+KNOKKE-HEIST - FH12;2762188;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk52; ;;;;BUILDING template;Krommedijk;52;;;72441,169;225948,521
+KNOKKE-HEIST - FH12;296320;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof27; ;;;;BUILDING template;Pinksterbloemhof;27;;;72588,958;225972,557
+KNOKKE-HEIST - FH12;5418238;0;1;0;1;SDU;;Y;NA;2;4;Breed Veertien1; ;niet in CRAB, niet in GM.;;;BUILDING template;Breed Veertien;1;;;72000,032;225517,782
+KNOKKE-HEIST - FH12;2762189;81;0;0;81;MDU;;Y;NA;4;4;Krommedijk53; ;85 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Krommedijk;53;;;72504,88;225772,395
+KNOKKE-HEIST - FH12;296321;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof23; ;;;;BUILDING template;Pinksterbloemhof;23;;;72570,213;225956,383
+KNOKKE-HEIST - FH12;5433060;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat228; ;;;;BUILDING template;Pannenstraat;228;;;72016,439;225840,698
+KNOKKE-HEIST - FH12;2762190;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk54; ;;;;BUILDING template;Krommedijk;54;;;72439,372;225953,673
+KNOKKE-HEIST - FH12;296322;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof26; ;;;;BUILDING template;Pinksterbloemhof;26;;;72563,729;225974,119
+KNOKKE-HEIST - FH12;5445060;1;0;0;1;SDU;;Y;NA;2;4;Walstraat13; ;;;;BUILDING template;Walstraat;13;;;72036,934;225677,071
+KNOKKE-HEIST - FH12;2762192;20;0;0;20;MDU;;Y;NA;4;4;Krommedijk55; ;;;;BUILDING template;Krommedijk;55;;;72499,33;225792,28
+KNOKKE-HEIST - FH12;296323;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof39; ;;;;BUILDING template;Pinksterbloemhof;39;;;72558,72;225983,996
+KNOKKE-HEIST - FH12;5457613;1;0;0;1;SDU;;Y;NA;2;4;Walstraat7; ;;;;BUILDING template;Walstraat;7;;;72047,5;225658,119
+KNOKKE-HEIST - FH12;2762193;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk56; ;;;;BUILDING template;Krommedijk;56;;;72436,615;225959,53
+KNOKKE-HEIST - FH12;296324;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof40; ;;;;BUILDING template;Pinksterbloemhof;40;;;72554,033;225990,251
+KNOKKE-HEIST - FH12;5489832;1;0;0;1;SDU;;Y;NA;2;4;Walstraat19; ;;;;BUILDING template;Walstraat;19;;;72007,986;225675,588
+KNOKKE-HEIST - FH12;2762198;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk58; ;;;;BUILDING template;Krommedijk;58;;;72434,466;225965,056
+KNOKKE-HEIST - FH12;296325;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof41; ;;;;BUILDING template;Pinksterbloemhof;41;;;72551,283;225995,618
+KNOKKE-HEIST - FH12;5489833;1;0;0;1;SDU;;Y;NA;2;4;Walstraat14; ;;;;BUILDING template;Walstraat;14;;;72020,651;225646,467
+KNOKKE-HEIST - FH12;2762200;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk61; ;;;;BUILDING template;Krommedijk;61;;;72479,922;225898,781
+KNOKKE-HEIST - FH12;296326;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof43; ;;;;BUILDING template;Pinksterbloemhof;43;;;72572,781;226000,733
+KNOKKE-HEIST - FH12;5489834;1;0;0;1;SDU;;Y;NA;2;4;Walstraat26; ;;;;BUILDING template;Walstraat;26;;;71980,36;225624,473
+KNOKKE-HEIST - FH12;2762201;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk63; ;;;;BUILDING template;Krommedijk;63;;;72480,537;225904,859
+KNOKKE-HEIST - FH12;296327;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof42; ;;;;BUILDING template;Pinksterbloemhof;42;;;72569,796;226005,98
+KNOKKE-HEIST - FH12;5489836;1;0;0;1;SDU;;Y;NA;2;4;Walstraat21; ;;;;BUILDING template;Walstraat;21;;;72000,585;225671,893
+KNOKKE-HEIST - FH12;2762202;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk64; ;;;;BUILDING template;Krommedijk;64;;;72419,302;225997,434
+KNOKKE-HEIST - FH12;296328;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof44; ;;;;BUILDING template;Pinksterbloemhof;44;;;72575,753;225995,514
+KNOKKE-HEIST - FH12;5490481;1;0;0;1;SDU;;Y;NA;2;4;Walstraat11; ;;;;BUILDING template;Walstraat;11;;;72039,794;225670,751
+KNOKKE-HEIST - FH12;2762204;1;1;0;2;MDU;;Y;NA;4;4;Krommedijk66; ;1 Unit in CRAB en GM.;;;BUILDING template;Krommedijk;66;;;72415,433;226004,653
+KNOKKE-HEIST - FH12;296329;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof45; ;;;;BUILDING template;Pinksterbloemhof;45;;;72580,017;225989,715
+KNOKKE-HEIST - FH12;5490483;1;0;0;1;SDU;;Y;NA;2;4;Walstraat23; ;;;;BUILDING template;Walstraat;23;;;71993,937;225668,15
+KNOKKE-HEIST - FH12;2762206;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk68; ;;;;BUILDING template;Krommedijk;68;;;72414,607;226023,369
+KNOKKE-HEIST - FH12;296331;6;0;0;6;MDU;;Y;NA;4;4;Krommedijk72; ;;;;BUILDING template;Krommedijk;72;;;72402,449;226050,596
+KNOKKE-HEIST - FH12;5490484;1;0;0;1;SDU;;Y;NA;2;4;Walstraat25; ;;;;BUILDING template;Walstraat;25;;;71987,595;225665,146
+KNOKKE-HEIST - FH12;2762207;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk69; ;;;;BUILDING template;Krommedijk;69;;;72481,448;225942,001
+KNOKKE-HEIST - FH12;296333;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein11; ;;;;BUILDING template;Matrozenplein;11;;;71958,796;226060,346
+KNOKKE-HEIST - FH12;5490485;1;0;0;1;SDU;;Y;NA;2;4;Walstraat27; ;;;;BUILDING template;Walstraat;27;;;71982,829;225660,731
+KNOKKE-HEIST - FH12;2762208;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk70; ;;;;BUILDING template;Krommedijk;70;;;72413,306;226030,3
+KNOKKE-HEIST - FH12;296334;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein1; ;;;;BUILDING template;Matrozenplein;1;;;72013,28;226037,443
+KNOKKE-HEIST - FH12;5490489;1;0;0;1;SDU;;Y;NA;2;4;Walstraat16; ;;;;BUILDING template;Walstraat;16;;;72013,869;225642,842
+KNOKKE-HEIST - FH12;2762209;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk71; ;;;;BUILDING template;Krommedijk;71;;;72479,825;225947,821
+KNOKKE-HEIST - FH12;296335;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan27; ;;;;BUILDING template;Peter Benoitlaan;27;;;72035,951;225990,086
+KNOKKE-HEIST - FH12;5490490;1;0;0;1;SDU;;Y;NA;2;4;Walstraat18; ;;;;BUILDING template;Walstraat;18;;;72002,067;225636,421
+KNOKKE-HEIST - FH12;2758056;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan41C; ;;;;BUILDING template;Peter Benoitlaan;41;C;;72021;225932
+KNOKKE-HEIST - FH12;2762210;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk73; ;;;;BUILDING template;Krommedijk;73;;;72479,019;225953,305
+KNOKKE-HEIST - FH12;296336;2;0;0;2;MDU;;Y;NA;4;4;Peter Benoitlaan43; ;3 Units in CRAB,  aantal onduidelijk in GM.;;;BUILDING template;Peter Benoitlaan;43;;;72018,22;225930,378
+KNOKKE-HEIST - FH12;5490491;1;0;0;1;SDU;;Y;NA;2;4;Walstraat20; ;;;;BUILDING template;Walstraat;20;;;71995,223;225632,107
+KNOKKE-HEIST - FH12;2758674;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat43; ;;;;BUILDING template;Hendrik Consciencestraat;43;;;71774;225766
+KNOKKE-HEIST - FH12;2762635;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat5; ;;;;BUILDING template;Laurierstraat;5;;;72390,886;225466,523
+KNOKKE-HEIST - FH12;296337;2;0;0;2;MDU;;Y;NA;4;4;Peter Benoitlaan45; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Peter Benoitlaan;45;;;72017,797;225924,633
+KNOKKE-HEIST - FH12;5490492;1;0;0;1;SDU;;Y;NA;2;4;Walstraat22; ;;;;BUILDING template;Walstraat;22;;;71992,096;225629,021
+KNOKKE-HEIST - FH12;2758680;1;0;0;1;SDU;;Y;NA;2;4;Hendrik Consciencestraat49;Bouwgrond;;;;BUILDING template;Hendrik Consciencestraat;49;;;71773;225744
+KNOKKE-HEIST - FH12;2762636;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat7; ;;;;BUILDING template;Laurierstraat;7;;;72420,99;225475,01
+KNOKKE-HEIST - FH12;296338;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk59; ;;;;BUILDING template;Krommedijk;59;;;72481,66;225891,836
+KNOKKE-HEIST - FH12;5490493;1;0;0;1;SDU;;Y;NA;2;4;Walstraat24; ;;;;BUILDING template;Walstraat;24;;;71985,262;225626,737
+KNOKKE-HEIST - FH12;2761634;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat228; ;;;;BUILDING template;Knokkestraat;228;;;72180;226077
+KNOKKE-HEIST - FH12;2762637;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat8; ;;;;BUILDING template;Laurierstraat;8;;;72332,701;225450,942
+KNOKKE-HEIST - FH12;296339;3;0;0;3;MDU;;Y;NA;4;4;Krommedijk40; ;5 Units in CRAB, aantal onduidelijk in GM.;;;BUILDING template;Krommedijk;40;;;72444,945;225905,375
+KNOKKE-HEIST - FH12;5544702;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof7; ;;;;BUILDING template;Paasleliehof;7;;;72485,637;226031,348
+KNOKKE-HEIST - FH12;2761648;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat270; ;;;;BUILDING template;Knokkestraat;270;;;72304;226063
+KNOKKE-HEIST - FH12;2762639;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat11; ;;;;BUILDING template;Laurierstraat;11;;;72449,441;225515,575
+KNOKKE-HEIST - FH12;296340;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk67; ;;;;BUILDING template;Krommedijk;67;;;72481,321;225934,953
+KNOKKE-HEIST - FH12;5544703;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof6; ;;;;BUILDING template;Paasleliehof;6;;;72498,812;226003,723
+KNOKKE-HEIST - FH12;2761649;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat278; ;;;;BUILDING template;Knokkestraat;278;;;72324;226064
+KNOKKE-HEIST - FH12;2762641;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat16; ;;;;BUILDING template;Laurierstraat;16;;;72304,693;225404,628
+KNOKKE-HEIST - FH12;296342;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk73A; ;;;;BUILDING template;Krommedijk;73;A;;72483,922;225972,023
+KNOKKE-HEIST - FH12;5544704;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof3; ;;;;BUILDING template;Paasleliehof;3;;;72473,764;225997,403
+KNOKKE-HEIST - FH12;2761650;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat280; ;;;;BUILDING template;Knokkestraat;280;;;72330;226064
+KNOKKE-HEIST - FH12;2762642;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat20; ;;;;BUILDING template;Laurierstraat;20;;;72340,561;225412,194
+KNOKKE-HEIST - FH12;296344;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat198; ;;;;BUILDING template;Knokkestraat;198;;;72051,105;226088,791
+KNOKKE-HEIST - FH12;5551872;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof1; ;;;;BUILDING template;Paasleliehof;1;;;72458,586;225996,874
+KNOKKE-HEIST - FH12;2761653;1;1;0;2;MDU;;Y;NA;2;4;Knokkestraat290; ;;;;BUILDING template;Knokkestraat;290;;;72407;226057
+KNOKKE-HEIST - FH12;2762644;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat36; ;;;;BUILDING template;Laurierstraat;36;;;72494,287;225467,382
+KNOKKE-HEIST - FH12;296345;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat200; ;;;;BUILDING template;Knokkestraat;200;;;72068,951;226088,903
+KNOKKE-HEIST - FH12;5559098;2;0;0;2;MDU;;Y;NA;4;4;Peter Benoitlaan20; ;1 Unit in CRAB, Onduidelijk in GM.;;;BUILDING template;Peter Benoitlaan;20;;;71987,988;225941,623
+KNOKKE-HEIST - FH12;2761654;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat296; ;;;;BUILDING template;Knokkestraat;296;;;72417;226052
+KNOKKE-HEIST - FH12;2762645;1;0;0;1;SDU;;Y;NA;2;4;Laurierstraat40; ;;;;BUILDING template;Laurierstraat;40;;;72482,326;225507,528
+KNOKKE-HEIST - FH12;296346;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat344; ;niet in CRAB? Onduidelijk in GM.;;;BUILDING template;Knokkestraat;344;;;72598,947;226044,181
+KNOKKE-HEIST - FH12;5579231;1;0;0;1;SDU;;Y;NA;2;4;Paasleliehof5; ;;;;BUILDING template;Paasleliehof;5;;;72491,7;226000,963
+KNOKKE-HEIST - FH12;2761659;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat310; ;;;;BUILDING template;Knokkestraat;310;;;72478;226065
+KNOKKE-HEIST - FH12;2763576;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein2; ;;;;BUILDING template;Matrozenplein;2;;;72009,044;226041,422
+KNOKKE-HEIST - FH12;296347;3;0;0;3;MDU;;Y;NA;4;4;Knokkestraat337; ;1 Unit in CRAB, onduidelijk in GM.;;;BUILDING template;Knokkestraat;337;;;72481,069;226088,709
+KNOKKE-HEIST - FH12;9861;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat288; ;;;;BUILDING template;Knokkestraat;288;;;72349,768;226059,977
+KNOKKE-HEIST - FH12;2761666;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat339; ;;;;BUILDING template;Knokkestraat;339;;;72485;226083
+KNOKKE-HEIST - FH12;2763578;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein4; ;;;;BUILDING template;Matrozenplein;4;;;71990,016;226056,874
+KNOKKE-HEIST - FH12;296348;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat349; ;;;;BUILDING template;Knokkestraat;349;;;72520,537;226089,991
+KNOKKE-HEIST - FH12;9871;1;0;0;1;SDU;;Y;NA;2;4;Hulststraat1; ;;;;BUILDING template;Hulststraat;1;;;72333,947;225383,076
+KNOKKE-HEIST - FH12;2762181;1;0;0;1;SDU;;Y;NA;2;4;Krommedijk45; ;;;;BUILDING template;Krommedijk;45;;;72570;225641
+KNOKKE-HEIST - FH12;2763579;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein5; ;;;;BUILDING template;Matrozenplein;5;;;71985,879;226057,321
+KNOKKE-HEIST - FH12;296349;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat351; ;;;;BUILDING template;Knokkestraat;351;;;72527,424;226088,684
+KNOKKE-HEIST - FH12;2767695;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat123; ;;;;BUILDING template;Westkapellestraat;123;;;71863;225611
+KNOKKE-HEIST - FH12;2763580;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein6; ;;;;BUILDING template;Matrozenplein;6;;;71980,996;226057,833
+KNOKKE-HEIST - FH12;296392;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof20; ;;;;BUILDING template;Pinksterbloemhof;20;;;72525,019;225909,731
+KNOKKE-HEIST - FH12;2767739;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat194; ;;;;BUILDING template;Westkapellestraat;194;;;72073;225494
+KNOKKE-HEIST - FH12;2763581;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein7; ;;;;BUILDING template;Matrozenplein;7;;;71976,416;226056,295
+KNOKKE-HEIST - FH12;296393;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof19; ;;;;BUILDING template;Pinksterbloemhof;19;;;72534,61;225909,173
+KNOKKE-HEIST - FH12;294469;1;0;0;1;SDU;;Y;NA;2;4;Logenhoek26;Bouwgrond;;;;BUILDING template;Logenhoek;26;;;72661;225979
+KNOKKE-HEIST - FH12;2763583;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein8; ;;;;BUILDING template;Matrozenplein;8;;;71972,119;226058,976
+KNOKKE-HEIST - FH12;296408;1;0;0;1;SDU;;Y;NA;2;4;Pinksterbloemhof21; ;;;;BUILDING template;Pinksterbloemhof;21;;;72516,15;225908,372
+KNOKKE-HEIST - FH12;296194;1;0;0;1;SDU;;Y;NA;2;4;Pannenstraat298; ;;;;BUILDING template;Pannenstraat;298;;;72390;226049
+KNOKKE-HEIST - FH12;2763584;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein9; ;;;;BUILDING template;Matrozenplein;9;;;71968,039;226059,359
+KNOKKE-HEIST - FH12;297264;1;0;0;1;SDU;;Y;NA;2;4;Westkapellestraat181; ;;;;BUILDING template;Westkapellestraat;181;;;72219,969;225485,509
+KNOKKE-HEIST - FH12;296330;11;0;0;11;MDU;;Y;NA;2;4;Krommedijk75; ;;;;BUILDING template;Krommedijk;75;;;72441;226035
+KNOKKE-HEIST - FH12;2763585;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein10; ;;;;BUILDING template;Matrozenplein;10;;;71963,121;226059,857
+KNOKKE-HEIST - FH12;297266;1;0;0;1;SDU;;Y;NA;2;4;Oostenhem24; ;;;;BUILDING template;Oostenhem;24;;;72005,415;225415,113
+KNOKKE-HEIST - FH12;296350;1;0;0;1;SDU;;Y;NA;2;4;Knokkestraat361; ;;;;BUILDING template;Knokkestraat;361;;;72567;226091
+KNOKKE-HEIST - FH12;2763587;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein12; ;;;;BUILDING template;Matrozenplein;12;;;71946,976;226067,385
+KNOKKE-HEIST - FH12;297268;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat11; ;;;;BUILDING template;Weibroekstraat;11;;;72109,31;225627,871
+KNOKKE-HEIST - FH12;299869;1;0;0;1;SDU;;Y;NA;2;4;Peter Benoitlaan4; ;;;;BUILDING template;Peter Benoitlaan;4;;;72001;225985
+KNOKKE-HEIST - FH12;2763588;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein13; ;;;;BUILDING template;Matrozenplein;13;;;71949,199;226073,182
+KNOKKE-HEIST - FH12;297269;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat13; ;;;;BUILDING template;Weibroekstraat;13;;;72092,45;225662,756
+KNOKKE-HEIST - FH12;299881;1;0;0;1;SDU;;Y;NA;2;4;Zuidstraat28; ;;;;BUILDING template;Zuidstraat;28;;;71942;225970
+KNOKKE-HEIST - FH12;2763589;1;0;0;1;SDU;;Y;NA;2;4;Matrozenplein14; ;;;;BUILDING template;Matrozenplein;14;;;71950,711;226076,92
+KNOKKE-HEIST - FH12;297270;1;0;0;1;SDU;;Y;NA;2;4;Weibroekstraat22; ;;;;BUILDING template;Weibroekstraat;22;;;72130,07;225664,696

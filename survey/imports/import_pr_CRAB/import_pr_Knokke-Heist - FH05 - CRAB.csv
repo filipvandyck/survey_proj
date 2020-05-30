@@ -1,33 +1,432 @@
 Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
+KNOKKE-HEIST - FH05;2759288;3;3;1;7;MDU;;N;IRREG;7;6;;;Y;_;BUILDING template;Dumortierlaan;68;;
+KNOKKE-HEIST - FH05;2759308;5;1;1;7;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;80;;
+KNOKKE-HEIST - FH05;72418;0;1;0;1;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Zoutelaan;61;;Jef Mennekenslaan 35_Zoutelaan 61-61A
+KNOKKE-HEIST - FH05;72442;0;1;0;1;MDU;;N;IRREG;2;3;;;Y;_;BUILDING template;Jef Mennekenslaan;3;;Jef Mennekenslaan 3_Heilig Hartlaan 2-4-6
+KNOKKE-HEIST - FH05;2759341;0;1;0;1;MDU;;N;IRREG;6;3;;1 Unit in CRAB, 9 LU in GM.;Y;_;BUILDING template;Dumortierlaan;105;;Dumortierlaan 105-107-107B
+KNOKKE-HEIST - FH05;2759346;5;1;1;7;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;109;;
+KNOKKE-HEIST - FH05;2759350;4;1;0;5;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Dumortierlaan;114;;
+KNOKKE-HEIST - FH05;2759353;0;1;0;1;MDU;;N;IRREG;6;3;;1 Unit in CRAB, kan BU in GM zijn.;Y;_;BUILDING template;Dumortierlaan;117;;Dumortierlaan 117-119-121
+KNOKKE-HEIST - FH05;2759358;5;1;1;7;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;123;;
+KNOKKE-HEIST - FH05;2759360;5;1;1;7;MDU;;N;IRREG;6;3;;;Y;Review Required;BUILDING template;Dumortierlaan;125;;
+KNOKKE-HEIST - FH05;2760538;11;0;1;12;MDU;;N;IRREG;6;3;;11 Units in CRAB, 11 in GM.;Y;Review Required;BUILDING template;Ieperstraat;11;;
+KNOKKE-HEIST - FH05;2760544;4;0;1;5;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Ieperstraat;23;;
+KNOKKE-HEIST - FH05;2760546;10;0;1;11;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Ieperstraat;25;;
+KNOKKE-HEIST - FH05;2761150;12;0;1;13;MDU;;N;IRREG;5;3;;14 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Kemmelbergstraat;3;;
+KNOKKE-HEIST - FH05;2763784;4;0;1;5;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Jef Mennekenslaan;18;A;
+KNOKKE-HEIST - FH05;2763790;4;0;1;5;MDU;;N;IRREG;4;3;;;Y;_;BUILDING template;Jef Mennekenslaan;25;;
+KNOKKE-HEIST - FH05;2763791;7;0;1;8;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Jef Mennekenslaan;27;;
+KNOKKE-HEIST - FH05;2763793;5;0;1;6;MDU;;N;IRREG;4;3;;;Y;_;BUILDING template;Jef Mennekenslaan;33;;
+KNOKKE-HEIST - FH05;2763887;12;0;1;13;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Mussenpad;1;;
+KNOKKE-HEIST - FH05;2763891;8;0;1;9;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Mussenpad;3;;Mussenpad 3-5_Zoutelaan 50-52
+KNOKKE-HEIST - FH05;2763892;12;0;1;13;MDU;;N;IRREG;5;3;;12 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Mussenpad;5;;Mussenpad 3-5_Zoutelaan 50-52
+KNOKKE-HEIST - FH05;2764308;9;0;1;10;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Nieuwpoortstraat;1;A;Zoutelaan 73_Nieuwpoortstraat 1A
+KNOKKE-HEIST - FH05;2764337;8;0;1;9;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Nieuwpoortstraat;35;;
+KNOKKE-HEIST - FH05;2768180;3;2;0;5;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Zoutelaan;26;;
+KNOKKE-HEIST - FH05;2768196;3;1;1;5;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Zoutelaan;45;;
+KNOKKE-HEIST - FH05;2768198;2;1;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Zoutelaan;47;;
+KNOKKE-HEIST - FH05;2768199;4;1;4;9;MDU;;N;IRREG;6;5;;;Y;_;BUILDING template;Zoutelaan;49;;
+KNOKKE-HEIST - FH05;2768203;12;3;1;16;MDU;;N;IRREG;5;3;;16 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Zoutelaan;50;;Mussenpad 3-5_Zoutelaan 50-52
+KNOKKE-HEIST - FH05;2768204;16;3;1;20;MDU;;N;IRREG;5;3;;19 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Zoutelaan;52;;Mussenpad 3-5_Zoutelaan 50-52
+KNOKKE-HEIST - FH05;2768223;8;1;1;10;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Zoutelaan;73;;Zoutelaan 73_Nieuwpoortstraat 1A
+KNOKKE-HEIST - FH05;335718;15;0;1;16;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Diksmuidestraat;39;;
+KNOKKE-HEIST - FH05;335719;25;0;1;26;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Diksmuidestraat;37;A;
+KNOKKE-HEIST - FH05;335720;8;0;1;9;MDU;;N;IRREG;7;3;;;Y;Review Required;BUILDING template;Diksmuidestraat;50;;Dumortierlaan 113-113B_Diksmuidestraat 50
+KNOKKE-HEIST - FH05;335846;9;0;0;9;MDU;;N;IRREG;6;3;;1 Units in CRAB en GM.;Y;_;BUILDING template;Nieuwpoortstraat;39;;Kemmelbergstraat 1_Nieuwpoortstraat 39
+KNOKKE-HEIST - FH05;335854;8;0;0;8;MDU;;N;IRREG;6;3;;9 Units in CAB,  onduidelijk in GM.;Y;_;BUILDING template;Kemmelbergstraat;1;;Kemmelbergstraat 1_Nieuwpoortstraat 39
+KNOKKE-HEIST - FH05;335870;3;1;0;4;MDU;;N;IRREG;4;3;;4 Units in CRAB en GM.;Y;_;BUILDING template;Dumortierlaan;90;;
+KNOKKE-HEIST - FH05;336631;5;0;1;6;MDU;;N;IRREG;4;3;;5 Units in CRAB, 7 in GM;Y;_;BUILDING template;Duinviooltjesstraat;21;;
+KNOKKE-HEIST - FH05;336632;15;0;1;16;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;4;;
+KNOKKE-HEIST - FH05;NB-830039Cfe18;9;0;1;10;MDU;;N;IRREG;6;4;;;;_;BUILDING template;Van Bunnenlaan;39;C;
+KNOKKE-HEIST - FH05;NB-830039B7570;10;0;0;10;MDU;;N;IRREG;6;4;;;;_;BUILDING template;Van Bunnenlaan;39;B;
+KNOKKE-HEIST - FH05;NB-830039A2e03;9;0;1;10;MDU;;N;IRREG;6;4;;;;_;BUILDING template;Van Bunnenlaan;39;A;
+KNOKKE-HEIST - FH05;337093;10;0;1;11;MDU;;N;IRREG;6;6;;11 Units in CRAB, 1 in GM.;Y;_;BUILDING template;Kustlaan;66;;Driehoeksplein 13_Kustlaan 68-66
+KNOKKE-HEIST - FH05;NB-83003009f086;0;1;0;1;SDU;;N;IRREG;2;3;;;;_;BUILDING template;Zoutelaan;30;;
+KNOKKE-HEIST - FH05;NB-830032c3f357;0;1;0;1;SDU;;N;IRREG;2;4;;;;_;BUILDING template;Zoutelaan;32;;
+KNOKKE-HEIST - FH05;NB-830061A5483;0;1;0;1;MDU;;N;IRREG;5;3;;;;_;BUILDING template;Zoutelaan;61;A;Jef Mennekenslaan 35_Zoutelaan 61-61A
+KNOKKE-HEIST - FH05;2758804;1;0;0;1;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Diksmuidestraat;47;;Diksmuidestraat 43-45-47
+KNOKKE-HEIST - FH05;1024244;15;0;1;16;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;2;;
+KNOKKE-HEIST - FH05;3939623;4;0;0;4;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Jef Mennekenslaan;31;;
+KNOKKE-HEIST - FH05;2759253;9;1;1;11;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;40;;Dumortierlaan 38-40
+KNOKKE-HEIST - FH05;1327495;0;1;0;1;MDU;;N;IRREG;6;3;;6 Units in CRAB, in GM BG met 45;Y;_;BUILDING template;Diksmuidestraat;43;;Diksmuidestraat 43-45-47
+KNOKKE-HEIST - FH05;1327499;5;0;1;6;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;31;;
+KNOKKE-HEIST - FH05;1453096;5;0;1;6;MDU;;N;IRREG;6;3;Beschermd Erfgoed;1 Unit in CRAB, aantal onduidelijk in GM.;Y;;BUILDING template;Van Bunnenlaan;25;;
+KNOKKE-HEIST - FH05;4346441;5;0;0;5;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Ieperstraat;31;;
+KNOKKE-HEIST - FH05;2759343;0;1;0;1;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;107;B;Dumortierlaan 105-107-107B
+KNOKKE-HEIST - FH05;2759355;11;0;1;12;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;119;;Dumortierlaan 117-119-121
+KNOKKE-HEIST - FH05;2759357;0;1;0;1;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;121;;Dumortierlaan 117-119-121
+KNOKKE-HEIST - FH05;4347755;4;0;1;5;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;46;;
+KNOKKE-HEIST - FH05;5579323;3;0;0;3;MDU;;N;IRREG;3;3;;4 Units in CRAB, 1 bus in GM.;Y;_;BUILDING template;Diksmuidestraat;48;;
+KNOKKE-HEIST - FH05;2758510;3;0;0;3;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Van Bunnenlaan;23;;
+KNOKKE-HEIST - FH05;2758528;5;0;1;6;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;44;;
+KNOKKE-HEIST - FH05;5579423;0;1;0;1;MDU;;N;IRREG;6;6;;;Y;_;BUILDING template;Kustlaan;68;;Driehoeksplein 13_Kustlaan 68-66
+KNOKKE-HEIST - FH05;NB-830032A00018;0;2;0;2;MDU;;N;IRREG;4;4;;;Y;;BUILDING template;Dumortierlaan;32;A;Dumortierlaan 32-32A
+KNOKKE-HEIST - FH05;2763787;0;1;0;1;SDU;;N;IRREG;1;3;;;Y;_;BUILDING template;Jef Mennekenslaan;21;;
+KNOKKE-HEIST - FH05;2758629;5;0;1;6;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Winston Churchilllaan;15;;
+KNOKKE-HEIST - FH05;72431;5;0;1;6;MDU;;N;IRREG;5;3;;5 Unis in CRAB, in GM ook.;Y;_;BUILDING template;Van Bunnenlaan;42;;
+KNOKKE-HEIST - FH05;72434;12;1;1;14;MDU;;N;IRREG;6;5;;13 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Van Bunnenlaan;59;;
+KNOKKE-HEIST - FH05;72441;23;0;1;24;MDU;;N;IRREG;5;3;;21 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Jef Mennekenslaan;35;;Jef Mennekenslaan 35_Zoutelaan 61-61A
+KNOKKE-HEIST - FH05;336806;7;0;1;8;MDU;;N;IRREG;4;3;;;Y;_;BUILDING template;Duinviooltjesstraat;22;;
+KNOKKE-HEIST - FH05;2758784;4;0;1;5;MDU;;N;IRREG;4;4;;4 in CRAB, in GM lijken het er ook 4 te zijn.;Y;_;BUILDING template;Diksmuidestraat;13;;
+KNOKKE-HEIST - FH05;72444;5;0;1;6;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Diksmuidestraat;19;;
+KNOKKE-HEIST - FH05;2758785;1;2;0;3;MDU;;N;IRREG;5;3;;4 Units in CRAB, 3 bussen in GM.;Y;_;BUILDING template;Diksmuidestraat;15;;
+KNOKKE-HEIST - FH05;72445;5;0;1;6;MDU;;N;IRREG;5;4;;5 Units in CRAB, 3 bussen in GM.;Y;Review Required onder constructie;BUILDING template;Diksmuidestraat;17;;
+KNOKKE-HEIST - FH05;72448;8;0;1;9;MDU;;N;IRREG;4;6;;;Y;_;BUILDING template;Nieuwpoortstraat;1;;
+KNOKKE-HEIST - FH05;2758799;5;0;1;6;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Diksmuidestraat;41;;
+KNOKKE-HEIST - FH05;2758800;7;0;1;8;MDU;;N;IRREG;7;3;;;Y;_;BUILDING template;Diksmuidestraat;44;;
+KNOKKE-HEIST - FH05;2758802;10;0;1;11;MDU;;N;IRREG;6;3;;8 Unis in CRAB, in GM BG met 43;Y;_;BUILDING template;Diksmuidestraat;45;;Diksmuidestraat 43-45-47
+KNOKKE-HEIST - FH05;76547;9;0;1;10;MDU;;N;IRREG;5;3;;1 units in CRAB, 9 in GM en IFH.;Y;_;BUILDING template;Diksmuidestraat;27;;
+KNOKKE-HEIST - FH05;2758933;4;1;1;6;MDU;;N;IRREG;5;3;Beschermd Erfgoed;2 Units in CRAB, 2 bussen in GM en een BU op GLV;Y;_;BUILDING template;Driehoeksplein;5;;
+KNOKKE-HEIST - FH05;4030850;9;1;1;11;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;107;;Dumortierlaan 105-107-107B
+KNOKKE-HEIST - FH05;76554;1;0;0;1;SDU;;N;IRREG;2;3;;;Y;_;BUILDING template;Jef Mennekenslaan;1;;
+KNOKKE-HEIST - FH05;76557;0;1;0;1;MDU;;N;IRREG;6;4;;2 Units in CRAB, BU in GM.;Y;_;BUILDING template;Dumortierlaan;78;;Diksmuidestraat 50A_Dumortierlaan 78
+KNOKKE-HEIST - FH05;2759197;5;0;1;6;MDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Duinviooltjesstraat;33;;
+KNOKKE-HEIST - FH05;813983;9;0;1;10;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Jef Mennekenslaan;10;;
+KNOKKE-HEIST - FH05;2759240;9;0;1;10;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;32;;Dumortierlaan 32-32A
+KNOKKE-HEIST - FH05;2759249;0;1;0;1;MDU;;N;IRREG;6;4;;1 Unit in CRAB, BU in GM;Y;_;BUILDING template;Dumortierlaan;38;;Dumortierlaan 38-40
+KNOKKE-HEIST - FH05;5579345;0;1;1;2;MDU;;N;IRREG;6;3;;;Y;_;BUILDING template;Dumortierlaan;110;;Dumortierlaan 106-108-110
+KNOKKE-HEIST - FH05;2759255;0;1;0;1;MDU;;N;IRREG;6;4;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Dumortierlaan;42;;Dumortierlaan 42-44-46
+KNOKKE-HEIST - FH05;6089749;0;1;0;1;MDU;;Y;NA;7;3;;;Y;_;BUILDING template;Kustlaan;6;;Van Bunnenlaan 1_Kustlaan 2-4-6
+KNOKKE-HEIST - FH05;2759279;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Dumortierlaan;58;;
 KNOKKE-HEIST - FH05;6382973;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Ferdinand Mosselmanstraat;30;;
+KNOKKE-HEIST - FH05;2759281;5;1;1;7;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Dumortierlaan;60;;
 KNOKKE-HEIST - FH05;6419836;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Kustlaan;46;A;
+KNOKKE-HEIST - FH05;2759284;4;2;1;7;MDU;;N;IRREG;6;4;;6 Units in CRAB, in GM ook.;Y;_;BUILDING template;Dumortierlaan;62;;
 KNOKKE-HEIST - FH05;6430502;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Dumortierlaan;104;A;
+KNOKKE-HEIST - FH05;2759287;2;1;0;3;MDU;;N;IRREG;3;4;;3 Units in CRAB, in GM ook.;Y;_;BUILDING template;Dumortierlaan;64;;
 KNOKKE-HEIST - FH05;6433115;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Kustlaan;58;B;
 KNOKKE-HEIST - FH05;6462591;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Dumortierlaan;30;A;
+KNOKKE-HEIST - FH05;2759290;4;2;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;70;;
+KNOKKE-HEIST - FH05;6524118;0;1;0;1;MDU;;Y;NA;2;3;;;Y;_;BUILDING template;Heilig-Hartlaan;6;;Jef Mennekenslaan 3_Heilig Hartlaan 2-4-6
+KNOKKE-HEIST - FH05;2759294;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;72;;
+KNOKKE-HEIST - FH05;6524258;5;0;1;6;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Diksmuidestraat;51;;Diksmuidestraat 49-51
+KNOKKE-HEIST - FH05;6525402;4;0;1;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Duinviooltjesstraat;13;;Duinviooltjesstraat 11-13
+KNOKKE-HEIST - FH05;2759310;5;1;1;7;MDU;;N;IRREG;7;4;;;Y;_;BUILDING template;Dumortierlaan;82;;
+KNOKKE-HEIST - FH05;6526789;8;0;0;8;MDU;;N;ORN;4;4;;;Y;_;BUILDING template;Piers de Raveschootlaan;92;;Zoutelaan 24_Piers De Raveschootlaan 92
+KNOKKE-HEIST - FH05;2759312;0;1;0;1;MDU;;N;ORN;6;4;;1 Unit in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Dumortierlaan;84;;Dumortierlaan 84-86-88
+KNOKKE-HEIST - FH05;2759320;5;1;1;7;MDU;;N;IRREG;6;4;;6 Units in CRAB, in GM ook.;Y;_;BUILDING template;Dumortierlaan;94;;
+KNOKKE-HEIST - FH05;72421;9;0;1;10;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;67;;Zoutelaan 63-65-67
+KNOKKE-HEIST - FH05;2759327;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB, BU rechts onder nr 98 in GM.;Y;_;BUILDING template;Dumortierlaan;96;;Dumortierlaan 96-98-100
 KNOKKE-HEIST - FH05;72440;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Jef Mennekenslaan;23;;
+KNOKKE-HEIST - FH05;2759329;5;1;1;7;MDU;;N;IRREG;6;4;;7 Units in CRAB, 6 in GM.;Y;_;BUILDING template;Dumortierlaan;97;;
+KNOKKE-HEIST - FH05;2759333;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;99;;
 KNOKKE-HEIST - FH05;76546;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Diksmuidestraat;29;;
+KNOKKE-HEIST - FH05;2759336;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;101;;
+KNOKKE-HEIST - FH05;2759338;5;1;0;6;MDU;;Y;NA;6;3;;6 Units in CRAB en GM.;Y;_;BUILDING template;Dumortierlaan;102;;
+KNOKKE-HEIST - FH05;2759340;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;103;;
+KNOKKE-HEIST - FH05;2759352;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;115;;
+KNOKKE-HEIST - FH05;2759362;0;1;0;1;SDU;;N;ORN;6;4;;1 Unit in CRAB, BG in GM.;Y;_;BUILDING template;Dumortierlaan;127;;
+KNOKKE-HEIST - FH05;2759365;0;1;0;1;MDU;;Y;NA;5;3;;1 Unit in CRAB, BG in GM.;Y;_;BUILDING template;Dumortierlaan;135;;Dumortierlaan 135-137-139
+KNOKKE-HEIST - FH05;2759374;9;0;1;10;MDU;;N;ORN;6;4;;9 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Dumortierlaan;151;;Dumortierlaan 149-151-153
+KNOKKE-HEIST - FH05;2759377;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Dumortierlaan;157;;Dumortierlaan 155-157-159
+KNOKKE-HEIST - FH05;2760061;9;0;1;10;MDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Heilig-Hartlaan;7;;
+KNOKKE-HEIST - FH05;2760529;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Ieperstraat;3;;
+KNOKKE-HEIST - FH05;2760531;9;0;1;10;MDU;;Y;NA;5;3;;1 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Ieperstraat;4;;
+KNOKKE-HEIST - FH05;2760532;10;0;1;11;MDU;;Y;NA;6;3;;11 Units in CRAB, 11 op  nr 5 en 14 op nr 7 in GM;Y;_;BUILDING template;Ieperstraat;5;;Ieperstraat 5-7
+KNOKKE-HEIST - FH05;2760534;8;1;1;10;MDU;;Y;NA;6;6;;;Y;_;BUILDING template;Ieperstraat;6;;
+KNOKKE-HEIST - FH05;2760539;5;0;1;6;MDU;;Y;NA;6;3;;1 Unit in CRAB, bestaat niet in GM.;Y;_;BUILDING template;Ieperstraat;13;;
 KNOKKE-HEIST - FH05;2760541;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Ieperstraat;15;;
+KNOKKE-HEIST - FH05;2760542;11;0;1;12;MDU;;Y;NA;4;3;;11 Units in CRAB, in GM ook.;Y;_;BUILDING template;Ieperstraat;19;;
+KNOKKE-HEIST - FH05;2760547;5;0;1;6;MDU;;N;ORN;5;4;;;Y;_;BUILDING template;Ieperstraat;27;;
+KNOKKE-HEIST - FH05;2761151;4;0;1;5;MDU;;Y;NA;5;3;;5 Units in CRAB, 4 in GM.;Y;_;BUILDING template;Kemmelbergstraat;4;;
+KNOKKE-HEIST - FH05;2762276;14;0;1;15;MDU;;Y;NA;6;3;;14 Units in CRAB. Onduidelijk in GM.;Y;_;BUILDING template;Kustlaan;10;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2762282;14;0;1;15;MDU;;Y;NA;6;3;;14 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Kustlaan;16;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2762285;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;18;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2762288;18;0;1;19;MDU;;Y;NA;6;3;;18 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Kustlaan;22;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2762290;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;24;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2762295;14;0;1;15;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;32;;Kustlaan 28-30-32-34-36
+KNOKKE-HEIST - FH05;2762297;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;34;;Kustlaan 28-30-32-34-36
+KNOKKE-HEIST - FH05;2762302;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;40;;Ieperstraat 2_Kustlaan 38-40-42-44-46
+KNOKKE-HEIST - FH05;2762304;14;1;1;16;MDU;;Y;NA;6;3;;15 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Kustlaan;42;;Ieperstraat 2_Kustlaan 38-40-42-44-46
+KNOKKE-HEIST - FH05;2762306;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;44;;Ieperstraat 2_Kustlaan 38-40-42-44-46
+KNOKKE-HEIST - FH05;2762315;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Kustlaan;56;;
+KNOKKE-HEIST - FH05;2762317;5;1;1;7;MDU;;Y;NA;6;3;;5 Units in CRAB, in GM ook.;Y;_;BUILDING template;Kustlaan;58;;
+KNOKKE-HEIST - FH05;2762320;5;1;1;7;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;60;;
+KNOKKE-HEIST - FH05;2762321;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kustlaan;62;;
+KNOKKE-HEIST - FH05;2762323;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Kustlaan;64;;
 KNOKKE-HEIST - FH05;2763782;0;0;0;0;SDU;;Y;NA;4;4;;bestaat niet in CRAB en GM.;N;;BUILDING template;Jef Mennekenslaan;12;;
+KNOKKE-HEIST - FH05;2763785;4;0;0;4;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Jef Mennekenslaan;20;;
+KNOKKE-HEIST - FH05;2763870;5;0;0;5;MDU;;Y;NA;3;4;;4 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Ferdinand Mosselmanstraat;6;;
+KNOKKE-HEIST - FH05;2763876;3;0;1;4;MDU;;N;IRREG;5;4;;6 Units in CRAB, 4 in GM.;Y;_;BUILDING template;Ferdinand Mosselmanstraat;10;;
+KNOKKE-HEIST - FH05;2763877;5;0;1;6;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Ferdinand Mosselmanstraat;12;;
+KNOKKE-HEIST - FH05;2763881;9;0;1;10;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Ferdinand Mosselmanstraat;18;;
+KNOKKE-HEIST - FH05;2763882;6;0;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Ferdinand Mosselmanstraat;20;;
+KNOKKE-HEIST - FH05;2763885;5;0;1;6;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Ferdinand Mosselmanstraat;22;;
+KNOKKE-HEIST - FH05;2763889;17;0;1;18;MDU;;N;IRREG;5;4;;17 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Mussenpad;2;;
+KNOKKE-HEIST - FH05;2764312;8;0;0;8;MDU;;Y;NA;4;4;;8 Units in CRAB, in GM ook.;Y;_;BUILDING template;Nieuwpoortstraat;3;;
+KNOKKE-HEIST - FH05;2764315;7;1;1;9;MDU;;Y;NA;5;3;;9 Units in CRAB, in GM ook.;Y;_;BUILDING template;Nieuwpoortstraat;7;;
+KNOKKE-HEIST - FH05;2764322;6;0;1;7;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Nieuwpoortstraat;17;;
+KNOKKE-HEIST - FH05;2764326;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Nieuwpoortstraat;19;;
+KNOKKE-HEIST - FH05;2764327;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Nieuwpoortstraat;21;;
+KNOKKE-HEIST - FH05;2764329;4;0;1;5;MDU;;Y;NA;5;3;;5 Units in CRAB, in GM onduidelijk;Y;_;BUILDING template;Nieuwpoortstraat;23;;Nieuwpoortstraat 23-25
+KNOKKE-HEIST - FH05;2764332;14;0;0;14;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Nieuwpoortstraat;29;;
+KNOKKE-HEIST - FH05;2764336;10;0;0;10;MDU;;Y;NA;5;4;;1 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Nieuwpoortstraat;31;;
+KNOKKE-HEIST - FH05;2765562;6;0;1;7;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Piers de Raveschootlaan;84;;
+KNOKKE-HEIST - FH05;2765569;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Piers de Raveschootlaan;88;;
+KNOKKE-HEIST - FH05;2768183;0;1;0;1;MDU;;Y;NA;5;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Zoutelaan;28;;Zoutelaan 28-28A
+KNOKKE-HEIST - FH05;2768185;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;28;A;Zoutelaan 28-28A
+KNOKKE-HEIST - FH05;2768190;4;1;1;6;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;37;;
+KNOKKE-HEIST - FH05;2768192;4;1;1;6;MDU;;Y;NA;5;3;;5 Units in CRAB, in GM ook.;Y;_;BUILDING template;Zoutelaan;39;;
+KNOKKE-HEIST - FH05;2768208;8;1;1;10;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;60;;
+KNOKKE-HEIST - FH05;2768211;15;0;1;16;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Zoutelaan;62;;
+KNOKKE-HEIST - FH05;2768215;14;0;1;15;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Zoutelaan;64;;
+KNOKKE-HEIST - FH05;2768218;7;0;1;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Zoutelaan;66;;
+KNOKKE-HEIST - FH05;2768221;0;1;0;1;MDU;;Y;NA;5;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Zoutelaan;72;;Zoutelaan 72-74-76
+KNOKKE-HEIST - FH05;2768225;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;74;;Zoutelaan 72-74-76
+KNOKKE-HEIST - FH05;2768227;7;0;1;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Zoutelaan;78;;
+KNOKKE-HEIST - FH05;2768229;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Zoutelaan;80;;
+KNOKKE-HEIST - FH05;2768231;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Zoutelaan;82;;
+KNOKKE-HEIST - FH05;289;4;0;1;5;MDU;;Y;NA;3;6;;;Y;_;BUILDING template;Winston Churchilllaan;1;;Piers De Raveschootlaan 80_Winston Churchilllaan 1
+KNOKKE-HEIST - FH05;335121;0;1;0;1;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Driehoeksplein;1;;Driehoeksplein 1-2-3
+KNOKKE-HEIST - FH05;335122;10;0;1;11;MDU;;Y;NA;6;3;;3 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Driehoeksplein;10;;Driehoeksplein 11-10-10A
 KNOKKE-HEIST - FH05;335123;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Kemmelbergstraat;6;;
+KNOKKE-HEIST - FH05;335125;8;0;1;9;MDU;;Y;NA;5;3;;9 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Nieuwpoortstraat;41;;
+KNOKKE-HEIST - FH05;335711;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Kustlaan;8;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;335712;9;0;1;10;MDU;;Y;NA;6;3;;11 Units in CRAB, 9 in GM.;Y;_;BUILDING template;Kustlaan;36;;Kustlaan 28-30-32-34-36
+KNOKKE-HEIST - FH05;335713;0;1;0;1;MDU;;Y;NA;6;3;;15 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Kustlaan;38;;Ieperstraat 2_Kustlaan 38-40-42-44-46
+KNOKKE-HEIST - FH05;335715;22;0;1;23;MDU;;Y;NA;6;3;;22 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Ieperstraat;2;;Ieperstraat 2_Kustlaan 38-40-42-44-46
+KNOKKE-HEIST - FH05;335716;14;0;1;15;MDU;;Y;NA;6;6;;13 Units in CRAB, onduidelijik in GM.;Y;Review Required;BUILDING template;Diksmuidestraat;58;;Diksmuidestraat 56-58
+KNOKKE-HEIST - FH05;335721;5;0;1;6;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Diksmuidestraat;35;;
+KNOKKE-HEIST - FH05;335722;14;0;1;15;MDU;;Y;NA;8;3;;14 Units in CRAB,  onduidelijk in GM.;Y;_;BUILDING template;Diksmuidestraat;33;;Dumortierlaan 111_Diksmuidestraat 33
+KNOKKE-HEIST - FH05;335725;0;1;0;1;MDU;;Y;NA;6;3;;2 Units in CRAB, 2 BU in GM.;Y;_;BUILDING template;Dumortierlaan;113;;Dumortierlaan 113-113B_Diksmuidestraat 50
+KNOKKE-HEIST - FH05;335845;5;0;0;5;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Nieuwpoortstraat;15;;
+KNOKKE-HEIST - FH05;335855;4;0;1;5;MDU;;N;GLASS;4;4;;bestaat niet in CRAB, 3 bussen in GM.;Y;_;BUILDING template;Kemmelbergstraat;5;;Dumortierlaan 116_Kemmelbergstraat 5
+KNOKKE-HEIST - FH05;335867;31;0;1;32;MDU;;Y;NA;6;3;;29 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Dumortierlaan;106;;Dumortierlaan 106-108-110
+KNOKKE-HEIST - FH05;NB-830016729c00;1;0;0;1;SDU;;N;HEIGHT;1;;;;;_;BUILDING template;Jef Mennekenslaan;16;;
+KNOKKE-HEIST - FH05;335868;5;1;0;6;MDU;;N;GLASS;6;4;;8 Units in CRAB 4 Bussen in GM.;Y;_;BUILDING template;Dumortierlaan;116;;Dumortierlaan 116_Kemmelbergstraat 5
+KNOKKE-HEIST - FH05;335869;5;1;0;6;MDU;;Y;NA;6;3;;6 Units in CRAB en GM.;Y;_;BUILDING template;Dumortierlaan;104;;
+KNOKKE-HEIST - FH05;NB-8300258c2d69;5;0;1;6;MDU;;Y;NA;5;3;;;;_;BUILDING template;Nieuwpoortstraat;25;;Nieuwpoortstraat 23-25
+KNOKKE-HEIST - FH05;335873;12;0;1;13;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Ieperstraat;17;;Dumortierlaan 92_Ieperstraat 17
 KNOKKE-HEIST - FH05;336625;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB, onduidelijk in GM.;N;;BUILDING template;Duinviooltjesstraat;1;;
+KNOKKE-HEIST - FH05;336626;1;0;0;1;SDU;;Y;NA;3;4;;1 Unit in CRAB en GM.;Y;_;BUILDING template;Duinviooltjesstraat;9;;
+KNOKKE-HEIST - FH05;336628;4;0;0;4;MDU;;Y;NA;4;3;;3 Units in CRAB, in GM 3 bellen, 1 bus;Y;_;BUILDING template;Duinviooltjesstraat;19;;
+KNOKKE-HEIST - FH05;336629;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Duinviooltjesstraat;14;;
 KNOKKE-HEIST - FH05;336630;0;0;0;0;SDU;;Y;NA;4;4;;2 Units in CRAB, bestaat niet in GM.;N;;BUILDING template;Duinviooltjesstraat;20;;
+KNOKKE-HEIST - FH05;336633;17;0;1;18;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;8;;
+KNOKKE-HEIST - FH05;336635;17;0;1;18;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Ferdinand Mosselmanstraat;16;;
+KNOKKE-HEIST - FH05;336636;4;0;1;5;MDU;;Y;NA;6;3;;6 Units in CRAB, 5 in GM.;Y;_;BUILDING template;Ferdinand Mosselmanstraat;14;;
+KNOKKE-HEIST - FH05;336637;10;0;1;11;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Jef Mennekenslaan;24;;Zoutelaan 55-57-59_Jef Mennekenslaan 22-24
+KNOKKE-HEIST - FH05;336638;3;0;1;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Jef Mennekenslaan;18;;
+KNOKKE-HEIST - FH05;336639;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Jef Mennekenslaan;14;;
+KNOKKE-HEIST - FH05;336640;10;0;0;10;MDU;;Y;NA;5;4;;9 Units in CRAB en GM.;Y;_;BUILDING template;Jef Mennekenslaan;22;;Zoutelaan 55-57-59_Jef Mennekenslaan 22-24
+KNOKKE-HEIST - FH05;336642;0;1;0;1;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Zoutelaan;33;;Zoutelaan 33-35
+KNOKKE-HEIST - FH05;336644;10;0;1;11;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Zoutelaan;59;;Zoutelaan 55-57-59_Jef Mennekenslaan 22-24
+KNOKKE-HEIST - FH05;336645;10;0;1;11;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Zoutelaan;55;;Zoutelaan 55-57-59_Jef Mennekenslaan 22-24
+KNOKKE-HEIST - FH05;336646;10;0;1;11;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Zoutelaan;57;;Zoutelaan 55-57-59_Jef Mennekenslaan 22-24
+KNOKKE-HEIST - FH05;336808;19;0;1;20;MDU;;Y;NA;6;6;;19 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Duinviooltjesstraat;35;;Duinviooltjesstraat 35_Dumortierlaan 22-24
+KNOKKE-HEIST - FH05;336809;21;0;1;22;MDU;;Y;NA;5;3;;21 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Duinviooltjesstraat;24;;
+KNOKKE-HEIST - FH05;336810;5;0;1;6;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;26;;
+KNOKKE-HEIST - FH05;336811;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Ferdinand Mosselmanstraat;2;;
+KNOKKE-HEIST - FH05;336814;0;1;0;1;MDU;;Y;NA;5;4;;1 BU onder nr 12;Y;_;BUILDING template;Dumortierlaan;10;;Dumortierlaan 10-12
+KNOKKE-HEIST - FH05;336815;0;1;0;1;MDU;;Y;NA;6;4;;1 Unit in CRAB, BG onder nr 3 in GM.;Y;_;BUILDING template;Dumortierlaan;28;;Dumortierlaan 28-30
+KNOKKE-HEIST - FH05;336816;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB, 2 in GM.;Y;_;BUILDING template;Dumortierlaan;48;;Dumortierlaan 48-50_Jef Mennekenslaan 2-4-6-8
+KNOKKE-HEIST - FH05;337041;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB, BU in GM onder nr 51;Y;_;BUILDING template;Diksmuidestraat;49;;Diksmuidestraat 49-51
+KNOKKE-HEIST - FH05;337043;27;1;0;28;MDU;;Y;NA;6;3;;29 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Van Bunnenlaan;1;;Van Bunnenlaan 1_Kustlaan 2-4-6
+KNOKKE-HEIST - FH05;337045;8;1;1;10;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;29;;
+KNOKKE-HEIST - FH05;337048;0;1;0;1;MDU;;Y;NA;3;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Dumortierlaan;93;;Dumortierlaan 93-95
+KNOKKE-HEIST - FH05;NB-83003Aa082;5;0;1;6;MDU;;Y;NA;4;4;;;;_;BUILDING template;Winston Churchilllaan;3;A;
 KNOKKE-HEIST - FH05;337084;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Driehoeksplein;12;;
+KNOKKE-HEIST - FH05;337085;4;0;1;5;MDU;;Y;NA;5;3;;4 Units in CRAB, 4 in GM.;Y;_;BUILDING template;Ieperstraat;1;;Ieperstraat 1_Kustlaan 48
+KNOKKE-HEIST - FH05;337086;8;0;1;9;MDU;;Y;NA;6;3;;8 Units in CRAB, 9 in GM.;Y;_;BUILDING template;Ieperstraat;8;;
+KNOKKE-HEIST - FH05;337088;9;1;0;10;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;131;;
+KNOKKE-HEIST - FH05;337089;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Dumortierlaan;155;;Dumortierlaan 155-157-159
+KNOKKE-HEIST - FH05;337104;1;1;0;2;MDU;;Y;NA;4;6;;4 Units in CRAB, 3 in GM.;Y;_;BUILDING template;Kustlaan;50;;
+KNOKKE-HEIST - FH05;NB-83003Bb861;6;0;1;7;MDU;;Y;NA;4;4;;;;_;BUILDING template;Winston Churchilllaan;3;B;
+KNOKKE-HEIST - FH05;337105;0;1;0;1;SDU;;Y;NA;4;6;;1 Unit in CRAB en GM.;Y;_;BUILDING template;Kustlaan;52;;
+KNOKKE-HEIST - FH05;337106;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Kustlaan;54;;
+KNOKKE-HEIST - FH05;337187;4;0;0;4;MDU;;Y;NA;3;3;;4 Units in CRAB, in GM ook.;Y;_;BUILDING template;Winston Churchilllaan;32;;
+KNOKKE-HEIST - FH05;337192;8;0;0;8;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Montgomerylaan;3;;
+KNOKKE-HEIST - FH05;NB-830043e49a69;16;0;1;17;MDU;;Y;NA;6;3;;;;_;BUILDING template;Van Bunnenlaan;43;;Van Bunnenlaan 41-43
+KNOKKE-HEIST - FH05;337193;8;0;0;8;MDU;;Y;NA;3;3;;8 Units in CRAB, 9 in GM.;Y;_;BUILDING template;Montgomerylaan;1;;Zoutelaan 84_Montgomerylaan 1
+KNOKKE-HEIST - FH05;337210;8;0;1;9;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bevrijdingslaan;11;;
+KNOKKE-HEIST - FH05;337212;4;0;1;5;MDU;;N;ORN;4;4;;4LU in CRAB, in GM ook 4;Y;_;BUILDING template;Bevrijdingslaan;9;;
+KNOKKE-HEIST - FH05;337213;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bevrijdingslaan;7;;
 KNOKKE-HEIST - FH05;13046;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Driehoeksplein;15;;
+KNOKKE-HEIST - FH05;337216;3;0;1;4;MDU;;Y;NA;4;3;;5 Units in CRAB, 4 in GM.;Y;_;BUILDING template;Zoutelaan;68;;
+KNOKKE-HEIST - FH05;2758488;5;0;0;5;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;7;;Van Bunnenlaan 5-7
+KNOKKE-HEIST - FH05;338488;8;0;0;8;MDU;;Y;NA;4;3;;9 Units in CRAB, 8 in GM.;Y;_;BUILDING template;Piers de Raveschootlaan;82;;
 KNOKKE-HEIST - FH05;2758508;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Van Bunnenlaan;21;;
+KNOKKE-HEIST - FH05;338491;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Piers de Raveschootlaan;90;;
+KNOKKE-HEIST - FH05;2758530;1;0;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;47;;Van Bunnenlaan 45-47-49
+KNOKKE-HEIST - FH05;NB-8300129d76567;0;1;0;1;MDU;;Y;NA;5;3;;;;_;BUILDING template;Dumortierlaan;129;;Ieperstraat 10_Dumortierlaan 129-129 A
+KNOKKE-HEIST - FH05;338535;0;1;0;1;MDU;;N;ORN;5;4;;1 Unit in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Zoutelaan;24;;Zoutelaan 24_Piers De Raveschootlaan 92
+KNOKKE-HEIST - FH05;2758535;8;1;1;10;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;51;;Van Bunnenlaan 51-53
+KNOKKE-HEIST - FH05;338540;8;0;1;9;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Mussenpad;4;;
+KNOKKE-HEIST - FH05;2758537;0;2;0;2;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;53;;Van Bunnenlaan 51-53
+KNOKKE-HEIST - FH05;NB-8300129A5e13;0;1;0;1;MDU;;Y;NA;5;3;;;;_;BUILDING template;Dumortierlaan;129;A;Ieperstraat 10_Dumortierlaan 129-129 A
+KNOKKE-HEIST - FH05;338541;15;0;1;16;MDU;;Y;NA;5;5;;15 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Mussenpad;6;;Zoutelaan 58_Mussenpad 6
+KNOKKE-HEIST - FH05;2758544;8;1;1;10;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;58;;Van Bunnenlaan 54-56-58-58A
+KNOKKE-HEIST - FH05;NB-830058A9a70;8;1;0;9;MDU;;Y;NA;5;3;;;;_;BUILDING template;Van Bunnenlaan;58;A;Van Bunnenlaan 54-56-58-58A
+KNOKKE-HEIST - FH05;338555;8;0;0;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Winston Churchilllaan;5;;
+KNOKKE-HEIST - FH05;2758639;13;0;1;14;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Winston Churchilllaan;27;;Winston Churchilllaan 25-27
+KNOKKE-HEIST - FH05;NB-8300113Bfd45;0;1;0;1;MDU;;Y;NA;6;3;;;;_;BUILDING template;Dumortierlaan;113;B;Dumortierlaan 113-113B_Diksmuidestraat 50
+KNOKKE-HEIST - FH05;338556;10;0;1;11;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Winston Churchilllaan;7;;
+KNOKKE-HEIST - FH05;2758797;18;0;1;19;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Diksmuidestraat;40;;Diksmuidestraat 38-40
+KNOKKE-HEIST - FH05;338557;11;0;1;12;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Winston Churchilllaan;9;;
+KNOKKE-HEIST - FH05;NB-830028751800;0;1;0;1;MDU;;Y;NA;6;3;;;;_;BUILDING template;Kustlaan;28;;Kustlaan 28-30-32-34-36
+KNOKKE-HEIST - FH05;3923032;0;1;0;1;SDU;;N;IRREG;2;4;;Kerk;Y;_;BUILDING template;Dumortierlaan;52;;
+KNOKKE-HEIST - FH05;2758932;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Driehoeksplein;4;;
+KNOKKE-HEIST - FH05;3939531;7;1;1;9;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;45;;Van Bunnenlaan 45-47-49
+KNOKKE-HEIST - FH05;2758935;9;0;1;10;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Driehoeksplein;8;;Driehoeksplein 7-8-9
+KNOKKE-HEIST - FH05;3939533;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Winston Churchilllaan;13;;
+KNOKKE-HEIST - FH05;2758937;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Driehoeksplein;9;;Driehoeksplein 7-8-9
+KNOKKE-HEIST - FH05;3939550;5;1;1;7;MDU;;Y;NA;6;3;;5 Units in CRAB, 6 in GM.;Y;_;BUILDING template;Dumortierlaan;133;;
+KNOKKE-HEIST - FH05;2758938;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Driehoeksplein;10;A;Driehoeksplein 11-10-10A
+KNOKKE-HEIST - FH05;3939621;4;0;1;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Jef Mennekenslaan;12;A;
+KNOKKE-HEIST - FH05;2759168;7;0;1;8;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;3;;Duinviooltjesstraat 3_Zoutelaan 51-53
+KNOKKE-HEIST - FH05;NB-8300841d2794;0;1;0;1;MDU;;Y;NA;3;3;;;;_;BUILDING template;Zoutelaan;84;;Zoutelaan 84_Montgomerylaan 1
 KNOKKE-HEIST - FH05;2759181;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Duinviooltjesstraat;12;;
 KNOKKE-HEIST - FH05;1148172;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Kustlaan;20;;
+KNOKKE-HEIST - FH05;3939677;12;0;1;13;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Zoutelaan;35;;Zoutelaan 33-35
+KNOKKE-HEIST - FH05;2759186;7;0;1;8;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;18;;Duinviooltjesstraat 16-18
+KNOKKE-HEIST - FH05;1273698;6;0;0;6;MDU;;Y;NA;4;3;;8 Units in CRAB, in GM aantal onduidelijk.;Y;_;BUILDING template;Duinviooltjesstraat;10;;
+KNOKKE-HEIST - FH05;3939678;0;1;0;1;MDU;;N;ORN;5;4;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Zoutelaan;41;;Zoutelaan 41-43
 KNOKKE-HEIST - FH05;2759189;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Duinviooltjesstraat;23;;
+KNOKKE-HEIST - FH05;1297112;13;2;1;16;MDU;;Y;NA;5;4;;13 Units in CRAb, 14 in GM.;Y;_;BUILDING template;Van Bunnenlaan;57;;
+KNOKKE-HEIST - FH05;3993747;4;1;1;6;MDU;;N;GLASS;5;4;;;Y;_;BUILDING template;Dumortierlaan;112;;
 KNOKKE-HEIST - FH05;2759244;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Dumortierlaan;34;;
+KNOKKE-HEIST - FH05;13048;22;0;1;23;MDU;;Y;NA;6;3;;22 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Kustlaan;30;;Kustlaan 28-30-32-34-36
+KNOKKE-HEIST - FH05;4009567;6;0;1;7;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Ieperstraat;39;;
 KNOKKE-HEIST - FH05;2759247;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Dumortierlaan;36;;
+KNOKKE-HEIST - FH05;13052;5;0;0;5;MDU;;Y;NA;3;3;;5 Units in CRAB, 6 bussen in GM.;Y;_;BUILDING template;Ieperstraat;41;;
+KNOKKE-HEIST - FH05;4070898;4;2;1;7;MDU;;Y;NA;5;5;;6 Units in CRAB, in GM 7;Y;_;BUILDING template;Nieuwpoortstraat;9;;
+KNOKKE-HEIST - FH05;13066;9;0;1;10;MDU;;Y;NA;5;3;;8 Units in CRAB, 1 in GM.;Y;_;BUILDING template;Ieperstraat;10;;Ieperstraat 10_Dumortierlaan 129-129 A
+KNOKKE-HEIST - FH05;4153963;6;0;1;7;MDU;;N;ORN;6;4;;6 Units in CRAB, 3 in GM.;Y;_;BUILDING template;Ferdinand Mosselmanstraat;8;;
+KNOKKE-HEIST - FH05;2759260;10;0;1;11;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;44;;Dumortierlaan 42-44-46
+KNOKKE-HEIST - FH05;4197377;11;0;1;12;MDU;;N;ORN;6;4;;1 Units in CRAB, 6 in GM.;Y;Review Required;BUILDING template;Diksmuidestraat;52;;
+KNOKKE-HEIST - FH05;2759301;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;76;;Dumortierlaan 74-76
+KNOKKE-HEIST - FH05;4275251;8;0;1;9;MDU;;Y;NA;5;5;;8 Units in CRAB, in GM ook.;Y;_;BUILDING template;Driehoeksplein;2;;Driehoeksplein 1-2-3
+KNOKKE-HEIST - FH05;2759314;17;0;1;18;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Dumortierlaan;86;;Dumortierlaan 84-86-88
+KNOKKE-HEIST - FH05;1327500;5;1;0;6;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Dumortierlaan;66;;
+KNOKKE-HEIST - FH05;4344963;1;0;0;1;SDU;;Y;NA;3;3;;1 Unit in CRAB, in GM ook.;Y;_;BUILDING template;Duinviooltjesstraat;17;;
+KNOKKE-HEIST - FH05;2759316;0;1;0;1;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Dumortierlaan;88;;Dumortierlaan 84-86-88
+KNOKKE-HEIST - FH05;1343714;7;0;1;8;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Diksmuidestraat;42;;
+KNOKKE-HEIST - FH05;4345064;0;1;0;1;MDU;;Y;NA;5;3;;bestaat niet in CRAB en GM.;Y;_;BUILDING template;Driehoeksplein;7;;Driehoeksplein 7-8-9
+KNOKKE-HEIST - FH05;2759324;5;0;1;6;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;94;A;Dumortierlaan 94A-94B
+KNOKKE-HEIST - FH05;1360225;6;0;1;7;MDU;;Y;NA;6;3;;11 Unit in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Van Bunnenlaan;5;;Van Bunnenlaan 5-7
+KNOKKE-HEIST - FH05;4345831;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bevrijdingslaan;5;;
+KNOKKE-HEIST - FH05;2759325;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;94;B;Dumortierlaan 94A-94B
+KNOKKE-HEIST - FH05;4346075;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Van Bunnenlaan;27;;
+KNOKKE-HEIST - FH05;2759330;14;0;1;15;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;98;;Dumortierlaan 96-98-100
+KNOKKE-HEIST - FH05;1488876;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Diksmuidestraat;37;;
+KNOKKE-HEIST - FH05;4346088;0;1;0;1;MDU;;Y;NA;6;3;;bestaat niet in CRAB, BU in GM.;Y;_;BUILDING template;Kustlaan;14;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2759335;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;100;;Dumortierlaan 96-98-100
+KNOKKE-HEIST - FH05;2758098;3;0;0;3;MDU;;Y;NA;3;3;;4LU in RAB, 3 in IFH en GM.;Y;_;BUILDING template;Bevrijdingslaan;3;;
+KNOKKE-HEIST - FH05;2758482;6;0;1;7;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;3;;
 KNOKKE-HEIST - FH05;4346599;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB, in GM onduidelijk.;N;;BUILDING template;Ferdinand Mosselmanstraat;4;;
+KNOKKE-HEIST - FH05;2759345;0;1;1;2;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;108;;Dumortierlaan 106-108-110
+KNOKKE-HEIST - FH05;2758491;6;0;1;7;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;9;;
+KNOKKE-HEIST - FH05;4347395;5;0;1;6;MDU;;Y;NA;6;6;;;Y;_;BUILDING template;Driehoeksplein;13;;Driehoeksplein 13_Kustlaan 68-66
+KNOKKE-HEIST - FH05;2758494;10;0;1;11;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Van Bunnenlaan;11;;
+KNOKKE-HEIST - FH05;4347728;1;0;0;1;SDU;;Y;NA;4;4;;1 unit in CRAB en GM.;Y;_;BUILDING template;Nieuwpoortstraat;5;;
+KNOKKE-HEIST - FH05;2758499;5;0;1;6;MDU;;Y;NA;6;3;;bestaat niet in CRAB, 5 units in GM.;Y;_;BUILDING template;Van Bunnenlaan;15;;
+KNOKKE-HEIST - FH05;2759367;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Dumortierlaan;137;;Dumortierlaan 135-137-139
+KNOKKE-HEIST - FH05;2758503;14;0;1;15;MDU;;N;ORN;6;4;;16 Units in CRAB, in GM onduidelijk.;Y;_;BUILDING template;Van Bunnenlaan;17;;
+KNOKKE-HEIST - FH05;5567532;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Duinviooltjesstraat;11;;Duinviooltjesstraat 11-13
+KNOKKE-HEIST - FH05;2759368;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Dumortierlaan;139;;Dumortierlaan 135-137-139
+KNOKKE-HEIST - FH05;2758506;12;0;1;13;MDU;;N;IRREG;6;4;;8 Units in CRAB en GM.;Y;_;BUILDING template;Van Bunnenlaan;19;;
+KNOKKE-HEIST - FH05;2759373;1;0;0;1;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Dumortierlaan;149;;Dumortierlaan 149-151-153
+KNOKKE-HEIST - FH05;5579324;25;0;1;26;MDU;;Y;NA;7;6;;25 Units in CRAB, aantal onduidelijk in GM.;Y;Review Required;BUILDING template;Diksmuidestraat;56;;Diksmuidestraat 56-58
+KNOKKE-HEIST - FH05;2759375;0;1;0;1;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Dumortierlaan;153;;Dumortierlaan 149-151-153
+KNOKKE-HEIST - FH05;5579346;9;0;1;10;MDU;;Y;NA;6;3;;9 Units in CRAB, 1e is BG nr 141;Y;_;BUILDING template;Dumortierlaan;143;;Dumortierlaan 141-143
+KNOKKE-HEIST - FH05;2760535;15;0;1;16;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Ieperstraat;7;;Ieperstraat 5-7
+KNOKKE-HEIST - FH05;2758531;5;0;1;6;MDU;;Y;NA;6;3;;5 Units in CRAB en GM.;Y;_;BUILDING template;Van Bunnenlaan;48;;
+KNOKKE-HEIST - FH05;5579347;9;0;1;10;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;147;;Dumortierlaan 145-147
+KNOKKE-HEIST - FH05;2762272;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;4;;Van Bunnenlaan 1_Kustlaan 2-4-6
+KNOKKE-HEIST - FH05;2758533;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Van Bunnenlaan;49;;Van Bunnenlaan 45-47-49
+KNOKKE-HEIST - FH05;5579348;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Dumortierlaan;159;;Dumortierlaan 155-157-159
+KNOKKE-HEIST - FH05;2762278;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;12;;Kustlaan 8-10-12-14-16-18-22-24
+KNOKKE-HEIST - FH05;2758534;0;1;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Van Bunnenlaan;50;;
+KNOKKE-HEIST - FH05;2763778;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Jef Mennekenslaan;4;;Dumortierlaan 48-50_Jef Mennekenslaan 2-4-6-8
+KNOKKE-HEIST - FH05;2758547;2;0;0;2;MDU;;Y;NA;3;3;;5 Units in CRAB, 4 in GM.;Y;_;BUILDING template;Van Bunnenlaan;60;;
+KNOKKE-HEIST - FH05;5579499;12;0;1;13;MDU;;Y;NA;6;3;;12 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Jef Mennekenslaan;2;;Dumortierlaan 48-50_Jef Mennekenslaan 2-4-6-8
+KNOKKE-HEIST - FH05;2763779;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Jef Mennekenslaan;6;;Dumortierlaan 48-50_Jef Mennekenslaan 2-4-6-8
+KNOKKE-HEIST - FH05;2758549;5;0;1;6;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;62;;
+KNOKKE-HEIST - FH05;5579597;0;1;0;1;MDU;;Y;NA;5;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Zoutelaan;53;;Duinviooltjesstraat 3_Zoutelaan 51-53
 KNOKKE-HEIST - FH05;2758620;0;0;0;0;SDU;;Y;NA;4;4;;6 Units in CRAB, in GM ook.;N;;BUILDING template;Winston Churchilllaan;3;;
+KNOKKE-HEIST - FH05;6148072;0;1;0;1;MDU;;Y;NA;3;6;;;Y;_;BUILDING template;Piers de Raveschootlaan;80;;Piers De Raveschootlaan 80_Winston Churchilllaan 1
+KNOKKE-HEIST - FH05;2768195;8;0;1;9;MDU;;N;ORN;5;4;;;Y;_;BUILDING template;Zoutelaan;43;;Zoutelaan 41-43
+KNOKKE-HEIST - FH05;2758627;5;0;0;5;MDU;;Y;NA;4;3;;7 Units in CRAB, 5 bussen in GM.;Y;_;BUILDING template;Winston Churchilllaan;11;;
+KNOKKE-HEIST - FH05;72419;9;0;1;10;MDU;;Y;NA;5;3;;7 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Zoutelaan;63;;Zoutelaan 63-65-67
+KNOKKE-HEIST - FH05;2768216;15;0;1;16;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;65;;Zoutelaan 63-65-67
+KNOKKE-HEIST - FH05;72423;5;0;1;6;MDU;;Y;NA;5;3;;3 Units in CRAB, aantal onduidelijk in GM.;Y;_;BUILDING template;Zoutelaan;69;;
+KNOKKE-HEIST - FH05;335090;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Driehoeksplein;11;;Driehoeksplein 11-10-10A
+KNOKKE-HEIST - FH05;2758631;9;0;1;10;MDU;;N;IRREG;5;4;;;Y;;BUILDING template;Winston Churchilllaan;21;;
+KNOKKE-HEIST - FH05;72428;4;0;1;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;55;;
 KNOKKE-HEIST - FH05;335124;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Kemmelbergstraat;2;;
+KNOKKE-HEIST - FH05;2758634;18;0;1;19;MDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Winston Churchilllaan;23;;
+KNOKKE-HEIST - FH05;72430;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB, BU in GM.;Y;_;BUILDING template;Van Bunnenlaan;41;;Van Bunnenlaan 41-43
 KNOKKE-HEIST - FH05;335126;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Nieuwpoortstraat;47;;
+KNOKKE-HEIST - FH05;2758635;11;0;1;12;MDU;;Y;NA;6;4;;12 Units in CRAB, aantal in GM onduidelijk.;Y;_;BUILDING template;Winston Churchilllaan;25;;Winston Churchilllaan 25-27
+KNOKKE-HEIST - FH05;335710;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;2;;Van Bunnenlaan 1_Kustlaan 2-4-6
+KNOKKE-HEIST - FH05;2758640;10;0;1;11;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Winston Churchilllaan;29;;
+KNOKKE-HEIST - FH05;72432;6;1;0;7;MDU;;Y;NA;5;3;;7 Units in CRAB, in GM ook.;Y;_;BUILDING template;Van Bunnenlaan;54;;Van Bunnenlaan 54-56-58-58A
+KNOKKE-HEIST - FH05;335714;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kustlaan;46;;Ieperstraat 2_Kustlaan 38-40-42-44-46
+KNOKKE-HEIST - FH05;2758641;5;0;1;6;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Winston Churchilllaan;31;;
 KNOKKE-HEIST - FH05;72433;0;0;0;0;SDU;;Y;NA;4;4;;bestaat niet in CRAB, aantal units onduidelijk in GM.;N;;BUILDING template;Van Bunnenlaan;39;;
+KNOKKE-HEIST - FH05;335723;0;1;0;1;MDU;;Y;NA;8;3;;;Y;_;BUILDING template;Dumortierlaan;111;;Dumortierlaan 111_Diksmuidestraat 33
+KNOKKE-HEIST - FH05;2758642;6;0;1;7;MDU;;Y;NA;3;4;;6 Units in CRAB, 6 bussen in GM.;Y;_;BUILDING template;Winston Churchilllaan;33;;Winston Churchilllaan 33-35
+KNOKKE-HEIST - FH05;335866;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;92;;Dumortierlaan 92_Ieperstraat 17
+KNOKKE-HEIST - FH05;2758779;4;0;1;5;MDU;;Y;NA;5;5;;5 Units in CRAB, in GM ook.;Y;_;BUILDING template;Diksmuidestraat;3;;
+KNOKKE-HEIST - FH05;72435;5;0;1;6;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;52;;
+KNOKKE-HEIST - FH05;335872;8;0;1;9;MDU;;N;ORN;5;4;;;Y;_;BUILDING template;Ieperstraat;33;;
+KNOKKE-HEIST - FH05;2758780;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Diksmuidestraat;5;;
+KNOKKE-HEIST - FH05;72436;0;1;0;1;MDU;;Y;NA;2;3;;;Y;_;BUILDING template;Heilig-Hartlaan;2;;Jef Mennekenslaan 3_Heilig Hartlaan 2-4-6
+KNOKKE-HEIST - FH05;336643;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;51;;Duinviooltjesstraat 3_Zoutelaan 51-53
+KNOKKE-HEIST - FH05;2758781;2;0;0;2;MDU;;Y;NA;3;3;;1 Units in CRAB, 2 in GM.;Y;_;BUILDING template;Diksmuidestraat;7;;
+KNOKKE-HEIST - FH05;72437;0;1;0;1;MDU;;Y;NA;2;3;;1 Unit in CRAB, in GM BU.;Y;_;BUILDING template;Heilig-Hartlaan;4;;Jef Mennekenslaan 3_Heilig Hartlaan 2-4-6
+KNOKKE-HEIST - FH05;336805;18;0;1;19;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Jef Mennekenslaan;8;;Dumortierlaan 48-50_Jef Mennekenslaan 2-4-6-8
+KNOKKE-HEIST - FH05;2758782;5;0;1;6;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Diksmuidestraat;9;;
+KNOKKE-HEIST - FH05;337090;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;145;;Dumortierlaan 145-147
+KNOKKE-HEIST - FH05;337091;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;141;;Dumortierlaan 141-143
+KNOKKE-HEIST - FH05;2758790;10;0;1;11;MDU;;Y;NA;5;4;;1 Units in CRAB, Lijken er ook 1 te zijn in GM.;Y;_;BUILDING template;Diksmuidestraat;25;;
+KNOKKE-HEIST - FH05;337092;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Kustlaan;48;;Ieperstraat 1_Kustlaan 48
+KNOKKE-HEIST - FH05;76544;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Diksmuidestraat;31;;
+KNOKKE-HEIST - FH05;337188;6;0;1;7;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Winston Churchilllaan;35;;Winston Churchilllaan 33-35
+KNOKKE-HEIST - FH05;76545;7;0;1;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Diksmuidestraat;23;;
+KNOKKE-HEIST - FH05;337214;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bevrijdingslaan;1;;
+KNOKKE-HEIST - FH05;337215;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Zoutelaan;70;;
+KNOKKE-HEIST - FH05;2758803;6;0;1;7;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Diksmuidestraat;46;;
+KNOKKE-HEIST - FH05;76549;6;0;1;7;MDU;;N;IRREG;6;4;;7 Units in CRAB, niet te vinden in GM.;Y;_;BUILDING template;Diksmuidestraat;38;;Diksmuidestraat 38-40
+KNOKKE-HEIST - FH05;338538;0;1;0;1;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Zoutelaan;58;;Zoutelaan 58_Mussenpad 6
+KNOKKE-HEIST - FH05;2758806;5;0;1;6;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Diksmuidestraat;50;A;Diksmuidestraat 50A_Dumortierlaan 78
+KNOKKE-HEIST - FH05;76550;12;0;1;13;MDU;;Y;NA;4;3;;12 Units in CRAB, 12 bussen in GM.;Y;_;BUILDING template;Van Bunnenlaan;37;;
 KNOKKE-HEIST - FH05;338559;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Winston Churchilllaan;19;;
+KNOKKE-HEIST - FH05;2758808;10;0;1;11;MDU;;Y;NA;6;3;;1 Units in CRAB, in GM ook.;Y;_;BUILDING template;Diksmuidestraat;54;;
+KNOKKE-HEIST - FH05;76551;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;31;;
+KNOKKE-HEIST - FH05;3939622;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Jef Mennekenslaan;12;B;
+KNOKKE-HEIST - FH05;76552;10;0;1;11;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;33;;
 KNOKKE-HEIST - FH05;2758934;0;0;0;0;SDU;;Y;NA;4;4;;;N;;BUILDING template;Driehoeksplein;6;;
+KNOKKE-HEIST - FH05;76553;8;0;1;9;MDU;;Y;NA;5;3;;8 Units in CRAB, in GM ook.;Y;_;BUILDING template;Van Bunnenlaan;35;;
 KNOKKE-HEIST - FH05;4038434;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Mussenpad;2;A;
+KNOKKE-HEIST - FH05;2759171;3;0;1;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Duinviooltjesstraat;5;;
+KNOKKE-HEIST - FH05;4060716;1;0;0;1;MDU;;Y;NA;6;6;;;Y;_;BUILDING template;Dumortierlaan;24;;Duinviooltjesstraat 35_Dumortierlaan 22-24
+KNOKKE-HEIST - FH05;2759174;3;0;0;3;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Duinviooltjesstraat;7;;
+KNOKKE-HEIST - FH05;76555;0;1;0;1;MDU;;Y;NA;5;4;;1 Unit in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Dumortierlaan;54;;Dumortierlaan 54-56
 KNOKKE-HEIST - FH05;4344959;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Ferdinand Mosselmanstraat;24;;
+KNOKKE-HEIST - FH05;2759182;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Duinviooltjesstraat;15;;
+KNOKKE-HEIST - FH05;76556;9;0;1;10;MDU;;Y;NA;6;3;;9 Units in CRAB, in GM ook.;Y;_;BUILDING template;Dumortierlaan;74;;Dumortierlaan 74-76
 KNOKKE-HEIST - FH05;4345058;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Nieuwpoortstraat;45;;
+KNOKKE-HEIST - FH05;2759183;7;0;1;8;MDU;;Y;NA;5;3;;11 Uits in CRAB,  max 14 in GM.;Y;_;BUILDING template;Duinviooltjesstraat;16;;Duinviooltjesstraat 16-18
+KNOKKE-HEIST - FH05;4345066;0;1;0;1;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Driehoeksplein;3;;Driehoeksplein 1-2-3
+KNOKKE-HEIST - FH05;2759193;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Duinviooltjesstraat;25;;
+KNOKKE-HEIST - FH05;76558;8;0;1;9;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Heilig-Hartlaan;11;;
+KNOKKE-HEIST - FH05;4345837;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Zoutelaan;76;;Zoutelaan 72-74-76
+KNOKKE-HEIST - FH05;2759194;4;0;1;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Duinviooltjesstraat;27;;
+KNOKKE-HEIST - FH05;76559;8;0;1;9;MDU;;Y;NA;4;3;;8 Units in CRAB, onduidelijk in GM.;Y;_;BUILDING template;Heilig-Hartlaan;3;;
+KNOKKE-HEIST - FH05;4346602;0;1;0;1;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Dumortierlaan;46;;Dumortierlaan 42-44-46
+KNOKKE-HEIST - FH05;2759196;8;0;1;9;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Duinviooltjesstraat;29;;
+KNOKKE-HEIST - FH05;76560;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Heilig-Hartlaan;1;;
 KNOKKE-HEIST - FH05;4347388;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Ieperstraat;9;;
 KNOKKE-HEIST - FH05;4347645;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Zoutelaan;56;;
+KNOKKE-HEIST - FH05;2759224;5;1;1;7;MDU;;N;GLASS;6;4;;;Y;_;BUILDING template;Dumortierlaan;14;;
+KNOKKE-HEIST - FH05;5579292;8;1;1;10;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Van Bunnenlaan;56;;Van Bunnenlaan 54-56-58-58A
+KNOKKE-HEIST - FH05;2759226;5;1;1;7;MDU;;N;GLASS;6;4;;;Y;_;BUILDING template;Dumortierlaan;16;;
+KNOKKE-HEIST - FH05;5579338;7;0;1;8;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Dumortierlaan;12;;Dumortierlaan 10-12
+KNOKKE-HEIST - FH05;2759229;5;1;1;7;MDU;;N;IRREG;6;4;;;Y;Review Required;BUILDING template;Dumortierlaan;18;;
+KNOKKE-HEIST - FH05;5579339;10;1;1;12;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Dumortierlaan;30;;Dumortierlaan 28-30
+KNOKKE-HEIST - FH05;2759233;3;1;0;4;MDU;;Y;NA;4;4;;4 Units in CRAB, in GM ook.;Y;_;BUILDING template;Dumortierlaan;20;;
+KNOKKE-HEIST - FH05;5579341;0;1;0;1;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Dumortierlaan;50;;Dumortierlaan 48-50_Jef Mennekenslaan 2-4-6-8
+KNOKKE-HEIST - FH05;2759236;0;1;0;1;MDU;;Y;NA;6;6;;1 Unit in CRAB, BG in GM.;Y;_;BUILDING template;Dumortierlaan;22;;Duinviooltjesstraat 35_Dumortierlaan 22-24
+KNOKKE-HEIST - FH05;5579342;4;0;1;5;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Dumortierlaan;56;;Dumortierlaan 54-56
+KNOKKE-HEIST - FH05;5579344;5;0;0;5;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Dumortierlaan;95;;Dumortierlaan 93-95

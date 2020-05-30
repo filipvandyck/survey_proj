@@ -1,0 +1,1198 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+HASSELT - FH08;2407618;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;61;;;217145,276;180145,173
+HASSELT - FH08;2414686;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;40;;;217368,989;180252,556
+HASSELT - FH08;2446492;7;0;0;7;MDU;;N;IRREG;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;98;;;217071,884;180067,887
+HASSELT - FH08;707019;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;56;;;217455,297;180381,204
+HASSELT - FH08;4895215;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Acaciastraat;5;;;217306;180127
+HASSELT - FH08;2407621;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;78;;;217108,317;180131,565
+HASSELT - FH08;2414688;10;0;0;10;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;43;;;217372,154;180299,297
+HASSELT - FH08;2446494;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;100;;;217068,466;180039,959
+HASSELT - FH08;707020;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;53;;;217482,669;180377,052
+HASSELT - FH08;4895299;0;0;0;0;SDU;;N;HEIGHT;2;4;;;N;;BUILDING template;Runkstersteenweg;19;;;217598;180322
+HASSELT - FH08;NB-3500700881;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Monseigneur Kerkhofsstraat;7;;;217473;180226
+HASSELT - FH08;2407623;1;0;1;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;82;;;217095,133;180135,055
+HASSELT - FH08;2414689;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;44;;;217367,58;180238,073
+HASSELT - FH08;2446496;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;106;;;217059,746;179998,872
+HASSELT - FH08;707021;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;54;;;217477,229;180377,387
+HASSELT - FH08;4895713;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Djef Swennenstraat;35;;;216959;180007
+HASSELT - FH08;2407624;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;83;;;217028,484;180195,103
+HASSELT - FH08;2414691;10;0;0;10;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;45;;;217363,761;180288,698
+HASSELT - FH08;2446498;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;107;;;216996,394;179892,186
+HASSELT - FH08;707022;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;51;;;217493,601;180377,727
+HASSELT - FH08;4901495;0;0;0;0;SDU;;N;HEIGHT;1;4;;;N;;BUILDING template;Runkstersteenweg;183;;;217144,524;179899,885
+HASSELT - FH08;2407626;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;85;;;217018,38;180199,586
+HASSELT - FH08;2414693;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;48;;;217365,032;180228,31
+HASSELT - FH08;2446499;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;108;;;217058,796;179991,427
+HASSELT - FH08;707023;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;50;;;217498,995;180378,155
+HASSELT - FH08;4902512;2;0;0;2;MDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Boekstraat;86;;;216723;180268
+HASSELT - FH08;2407628;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;88;;;217027,905;180160,977
+HASSELT - FH08;2414696;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;49;;;217355,423;180277,353
+HASSELT - FH08;2446502;0;1;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;116;;;217047,519;179939,569
+HASSELT - FH08;707024;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;49;;;217506,659;180379,848
+HASSELT - FH08;5496618;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;5;;;216689;180545
+HASSELT - FH08;2407629;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;89;;;217010,806;180203,084
+HASSELT - FH08;2414698;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;50;;;217360,792;180224,537
+HASSELT - FH08;2446504;0;1;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;120;;;217041,312;179907,207
+HASSELT - FH08;707025;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;43;;;217544,917;180372,654
+HASSELT - FH08;5508736;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;23;;;216574;180564
+HASSELT - FH08;2407632;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;91;;;217004,957;180205,416
+HASSELT - FH08;2414701;3;0;0;3;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;51;;;217348,059;180271,374
+HASSELT - FH08;2446506;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;122;;;217040,148;179898,985
+HASSELT - FH08;707027;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;26;;;217263,622;180235,329
+HASSELT - FH08;5509061;0;1;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;13;;;216646;180551
+HASSELT - FH08;2407634;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;92;;;217012,997;180168,857
+HASSELT - FH08;2414702;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;52;;;217359,097;180219,843
+HASSELT - FH08;2446507;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;124;;;217040,124;179890,317
+HASSELT - FH08;707028;3;0;0;3;MDU;;Y;NA;4;3;;"Aantal units in CRAB is hetzelde als in IFH. 2 LU&amp;amp;amp;apos;s via Streetview";Y;_;BUILDING template;Wilgenstraat;19;;;217279,092;180260,71
+HASSELT - FH08;5509062;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;15;;;216622;180556
+HASSELT - FH08;2407635;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;93;;;216999,517;180208,618
+HASSELT - FH08;2414704;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;53;;;217347,343;180263,522
+HASSELT - FH08;2447509;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;3;;;217323,013;180234,96
+HASSELT - FH08;707029;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;4;;;217319,523;180206,654
+HASSELT - FH08;5509063;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;51;;;216565,194;180612,507
+HASSELT - FH08;2407637;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;94;;;217007,122;180170,981
+HASSELT - FH08;2414705;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;54;;;217357,366;180215,051
+HASSELT - FH08;2447511;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;6;;;217314,571;180208,885
+HASSELT - FH08;707030;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;1;;;217330,025;180225,379
+HASSELT - FH08;5509064;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;59;;;216572;180644
+HASSELT - FH08;2407638;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;95;;;216984,549;180216,206
+HASSELT - FH08;2414706;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;58;;;217355,434;180205,18
+HASSELT - FH08;2447512;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;8;;;217309,725;180211,496
+HASSELT - FH08;707031;1;0;0;1;SDU;;N;HEIGHT;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;55;;;217163,853;180137,077
+HASSELT - FH08;5509208;1;0;0;1;SDU;;N;ORN;3;9;;;Y;_;BUILDING template;Spoorwegstraat;167;;;216609,731;180617,079
+HASSELT - FH08;2407640;1;0;0;1;SDU;;N;IRREG;3;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;96;;;217001,558;180174,163
+HASSELT - FH08;2414707;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;59;;;217337,047;180238,959
+HASSELT - FH08;2447513;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;9;;;217307,2;180242,673
+HASSELT - FH08;707032;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;39;;;217198,15;180133,713
+HASSELT - FH08;5552888;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;4;;;216695;180543
+HASSELT - FH08;2407642;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;98;;;216985,678;180178,371
+HASSELT - FH08;2414709;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;60;;;217354,936;180200,007
+HASSELT - FH08;2447514;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;11;;;217301,9;180246,841
+HASSELT - FH08;707033;1;0;1;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;27;;;217237,269;180129,728
+HASSELT - FH08;5552889;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;6;;;216684;180545
+HASSELT - FH08;2407643;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;99;;;216971,271;180218,592
+HASSELT - FH08;2414710;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;61;;;217334,01;180234,57
+HASSELT - FH08;2447515;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;13;;;217295,476;180249,86
+HASSELT - FH08;707034;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;29;;;217230,868;180129,82
+HASSELT - FH08;5552890;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;22;;;216580;180562
+HASSELT - FH08;2407645;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;104;;;216967,99;180185,73
+HASSELT - FH08;2414713;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;62;;;217352,026;180195,537
+HASSELT - FH08;2447516;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;14;;;217293,93;180218,306
+HASSELT - FH08;707036;2;0;0;2;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;36;;;217398,13;180292,644
+HASSELT - FH08;5555609;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;3;;;216701;180542
+HASSELT - FH08;2407646;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;106;;;216955,043;180197,822
+HASSELT - FH08;2414715;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;63;;;217332,561;180229,548
+HASSELT - FH08;2447517;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;15;;;217290,659;180252,607
+HASSELT - FH08;707037;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;47;;;217359,685;180282,359
+HASSELT - FH08;5558400;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;53;;;216567;180617
+HASSELT - FH08;2407648;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;107;;;216917,072;180277,911
+HASSELT - FH08;2414716;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;64;;;217350,238;180190,618
+HASSELT - FH08;2447518;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;20;;;217279,542;180227,897
+HASSELT - FH08;707038;2;0;0;2;MDU;;Y;NA;2;3;;;Y;_;BUILDING template;Ertbeekstraat;31;;;217380,183;180304,541
+HASSELT - FH08;5558403;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;12;;;216652;180550
+HASSELT - FH08;2407649;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;108;;;216949,335;180200,451
+HASSELT - FH08;2414717;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;66;;;217348,55;180185,888
+HASSELT - FH08;2447521;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;22;;;217274,832;180232,244
+HASSELT - FH08;707040;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;5;;;217427,711;180358,787
+HASSELT - FH08;5558404;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;16;;;216610;180558
+HASSELT - FH08;2407650;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;109;;;216914,67;180283,517
+HASSELT - FH08;2414719;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;68;;;217347,904;180180,718
+HASSELT - FH08;2447526;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;24;;;217269,673;180234,694
+HASSELT - FH08;707041;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;4;;;217456,12;180353,5
+HASSELT - FH08;2407651;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;111;;;216910,365;180288,968
+HASSELT - FH08;2414720;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;72;;;217343,665;180168,303
+HASSELT - FH08;2449488;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;13;;;217462,301;180238,581
+HASSELT - FH08;707042;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;2;;;217471,7;180377,916
+HASSELT - FH08;5561271;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;7;;;216679;180546
+HASSELT - FH08;2407653;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;113;;;216899,067;180301,582
+HASSELT - FH08;2414722;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;73;;;217317,728;180178,298
+HASSELT - FH08;2449489;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;19;;;217449,586;180252,452
+HASSELT - FH08;707043;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;109;;;217350,678;180072,609
+HASSELT - FH08;5561273;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;18;;;216599;180560
+HASSELT - FH08;2407655;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;115;;;216894,806;180306,654
+HASSELT - FH08;2414724;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;74;;;217340,911;180163,551
+HASSELT - FH08;2449490;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;20;;;217432,473;180231,207
+HASSELT - FH08;707049;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;69;;;217496,65;180216,319
+HASSELT - FH08;5566875;1;0;0;1;SDU;;N;ORN;3;9;;;Y;_;BUILDING template;Spoorwegstraat;168;;;216604,573;180620,396
+HASSELT - FH08;2407657;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;116;;;216897,569;180250,521
+HASSELT - FH08;2414725;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;77;;;217312,97;180164,906
+HASSELT - FH08;2449491;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;21;;;217446,454;180254,933
+HASSELT - FH08;707050;0;1;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;37;;;217568,316;180291,109
+HASSELT - FH08;5569647;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;17;;;216604;180559
+HASSELT - FH08;2407658;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;117;;;216890,646;180311,177
+HASSELT - FH08;2414728;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;79;;;217312,801;180158,799
+HASSELT - FH08;2449492;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;22;;;217427,624;180235,19
+HASSELT - FH08;707051;0;1;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;7;;;217612,233;180346,505
+HASSELT - FH08;5569648;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;19;;;216595;180561
+HASSELT - FH08;2407660;1;0;0;1;SDU;;N;IRREG;2;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;118;;;216884,408;180261,167
+HASSELT - FH08;2414731;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;86;;;217336,598;180101,78
+HASSELT - FH08;2449493;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;24;;;217423,2;180237,915
+HASSELT - FH08;707052;0;0;0;0;SDU;;N;HEIGHT;4;4;;;N;;BUILDING template;Runkstersteenweg;73;;;217396,171;180180,961
+HASSELT - FH08;5572336;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;55;;;216566;180624
+HASSELT - FH08;2407661;1;0;0;1;SDU;;N;IRREG;2;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;119;;;216886,61;180315,729
+HASSELT - FH08;2414732;1;0;0;1;SDU;;Y;NA;2;6;;Aantal bussen niet te zien op Streetview (in aabouw);Y;_;BUILDING template;Ertbeekstraat;88;;;217337,18;180095,522
+HASSELT - FH08;2449496;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;25;;;217438,609;180261,026
+HASSELT - FH08;707053;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;44;;;217459,104;180357,82
+HASSELT - FH08;5572337;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;57;;;216568;180631
+HASSELT - FH08;2407663;1;0;0;1;SDU;;N;IRREG;3;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;120;;;216880,552;180268,442
+HASSELT - FH08;2414735;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;93;;;217316,871;180072,154
+HASSELT - FH08;2449497;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;28;;;217415,988;180244,928
+HASSELT - FH08;707054;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;42;;;217465,724;180357,481
+HASSELT - FH08;5572340;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;8;;;216674;180548
+HASSELT - FH08;NB-35009408d940;1;0;0;1;SDU;;N;ORN;2;;;;;_;BUILDING template;Sint-Servaasstraat;94;;;216 545;180647
+HASSELT - FH08;2407665;1;0;0;1;SDU;;N;IRREG;3;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;121;;;216882,69;180320,476
+HASSELT - FH08;2418989;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;3;;;217077,103;180246,89
+HASSELT - FH08;2449499;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;30;;;217410,755;180246,703
+HASSELT - FH08;707055;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;25;;;217504,518;180346,826
+HASSELT - FH08;5572342;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;20;;;216590;180560
+HASSELT - FH08;2407667;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;122;;;216875,824;180271,977
+HASSELT - FH08;2418991;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;4;;;217094,262;180278,346
+HASSELT - FH08;2449500;3;0;0;3;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;33;;;217419,27;180273,403
+HASSELT - FH08;707056;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;4;;;217532,29;180295,728
+HASSELT - FH08;5572343;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;21;;;216585;180561
+HASSELT - FH08;NB-3500100905;1;0;0;1;SDU;;N;HEIGHT;1;0;Bouwgrond;Bouwgrond;Y;;BUILDING template;Monseigneur Schruerslaan;1;;;216715;180541
+HASSELT - FH08;2407668;1;0;0;1;SDU;;N;IRREG;2;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;123;;;216878,82;180325,027
+HASSELT - FH08;2418993;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;5;;;217070,459;180247,21
+HASSELT - FH08;2449502;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;35;;;217414,844;180274,357
+HASSELT - FH08;707057;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;1;;;217559,425;180303,987
+HASSELT - FH08;5728849;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;47;;;216561;180593
+HASSELT - FH08;2407669;1;0;0;1;SDU;;N;IRREG;2;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;124;;;216870,625;180275,069
+HASSELT - FH08;2418994;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;6;;;217087,791;180279,825
+HASSELT - FH08;2449503;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;36;;;217399,764;180256,383
+HASSELT - FH08;707058;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;2;;;217541,267;180292,365
+HASSELT - FH08;5736255;1;0;0;1;SDU;;N;ORN;2;6;;;Y;_;BUILDING template;Spoorwegstraat;165;;;216621,604;180610,427
+HASSELT - FH08;2407671;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;126;;;216860,158;180288,258
+HASSELT - FH08;2418996;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;8;;;217084,017;180283,558
+HASSELT - FH08;2449504;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;38;;;217395,672;180260,154
+HASSELT - FH08;707090;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;205;;;217087,981;179867,809
+HASSELT - FH08;5756005;1;0;0;1;SDU;;N;ORN;3;9;;;Y;_;BUILDING template;Spoorwegstraat;166;;;216617;180615
+HASSELT - FH08;2407674;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;128;;;216857,543;180295,694
+HASSELT - FH08;2418998;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;9;;;217058,545;180250,159
+HASSELT - FH08;2449506;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;40;;;217391,52;180262,865
+HASSELT - FH08;707091;0;1;0;1;SDU;;N;IRREG;4;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;217;;;217037,915;179863,018
+HASSELT - FH08;5758607;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;41;;;216553;180567
+HASSELT - FH08;2407675;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;130;;;216853,031;180299,254
+HASSELT - FH08;2419000;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;10;;;217077,599;180284,663
+HASSELT - FH08;2449508;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;41;;;217401,405;180282,818
+HASSELT - FH08;707092;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;197;;;217110,613;179876,154
+HASSELT - FH08;5800955;1;0;0;1;SDU;;N;ORN;3;9;;;Y;_;BUILDING template;Spoorwegstraat;163;;;216638;180605
+HASSELT - FH08;2407677;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;134;;;216837,771;180321,477
+HASSELT - FH08;2419002;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;12;;;217072,39;180286,645
+HASSELT - FH08;2449509;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;42;;;217387,425;180265,627
+HASSELT - FH08;707093;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;195;;;217116,135;179878,772
+HASSELT - FH08;5832694;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jef Koningslaan;1;;;216733;180563
+HASSELT - FH08;2408106;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;4;;;217130,487;180351,393
+HASSELT - FH08;2449512;2;0;0;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;45;;;217394,488;180287,787
+HASSELT - FH08;707095;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;171;;;217173,11;179922,103
+HASSELT - FH08;5847037;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Jef Koningslaan;98;;;216618;180489
+HASSELT - FH08;NB-350096ac9279;2;0;0;2;MDU;;N;IRREG;2;;;;;_;BUILDING template;Sint-Servaasstraat;96;;;216 550;180657
+HASSELT - FH08;2408108;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;5;;;217107,945;180321,956
+HASSELT - FH08;2419004;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;13;;;217049,337;180257,953
+HASSELT - FH08;2449513;2;0;0;2;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;46;;;217379,252;180269,094
+HASSELT - FH08;707096;6;0;0;6;MDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;163;;;217178,595;179929,849
+HASSELT - FH08;5852695;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Jef Koningslaan;94;;;216632;180489
+HASSELT - FH08;2408110;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;6;;;217125,029;180354,252
+HASSELT - FH08;2419006;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;14;;;217066,811;180287,894
+HASSELT - FH08;2455216;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;13;;;216749,337;180219,613
+HASSELT - FH08;707113;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;80;;;217101,402;180131,271
+HASSELT - FH08;5853063;26;0;0;26;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Vredestraat;2;;Vredestraat 2-2A-4-6;217248;180335
+HASSELT - FH08;2408111;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;8;;;217120,41;180355,849
+HASSELT - FH08;2419010;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;15;;;217043,129;180261,271
+HASSELT - FH08;2455226;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;27;;;216706,071;180202,069
+HASSELT - FH08;707114;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;58;;;217144,452;180116,407
+HASSELT - FH08;5857026;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jef Koningslaan;102;;;216602;180487
+HASSELT - FH08;NB-3500159ac6982;1;0;0;1;SDU;;N;ORN;3;;;;;_;BUILDING template;Spoorwegstraat;159;;;216 673;180587
+HASSELT - FH08;2408113;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;9;;;217098,352;180326,433
+HASSELT - FH08;2419013;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;16;;;217061,646;180290,873
+HASSELT - FH08;2455228;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;29;;;216701,183;180200,088
+HASSELT - FH08;707115;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;56;;;217150,042;180111,705
+HASSELT - FH08;5857027;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Jef Koningslaan;92;;;216640;180489
+HASSELT - FH08;2408115;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;10;;;217114,166;180358,145
+HASSELT - FH08;2419016;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;17;;;217036,661;180262,293
+HASSELT - FH08;2455231;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;33;;;216691,409;180196,126
+HASSELT - FH08;707116;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;48;;;217197,047;180106,245
+HASSELT - FH08;5857029;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jef Koningslaan;96;;;216626;180489
+HASSELT - FH08;2408116;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;15;;;217082,567;180333,922
+HASSELT - FH08;2419018;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;18;;;217055,582;180292,334
+HASSELT - FH08;2455234;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;35;;;216686,523;180194,146
+HASSELT - FH08;707117;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;46;;;217202,355;180104,71
+HASSELT - FH08;5857030;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Jef Koningslaan;100;;;216606;180487
+HASSELT - FH08;2408117;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;17;;;217077,011;180334,982
+HASSELT - FH08;2419019;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;19;;;217031,316;180263,123
+HASSELT - FH08;3922334;1;0;0;1;SDU;;N;ORN;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;157;;;216685,121;180583,105
+HASSELT - FH08;707118;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;12;;;217288,759;180099,459
+HASSELT - FH08;5878732;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;43;;;216558;180581
+HASSELT - FH08;2408118;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;18;;;217084,865;180369,251
+HASSELT - FH08;2419020;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;20;;;217050,798;180295,494
+HASSELT - FH08;3937207;1;0;0;1;SDU;;Y;NA;2;3;;"Aantal units in CRAB is hetzelde als in IFH; 1 LU in Maps";Y;_;BUILDING template;Acaciastraat;59;;;217151,002;180142,668
+HASSELT - FH08;707119;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;114;;;217054,863;179958,579
+HASSELT - FH08;2408119;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;21;;;217056,821;180341,547
+HASSELT - FH08;2419022;7;0;0;7;MDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;21;;;217026,51;180266,102
+HASSELT - FH08;3937236;4;0;1;5;MDU;;N;IRREG;4;3;;;Y;_;BUILDING template;Boekstraat;4;;;217079,939;180421,728
+HASSELT - FH08;707120;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;102;;;217064,61;180012,117
+HASSELT - FH08;5885950;0;1;0;1;SDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Spoorwegstraat;80;;;217250;180373
+HASSELT - FH08;2408120;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;22;;;217074,499;180373,254
+HASSELT - FH08;2419024;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;23;;;217021,301;180268,764
+HASSELT - FH08;3937237;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;75;;;216792,367;180340,458
+HASSELT - FH08;707121;2;0;0;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;95;;;217325,996;180069,458
+HASSELT - FH08;5896237;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;54;;;216753;180404
+HASSELT - FH08;2408122;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;23;;;217050,704;180345,747
+HASSELT - FH08;2419026;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;24;;;217040,115;180298,887
+HASSELT - FH08;3937238;2;0;0;2;MDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Boekstraat;82;;;216736,394;180279,597
+HASSELT - FH08;707138;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;54;;;217076,041;180039,217
+HASSELT - FH08;5900971;15;2;1;18;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Vredestraat;6;;Vredestraat 2-2A-4-6;217195;180347
+HASSELT - FH08;2408123;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;24;;;217068,817;180375,475
+HASSELT - FH08;2419028;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;25;;;217015,073;180272,725
+HASSELT - FH08;3937239;1;0;0;1;SDU;;N;IRREG;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;84;;;216730,161;180271,558
+HASSELT - FH08;707139;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Beukenstraat;4;;;217239,417;180027,589
+HASSELT - FH08;5910287;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jef Koningslaan;104;;;216595;180487
+HASSELT - FH08;2408125;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;25;;;217045,603;180346,546
+HASSELT - FH08;2419029;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;26;;;217034,332;180301,351
+HASSELT - FH08;3937240;3;0;0;3;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Boekstraat;88;;;216714,47;180266,663
+HASSELT - FH08;708321;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;80;;;216754,288;180281,34
+HASSELT - FH08;5910288;1;0;0;1;SDU;;N;ORN;1;4;;;Y;_;BUILDING template;Jef Koningslaan;106;;;216590;180486
+HASSELT - FH08;2408126;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;26;;;217063,578;180378,269
+HASSELT - FH08;2419030;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;27;;;217010,037;180273,371
+HASSELT - FH08;3937241;2;0;0;2;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Boekstraat;104;;Boekstraat 104-106;216668,84;180243,15
+HASSELT - FH08;708322;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;139;;;216616,414;180261,352
+HASSELT - FH08;5910825;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;26;;;216861;180443
+HASSELT - FH08;2408128;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;27;;;217039,534;180349,164
+HASSELT - FH08;2419031;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;28;;;217030,239;180305,972
+HASSELT - FH08;3937242;3;0;0;3;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;106;;Boekstraat 104-106;216663,26;180240,32
+HASSELT - FH08;708324;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;85;;;216766,233;180327,976
+HASSELT - FH08;5910827;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;28;;;216865;180446
+HASSELT - FH08;2408129;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;28;;;217057,931;180379,288
+HASSELT - FH08;2419032;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;30;;;217023,045;180304,856
+HASSELT - FH08;3937307;5;0;0;5;MDU;;Y;NA;4;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;69;;;217322,235;180200,081
+HASSELT - FH08;708325;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;89;;;216755,444;180325,116
+HASSELT - FH08;5910829;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;20;;;216849;180431
+HASSELT - FH08;2408131;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;29;;;217034,761;180350,213
+HASSELT - FH08;2419034;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;32;;;217019,232;180309,625
+HASSELT - FH08;3937308;6;0;0;6;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH. Hoeveel bussen niet te zien op Streetview;Y;_;BUILDING template;Ertbeekstraat;85;;;217313,8;180133,33
+HASSELT - FH08;708327;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;87;;;216760,892;180325,529
+HASSELT - FH08;5910830;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;22;;;216854;180434
+HASSELT - FH08;2408132;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;31;;;217028,361;180352,662
+HASSELT - FH08;2419036;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;34;;;217012,325;180309,026
+HASSELT - FH08;3937393;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;49;;;216927,199;180338,99
+HASSELT - FH08;708328;3;0;0;3;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Boekstraat;110;;;216650,681;180234,176
+HASSELT - FH08;5910832;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;24;;;216857;180438
+HASSELT - FH08;2408134;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;33;;;217024,585;180356,396
+HASSELT - FH08;2419037;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;35;;;216967,892;180294,374
+HASSELT - FH08;3937471;5;0;0;5;MDU;;Y;NA;3;4;;"Aantal units in CRAB is hetzelde als in IFH 5 LU&amp;amp;amp;apos;s";Y;_;BUILDING template;Laurierstraat;19;;;216869,575;180212,086
+HASSELT - FH08;708330;1;0;0;1;SDU;;N;IRREG;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;29;;;216552,057;180438,676
+HASSELT - FH08;5910833;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;30;;;216869;180451
+HASSELT - FH08;2408136;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;35;;;217017,956;180355,33
+HASSELT - FH08;2419039;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;36;;;217007,613;180311,811
+HASSELT - FH08;3937617;3;0;0;3;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;9;;;217611,082;180340,22
+HASSELT - FH08;708332;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;19;;;216560,686;180409,465
+HASSELT - FH08;5911474;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Jef Koningslaan;114;;;216564;180485
+HASSELT - FH08;2408137;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;39;;;217006,537;180362,889
+HASSELT - FH08;2419041;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;38;;;216994,637;180317,617
+HASSELT - FH08;3937618;5;0;0;5;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;17;;;217600,715;180327,433
+HASSELT - FH08;708334;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;35;;;216548,906;180456,354
+HASSELT - FH08;5911476;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;108;;;216585;180487
+HASSELT - FH08;2408142;1;0;0;1;SDU;;Y;NA;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;3;;;217013,458;180088,308
+HASSELT - FH08;2419042;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;39;;;216958,749;180304,127
+HASSELT - FH08;3937619;6;0;0;6;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;21;;;217592,974;180317,379
+HASSELT - FH08;708335;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;17;;;216570,679;180372,545
+HASSELT - FH08;5912469;1;0;0;1;SDU;;N;IRREG;1;0;;;Y;_;BUILDING template;Alan Turingstraat;2;;;216788;180400
+HASSELT - FH08;2408144;1;0;0;1;SDU;;Y;NA;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;5;;;217006,639;180088,405
+HASSELT - FH08;2419044;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;42;;;216985,855;180324,834
+HASSELT - FH08;3937620;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;45;;;217543,994;180268,958
+HASSELT - FH08;708337;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;1;;;216586,412;180330,885
+HASSELT - FH08;5945227;1;0;0;1;SDU;;N;ORN;3;9;;;Y;_;BUILDING template;Spoorwegstraat;161;;;216657,89;180592,445
+HASSELT - FH08;2408146;1;0;0;1;SDU;;Y;NA;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;7;;;217001,73;180092,073
+HASSELT - FH08;2419046;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;43;;;216949,131;180311,087
+HASSELT - FH08;3937622;6;0;0;6;MDU;;N;IRREG;3;4;;Staat niet in Crab noch in Geopunt;Y;_;BUILDING template;Runkstersteenweg;71;;;217439,974;180187,67
+HASSELT - FH08;708339;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;32;;;216510,32;180453,497
+HASSELT - FH08;5946960;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;49;;;216564;180598
+HASSELT - FH08;2408147;1;0;0;1;SDU;;Y;NA;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;9;;;216995,153;180092,781
+HASSELT - FH08;2419047;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;44;;;216980,886;180328,77
+HASSELT - FH08;3937626;3;0;0;3;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;123;;;217309,608;180038,124
+HASSELT - FH08;708341;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;2;;;216538,452;180353,39
+HASSELT - FH08;5963728;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;46;;;216780,7;180383,696
+HASSELT - FH08;2408148;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;10;;;217018,752;180054,474
+HASSELT - FH08;2419049;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;45;;;216934,503;180329,832
+HASSELT - FH08;3937628;3;0;0;3;MDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;151;;;217219,181;179965,576
+HASSELT - FH08;708342;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;4;;;216586,116;180422,631
+HASSELT - FH08;5969810;1;0;0;1;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Jef Koningslaan;2;;Jef Koningslaan 12-10-8-6-4-2;216751,172;180552,317
+HASSELT - FH08;2408149;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;11;;;216990,721;180096,916
+HASSELT - FH08;2419051;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;46;;;216975,973;180332,091
+HASSELT - FH08;3937629;2;0;0;2;MDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;Daalleiding links (oprit en grasveldje tussen nr 179 en 185);BUILDING template;Runkstersteenweg;179;;;217153,681;179907,493
+HASSELT - FH08;708344;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;12;;;216609,754;180427,471
+HASSELT - FH08;5974631;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Djef Antenstraat;64;;;216837,634;180200,251
+HASSELT - FH08;2408151;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;12;;;217012,862;180056,382
+HASSELT - FH08;2419052;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;47;;;216931,17;180334,605
+HASSELT - FH08;3937630;1;1;0;2;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;219;;;216998,459;179855,222
+HASSELT - FH08;708346;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;11;;;216618,226;180396,557
+HASSELT - FH08;5975879;1;0;0;1;MDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;10;;Jef Koningslaan 10-12;216740,943;180521,234
+HASSELT - FH08;2408152;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;15;;;216981,288;180098,555
+HASSELT - FH08;2419055;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;51;;;216923,249;180342,386
+HASSELT - FH08;3937637;2;0;0;2;MDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;75;;;217329,294;180377,762
+HASSELT - FH08;708348;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;1;;;216568,661;180378,79
+HASSELT - FH08;5976945;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;48;;;216773;180385
+HASSELT - FH08;2408153;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;16;;;217001,537;180061,123
+HASSELT - FH08;2419056;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;53;;;216919,159;180346,887
+HASSELT - FH08;3937651;5;0;0;5;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Djef Swennenstraat;19;;;216883,415;180045,442
+HASSELT - FH08;708349;0;1;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;18;;;216625,897;180436,245
+HASSELT - FH08;5988456;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Kapellekensbampdstraat;3;;;216789;180230
+HASSELT - FH08;2408154;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;19;;;216967,574;180106,206
+HASSELT - FH08;2423251;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;3;;;216595,684;180385,681
+HASSELT - FH08;3937652;9;0;0;9;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Djef Swennenstraat;21;;;216895,574;180040,965
+HASSELT - FH08;708352;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;20;;;216634,469;180439,359
+HASSELT - FH08;5992891;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;24;;;216568;180564
+HASSELT - FH08;2408155;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;20;;;216991,247;180066,026
+HASSELT - FH08;2423257;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;5;;;216601,409;180387,757
+HASSELT - FH08;3937653;2;0;0;2;MDU;;N;IRREG;2;3;;;Y;_;BUILDING template;Djef Swennenstraat;29;;;216939,787;180019,36
+HASSELT - FH08;708354;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;2;;;216612,823;180341,711
+HASSELT - FH08;6020454;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;6;;;216798;180404
+HASSELT - FH08;2408156;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;22;;;216984,589;180069,637
+HASSELT - FH08;2423260;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;7;;;216607,041;180389,799
+HASSELT - FH08;3937710;5;0;0;5;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;75;;;217035,896;180038,058
+HASSELT - FH08;708356;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;14;;;216645,617;180356,968
+HASSELT - FH08;6020456;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;18;;;216833;180419
+HASSELT - FH08;2408157;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;23;;;216954,843;180108,517
+HASSELT - FH08;2423263;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;8;;;216597,496;180427,324
+HASSELT - FH08;3937717;2;0;0;2;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;7;;;217310,759;180240,34
+HASSELT - FH08;708357;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;1;;;216601,349;180295,472
+HASSELT - FH08;6020457;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;16;;;216826;180417
+HASSELT - FH08;2408158;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;24;;;216979,368;180071,49
+HASSELT - FH08;2423268;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;9;;;216611,751;180392,21
+HASSELT - FH08;3937765;3;0;0;3;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;9;;;216760,712;180225,343
+HASSELT - FH08;708359;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;23;;;216662,098;180321,94
+HASSELT - FH08;6020459;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;14;;;216820;180415
+HASSELT - FH08;2408159;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Djef Antenstraat;26;;;216973,55;180075,786
+HASSELT - FH08;2423276;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;13;;;216623,931;180395,952
+HASSELT - FH08;3937766;2;0;0;2;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;11;;;216754,684;180224,684
+HASSELT - FH08;708364;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;7;;;216767,805;180226,902
+HASSELT - FH08;6020460;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;12;;;216814;180411
+HASSELT - FH08;2408160;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;27;;;216935,373;180124,921
+HASSELT - FH08;2425109;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;1;;;216950,827;180261,919
+HASSELT - FH08;3937767;3;0;0;3;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;15;;;216741,061;180218,866
+HASSELT - FH08;708366;5;0;0;5;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;1;;;216808,802;180238,809
+HASSELT - FH08;6020462;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;10;;;216808;180409
+HASSELT - FH08;2408161;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;28;;;216968,434;180075,606
+HASSELT - FH08;2425111;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;2;;;216980,283;180250,098
+HASSELT - FH08;3956610;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;14;;;217102,998;180363,286
+HASSELT - FH08;708368;1;0;0;1;SDU;;N;HEIGHT;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;39;;;216676,727;180189,98
+HASSELT - FH08;6020464;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;8;;;216803;180407
+HASSELT - FH08;2408162;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;30;;;216963,007;180077,412
+HASSELT - FH08;2425113;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;3;;;216944,741;180259,086
+HASSELT - FH08;4006531;0;0;0;0;SDU;;N;HEIGHT;4;4;;Niet gevonden op Streetview;N;;BUILDING template;Ertbeekstraat;81;;;217312,813;180147,348
+HASSELT - FH08;708369;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;21;;;216720,885;180208,091
+HASSELT - FH08;6020465;1;0;0;1;SDU;;N;IRREG;1;0;;;Y;_;BUILDING template;Alan Turingstraat;4;;;216793;180402
+HASSELT - FH08;2408163;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;31;;;216927,1;180136,768
+HASSELT - FH08;2425115;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;4;;;216976,831;180244,303
+HASSELT - FH08;4015003;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;91;;;217315,386;180077,606
+HASSELT - FH08;708371;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;70;;;216827,548;180215,175
+HASSELT - FH08;6020649;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Jef Koningslaan;4;;;216748,159;180544,863
+HASSELT - FH08;2408164;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;32;;;216956,481;180080,325
+HASSELT - FH08;2425118;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;5;;;216939,959;180254,562
+HASSELT - FH08;4025576;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;17;;;216687,066;180426,6
+HASSELT - FH08;708372;3;0;0;3;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;74;;;216801,713;180246,148
+HASSELT - FH08;6031579;6;0;0;6;MDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;78;;;216708,987;180479
+HASSELT - FH08;2408166;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;33;;;216921,976;180140,376
+HASSELT - FH08;2425121;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;10;;;216927,761;180195,16
+HASSELT - FH08;4046474;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;57;;;217085,609;180066,708
+HASSELT - FH08;708374;17;0;1;18;MDU;;N;IRREG;8;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Hendrik van Veldekesingel;11;;Hendrik van Veldekesingel 9-11;216476,464;180440,282
+HASSELT - FH08;6041512;1;0;0;1;SDU;;N;ORN;1;4;;;Y;_;BUILDING template;Djef Antenstraat;62;;;216842,634;180194,648
+HASSELT - FH08;2408167;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;34;;;216950,51;180083,922
+HASSELT - FH08;2425124;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;12;;;216923,685;180190,648
+HASSELT - FH08;4048988;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;105;;;217001,158;179911,881
+HASSELT - FH08;708375;16;0;1;17;MDU;;N;IRREG;8;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Hendrik van Veldekesingel;9;;Hendrik van Veldekesingel 9-11;216476,436;180440,249
+HASSELT - FH08;6043767;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Jef Koningslaan;112;;;216572;180486
+HASSELT - FH08;2408169;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;35;;;216917,957;180145,464
+HASSELT - FH08;2425126;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;14;;;216918,735;180187,35
+HASSELT - FH08;4058399;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;14;;;217007,38;180058,97
+HASSELT - FH08;708377;12;0;1;13;MDU;;N;IRREG;4;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Hendrik van Veldekesingel;1;;Hendrik van Veldekesingel 1-3;216498,826;180365,925
+HASSELT - FH08;6065769;1;0;0;1;SDU;;N;ORN;1;4;;;Y;_;BUILDING template;Jef Koningslaan;110;;;216579;180486
+HASSELT - FH08;NB-35005700746;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Acaciastraat;57;;;217171;180133
+HASSELT - FH08;2408170;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;37;;;216914,683;180150,541
+HASSELT - FH08;2425129;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;16;;;216913,614;180184,044
+HASSELT - FH08;4083526;4;0;0;4;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;23;;;217244,272;180131,863
+HASSELT - FH08;708378;11;0;1;12;MDU;;N;IRREG;4;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Hendrik van Veldekesingel;3;;Hendrik van Veldekesingel 1-3;216497,434;180370,541
+HASSELT - FH08;6067206;1;0;0;1;SDU;;Y;NA;2;6;;;Y;_;BUILDING template;Spoorwegstraat;147;A;;216797;180528
+HASSELT - FH08;2408171;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;38;;;216928,479;180094,244
+HASSELT - FH08;2432305;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;1;A;;217561,853;180297,503
+HASSELT - FH08;4091669;0;1;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;118;;;217043,784;179930,862
+HASSELT - FH08;708436;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;77;;;217032,326;180026,869
+HASSELT - FH08;6070212;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;50;;;216762;180388
+HASSELT - FH08;NB-3500100748;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Bertold-Brechtstraat;1;;;216721;180353
+HASSELT - FH08;2408173;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;39;;;216910,513;180154,887
+HASSELT - FH08;2432312;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;3;;;217554,988;180307,901
+HASSELT - FH08;4098577;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;22;;;217044,667;180296,313
+HASSELT - FH08;708437;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;71;;;217040,59;180079,491
+HASSELT - FH08;6133385;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;52;;;216755;180395
+HASSELT - FH08;NB-3500600749;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Djef Antenstraat;6;;;217031;180049
+HASSELT - FH08;2408174;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;41;;;216906,794;180159,595
+HASSELT - FH08;2432316;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;5;;;217550,556;180311,946
+HASSELT - FH08;4141781;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;31;;;216696,295;180198,107
+HASSELT - FH08;708438;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;53;;;217056,872;180144,285
+HASSELT - FH08;6174512;0;1;0;1;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Jef Koningslaan;6;;Jef Koningslaan 12-10-8-6-4-2;216744,987;180537,092
+HASSELT - FH08;NB-3500800750;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Djef Antenstraat;8;;;217025;180052
+HASSELT - FH08;2408176;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;42;;;216896,277;180123,177
+HASSELT - FH08;2432321;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;6;;;217528,975;180299,289
+HASSELT - FH08;4155599;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;93;;;216745,439;180322,686
+HASSELT - FH08;708439;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;103;;;217008,733;179936,863
+HASSELT - FH08;6177665;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Alan Turingstraat;34;;;216867;180476,251
+HASSELT - FH08;2408178;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;44;;;216893,813;180130,497
+HASSELT - FH08;2432325;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;7;;;217544,62;180315,092
+HASSELT - FH08;4159224;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;23;;;216557,671;180421,469
+HASSELT - FH08;708440;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;109;;;216995,575;179885,598
+HASSELT - FH08;6206456;0;0;0;0;SDU;;N;HEIGHT;1;4;;;N;;BUILDING template;Alan Turingstraat;36;;;216843;180464
+HASSELT - FH08;NB-3500300752;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Djef Swennenstraat;3;;;216907;180091
+HASSELT - FH08;2408179;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;46;;;216888,581;180134,648
+HASSELT - FH08;2432329;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;8;;;217524,292;180300,434
+HASSELT - FH08;4161414;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;37;;;217410,564;180277,652
+HASSELT - FH08;708441;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;91;;;217015,672;179974,988
+HASSELT - FH08;6218325;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;40;;;216512;180477
+HASSELT - FH08;NB-35007600753;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Ertbeekstraat;76;;;217338;180147
+HASSELT - FH08;2408181;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;48;;;216885,71;180140,758
+HASSELT - FH08;2432332;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;9;;;217542,188;180318,527
+HASSELT - FH08;4165129;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;102;;;216674,173;180245,818
+HASSELT - FH08;708442;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;64;;;216800,115;180304,736
+HASSELT - FH08;6239974;0;1;0;1;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Vredestraat;2;A;Vredestraat 2-2A-4-6;217243;180335
+HASSELT - FH08;2408182;0;1;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;49;;;216857,174;180225,447
+HASSELT - FH08;2432333;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;10;;;217518,313;180302,539
+HASSELT - FH08;4170106;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Beukenstraat;3;;;217258,416;180052,303
+HASSELT - FH08;708443;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;48;;;216871,3;180335,151
+HASSELT - FH08;6315388;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;74;;;216722,429;180454,604
+HASSELT - FH08;NB-3500500755;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Kapellekensbampdstraat;5;;;216779;180228
+HASSELT - FH08;2408184;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;50;;;216879,933;180144,809
+HASSELT - FH08;2432334;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;11;;;217538,231;180323,331
+HASSELT - FH08;4172182;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;79;;;217030,282;180020,348
+HASSELT - FH08;708444;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;125;;;216874,518;180329,63
+HASSELT - FH08;6315389;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;76;;;216717,225;180460,11
+HASSELT - FH08;2408186;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;51;;;216852,191;180229,216
+HASSELT - FH08;2432336;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;12;;;217516,983;180309,389
+HASSELT - FH08;4188287;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;97;;;216977,054;180216,281
+HASSELT - FH08;708445;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;105;;;216921,83;180273,71
+HASSELT - FH08;6315403;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;80;;;216692;180491
+HASSELT - FH08;NB-3500100758;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Monseigneur Kerkhofsstraat;1;;;217488;180212
+HASSELT - FH08;2408188;1;0;0;1;SDU;;N;IRREG;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;52;;;216869,452;180158,294
+HASSELT - FH08;2432339;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;13;;;217533,774;180325,386
+HASSELT - FH08;4190311;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;11;;;216700,907;180396,421
+HASSELT - FH08;708446;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;114;;;216902,917;180246,354
+HASSELT - FH08;6315404;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;82;;;216684;180492
+HASSELT - FH08;2408189;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;53;;;216848,065;180233,694
+HASSELT - FH08;2432340;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;15;;;217530,425;180329,386
+HASSELT - FH08;4190991;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;12;;;217441,639;180339,276
+HASSELT - FH08;708447;5;0;0;5;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;110;;;216940,844;180202,12
+HASSELT - FH08;6315405;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;84;;;216677;180490
+HASSELT - FH08;NB-3500300759;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Monseigneur Kerkhofsstraat;3;;;217484;180217
+HASSELT - FH08;2408191;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;54;;;216866,698;180165,027
+HASSELT - FH08;2432341;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;16;;;217508,779;180314,459
+HASSELT - FH08;4195031;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;97;;;216735,952;180318,363
+HASSELT - FH08;708448;1;0;0;1;SDU;;Y;NA;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;20;;;216904,249;180176,657
+HASSELT - FH08;6315406;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;86;;;216670;180490
+HASSELT - FH08;NB-3500900760;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Monseigneur Kerkhofsstraat;9;;;217468;180229
+HASSELT - FH08;2408192;1;0;0;1;SDU;;N;ORN;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;55;;;216844,728;180238,786
+HASSELT - FH08;2432342;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;17;;;217525,659;180331,637
+HASSELT - FH08;4200017;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;10;;;216603,635;180427,885
+HASSELT - FH08;708449;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;8;;;216932,859;180198,409
+HASSELT - FH08;6315407;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;88;;;216663;180489
+HASSELT - FH08;NB-350018100761;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Runkstersteenweg;181;;;217149;179902
+HASSELT - FH08;2408195;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;56;;;216860,831;180169,296
+HASSELT - FH08;2432343;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;18;;;217504,414;180315,842
+HASSELT - FH08;4200335;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;70;;;217340,739;180178,555
+HASSELT - FH08;708450;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;41;;;216975,535;179998,826
+HASSELT - FH08;6315900;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;56;;;216749;180408
+HASSELT - FH08;2408197;1;0;0;1;SDU;;N;HEIGHT;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;Review Required;BUILDING template;Djef Antenstraat;57;;;216841,545;180244,389
+HASSELT - FH08;2432344;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;19;;;217523,296;180336,025
+HASSELT - FH08;4206047;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;36;;;217134,526;180269,163
+HASSELT - FH08;708451;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;23;;;216914,036;180031,205
+HASSELT - FH08;6315901;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;72;;;216727;180448
+HASSELT - FH08;2408199;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;58;;;216856,695;180174,996
+HASSELT - FH08;2432345;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;23;;;217515,727;180344,745
+HASSELT - FH08;4207480;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;111;;;217019,499;180462,276
+HASSELT - FH08;708453;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;13;;;216892,945;180063,079
+HASSELT - FH08;6315902;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;70;;;216731;180444
+HASSELT - FH08;2408200;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;59;;;216834,829;180260,954
+HASSELT - FH08;2432346;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;24;;;217493,479;180324,979
+HASSELT - FH08;4208029;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;6;;;216973,122;180239,321
+HASSELT - FH08;708454;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;5;;;216906,873;180083,506
+HASSELT - FH08;6315905;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;66;;;216736;180433
+HASSELT - FH08;2408203;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;61;;;216830,142;180265,461
+HASSELT - FH08;2432347;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;26;;;217490,674;180327,867
+HASSELT - FH08;4213268;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;102;;;216974,576;180183,535
+HASSELT - FH08;708456;9;0;0;9;MDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;8;;;216890,9;179866,92
+HASSELT - FH08;6315907;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;64;;;216740;180428
+HASSELT - FH08;2408205;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;63;;;216826,352;180270,065
+HASSELT - FH08;2432348;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;28;;;217487,59;180331,331
+HASSELT - FH08;4214786;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;4;;;216966,778;179959,994
+HASSELT - FH08;708457;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;7;;;216937,961;179865,904
+HASSELT - FH08;6315908;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;62;;;216741;180423
+HASSELT - FH08;2408207;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;68;;;216831,5;180210,143
+HASSELT - FH08;2432349;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;30;;;217487,769;180337,876
+HASSELT - FH08;4220955;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;5;;;217317,186;180236,359
+HASSELT - FH08;708458;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;1;;;216953,531;179926,915
+HASSELT - FH08;6315909;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;60;;;216745;180419
+HASSELT - FH08;2408209;3;0;0;3;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Djef Antenstraat;76;;;216797,356;180251,304
+HASSELT - FH08;2432351;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;32;;;217484,672;180341,369
+HASSELT - FH08;4222287;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;67;;;216818,652;180279,852
+HASSELT - FH08;708459;2;0;0;2;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;19;;;216735,098;180217,811
+HASSELT - FH08;6315913;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;58;;;216748;180414
+HASSELT - FH08;2408211;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;78;;;216795,381;180255,942
+HASSELT - FH08;2432354;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;34;;;217480,437;180343,904
+HASSELT - FH08;4223372;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;7;;;216903,751;180078,339
+HASSELT - FH08;708460;5;0;0;5;MDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;9;;;216905,246;180238,64
+HASSELT - FH08;6315914;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;68;;;216732;180438
+HASSELT - FH08;2408213;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;80;;;216790,583;180260,779
+HASSELT - FH08;2432357;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;36;;;217475,83;180345,269
+HASSELT - FH08;4224151;1;0;0;1;MDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;84;;Acaciastraat 84-86-86A;217060,35;180151,97
+HASSELT - FH08;708461;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;15;;;216885,336;180222,112
+HASSELT - FH08;6333553;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;42;;;216511;180483
+HASSELT - FH08;2408214;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;82;;;216780,616;180274,48
+HASSELT - FH08;2436844;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;11;;;217608,323;180335,29
+HASSELT - FH08;4224792;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;11;;;217054,483;180257,32
+HASSELT - FH08;708462;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;88;;;216768,011;180291,89
+HASSELT - FH08;6356975;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;15;;;217457;180247
+HASSELT - FH08;2408216;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;84;;;216774,525;180278,691
+HASSELT - FH08;2436845;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;13;;;217596,4;180352,968
+HASSELT - FH08;4232192;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;7;;;217026,211;180438,912
+HASSELT - FH08;708463;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;66;;;216835,515;180205,038
+HASSELT - FH08;6377974;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;38;;;216513;180472
+HASSELT - FH08;2408218;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;86;;;216771,652;180285,255
+HASSELT - FH08;2436854;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;27;;;217586,606;180315,328
+HASSELT - FH08;4232347;0;1;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;147;A;;217247;179978
+HASSELT - FH08;708464;2;0;0;2;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;69;;;216813,634;180286,61
+HASSELT - FH08;6381710;1;0;0;1;SDU;;N;ORN;1;4;;;Y;_;BUILDING template;Sint-Servaasstraat;44;;;216515;180488
+HASSELT - FH08;2409113;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Beukenstraat;5;;;217247,529;180055,828
+HASSELT - FH08;2436859;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;29;;;217583,874;180311,547
+HASSELT - FH08;4233725;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;17;;;217270,675;180129,525
+HASSELT - FH08;708465;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;45;;;216863,999;180215,662
+HASSELT - FH08;6381711;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;46;;;216517;180493
+HASSELT - FH08;2409115;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Beukenstraat;6;;;217233,013;180027,686
+HASSELT - FH08;2436865;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;33;;;217577,32;180305,421
+HASSELT - FH08;4234037;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;19;;;217070,908;180339,798
+HASSELT - FH08;708466;1;0;0;1;SDU;;N;IRREG;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;60;;;216852,553;180180,663
+HASSELT - FH08;6381712;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;52;;;216524;180524
+HASSELT - FH08;2409116;1;0;0;1;SDU;;N;IRREG;2;3;;;Y;_;BUILDING template;Beukenstraat;7;;;217239,208;180056,764
+HASSELT - FH08;2436874;1;1;0;2;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;39;;;217552,999;180281,576
+HASSELT - FH08;4239901;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;10;;;216634,73;180351,831
+HASSELT - FH08;708467;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;25;;;216949,792;180112,319
+HASSELT - FH08;6385259;0;0;0;0;SDU;;N;HEIGHT;1;4;;;N;;BUILDING template;Alan Turingstraat;32;;;216877;180455
+HASSELT - FH08;2409117;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;9;;;217232,408;180056,947
+HASSELT - FH08;2436875;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;41;;;217547,608;180279,646
+HASSELT - FH08;4242990;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;10;;;217056,141;180412,121
+HASSELT - FH08;708468;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;4;;;217035,069;180046,902
+HASSELT - FH08;6386366;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;60;;;216519;180558
+HASSELT - FH08;2409118;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;12;;;217216,819;180028,33
+HASSELT - FH08;2436884;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;43;;;217547,976;180272,336
+HASSELT - FH08;4244203;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;25;;;216710,959;180204,049
+HASSELT - FH08;708471;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;76;;;217323,926;180378,603
+HASSELT - FH08;6390906;6;0;1;7;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;48;;;216516,401;180506,742
+HASSELT - FH08;2409119;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;14;;;217211,107;180028,601
+HASSELT - FH08;2436894;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;47;;;217539,971;180265,233
+HASSELT - FH08;4244804;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;43;;;217070,435;180201,072
+HASSELT - FH08;708475;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;136;;;216862,798;180518,623
+HASSELT - FH08;6395354;1;0;0;1;SDU;;N;ORN;1;4;;;Y;_;BUILDING template;Sint-Servaasstraat;50;;;216508,014;180510,815
+HASSELT - FH08;2409120;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;15;;;217214,921;180058,185
+HASSELT - FH08;2436896;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;49;;;217536,696;180260,723
+HASSELT - FH08;4247811;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;223;;;216985,22;179851,104
+HASSELT - FH08;708476;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;137;;;216857,664;180518,579
+HASSELT - FH08;6399928;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;56;;;216525;180541
+HASSELT - FH08;2409121;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;16;;;217206,233;180028,989
+HASSELT - FH08;2436897;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;51;;;217530,773;180255,311
+HASSELT - FH08;4248608;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;7;;;216617,866;180303,097
+HASSELT - FH08;708477;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;138;;;216852,76;180518,696
+HASSELT - FH08;6399929;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;58;;;216512,978;180555,753
+HASSELT - FH08;2409123;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;18;;;217200,29;180028,664
+HASSELT - FH08;2436900;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;53;;;217526,514;180251,428
+HASSELT - FH08;4249265;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;20;;;217500,564;180318,696
+HASSELT - FH08;708478;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;139;;;216848,319;180518,267
+HASSELT - FH08;6399930;2;0;0;2;MDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;62;;;216526;180560
+HASSELT - FH08;2409124;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;19;;;217201,33;180057,186
+HASSELT - FH08;2436903;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;55;;;217522,952;180247,148
+HASSELT - FH08;4269275;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;11;;;217226,558;180056,562
+HASSELT - FH08;708479;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;140;;;216843,541;180518,267
+HASSELT - FH08;6399931;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;36;;;216514;180466
+HASSELT - FH08;2409125;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;20;;;217194,065;180026,151
+HASSELT - FH08;2436909;2;0;0;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;57;;;217518,644;180243,572
+HASSELT - FH08;4269532;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;17;;;216973,169;180103,557
+HASSELT - FH08;708480;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;141;;;216839,327;180519,021
+HASSELT - FH08;6404472;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;54;;;216526;180537
+HASSELT - FH08;2409127;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;21;;;217195,113;180059,466
+HASSELT - FH08;2436911;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;59;;;217514,951;180239,476
+HASSELT - FH08;708481;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;143;;;216830,283;180523,523
+HASSELT - FH08;6404473;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;34;;;216509,463;180460,903
+HASSELT - FH08;2409129;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;23;;;217188,834;180058,992
+HASSELT - FH08;2436915;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;61;;;217510,001;180233,939
+HASSELT - FH08;4269755;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;61;;;217053,067;180119,594
+HASSELT - FH08;708482;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;144;;;216821,763;180523,589
+HASSELT - FH08;6409003;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;64;;;216528;180568
+HASSELT - FH08;2409131;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;24;;;217181,176;180029,823
+HASSELT - FH08;2436920;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;63;;;217507,875;180228,478
+HASSELT - FH08;4272451;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;101;;;216965,634;180222,861
+HASSELT - FH08;708483;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;146;;;216809,338;180524,444
+HASSELT - FH08;6469364;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;66;;;216529;180573
+HASSELT - FH08;2409133;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;25;;;217182,382;180058,329
+HASSELT - FH08;2436924;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;65;;;217504,4;180224,35
+HASSELT - FH08;4893705;1;0;0;1;SDU;;N;ORN;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;213;;;217052,288;179861,457
+HASSELT - FH08;708484;1;0;0;1;SDU;;Y;NA;2;6;;nr. 147 1 LU. Er is ook nog een 147A 1 LU;Y;_;BUILDING template;Spoorwegstraat;147;;;216803,542;180526,975
+HASSELT - FH08;6469409;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;74;;;216534;180594
+HASSELT - FH08;2409134;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;26;;;217174,771;180029,792
+HASSELT - FH08;2436930;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;67;;;217500,983;180219,912
+HASSELT - FH08;4895155;0;1;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;14;;;217511,978;180312,333
+HASSELT - FH08;708485;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;148;;;216790,636;180531,065
+HASSELT - FH08;6469533;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;72;;;216532;180589
+HASSELT - FH08;2409136;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;27;;;217176,412;180059,604
+HASSELT - FH08;2436942;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;A;;217404,256;180174,286
+HASSELT - FH08;4895158;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;22;;;217497,373;180322,411
+HASSELT - FH08;708486;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;149;;;216783,971;180535,175
+HASSELT - FH08;6469539;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;76;;;216535;180599
+HASSELT - FH08;2409137;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;28;;;217167,844;180029,446
+HASSELT - FH08;2436946;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;E;;217391,78;180200,062
+HASSELT - FH08;4895166;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;38;;;217470,997;180349,091
+HASSELT - FH08;708487;4;0;0;4;MDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;135;;;216869,896;180518,906
+HASSELT - FH08;6469540;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;82;;;216537;180616
+HASSELT - FH08;2409139;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;29;;;217170,363;180061,667
+HASSELT - FH08;2436949;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;F;;217395,542;180205,062
+HASSELT - FH08;4895168;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;40;;;217469,478;180353,063
+HASSELT - FH08;708488;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;134;;;216872,515;180513,276
+HASSELT - FH08;6469832;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;68;;;216530;180578
+HASSELT - FH08;2409140;1;0;0;1;SDU;;Y;NA;3;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;30;;;217161,625;180030,136
+HASSELT - FH08;2436954;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;G;;217398,59;180209,903
+HASSELT - FH08;4895198;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Normandiestraat;21;;;217517,996;180339,232
+HASSELT - FH08;708489;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;133;;;216877,824;180511,066
+HASSELT - FH08;6469833;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;86;;;216537;180627
+HASSELT - FH08;2409142;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;31;;;217164,483;180062,873
+HASSELT - FH08;2436968;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;77;;;217430,993;180150,144
+HASSELT - FH08;4895216;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;9;;;217293,223;180123,668
+HASSELT - FH08;708490;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;132;;;216885,475;180512,613
+HASSELT - FH08;6470008;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;78;;;216535;180605
+HASSELT - FH08;2409144;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;32;;;217154,642;180033,544
+HASSELT - FH08;2436970;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;79;;;217426,496;180146,781
+HASSELT - FH08;4895217;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;11;;;217287,839;180127,488
+HASSELT - FH08;708491;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;131;;;216889,846;180510,073
+HASSELT - FH08;6470188;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;80;;;216536;180610
+HASSELT - FH08;2409146;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;33;;;217158,997;180063,125
+HASSELT - FH08;2436974;1;1;0;2;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;81;;;217419,717;180142,568
+HASSELT - FH08;4895221;2;0;0;2;MDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;21;;;217252,251;180131,279
+HASSELT - FH08;708492;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;130;;;216894,413;180508,331
+HASSELT - FH08;6470189;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;84;;;216538;180621
+HASSELT - FH08;NB-35004500797;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Spoorwegstraat;45;;;217534;180375
+HASSELT - FH08;2409147;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;34;;;217146,581;180034,507
+HASSELT - FH08;2436979;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;83;;;217403,685;180131,364
+HASSELT - FH08;4895246;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;17;;;217285,982;180255,523
+HASSELT - FH08;708493;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;129;;;216897,888;180504,901
+HASSELT - FH08;6470190;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;90;;;216540;180637
+HASSELT - FH08;2409148;1;0;0;1;SDU;;Y;NA;4;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;34;A;;217141,304;180035,627
+HASSELT - FH08;2436988;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;85;;;217402,709;180125,125
+HASSELT - FH08;4895257;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;10;;;217304,191;180215,029
+HASSELT - FH08;708494;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;128;;;216902,41;180501,609
+HASSELT - FH08;6470375;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;70;;;216531;180583
+HASSELT - FH08;2409150;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;35;;;217153,458;180063,538
+HASSELT - FH08;2436998;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;87;;;217398,261;180118,142
+HASSELT - FH08;4895260;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;12;;;217299,262;180217,569
+HASSELT - FH08;708495;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;127;;;216907,366;180500,623
+HASSELT - FH08;6470376;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;92;;;216541;180643
+HASSELT - FH08;2409153;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;37;;;217148,029;180060,709
+HASSELT - FH08;2437005;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;89;;;217390,352;180114,569
+HASSELT - FH08;4895264;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;16;;;217289,303;180223,621
+HASSELT - FH08;708496;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;126;;;216913,063;180501,585
+HASSELT - FH08;6470740;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Sint-Servaasstraat;88;;;216539;180632
+HASSELT - FH08;2409155;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;40;;;217125,259;180034,105
+HASSELT - FH08;2437013;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;91;;;217388,331;180108,941
+HASSELT - FH08;4895268;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;18;;;217283,933;180224,659
+HASSELT - FH08;708497;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;125;;;216916;180495,68
+HASSELT - FH08;6626877;1;0;0;1;SDU;;N;HEIGHT;2;4;;;Y;_;BUILDING template;Vredestraat;28;;;217163,925;180309,678
+HASSELT - FH08;2409156;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;41;;;217134,529;180062,554
+HASSELT - FH08;2437024;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;93;;;217382,657;180107,11
+HASSELT - FH08;4895304;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;31;;;217580,668;180308,576
+HASSELT - FH08;708498;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;124;;;216926,366;180498,652
+HASSELT - FH08;6626889;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;37;;;216544;180462
+HASSELT - FH08;2409157;1;0;0;1;SDU;;Y;NA;3;73;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;42;;;217120,526;180034,106
+HASSELT - FH08;2437026;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;95;;;217379,895;180102,143
+HASSELT - FH08;4895306;2;0;0;2;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;35;;;217572,446;180299,153
+HASSELT - FH08;708500;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;122;;;216947,139;180490,946
+HASSELT - FH08;6627459;0;1;0;1;MDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;8;;Jef Koningslaan 12-10-8-6-4-2;216741,657;180530,115
+HASSELT - FH08;2409158;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;43;;;217127,61;180063,091
+HASSELT - FH08;2437037;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;97;;;217376,282;180097,747
+HASSELT - FH08;4895310;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;39;;;217406,487;180281,987
+HASSELT - FH08;708501;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;121;;;216952,856;180487,977
+HASSELT - FH08;6644172;1;0;0;1;MDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;12;;Jef Koningslaan 12-10-8-6-4-2;216744,511;180512,987
+HASSELT - FH08;2409160;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;45;;;217121,44;180065,681
+HASSELT - FH08;2437047;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;99;;;217373,137;180093,036
+HASSELT - FH08;4895321;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;11;;;217465,14;180234,675
+HASSELT - FH08;708502;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;120;;;216957,858;180485,991
+HASSELT - FH08;6644173;0;1;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Jef Koningslaan;14;;;216773;180483
+HASSELT - FH08;2409162;0;1;0;1;SDU;;Y;NA;2;5;;GEEN LU. Volgens Google zou hier een bedrijf zitten;Y;_;BUILDING template;Beukenstraat;46;;;217107,098;180035,138
+HASSELT - FH08;2437054;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;103;;;217364,207;180086,308
+HASSELT - FH08;4895327;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;23;;;217442,53;180258,052
+HASSELT - FH08;708503;0;1;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;119;;;216963,872;180482,552
+HASSELT - FH08;6666345;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;Potentiele Bouwgrond;BUILDING template;Lucien Nolensstraat;11;;;216932;179854
+HASSELT - FH08;2409163;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;47;;;217115,488;180065,401
+HASSELT - FH08;2437063;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;105;;;217358,983;180083,764
+HASSELT - FH08;4895333;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;22;;;217426,555;180322,093
+HASSELT - FH08;708504;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;118;;;216981,384;180475,782
+HASSELT - FH08;6666346;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;Potentiele Bouwgrond;BUILDING template;Lucien Nolensstraat;12;;;216902;179900
+HASSELT - FH08;2409165;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;48;;;217093,38;180036,637
+HASSELT - FH08;2437067;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;107;;;217356,963;180077,941
+HASSELT - FH08;4895339;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;32;;;217411,732;180300,928
+HASSELT - FH08;708505;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;117;;;216987,194;180473,903
+HASSELT - FH08;6666348;0;0;0;0;SDU;;N;HEIGHT;1;4;;;N;;BUILDING template;Jef Koningslaan;90;;;216647;180489
+HASSELT - FH08;2409166;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;49;;;217109,729;180065,839
+HASSELT - FH08;2437075;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;111;;;217335,532;180057,428
+HASSELT - FH08;4895357;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;57;;;217338,266;180248,273
+HASSELT - FH08;708506;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;116;;;216992,617;180473,653
+HASSELT - FH08;704806;10;2;1;13;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Vredestraat;4;;Vredestraat 2-2A-4-6;217219;180345
+HASSELT - FH08;2409168;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;50;;;217087,459;180037,387
+HASSELT - FH08;2437080;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;113;;;217330,014;180055,613
+HASSELT - FH08;4895362;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;75;;;217314,074;180171,403
+HASSELT - FH08;708507;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;115;;;216997,396;180469,635
+HASSELT - FH08;707035;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Acaciastraat;3;;;217314;180128
+HASSELT - FH08;2409169;1;0;0;1;SDU;;Y;NA;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;52;;;217081,81;180038,985
+HASSELT - FH08;2437081;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;115;;;217326,139;180051,733
+HASSELT - FH08;4895384;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;26;;;217419,242;180241,053
+HASSELT - FH08;708508;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;114;;;217003,687;180468,531
+HASSELT - FH08;708363;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;RUNKSTER T.C.;BUILDING template;Kapellekensbampdstraat;30;;;216684,626;180132,842
+HASSELT - FH08;2409170;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;53;;;217097,543;180065,872
+HASSELT - FH08;2437083;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;119;;;217317,944;180045,347
+HASSELT - FH08;4895389;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;32;;;217405,966;180248,858
+HASSELT - FH08;708509;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;113;;;217007,895;180466,472
+HASSELT - FH08;708455;5;0;0;5;MDU;;N;IRREG;2;4;;;Y;5 sociale appartementen - Nolens II;BUILDING template;Lucien Nolensstraat;10;;;216900;179889
+HASSELT - FH08;2409172;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;55;;;217091,516;180064,986
+HASSELT - FH08;2437089;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;121;;;217313,713;180041,871
+HASSELT - FH08;4895392;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;34;;;217403,067;180253,102
+HASSELT - FH08;708510;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;112;;;217015,053;180464,71
+HASSELT - FH08;708474;1;0;0;1;SDU;;N;ORN;3;10;;;Y;_;BUILDING template;Spoorwegstraat;158;;;216677,573;180585,396
+HASSELT - FH08;2409173;4;0;0;4;MDU;;N;IRREG;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;59;;;217078,195;180067,841
+HASSELT - FH08;2437094;1;0;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;125;;;217304,713;180035,369
+HASSELT - FH08;4895414;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;42;;;217367,667;180243,393
+HASSELT - FH08;708511;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;110;;;217024,436;180460,776
+HASSELT - FH08;2409426;4;0;0;4;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Boekstraat;2;A;;217093,125;180428,08
+HASSELT - FH08;2437099;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;127;;;217301,769;180030,21
+HASSELT - FH08;4895416;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;46;;;217365,619;180233,414
+HASSELT - FH08;708512;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;109;;;217028,448;180457,272
+HASSELT - FH08;2409427;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;3;;;217037,946;180442,344
+HASSELT - FH08;2437104;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;129;;;217296,025;180028,466
+HASSELT - FH08;4895421;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;56;;;217357,118;180209,842
+HASSELT - FH08;708513;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;108;;;217034,219;180457,862
+HASSELT - FH08;2409428;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;6;;;217066,956;180415,951
+HASSELT - FH08;2437107;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;131;;;217292,343;180024,253
+HASSELT - FH08;4895430;2;0;0;2;MDU;;Y;NA;4;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;78;;;217338,886;180134,093
+HASSELT - FH08;708514;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;107;;;217040,312;180456,185
+HASSELT - FH08;2409429;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;9;;;217021,556;180436,921
+HASSELT - FH08;2437115;2;0;0;2;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;133;;;217287,795;180020,903
+HASSELT - FH08;4895444;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;25;;;217391,374;180320,294
+HASSELT - FH08;708515;2;0;0;2;MDU;;N;ORN;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;104;;;217055,859;180449,961
+HASSELT - FH08;2409431;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;11;;;217016,724;180435,211
+HASSELT - FH08;2437130;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;139;;;217265,619;179999,903
+HASSELT - FH08;4895448;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;29;;;217384,056;180308,987
+HASSELT - FH08;708516;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;99;;;217098,972;180427,916
+HASSELT - FH08;2409433;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;12;;;217050,551;180409,648
+HASSELT - FH08;2437135;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;141;;;217259,458;179998,899
+HASSELT - FH08;4895503;1;0;1;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;101;;;217369,111;180089,315
+HASSELT - FH08;708517;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;98;;;217104,647;180426,41
+HASSELT - FH08;2409435;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;13;;;217011,75;180433,454
+HASSELT - FH08;2437139;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;145;;;217251,454;179991,238
+HASSELT - FH08;4895550;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;11;;;216894,725;180231,245
+HASSELT - FH08;708518;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;97;;;217110,581;180425,36
+HASSELT - FH08;2409437;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;14;;;217046,105;180405,865
+HASSELT - FH08;2437141;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;147;;;217246,517;179987,679
+HASSELT - FH08;4895553;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;13;;;216889,78;180227,023
+HASSELT - FH08;708519;0;1;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;96;;;217115,337;180422,141
+HASSELT - FH08;2409438;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;15;;;217006,466;180432,958
+HASSELT - FH08;2437145;0;2;0;2;MDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;149;;;217241,414;179984,323
+HASSELT - FH08;4895556;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;17;;;216880,031;180218,337
+HASSELT - FH08;708520;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;95;;;217120,259;180419,493
+HASSELT - FH08;2409440;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;16;;;217040,171;180404,608
+HASSELT - FH08;2437147;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;Overspanning 10m + 5m façadebekabeling op hoogspanningscabine. Overspanning op 7m hoogte;BUILDING template;Runkstersteenweg;153;;;217217,166;179958,582
+HASSELT - FH08;4895588;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;36;;;216944,915;180085,897
+HASSELT - FH08;708521;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;94;;;217126,003;180418,682
+HASSELT - FH08;2409442;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;17;;;217001,739;180430,989
+HASSELT - FH08;2437149;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;155;;;217205,48;179948,614
+HASSELT - FH08;4895591;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Djef Swennenstraat;8;;;216988,734;179951,764
+HASSELT - FH08;708522;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;93;;;217130,46;180414,773
+HASSELT - FH08;2409443;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;19;;;216997,033;180427,81
+HASSELT - FH08;2437151;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;157;;;217199,242;179946,627
+HASSELT - FH08;4895608;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;Kabelgoot op de gevel;BUILDING template;Djef Antenstraat;21;;;216961,021;180107,596
+HASSELT - FH08;708523;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;Review Required;BUILDING template;Spoorwegstraat;92;;;217135,821;180412,845
+HASSELT - FH08;2409446;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;21;;;216992,777;180423,837
+HASSELT - FH08;2437153;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;159;;;217193,939;179940,801
+HASSELT - FH08;4895610;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;29;;;216931,979;180131,288
+HASSELT - FH08;708524;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;91;;;217141,795;180412,803
+HASSELT - FH08;2409448;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;23;;;216986,296;180422,364
+HASSELT - FH08;2437154;6;0;0;6;MDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;161;;;217186,045;179935,981
+HASSELT - FH08;4895628;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;18;;;216908,929;180180,352
+HASSELT - FH08;708525;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;89;;;217152,178;180408,224
+HASSELT - FH08;2409451;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;25;;;216981,526;180419,505
+HASSELT - FH08;2437170;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;173;;;217167,647;179918,961
+HASSELT - FH08;4895661;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;100;;;216979,195;180179,918
+HASSELT - FH08;708526;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;90;;;217146,312;180410,002
+HASSELT - FH08;2409455;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;27;;;216975,431;180417,385
+HASSELT - FH08;2437174;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;175;;;217163,311;179914,881
+HASSELT - FH08;4895673;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;5;;;216943,696;179879,982
+HASSELT - FH08;708527;2;0;0;2;MDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;87;;;217162,258;180405,494
+HASSELT - FH08;2409457;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;28;;;216988,696;180381,57
+HASSELT - FH08;2437181;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;177;;;217158,513;179910,085
+HASSELT - FH08;4895716;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;37;;;216966,08;180005,952
+HASSELT - FH08;708530;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;42;;;217127,038;180250,418
+HASSELT - FH08;2409458;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;29;;;216969,962;180415,205
+HASSELT - FH08;2437190;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;187;;;217131,733;179889,662
+HASSELT - FH08;4895744;1;0;0;1;SDU;;N;ORN;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;Review Required;BUILDING template;Djef Antenstraat;65;;;216822,525;180274,968
+HASSELT - FH08;708531;1;0;0;1;SDU;;N;HEIGHT;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;30;;;217155,313;180294,918
+HASSELT - FH08;2409460;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;30;;;216982,876;180380,532
+HASSELT - FH08;2437199;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;189;;;217128,141;179886,663
+HASSELT - FH08;4897023;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;39;;;217072,822;180212,981
+HASSELT - FH08;708532;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;51;;;217064,797;180177,528
+HASSELT - FH08;2409462;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;31;;;216964,153;180413,046
+HASSELT - FH08;2437206;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;191;;;217124,054;179883,96
+HASSELT - FH08;4897027;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;49;;;217065,876;180183,99
+HASSELT - FH08;708533;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;33;;;217082,445;180229,813
+HASSELT - FH08;2409464;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;32;;;216977,356;180378,711
+HASSELT - FH08;2437208;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;193;;;217120,225;179881,572
+HASSELT - FH08;4897051;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;37;;;216963,52;180298,608
+HASSELT - FH08;708534;2;0;0;2;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Boekstraat;2;;;217085,695;180425,843
+HASSELT - FH08;2409466;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;33;;;216958,231;180410,56
+HASSELT - FH08;2437219;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;201;;;217100,954;179871,926
+HASSELT - FH08;4897053;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;41;;;216954,104;180307,463
+HASSELT - FH08;708535;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;24;;;217019,65;180395,383
+HASSELT - FH08;2409468;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;34;;;216973,214;180375,71
+HASSELT - FH08;2437224;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;203;;;217094,738;179869,702
+HASSELT - FH08;4897077;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;71;;;217371,021;180376,455
+HASSELT - FH08;708536;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;26;;;216994,437;180384,463
+HASSELT - FH08;2409469;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;35;;;216941,49;180402,488
+HASSELT - FH08;2437233;5;0;1;6;MDU;;N;IRREG;4;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;207;;;217076,152;179866,717
+HASSELT - FH08;4897089;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;3;;;217114,524;180320,399
+HASSELT - FH08;708537;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;44;;;216945,374;180364,627
+HASSELT - FH08;2409471;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;36;;;216966,71;180374,026
+HASSELT - FH08;2437234;2;0;0;2;MDU;;N;IRREG;4;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;215;;;217041,369;179870,123
+HASSELT - FH08;4897091;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;7;;;217102,686;180324,468
+HASSELT - FH08;708538;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;1;;;217044,531;180449,115
+HASSELT - FH08;2409473;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;37;;;216937,026;180400,925
+HASSELT - FH08;2437246;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;221;;;216991,342;179851,515
+HASSELT - FH08;4897092;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;13;;;217087,757;180330,639
+HASSELT - FH08;708539;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;61;;;216861,553;180367,291
+HASSELT - FH08;2409474;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;39;;;216931,301;180398,718
+HASSELT - FH08;2437259;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;225;;;216977,408;179850,241
+HASSELT - FH08;4897160;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;12;;;217108,32;180360,892
+HASSELT - FH08;708541;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;20;;;217029,464;180400,151
+HASSELT - FH08;2409476;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;40;;;216956,111;180369,689
+HASSELT - FH08;2437268;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;227;;;216970,256;179850,846
+HASSELT - FH08;4897163;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;16;;;217091,429;180367,339
+HASSELT - FH08;708542;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;18;;;217036,008;180401,74
+HASSELT - FH08;2409478;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;41;;;216924,385;180396,423
+HASSELT - FH08;2437281;2;0;0;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;239;;;216939,407;179835,776
+HASSELT - FH08;4897166;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;20;;;217079,31;180371,206
+HASSELT - FH08;708543;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;1;;;217120,125;180317,627
+HASSELT - FH08;2409480;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;42;;;216951,218;180366,949
+HASSELT - FH08;2437287;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;241;;;216932,556;179833,75
+HASSELT - FH08;4897187;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;38;;;216961,415;180371,792
+HASSELT - FH08;708544;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;37;;;217013,832;180360,019
+HASSELT - FH08;2409481;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;43;;;216920,212;180393,964
+HASSELT - FH08;2439017;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;3;;;216583,764;180339,116
+HASSELT - FH08;4897213;1;0;0;1;SDU;;N;IRREG;4;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;8;;;217061,323;180413,915
+HASSELT - FH08;708545;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;2;;;217137,294;180349,203
+HASSELT - FH08;2409484;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;45;;;216914,121;180392,512
+HASSELT - FH08;2439024;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;4;;;216534,213;180358,692
+HASSELT - FH08;4897216;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;22;;;217025,112;180397,435
+HASSELT - FH08;708546;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;30;;;217051,432;180380,232
+HASSELT - FH08;2409486;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;47;;;216908,941;180389,653
+HASSELT - FH08;2439030;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;5;;;216582,958;180345,241
+HASSELT - FH08;4897244;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;40;;;216989,894;180321,653
+HASSELT - FH08;708547;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;1;;;217082,654;180247,713
+HASSELT - FH08;2409488;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;49;;;216903,095;180387,149
+HASSELT - FH08;2439035;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;6;;;216532,511;180364,407
+HASSELT - FH08;4897250;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;48;;;216972,454;180335,853
+HASSELT - FH08;708548;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;31;;;216995,43;180276,873
+HASSELT - FH08;2409489;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;51;;;216897,552;180385,39
+HASSELT - FH08;2439036;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;7;;;216577,012;180349,308
+HASSELT - FH08;4897255;2;0;0;2;MDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;7;;;217062,679;180249,623
+HASSELT - FH08;708549;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;33;;;216972,937;180290,059
+HASSELT - FH08;2409491;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;53;;;216883,978;180376,079
+HASSELT - FH08;2439037;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;8;;;216530,953;180370,226
+HASSELT - FH08;4897271;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;29;;;217003,944;180277,909
+HASSELT - FH08;708550;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;55;;;216915,589;180353,055
+HASSELT - FH08;2409493;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;54;;;216831,986;180319,166
+HASSELT - FH08;2439038;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;10;;;216528,53;180375,778
+HASSELT - FH08;4897276;0;1;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;105;;;217047,482;180454,072
+HASSELT - FH08;708551;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;2;;;217101,151;180276,654
+HASSELT - FH08;2409494;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;55;;;216877,49;180373,256
+HASSELT - FH08;2439045;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;12;;;216527,679;180381,897
+HASSELT - FH08;4901486;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;199;;;217105,781;179873,912
+HASSELT - FH08;708552;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;50;;;216967,075;180338,46
+HASSELT - FH08;2409496;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;56;;;216824,952;180316,502
+HASSELT - FH08;2439049;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;13;;;216575,519;180361,536
+HASSELT - FH08;4901489;1;1;0;2;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;209;;;217065,641;179866,258
+HASSELT - FH08;708553;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;103;;;216959,83;180225,18
+HASSELT - FH08;2409497;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;57;;;216872,562;180371,245
+HASSELT - FH08;2439051;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;14;;;216525,751;180387,621
+HASSELT - FH08;4901536;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;117;;;217322,468;180048,215
+HASSELT - FH08;708554;4;0;0;4;MDU;;Y;NA;4;3;;3 of 4 Units afhankelijk of 4e verdiep ook nog apart is;Y;_;BUILDING template;Acaciastraat;71;;;217116,095;180158,555
+HASSELT - FH08;2409499;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;58;;;216820,067;180314,116
+HASSELT - FH08;2439055;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;15;;;216572,649;180366,826
+HASSELT - FH08;4901579;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;26;;;217254,744;180101,16
+HASSELT - FH08;708555;2;0;0;2;MDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;90;;;217019,569;180165,834
+HASSELT - FH08;2409501;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;59;;;216866,019;180368,661
+HASSELT - FH08;2439059;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;Review Required;BUILDING template;Sint-Servaasstraat;16;;;216523,232;180393,854
+HASSELT - FH08;4901581;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;36;;;217228,482;180101,056
+HASSELT - FH08;708556;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;132;;;216849,354;180304,763
+HASSELT - FH08;2409502;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;60;;;216813,043;180310,137
+HASSELT - FH08;2439065;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;18;;;216518,429;180411,439
+HASSELT - FH08;4901585;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;40;;;217218,677;180101,822
+HASSELT - FH08;708557;2;0;0;2;MDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Laurierstraat;7;;;216933,111;180251,766
+HASSELT - FH08;2409504;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;62;;;216805,85;180308,503
+HASSELT - FH08;2439073;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;20;;;216517,17;180418,007
+HASSELT - FH08;4901588;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;44;;;217207,671;180104,68
+HASSELT - FH08;708558;7;0;0;7;MDU;;Y;NA;3;3;;Niet duidelijk te zien op Streetview;Y;_;BUILDING template;Wilgenstraat;21;;;217272,062;180265,035
+HASSELT - FH08;2409506;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;65;;;216847,843;180364,556
+HASSELT - FH08;2439076;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;21;;;216557,917;180415,472
+HASSELT - FH08;4901603;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;137;;;217269,193;180004,17
+HASSELT - FH08;708559;7;0;0;7;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Wilgenstraat;28;;;217257,408;180239,382
+HASSELT - FH08;2409508;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;67;;;216841,522;180362,239
+HASSELT - FH08;2439078;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;22;;;216516,039;180423,905
+HASSELT - FH08;4901611;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;143;;;217254,727;179996,284
+HASSELT - FH08;709215;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;243;;;216923,41;179832,544
+HASSELT - FH08;NB-35008700819;1;0;0;1;SDU;;N;HEIGHT;1;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Ertbeekstraat;87;;;217340;180259
+HASSELT - FH08;2409510;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;69;;;216834,871;180360,107
+HASSELT - FH08;2439079;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;24;;;216514,902;180429,835
+HASSELT - FH08;4901627;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;10;;;217222,055;180028,093
+HASSELT - FH08;2409511;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;71;;;216828,722;180356,845
+HASSELT - FH08;2439083;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;26;;;216513,767;180435,756
+HASSELT - FH08;4901630;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;22;;;217187,644;180026,311
+HASSELT - FH08;1019988;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;123;;;216940,181;180490,714
+HASSELT - FH08;2409513;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;73;;;216822,116;180354,641
+HASSELT - FH08;2439088;1;0;0;1;SDU;;N;IRREG;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;27;;;216556,461;180433,48
+HASSELT - FH08;4901636;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;38;;;217131,515;180033,969
+HASSELT - FH08;1183766;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Anjelierenstraat;11;;;217091,931;180327,873
+HASSELT - FH08;2409515;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Boekstraat;77;;;216784,88;180343,07
+HASSELT - FH08;2439093;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;28;;;216515,497;180442,208
+HASSELT - FH08;4901657;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;39;;;217141,76;180061,7
+HASSELT - FH08;1294949;0;1;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;245;;;216841,547;179854,189
+HASSELT - FH08;2409517;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;79;;;216782,726;180334,598
+HASSELT - FH08;2439098;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;30;;;216511,445;180447,61
+HASSELT - FH08;4901663;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;51;;;217103,474;180065,887
+HASSELT - FH08;1296695;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;31;;;216551,634;180444,735
+HASSELT - FH08;2409520;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;81;;;216777,016;180332,233
+HASSELT - FH08;2439101;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;33;;;216550,271;180450,529
+HASSELT - FH08;4901728;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;13;;;217221,007;180057,092
+HASSELT - FH08;1318122;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;25;;;216679,146;180463,677
+HASSELT - FH08;2409521;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;83;;;216771,419;180329,42
+HASSELT - FH08;2439990;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;42;;;217550,143;180371,698
+HASSELT - FH08;4901729;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;17;;;217208,494;180058,008
+HASSELT - FH08;1326304;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Antenstraat;47;;;216859,602;180219,788
+HASSELT - FH08;2409523;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;91;;;216750,847;180322,725
+HASSELT - FH08;2439994;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;47;;;217523,207;180376,141
+HASSELT - FH08;4901741;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;104;;;217062,719;180005,005
+HASSELT - FH08;1326305;5;0;0;5;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Djef Antenstraat;43;;;216897,476;180170,473
+HASSELT - FH08;2409525;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;94;;;216708,725;180265,733
+HASSELT - FH08;2439998;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;48;;;217517,049;180375,174
+HASSELT - FH08;4902352;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;23;;;216715,844;180206,04
+HASSELT - FH08;1362060;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;27;;;217433,345;180262,418
+HASSELT - FH08;2409526;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;95;;;216740,729;180320,371
+HASSELT - FH08;2440015;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;57;;;217450,293;180381,19
+HASSELT - FH08;4902358;1;0;0;1;SDU;;N;HEIGHT;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Kapellekensbampdstraat;37;;;216681,638;180192,166
+HASSELT - FH08;1362482;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;7;;;216711,628;180381,077
+HASSELT - FH08;2409528;2;0;0;2;MDU;;N;IRREG;3;3;;;Y;_;BUILDING template;Boekstraat;96;;;216691,773;180253,846
+HASSELT - FH08;2440019;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;58;;;217445,272;180379,691
+HASSELT - FH08;4902398;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;13;;;216696,766;180405,764
+HASSELT - FH08;1372722;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;22;;;216653,724;180399,382
+HASSELT - FH08;2409529;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;98;;;216684,726;180252,673
+HASSELT - FH08;2440022;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;59;;;217440,275;180381,873
+HASSELT - FH08;4902406;0;1;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;2;;;216699,141;180298,648
+HASSELT - FH08;1445509;1;0;0;1;SDU;;Y;NA;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;8;;;217227,856;180027,514
+HASSELT - FH08;2409530;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;99;;;216731,317;180314,845
+HASSELT - FH08;2440026;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;60;;;217434,717;180381,625
+HASSELT - FH08;4902408;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Bertold-Brechtstraat;3;;;216714,818;180362,528
+HASSELT - FH08;1458122;6;0;0;6;MDU;;Y;NA;4;4;;4 brievenbussen aan eerste voordeur en iets verder nog een deur voor nr. 2 met nog 2 bussen;Y;_;BUILDING template;Beukenstraat;2;;;217268,622;180013,802
+HASSELT - FH08;2409531;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;100;;;216679,297;180248,99
+HASSELT - FH08;2440028;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;61;;;217428,184;180364,923
+HASSELT - FH08;4902488;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;131;;;216638,384;180271,263
+HASSELT - FH08;1461325;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;39;;;216970,245;180000,975
+HASSELT - FH08;2409533;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;108;;;216657,24;180237,894
+HASSELT - FH08;2440032;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;62;;;217423,582;180380,655
+HASSELT - FH08;4902500;0;0;0;0;SDU;;N;HEIGHT;2;4;;Aantal units in CRAB is hetzelde als in IFH;N;;BUILDING template;Sint-Servaasstraat;9;;;216574,756;180354,863
+HASSELT - FH08;1492093;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;14;;;216670,674;180366,008
+HASSELT - FH08;2409534;1;0;0;1;SDU;;N;IRREG;2;3;;3LU;Y;_;BUILDING template;Boekstraat;117;;;216676,541;180289,023
+HASSELT - FH08;2440035;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;63;;;217418,221;180379,83
+HASSELT - FH08;4902530;1;0;0;1;SDU;;N;IRREG;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Servaasstraat;25;;;216555,211;180426,926
+HASSELT - FH08;1498585;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;185;;;217136,262;179891,245
+HASSELT - FH08;2409537;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;119;;;216670,612;180287,325
+HASSELT - FH08;2440036;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;64;;;217413,056;180379,289
+HASSELT - FH08;4902549;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;6;;;216591,755;180425,211
+HASSELT - FH08;1522250;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;29;;;217429,357;180266,664
+HASSELT - FH08;2409538;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;121;;;216664,646;180284,227
+HASSELT - FH08;2440037;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;65;;;217407,524;180378,603
+HASSELT - FH08;5302978;1;0;0;1;SDU;;N;IRREG;1;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;3;;;217163,471;180392,594
+HASSELT - FH08;1522252;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;31;;;217425,501;180268,806
+HASSELT - FH08;2409540;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;123;;;216660,393;180280,998
+HASSELT - FH08;2440039;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;66;;;217401,933;180377,722
+HASSELT - FH08;5320271;3;0;0;3;MDU;;Y;NA;4;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;211;;;217057,177;179867,1
+HASSELT - FH08;21886;3;0;0;3;MDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;75;;;217434,858;180156,659
+HASSELT - FH08;2409541;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;125;;;216653,503;180279,808
+HASSELT - FH08;2440042;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;67;;;217396,227;180377,39
+HASSELT - FH08;5391254;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Jasmijnstraat;43;A;;216937,392;180323,825
+HASSELT - FH08;21888;1;0;0;1;SDU;;N;IRREG;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Beukenstraat;1;;;217267,126;180052,939
+HASSELT - FH08;2409542;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;127;;;216648,988;180276,474
+HASSELT - FH08;2440043;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;68;;;217390,321;180379,768
+HASSELT - FH08;5412004;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Sint-Kristoffelstraat;22;;;216642,885;180446,602
+HASSELT - FH08;NB-350018006ba85;1;0;0;1;SDU;;Y;NA;3;10;;;;_;BUILDING template;Spoorwegstraat;180;;;215 953;180937
+HASSELT - FH08;21902;1;0;0;1;SDU;;Y;NA;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;86;;;217167,741;180404,317
+HASSELT - FH08;2409543;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;129;;;216643,149;180273,918
+HASSELT - FH08;2440047;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;69;;;217384,172;180377,638
+HASSELT - FH08;5422654;0;0;0;0;SDU;;N;HEIGHT;2;4;;Aantal units in CRAB is hetzelde als in IFH;N;;BUILDING template;Beukenstraat;36;A;;217136,857;180032,856
+HASSELT - FH08;2406607;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;2;;;216953,538;179919,875
+HASSELT - FH08;2409545;0;1;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;130;;;216599,936;180196,857
+HASSELT - FH08;2440051;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;70;;;217377,482;180381,902
+HASSELT - FH08;5468821;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;B;;217401,053;180176,951
+HASSELT - FH08;2406609;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;3;;;216948,112;179903,503
+HASSELT - FH08;2409547;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;133;;;216631,468;180270,09
+HASSELT - FH08;2440055;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;72;;;217362,652;180379,676
+HASSELT - FH08;5494765;7;0;1;8;MDU;;N;ORN;4;12;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;162;;;216645,91;180600,144
+HASSELT - FH08;2406610;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;4;;;216948,527;179897,078
+HASSELT - FH08;2409548;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;135;;;216626,67;180267,703
+HASSELT - FH08;2440066;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;88;;;217157,547;180407
+HASSELT - FH08;5494766;12;0;1;13;MDU;;N;IRREG;7;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;14;;;216634,286;180558,647
+HASSELT - FH08;NB-350055732c52;1;0;0;1;SDU;;Y;NA;2;3;;;;_;BUILDING template;Ertbeekstraat;55;;;217 333;180260
+HASSELT - FH08;2406611;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Lucien Nolensstraat;6;;;216939,382;179873,291
+HASSELT - FH08;2409550;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Boekstraat;137;;;216621,263;180265,214
+HASSELT - FH08;2440117;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;123;A;;216933,269;180493,8
+HASSELT - FH08;5508735;1;0;0;1;SDU;;N;ORN;2;6;;;Y;_;BUILDING template;Monseigneur Schruerslaan;2;;;216708,426;180541,688
+HASSELT - FH08;2407137;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;4;;;216699,649;180304,894
+HASSELT - FH08;2412901;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;3;;;216606,386;180298,287
+HASSELT - FH08;2440153;0;0;0;0;SDU;;N;HEIGHT;2;4;;Niet te zien vanaf Streetview maar ik denk wel meerdere Units;N;;BUILDING template;Spoorwegstraat;150;;;216776,102;180542,006
+HASSELT - FH08;5508969;1;0;0;1;MDU;;N;ORN;3;4;;;Y;_;BUILDING template;Jef Koningslaan;7;B;Spoorwegstraat 7A-7B;216721,836;180541,041
+HASSELT - FH08;2407139;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;5;;;216713,135;180372,221
+HASSELT - FH08;2412903;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;4;;;216618,287;180344,247
+HASSELT - FH08;2442081;8;0;0;8;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Djef Swennenstraat;1;;;216917,213;180098,863
+HASSELT - FH08;5509209;0;1;0;1;SDU;;N;ORN;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;152;;;216714,147;180569,719
+HASSELT - FH08;2407140;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;6;;;216696,244;180312,538
+HASSELT - FH08;2412906;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;5;;;216612,403;180301,292
+HASSELT - FH08;2442084;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;2;;;216961,774;179964,843
+HASSELT - FH08;5509224;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;11;;;216658,156;180551,417
+HASSELT - FH08;2407144;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;8;;;216689,099;180322,01
+HASSELT - FH08;2412909;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;6;;;216623,834;180346,82
+HASSELT - FH08;2442089;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;6;;;216982,088;179952,441
+HASSELT - FH08;5521592;1;0;0;1;SDU;;N;ORN;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;154;;;216700,88;180574,874
+HASSELT - FH08;2407145;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;9;;;216706,692;180388,905
+HASSELT - FH08;2412913;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;8;;;216628,629;180347,329
+HASSELT - FH08;2442090;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;9;;;216898,105;180074,768
+HASSELT - FH08;5521593;1;0;0;1;SDU;;N;ORN;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;155;;;216694,854;180576,513
+HASSELT - FH08;2407147;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;10;;;216687,801;180331,351
+HASSELT - FH08;2412915;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;9;;;216623,884;180305,315
+HASSELT - FH08;2442091;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;10;;;217003,662;179942,314
+HASSELT - FH08;5530689;1;0;0;1;SDU;;N;ORN;3;9;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;153;;;216707,256;180572,66
+HASSELT - FH08;2407148;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;12;;;216683,495;180337,085
+HASSELT - FH08;2412916;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;11;;;216628,436;180308,837
+HASSELT - FH08;2442095;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;11;;;216895,363;180069,161
+HASSELT - FH08;5545295;3;1;0;4;MDU;;N;IRREG;4;4;;5 Units in Crab;Y;_;BUILDING template;Acaciastraat;41;;;217186,583;180133,854
+HASSELT - FH08;2407151;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;16;;;216667,431;180373,469
+HASSELT - FH08;2412918;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;12;;;216640,159;180354,436
+HASSELT - FH08;2442102;6;0;0;6;MDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;15;;;216886,09;180057,917
+HASSELT - FH08;5558401;1;1;0;2;MDU;;N;ORN;3;10;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;156;;;216689,832;180579,884
+HASSELT - FH08;2407153;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;18;;;216662,391;180382,398
+HASSELT - FH08;2412920;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;13;;;216634,215;180310,73
+HASSELT - FH08;2442110;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;25;;;216919,462;180027,283
+HASSELT - FH08;5561272;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;10;;;216663,716;180552,647
+HASSELT - FH08;2407154;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;19;;;216685,054;180435,591
+HASSELT - FH08;2412923;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;15;;;216639,43;180313,491
+HASSELT - FH08;2442114;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;27;;;216925,569;180025,002
+HASSELT - FH08;5572341;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Monseigneur Schruerslaan;9;;;216668,266;180551,917
+HASSELT - FH08;NB-3500111bd607;1;0;0;1;SDU;;N;IRREG;2;3;;;;_;BUILDING template;Sint-Servaasstraat;11;;;216573;180359
+HASSELT - FH08;2407155;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;20;;;216659,499;180391,046
+HASSELT - FH08;2412926;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;17;;;216645,186;180315,772
+HASSELT - FH08;2442115;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;31;;;216948,089;180014,068
+HASSELT - FH08;5692126;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jef Koningslaan;5;;;216726,852;180548,922
+HASSELT - FH08;2407156;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;21;;;216683,696;180445,163
+HASSELT - FH08;2412929;1;0;0;1;SDU;;N;ORN;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;19;;;216650,597;180318,247
+HASSELT - FH08;2442118;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;33;;;216953,061;180009,865
+HASSELT - FH08;5712184;0;1;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jef Koningslaan;3;;;216730;180555,01
+HASSELT - FH08;2407158;1;0;0;1;SDU;;N;IRREG;3;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;23;;;216681,095;180454,31
+HASSELT - FH08;2412932;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Dichterstraat;21;;;216656,724;180320,179
+HASSELT - FH08;2442121;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Djef Swennenstraat;43;;;216981,672;179996,013
+HASSELT - FH08;5767034;1;0;0;1;SDU;;N;ORN;3;4;;;Y;_;BUILDING template;Sint-Servaasstraat;45;;;216559,496;180587,556
+HASSELT - FH08;2407160;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Bertold-Brechtstraat;24;;;216652,205;180408,449
+HASSELT - FH08;2414645;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;6;;;217451,734;180350,329
+HASSELT - FH08;2444642;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;TORFS;BUILDING template;Hendrik van Veldekesingel;1;A;;216821,078;179897,934
+HASSELT - FH08;5825736;1;0;0;1;SDU;;N;ORN;3;7;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;169;A;;216592,843;180628,245
+HASSELT - FH08;2407583;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;7;;;217298,813;180126,968
+HASSELT - FH08;2414647;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Ertbeekstraat;7;;;217421,257;180357,77
+HASSELT - FH08;2444645;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;JBC;BUILDING template;Hendrik van Veldekesingel;1;B;;216804,82;179910,127
+HASSELT - FH08;5831461;1;0;0;1;SDU;;N;ORN;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;160;;;216666,986;180588,48
+HASSELT - FH08;2407584;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;13;;;217282,925;180128,775
+HASSELT - FH08;2414648;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;8;;;217447,884;180347,104
+HASSELT - FH08;2444647;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;ALDI;BUILDING template;Hendrik van Veldekesingel;1;C;;216786,901;179924,419
+HASSELT - FH08;5908109;1;0;0;1;SDU;;N;ORN;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;164;;;216631,781;180606,583
+HASSELT - FH08;2407585;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;14;;;217284,955;180098,246
+HASSELT - FH08;2414649;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;9;;;217416,711;180355,194
+HASSELT - FH08;2444649;0;1;0;1;SDU;;N;IRREG;1;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Hendrik van Veldekesingel;5;;;216487,637;180410,394
+HASSELT - FH08;5908169;1;0;0;1;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Jef Koningslaan;7;A;Spoorwegstraat 7A-7B;216724,198;180544,2
+HASSELT - FH08;2407586;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;15;;;217277,526;180130,124
+HASSELT - FH08;2414650;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;10;;;217444,775;180343,124
+HASSELT - FH08;2446454;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;34;;;217137,255;180275,61
+HASSELT - FH08;5908224;1;0;0;1;SDU;;N;ORN;2;3;;;Y;_;BUILDING template;Monseigneur Schruerslaan;25;;;216560,656;180566,977
+HASSELT - FH08;2407587;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;16;;;217279,905;180098,332
+HASSELT - FH08;2414653;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;11;;;217413,15;180351,594
+HASSELT - FH08;2446456;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;37;;;217076,008;180219,984
+HASSELT - FH08;6162636;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;C;;217393,908;180183,793
+HASSELT - FH08;2407589;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;18;;;217274,802;180096,772
+HASSELT - FH08;2414655;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;13;;;217410,839;180347,081
+HASSELT - FH08;2446458;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;38;;;217131,568;180263,021
+HASSELT - FH08;6162637;1;0;0;1;SDU;;N;IRREG;2;4;Beschermd Erfgoed;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Runkstersteenweg;73;D;;217390,573;180187,604
+HASSELT - FH08;2407592;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;20;;;217269,952;180098,588
+HASSELT - FH08;2414657;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;14;;;217437,093;180338,164
+HASSELT - FH08;2446464;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;41;;;217071,469;180207,059
+HASSELT - FH08;704774;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;46;;;217122,27;180236,529
+HASSELT - FH08;2407593;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;22;;;217264,373;180098,708
+HASSELT - FH08;2414659;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;15;;;217407,996;180342,841
+HASSELT - FH08;2446466;1;0;0;1;SDU;;Y;NA;2;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;44;;;217124,688;180243,683
+HASSELT - FH08;704775;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;45;;;217070,733;180195,889
+HASSELT - FH08;2407595;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;24;;;217259,964;180100,799
+HASSELT - FH08;2414661;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;16;;;217435,089;180333,853
+HASSELT - FH08;2446470;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;47;;;217066,402;180189,713
+HASSELT - FH08;704777;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;40;;;217129,069;180256,926
+HASSELT - FH08;2407597;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;28;;;217249,231;180099,529
+HASSELT - FH08;2414663;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;17;;;217405,611;180338,243
+HASSELT - FH08;2446473;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;55;;;217054,863;180137,945
+HASSELT - FH08;704779;1;0;0;1;SDU;;N;HEIGHT;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;32;;;217151,153;180289,134
+HASSELT - FH08;2407598;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;30;;;217243,742;180100,856
+HASSELT - FH08;2414665;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;18;;;217432,486;180329,808
+HASSELT - FH08;2446475;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;57;;;217052,624;180132,007
+HASSELT - FH08;704805;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;1;;;217165,715;180396,212
+HASSELT - FH08;2407600;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;31;;;217225,46;180132,242
+HASSELT - FH08;2414667;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;20;;;217429,295;180326,162
+HASSELT - FH08;2446477;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;59;;;217052,111;180125,93
+HASSELT - FH08;707010;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;44;;;217384,051;180268,668
+HASSELT - FH08;1162805;1;0;0;1;SDU;;N;ORN;3;9;;;Y;_;BUILDING template;Spoorwegstraat;169;;;216599;180626
+HASSELT - FH08;2407602;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;32;;;217238,57;180101,738
+HASSELT - FH08;2414669;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;21;;;217398,214;180331,602
+HASSELT - FH08;2446479;1;0;0;1;SDU;;N;IRREG;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;63;;;217051,08;180113,954
+HASSELT - FH08;707011;1;0;0;1;SDU;;Y;NA;3;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;43;;;217397,725;180285,128
+HASSELT - FH08;2407590;1;0;0;1;SDU;;Y;NA;2;4;;;Y;_;BUILDING template;Acaciastraat;19;;;217263;180141
+HASSELT - FH08;2407603;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;33;;;217220,193;180130,818
+HASSELT - FH08;2414671;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;23;;;217394,754;180327,677
+HASSELT - FH08;2446480;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;65;;;217049,852;180108,08
+HASSELT - FH08;707012;1;0;0;1;SDU;;Y;NA;3;5;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;5;;;217477,974;180223,946
+HASSELT - FH08;2407627;1;0;0;1;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Acaciastraat;86;;Acaciastraat 84-86-86A;217054;180155
+HASSELT - FH08;2407605;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;34;;;217233,568;180102,744
+HASSELT - FH08;2414672;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;24;;;217425,109;180317,021
+HASSELT - FH08;2446482;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;67;;;217047,869;180102,386
+HASSELT - FH08;707013;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;82;;;217337,28;180113,748
+HASSELT - FH08;2409152;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Beukenstraat;36;;;217137;180036
+HASSELT - FH08;2407606;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;35;;;217216,02;180133,59
+HASSELT - FH08;2414675;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;26;;;217420,811;180312,959
+HASSELT - FH08;2446483;1;0;0;1;SDU;;N;IRREG;2;6;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;69;;;217044,301;180097,003
+HASSELT - FH08;707014;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;71;;;217316,652;180185,618
+HASSELT - FH08;2442105;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;sportpunt runkst;BUILDING template;Djef Swennenstraat;17;;;216783;180027
+HASSELT - FH08;2407608;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;37;;;217210,408;180132,919
+HASSELT - FH08;2414677;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;27;;;217386,434;180314,17
+HASSELT - FH08;2446484;1;0;0;1;SDU;;N;IRREG;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;71;A;;217041,486;180085,463
+HASSELT - FH08;707015;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;19;;;217401,406;180335,27
+HASSELT - FH08;3937739;3;0;0;3;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;16;;Monseigneur kerkhofsstraat 16-18;217449;180220
+HASSELT - FH08;2407610;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;38;;;217223,611;180103,586
+HASSELT - FH08;2414678;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;28;;;217417,678;180309,041
+HASSELT - FH08;2446485;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;81;;;217024,275;180005,593
+HASSELT - FH08;707016;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;80;;;217338,947;180120,308
+HASSELT - FH08;3937740;4;0;0;4;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Monseigneur Kerkhofsstraat;18;;Monseigneur kerkhofsstraat 16-18;217443;180224
+HASSELT - FH08;2407612;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;42;;;217213,1;180102,792
+HASSELT - FH08;2414681;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;30;;;217414,201;180305,355
+HASSELT - FH08;2446487;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;83;;;217019,452;179999,448
+HASSELT - FH08;707017;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Ertbeekstraat;90;;;217338,574;180089,784
+HASSELT - FH08;4070278;0;1;0;1;SDU;;N;IRREG;1;4;;;Y;RUNKST V.V.;BUILDING template;Kapellekensbampdstraat;8;;;216767;180160
+HASSELT - FH08;2407615;1;0;0;1;SDU;;N;HEIGHT;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Acaciastraat;50;;;217173,267;180108,324
+HASSELT - FH08;2414684;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Ertbeekstraat;34;;;217403,357;180299,623
+HASSELT - FH08;2446490;1;0;0;1;SDU;;N;IRREG;2;4;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Vredestraat;89;;;217017,509;179981,408
+HASSELT - FH08;707018;1;0;0;1;SDU;;Y;NA;2;3;;Aantal units in CRAB is hetzelde als in IFH;Y;_;BUILDING template;Spoorwegstraat;52;;;217488,203;180378,127
+HASSELT - FH08;4167761;1;0;0;1;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Acaciastraat;86;A;Acaciastraat 84-86-86A;217059;180155

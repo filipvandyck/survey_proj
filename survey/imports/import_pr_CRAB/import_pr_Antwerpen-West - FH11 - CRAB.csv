@@ -1,0 +1,675 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+ANTWERPEN-WEST - FH11;2060986;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;34;;;151570,131;211112,895
+ANTWERPEN-WEST - FH11;977818;3;1;0;4;MDU;;Y;NA;4;6;Beschermd Erfgoed;4 Units in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;62;;;151441,802;210942,524
+ANTWERPEN-WEST - FH11;3926668;8;0;1;9;MDU;;Y;NA;5;3;;8 Units in CRAB en GM;Y;_;BUILDING template;De Gerlachekaai;14;;;151264,92;211051,202
+ANTWERPEN-WEST - FH11;2060987;1;2;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;35;;;151561,389;211099,022
+ANTWERPEN-WEST - FH11;977820;0;1;0;1;SDU;;Y;NA;6;3;;;Y;_;BUILDING template;Vlaamsekaai;52;;;151481,884;210996,956
+ANTWERPEN-WEST - FH11;3928365;4;1;1;6;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Schalienstraat;14;;;151177,716;210919,684
+ANTWERPEN-WEST - FH11;2060989;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;43;;;151526,4;211054,67
+ANTWERPEN-WEST - FH11;977821;4;0;1;5;MDU;;Y;NA;6;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;50;;;151496,945;211017,051
+ANTWERPEN-WEST - FH11;2060990;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;4 Units in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;44;;;151524,036;211044,992
+ANTWERPEN-WEST - FH11;977822;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;42;;;151530,509;211060,683
+ANTWERPEN-WEST - FH11;4054053;0;1;1;2;MDU;;Y;NA;6;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;12;D;Museumstraat 12-12A-12B-12C-12D-14-14A;151608,912;211096,632
+ANTWERPEN-WEST - FH11;2060994;4;0;0;4;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;46;;;151513,9;211035,602
+ANTWERPEN-WEST - FH11;977825;3;0;0;3;MDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;De Burburestraat;20;;;151614,413;210993,366
+ANTWERPEN-WEST - FH11;2060995;3;0;0;3;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;47;;;151508,551;211028,527
+ANTWERPEN-WEST - FH11;977826;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;De Burburestraat;22;;;151622,273;210991,467
+ANTWERPEN-WEST - FH11;4268511;4;0;1;5;MDU;;Y;NA;5;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;42;A;;151348,039;211045,143
+ANTWERPEN-WEST - FH11;2060996;4;0;0;4;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;48;;;151504,515;211025,273
+ANTWERPEN-WEST - FH11;977830;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Leopold de Waelplaats;32;;;151646,635;210964,465
+ANTWERPEN-WEST - FH11;2060998;4;1;0;5;MDU;;Y;NA;5;3;;4 Units in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;53;;;151477,096;210993,052
+ANTWERPEN-WEST - FH11;990358;10;0;1;11;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Waalsekaai;7;;;151615,341;211369,497
+ANTWERPEN-WEST - FH11;4516842;1;0;1;2;SDU;;Y;NA;5;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;8;;;151541;211422
+ANTWERPEN-WEST - FH11;2061005;0;1;0;1;SDU;;Y;NA;6;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;58;;;151454,81;210962,787
+ANTWERPEN-WEST - FH11;4516998;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;enkel in GM;Y;_;BUILDING template;Vlaamsekaai;4;;;151734,224;211327,32
+ANTWERPEN-WEST - FH11;2061007;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vlaamsekaai;61;;;151445,695;210951,532
+ANTWERPEN-WEST - FH11;2061008;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vlaamsekaai;65;;;151381,556;210864,68
+ANTWERPEN-WEST - FH11;2061009;9;0;0;9;MDU;;Y;NA;5;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;66;;;151377,755;210859,753
+ANTWERPEN-WEST - FH11;4517008;3;1;1;5;MDU;;Y;NA;5;5;Beschermd Erfgoed;7 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;21;;;151654,08;211220,884
+ANTWERPEN-WEST - FH11;2061010;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;68;;;151372,308;210849,154
+ANTWERPEN-WEST - FH11;2061011;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;69;;;151367,634;210845,899
+ANTWERPEN-WEST - FH11;4517018;6;2;1;9;MDU;;N;IRREG;5;4;;7 Units in CRAB- 8 bussen in GM;Y;_;BUILDING template;Verlatstraat;9;;Verlatstraat 9_Vorstermanstraat 4-6-8-10;151666,032;211177,536
+ANTWERPEN-WEST - FH11;2061012;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;71;;;151360,95;210837,332
+ANTWERPEN-WEST - FH11;4517213;0;1;0;1;SDU;;Y;NA;6;3;;1 Unit in CRAB- niet te zien in GM;Y;_;BUILDING template;Gijzelaarsstraat;80;;;151355,17;210615,712
+ANTWERPEN-WEST - FH11;2061013;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;72;;;151357,533;210833,004
+ANTWERPEN-WEST - FH11;4518060;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB en in GM;Y;_;BUILDING template;Vlaamsekaai;37;;;151555;211093
+ANTWERPEN-WEST - FH11;2061014;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;73;;;151354,437;210828,919
+ANTWERPEN-WEST - FH11;4518174;1;0;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;1 Units in CRAB- 1 in GM;Y;_;BUILDING template;Gijzelaarsstraat;50;;;151377;210734
+ANTWERPEN-WEST - FH11;2061015;0;5;0;5;MDU;;Y;NA;5;4;Beschermd Erfgoed;4 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;76;;;151344,347;210815,132
+ANTWERPEN-WEST - FH11;4518834;0;1;0;1;SDU;;Y;NA;5;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pourbusstraat;11;;;151533,616;210992,716
+ANTWERPEN-WEST - FH11;2061017;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;78;;;151337,431;210807,106
+ANTWERPEN-WEST - FH11;2061018;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;79;;;151334,404;210803,081
+ANTWERPEN-WEST - FH11;2061022;2;1;0;3;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;85;;;151302,329;210760,537
+ANTWERPEN-WEST - FH11;2061023;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;86;;;151299,057;210756,348
+ANTWERPEN-WEST - FH11;2061024;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- 5 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;87;;;151295,866;210752,262
+ANTWERPEN-WEST - FH11;4520325;0;1;0;1;MDU;;Y;NA;3;5;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Namenstraat;15;;;151201,376;210861,219
+ANTWERPEN-WEST - FH11;2061025;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;88;;;151292,574;210747,901
+ANTWERPEN-WEST - FH11;4520331;8;0;1;9;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Schalienstraat;34;;Schalienstraat 30-32-34;151233,922;210928,648
+ANTWERPEN-WEST - FH11;2061798;3;1;0;4;MDU;;Y;NA;4;3;;3 Units in CRAB- 4 bellen in GM;Y;_;BUILDING template;Vorstermanstraat;7;;;151737,976;211217,464
+ANTWERPEN-WEST - FH11;5303336;2;0;0;2;MDU;;Y;NA;4;3;;2 Units in CRAB- 2 bellen in GM;Y;_;BUILDING template;Vorstermanstraat;5;A;;151713;211238
+ANTWERPEN-WEST - FH11;2061801;7;0;1;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vorstermanstraat;9;;;151737,976;211217,464
+ANTWERPEN-WEST - FH11;5473543;0;1;0;1;MDU;;N;IRREG;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;26;A;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;151685,673;210994,757
+ANTWERPEN-WEST - FH11;1028374;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;4 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Gijzelaarsstraat;86;;;151352,609;210592,651
+ANTWERPEN-WEST - FH11;2061804;2;0;0;2;MDU;;Y;NA;3;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Vorstermanstraat;16;;;151742,985;211178,111
+ANTWERPEN-WEST - FH11;5576299;0;1;0;1;MDU;;N;IRREG;14;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Van der Sweepstraat;7;;Van Der Sweepstraat 3-5-7;151149;210822
+ANTWERPEN-WEST - FH11;1028377;4;1;0;5;MDU;;Y;NA;4;3;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Gijzelaarsstraat;60;;;151363,443;210683,993
+ANTWERPEN-WEST - FH11;2062523;9;0;1;10;MDU;;N;IRREG;6;4;;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;3;;Waalsekaai 2-3-4-5;151641,859;211402,506
+ANTWERPEN-WEST - FH11;1028380;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;Y;_;BUILDING template;Jan van Gentstraat;2;;;151272,743;210675,524
+ANTWERPEN-WEST - FH11;2062526;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Waalsekaai;6;;;151624,869;211381,821
+ANTWERPEN-WEST - FH11;5576377;0;1;0;1;SDU;;Y;NA;6;10;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;83;;;151323;210781
+ANTWERPEN-WEST - FH11;1028381;0;9;1;10;MDU;;N;ORN;6;4;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Jan van Gentstraat;1;;Jan van Gentstraat 1-3_Pacificatiestraat 2;151303,487;210675,783
+ANTWERPEN-WEST - FH11;2062530;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Waalsekaai;8;;;151604,518;211357,012
+ANTWERPEN-WEST - FH11;1028383;0;1;0;1;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Jan van Gentstraat;5;;Jan van Gentstraat 5-7-9-11;151320,335;210640,842
+ANTWERPEN-WEST - FH11;2062531;0;1;0;1;SDU;;Y;NA;4;6;;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Waalsekaai;10;;;151597,781;211346,701
+ANTWERPEN-WEST - FH11;5824909;3;0;1;4;MDU;;N;ORN;2;4;;3 Units in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;33;;Pourbusstraat 33_Verschaningstraat 20;151582,21;210949,406
+ANTWERPEN-WEST - FH11;1028385;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;92;;;151242,215;210683,543
+ANTWERPEN-WEST - FH11;2062533;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;18;;;151537,141;211270,952
+ANTWERPEN-WEST - FH11;1028387;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Gentplaats;7;;;151249,682;210686,46
+ANTWERPEN-WEST - FH11;2062534;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;19;;;151534,994;211266,364
+ANTWERPEN-WEST - FH11;1028388;0;1;0;1;MDU;;N;ORN;5;4;;;Y;_;BUILDING template;Pacificatiestraat;2;;Jan van Gentstraat 1-3_Pacificatiestraat 2;151317,521;210683,948
+ANTWERPEN-WEST - FH11;2062535;1;1;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;20;;;151531,117;211262,683
+ANTWERPEN-WEST - FH11;6068451;0;1;0;1;MDU;;Y;NA;6;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;45;A;;151324,377;211022,367
+ANTWERPEN-WEST - FH11;1028391;3;0;0;3;MDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Pacificatiestraat;16;;;151358,622;210680,01
+ANTWERPEN-WEST - FH11;2062536;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;21;;;151528,463;211258,191
+ANTWERPEN-WEST - FH11;1028394;0;3;0;3;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- BU in GM;Y;_;BUILDING template;Bolivarplaats;1;;;151350,469;210581,006
+ANTWERPEN-WEST - FH11;2062537;0;2;0;2;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;25;;;151462,384;211195,412
+ANTWERPEN-WEST - FH11;1101504;2;1;0;3;MDU;;Y;NA;3;4;;1 Unit in CRAB- onduidelijk in GM;Y;Review Required;BUILDING template;Waalsekaai;56;;;151268,632;210919,561
+ANTWERPEN-WEST - FH11;2062539;1;2;1;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Waalsekaai;27;;;151452,922;211182,85
+ANTWERPEN-WEST - FH11;2062541;4;0;0;4;MDU;;Y;NA;4;3;;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Waalsekaai;30;;;151426,468;211151,516
+ANTWERPEN-WEST - FH11;2062542;2;0;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Waalsekaai;31;;;151423,848;211146,454
+ANTWERPEN-WEST - FH11;1101716;4;0;0;4;MDU;;Y;NA;4;3;;2 Units in CRAB- 3 bussen in GM;Y;_;BUILDING template;Gijzelaarsstraat;56;;;151369,366;210718,898
+ANTWERPEN-WEST - FH11;2062543;4;1;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Waalsekaai;32;;;151418,739;211142,141
+ANTWERPEN-WEST - FH11;1101816;2;1;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Graaf van Egmontstraat;8;;;151754,635;211318,6
+ANTWERPEN-WEST - FH11;2062544;1;2;0;3;MDU;;Y;NA;4;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;33;;;151414,959;211136,358
+ANTWERPEN-WEST - FH11;1160389;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Gentplaats;4;;;151267,078;210679,293
+ANTWERPEN-WEST - FH11;2062546;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;37;;;151364,45;211065,79
+ANTWERPEN-WEST - FH11;2062547;31;1;1;33;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;40;;;151354,974;211058,22
+ANTWERPEN-WEST - FH11;6399823;1;0;0;1;MDU;;N;IRREG;7;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;24;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;151433;211264
+ANTWERPEN-WEST - FH11;1288039;4;0;0;4;MDU;;Y;NA;4;3;;8 Units in CRAB- 4 in GM;Y;_;BUILDING template;Graaf van Egmontstraat;40;;;151760,541;211204,875
+ANTWERPEN-WEST - FH11;2062548;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;47;;;151305,269;211005,957
+ANTWERPEN-WEST - FH11;1289945;10;0;1;11;MDU;;Y;NA;4;3;;1 Units in CRAB- 23 Bussen in GM;Y;_;BUILDING template;Vorstermanstraat;5;;;151720,166;211231,549
+ANTWERPEN-WEST - FH11;2062551;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;57;;;151262,133;210915,62
+ANTWERPEN-WEST - FH11;1303250;5;0;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Graaf van Egmontstraat;24;;;151756,771;211249,493
+ANTWERPEN-WEST - FH11;2062553;3;1;0;4;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Waalsekaai;59;;;151242,679;210888,507
+ANTWERPEN-WEST - FH11;1326103;1;0;0;1;SDU;;Y;NA;3;5;;1 Unit in CRAB en GM;Y;_;BUILDING template;Museumstraat;5;;;151603,371;211130,42
+ANTWERPEN-WEST - FH11;2062554;7;2;1;10;MDU;;N;ORN;5;4;;7 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;60;;;151238,331;210883,607
+ANTWERPEN-WEST - FH11;1340349;9;0;1;10;MDU;;N;ORN;4;4;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;40;;Museumstraat 36-38-40;151680,298;211041,151
+ANTWERPEN-WEST - FH11;2062556;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;61;;;151227,316;210871,899
+ANTWERPEN-WEST - FH11;1346848;3;1;0;4;MDU;;N;ORN;4;4;;;Y;_;BUILDING template;Museumstraat;3;;;151600,606;211133,918
+ANTWERPEN-WEST - FH11;2062827;1;2;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;6;;;151737,753;211070,98
+ANTWERPEN-WEST - FH11;6483421;0;1;1;2;MDU;;Y;NA;4;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Jan van Gentstraat;25;;;151340;210606
+ANTWERPEN-WEST - FH11;1451319;4;0;0;4;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Verlatstraat;37;;;151741,144;211117,829
+ANTWERPEN-WEST - FH11;2062828;3;1;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB- 4 in GM;Y;_;BUILDING template;Leopold de Waelplaats;8;;;151736,006;211064,3
+ANTWERPEN-WEST - FH11;6518705;1;0;0;1;SDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Timmerwerfstraat;29;A;;151592,078;211347,587
+ANTWERPEN-WEST - FH11;1466296;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;3 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Pourbusstraat;10;;;151506,084;210977,126
+ANTWERPEN-WEST - FH11;2062829;0;2;0;2;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB- 3 in GM;Y;_;BUILDING template;Leopold de Waelplaats;10;;;151731,771;211059,292
+ANTWERPEN-WEST - FH11;6524938;0;10;1;11;MDU;;N;GLASS;5;4;Beschermd Erfgoed;9 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Verlatstraat;25;;Verlatstraat 23-25;151717;211154
+ANTWERPEN-WEST - FH11;1482441;8;0;1;9;MDU;;Y;NA;6;6;;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;14;;Museumstraat 12-12A-12B-12C-12D-14-14A;151632,006;211071,256
+ANTWERPEN-WEST - FH11;1482664;4;0;0;4;MDU;;Y;NA;3;4;;2 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Verlatstraat;7;;;151656,862;211182,868
+ANTWERPEN-WEST - FH11;6582697;1;0;0;1;SDU;;Y;NA;4;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Visserskaai;10;A;;151363,917;211076,619
+ANTWERPEN-WEST - FH11;1483358;0;1;0;1;SDU;;Y;NA;6;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;49;;;151501,317;211020,417
+ANTWERPEN-WEST - FH11;1492179;1;1;1;3;MDU;;Y;NA;3;3;;4 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Museumstraat;4;;;151585,214;211111,988
+ANTWERPEN-WEST - FH11;30249;4;0;0;4;MDU;;Y;NA;4;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pacificatiestraat;25;;;151366,154;210709,412
+ANTWERPEN-WEST - FH11;6626034;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;2 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;19;A;;151539,032;211262,697
+ANTWERPEN-WEST - FH11;1506081;4;1;0;5;MDU;;Y;NA;5;3;;4 Units in CRAB- 5 bussen in GM;Y;_;BUILDING template;De Burburestraat;17;;;151612,924;211032,941
+ANTWERPEN-WEST - FH11;30322;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Verlatstraat;16;;;151689,793;211126,003
+ANTWERPEN-WEST - FH11;6667252;0;1;0;1;MDU;;N;ORN;4;4;;Enkel te zien in GM;Y;_;BUILDING template;Cockerillkaai;20;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;151447;211279
+ANTWERPEN-WEST - FH11;1514324;10;0;1;11;MDU;;N;ORN;6;4;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;37;;;151647,111;211004,103
+ANTWERPEN-WEST - FH11;30326;2;0;0;2;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Verlatstraat;17;;;151699,338;211152,197
+ANTWERPEN-WEST - FH11;1785473;2;1;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;2;A;;151545,376;211044,683
+ANTWERPEN-WEST - FH11;30348;56;0;2;58;MDU;;N;IRREG;14;4;;51 Units in CRAB- onduidelijk in GM;Y;Gebouw staat leeg. Geen aanplakbiljet voorzien;BUILDING template;Van der Sweepstraat;12;;Van Der Sweepstraat 12-14;151195,371;210724,721
+ANTWERPEN-WEST - FH11;1785485;0;1;0;1;SDU;;Y;NA;4;3;;1 Unit in CRAB- aantal onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;4;;;151557,455;211043,592
+ANTWERPEN-WEST - FH11;32822;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Leopold de Waelplaats;16;;;151722,973;211045,579
+ANTWERPEN-WEST - FH11;968547;6;1;1;8;MDU;;Y;NA;4;4;;6 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Namenstraat;19;;;151211,353;210849,775
+ANTWERPEN-WEST - FH11;1785493;0;1;0;1;SDU;;Y;NA;6;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;6;;;151567,78;211018,632
+ANTWERPEN-WEST - FH11;33404;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Pacificatiestraat;23;;;151359,531;210709,535
+ANTWERPEN-WEST - FH11;1785513;11;1;1;13;MDU;;N;GLASS;4;4;;;Y;_;BUILDING template;De Burburestraat;7;;De Burburestraat 7-9;151577,296;211060,781
+ANTWERPEN-WEST - FH11;3926591;4;0;0;4;MDU;;Y;NA;4;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Jan van Gentstraat;27;;;151338,786;210600,977
+ANTWERPEN-WEST - FH11;968689;0;1;0;1;MDU;;N;GLASS;6;4;;;Y;_;BUILDING template;Cockerillkaai;31;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151405,274;211219,574
+ANTWERPEN-WEST - FH11;1785555;0;1;0;1;MDU;;N;GLASS;4;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;9;;De Burburestraat 7-9;151583,929;211056,804
+ANTWERPEN-WEST - FH11;968690;0;1;2;3;MDU;;N;IRREG;7;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;39;;Cockerillkaai 39_Waalsekaai 35A;151358;211125
+ANTWERPEN-WEST - FH11;1785560;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;De Burburestraat;10;;;151590,579;211015,955
+ANTWERPEN-WEST - FH11;3928368;10;0;1;11;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Scheldestraat;10;;;151586,959;211459,712
+ANTWERPEN-WEST - FH11;968813;56;0;2;58;MDU;;N;IRREG;14;4;;49 Units in CRAB- onduidelijk in GM;Y;Gebouw wordt gesloopt. Geen aanplakbiljet;BUILDING template;Van der Sweepstraat;14;;Van Der Sweepstraat 12-14;151205;210719
+ANTWERPEN-WEST - FH11;1785562;9;2;0;11;MDU;;Y;NA;4;3;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;11;;;151592,589;211050,775
+ANTWERPEN-WEST - FH11;3928577;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;70;;;151364,12;210841,375
+ANTWERPEN-WEST - FH11;969129;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;41;;;151549;211084
+ANTWERPEN-WEST - FH11;1785578;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;De Burburestraat;12;;;151593,811;211012,412
+ANTWERPEN-WEST - FH11;4034391;2;1;0;3;MDU;;Y;NA;3;4;;2 Units in CRAB- 3 bussen in GM;Y;_;BUILDING template;Verlatstraat;39;;;151745,81;211112,952
+ANTWERPEN-WEST - FH11;969133;0;1;1;2;MDU;;N;IRREG;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;26;;Leopold de Waelplaats 20-22-24A-26;151689,149;210998,057
+ANTWERPEN-WEST - FH11;1785584;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;De Burburestraat;13;;;151602,511;211040,31
+ANTWERPEN-WEST - FH11;4052086;0;1;0;1;MDU;;N;ORN;4;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Verschansingstraat;20;;Pourbusstraat 33_Verschaningstraat 20;151585,811;210948,511
+ANTWERPEN-WEST - FH11;970501;0;1;0;1;SDU;;Y;NA;2;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;18;;;151695,443;211119,524
+ANTWERPEN-WEST - FH11;1785591;7;0;0;7;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;De Burburestraat;14;;;151600,009;211008,563
+ANTWERPEN-WEST - FH11;4062342;3;0;0;3;MDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;62;;;151365,75;210675,844
+ANTWERPEN-WEST - FH11;970512;0;1;0;1;MDU;;N;IRREG;4;4;Beschermd Erfgoed;1 Unit in CRAB en in GM;Y;_;BUILDING template;Vlaamsekaai;31;;Vlaamsekaai 28-29-29A-30-31;151601,039;211145,792
+ANTWERPEN-WEST - FH11;1785594;5;1;0;6;MDU;;Y;NA;4;3;;6 Units in CRAB en GM;Y;_;BUILDING template;De Burburestraat;15;;;151605,732;211035,056
+ANTWERPEN-WEST - FH11;4073986;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_;BUILDING template;Luikstraat;4;;;151395,233;211185,281
+ANTWERPEN-WEST - FH11;970513;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB- BU in GM;Y;_;BUILDING template;Museumstraat;45;;;151717,217;211041,286
+ANTWERPEN-WEST - FH11;1785598;2;1;0;3;MDU;;Y;NA;4;6;;1 Unit in CRAB en GM;Y;_;BUILDING template;De Burburestraat;16;;;151604,833;211002,789
+ANTWERPEN-WEST - FH11;4074677;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;22;;;151525,503;211253,597
+ANTWERPEN-WEST - FH11;970873;1;0;0;1;SDU;;N;MON;3;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Timmerwerfstraat;40;;;151543;211315
+ANTWERPEN-WEST - FH11;1785607;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;De Burburestraat;18;;;151611,425;211000,298
+ANTWERPEN-WEST - FH11;4128036;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Gijzelaarsstraat;6;;;151392,244;210856,882
+ANTWERPEN-WEST - FH11;970914;0;1;0;1;SDU;;Y;NA;7;3;;;Y;_;BUILDING template;Cockerillkaai;16;;;151460,477;211297,656
+ANTWERPEN-WEST - FH11;1785617;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;De Burburestraat;24;;;151628,425;210988,393
+ANTWERPEN-WEST - FH11;4190566;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;13;;;151693,035;211272,766
+ANTWERPEN-WEST - FH11;970916;3;1;0;4;MDU;;N;ORN;5;4;;3 Units in CRAB- BU in GM;Y;_;BUILDING template;Cockerillkaai;6;;;151555,777;211447,055
+ANTWERPEN-WEST - FH11;1785618;10;0;1;11;MDU;;N;ORN;4;4;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;25;;;151618,751;211026,44
+ANTWERPEN-WEST - FH11;4201186;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;De Burburestraat;32;;;151643,54;210975,337
+ANTWERPEN-WEST - FH11;970928;0;1;0;1;SDU;;N;MON;2;4;Monument;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;14;;;151559;211312
+ANTWERPEN-WEST - FH11;1785623;1;0;0;1;SDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;De Burburestraat;26;;;151630,488;210983,96
+ANTWERPEN-WEST - FH11;4214219;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Luikstraat;10;;;151428,122;211158,588
+ANTWERPEN-WEST - FH11;971051;0;1;0;1;SDU;;Y;NA;5;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Timmerwerfstraat;12;;;151553,936;211375,403
+ANTWERPEN-WEST - FH11;1785625;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;De Burburestraat;28;;;151634,519;210981,253
+ANTWERPEN-WEST - FH11;4228392;2;0;0;2;MDU;;Y;NA;4;3;;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;32;;;151758,557;211227,316
+ANTWERPEN-WEST - FH11;971228;1;0;0;1;SDU;;Y;NA;2;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Waalsekaai;17;;;151541;211277
+ANTWERPEN-WEST - FH11;1785628;10;0;1;11;MDU;;N;ORN;4;4;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;29;;;151628,276;211019,035
+ANTWERPEN-WEST - FH11;4249619;2;0;0;2;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;36;;;151376,511;210765,557
+ANTWERPEN-WEST - FH11;1785641;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;De Burburestraat;30;;;151639,217;210976,386
+ANTWERPEN-WEST - FH11;4517004;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;2 Unit in CRAB- 1 bus in GM;Y;_;BUILDING template;Graaf van Egmontstraat;52;;;151760,239;211138,665
+ANTWERPEN-WEST - FH11;971795;1;0;0;1;MDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Vorstermanstraat;2;;;151674;211238
+ANTWERPEN-WEST - FH11;1785646;10;0;1;11;MDU;;N;ORN;6;4;;11 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;De Burburestraat;33;;;151636,273;211011,912
+ANTWERPEN-WEST - FH11;4517005;3;0;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Graaf van Egmontstraat;58;;;151761,503;211122,702
+ANTWERPEN-WEST - FH11;977615;0;1;1;2;MDU;;Y;NA;5;4;Beschermd Erfgoed;1 Unit in CRAB- lijkt BU in GM;Y;_;BUILDING template;Pacificatiestraat;7;;;151315;210713
+ANTWERPEN-WEST - FH11;1785663;10;0;1;11;MDU;;N;ORN;4;4;;;Y;_;BUILDING template;De Burburestraat;41;;;151658,167;210994,097
+ANTWERPEN-WEST - FH11;977803;0;1;0;1;MDU;;N;IRREG;6;4;;enkel te zien in GM;Y;_;BUILDING template;Verschansingstraat;56;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;151451,157;210927,981
+ANTWERPEN-WEST - FH11;1785671;0;1;0;1;MDU;;N;IRREG;4;4;;1 Unit in CRAB- BU in GM;Y;_;BUILDING template;De Burburestraat;43;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;151663,743;210989,881
+ANTWERPEN-WEST - FH11;4517017;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Vorstermanstraat;18;;;151749,263;211175,932
+ANTWERPEN-WEST - FH11;977819;0;1;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;57;;;151461,242;210968,899
+ANTWERPEN-WEST - FH11;1800053;4;0;1;5;MDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Cockerillkaai;2;;;151568,173;211465,299
+ANTWERPEN-WEST - FH11;4517021;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;15;;;151687,468;211258,437
+ANTWERPEN-WEST - FH11;977823;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- in GM ook;Y;_;BUILDING template;De Burburestraat;2;;;151538;211059
+ANTWERPEN-WEST - FH11;1800066;1;1;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Cockerillkaai;3;;;151564,751;211460,142
+ANTWERPEN-WEST - FH11;4517026;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vorstermanstraat;3;;;151702,985;211247,944
+ANTWERPEN-WEST - FH11;977829;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;34;;;151647,729;210972,493
+ANTWERPEN-WEST - FH11;1800102;9;0;0;9;MDU;;Y;NA;6;3;;11 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;11;;;151510,899;211373,884
+ANTWERPEN-WEST - FH11;1800114;9;0;0;9;MDU;;Y;NA;6;3;;11 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;13;;;151528,468;211401,291
+ANTWERPEN-WEST - FH11;4517256;0;1;0;1;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Jan van Gentstraat;9;;Jan van Gentstraat 5-7-9-11;151321,282;210651,354
+ANTWERPEN-WEST - FH11;1800136;11;0;1;12;MDU;;Y;NA;7;3;;12 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;15;;;151525,657;211396,957
+ANTWERPEN-WEST - FH11;4518054;1;0;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Leopold de Waelplaats;14;;;151724,882;211049,832
+ANTWERPEN-WEST - FH11;4518069;3;0;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Museumstraat;19;;;151653,343;211092,542
+ANTWERPEN-WEST - FH11;4518172;2;0;0;2;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;40;;;151375,46;210758,599
+ANTWERPEN-WEST - FH11;1856750;4;0;0;4;MDU;;Y;NA;4;3;;4 Units in CRAB- 5 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;10;;;151754,293;211314,099
+ANTWERPEN-WEST - FH11;4518173;1;0;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;42;;;151374,078;210752,879
+ANTWERPEN-WEST - FH11;1856791;5;0;0;5;MDU;;Y;NA;4;3;;1 Unit in CRAB- 5 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;12;;;151754,629;211308,395
+ANTWERPEN-WEST - FH11;4518175;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Gijzelaarsstraat;52;;;151371,148;210728,249
+ANTWERPEN-WEST - FH11;1856814;3;0;0;3;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Graaf van Egmontstraat;14;;;151754,511;211301,799
+ANTWERPEN-WEST - FH11;4518176;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Gijzelaarsstraat;20;;;151379,024;210815,838
+ANTWERPEN-WEST - FH11;1856859;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Graaf van Egmontstraat;16;;;151755,124;211294,703
+ANTWERPEN-WEST - FH11;4518838;2;1;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Verschansingstraat;30;;;151540,38;210943,301
+ANTWERPEN-WEST - FH11;1856935;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Graaf van Egmontstraat;22;;;151756,19;211254,575
+ANTWERPEN-WEST - FH11;4518839;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Verschansingstraat;38;;;151516,926;210940,742
+ANTWERPEN-WEST - FH11;1856996;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Graaf van Egmontstraat;26;;;151757,46;211243,876
+ANTWERPEN-WEST - FH11;4518843;2;0;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;2 Units in CRAB- 2 bussen in GM;Y;_;BUILDING template;Pourbusstraat;20;;;151530,063;210964,599
+ANTWERPEN-WEST - FH11;1857025;2;0;0;2;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Graaf van Egmontstraat;28;;;151758,403;211238,493
+ANTWERPEN-WEST - FH11;4519090;0;1;0;1;SDU;;N;HEIGHT;1;4;;;Y;_;BUILDING template;Lakenstraat;8;;;151300,102;211044,716
+ANTWERPEN-WEST - FH11;1857040;2;0;0;2;MDU;;Y;NA;4;3;;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;30;;;151758,449;211233,164
+ANTWERPEN-WEST - FH11;1857074;4;1;0;5;MDU;;Y;NA;6;3;;1 Unit in CRAB- 5 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;34;;;151758,81;211221,57
+ANTWERPEN-WEST - FH11;4519096;5;0;0;5;MDU;;Y;NA;6;3;;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;45;;;151327,796;211018,23
+ANTWERPEN-WEST - FH11;1857110;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;36;;;151759,329;211215,917
+ANTWERPEN-WEST - FH11;1857128;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Graaf van Egmontstraat;38;;;151760,013;211210,607
+ANTWERPEN-WEST - FH11;1857219;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Graaf van Egmontstraat;46;;;151761,785;211155,81
+ANTWERPEN-WEST - FH11;4519887;3;0;0;3;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Museumstraat;6;;;151588,254;211106,072
+ANTWERPEN-WEST - FH11;1857234;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Graaf van Egmontstraat;48;;;151761,851;211150,566
+ANTWERPEN-WEST - FH11;1857254;1;1;0;2;MDU;;Y;NA;3;5;Beschermd Erfgoed;2 Units in CRAB en GM;Y;_;BUILDING template;Graaf van Egmontstraat;50;;;151761,07;211145,643
+ANTWERPEN-WEST - FH11;4520311;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;58;;;151248,671;210894,462
+ANTWERPEN-WEST - FH11;1857266;6;0;0;6;MDU;;Y;NA;3;5;;1 Unit in CRAB- 7 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;54;;;151761,013;211134,018
+ANTWERPEN-WEST - FH11;1857290;3;1;0;4;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Graaf van Egmontstraat;56;;;151760,969;211128,007
+ANTWERPEN-WEST - FH11;5321929;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Waalsekaai;16;;;151550,059;211277,244
+ANTWERPEN-WEST - FH11;1892021;4;1;0;5;MDU;;Y;NA;4;4;Beschermd Erfgoed;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Gentplaats;5;;;151261,211;210682,356
+ANTWERPEN-WEST - FH11;1892048;4;1;0;5;MDU;;Y;NA;5;4;;3 Units in CRAB- 6 in GM;Y;_;BUILDING template;Gentplaats;6;;;151256,5;210688,604
+ANTWERPEN-WEST - FH11;5383735;0;1;1;2;MDU;;N;IRREG;6;4;;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;20;;Leopold de Waelplaats 20-22-24A-26;151705,306;211021,757
+ANTWERPEN-WEST - FH11;1892178;0;1;0;1;MDU;;N;ORN;2;4;;;Y;_;BUILDING template;Jan van Gentstraat;3;;Jan van Gentstraat 1-3_Pacificatiestraat 2;151307,214;210668,421
+ANTWERPEN-WEST - FH11;5394053;0;1;0;1;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Leopold de Waelplaats;24;A;Leopold de Waelplaats 20-22-24A-26;151694,613;211008,512
+ANTWERPEN-WEST - FH11;1892212;0;9;1;10;MDU;;N;ORN;6;4;;5 Units in CRAB- 9 in GM;Y;_;BUILDING template;Jan van Gentstraat;7;;Jan van Gentstraat 5-7-9-11;151318,044;210657,037
+ANTWERPEN-WEST - FH11;1892300;23;0;0;23;MDU;;Y;NA;6;4;;25 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Jan van Gentstraat;29;;;151343,048;210597,323
+ANTWERPEN-WEST - FH11;5414526;0;1;0;1;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Museumstraat;50;;Museumstraat 48-50;151701,549;211026,191
+ANTWERPEN-WEST - FH11;1893506;7;0;1;8;MDU;XC;N;IRREG;5;0;Beschermd Erfgoed;7 Units in CRAB- 8 in GM;Y;_;BUILDING template;De Gerlachekaai;6;;De Gerlachekaai 6-7-8;151301,913;211091,799
+ANTWERPEN-WEST - FH11;1898919;2;1;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gijzelaarsstraat;4;;;151392,954;210861,922
+ANTWERPEN-WEST - FH11;5552744;0;1;0;1;MDU;;N;IRREG;4;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;28;;Vlaamsekaai 28-29-29A-30-31;151613,976;211166,897
+ANTWERPEN-WEST - FH11;1898933;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gijzelaarsstraat;8;;;151389,275;210852,553
+ANTWERPEN-WEST - FH11;1898934;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gijzelaarsstraat;10;;;151389,684;210847,105
+ANTWERPEN-WEST - FH11;1898939;4;1;0;5;MDU;;Y;NA;5;4;;4 Units in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;12;;;151389,177;210840,895
+ANTWERPEN-WEST - FH11;5576376;0;1;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;54;;;151473,96;210984,025
+ANTWERPEN-WEST - FH11;1898949;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gijzelaarsstraat;14;;;151388,756;210835,863
+ANTWERPEN-WEST - FH11;1898986;1;0;0;1;SDU;;Y;NA;1;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;16;;;151387,469;210826,997
+ANTWERPEN-WEST - FH11;1899083;1;0;1;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Gijzelaarsstraat;24;;;151383,843;210805,754
+ANTWERPEN-WEST - FH11;6460902;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Waalsekaai;57;A;;151252,707;210904,627
+ANTWERPEN-WEST - FH11;1899089;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;2 Units in CRAB- 1 in GM;Y;_;BUILDING template;Gijzelaarsstraat;26;;;151380,091;210789,832
+ANTWERPEN-WEST - FH11;762413;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;44;;;151332,885;211023,696
+ANTWERPEN-WEST - FH11;1899109;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Gijzelaarsstraat;28;;;151379,694;210785,478
+ANTWERPEN-WEST - FH11;762417;3;1;0;4;MDU;;Y;NA;5;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;52;;;151283,938;210968,469
+ANTWERPEN-WEST - FH11;1899122;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Gijzelaarsstraat;30;;;151378,961;210780,522
+ANTWERPEN-WEST - FH11;762419;4;1;0;5;MDU;;Y;NA;5;4;Beschermd Erfgoed;4 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;53;;;151283,873;210962,024
+ANTWERPEN-WEST - FH11;1899134;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;32;;;151378,457;210775,39
+ANTWERPEN-WEST - FH11;1899138;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;3 Units in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;34;;;151377,549;210770,47
+ANTWERPEN-WEST - FH11;762422;3;0;0;3;MDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_;BUILDING template;Schalienstraat;2;;;151142,008;210911,039
+ANTWERPEN-WEST - FH11;1899183;6;0;0;6;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;38;;;151375,966;210761,296
+ANTWERPEN-WEST - FH11;762423;4;1;0;5;MDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB- bestaat niet in GM;Y;_;BUILDING template;Schalienstraat;41;;;151284,079;210956,517
+ANTWERPEN-WEST - FH11;1899274;9;0;0;9;MDU;;Y;NA;5;3;Beschermd Erfgoed;9 Units in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;44;;;151373,867;210747,384
+ANTWERPEN-WEST - FH11;762432;11;0;1;12;MDU;;Y;NA;7;4;;9 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Verviersstraat;1;;De Gerlachekaai 15_Verviersstraat 3;151263,235;211035,853
+ANTWERPEN-WEST - FH11;1899319;1;0;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;46;;;151373,057;210741,219
+ANTWERPEN-WEST - FH11;762435;3;0;0;3;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Lakenstraat;1;;;151302,535;211070,185
+ANTWERPEN-WEST - FH11;1899387;1;0;0;1;SDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;54;;;151370,942;210724,004
+ANTWERPEN-WEST - FH11;762436;5;0;1;6;MDU;;Y;NA;5;3;Beschermd Erfgoed;4 Units in CRAB- aantal onduidelijk in GM;Y;_;BUILDING template;Lakenstraat;16;;;151325,079;211029,982
+ANTWERPEN-WEST - FH11;1899515;3;0;0;3;MDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;64;;;151361,412;210670,301
+ANTWERPEN-WEST - FH11;762438;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;4 Units in CRAB- 5 bussen in GM;Y;_;BUILDING template;Lakenstraat;7;;;151339,484;211044,398
+ANTWERPEN-WEST - FH11;1899523;1;0;0;1;SDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;66;;;151361,17;210665,525
+ANTWERPEN-WEST - FH11;1899532;3;0;0;3;MDU;;Y;NA;3;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;68;;;151360,808;210660,354
+ANTWERPEN-WEST - FH11;1899550;7;0;1;8;MDU;;N;ORN;5;4;;7 Units in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;74;;;151359,041;210648,957
+ANTWERPEN-WEST - FH11;968539;0;1;0;1;MDU;;N;IRREG;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;54;;Waalse Kaai 54-55;151276,446;210931,318
+ANTWERPEN-WEST - FH11;1899555;11;0;1;12;MDU;;N;ORN;4;4;;11 Units in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;76;;;151357,556;210638,677
+ANTWERPEN-WEST - FH11;968541;8;0;1;9;MDU;;N;ORN;6;4;;8 Units in CRAB- 11  bussen in GM;Y;_;BUILDING template;Schalienstraat;30;;Schalienstraat 30-32-34;151221,829;210927,752
+ANTWERPEN-WEST - FH11;1899562;9;0;1;10;MDU;;N;ORN;4;4;;1 Units in CRAB- 9 in GM;Y;_;BUILDING template;Gijzelaarsstraat;78;;;151355,562;210634,456
+ANTWERPEN-WEST - FH11;968543;2;0;1;3;MDU;;N;ORN;5;4;;;Y;_;BUILDING template;Schalienstraat;28;;;151215,612;210925,785
+ANTWERPEN-WEST - FH11;1948421;0;5;1;6;MDU;;N;IRREG;5;4;Beschermd Erfgoed;;Y;_;BUILDING template;IJzerenpoortkaai;3;;;151384,415;211153,21
+ANTWERPEN-WEST - FH11;968544;1;0;0;1;MDU;;Y;NA;7;5;;9 Units in CRAB- 5 bellen in GM;Y;_;BUILDING template;Schalienstraat;26;;Schalienstraat 24-26;151209,707;210926,527
+ANTWERPEN-WEST - FH11;1948435;4;0;1;5;MDU;;N;IRREG;4;4;;5 Units in CRAB en GM;Y;_;BUILDING template;IJzerenpoortkaai;7;;;151392,524;211144,507
+ANTWERPEN-WEST - FH11;968545;4;0;0;4;MDU;;Y;NA;3;4;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Schalienstraat;38;;;151268,414;210931,045
+ANTWERPEN-WEST - FH11;1948438;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;5 Units in CRAB- 1 in GM;Y;_;BUILDING template;IJzerenpoortkaai;8;;;151399,995;211141,353
+ANTWERPEN-WEST - FH11;968548;82;2;4;88;MDU;;N;IRREG;14;4;;82 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Van der Sweepstraat;3;;Van Der Sweepstraat 3-5-7;151155,36;210827,78
+ANTWERPEN-WEST - FH11;1948442;4;0;1;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;IJzerenpoortkaai;9;;;151404,545;211137,768
+ANTWERPEN-WEST - FH11;968549;5;0;1;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;De Gerlachekaai;37;;;151127,997;210911,279
+ANTWERPEN-WEST - FH11;1979919;8;0;0;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lakenstraat;3;;;151311,361;211067,381
+ANTWERPEN-WEST - FH11;968663;4;0;1;5;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Waalsekaai;29;;;151434,241;211152,582
+ANTWERPEN-WEST - FH11;1979925;8;0;0;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lakenstraat;3;A;;151320,025;211061,342
+ANTWERPEN-WEST - FH11;968664;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;36;;;151369,635;211069,746
+ANTWERPEN-WEST - FH11;1979932;8;0;0;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lakenstraat;3;B;;151329,951;211054,517
+ANTWERPEN-WEST - FH11;968665;4;1;0;5;MDU;;Y;NA;5;3;;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;43;;;151345,728;211040,937
+ANTWERPEN-WEST - FH11;1979935;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Lakenstraat;5;;;151335,529;211047,192
+ANTWERPEN-WEST - FH11;968667;1;1;0;2;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;28;;;151448,45;211177,693
+ANTWERPEN-WEST - FH11;1990345;8;0;0;8;MDU;;N;IRREG;5;4;;9 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leuvenstraat;3;;Leuvenstraat 1-3-5-7-9;151518,74;211298,46
+ANTWERPEN-WEST - FH11;968669;0;1;0;1;SDU;;Y;NA;5;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;42;;;151349,944;211048,004
+ANTWERPEN-WEST - FH11;1990349;7;0;0;7;MDU;;N;IRREG;4;4;;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leuvenstraat;7;;Leuvenstraat 1-3-5-7-9;151519,462;211330,847
+ANTWERPEN-WEST - FH11;968670;4;1;1;6;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;38;;;151361,809;211063,335
+ANTWERPEN-WEST - FH11;968672;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Wapenstraat;18;;;151470,886;211201,776
+ANTWERPEN-WEST - FH11;1993992;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_;BUILDING template;Luikstraat;6;;;151411,647;211164,887
+ANTWERPEN-WEST - FH11;1993994;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Luikstraat;7;;;151434,66;211185,818
+ANTWERPEN-WEST - FH11;968676;3;1;0;4;MDU;;Y;NA;4;5;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Luikstraat;9;;;151443,906;211173,382
+ANTWERPEN-WEST - FH11;1993995;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Luikstraat;8;;;151424,057;211161,986
+ANTWERPEN-WEST - FH11;2023803;3;1;0;4;MDU;;Y;NA;3;5;;2 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Museumstraat;7;;;151606,679;211127,215
+ANTWERPEN-WEST - FH11;968678;2;1;0;3;MDU;;Y;NA;3;3;Beschermd Erfgoed;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Luikstraat;12;;;151436,641;211158,581
+ANTWERPEN-WEST - FH11;2023806;3;2;0;5;MDU;;Y;NA;5;4;;3 Units in CRAB- 6 bussen in GM;Y;_;BUILDING template;Museumstraat;8;;;151593,503;211105,844
+ANTWERPEN-WEST - FH11;2023858;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;15;;;151645,292;211099,95
+ANTWERPEN-WEST - FH11;968680;5;0;1;6;MDU;;N;IRREG;4;4;;;Y;Review Required;BUILDING template;IJzerenpoortkaai;10;;Ijzerenpoortkaai 10_Waalsekaai 34;151407,001;211130,045
+ANTWERPEN-WEST - FH11;2023861;1;0;0;1;SDU;;Y;NA;4;6;;;Y;_;BUILDING template;Museumstraat;17;;;151650,646;211097,113
+ANTWERPEN-WEST - FH11;2023866;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Museumstraat;21;;;151658,084;211089,523
+ANTWERPEN-WEST - FH11;968682;4;1;0;5;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Visserskaai;11;;;151372,187;211073,59
+ANTWERPEN-WEST - FH11;2023868;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Museumstraat;23;;;151662,142;211087,415
+ANTWERPEN-WEST - FH11;968683;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Visserskaai;1;;;151325,936;211103,582
+ANTWERPEN-WEST - FH11;2023870;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Museumstraat;25;;;151666,345;211084,529
+ANTWERPEN-WEST - FH11;2023874;3;0;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;2 Units in CRAB- 2 bussen in GM;Y;_;BUILDING template;Museumstraat;27;;;151668,973;211080,73
+ANTWERPEN-WEST - FH11;968685;10;0;1;11;MDU;XC;N;MON;5;0;Monument;9 Units in CRAB- 1 in GM;Y;_;BUILDING template;De Gerlachekaai;8;;De Gerlachekaai 6-7-8;151295,287;211082,998
+ANTWERPEN-WEST - FH11;2023876;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Museumstraat;29;;;151674,266;211078,681
+ANTWERPEN-WEST - FH11;2023881;1;8;0;9;MDU;;Y;NA;4;4;Beschermd Erfgoed;8 Units in CRAB en GM;Y;_;BUILDING template;Museumstraat;31;;;151688,128;211077,959
+ANTWERPEN-WEST - FH11;2023892;10;0;1;11;MDU;;N;ORN;6;4;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;32;;;151662,924;211052,033
+ANTWERPEN-WEST - FH11;969122;0;3;0;3;MDU;;Y;NA;4;3;;3 Units in CRAB- in GM ook;Y;_;BUILDING template;De Burburestraat;1;;;151554,347;211074,88
+ANTWERPEN-WEST - FH11;2023898;0;1;0;1;SDU;;Y;NA;4;4;;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;35;;;151696,73;211060,5
+ANTWERPEN-WEST - FH11;969123;2;2;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Museumstraat;2;;;151578,544;211121,737
+ANTWERPEN-WEST - FH11;2023908;9;0;1;10;MDU;;N;ORN;6;4;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;36;;Museumstraat 36-38-40;151669,917;211048,284
+ANTWERPEN-WEST - FH11;969124;9;0;1;10;MDU;;N;IRREG;6;4;;9 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;48;;Museumstraat 48-50;151695,557;211029,605
+ANTWERPEN-WEST - FH11;2023915;3;1;0;4;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Museumstraat;39;;;151700,799;211055,765
+ANTWERPEN-WEST - FH11;969125;0;1;0;1;SDU;;Y;NA;4;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Museumstraat;10;;;151597,899;211100,785
+ANTWERPEN-WEST - FH11;2023925;5;0;1;6;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Museumstraat;41;;;151704,054;211052,047
+ANTWERPEN-WEST - FH11;969126;6;1;1;8;MDU;;Y;NA;6;6;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;12;;Museumstraat 12-12A-12B-12C-12D-14-14A;151624,276;211076,518
+ANTWERPEN-WEST - FH11;2023929;2;1;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Museumstraat;43;;;151710,428;211046,45
+ANTWERPEN-WEST - FH11;969127;8;0;1;9;MDU;;Y;NA;6;6;;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;16;;;151615,965;211066,079
+ANTWERPEN-WEST - FH11;2023933;10;0;1;11;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Museumstraat;44;;;151687,678;211035,098
+ANTWERPEN-WEST - FH11;969128;0;1;1;2;MDU;;N;IRREG;7;4;;7 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;18;;Museumstraat 18-20;151645,083;211063,75
+ANTWERPEN-WEST - FH11;2024583;8;0;1;9;MDU;;Y;NA;5;4;;6 Units in CRAB- in GM ook;Y;_;BUILDING template;Namenstraat;3;;;151146,568;210900,694
+ANTWERPEN-WEST - FH11;969130;2;0;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;33;;;151574,115;211117,545
+ANTWERPEN-WEST - FH11;2024587;1;1;1;3;MDU;;Y;NA;4;6;;;Y;_;BUILDING template;Namenstraat;7;;;151160,328;210897,602
+ANTWERPEN-WEST - FH11;969131;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;40;;;151545,071;211079,365
+ANTWERPEN-WEST - FH11;2024597;2;0;0;2;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;Review Required;BUILDING template;Namenstraat;13;;;151194,405;210867,699
+ANTWERPEN-WEST - FH11;969132;17;0;1;18;MDU;;N;IRREG;6;4;;16 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;22;;Leopold de Waelplaats 20-22-24A-26;151701,642;211016,053
+ANTWERPEN-WEST - FH11;2024600;0;1;0;1;SDU;;Y;NA;3;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Namenstraat;17;;;151206,837;210856,474
+ANTWERPEN-WEST - FH11;969134;4;0;0;4;MDU;;N;IRREG;6;4;;13 Units in CRAB- aantal onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;28;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;151681,15;210991,513
+ANTWERPEN-WEST - FH11;2038495;11;0;1;12;MDU;;N;ORN;4;4;;11 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pacificatiestraat;4;;;151331,311;210682,945
+ANTWERPEN-WEST - FH11;970500;1;2;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Verlatstraat;38;;;151738,949;211089,317
+ANTWERPEN-WEST - FH11;2038496;4;0;0;4;MDU;;Y;NA;5;4;;4 Units in CRAB en GM;Y;_;BUILDING template;Pacificatiestraat;5;;;151307,381;210713,985
+ANTWERPEN-WEST - FH11;970502;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;2 Units in CRAB- onduidelijk in GM;Y;Mogelijk 2* 3m overspanning nodig tussen luifel en balkon;BUILDING template;Verlatstraat;2;;;151621,987;211182,837
+ANTWERPEN-WEST - FH11;2038504;3;0;0;3;MDU;;Y;NA;5;4;;bestaat niet in CRAB- 1 Unit in GM;Y;_;BUILDING template;Pacificatiestraat;11;;;151330,24;210711,329
+ANTWERPEN-WEST - FH11;970503;0;1;0;1;MDU;;N;GLASS;5;4;Beschermd Erfgoed;1 Unit in CRAB- 8 bellen in GM;Y;_;BUILDING template;Verlatstraat;23;;Verlatstraat 23-25;151719,134;211153,785
+ANTWERPEN-WEST - FH11;2038510;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Pacificatiestraat;14;;;151353,672;210680,751
+ANTWERPEN-WEST - FH11;970506;2;0;0;2;MDU;;Y;NA;3;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;12;;;151676,477;211136,202
+ANTWERPEN-WEST - FH11;2038516;3;0;0;3;MDU;;Y;NA;3;3;;2 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Pacificatiestraat;17;;;151343,055;210710,889
+ANTWERPEN-WEST - FH11;970507;2;1;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;4;;;151743,157;211074,392
+ANTWERPEN-WEST - FH11;2038522;1;0;0;1;SDU;;Y;NA;3;4;;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Pacificatiestraat;19;;;151349,026;210712,072
+ANTWERPEN-WEST - FH11;970508;0;1;0;1;MDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leopold de Waelplaats;2;;Graaf Van Egmontstraat 60_Leopold De Waelplaats 2_Verlatstraat 41;151756,719;211107,403
+ANTWERPEN-WEST - FH11;2038526;2;0;0;2;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Pacificatiestraat;21;;;151355,808;210716,282
+ANTWERPEN-WEST - FH11;970509;2;1;1;4;MDU;;Y;NA;5;5;Beschermd Erfgoed;3 Units in CRaB- 2 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;32;;;151594,479;211143,512
+ANTWERPEN-WEST - FH11;2045444;5;0;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Pourbusstraat;2;A;;151491,944;210994,932
+ANTWERPEN-WEST - FH11;970510;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;27;;;151620,395;211170,764
+ANTWERPEN-WEST - FH11;2045445;6;1;0;7;MDU;;Y;NA;4;3;Beschermd Erfgoed;6 Units in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;3;;;151512,804;211007,253
+ANTWERPEN-WEST - FH11;970514;2;3;0;5;MDU;;Y;NA;4;4;Beschermd Erfgoed;2 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Museumstraat;1;;;151593,023;211136,908
+ANTWERPEN-WEST - FH11;2045446;5;0;0;5;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 5 bussen in GM;Y;_;BUILDING template;Pourbusstraat;4;;;151496,584;210990,75
+ANTWERPEN-WEST - FH11;970515;2;0;0;2;MDU;;Y;NA;3;5;;2 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Museumstraat;9;;;151612,727;211125,555
+ANTWERPEN-WEST - FH11;2045449;2;1;0;3;MDU;;Y;NA;4;3;;1 Unit in CRAB- 3 bussen in GM;Y;_;BUILDING template;Pourbusstraat;7;;;151521,155;210999,627
+ANTWERPEN-WEST - FH11;970516;5;0;0;5;MDU;;Y;NA;3;5;Beschermd Erfgoed;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;13;;;151639,676;211104,508
+ANTWERPEN-WEST - FH11;2045450;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;4 Units in CRAB- 2 bussen in GM;Y;_;BUILDING template;Pourbusstraat;8;;;151502,723;210980,048
+ANTWERPEN-WEST - FH11;970517;12;2;2;16;MDU;;N;ORN;5;4;;12 Units in CRAB- 18 bussen in GM;Y;_;BUILDING template;Museumstraat;11;;Museumstraat 11-11A-11B;151616,066;211122,137
+ANTWERPEN-WEST - FH11;2045451;3;1;0;4;MDU;;Y;NA;4;3;;3 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Pourbusstraat;9;;;151527,346;210994,826
+ANTWERPEN-WEST - FH11;970875;5;0;0;5;MDU;;Y;NA;4;3;Beschermd Erfgoed;3 Units in CRAB- 5 bussen in GM;Y;_;BUILDING template;Timmerwerfstraat;33;;;151591,349;211336,39
+ANTWERPEN-WEST - FH11;2045452;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Pourbusstraat;12;;;151511,069;210973,511
+ANTWERPEN-WEST - FH11;970877;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Timmerwerfstraat;29;;;151587,07;211345,496
+ANTWERPEN-WEST - FH11;2045453;8;0;1;9;MDU;;Y;NA;5;3;;9 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pourbusstraat;13;;;151537,924;210990,573
+ANTWERPEN-WEST - FH11;970880;9;0;1;10;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Timmerwerfstraat;21;;;151587,47;211360,891
+ANTWERPEN-WEST - FH11;2045454;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Pourbusstraat;14;;;151514,696;210971,349
+ANTWERPEN-WEST - FH11;970882;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Timmerwerfstraat;19;;;151584,203;211374,571
+ANTWERPEN-WEST - FH11;2045456;2;0;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Pourbusstraat;16;;;151521,908;210970,707
+ANTWERPEN-WEST - FH11;970884;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Timmerwerfstraat;17;;;151580,426;211388,557
+ANTWERPEN-WEST - FH11;2045458;2;0;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;6 Units in CRAB- 2 bellen in GM;Y;_;BUILDING template;Pourbusstraat;18;;;151525,907;210967,62
+ANTWERPEN-WEST - FH11;970885;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Timmerwerfstraat;15;;;151576,24;211402,645
+ANTWERPEN-WEST - FH11;2045461;4;0;0;4;MDU;;Y;NA;5;3;;3 Units in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;22;;;151533,103;210960,868
+ANTWERPEN-WEST - FH11;970887;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Timmerwerfstraat;13;;;151571,34;211416,427
+ANTWERPEN-WEST - FH11;2045463;4;0;0;4;MDU;;Y;NA;5;3;;1 Unit in CRAB- 5 bussen in GM;Y;_;BUILDING template;Pourbusstraat;24;;;151538,828;210958,424
+ANTWERPEN-WEST - FH11;970888;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Timmerwerfstraat;11;;;151566,644;211430,005
+ANTWERPEN-WEST - FH11;1028407;0;1;0;1;MDU;;N;ORN;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Jan van Gentstraat;11;;Jan van Gentstraat 5-7-9-11;151322,741;210645,787
+ANTWERPEN-WEST - FH11;2050228;0;6;3;9;MDU;;N;IRREG;6;4;;1 Unit in CRAB- MDU in GM;Y;_;BUILDING template;Schalienstraat;3;;De Gerlachekaai 20_Schalienstraat 1-3-5_Verviersstraat 2-4;151229,429;210951,795
+ANTWERPEN-WEST - FH11;970892;4;1;1;6;MDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Timmerwerfstraat;1;;;151562,56;211441,745
+ANTWERPEN-WEST - FH11;2050230;4;1;1;6;MDU;;Y;NA;7;6;;4 Units in CRAB- 5 bussen in GM;Y;_;BUILDING template;Schalienstraat;6;;;151153,593;210913,18
+ANTWERPEN-WEST - FH11;970895;0;1;0;1;MDU;;N;HEIGHT;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Wapenstraat;1;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;151443,217;211255,64
+ANTWERPEN-WEST - FH11;1101708;4;1;1;6;MDU;;Y;NA;4;3;;1 Unit in CRAB- BU in GM;Y;_;BUILDING template;Pacificatiestraat;3;;;151300;210715
+ANTWERPEN-WEST - FH11;2050231;4;1;1;6;MDU;;Y;NA;5;3;;1 Unit in CRAB- 3 bussen in GM;Y;Review Required;BUILDING template;Schalienstraat;8;;;151158,851;210913,522
+ANTWERPEN-WEST - FH11;970898;0;4;0;4;MDU;;N;IRREG;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leuvenstraat;1;;Leuvenstraat 1-3-5-7-9;151518,434;211264,636
+ANTWERPEN-WEST - FH11;1101821;0;1;0;1;MDU;;N;IRREG;6;4;;1 Unit in CRAB- BU in GM;Y;_;BUILDING template;Waalsekaai;4;;Waalsekaai 2-3-4-5;151640,716;211396,119
+ANTWERPEN-WEST - FH11;2050232;4;1;0;5;MDU;;Y;NA;5;5;;3 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Schalienstraat;10;;;151164,98;210915,309
+ANTWERPEN-WEST - FH11;970903;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Scheldestraat;36;;;151652,44;211413,609
+ANTWERPEN-WEST - FH11;1288309;9;0;1;10;MDU;;Y;NA;6;3;;9 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;IJzerenpoortkaai;2;;;151373,554;211159,613
+ANTWERPEN-WEST - FH11;970904;3;1;0;4;MDU;;N;ORN;4;4;Beschermd Erfgoed;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Scheldestraat;34;;;151644,651;211417,837
+ANTWERPEN-WEST - FH11;1333345;8;3;1;12;MDU;;Y;NA;5;3;;7 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vorstermanstraat;14;;;151731,496;211187,092
+ANTWERPEN-WEST - FH11;2050234;5;0;1;6;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Schalienstraat;16;;;151182,759;210921,044
+ANTWERPEN-WEST - FH11;1513866;0;1;0;1;SDU;;Y;NA;5;3;;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;67;;;151377;210856
+ANTWERPEN-WEST - FH11;1785489;0;2;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;1 Unit in GM;Y;_;BUILDING template;De Burburestraat;4;A;;151559;211040
+ANTWERPEN-WEST - FH11;2050237;9;0;1;10;MDU;;Y;NA;7;5;;1 Unit in CRAB- 5 bellen in GM;Y;_;BUILDING template;Schalienstraat;24;;Schalienstraat 24-26;151209,151;210918,058
+ANTWERPEN-WEST - FH11;1785490;0;2;0;2;MDU;;Y;NA;2;4;;1 Unit in CRAB- in GM ook;Y;_;BUILDING template;De Burburestraat;5;;;151562,744;211072,97
+ANTWERPEN-WEST - FH11;2050501;11;0;1;12;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Scheldestraat;12;;;151599,21;211450,014
+ANTWERPEN-WEST - FH11;970915;8;0;0;8;MDU;;Y;NA;5;3;;7 Units in CRAB- 9 in GM;Y;_;BUILDING template;Cockerillkaai;7;;;151519,906;211388,144
+ANTWERPEN-WEST - FH11;1785550;0;6;1;7;MDU;;Y;NA;6;3;Beschermd Erfgoed;1 Unit in CRAB- in GM ook;Y;_;BUILDING template;De Burburestraat;8;;;151572,934;211018,266
+ANTWERPEN-WEST - FH11;2050503;10;0;1;11;MDU;;Y;NA;6;3;;;Y;Review Required;BUILDING template;Scheldestraat;14;;;151611,358;211440,622
+ANTWERPEN-WEST - FH11;2050506;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Scheldestraat;22;;;151619,219;211433,067
+ANTWERPEN-WEST - FH11;970918;3;0;0;3;MDU;;N;ORN;4;4;;;Y;_;BUILDING template;Cockerillkaai;4;;;151561,435;211455,497
+ANTWERPEN-WEST - FH11;1800206;0;1;0;1;MDU;;N;GLASS;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Cockerillkaai;28;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151408,553;211226,035
+ANTWERPEN-WEST - FH11;2050509;4;1;0;5;MDU;;Y;NA;5;3;;5 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Scheldestraat;26;;;151624,221;211428,269
+ANTWERPEN-WEST - FH11;970919;6;0;1;7;MDU;;N;IRREG;7;4;;;Y;_;BUILDING template;Cockerillkaai;1;;;151575,082;211472,531
+ANTWERPEN-WEST - FH11;2050510;1;1;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Scheldestraat;28;;;151629,428;211424,492
+ANTWERPEN-WEST - FH11;970927;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Waalsekaai;23;;;151521,93;211246,043
+ANTWERPEN-WEST - FH11;1800223;5;0;1;6;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Cockerillkaai;33;;Cockerillkaai 32-33-34-35_Luikstraat 2;151384,178;211187,632
+ANTWERPEN-WEST - FH11;2050512;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Scheldestraat;30;;;151634,226;211420,51
+ANTWERPEN-WEST - FH11;970929;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Waalsekaai;11;;;151593,493;211341,699
+ANTWERPEN-WEST - FH11;1800254;5;0;1;6;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Cockerillkaai;35;;Cockerillkaai 32-33-34-35_Luikstraat 2;151373,447;211183,018
+ANTWERPEN-WEST - FH11;2050514;1;1;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Scheldestraat;32;;;151637,901;211418,06
+ANTWERPEN-WEST - FH11;970930;0;1;0;1;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Waalsekaai;2;;Waalsekaai 2-3-4-5;151647,393;211407,28
+ANTWERPEN-WEST - FH11;1857189;1;0;0;1;MDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Graaf van Egmontstraat;42;A;;151761;211171
+ANTWERPEN-WEST - FH11;2055993;82;0;4;86;MDU;;N;IRREG;14;4;;83 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Van der Sweepstraat;5;;Van Der Sweepstraat 3-5-7;151155,36;210827,78
+ANTWERPEN-WEST - FH11;971174;1;0;0;1;SDU;;N;MON;3;4;Monument;;Y;_;BUILDING template;Timmerwerfstraat;38;;;151563,124;211348,235
+ANTWERPEN-WEST - FH11;2056917;0;1;0;1;MDU;;Y;NA;5;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Timmerwerfstraat;8;;;151548,521;211391,416
+ANTWERPEN-WEST - FH11;1892329;0;1;0;1;SDU;;Y;NA;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Jan van Gentstraat;31;;;151343,735;210593,242
+ANTWERPEN-WEST - FH11;2056918;8;0;0;8;MDU;;Y;NA;5;3;;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Timmerwerfstraat;10;;;151551,559;211382,225
+ANTWERPEN-WEST - FH11;971791;7;1;1;9;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Verlatstraat;1;;;151645,56;211191,409
+ANTWERPEN-WEST - FH11;1893516;8;0;1;9;MDU;;N;IRREG;5;4;;8 Units in CRAB en GM;Y;_;BUILDING template;De Gerlachekaai;7;;De Gerlachekaai 6-7-8;151308,604;211095,763
+ANTWERPEN-WEST - FH11;2060102;3;1;0;4;MDU;;Y;NA;4;4;;2 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Verlatstraat;3;;;151649,481;211188,41
+ANTWERPEN-WEST - FH11;971792;3;1;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;2 Units in CRAB- 3 bussen in GM;Y;_;BUILDING template;Verlatstraat;41;;Graaf Van Egmontstraat 60_Leopold De Waelplaats 2_Verlatstraat 41;151749,765;211111,051
+ANTWERPEN-WEST - FH11;2060104;1;0;0;1;SDU;;Y;NA;3;4;;;Y;Onder constructie;BUILDING template;Verlatstraat;5;;;151655,32;211186,735
+ANTWERPEN-WEST - FH11;971793;64;0;0;64;MDU;;Y;NA;4;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;21;;;151706,173;211146,698
+ANTWERPEN-WEST - FH11;1899010;3;0;0;3;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;18;;;151383;210827
+ANTWERPEN-WEST - FH11;2060105;1;1;1;3;MDU;;N;HEIGHT;5;4;;6 Units in CRAB- bouwgrond in GM;Y;Onder constructie;BUILDING template;Verlatstraat;11;;Verlatstraat 11-13;151673,243;211171,334
+ANTWERPEN-WEST - FH11;971794;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;27;;;151719,359;211139,017
+ANTWERPEN-WEST - FH11;1899049;0;4;0;4;MDU;;Y;NA;5;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;22;;;151384,6;210811,657
+ANTWERPEN-WEST - FH11;2060106;1;0;0;1;SDU;;N;HEIGHT;5;4;Beschermd Erfgoed;1 Unit in CRAB- bouwgrond in GM;Y;Onder constructie;BUILDING template;Verlatstraat;13;;Verlatstraat 11-13;151678,303;211167,199
+ANTWERPEN-WEST - FH11;971796;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vorstermanstraat;1;;;151696,256;211253,48
+ANTWERPEN-WEST - FH11;1899341;8;0;0;8;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Gijzelaarsstraat;48;;;151372;210734
+ANTWERPEN-WEST - FH11;2060110;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Verlatstraat;19;;;151703,623;211150,133
+ANTWERPEN-WEST - FH11;971797;7;0;1;8;MDU;;Y;NA;4;3;;7 Units in CRAB en GM;Y;_;BUILDING template;Vorstermanstraat;11;;;151737,976;211217,464
+ANTWERPEN-WEST - FH11;1990351;5;0;0;5;MDU;;N;IRREG;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Leuvenstraat;9;;Leuvenstraat 1-3-5-7-9;151518;211343
+ANTWERPEN-WEST - FH11;2060111;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;Andere bekabeling loopt via doorboring van balkon;BUILDING template;Verlatstraat;20;;;151698,488;211115,564
+ANTWERPEN-WEST - FH11;971798;3;0;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Vorstermanstraat;20;;;151753,116;211170,992
+ANTWERPEN-WEST - FH11;2023816;0;1;0;1;MDU;;N;ORN;5;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;11;A;Museumstraat 11-11A-11B;151626,351;211116,28
+ANTWERPEN-WEST - FH11;2060116;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;24;;;151706,477;211112,882
+ANTWERPEN-WEST - FH11;971799;2;1;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Scheldestraat;38;;;151750,37;211338,899
+ANTWERPEN-WEST - FH11;2023819;0;1;0;1;MDU;;N;ORN;5;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;11;B;Museumstraat 11-11A-11B;151635,607;211109,896
+ANTWERPEN-WEST - FH11;2060118;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Verlatstraat;26;;;151711,789;211111,217
+ANTWERPEN-WEST - FH11;971800;0;1;0;1;MDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;17;;;151669,362;211242,484
+ANTWERPEN-WEST - FH11;2023829;0;1;1;2;MDU;;Y;NA;6;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;12;A;Museumstraat 12-12A-12B-12C-12D-14-14A;151603,98;211099,896
+ANTWERPEN-WEST - FH11;2060119;3;0;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Verlatstraat;28;;;151714,034;211106,209
+ANTWERPEN-WEST - FH11;971801;0;1;0;1;MDU;;N;IRREG;6;4;;;Y;_;BUILDING template;Vlaamsekaai;63;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;151436,3;210936,672
+ANTWERPEN-WEST - FH11;2023832;0;1;1;2;MDU;;Y;NA;6;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;12;B;Museumstraat 12-12A-12B-12C-12D-14-14A;151603,404;211095,748
+ANTWERPEN-WEST - FH11;2060120;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Verlatstraat;29;;;151725,206;211135,998
+ANTWERPEN-WEST - FH11;971802;4;1;1;6;MDU;;N;IRREG;6;4;;4 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;26;;;151638,494;211195,158
+ANTWERPEN-WEST - FH11;2023837;0;1;1;2;MDU;;Y;NA;6;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;12;C;Museumstraat 12-12A-12B-12C-12D-14-14A;151606,736;211093,98
+ANTWERPEN-WEST - FH11;2060121;2;0;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Verlatstraat;30;;;151719,254;211104,196
+ANTWERPEN-WEST - FH11;971804;3;0;0;3;MDU;;Y;NA;4;3;;3 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Vlaamsekaai;6;;;151726,1;211311,611
+ANTWERPEN-WEST - FH11;2023854;0;1;1;2;MDU;;Y;NA;6;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;14;A;Museumstraat 12-12A-12B-12C-12D-14-14A;151635,743;211070,902
+ANTWERPEN-WEST - FH11;2060122;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;31;;;151727,059;211128,645
+ANTWERPEN-WEST - FH11;971805;2;1;0;3;MDU;;Y;NA;3;3;;2 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Vlaamsekaai;1;;;151745,039;211341,991
+ANTWERPEN-WEST - FH11;2023855;0;1;0;1;SDU;;Y;NA;6;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;14;B;;151639,64;211068,203
+ANTWERPEN-WEST - FH11;2060123;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;32;;;151722,429;211100,535
+ANTWERPEN-WEST - FH11;971806;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;7;;;151722,66;211305,453
+ANTWERPEN-WEST - FH11;2023912;5;1;0;6;MDU;;Y;NA;4;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;37;;;151698;211071
+ANTWERPEN-WEST - FH11;2060124;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Verlatstraat;33;;;151734,445;211126,614
+ANTWERPEN-WEST - FH11;971807;1;1;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;9;;;151713,651;211293,67
+ANTWERPEN-WEST - FH11;2023914;0;1;0;1;MDU;;N;ORN;6;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Museumstraat;38;;Museumstraat 36-38-40;151675,696;211043,389
+ANTWERPEN-WEST - FH11;2060125;0;3;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;Gebouw onder constructie;BUILDING template;Verlatstraat;34;;;151727,148;211098,201
+ANTWERPEN-WEST - FH11;971808;0;3;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 3 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;11;;;151713,704;211273,185
+ANTWERPEN-WEST - FH11;2060126;4;0;1;5;MDU;;N;ORN;4;4;;4 Units in CRAB en GM;Y;_;BUILDING template;Verlatstraat;35;;;151737,281;211122,223
+ANTWERPEN-WEST - FH11;971809;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;12;;;151714,602;211259,327
+ANTWERPEN-WEST - FH11;2045448;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;6;;;151499;210984
+ANTWERPEN-WEST - FH11;2060272;3;0;0;3;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verschansingstraat;4;;;151633,325;210959,665
+ANTWERPEN-WEST - FH11;971810;2;1;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;16;;;151681,023;211256,219
+ANTWERPEN-WEST - FH11;2045455;0;1;0;1;SDU;;Y;NA;5;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pourbusstraat;15;;;151545,52;210985,03
+ANTWERPEN-WEST - FH11;NB-20001801265;1;0;0;1;SDU;;Y;NA;2;4;;enkel in GM;Y;;BUILDING template;Leopold de Waelplaats;18;;;151721;211040
+ANTWERPEN-WEST - FH11;2060274;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Verschansingstraat;6;;;151628,317;210958,954
+ANTWERPEN-WEST - FH11;971812;3;1;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;2 Units in CRAB- 3 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;60;;Graaf Van Egmontstraat 60_Leopold De Waelplaats 2_Verlatstraat 41;151762,68;211115,507
+ANTWERPEN-WEST - FH11;2045457;8;0;1;9;MDU;;Y;NA;5;3;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pourbusstraat;17;;;151551,463;210980,21
+ANTWERPEN-WEST - FH11;2060276;5;0;1;6;MDU;;Y;NA;4;3;;5 Bussen in CRAB en GM;Y;_;BUILDING template;Verschansingstraat;8;;;151622,151;210958,016
+ANTWERPEN-WEST - FH11;971813;4;0;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Graaf van Egmontstraat;44;;;151760,766;211162,014
+ANTWERPEN-WEST - FH11;2045459;0;1;0;1;SDU;;Y;NA;5;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;19;;;151556,598;210975,808
+ANTWERPEN-WEST - FH11;2060279;3;1;0;4;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Verschansingstraat;12;;;151610,62;210957,081
+ANTWERPEN-WEST - FH11;971814;1;1;0;2;MDU;;Y;NA;3;3;;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;2;;;151755,318;211334,381
+ANTWERPEN-WEST - FH11;2045460;8;0;1;9;MDU;;Y;NA;5;3;;1 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Pourbusstraat;21;;;151561,105;210970,673
+ANTWERPEN-WEST - FH11;2060280;3;1;0;4;MDU;;Y;NA;4;3;;3 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Verschansingstraat;14;;;151603,075;210962,504
+ANTWERPEN-WEST - FH11;971815;4;0;1;5;MDU;;Y;NA;5;3;;bestaat niet in CRAB- 4 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;40;A;;151760,84;211197,079
+ANTWERPEN-WEST - FH11;2045462;0;1;0;1;SDU;;Y;NA;5;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;23;;;151567,341;210966,847
+ANTWERPEN-WEST - FH11;NB-200030B01269;1;0;0;1;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;Y;;BUILDING template;Leopold de Waelplaats;30;B;;151675;210987
+ANTWERPEN-WEST - FH11;2060282;3;0;0;3;MDU;;N;ORN;4;4;;;Y;_;BUILDING template;Verschansingstraat;16;;Verschansingstraat 16-16A;151594,311;210964,149
+ANTWERPEN-WEST - FH11;971816;3;1;0;4;MDU;;Y;NA;4;3;;1 Unit in CRAB- aantal onduidelijk in GM;Y;_;BUILDING template;Graaf van Egmontstraat;20;;;151756,692;211259,547
+ANTWERPEN-WEST - FH11;2050239;11;0;1;12;MDU;;N;ORN;6;4;;;Y;_;BUILDING template;Schalienstraat;32;;Schalienstraat 30-32-34;151228;210928
+ANTWERPEN-WEST - FH11;971817;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Graaf van Egmontstraat;18;;;151755,606;211275,463
+ANTWERPEN-WEST - FH11;2056916;0;1;0;1;SDU;;Y;NA;6;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Timmerwerfstraat;4;;;151545;211410
+ANTWERPEN-WEST - FH11;2060290;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Verschansingstraat;28;;;151545,159;210944,612
+ANTWERPEN-WEST - FH11;971818;4;0;0;4;MDU;;Y;NA;4;4;Beschermd Erfgoed;4 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Graaf van Egmontstraat;42;;;151761,699;211167,626
+ANTWERPEN-WEST - FH11;2060103;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;2 Units in CRAB- 3 bussen in GM;Y;_;BUILDING template;Verlatstraat;4;;;151625;211179
+ANTWERPEN-WEST - FH11;2060292;1;0;0;1;SDU;;N;ORN;2;4;;;Y;_;BUILDING template;Verschansingstraat;32;;;151535,106;210943,802
+ANTWERPEN-WEST - FH11;977578;0;4;0;4;MDU;;Y;NA;4;3;;4 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Gentplaats;1;;;151283,299;210725,969
+ANTWERPEN-WEST - FH11;2060107;0;1;0;1;SDU;;Y;NA;3;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verlatstraat;14;;;151684,755;211129,64
+ANTWERPEN-WEST - FH11;2060293;4;1;1;6;MDU;;Y;NA;5;3;;1 Unit in CRAB- 2 bussen in GM;Y;_;BUILDING template;Verschansingstraat;34;;;151529,196;210943,437
+ANTWERPEN-WEST - FH11;977579;4;0;0;4;MDU;;Y;NA;5;3;;2 Units in CRAB- leegstaand in GM;Y;_;BUILDING template;Gentplaats;2;;;151290,446;210717,333
+ANTWERPEN-WEST - FH11;2060127;3;1;1;5;MDU;;Y;NA;3;4;Beschermd Erfgoed;6 Units in CRAB- onduidelijk in GM;Y;Onder constructie;BUILDING template;Verlatstraat;36;;;151731,208;211094,46
+ANTWERPEN-WEST - FH11;2060294;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Verschansingstraat;36;;;151524,181;210941,536
+ANTWERPEN-WEST - FH11;977580;3;1;0;4;MDU;;Y;NA;4;3;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Gentplaats;3;;;151296,305;210715,844
+ANTWERPEN-WEST - FH11;2060297;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Verschansingstraat;40;;;151509,847;210940,21
+ANTWERPEN-WEST - FH11;977581;0;1;0;1;SDU;;Y;NA;6;10;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;81;;;151327,35;210765,48
+ANTWERPEN-WEST - FH11;2060277;0;1;0;1;SDU;;Y;NA;4;3;;1 Bus in CRAB en GM;Y;_;BUILDING template;Verschansingstraat;10;;;151617,59;210956,122
+ANTWERPEN-WEST - FH11;2060299;4;0;0;4;MDU;;Y;NA;4;3;;4 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Verschansingstraat;42;;;151501,594;210939,054
+ANTWERPEN-WEST - FH11;977582;0;1;1;2;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- niet te zien in GM;Y;_;BUILDING template;Vlaamsekaai;74;;;151351,449;210824,204
+ANTWERPEN-WEST - FH11;2060308;0;1;0;1;MDU;;N;IRREG;6;4;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verschansingstraat;52;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;151462,332;210929,743
+ANTWERPEN-WEST - FH11;2060301;4;0;0;4;MDU;;Y;NA;4;3;;4 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Verschansingstraat;44;;;151496,135;210938,41
+ANTWERPEN-WEST - FH11;977583;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;4 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;64;;;151384,26;210870,158
+ANTWERPEN-WEST - FH11;2060968;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;3;;;151740,544;211336,048
+ANTWERPEN-WEST - FH11;2060303;3;1;0;4;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verschansingstraat;46;;;151487,877;210938,378
+ANTWERPEN-WEST - FH11;977585;4;0;0;4;MDU;;Y;NA;5;3;Beschermd Erfgoed;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;75;;;151347,596;210820,106
+ANTWERPEN-WEST - FH11;2060969;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;5;;;151727,7;211318,476
+ANTWERPEN-WEST - FH11;2060304;5;1;0;6;MDU;;Y;NA;4;9;;3 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Verschansingstraat;48;;;151479,573;210937,464
+ANTWERPEN-WEST - FH11;977586;0;8;1;9;MDU;;N;ORN;5;4;;5 Units in CRAB- 8 adressen in GM;Y;_;BUILDING template;Vlaamsekaai;90;;;151283,047;210736,081
+ANTWERPEN-WEST - FH11;2060976;0;1;0;1;MDU;;Y;NA;5;5;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;23;;;151646;211214
+ANTWERPEN-WEST - FH11;977587;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vlaamsekaai;77;;;151340,766;210811,362
+ANTWERPEN-WEST - FH11;2060979;0;1;0;1;MDU;;N;IRREG;4;4;Beschermd Erfgoed;1 Unit in CRAB en in GM;Y;_;BUILDING template;Vlaamsekaai;29;;Vlaamsekaai 28-29-29A-30-31;151613,845;211161,268
+ANTWERPEN-WEST - FH11;2060311;17;0;1;18;MDU;;N;IRREG;6;4;;17 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Verschansingstraat;54;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;151458,739;210929,283
+ANTWERPEN-WEST - FH11;977588;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;80;;;151330,22;210797,697
+ANTWERPEN-WEST - FH11;2060980;2;4;1;7;MDU;;N;IRREG;4;4;Beschermd Erfgoed;1 Unit in CRAB en in GM;Y;_;BUILDING template;Vlaamsekaai;29;A;Vlaamsekaai 28-29-29A-30-31;151609;211155
+ANTWERPEN-WEST - FH11;2060362;23;1;2;26;MDU;;N;IRREG;7;4;;;Y;_;BUILDING template;Verviersstraat;2;;De Gerlachekaai 20_Schalienstraat 1-3-5_Verviersstraat 2-4;151265,842;210997,392
+ANTWERPEN-WEST - FH11;977589;5;0;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;84;;;151305,481;210764,635
+ANTWERPEN-WEST - FH11;2060981;0;1;0;1;MDU;;N;IRREG;4;4;Beschermd Erfgoed;1 Unit in CRAB en in GM;Y;_;BUILDING template;Vlaamsekaai;30;;Vlaamsekaai 28-29-29A-30-31;151603,786;211149,661
+ANTWERPEN-WEST - FH11;2060367;4;0;0;4;MDU;;N;ORN;7;4;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Verviersstraat;9;;;151278,687;211023,625
+ANTWERPEN-WEST - FH11;977590;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;4 Units in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;89;;;151289,042;210743,478
+ANTWERPEN-WEST - FH11;2060988;1;0;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;enkel in GM;Y;_;BUILDING template;Vlaamsekaai;39;;;151552;211089
+ANTWERPEN-WEST - FH11;2060368;0;1;0;1;SDU;;Y;NA;5;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Verviersstraat;15;;;151290,318;211012,104
+ANTWERPEN-WEST - FH11;977592;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gijzelaarsstraat;2;;;151393,373;210867,843
+ANTWERPEN-WEST - FH11;2060991;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en in GM;Y;_;BUILDING template;Vlaamsekaai;45;;;151518,605;211040,464
+ANTWERPEN-WEST - FH11;2060961;8;0;1;9;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Visserskaai;2;;;151333,081;211096,25
+ANTWERPEN-WEST - FH11;977593;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gijzelaarsstraat;58;;;151371,008;210710,477
+ANTWERPEN-WEST - FH11;2061002;0;1;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;7 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;55;;;151470,711;210978,997
+ANTWERPEN-WEST - FH11;2060962;8;0;1;9;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Visserskaai;3;;;151340,652;211092,203
+ANTWERPEN-WEST - FH11;977611;3;1;0;4;MDU;;Y;NA;5;3;;3 Units in CRAB- 4 bussen in GM;Y;_;BUILDING template;Gillisplaats;7;;;151394,831;210874,117
+ANTWERPEN-WEST - FH11;2061003;11;0;1;12;MDU;;Y;NA;5;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;56;;;151465,768;210973,271
+ANTWERPEN-WEST - FH11;2060963;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Visserskaai;4;;;151347,431;211087,719
+ANTWERPEN-WEST - FH11;977612;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Gillisplaats;8;;;151388,057;210875,738
+ANTWERPEN-WEST - FH11;2061006;7;0;1;8;MDU;;Y;NA;6;3;;7 Units in CRAB- 8 Bussen in GM;Y;_;BUILDING template;Vlaamsekaai;59;;;151451,881;210957,232
+ANTWERPEN-WEST - FH11;2060964;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;2 Units in CRAB- 1 bus in GM;Y;_;BUILDING template;Visserskaai;8;;;151354,134;211082,542
+ANTWERPEN-WEST - FH11;977614;4;0;0;4;MDU;;Y;NA;4;3;;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Pacificatiestraat;15;;;151336,985;210711,359
+ANTWERPEN-WEST - FH11;2061020;4;3;1;8;MDU;;Y;NA;6;10;;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Vlaamsekaai;82;;;151323;210781
+ANTWERPEN-WEST - FH11;2060965;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Visserskaai;9;;;151359,418;211079,539
+ANTWERPEN-WEST - FH11;2061802;8;3;1;12;MDU;;N;ORN;5;;;12 Units in CRAB- 9 bussen in GM;Y;_;BUILDING template;Vorstermanstraat;12;;;151720,345;211174,681
+ANTWERPEN-WEST - FH11;2060966;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;2 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Visserskaai;10;;;151367,192;211074,136
+ANTWERPEN-WEST - FH11;977619;8;0;0;8;MDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;_;BUILDING template;Pacificatiestraat;9;;;151322,169;210711,889
+ANTWERPEN-WEST - FH11;2062524;7;0;1;8;MDU;;N;IRREG;2;4;;17 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;5;;Waalsekaai 2-3-4-5;151637,161;211390,69
+ANTWERPEN-WEST - FH11;2060967;0;1;0;1;SDU;;Y;NA;3;3;;niet in CRAB of GM;Y;_;BUILDING template;Vlaamsekaai;2;;;151735,359;211315,912
+ANTWERPEN-WEST - FH11;977800;8;0;1;9;MDU;;N;IRREG;6;4;;8 Units in CRAB- 10 bussen in GM;Y;_;BUILDING template;Gillisplaats;2;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;151432,58;210929,655
+ANTWERPEN-WEST - FH11;2062532;1;0;0;1;SDU;;Y;NA;1;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;15;;;151555,312;211285,477
+ANTWERPEN-WEST - FH11;2060971;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;8;;;151718,14;211299,551
+ANTWERPEN-WEST - FH11;977804;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Verschansingstraat;24;;;151554,046;210945,197
+ANTWERPEN-WEST - FH11;2060972;4;1;0;5;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Vlaamsekaai;10;;;151721,55;211278,31
+ANTWERPEN-WEST - FH11;977806;3;0;0;3;MDU;;Y;NA;4;3;;1 Unit in CRAB en GM;Y;_;BUILDING template;Verschansingstraat;18;;;151590,601;210951,035
+ANTWERPEN-WEST - FH11;2060973;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;3 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;14;;;151691,853;211264,081
+ANTWERPEN-WEST - FH11;977814;5;0;0;5;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Pourbusstraat;2;;;151487,425;210999,983
+ANTWERPEN-WEST - FH11;2062550;8;0;1;9;MDU;;N;IRREG;6;4;;8 Units in CRAB- onduidelijk in GM;Y;_;BUILDING template;Waalsekaai;55;;Waalse Kaai 54-55;151278,587;210934,693
+ANTWERPEN-WEST - FH11;2060974;10;0;1;11;MDU;;Y;NA;5;4;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;19;;;151662,275;211232,567
+ANTWERPEN-WEST - FH11;977815;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;1 Unit in CRAB- 4 bussen in GM;Y;_;BUILDING template;Pourbusstraat;1;;;151505,004;211011,994
+ANTWERPEN-WEST - FH11;2062830;3;1;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;1 Unit in CRAB en GM;Y;_;BUILDING template;Leopold de Waelplaats;12;;;151729,039;211054,054
+ANTWERPEN-WEST - FH11;2060975;1;1;0;2;MDU;;Y;NA;5;5;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;20;;;151662,072;211209,984
+ANTWERPEN-WEST - FH11;977816;4;1;0;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Pourbusstraat;26;;;151545,311;210954,348
+ANTWERPEN-WEST - FH11;2062836;0;1;0;1;MDU;;N;IRREG;7;4;;1 Unit in CRAB- BU in GM;Y;_;BUILDING template;Leopold de Waelplaats;30;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;151675,716;210979,441
+ANTWERPEN-WEST - FH11;2060977;0;1;0;1;SDU;;Y;NA;7;6;;1 Unit in CRAB- onduidelijk in GM;Y;_;BUILDING template;Vlaamsekaai;24;;;151642,835;211200,682
+ANTWERPEN-WEST - FH11;977817;7;1;1;9;MDU;;Y;NA;4;3;;9 Units in CRAB en GM;Y;_;BUILDING template;Pourbusstraat;25;;;151576,453;210961,089
+ANTWERPEN-WEST - FH11;33410;7;2;1;10;MDU;;N;IRREG;5;4;;9 Units in CRAB- nr te zien in GM;Y;_;BUILDING template;Verlatstraat;15;;;151684;211161
+ANTWERPEN-WEST - FH11;4049058;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;15;;;151332,003;210636,594
+ANTWERPEN-WEST - FH11;4148046;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Pacificatiestraat;6;;;151326;210681
+ANTWERPEN-WEST - FH11;4516817;0;0;0;0;SDU;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Leuvenstraat;30;;;151481,059;211274,25
+ANTWERPEN-WEST - FH11;4516999;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB-  niet in GM;N;;BUILDING template;Graaf van Egmontstraat;4;;;151756;211328
+ANTWERPEN-WEST - FH11;4517000;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB-  niet in GM;N;;BUILDING template;Graaf van Egmontstraat;6;;;151756,512;211324,6
+ANTWERPEN-WEST - FH11;4517012;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Vlaamsekaai;25;;;151640,212;211203,516
+ANTWERPEN-WEST - FH11;4519107;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Verviersstraat;3;;De Gerlachekaai 15_Verviersstraat 3;151267,851;211031,098
+ANTWERPEN-WEST - FH11;4519108;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Verviersstraat;5;;;151270,762;211028,816
+ANTWERPEN-WEST - FH11;4519109;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Verviersstraat;7;;;151274,708;211026,456
+ANTWERPEN-WEST - FH11;4519436;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Cockerillkaai;29;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151407,488;211223,815
+ANTWERPEN-WEST - FH11;2061800;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- GREENFIELD IN IFH;N;;BUILDING template;Vorstermanstraat;8;;;151689,479;211163,285
+ANTWERPEN-WEST - FH11;5383746;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Leuvenstraat;76;;;151506;211369
+ANTWERPEN-WEST - FH11;5575584;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;17;;;151326,738;210635,842
+ANTWERPEN-WEST - FH11;5576321;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Timmerwerfstraat;6;;;151548;211395
+ANTWERPEN-WEST - FH11;5770316;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Schalienstraat;1;A;;151168;210944
+ANTWERPEN-WEST - FH11;5861715;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Pourbusstraat;31;;;151579,166;210951,511
+ANTWERPEN-WEST - FH11;5961115;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;23;;;151335,994;210605,991
+ANTWERPEN-WEST - FH11;6082706;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;IJzerenpoortkaai;11;;;151412,59;211125,64
+ANTWERPEN-WEST - FH11;6086676;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Waalsekaai;65;;;151216;210847
+ANTWERPEN-WEST - FH11;6308529;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;20;;;151305;210578
+ANTWERPEN-WEST - FH11;6326563;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Schalienstraat;34;A;;151240;210929
+ANTWERPEN-WEST - FH11;1101514;0;0;0;0;SDU;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Waalsekaai;62;;;151222,301;210863,378
+ANTWERPEN-WEST - FH11;6330869;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Waalsekaai;38;A;;151361,012;211060,247
+ANTWERPEN-WEST - FH11;6339520;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Verviersstraat;4;A;;151275,25;210990,381
+ANTWERPEN-WEST - FH11;6362488;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;2;A;;151267,158;210672,248
+ANTWERPEN-WEST - FH11;6399232;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Leuvenstraat;23;;;151512;211368
+ANTWERPEN-WEST - FH11;1277343;0;0;0;0;SDU;;Y;NA;2;4;;niet in CRAB of GM;N;;BUILDING template;Verlatstraat;6;;;151636,963;211167,725
+ANTWERPEN-WEST - FH11;6431223;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Gijzelaarsstraat;60;A;;151367;210682
+ANTWERPEN-WEST - FH11;6443039;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Namenstraat;7;A;;151168;210894
+ANTWERPEN-WEST - FH11;6443434;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Verlatstraat;15;A;;151693,3;211154,68
+ANTWERPEN-WEST - FH11;6444355;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Waalsekaai;60;A;;151235,202;210877,518
+ANTWERPEN-WEST - FH11;6454994;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;De Burburestraat;5;A;;151566,586;211068,97
+ANTWERPEN-WEST - FH11;2062832;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Leopold de Waelplaats;24;B;;151684,605;211006,977
+ANTWERPEN-WEST - FH11;6525263;0;0;0;0;SDU;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Waalsekaai;41;;;151353,116;211051,357
+ANTWERPEN-WEST - FH11;2063175;0;0;0;0;SDU;;Y;NA;2;4;Beschermd Erfgoed;;N;;BUILDING template;Wapenstraat;16;;;151467,706;211208,286
+ANTWERPEN-WEST - FH11;6609786;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;21;;;151329,412;210621,383
+ANTWERPEN-WEST - FH11;6667253;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- niet in GM;N;;BUILDING template;Lakenstraat;18;;;151332,288;211027,421
+ANTWERPEN-WEST - FH11;6667254;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Luikstraat;4;A;;151404,125;211178,47
+ANTWERPEN-WEST - FH11;968686;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Cockerillkaai;25;;;151418,066;211222,081
+ANTWERPEN-WEST - FH11;4517007;0;0;0;0;SDU;;Y;NA;4;4;Beschermd Erfgoed;1 Unit in CRAB en GM;N;;BUILDING template;Vlaamsekaai;18;;;151665,714;211237,593
+ANTWERPEN-WEST - FH11;4517215;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- niet in GM;N;;BUILDING template;Gijzelaarsstraat;82;;;151352,654;210601,274
+ANTWERPEN-WEST - FH11;4517268;0;0;0;0;SDU;;Y;NA;2;4;;bestaat niet in CRAB- onduidelijk in GM;N;;BUILDING template;Pacificatiestraat;8;;;151318,79;210713,084
+ANTWERPEN-WEST - FH11;4519091;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Lakenstraat;10;;;151317,688;211035,565
+ANTWERPEN-WEST - FH11;4519110;0;0;0;0;SDU;;Y;NA;4;4;;niet in CRAB of GM;N;;BUILDING template;Verviersstraat;11;;;151284,211;211017,505
+ANTWERPEN-WEST - FH11;4519114;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Waalsekaai;46;;;151312,001;211009,786
+ANTWERPEN-WEST - FH11;4519891;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Museumstraat;30;;;151651,764;211061,123
+ANTWERPEN-WEST - FH11;5320987;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;39;;;151345,607;210590,14
+ANTWERPEN-WEST - FH11;5373891;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Leopold de Waelplaats;28;A;;151676,458;210996,068
+ANTWERPEN-WEST - FH11;5403616;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- niet in GM;N;;BUILDING template;Timmerwerfstraat;36;;;151559,017;211358,413
+ANTWERPEN-WEST - FH11;5414528;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Leopold de Waelplaats;22;A;;151695,565;211021,091
+ANTWERPEN-WEST - FH11;5576220;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- niet in GM;N;;BUILDING template;Schalienstraat;36;;;151250,139;210931,119
+ANTWERPEN-WEST - FH11;5576402;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Leopold de Waelplaats;24;;;151690,942;211012,184
+ANTWERPEN-WEST - FH11;5906036;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;De Burburestraat;7;A;;151572,28;211064,737
+ANTWERPEN-WEST - FH11;762421;0;0;0;0;SDU;;Y;NA;4;4;;bestaat niet in CRAB en GM;N;;BUILDING template;Schalienstraat;31;;;151265,003;210957,138
+ANTWERPEN-WEST - FH11;968681;0;0;0;0;SDU;;Y;NA;4;4;;Niet in CRAB- niet te zien in GM;N;;BUILDING template;IJzerenpoortkaai;1;;;151368,614;211162,396
+ANTWERPEN-WEST - FH11;1082715;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;19;;;151328,911;210629,406
+ANTWERPEN-WEST - FH11;2050233;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Schalienstraat;12;;;151170,518;210919,496
+ANTWERPEN-WEST - FH11;2050235;0;0;0;0;SDU;;Y;NA;5;5;;;N;_;BUILDING template;Schalienstraat;18;;;151189,057;210923,337
+ANTWERPEN-WEST - FH11;970917;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- niet in GM;N;;BUILDING template;Cockerillkaai;5;;;151560,004;211448,49
+ANTWERPEN-WEST - FH11;1800171;0;0;0;0;SDU;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Cockerillkaai;17;;;151466;211309
+ANTWERPEN-WEST - FH11;1800209;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Cockerillkaai;30;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151406,203;211221,702
+ANTWERPEN-WEST - FH11;1892268;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Jan van Gentstraat;13;;;151331;210633
+ANTWERPEN-WEST - FH11;971237;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Leuvenstraat;16;;;151477,15;211297,884
+ANTWERPEN-WEST - FH11;1893608;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- niet in GM;N;;BUILDING template;De Gerlachekaai;17;;;151260;211039
+ANTWERPEN-WEST - FH11;2038501;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Pacificatiestraat;10;;;151323;210681
+ANTWERPEN-WEST - FH11;2060286;0;0;0;0;SDU;;Y;NA;2;4;;;N;;BUILDING template;Verschansingstraat;22;;;151581,229;210954,957
+ANTWERPEN-WEST - FH11;2060128;0;0;0;0;SDU;;Y;NA;2;4;;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Verlatstraat;38;A;;151745;211084
+ANTWERPEN-WEST - FH11;2060306;0;0;0;0;SDU;;Y;NA;4;4;;bestaat niet in CRAB- niet in GM;N;;BUILDING template;Verschansingstraat;50;;;151471,584;210933,268
+ANTWERPEN-WEST - FH11;977618;0;0;0;0;SDU;;Y;NA;4;4;;1 Unit in CRAB- 4 bussen in GM;N;;BUILDING template;Pacificatiestraat;1;;;151300,776;210712,622
+ANTWERPEN-WEST - FH11;2062540;0;0;0;0;SDU;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;N;;BUILDING template;Waalsekaai;27;B;;151456,913;211186,155
+ANTWERPEN-WEST - FH11;NB-200014a4c748;1;0;0;1;MDU;;Y;NA;7;3;;;;_;BUILDING template;Cockerillkaai;14;;;151521;211392
+ANTWERPEN-WEST - FH11;NB-200012f15d97;0;1;1;2;MDU;;Y;NA;6;3;;;;_;BUILDING template;Cockerillkaai;12;;;151526;211399
+ANTWERPEN-WEST - FH11;NB-2000244fd584;1;0;0;1;SDU;;Y;NA;4;3;;;;_;BUILDING template;Waalsekaai;24;;;151469;211198
+ANTWERPEN-WEST - FH11;1101513;16;3;2;21;MDU;XA;N;IRREG;7;0;;17 Units in CRAB- onduidelijk in GM;;;BUILDING template;Schalienstraat;1;;De Gerlachekaai 20_Schalienstraat 1-3-5_Verviersstraat 2-4;151197,554;210947,93
+ANTWERPEN-WEST - FH11;NB-200026509b75;0;3;1;4;MDU;;N;GLASS;6;;;;;_;BUILDING template;Cockerillkaai;26;;;151421;211221
+ANTWERPEN-WEST - FH11;NB-200027e37681;4;0;1;5;MDU;;N;GLASS;6;;;;;_;BUILDING template;Cockerillkaai;27;;;151420;211217
+ANTWERPEN-WEST - FH11;NB-20002421af14;0;1;0;1;SDU;;Y;NA;4;3;;;;_;BUILDING template;Scheldestraat;24;;;151625;211434
+ANTWERPEN-WEST - FH11;NB-2000113cd986;6;0;1;7;MDU;;N;GLASS;3;;;;;_;BUILDING template;Luikstraat;11;;;151412;211187
+ANTWERPEN-WEST - FH11;2063174;8;0;1;9;MDU;XC;N;IRREG;5;0;;8 Units in CRAB- onduidelijk in GM;;;BUILDING template;Wapenstraat;6;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151430,631;211229,668
+ANTWERPEN-WEST - FH11;NB-200032a1b95;4;0;0;4;MDU;;N;GLASS;3;;;;;_;BUILDING template;Luikstraat;3;;;151410;211202
+ANTWERPEN-WEST - FH11;3926659;7;0;0;7;MDU;XC;Y;NA;5;0;;7 Units in CRAB- 8 in GM;;;BUILDING template;De Gerlachekaai;13;;;151267,76;211056,181
+ANTWERPEN-WEST - FH11;NB-20001487f646;0;6;1;7;MDU;;Y;NA;4;6;;;;_;BUILDING template;Wapenstraat;14;;;151458;211213
+ANTWERPEN-WEST - FH11;NB-200034e81529;0;1;0;1;SDU;;N;IRREG;5;;;;;_;BUILDING template;Waalsekaai;34;;Ijzerenpoortkaai 10_Waalsekaai 34;151415;211125
+ANTWERPEN-WEST - FH11;NB-200020f9f733;6;0;1;7;MDU;;N;ORN;7;;;;;_;BUILDING template;Museumstraat;20;;Museumstraat 18-20;151645;211064
+ANTWERPEN-WEST - FH11;971238;0;2;2;4;MDU;;N;IRREG;2;4;Beschermd Erfgoed;1 Unit in CRAB- onduidelijk in GM;;;BUILDING template;Leuvenstraat;32;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;151482,809;211256,453
+ANTWERPEN-WEST - FH11;1800201;9;2;0;11;MDU;;N;IRREG;4;0;;4 Units in CRAB- BU in GM;;;BUILDING template;Cockerillkaai;27;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151410,297;211229,41
+ANTWERPEN-WEST - FH11;1800243;5;0;1;6;MDU;XA;N;IRREG;6;4;Beschermd Erfgoed;5 Units in CRAB en GM;;;BUILDING template;Cockerillkaai;34;;Cockerillkaai 32-33-34-35_Luikstraat 2;151369,015;211176,442
+ANTWERPEN-WEST - FH11;NB-200093330198;0;1;0;1;SDU;;Y;NA;4;3;;;;_;BUILDING template;Vlaamsekaai;93;;;151239; 210683
+ANTWERPEN-WEST - FH11;1800259;0;1;0;1;SDU;;N;IRREG;2;0;;;;;BUILDING template;Cockerillkaai;36;;;151369,8;211171,41
+ANTWERPEN-WEST - FH11;NB-200023418b03;6;1;1;8;MDU;;N;HEIGHT;7;;;;;_;BUILDING template;Cockerillkaai;23;;;151433;211263
+ANTWERPEN-WEST - FH11;NB-200035A7f27;0;2;5;7;MDU;;N;IRREG;7;;;;;_;BUILDING template;Waalsekaai;35;A;Cockerillkaai 39_Waalsekaai 35A;151404;211086
+ANTWERPEN-WEST - FH11;NB-200011Bb974;1;0;0;1;SDU;;Y;NA;3;4;;;;_;BUILDING template;Pacificatiestraat;11;B;;151331;210710
+ANTWERPEN-WEST - FH11;5575337;0;1;0;1;MDU;XA;N;IRREG;5;0;;;;;BUILDING template;Cockerillkaai;26;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151413,122;211232,931
+ANTWERPEN-WEST - FH11;NB-2000324ad895;5;0;1;6;MDU;;N;IRREG;5;;;;;_;BUILDING template;Cockerillkaai;32;;;151379;211191
+ANTWERPEN-WEST - FH11;762443;8;0;0;8;MDU;XC;N;IRREG;5;0;;;;;BUILDING template;De Gerlachekaai;11;;;151276,761;211065,407
+ANTWERPEN-WEST - FH11;762445;0;1;0;1;MDU;XC;Y;NA;1;0;;;;Niet binnen geraakt;BUILDING template;De Gerlachekaai;15;;De Gerlachekaai 15_Verviersstraat 3;151260,59;211048,268
+ANTWERPEN-WEST - FH11;1993988;6;0;0;6;MDU;XC;N;IRREG;5;0;;12 Units in CRAB- onduidelijk in GM;;;BUILDING template;Luikstraat;1;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151404,571;211208,905
+ANTWERPEN-WEST - FH11;968673;3;3;1;7;MDU;XC;N;IRREG;5;0;;5 Units in CRAB- onduidelijk in GM;;;BUILDING template;Wapenstraat;2;;;151421,673;211239,288
+ANTWERPEN-WEST - FH11;968677;4;0;0;4;MDU;;N;IRREG;2;0;;;;;BUILDING template;Luikstraat;3;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;151412,387;211204,34
+ANTWERPEN-WEST - FH11;968679;5;0;1;6;MDU;XC;N;IRREG;5;0;Beschermd Erfgoed;;;;BUILDING template;Luikstraat;2;;Cockerillkaai 32-33-34-35_Luikstraat 2;151382,907;211194,421
+ANTWERPEN-WEST - FH11;968684;6;0;0;6;MDU;XC;N;IRREG;5;0;;1 Unit in CRAB- 6 in GM;;;BUILDING template;De Gerlachekaai;1;;;151313,816;211102,587
+ANTWERPEN-WEST - FH11;968687;5;0;1;6;MDU;XC;N;IRREG;5;0;Beschermd Erfgoed;5 Units in CRAB en GM;;;BUILDING template;Cockerillkaai;32;;Cockerillkaai 32-33-34-35_Luikstraat 2;151377,487;211189,01
+ANTWERPEN-WEST - FH11;968688;4;0;0;4;MDU;XC;N;IRREG;5;0;;;;;BUILDING template;Cockerillkaai;37;;;151360,009;211164,911
+ANTWERPEN-WEST - FH11;NB-200039bfa562;0;1;0;1;SDU;;Y;NA;5;3;;;;_;BUILDING template;Waalsekaai;39;;;151394;211095
+ANTWERPEN-WEST - FH11;970911;3;0;0;3;MDU;;N;IRREG;4;4;;1 Unit in CRAB- 3 bussen in GM;;;BUILDING template;Cockerillkaai;23;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;151435,73;211257,068
+ANTWERPEN-WEST - FH11;970912;3;0;0;3;MDU;X;N;IRREG;5;0;;1 Unit in CRAB- afbraak;;Afbraak -  Démolition;BUILDING template;Cockerillkaai;22;;;151438,449;211274,241
+ANTWERPEN-WEST - FH11;970913;4;6;0;10;MDU;XA;N;IRREG;7;0;Beschermd Erfgoed;;;;BUILDING template;Cockerillkaai;18;;;151457,378;211290,098
+ANTWERPEN-WEST - FH11;NB-200045d1f63;6;1;1;8;MDU;;N;ORN;5;;;;;_;BUILDING template;Vorstermanstraat;4;;;151681; 211229
+ANTWERPEN-WEST - FH11;NB-200014A5e80;0;1;0;1;SDU;;Y;NA;4;3;;;;_;BUILDING template;De Burburestraat;14;A;;151602;211007
+ANTWERPEN-WEST - FH11;NB-200044c8352;0;1;0;1;MDU;;N;IRREG;7;;;;;_;BUILDING template;Verviersstraat;4;;;151277;210987
+ANTWERPEN-WEST - FH11;NB-200080dc374;1;2;0;3;MDU;;Y;NA;3;4;;;;_;BUILDING template;Verlatstraat;8;;;151638;211167
+ANTWERPEN-WEST - FH11;NB-2000545fb82;0;4;1;5;MDU;;N;ORN;6;;;;;_;BUILDING template;Schalienstraat;5;;;151264;210956
+ANTWERPEN-WEST - FH11;NB-200017914078;0;1;0;1;MDU;;Y;NA;5;4;;;;_;BUILDING template;Verviersstraat;17;;;151295;211008
+ANTWERPEN-WEST - FH11;NB-200054eba64;3;0;0;3;MDU;;Y;NA;4;3;;;;_;BUILDING template;Pourbusstraat;5;;;151522;210998
+ANTWERPEN-WEST - FH11;NB-20001335d461;7;0;0;7;MDU;;Y;NA;5;3;;;;_;BUILDING template;De Gerlachekaai;13;;;151270;211054
+ANTWERPEN-WEST - FH11;NB-20001185a877;7;1;0;8;MDU;;Y;NA;5;4;;;;_;BUILDING template;De Gerlachekaai;11;;;151278;211062
+ANTWERPEN-WEST - FH11;NB-200014af1e33;0;1;0;1;MDU;;N;IRREG;4;;;;;_;BUILDING template;Lakenstraat;14;;;151321;211033
+ANTWERPEN-WEST - FH11;NB-200016A1883;0;1;0;1;SDU;;N;IRREG;4;;;;;_;BUILDING template;Verschansingstraat;16;A;Verschansingstraat 16-16A;151685;211127
+ANTWERPEN-WEST - FH11;2062538;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB en GM;;;BUILDING template;Waalsekaai;26;;;151460,589;211189,697
+ANTWERPEN-WEST - FH11;NB-200050cd148;7;0;0;7;MDU;;N;HEIGHT;6;;;;;_;BUILDING template;Leuvenstraat;5;;;151480;211306

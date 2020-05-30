@@ -1,0 +1,18 @@
+Projectnummer;Blok;Opdrachtnummer;Building FID;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Building comment;Wall Mount;Quadrant;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Building exists;SSV Completed;SSV Date;Surveyor;Opdrachttemplate;Area Name;Fiberhood
+MECHELEN - FH01;BL0112;3029535;426996;;Arme-Clarenstraat;3;;;Y;D;MDU;0;2;0;2;;Y;2020-05-18 08:40:06;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0112;4736802;444836;;Arme-Clarenstraat;5;;;Y;D;MDU;0;2;0;2;;Y;2020-05-18 08:40:09;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0130;4749109;445800;Bruul 51_Leermarkt 10;Bruul;51;;;N;D;MDU;1;0;0;1;;;;;BUILDING template;W03-D-Mechelen-FH01;FH03
+MECHELEN - FH01;BL0130;903148;11452657;Bruul 51_Leermarkt 10;Leermarkt;10;;;Y;D;MDU;1;0;0;1;;;;;BUILDING template;W03-D-Mechelen-FH01;MECHELEN - FH01
+MECHELEN - FH01;BL0101;6447591;11452604;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat;27;A;;Y;D;MDU;1;3;0;4;;Y;2020-05-18;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0101;4740712;7092620;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat;27;;;Y;D;MDU;0;1;0;1;;;;;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0101;4740715;7092621;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat;29;;;Y;D;MDU;1;3;0;4;;Y;2020-05-18 09:40:05;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0101;3033234;429244;;Goswin de Stassartstraat;33;;;Y;D;SDU;1;0;0;1;;Y;2020-05-18 09:45:13;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0127;903468;450408;;Lange Schipstraat;80;;In aanbouw - En construction;Y;XC;MDU;0;4;0;4;;Y;2020-03-06;Marouane Zoubir;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0127;1283600;425374;;Lange Schipstraat;82;;Op gevel staat ook nr 86 maar de bussen geven enkel nr 82. Nr 86 is nog van vroeger.;Y;XC;MDU;0;7;0;7;;Y;2020-03-06;Marouane Zoubir;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0111;4733077;444584;;Nieuwe Beggaardenstraat;21;;;Y;;SDU;1;0;0;1;;Y;2020-05-18 09:10:12;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0111;4733080;444585;;Nieuwe Beggaardenstraat;23;;;Y;;SDU;1;0;0;1;;Y;2020-05-18 09:10:10;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0108;6527842;11452590;;Oude Beggaardenstraat;15;;;N;;SDU;1;0;0;1;;;;;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0108;929559;451886;;Wollemarkt;15;;Wollemarkt 15 : aardsbisdom paleis , gevelbekabeling mogelijk.  Sdu   is een bu;N;;SDU;1;0;0;1;;Y;2020-05-18 09:35:10;Jo De Clippel;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0104;5543967;7092628;;Varkensstraat;15;;;N;XC;MDU;0;4;1;5;;Y;2020-05-15 11:20:15;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;FH01
+MECHELEN - FH01;BL0104;5749434;11452635;Varkensstraat 17-19;Varkensstraat;17;;BE -;N;XC;MDU;0;3;1;4;;Y;2020-05-15 11:22:32;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;MECHELEN - FH01
+MECHELEN - FH01;BL0104;5706656;11452536;Varkensstraat 17-19;Varkensstraat;19;;BE - geen BU, geen syndicus. Nummer 19 2LU 17 1LU = zelfde gebouw;N;XC;MDU;0;3;1;4;;Y;2020-05-15 11:22:36;Dieu Jocelin;BUILDING template;W03-D-Mechelen-FH01;

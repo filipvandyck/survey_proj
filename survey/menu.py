@@ -166,7 +166,7 @@ def documents_menu():
 
 
 def units_menu():
-    create_file = mod_menu.select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
+    create_file = select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
     if create_file:
         units.processfile(create_file)
     
@@ -182,8 +182,8 @@ def validate_menu():
 
 def validate_file_street():
 
-    geojsonfile = mod_menu.select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
-    validatefile = mod_menu.select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
+    geojsonfile = select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
+    validatefile = select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
     
     if validatefile:
         val.processfile(validatefile, geojsonfile, process_for='S')
@@ -192,8 +192,8 @@ def validate_file_street():
 
 def validate_file_site():
 
-    geojsonfile = mod_menu.select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
-    validatefile = mod_menu.select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
+    geojsonfile = select_file_from_folder_menu(mymap.GMLFOLDER,'gml','LOAD POLYGLON', mymap.GMLFOLDER)
+    validatefile = select_file_from_folder_menu(val.VALIDATEFOLDER,'csv', 'VALIDATE FILE', val.VALIDATEFOLDER)
     
     if validatefile:
         val.processfile(validatefile, geojsonfile, process_for='SS')

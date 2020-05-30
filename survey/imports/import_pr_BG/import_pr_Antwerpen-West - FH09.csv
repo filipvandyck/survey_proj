@@ -1,0 +1,569 @@
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+ANTWERPEN-WEST - FH09;1885040;BL0009;;1885040;;Arenbergstraat 1_Lange Gasthuisstraat 19-21;Lange Gasthuisstraat;19;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59563;BL0009;;59563;;Arenbergstraat 1_Lange Gasthuisstraat 19-21;Arenbergstraat;1;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59565;BL0009;;59565;;Arenbergstraat 1_Lange Gasthuisstraat 19-21;Lange Gasthuisstraat;21;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55498;BL0014;;55498;;Arenbergstraat 12-14;Arenbergstraat;12;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6524093;BL0014;;6524093;;Arenbergstraat 12-14;Arenbergstraat;14;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6518745;BL0011;;6518745;;Arenbergstraat 13_Leopoldstraat 11;Leopoldstraat;11;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736231;BL0011;;1736231;;Arenbergstraat 13_Leopoldstraat 11;Arenbergstraat;13;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6339370;BL0014;;6339370;;Arenbergstraat 16-16A;Arenbergstraat;16;A;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55499;BL0014;;55499;;Arenbergstraat 16-16A;Arenbergstraat;16;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59591;BL0013;;59591;;Arenbergstraat 18_Leopoldstraat 15;Leopoldstraat;15;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59579;BL0013;;59579;;Arenbergstraat 18_Leopoldstraat 15;Arenbergstraat;18;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55144;BL0011;;55144;;Arenbergstraat 19_Sint Maartenstraat 1;Arenbergstraat;19;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55174;BL0011;;55174;;Arenbergstraat 19_Sint Maartenstraat 1;Sint-Maartenstraat;1;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;12629;BL0013;;12629;;Arenbergstraat 40_Oudevaartplaats 2-4-6;Arenbergstraat;40;;;;;Yves de Roo;MDU;3;67;1;71;BUILDING template
+ANTWERPEN-WEST - FH09;197241;BL0013;;197241;;Arenbergstraat 40_Oudevaartplaats 2-4-6;Oudevaartplaats;6;;;;;Yves de Roo;MDU;3;67;1;71;BUILDING template
+ANTWERPEN-WEST - FH09;2036448;BL0013;;2036448;;Arenbergstraat 40_Oudevaartplaats 2-4-6;Oudevaartplaats;4;;;;;Yves de Roo;MDU;3;67;1;71;BUILDING template
+ANTWERPEN-WEST - FH09;59575;BL0013;;59575;;Arenbergstraat 40_Oudevaartplaats 2-4-6;Oudevaartplaats;2;;;;;Yves de Roo;MDU;3;67;1;71;BUILDING template
+ANTWERPEN-WEST - FH09;4506658;BL0009;;4506658;;Arenbergstraat 5-7;Arenbergstraat;5;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736227;BL0009;;1736227;;Arenbergstraat 5-7;Arenbergstraat;7;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55147;BL0008;;55147;;Arme Duvelstraat 6_Kelderstraat 11;Kelderstraat;11;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;55119;BL0008;;55119;;Arme Duvelstraat 6_Kelderstraat 11;Armeduivelstraat;6;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1736396;BL0007;;1736396;;Armeduvelstraat 3-7-9;Armeduivelstraat;3;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1736397;BL0007;;1736397;;Armeduvelstraat 3-7-9;Armeduivelstraat;7;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1736398;BL0007;;1736398;;Armeduvelstraat 3-7-9;Armeduivelstraat;9;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;137979;BL0017;;137979;;Blauwtorenplein 10_Bourlastraat 18;Bourlastraat;19;;;;;Yves de Roo;MDU;1;18;0;19;BUILDING template
+ANTWERPEN-WEST - FH09;11962;BL0017;;11962;;Blauwtorenplein 10_Bourlastraat 18;Blauwtorenplein;10;;;;;Yves de Roo;MDU;1;12;0;13;BUILDING template
+ANTWERPEN-WEST - FH09;1773177;BL0017;;1773177;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Bourlastraat;3;;;;;Yves de Roo;MDU;16;32;0;48;BUILDING template
+ANTWERPEN-WEST - FH09;55490;BL0017;;55490;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Leopoldplaats;6;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988457;BL0017;;1988457;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Leopoldplaats;7;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6339383;BL0017;;6339383;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Leopoldplaats;6;A;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056072;BL0017;;2056072;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Tabakvest;89;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;NB-20009301393;;;NB-20009301393;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Tabakvest;93;;;;;Filip Van Dyck;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1008473;BL0017;;1008473;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Tabakvest;91;;;;;Yves de Roo;MDU;16;32;0;48;BUILDING template
+ANTWERPEN-WEST - FH09;5393989;BL0017;;5393989;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Bourlastraat;1;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1773210;BL0017;;1773210;;Bourlastraat 1-3-5_Tabakvest 89-91-93_leopoldplaats 6-6A-7;Bourlastraat;5;;;;;Yves de Roo;MDU;16;32;0;48;BUILDING template
+ANTWERPEN-WEST - FH09;5575216;BL0017;;5575216;;Bourlastraat 9-11;Bourlastraat;11;;;;;Yves de Roo;MDU;1;10;0;11;BUILDING template
+ANTWERPEN-WEST - FH09;137977;BL0017;;137977;;Bourlastraat 9-11;Bourlastraat;9;;;;;Yves de Roo;MDU;1;10;0;11;BUILDING template
+ANTWERPEN-WEST - FH09;50913;BL0001;;50913;;Frankrijklei 116-118;Frankrijklei;118;;;;;Yves de Roo;MDU;1;18;0;19;BUILDING template
+ANTWERPEN-WEST - FH09;5575543;BL0001;;5575543;;Frankrijklei 116-118;Frankrijklei;116;;;;;Yves de Roo;MDU;1;18;0;19;BUILDING template
+ANTWERPEN-WEST - FH09;1874083;BL0001;;1874083;;Frankrijklei 122_Tabakvest 43;Frankrijklei;122;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2056057;BL0001;;2056057;;Frankrijklei 122_Tabakvest 43;Tabakvest;43;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;5575545;BL0020;;5575545;;Frankrijklei 160-162;Frankrijklei;160;;;;;Yves de Roo;MDU;1;29;0;30;BUILDING template
+ANTWERPEN-WEST - FH09;50911;BL0017;;50911;;Frankrijklei 160-162;Frankrijklei;162;;;;;Yves de Roo;MDU;1;29;0;30;BUILDING template
+ANTWERPEN-WEST - FH09;137688;BL0002;;137688;;Frankrijklei 74-76;Frankrijklei;76;;;;;Yves de Roo;MDU;2;14;0;16;BUILDING template
+ANTWERPEN-WEST - FH09;5575539;BL0002;;5575539;;Frankrijklei 74-76;Frankrijklei;74;;;;;Yves de Roo;MDU;2;14;0;16;BUILDING template
+ANTWERPEN-WEST - FH09;1873898;BL0002;;1873898;;Frankrijklei 86A-86B-86C;Frankrijklei;86;B;;;;Yves de Roo;MDU;3;36;0;39;BUILDING template
+ANTWERPEN-WEST - FH09;5575540;BL0002;;5575540;;Frankrijklei 86A-86B-86C;Frankrijklei;86;C;;;;Yves de Roo;MDU;3;36;0;39;BUILDING template
+ANTWERPEN-WEST - FH09;137685;BL0002;;137685;;Frankrijklei 86A-86B-86C;Frankrijklei;86;A;;;;Yves de Roo;MDU;3;36;0;39;BUILDING template
+ANTWERPEN-WEST - FH09;5575541;BL0002;;5575541;;Frankrijklei 92-94;Frankrijklei;92;;;;;Yves de Roo;MDU;1;36;0;37;BUILDING template
+ANTWERPEN-WEST - FH09;137683;BL0002;;137683;;Frankrijklei 92-94;Frankrijklei;94;;;;;Yves de Roo;MDU;1;36;0;37;BUILDING template
+ANTWERPEN-WEST - FH09;1873944;BL0002;;1873944;;Frankrijklei 96A-96B;Frankrijklei;96;A;;;;Yves de Roo;MDU;2;36;0;38;BUILDING template
+ANTWERPEN-WEST - FH09;1873950;BL0002;;1873950;;Frankrijklei 96A-96B;Frankrijklei;96;B;;;;Yves de Roo;MDU;2;36;0;38;BUILDING template
+ANTWERPEN-WEST - FH09;4507596;BL0001;;4507596;;Frankrijklei 98_Tabakvest 25;Tabakvest;25;;;;;Yves de Roo;MDU;3;24;0;27;BUILDING template
+ANTWERPEN-WEST - FH09;50917;BL0001;;50917;;Frankrijklei 98_Tabakvest 25;Frankrijklei;98;;;;;Yves de Roo;MDU;3;24;0;27;BUILDING template
+ANTWERPEN-WEST - FH09;55159;BL0007;;55159;;Graanmarkt 15_Maria Pijpelincxstraat 8;Graanmarkt;15;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;5544236;BL0007;;5544236;;Graanmarkt 15_Maria Pijpelincxstraat 8;Maria Pijpelincxstraat;8;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;55172;BL0012;;55172;;Graanmarkt 2_ Arenbergstraat 21;Graanmarkt;2;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;197322;BL0012;;197322;;Graanmarkt 2_ Arenbergstraat 21;Arenbergstraat;21;;;;;Yves de Roo;MDU;7;0;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;55165;BL0007;;55165;;Graanmarkt 9-11;Graanmarkt;9;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4510709;BL0007;;4510709;;Graanmarkt 9-11;Graanmarkt;11;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4510433;BL0018;;4510433;;Henri Van Heurckstraat 10-14-18;Henri Van Heurckstraat;14;;;;;Yves de Roo;MDU;0;15;0;15;BUILDING template
+ANTWERPEN-WEST - FH09;4510436;BL0018;;4510436;;Henri Van Heurckstraat 10-14-18;Henri Van Heurckstraat;18;;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4510429;BL0018;;4510429;;Henri Van Heurckstraat 10-14-18;Henri Van Heurckstraat;10;;;;;Yves de Roo;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;137980;BL0018;;137980;;Henri Van Heurckstraat 2_Leopoldstraat 51;Henri Van Heurckstraat;2;;;;;Yves de Roo;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1988739;BL0018;;1988739;;Henri Van Heurckstraat 2_Leopoldstraat 51;Leopoldstraat;51;;;;;Yves de Roo;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1944480;BL0005;;1944480;;Hopland 16-18-24;Hopland;18;;;;;Yves de Roo;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;NB-20002401392;;;NB-20002401392;;Hopland 16-18-24;Hopland;24;;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;61860;BL0005;;61860;;Hopland 16-18-24;Hopland;16;;;;;Yves de Roo;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;4510463;BL0006;;4510463;;Hopland 2-4-6-6B-8-10-12-14;Hopland;10;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;182863;BL0006;;182863;;Hopland 2-4-6-6B-8-10-12-14;Hopland;2;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1944470;BL0006;;1944470;;Hopland 2-4-6-6B-8-10-12-14;Hopland;4;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1944472;BL0006;;1944472;;Hopland 2-4-6-6B-8-10-12-14;Hopland;6;B;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1944474;BL0006;;1944474;;Hopland 2-4-6-6B-8-10-12-14;Hopland;8;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1944477;BL0006;;1944477;;Hopland 2-4-6-6B-8-10-12-14;Hopland;12;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1944478;BL0006;;1944478;;Hopland 2-4-6-6B-8-10-12-14;Hopland;14;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1944471;BL0006;;1944471;;Hopland 2-4-6-6B-8-10-12-14;Hopland;6;;;;;Yves de Roo;MDU;8;0;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;5774151;BL0003;;5774151;;Hopland 32_Langegang 3;Langegang;3;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;138345;BL0003;;138345;;Hopland 32_Langegang 3;Hopland;32;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1945666;BL0009;;1945666;;Huidevettersstraat 57-59_Lange Gasthuisstraat 3;Huidevettersstraat;57;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;198086;BL0009;;198086;;Huidevettersstraat 57-59_Lange Gasthuisstraat 3;Lange Gasthuisstraat;3;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59562;BL0009;;59562;;Huidevettersstraat 57-59_Lange Gasthuisstraat 3;Huidevettersstraat;59;;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1960785;BL0008;;1960785;;Kelderstraat 2-3;Kelderstraat;2;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1960787;BL0008;;1960787;;Kelderstraat 2-3;Kelderstraat;3;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1960790;BL0008;;1960790;;Kelderstraat 7_Schuttershofstraat 20-22;Kelderstraat;7;;;;;Yves de Roo;MDU;3;14;0;17;BUILDING template
+ANTWERPEN-WEST - FH09;2052262;BL0008;;2052262;;Kelderstraat 7_Schuttershofstraat 20-22;Schuttershofstraat;20;;;;;Yves de Roo;MDU;3;14;0;17;BUILDING template
+ANTWERPEN-WEST - FH09;2052264;BL0008;;2052264;;Kelderstraat 7_Schuttershofstraat 20-22;Schuttershofstraat;22;;;;;Yves de Roo;MDU;3;14;0;17;BUILDING template
+ANTWERPEN-WEST - FH09;1803228;BL0008;;1803228;;Komedieplaats 13-15;Komedieplaats;15;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;60802;BL0008;;60802;;Komedieplaats 13-15;Komedieplaats;13;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1803223;BL0009;;1803223;;Komedieplaats 14-16;Komedieplaats;14;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4506647;BL0009;;4506647;;Komedieplaats 14-16;Komedieplaats;16;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1803183;BL0009;;1803183;;Komedieplaats 4-6;Komedieplaats;6;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;5575370;BL0009;;5575370;;Komedieplaats 4-6;Komedieplaats;4;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;138241;BL0004;;138241;;Lammekensraamveld 2-4-6_Meistraat 21-23-25;Lammekensraamveld;2;;;;;Yves de Roo;MDU;0;11;0;11;BUILDING template
+ANTWERPEN-WEST - FH09;138242;BL0004;;138242;;Lammekensraamveld 2-4-6_Meistraat 21-23-25;Lammekensraamveld;4;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;138243;BL0004;;138243;;Lammekensraamveld 2-4-6_Meistraat 21-23-25;Lammekensraamveld;6;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;61858;BL0004;;61858;;Lammekensraamveld 2-4-6_Meistraat 21-23-25;Meistraat;25;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;2001563;BL0004;;2001563;;Lammekensraamveld 2-4-6_Meistraat 21-23-25;Meistraat;23;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;138244;BL0004;;138244;;Lammekensraamveld 2-4-6_Meistraat 21-23-25;Meistraat;21;;;;;Yves de Roo;MDU;0;20;0;20;BUILDING template
+ANTWERPEN-WEST - FH09;1885147;BL0014;;1885147;;Lange Gasthuisstraat 35-37;Lange Gasthuisstraat;35;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504673;BL0014;;4504673;;Lange Gasthuisstraat 35-37;Lange Gasthuisstraat;37;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;138342;BL0004;;138342;;Langegang 12-14;Langegang;12;;;;;Yves de Roo;MDU;0;27;0;27;BUILDING template
+ANTWERPEN-WEST - FH09;138343;BL0004;;138343;;Langegang 12-14;Langegang;14;;;;;Yves de Roo;MDU;0;27;0;27;BUILDING template
+ANTWERPEN-WEST - FH09;59592;BL0013;;59592;;Leopoldstraat 21_Willem Tellstraat 1;Leopoldstraat;21;;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;59606;BL0013;;59606;;Leopoldstraat 21_Willem Tellstraat 1;Willem Tellstraat;1;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;1988697;BL0013;;1988697;;Leopoldstraat 23-25;Leopoldstraat;25;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59593;BL0013;;59593;;Leopoldstraat 23-25;Leopoldstraat;23;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59571;BL0009;;59571;;Leopoldstraat 2-4;Leopoldstraat;2;;;;;Yves de Roo;MDU;2;2;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;6524099;BL0009;;6524099;;Leopoldstraat 2-4;Leopoldstraat;4;;;;;Yves de Roo;MDU;2;2;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;4504261;BL0014;;4504261;;Leopoldstraat 26-28-34;Leopoldstraat;28;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504266;BL0014;;4504266;;Leopoldstraat 26-28-34;Leopoldstraat;34;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988701;BL0014;;1988701;;Leopoldstraat 26-28-34;Leopoldstraat;26;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988705;BL0013;;1988705;;Leopoldstraat 27-27A;Leopoldstraat;27;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;5373816;BL0013;;5373816;;Leopoldstraat 27-27A;Leopoldstraat;27;A;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1988660;BL0011;;1988660;;Leopoldstraat 3_Orgelstraat 1-2-2A;Leopoldstraat;3;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;55149;BL0011;;55149;;Leopoldstraat 3_Orgelstraat 1-2-2A;Orgelstraat;1;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;2034543;BL0011;;2034543;;Leopoldstraat 3_Orgelstraat 1-2-2A;Orgelstraat;2;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;6663034;BL0011;;6663034;;Leopoldstraat 3_Orgelstraat 1-2-2A;Orgelstraat;2;A;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;1988729;BL0013;;1988729;;Leopoldstraat 39-41;Leopoldstraat;41;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;59599;BL0013;;59599;;Leopoldstraat 39-41;Leopoldstraat;39;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;1988736;BL0013;;1988736;;Leopoldstraat 43-45;Leopoldstraat;45;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1988733;BL0013;;1988733;;Leopoldstraat 43-45;Leopoldstraat;43;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;5906758;BL0018;;5906758;;Leopoldstraat 77_Tabakvest 120-122;Tabakvest;120;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;137971;BL0018;;137971;;Leopoldstraat 77_Tabakvest 120-122;Tabakvest;122;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;1988777;BL0018;;1988777;;Leopoldstraat 77_Tabakvest 120-122;Leopoldstraat;77;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;1139906;BL0015;;1139906;;Mechelseplein 19A_Sint Jorispoort 2-4;Sint-Jorispoort;2;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;NB-200019A1116;;;NB-200019A1116;;Mechelseplein 19A_Sint Jorispoort 2-4;Mechelseplein;19;A;;;2020-04-21;Yves de Roo;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;1959506;BL0015;;1959506;;Mechelseplein 19A_Sint Jorispoort 2-4;Sint-Jorispoort;4;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;4504666;BL0014;;4504666;;Mechelseplein 3-5;Mechelseplein;5;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1999491;BL0014;;1999491;;Mechelseplein 3-5;Mechelseplein;3;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;5575964;BL0014;;5575964;;Mechelseplein 9-11;Mechelseplein;9;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55517;BL0014;;55517;;Mechelseplein 9-11;Mechelseplein;11;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;182853;BL0004;;182853;;Meistraat 35-39;Meistraat;35;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2001572;BL0004;;2001572;;Meistraat 35-39;Meistraat;39;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4259171;BL0005;;4259171;;Meistraat 5-7;Meistraat;7;;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;61857;BL0005;;61857;;Meistraat 5-7;Meistraat;5;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59585;BL0019;;59585;;Nieuwstad 2-4;Nieuwstad;2;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;2027536;BL0019;;2027536;;Nieuwstad 2-4;Nieuwstad;4;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;2036496;BL0013;;2036496;;Oudevaartplaats 34-30;Oudevaartplaats;34;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;2036491;BL0013;;2036491;;Oudevaartplaats 34-30;Oudevaartplaats;30;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59573;BL0019;;59573;;Oudevaartplaats 35-37;Oudevaartplaats;35;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;4504301;BL0019;;4504301;;Oudevaartplaats 35-37;Oudevaartplaats;37;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2036505;BL0013;;2036505;;Oudevaartplaats 38-40-42;Oudevaartplaats;40;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;2036511;BL0013;;2036511;;Oudevaartplaats 38-40-42;Oudevaartplaats;42;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;2036502;BL0013;;2036502;;Oudevaartplaats 38-40-42;Oudevaartplaats;38;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;59577;BL0019;;59577;;Oudevaartplaats 43-45;Oudevaartplaats;43;;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;59576;BL0019;;59576;;Oudevaartplaats 43-45;Oudevaartplaats;45;;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;2036538;BL0018;;2036538;;Oudevaartplaats 50_Henri Van Heurckstraat 30;Oudevaartplaats;50;;;;;Yves de Roo;MDU;1;13;0;14;BUILDING template
+ANTWERPEN-WEST - FH09;5575693;BL0018;;5575693;;Oudevaartplaats 50_Henri Van Heurckstraat 30;Henri Van Heurckstraat;30;;;;;Yves de Roo;MDU;1;13;0;14;BUILDING template
+ANTWERPEN-WEST - FH09;2036567;BL0018;;2036567;;Oudevaartplaats 64-66-68;Oudevaartplaats;66;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;2036569;BL0018;;2036569;;Oudevaartplaats 64-66-68;Oudevaartplaats;68;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;4510444;BL0018;;4510444;;Oudevaartplaats 64-66-68;Oudevaartplaats;64;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;2050654;BL0015;;2050654;;Schermersstraat 17-19;Schermersstraat;19;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;4506554;BL0015;;4506554;;Schermersstraat 17-19;Schermersstraat;17;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2050658;BL0015;;2050658;;Schermersstraat 25-27;Schermersstraat;25;;;;;Yves de Roo;MDU;1;17;0;18;BUILDING template
+ANTWERPEN-WEST - FH09;2050660;BL0015;;2050660;;Schermersstraat 25-27;Schermersstraat;27;;;;;Yves de Roo;MDU;1;17;0;18;BUILDING template
+ANTWERPEN-WEST - FH09;55491;BL0014;;55491;;Sint Jorispoort 1-3;Sint-Jorispoort;1;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959505;BL0014;;1959505;;Sint Jorispoort 1-3;Sint-Jorispoort;3;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959526;BL0014;;1959526;;Sint Jorispoort 29-31;Sint-Jorispoort;29;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;4056675;BL0014;;4056675;;Sint Jorispoort 29-31;Sint-Jorispoort;31;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;4215132;BL0014;;4215132;;Sint Jorispoort 7-9;Sint-Jorispoort;7;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504679;BL0014;;4504679;;Sint Jorispoort 7-9;Sint-Jorispoort;9;;;;;Yves de Roo;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4510405;BL0018;;4510405;;Tabakvest 108-110;Tabakvest;108;;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056080;BL0018;;2056080;;Tabakvest 108-110;Tabakvest;110;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;4058591;BL0018;;4058591;;Tabakvest 112-112B-112C-112D-112E;Tabakvest;112;B;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6453451;BL0018;;6453451;;Tabakvest 112-112B-112C-112D-112E;Tabakvest;112;C;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;2056081;BL0018;;2056081;;Tabakvest 112-112B-112C-112D-112E;Tabakvest;112;;;;;Yves de Roo;MDU;0;40;0;40;BUILDING template
+ANTWERPEN-WEST - FH09;NB-2000112E01394;;;NB-2000112E01394;;Tabakvest 112-112B-112C-112D-112E;Tabakvest;112;E;;;;Filip Van Dyck;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4100450;BL0018;;4100450;;Tabakvest 112-112B-112C-112D-112E;Tabakvest;112;D;;;;Yves de Roo;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056043;BL0002;;2056043;;Tabakvest 15-17-19;Tabakvest;19;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;2056041;BL0002;;2056041;;Tabakvest 15-17-19;Tabakvest;15;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;4027899;BL0002;;4027899;;Tabakvest 15-17-19;Tabakvest;17;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;6086731;BL0003;;6086731;;Langegang 27_Tabakvest 30-32;Langegang;27;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;187741;BL0003;;187741;;Langegang 27_Tabakvest 30-32;Tabakvest;32;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;138338;BL0003;;138338;;Langegang 27_Tabakvest 30-32;Tabakvest;30;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;2056073;BL0019;;2056073;;Tabakvest 92-94-96;Tabakvest;94;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;3928479;BL0019;;3928479;;Tabakvest 92-94-96;Tabakvest;92;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;NB-20009601396;;;NB-20009601396;;Tabakvest 92-94-96;Tabakvest;96;;;;;Filip Van Dyck;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1874116;BL0001;;1874116;;;Frankrijklei;126;;;;;Yves de Roo;MDU;1;10;0;11;BUILDING template
+ANTWERPEN-WEST - FH09;1736233;BL0011;;1736233;;;Arenbergstraat;17;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55120;BL0007;;55120;;;Armeduivelstraat;11;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55121;BL0007;;55121;;;Armeduivelstraat;1;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736234;BL0012;;1736234;;;Arenbergstraat;23;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55142;BL0007;;55142;;;Schuttershofstraat;50;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1773251;BL0017;;1773251;;;Bourlastraat;17;;;;;Yves de Roo;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;55151;BL0007;;55151;;;Maria Pijpelincxstraat;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1803179;BL0008;;1803179;;;Komedieplaats;5;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55153;BL0007;;55153;;;Maria Pijpelincxstraat;4;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55157;BL0007;;55157;;;Graanmarkt;1;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1803187;BL0008;;1803187;;;Komedieplaats;7;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1803210;BL0009;;1803210;;;Komedieplaats;10;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55161;BL0007;;55161;;;Graanmarkt;7;;;;;Yves de Roo;MDU;4;0;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1803212;BL0009;;1803212;;;Komedieplaats;12;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55163;BL0007;;55163;;;Graanmarkt;5;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55173;BL0011;;55173;;;Sint-Maartenstraat;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1874010;BL0001;;1874010;;;Frankrijklei;106;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55487;BL0014;;55487;;;Leopoldstraat;24;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1874020;BL0001;;1874020;;;Frankrijklei;108;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55488;BL0014;;55488;;;Leopoldstraat;16;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55489;BL0014;;55489;;;Leopoldplaats;1;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1874110;BL0001;;1874110;;;Frankrijklei;124;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1884975;BL0009;;1884975;;;Lange Gasthuisstraat;5;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55140;BL0007;;55140;;;Schuttershofstraat;32;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1884981;BL0009;;1884981;;;Lange Gasthuisstraat;7;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55492;BL0014;;55492;;;Sint-Jorispoort;39;;;;;Yves de Roo;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1884986;BL0009;;1884986;;;Lange Gasthuisstraat;9;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55493;BL0014;;55493;;;Lange Gasthuisstraat;23;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55494;BL0014;;55494;;;Lange Gasthuisstraat;39;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1885032;BL0009;;1885032;;;Lange Gasthuisstraat;15;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55516;BL0014;;55516;;;Mechelseplein;19;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1884994;BL0009;;1884994;;;Lange Gasthuisstraat;13;;;;;Yves de Roo;MDU;1;13;0;14;BUILDING template
+ANTWERPEN-WEST - FH09;1885133;BL0014;;1885133;;;Lange Gasthuisstraat;33;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5569323;BL0002;;5569323;;;Tabakvest;5;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;188991;BL0002;;188991;;;Tabakvest;1;;;;;Yves de Roo;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;55518;BL0014;;55518;;;Mechelseplein;13;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1911794;BL0007;;1911794;;;Graanmarkt;3;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1911814;BL0007;;1911814;;;Graanmarkt;13;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;5575542;BL0001;;5575542;;;Frankrijklei;112;;;;;Yves de Roo;MDU;9;0;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;1937954;BL0013;;1937954;;;Henri Van Heurckstraat;5;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1937962;BL0018;;1937962;;;Henri Van Heurckstraat;22;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5575544;BL0020;;5575544;;;Frankrijklei;156;;;;;Yves de Roo;MDU;1;9;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;1937963;BL0018;;1937963;;;Henri Van Heurckstraat;26;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;5576303;BL0020;;5576303;;;Tabakvest;65;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;59561;BL0009;;59561;;;Huidevettersstraat;55;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1937953;BL0013;;1937953;;;Henri Van Heurckstraat;3;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1944486;BL0003;;1944486;;;Hopland;34;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59564;BL0009;;59564;;;Arenbergstraat;9;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1944491;BL0003;;1944491;;;Hopland;44;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;59566;BL0010;;59566;;;Komedieplaats;18;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1944494;BL0003;;1944494;;;Hopland;50;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59567;BL0009;;59567;;;Komedieplaats;2;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;59569;BL0008;;59569;;;Komedieplaats;1;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59570;BL0009;;59570;;;Leopoldstraat;14;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;12659;BL0006;;12659;;;Meistraat;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959507;BL0014;;1959507;;;Sint-Jorispoort;5;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137682;BL0002;;137682;;;Frankrijklei;96;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959508;BL0015;;1959508;;;Sint-Jorispoort;8;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59572;BL0019;;59572;;;Oudevaartplaats;59;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959509;BL0014;;1959509;;;Sint-Jorispoort;11;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959510;BL0015;;1959510;;;Sint-Jorispoort;12;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1944489;BL0003;;1944489;;;Hopland;38;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59578;BL0019;;59578;;;Oudevaartplaats;47;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;137975;BL0017;;137975;;;Bourlastraat;1;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959512;BL0015;;1959512;;;Sint-Jorispoort;14;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959513;BL0014;;1959513;;;Sint-Jorispoort;15;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59580;BL0013;;59580;;;Arenbergstraat;22;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;1468919;BL0001;;1468919;;;Tabakvest;47;;;;;Yves de Roo;MDU;1;10;0;11;BUILDING template
+ANTWERPEN-WEST - FH09;1959515;BL0015;;1959515;;;Sint-Jorispoort;16;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59581;BL0013;;59581;;;Arenbergstraat;24;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959516;BL0015;;1959516;;;Sint-Jorispoort;18;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959511;BL0014;;1959511;;;Sint-Jorispoort;13;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736235;BL0013;;1736235;;;Arenbergstraat;28;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959517;BL0014;;1959517;;;Sint-Jorispoort;19;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59583;BL0013;;59583;;;Arenbergstraat;20;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1803193;BL0009;;1803193;;;Komedieplaats;8;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1959518;BL0015;;1959518;;;Sint-Jorispoort;20;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;59584;BL0019;;59584;;;Nieuwstad;20;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1959519;BL0015;;1959519;;;Sint-Jorispoort;22;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;59582;BL0013;;59582;;;Arenbergstraat;30;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59587;BL0019;;59587;;;Tabakvest;74;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1959521;BL0015;;1959521;;;Sint-Jorispoort;24;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59588;BL0019;;59588;;;Tabakvest;78;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959522;BL0014;;1959522;;;Sint-Jorispoort;25;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1874000;BL0001;;1874000;;;Frankrijklei;104;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959523;BL0015;;1959523;;;Sint-Jorispoort;26;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959524;BL0014;;1959524;;;Sint-Jorispoort;27;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1937955;BL0018;;1937955;;;Henri Van Heurckstraat;8;;;;;Yves de Roo;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;1959525;BL0015;;1959525;;;Sint-Jorispoort;28;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1959520;BL0014;;1959520;;;Sint-Jorispoort;23;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1937959;BL0018;;1937959;;;Henri Van Heurckstraat;16;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59594;BL0013;;59594;;;Leopoldstraat;31;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;59595;BL0013;;59595;;;Leopoldstraat;33;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;1959527;BL0015;;1959527;;;Sint-Jorispoort;30;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59596;BL0013;;59596;;;Leopoldstraat;35;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;1959528;BL0014;;1959528;;;Sint-Jorispoort;33;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1944490;BL0003;;1944490;;;Hopland;40;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59597;BL0013;;59597;;;Leopoldstraat;37;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1959529;BL0014;;1959529;;;Sint-Jorispoort;35;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1945644;BL0009;;1945644;;;Huidevettersstraat;53;A;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59600;BL0014;;59600;;;Leopoldstraat;22;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59604;BL0013;;59604;;;Henri Van Heurckstraat;7;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1960791;BL0008;;1960791;;;Kelderstraat;8;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1959530;BL0014;;1959530;;;Sint-Jorispoort;37;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;59607;BL0013;;59607;;;Willem Tellstraat;3;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1960788;BL0008;;1960788;;;Kelderstraat;4;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;60793;BL0008;;60793;;;Schuttershofstraat;30;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1960792;BL0008;;1960792;;;Kelderstraat;9;;;;;Yves de Roo;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;60803;BL0008;;60803;;;Komedieplaats;17;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1988714;BL0013;;1988714;;;Leopoldstraat;31;A;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1960793;BL0008;;1960793;;;Kelderstraat;10;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;60806;BL0008;;60806;;;Kelderstraat;1;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988771;BL0018;;1988771;;;Leopoldstraat;73;;;;;Yves de Roo;MDU;2;10;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;1982834;BL0003;;1982834;;;Langegang;17;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;874369;BL0008;;874369;;;Komedieplaats;3;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;NB-200015596677;;;NB-200015596677;;;Leopoldstraat;15;;;;2020-04-20;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1988443;BL0014;;1988443;;;Leopoldplaats;3;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036464;BL0013;;2036464;;;Oudevaartplaats;16;;;;;Yves de Roo;MDU;1;12;0;13;BUILDING template
+ANTWERPEN-WEST - FH09;1988446;BL0014;;1988446;;;Leopoldplaats;4;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988452;BL0014;;1988452;;;Leopoldplaats;5;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988665;BL0011;;1988665;;;Leopoldstraat;5;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988667;BL0011;;1988667;;;Leopoldstraat;7;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988671;BL0009;;1988671;;;Leopoldstraat;8;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2036543;BL0019;;2036543;;;Oudevaartplaats;51;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1988674;BL0011;;1988674;;;Leopoldstraat;9;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;2046490;BL0006;;2046490;;;Maria Pijpelincxstraat;1;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988676;BL0009;;1988676;;;Leopoldstraat;10;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1988678;BL0009;;1988678;;;Leopoldstraat;12;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2052266;BL0008;;2052266;;;Schuttershofstraat;24;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988686;BL0013;;1988686;;;Leopoldstraat;17;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988688;BL0014;;1988688;;;Leopoldstraat;18;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2056045;BL0001;;2056045;;;Tabakvest;23;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988690;BL0013;;1988690;;;Leopoldstraat;19;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2056050;BL0003;;2056050;;;Tabakvest;30;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988692;BL0014;;1988692;;;Leopoldstraat;20;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2056051;BL0001;;2056051;;;Tabakvest;31;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056056;BL0001;;2056056;;;Tabakvest;41;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;2056062;BL0020;;2056062;;;Tabakvest;59;A;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1988707;BL0013;;1988707;;;Leopoldstraat;29;;;;;Yves de Roo;MDU;2;2;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;NB-20006c06715;;;NB-20006c06715;;;Blauwtorenplein;6;;;;2020-04-20;Yves de Roo;MDU;1;14;0;15;BUILDING template
+ANTWERPEN-WEST - FH09;2056075;BL0019;;2056075;;;Tabakvest;98;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1988737;BL0013;;1988737;;;Leopoldstraat;47;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2056079;BL0018;;2056079;;;Tabakvest;106;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2056082;BL0018;;2056082;;;Tabakvest;114;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988741;BL0018;;1988741;;;Leopoldstraat;53;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;3927678;BL0018;;3927678;;;Henri Van Heurckstraat;6;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988743;BL0018;;1988743;;;Leopoldstraat;55;;;;;Yves de Roo;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;3928407;BL0007;;3928407;;;Schuttershofstraat;34;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988747;BL0018;;1988747;;;Leopoldstraat;57;;;;;Yves de Roo;MDU;0;10;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;1988748;BL0018;;1988748;;;Leopoldstraat;59;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;4092421;BL0015;;4092421;;;Schermersstraat;39;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988752;BL0018;;1988752;;;Leopoldstraat;61;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;1988753;BL0018;;1988753;;;Leopoldstraat;63;;;;;Yves de Roo;MDU;2;22;0;24;BUILDING template
+ANTWERPEN-WEST - FH09;1988754;BL0018;;1988754;;;Leopoldstraat;65;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;1988760;BL0018;;1988760;;;Leopoldstraat;67;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1988763;BL0018;;1988763;;;Leopoldstraat;69;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504277;BL0013;;4504277;;;Arenbergstraat;32;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988766;BL0018;;1988766;;;Leopoldstraat;71;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;4504279;BL0013;;4504279;;;Arenbergstraat;34;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1988773;BL0018;;1988773;;;Leopoldstraat;75;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;4504281;BL0013;;4504281;;;Arenbergstraat;38;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504286;BL0013;;4504286;;;Oudevaartplaats;32;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1999494;BL0014;;1999494;;;Mechelseplein;7;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1999505;BL0014;;1999505;;;Mechelseplein;15;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504306;BL0019;;4504306;;;Oudevaartplaats;57;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1999508;BL0014;;1999508;;;Mechelseplein;17;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504355;BL0008;;4504355;;;Komedieplaats;11;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504674;BL0014;;4504674;;;Lange Gasthuisstraat;31;;;;;Yves de Roo;MDU;15;0;0;15;BUILDING template
+ANTWERPEN-WEST - FH09;2027542;BL0019;;2027542;;;Nieuwstad;6;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4504675;BL0014;;4504675;;;Arenbergstraat;8;;;;;Yves de Roo;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2027545;BL0019;;2027545;;;Nieuwstad;8;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;4506553;BL0015;;4506553;;;Mechelseplein;27;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2027548;BL0019;;2027548;;;Nieuwstad;10;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4506556;BL0015;;4506556;;;Schermersstraat;35;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2027556;BL0019;;2027556;;;Nieuwstad;14;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4506557;BL0015;;4506557;;;Schermersstraat;37;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2027561;BL0019;;2027561;;;Nieuwstad;16;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4506561;BL0015;;4506561;;;Sint-Jorispoort;6;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2027566;BL0019;;2027566;;;Nieuwstad;18;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;4506651;BL0009;;4506651;;;Lange Gasthuisstraat;11;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2034549;BL0011;;2034549;;;Orgelstraat;3;;;;;Yves de Roo;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4506654;BL0009;;4506654;;;Lange Gasthuisstraat;17;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2034554;BL0011;;2034554;;;Orgelstraat;4;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2034557;BL0011;;2034557;;;Orgelstraat;5;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2034560;BL0011;;2034560;;;Orgelstraat;6;;;;;Yves de Roo;MDU;2;3;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4507598;BL0001;;4507598;;;Tabakvest;35;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2036456;BL0013;;2036456;;;Oudevaartplaats;8;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4510428;BL0018;;4510428;;;Henri Van Heurckstraat;4;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036457;BL0013;;2036457;;;Oudevaartplaats;10;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;4510431;BL0018;;4510431;;;Henri Van Heurckstraat;12;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036462;BL0013;;2036462;;;Oudevaartplaats;12;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036463;BL0013;;2036463;;;Oudevaartplaats;14;;;;;Yves de Roo;MDU;1;12;0;13;BUILDING template
+ANTWERPEN-WEST - FH09;2036474;BL0013;;2036474;;;Oudevaartplaats;18;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4510440;BL0018;;4510440;;;Oudevaartplaats;52;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036477;BL0013;;2036477;;;Oudevaartplaats;20;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;4510441;BL0018;;4510441;;;Oudevaartplaats;54;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036484;BL0013;;2036484;;;Oudevaartplaats;22;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;4510446;BL0018;;4510446;;;Oudevaartplaats;72;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036485;BL0013;;2036485;;;Oudevaartplaats;24;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2036487;BL0013;;2036487;;;Oudevaartplaats;26;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4511477;BL0002;;4511477;;;Tabakvest;13;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036488;BL0013;;2036488;;;Oudevaartplaats;28;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;50887;BL0001;;50887;;;Tabakvest;47;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50888;BL0001;;50888;;;Tabakvest;21;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036500;BL0013;;2036500;;;Oudevaartplaats;36;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;50890;BL0001;;50890;;;Tabakvest;49;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50891;BL0020;;50891;;;Tabakvest;67;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036521;BL0013;;2036521;;;Oudevaartplaats;44;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;50893;BL0020;;50893;;;Tabakvest;63;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;2036532;BL0019;;2036532;;;Oudevaartplaats;49;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;50903;BL0020;;50903;;;Frankrijklei;158;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036550;BL0019;;2036550;;;Oudevaartplaats;53;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50910;BL0020;;50910;;;Frankrijklei;128;A;;;;Yves de Roo;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;2036552;BL0019;;2036552;;;Oudevaartplaats;55;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036554;BL0018;;2036554;;;Oudevaartplaats;56;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036557;BL0018;;2036557;;;Oudevaartplaats;58;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;5451365;BL0018;;5451365;;;Leopoldstraat;51;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036561;BL0018;;2036561;;;Oudevaartplaats;60;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2036564;BL0018;;2036564;;;Oudevaartplaats;62;;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;55155;BL0007;;55155;;;Maria Pijpelincxstraat;6;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55169;BL0011;;55169;;;Leopoldstraat;1;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55171;BL0012;;55171;;;Graanmarkt;6;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2036570;BL0018;;2036570;;;Oudevaartplaats;70;;;;;Yves de Roo;MDU;2;8;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;2036572;BL0018;;2036572;;;Oudevaartplaats;74;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2050655;BL0015;;2050655;;;Schermersstraat;21;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;55496;BL0014;;55496;;;Lange Gasthuisstraat;45;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2050657;BL0015;;2050657;;;Schermersstraat;23;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;55497;BL0014;;55497;;;Arenbergstraat;2;;;;;Yves de Roo;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;2050662;BL0015;;2050662;;;Schermersstraat;29;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5575217;BL0017;;5575217;;;Bourlastraat;15;;;;;Yves de Roo;MDU;0;26;0;26;BUILDING template
+ANTWERPEN-WEST - FH09;2050665;BL0015;;2050665;;;Schermersstraat;33;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2052248;BL0008;;2052248;;;Schuttershofstraat;4;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5575914;BL0013;;5575914;;;Leopoldstraat;43;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052250;BL0008;;2052250;;;Schuttershofstraat;6;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052251;BL0008;;2052251;;;Schuttershofstraat;8;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052256;BL0008;;2052256;;;Schuttershofstraat;14;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;2052258;BL0008;;2052258;;;Schuttershofstraat;16;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;59574;BL0013;;59574;;;Oudevaartplaats;46;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052260;BL0008;;2052260;;;Schuttershofstraat;18;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59586;BL0019;;59586;;;Tabakvest;102;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052268;BL0008;;2052268;;;Schuttershofstraat;26;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59598;BL0013;;59598;;;Leopoldstraat;49;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052270;BL0008;;2052270;;;Schuttershofstraat;28;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;59602;BL0013;;59602;;;Henri Van Heurckstraat;1;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052275;BL0007;;2052275;;;Schuttershofstraat;36;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052278;BL0007;;2052278;;;Schuttershofstraat;40;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;6001713;BL0003;;6001713;;;Tabakvest;30;E;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052279;BL0007;;2052279;;;Schuttershofstraat;42;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;60790;BL0008;;60790;;;Schuttershofstraat;2;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2052280;BL0007;;2052280;;;Schuttershofstraat;44;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;60792;BL0008;;60792;;;Schuttershofstraat;12;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;NB-200033ab8833;;;NB-200033ab8833;;;Tabakvest;33;;;;2020-04-09;Yves de Roo;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;2052282;BL0007;;2052282;;;Schuttershofstraat;46;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6086665;BL0014;;6086665;;;Lange Gasthuisstraat;51;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2052284;BL0007;;2052284;;;Schuttershofstraat;48;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056034;BL0003;;2056034;;;Tabakvest;6;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056037;BL0003;;2056037;;;Tabakvest;10;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;61859;BL0005;;61859;;;Hopland;30;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056038;BL0002;;2056038;;;Tabakvest;11;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;6326783;BL0014;;6326783;;;Arenbergstraat;2;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056039;BL0003;;2056039;;;Tabakvest;12;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056040;BL0003;;2056040;;;Tabakvest;14;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6400223;BL0014;;6400223;;;Lange Gasthuisstraat;25;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056042;BL0003;;2056042;;;Tabakvest;18;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6449296;BL0018;;6449296;;;Oudevaartplaats;62;A;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;NB-200033A3613;;;NB-200033A3613;;;Tabakvest;33;A;;;2020-04-09;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056044;BL0003;;2056044;;;Tabakvest;20;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056046;BL0003;;2056046;;;Tabakvest;24;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6453941;BL0009;;6453941;;;Lange Gasthuisstraat;15;B;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;NB-200052f10f73;;;NB-200052f10f73;;;Tabakvest;52;;;;2020-04-09;Yves de Roo;MDU;1;39;0;40;BUILDING template
+ANTWERPEN-WEST - FH09;2056047;BL0003;;2056047;;;Tabakvest;26;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6453942;BL0009;;6453942;;;Lange Gasthuisstraat;15;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056055;BL0001;;2056055;;;Tabakvest;39;;;;;Yves de Roo;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;6457593;BL0020;;6457593;;;Tabakvest;71;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056058;BL0001;;2056058;;;Tabakvest;45;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;6458252;BL0001;;6458252;;;Frankrijklei;120;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056060;BL0020;;2056060;;;Tabakvest;51;;;;;Yves de Roo;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;6481788;BL0005;;6481788;;;Meistraat;5;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056061;BL0020;;2056061;;;Tabakvest;53;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056063;BL0020;;2056063;;;Tabakvest;59;B;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;6518756;BL0001;;6518756;;;Frankrijklei;122;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1008474;BL0002;;1008474;;;Tabakvest;9;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056065;BL0019;;2056065;;;Tabakvest;76;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1008475;BL0002;;1008475;;;Tabakvest;3;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;2056067;BL0017;;2056067;;;Tabakvest;79;;;;;Yves de Roo;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1008481;BL0005;;1008481;;;Meistraat;1;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;2056069;BL0017;;2056069;;;Tabakvest;81;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;6581082;BL0007;;6581082;;;Schuttershofstraat;48;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;110420;BL0003;;110420;;;Hopland;52;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;2056070;BL0017;;2056070;;;Tabakvest;83;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;6614100;BL0014;;6614100;;;Sint-Jorispoort;37;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1139905;BL0015;;1139905;;;Sint-Jorispoort;32;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2056071;BL0017;;2056071;;;Tabakvest;87;;;;;Yves de Roo;MDU;6;4;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;6614101;BL0014;;6614101;;;Sint-Jorispoort;39;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6625954;BL0019;;6625954;;;Nieuwstad;20;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1139908;BL0015;;1139908;;;Mechelseplein;25;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;2056076;BL0019;;2056076;;;Tabakvest;100;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;6625955;BL0011;;6625955;;;Orgelstraat;3;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1139909;BL0015;;1139909;;;Mechelseplein;23;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6626036;BL0019;;6626036;;;Nieuwstad;4;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1139911;BL0015;;1139911;;;Mechelseplein;29;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;6626037;BL0019;;6626037;;;Nieuwstad;2;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1139921;BL0015;;1139921;;;Schermersstraat;15;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;6627640;BL0014;;6627640;;;Lange Gasthuisstraat;41;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1139937;BL0015;;1139937;;;Mechelseplein;21;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;6663033;BL0004;;6663033;;;Meistraat;39;A;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;11946;BL0001;;11946;;;Stoopstraat;1;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;4036544;BL0008;;4036544;;;Armeduivelstraat;4;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;11956;BL0002;;11956;;;Frankrijklei;86;;;;;Yves de Roo;MDU;1;9;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;4054965;BL0017;;4054965;;;Tabakvest;85;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;12603;BL0011;;12603;;;Orgelstraat;7;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4065098;BL0009;;4065098;;;Leopoldstraat;6;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;12627;BL0009;;12627;;;Huidevettersstraat;53;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4066768;BL0003;;4066768;;;Langegang;23;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4164856;BL0003;;4164856;;;Tabakvest;8;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1298909;BL0007;;1298909;;;Schuttershofstraat;38;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;4205074;BL0018;;4205074;;;Henri Van Heurckstraat;24;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;1313434;BL0001;;1313434;;;Tabakvest;27;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1317360;BL0003;;1317360;;;Hopland;46;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;43814;BL0014;;43814;;;Leopoldplaats;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1334889;BL0015;;1334889;;;Sint-Jorispoort;10;;;;;Yves de Roo;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;4504280;BL0013;;4504280;;;Arenbergstraat;36;;;;;Yves de Roo;MDU;42;0;0;42;BUILDING template
+ANTWERPEN-WEST - FH09;1351640;BL0003;;1351640;;;Tabakvest;28;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504282;BL0013;;4504282;;;Arenbergstraat;26;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137679;BL0002;;137679;;;Frankrijklei;90;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504671;BL0014;;4504671;;;Lange Gasthuisstraat;43;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;137680;BL0002;;137680;;;Frankrijklei;82;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;137681;BL0002;;137681;;;Frankrijklei;80;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;4504681;BL0014;;4504681;;;Sint-Jorispoort;17;;;;;Yves de Roo;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;137684;BL0002;;137684;;;Frankrijklei;88;;;;;Yves de Roo;MDU;1;10;0;11;BUILDING template
+ANTWERPEN-WEST - FH09;4504682;BL0014;;4504682;;;Sint-Jorispoort;21;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137686;BL0002;;137686;;;Frankrijklei;84;;;;;Yves de Roo;MDU;1;18;0;19;BUILDING template
+ANTWERPEN-WEST - FH09;4506555;BL0015;;4506555;;;Schermersstraat;31;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137687;BL0002;;137687;;;Frankrijklei;78;;;;;Yves de Roo;MDU;0;14;0;14;BUILDING template
+ANTWERPEN-WEST - FH09;4510407;BL0018;;4510407;;;Tabakvest;116;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137689;BL0002;;137689;;;Frankrijklei;72;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137973;BL0017;;137973;;;Tabakvest;73;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137974;BL0018;;137974;;;Tabakvest;104;;;;;Yves de Roo;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;137976;BL0017;;137976;;;Bourlastraat;7;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;4510715;BL0007;;4510715;;;Armeduivelstraat;5;;;;;Yves de Roo;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;4511411;BL0003;;4511411;;;Tabakvest;16;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137978;BL0017;;137978;;;Bourlastraat;13;;;;;Yves de Roo;MDU;1;26;0;27;BUILDING template
+ANTWERPEN-WEST - FH09;50889;BL0020;;50889;;;Tabakvest;71;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;50892;BL0020;;50892;;;Tabakvest;69;;;;;Yves de Roo;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH09;137986;BL0018;;137986;;;Oudevaartplaats;76;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50895;BL0001;;50895;;;Frankrijklei;110;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;137988;BL0017;;137988;;;Blauwtorenplein;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50896;BL0001;;50896;;;Frankrijklei;120;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;137989;BL0016;;137989;;;Frankrijklei;164;;;;;Yves de Roo;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;50897;BL0020;;50897;;;Frankrijklei;152;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;50898;BL0020;;50898;;;Frankrijklei;144;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;50899;BL0020;;50899;;;Frankrijklei;140;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50900;BL0020;;50900;;;Frankrijklei;138;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;50901;BL0020;;50901;;;Frankrijklei;134;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;138337;BL0003;;138337;;;Tabakvest;2;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50902;BL0020;;50902;;;Frankrijklei;130;;;;;Yves de Roo;MDU;2;8;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;50904;BL0020;;50904;;;Frankrijklei;154;;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;138339;BL0003;;138339;;;Tabakvest;22;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50905;BL0020;;50905;;;Frankrijklei;150;;;;;Yves de Roo;MDU;1;7;0;8;BUILDING template
+ANTWERPEN-WEST - FH09;138340;BL0004;;138340;;;Tabakvest;42;;;;;Yves de Roo;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH09;50906;BL0020;;50906;;;Frankrijklei;146;;;;;Yves de Roo;MDU;1;16;0;17;BUILDING template
+ANTWERPEN-WEST - FH09;138341;BL0002;;138341;;;Van Cuyckstraat;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50907;BL0020;;50907;;;Frankrijklei;142;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;50908;BL0020;;50908;;;Frankrijklei;136;;;;;Yves de Roo;MDU;1;18;0;19;BUILDING template
+ANTWERPEN-WEST - FH09;50909;BL0020;;50909;;;Frankrijklei;132;;;;;Yves de Roo;MDU;2;13;0;15;BUILDING template
+ANTWERPEN-WEST - FH09;50912;BL0020;;50912;;;Frankrijklei;148;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;138351;BL0004;;138351;;;Tabakvest;56;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50915;BL0001;;50915;;;Frankrijklei;104;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;1479167;BL0003;;1479167;;;Tabakvest;4;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;50916;BL0001;;50916;;;Frankrijklei;102;;;;;Yves de Roo;MDU;1;8;0;9;BUILDING template
+ANTWERPEN-WEST - FH09;1489809;BL0003;;1489809;;;Hopland;48;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;1506990;BL0019;;1506990;;;Nieuwstad;12;;;;;Yves de Roo;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH09;50918;BL0001;;50918;;;Frankrijklei;100;;;;;Yves de Roo;MDU;1;9;0;10;BUILDING template
+ANTWERPEN-WEST - FH09;1508534;BL0020;;1508534;;;Tabakvest;55;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;5308666;BL0020;;5308666;;;Tabakvest;61;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1508535;BL0020;;1508535;;;Tabakvest;59;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5312008;BL0020;;5312008;;;Stoopstraat;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736221;BL0009;;1736221;;;Arenbergstraat;1;A;;;;Yves de Roo;MDU;0;7;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;5322665;BL0012;;5322665;;;Graanmarkt;4;;;;;Yves de Roo;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH09;1736222;BL0009;;1736222;;;Arenbergstraat;1;B;;;;Yves de Roo;MDU;0;16;0;16;BUILDING template
+ANTWERPEN-WEST - FH09;5364225;BL0013;;5364225;;;Leopoldstraat;39;A;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736224;BL0009;;1736224;;;Arenbergstraat;3;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736225;BL0014;;1736225;;;Arenbergstraat;4;;;;;Yves de Roo;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH09;1736226;BL0014;;1736226;;;Arenbergstraat;6;;;;;Yves de Roo;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5403554;BL0020;;5403554;;;Frankrijklei;128;B;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736228;BL0014;;1736228;;;Arenbergstraat;10;;;;;Yves de Roo;MDU;0;7;0;7;BUILDING template
+ANTWERPEN-WEST - FH09;5414438;BL0007;;5414438;;;Schuttershofstraat;34;A;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;5414440;BL0007;;5414440;;;Schuttershofstraat;34;B;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH09;1736232;BL0011;;1736232;;;Arenbergstraat;15;;;;;Yves de Roo;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH09;55118;BL0008;;55118;;;Armeduivelstraat;2;;;;;Yves de Roo;SDU;1;0;0;1;BUILDING template

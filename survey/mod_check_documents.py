@@ -27,7 +27,7 @@ def replace_bad_chars(s):
 
 
 
-def check_document_name(theFile, prefix):
+def check_document_name(theFile, prefix_to_check,FOLDER_TO_WRITE,FOLDER_TO_CHECK):
 
 
     checkfile = os.path.basename(theFile)
@@ -147,7 +147,7 @@ def check_dir():
 
 
         for theFile in lstFiles:
-            check_document_name(theFile,prefix_to_check)
+            check_document_name(theFile,prefix_to_check,FOLDER_TO_WRITE,FOLDER_TO_CHECK)
 
 ######## BODY
 #check_dir()

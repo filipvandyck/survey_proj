@@ -1,0 +1,38 @@
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+HASSELT - FH06;78243;BL0001;;78243;;Albrecht Rodenbachstraat 20_Zeven-Septemberlaan 13-15-17;Albrecht Rodenbachstraat;20;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;2448672;BL0001;;2448672;;Albrecht Rodenbachstraat 20_Zeven-Septemberlaan 13-15-17;Zeven-Septemberlaan;13;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;2448674;BL0001;;2448674;;Albrecht Rodenbachstraat 20_Zeven-Septemberlaan 13-15-17;Zeven-Septemberlaan;15;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;5962519;;;5962519;;Albrecht Rodenbachstraat 20_Zeven-Septemberlaan 13-15-17;Zeven-Septemberlaan;17;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;662321;BL0009;;662321;;Casterstraat 70-72_Sint-Katarinalaan 3;Casterstraat;70;;;;;Dieu Jocelin;MDU;0;43;0;43;BUILDING template
+HASSELT - FH06;662323;BL0009;;662323;;Casterstraat 70-72_Sint-Katarinalaan 3;Casterstraat;72;;;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH06;662332;BL0009;;662332;;Casterstraat 70-72_Sint-Katarinalaan 3;Sint-Katarinalaan;3;;;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH06;5884925;BL0001;;5884925;;Casterstraat 77_Kunstlaan 1;Casterstraat;77;;;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH06;4029706;BL0001;;4029706;;Casterstraat 77_Kunstlaan 1;Kunstlaan;1;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;1164596;BL0003;;1164596;;Helbeekplein 1-2;Helbeekplein;1;;;;;Dieu Jocelin;MDU;0;32;0;32;BUILDING template
+HASSELT - FH06;1326237;BL0003;;1326237;;Helbeekplein 1-2;Helbeekplein;2;;;;;Dieu Jocelin;MDU;0;27;0;27;BUILDING template
+HASSELT - FH06;78255;BL0003;;78255;;Helbeekplein 3-4-5-6;Helbeekplein;3;;;;;Dieu Jocelin;MDU;0;13;0;13;BUILDING template
+HASSELT - FH06;78256;BL0003;;78256;;Helbeekplein 3-4-5-6;Helbeekplein;4;;;;;Dieu Jocelin;MDU;0;14;0;14;BUILDING template
+HASSELT - FH06;78257;BL0003;;78257;;Helbeekplein 3-4-5-6;Helbeekplein;5;;;;;Dieu Jocelin;MDU;0;14;0;14;BUILDING template
+HASSELT - FH06;78258;BL0003;;78258;;Helbeekplein 3-4-5-6;Helbeekplein;6;;;;;Dieu Jocelin;MDU;0;14;0;14;BUILDING template
+HASSELT - FH06;78333;BL0003;;78333;;Helbeekplein 7-8-9;Helbeekplein;7;;;;;Dieu Jocelin;MDU;0;27;0;27;BUILDING template
+HASSELT - FH06;78334;BL0003;;78334;;Helbeekplein 7-8-9;Helbeekplein;8;;;;;Dieu Jocelin;MDU;0;28;0;28;BUILDING template
+HASSELT - FH06;3937371;BL0003;;3937371;;Helbeekplein 7-8-9;Helbeekplein;9;;;;;Dieu Jocelin;MDU;0;26;0;26;BUILDING template
+HASSELT - FH06;662334;BL0009;;662334;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinalaan;7;;;;;Dieu Jocelin;MDU;1;17;1;19;BUILDING template
+HASSELT - FH06;662330;BL0009;;662330;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinalaan;9;;;;;Dieu Jocelin;MDU;0;32;2;34;BUILDING template
+HASSELT - FH06;2419791;;;2419791;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinalaan;11;;;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH06;662249;BL0009;;662249;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinaplein;19;;;;;Dieu Jocelin;MDU;1;16;1;18;BUILDING template
+HASSELT - FH06;662252;BL0009;;662252;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinaplein;20;;;;;Dieu Jocelin;MDU;0;33;0;33;BUILDING template
+HASSELT - FH06;2419825;BL0009;;2419825;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinaplein;21;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;2419827;;;2419827;;Sint-Katarinalaan 7-9-11_Sint-Katarinaplein 19-20-21-22;Sint-Katarinaplein;22;;;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH06;2419814;BL0010;;2419814;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;9;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;2419815;BL0010;;2419815;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;10;;;;;Dieu Jocelin;MDU;0;30;0;30;BUILDING template
+HASSELT - FH06;4866140;BL0010;;4866140;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;11;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;5422672;BL0010;;5422672;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;11;A;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;2419818;BL0010;;2419818;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;12;;;;;Dieu Jocelin;MDU;0;34;0;34;BUILDING template
+HASSELT - FH06;4845707;BL0010;;4845707;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;13;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;3937405;BL0010;;3937405;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;14;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;2419823;BL0010;;2419823;;Sint-Katarinaplein 9-10-11-11A-12-13-14-15;Sint-Katarinaplein;15;;;;;Dieu Jocelin;MDU;2;64;2;68;BUILDING template
+HASSELT - FH06;2440210;BL0001;;2440210;;Stadsomvaart 11-13-83-85;Stadsomvaart;11;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;5381031;BL0001;;5381031;;Stadsomvaart 11-13-83-85;Stadsomvaart;13;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH06;1443689;BL0001;;1443689;;Stadsomvaart 11-13-83-85;Stadsomvaart;83;;;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH06;1443690;BL0001;;1443690;;Stadsomvaart 11-13-83-85;Stadsomvaart;85;;;;;Dieu Jocelin;MDU;0;1;0;1;BUILDING template

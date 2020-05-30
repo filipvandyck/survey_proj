@@ -1,117 +1,15 @@
-Projectnummer;Opdrachtnummer;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
-EVERE - FH01;1620301;1620301;13843527;Auguste Renoirstraat 3-3A;Auguste Renoirstraat - Rue Auguste Renoir;3;A;20191219093646;A;2019-10-14;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1620300;1620300;13843527;Auguste Renoirstraat 3-3A;Auguste Renoirstraat - Rue Auguste Renoir;3;;20191219093646;A;2019-10-14;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;1620303;1620303;21595990;Auguste Renoirstraat 5-5A;Auguste Renoirstraat - Rue Auguste Renoir;5;A;20191219095357;A;2019-10-14;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1620302;1620302;21595990;Auguste Renoirstraat 5-5A;Auguste Renoirstraat - Rue Auguste Renoir;5;;20191219095357;A;2019-10-14;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;5978245;5978245;20640256;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;A;20191022124043;C;2019-08-20 14:25:39;Jonathan Collignon;MDU;0;3;2;5;BUILDING template
-EVERE - FH01;5978246;5978246;20640256;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;C;20191022124043;C;2019-08-20 14:25:39;Jonathan Collignon;MDU;0;3;2;5;BUILDING template
-EVERE - FH01;5984524;5984524;20640256;Begeertenlaan 19A-19B-19C;Begeertenlaan - Avenue des Désirs;19;B;20191022124043;C;2019-08-20 14:25:39;Jonathan Collignon;MDU;0;11;2;13;BUILDING template
-EVERE - FH01;5866849;5866849;21912474;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;19;;20191213182917;XA;2020-02-14;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;4942981;4942981;21912474;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;21;;20191213182917;XA;2020-02-14;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;6034050;6034050;21912474;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;13;;20191213182917;XA;2020-02-14;Jonathan Collignon;MDU;1;0;1;2;BUILDING template
-EVERE - FH01;5926158;5926158;21912474;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;15;;20191213182917;XA;2020-02-14;Jonathan Collignon;MDU;1;0;1;2;BUILDING template
-EVERE - FH01;5894343;5894343;21912474;Cicerolaan 13-15-17-19-21;Cicerolaan - Avenue Cicéron;17;;20191213182917;XA;2020-02-14;Jonathan Collignon;MDU;1;102;4;107;BUILDING template
-EVERE - FH01;23413;23413;11444904;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;25;;20191214101539;A;2019-09-29;Jonathan Collignon;MDU;0;87;3;90;BUILDING template
-EVERE - FH01;1120059;1120059;11444904;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;27;;20191214101539;A;2019-09-29;Jonathan Collignon;MDU;0;101;3;104;BUILDING template
-EVERE - FH01;25437;25437;11444904;Cicerolaan 23-25-27;Avenue Cicéron - Cicerolaan;23;;20191214101539;A;2019-09-29;Jonathan Collignon;MDU;0;95;3;98;BUILDING template
-EVERE - FH01;1620517;1620517;21303971;Cicerolaan 31-33;Cicerolaan - Avenue Cicéron;33;;20191116094757;XA;2019-11-15;Marouane Zoubir;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;1620516;1620516;21303971;Cicerolaan 31-33;Cicerolaan - Avenue Cicéron;31;;20191116094757;XA;2019-11-15;Marouane Zoubir;MDU;1;10;2;13;BUILDING template
-EVERE - FH01;1623868;1623868;11449855;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;142;;20191116010452;XC;2019-09-03;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;1623865;1623865;11449855;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;136;;20191116010452;XC;2019-09-03;Jonathan Collignon;MDU;1;12;2;15;BUILDING template
-EVERE - FH01;5046515;5046515;11449855;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;138;;20191116010452;XC;2019-09-03;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;1620518;1620518;11449855;Cicerolaan 35_Kerkhof van Brussellaan 136-138-142;Cicerolaan - Avenue Cicéron;35;;20191116010452;XC;2019-09-03;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;6151457;6151457;21595978;Edgar Degas straat 4-4A;Edgar Degas straat - Rue Edgard Degas;4;A;20191219094422;A;2019-10-14;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1173605;1173605;21595978;Edgar Degas straat 4-4A;Edgar Degas straat - Rue Edgard Degas;4;;20191219094422;A;2019-10-14;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;6345411;6345411;21595991;Edgar Degas straat 6-6A;Edgar Degas straat - Rue Edgard Degas;6;A;20191219100225;A;2019-10-14;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1335105;1335105;21595991;Edgar Degas straat 6-6A;Edgar Degas straat - Rue Edgard Degas;6;;20191219100225;A;2019-10-14;Jonathan Collignon;MDU;1;32;3;36;BUILDING template
-EVERE - FH01;1120066;1120066;11447745;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;57;;20191121105637;XA;2019-11-06;Jonathan Collignon;MDU;0;7;1;8;BUILDING template
-EVERE - FH01;1621805;1621805;11447745;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;59;;20191121105637;XA;2019-11-06;Jonathan Collignon;MDU;1;13;1;15;BUILDING template
-EVERE - FH01;1621806;1621806;11447745;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;61;;20191121105637;XA;2019-11-06;Jonathan Collignon;MDU;1;13;1;15;BUILDING template
-EVERE - FH01;1621807;1621807;11447745;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;63;;20191121105637;XA;2019-11-06;Jonathan Collignon;MDU;2;12;1;15;BUILDING template
-EVERE - FH01;5583180;5583180;11447745;Franz Guillaumelaan 57-59-61-63-65;Franz Guillaumelaan - Avenue Franz Guillaume;65;;20191121105637;XA;2019-11-06;Jonathan Collignon;MDU;1;12;1;14;BUILDING template
-EVERE - FH01;5934987;5934987;10563135;Franz Guillaumelaan 76-78_Willy Van Der Meerenstr 2;Franz Guillaumelaan - Avenue Franz Guillaume;76;;20191126102003;A;2019-11-06;Jonathan Collignon;MDU;1;27;2;30;BUILDING template
-EVERE - FH01;5935681;5935681;10563135;Franz Guillaumelaan 76-78_Willy Van Der Meerenstr 2;Franz Guillaumelaan - Avenue Franz Guillaume;78;;20191126102003;A;2019-11-06;Jonathan Collignon;MDU;0;15;2;17;BUILDING template
-EVERE - FH01;5866853;5866853;10563135;Franz Guillaumelaan 76-78_Willy Van Der Meerenstr 2;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;2;;20191126102003;A;2019-11-06;Jonathan Collignon;MDU;0;23;2;25;BUILDING template
-EVERE - FH01;1622018;1622018;12087889;G. De Lombaerdestraat 45-49-51;G. De Lombaerdestraat - Rue Georges De Lombaerde;45;;20190523094134;XC;2019-11-13;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;5045909;5045909;12087889;G. De Lombaerdestraat 45-49-51;G. De Lombaerdestraat - Rue Georges De Lombaerde;51;;20190523094134;XC;2019-11-13;Jonathan Collignon;MDU;0;6;2;8;BUILDING template
-EVERE - FH01;5045908;5045908;12087889;G. De Lombaerdestraat 45-49-51;Rue Georges De Lombaerde - G. De Lombaerdestraat;49;;20190523094134;XC;2019-11-13;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;1120028;1120028;10449132;Henry Dunantlaan 52-54;Avenue Henry Dunant - Henry Dunantlaan;52;;20191213102440;A;2020-01-17;Jonathan Collignon;MDU;0;33;2;35;BUILDING template
-EVERE - FH01;5583275;5583275;10449132;Henry Dunantlaan 52-54;Henry Dunantlaan - Avenue Henry Dunant;54;;20191213102440;A;2020-01-17;Jonathan Collignon;MDU;0;33;2;35;BUILDING template
-EVERE - FH01;756583;756583;21756270;Henry Dunantlaan 11-13;Avenue Henry Dunant - Henry Dunantlaan;11;;20191214101540;XA;2019-10-28;Marouane Zoubir;MDU;1;28;1;30;BUILDING template
-EVERE - FH01;5583271;5583271;21756270;Henry Dunantlaan 11-13;Henry Dunantlaan - Avenue Henry Dunant;13;;20191214101540;XA;2019-10-28;Marouane Zoubir;MDU;0;36;2;38;BUILDING template
-EVERE - FH01;756584;756584;21755926;Henry Dunantlaan 15-17;Avenue Henry Dunant;15;;20191214101540;A;2020-02-21;Jonathan Collignon;MDU;2;16;2;20;BUILDING template
-EVERE - FH01;5583272;5583272;21755926;Henry Dunantlaan 15-17;Henry Dunantlaan - Avenue Henry Dunant;17;;20191214101540;A;2020-02-21;Jonathan Collignon;MDU;2;16;2;20;BUILDING template
-EVERE - FH01;756585;756585;21755927;Henry Dunantlaan 19-21;Henry Dunantlaan - Avenue Henry Dunant;19;;20191214101539;A;2020-02-24;Jonathan Collignon;MDU;2;16;2;20;BUILDING template
-EVERE - FH01;5583273;5583273;21755927;Henry Dunantlaan 19-21;Henry Dunantlaan - Avenue Henry Dunant;21;;20191214101539;A;2020-02-24;Jonathan Collignon;MDU;2;16;2;20;BUILDING template
-EVERE - FH01;5583274;5583274;21755889;Henry Dunantlaan 23-25;Avenue Henry Dunant - Henry Dunantlaan;25;;20191214101540;A;2020-02-21;Jonathan Collignon;MDU;1;15;2;18;BUILDING template
-EVERE - FH01;731599;731599;21755889;Henry Dunantlaan 23-25;Henry Dunantlaan - Avenue Henry Dunant;23;;20191214101540;A;2020-02-21;Jonathan Collignon;MDU;1;16;2;19;BUILDING template
-EVERE - FH01;722652;722652;11240567;Jules Bordetlaan 66-68;Avenue Jules Bordet - Jules Bordetlaan;66;;20191214101539;XA;2020-02-13;Jonathan Collignon;MDU;0;43;2;45;BUILDING template
-EVERE - FH01;5583246;5583246;11240567;Jules Bordetlaan 66-68;Avenue Jules Bordet - Jules Bordetlaan;68;;20191214101539;XA;2020-02-13;Jonathan Collignon;MDU;0;57;2;59;BUILDING template
-EVERE - FH01;5046523;5046523;21301467;Kerkhof van Brussellaan 128-130;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;128;;20191120072941;XA;2019-08-27;Maayken Vanfleteren;MDU;0;13;1;14;BUILDING template
-EVERE - FH01;5046524;5046524;21301467;Kerkhof van Brussellaan 128-130;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;130;;20191120072941;XA;2019-08-27;Maayken Vanfleteren;MDU;0;13;1;14;BUILDING template
-EVERE - FH01;1324256;1324256;11418758;Kerkhof van Brussellaan 139-141;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;139;;20191212074946;XC;2019-09-20;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;1623867;1623867;11418758;Kerkhof van Brussellaan 139-141;Kerkhof van Brussellaan - Avenue du Cimetière de Bruxelles;141;;20191212074946;XC;2019-09-20;Jonathan Collignon;MDU;0;8;2;10;BUILDING template
-EVERE - FH01;1137201;1137201;12310966;Kolonel Bourgstraat 152-152A;Rue Colonel Bourg - Kolonel Bourgstraat;152;A;20190508010955;XC;2019-11-04;Jonathan Collignon;MDU;0;15;2;17;BUILDING template
-EVERE - FH01;1137199;1137199;12310966;Kolonel Bourgstraat 152-152A;Rue Colonel Bourg - Kolonel Bourgstraat;152;;20190508010955;XC;2019-11-04;Jonathan Collignon;MDU;0;15;1;16;BUILDING template
-EVERE - FH01;1137195;1137195;12807080;Kolonel Bourgstraat 160-162;Kolonel Bourgstraat - Rue Colonel Bourg;160;;20190523115806;C;2019-08-09;Jonathan Collignon;MDU;0;9;2;11;BUILDING template
-EVERE - FH01;5583250;5583250;12807080;Kolonel Bourgstraat 160-162;Kolonel Bourgstraat - Rue Colonel Bourg;162;;20190523115806;C;2019-08-09;Jonathan Collignon;MDU;0;9;2;11;BUILDING template
-EVERE - FH01;1347029;1347029;12310986;Kolonel Bourgstraat 164-166-168;Kolonel Bourgstraat - Rue Colonel Bourg;164;;20190523074316;C;2019-07-31 10:50:13;Jonathan Collignon;MDU;0;10;1;11;BUILDING template
-EVERE - FH01;1623652;1623652;12310986;Kolonel Bourgstraat 164-166-168;Rue Colonel Bourg;166;;20190523074316;C;2019-07-31 10:50:13;Jonathan Collignon;MDU;0;10;1;11;BUILDING template
-EVERE - FH01;1297562;1297562;12310986;Kolonel Bourgstraat 164-166-168;Rue Colonel Bourg;168;;20190523074316;C;2019-07-31 10:50:13;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;25447;25447;12798357;Leon Grosjeanlaan 73-75;Avenue Léon Grosjean - Léon Grosjeanlaan;73;;20190709100523;XA;2019-09-27;Maayken Vanfleteren;MDU;0;14;1;15;BUILDING template
-EVERE - FH01;1621777;1621777;12798357;Leon Grosjeanlaan 73-75;Léon Grosjeanlaan - Avenue Léon Grosjean;75;;20190709100523;XA;2019-09-27;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
-EVERE - FH01;5483807;5483807;10563643;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Leuvensesteenweg - Chaussée de Louvain;913;B;20190315011314;C;2019-11-20;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;1620899;1620899;10563643;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Leuvensesteenweg - Chaussée de Louvain;913;A;20190315011314;C;2019-11-20;Jonathan Collignon;MDU;0;11;2;13;BUILDING template
-EVERE - FH01;1620898;1620898;10563643;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Chaussée de Louvain - Leuvensesteenweg;913;;20190315011314;C;2019-11-20;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;1358518;1358518;10563643;Leuvensesteenweg 913-913A-913B-Twee Huizenstraat 63;Twee Huizenstraat - Rue des Deux Maisons;63;;20190315011314;C;2019-11-20;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;726568;726568;10680649;Leuvensesteenweg 1026-1028-1048;Leuvensesteenweg - Chaussée de Louvain;1026;;20200119122242;;2020-01-08 12:25:34;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1620954;1620954;10680649;Leuvensesteenweg 1026-1028-1048;Leuvensesteenweg - Chaussée de Louvain;1028;;20200119122242;;2020-01-08 12:25:34;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;5583151;5583151;10680649;Leuvensesteenweg 1026-1028-1048;Leuvensesteenweg - Chaussée de Louvain;1048;;20200119122242;;2020-01-08 12:25:34;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;1120054;1120054;11473371;Leuvensesteenweg 833-835;Leuvensesteenweg - Chaussée de Louvain;833;;20190124081024;D;2019-06-27 10:35:29;Bjorn De Pauw;MDU;1;2;0;3;BUILDING template
-EVERE - FH01;1120055;1120055;11473371;Leuvensesteenweg 833-835;Leuvensesteenweg - Chaussée de Louvain;835;;20190124081024;D;2019-06-27 10:35:29;Bjorn De Pauw;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621086;1621086;14073871;Optimismelaan 1-3-5;"Avenue de l&apos;Optimisme - Optimismelaan";1;;20191021101232;C;2020-01-13 14:45:25;Jonathan Collignon;MDU;3;15;2;20;BUILDING template
-EVERE - FH01;1621090;1621090;14073871;Optimismelaan 1-3-5;Optimismelaan - Avenue de l'Optimisme;3;;20191021101232;C;2020-01-13 14:45:25;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;1621092;1621092;14073871;Optimismelaan 1-3-5;Optimismelaan - Avenue de l'Optimisme;5;;20191021101232;C;2020-01-13 14:45:25;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;1624314;1624314;;Pieter Dupontstraat 198-200;Pieter Dupontstraat - Rue Pierre Dupont;198;;;A;2020-02-20;Jonathan Collignon;MDU;1;8;2;11;BUILDING template
-EVERE - FH01;1624315;1624315;;Pieter Dupontstraat 198-200;Rue Pierre Dupont - Pieter Dupontstraat;200;;;A;2020-02-20;Jonathan Collignon;MDU;1;9;2;12;BUILDING template
-EVERE - FH01;1220676;1220676;21596062;Rue Fernand Leger 40-40A;Fernand Légerstraat - Rue Fernand Léger;40;;20191218142939;A;2019-10-10;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;1621878;1621878;21596062;Rue Fernand Leger 40-40A;Fernand Légerstraat - Rue Fernand Léger;40;A;20191218142939;A;2019-10-10;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;722648;722648;21596042;Rue Fernand Leger 42-42A;Fernand Légerstraat - Rue Fernand Léger;42;;20191218142039;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;1621880;1621880;21596042;Rue Fernand Leger 42-42A;Fernand Légerstraat - Rue Fernand Léger;42;A;20191218142039;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1321439;1321439;21596023;Rue Fernand Leger 44-44A;Fernand Légerstraat - Rue Fernand Léger;44;;20191218141008;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;1621881;1621881;21596023;Rue Fernand Leger 44-44A;Fernand Légerstraat - Rue Fernand Léger;44;A;20191218141008;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621882;1621882;21595992;Rue Fernand Leger 46-46A;Fernand Légerstraat - Rue Fernand Léger;46;;20191218130039;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;1621883;1621883;21595992;Rue Fernand Leger 46-46A;Fernand Légerstraat - Rue Fernand Léger;46;A;20191218130039;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1336013;1336013;21596000;Rue Fernand Leger 48-48A;Fernand Légerstraat - Rue Fernand Léger;48;;20191218125041;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;1621884;1621884;21596000;Rue Fernand Leger 48-48A;Fernand Légerstraat - Rue Fernand Léger;48;A;20191218125041;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1321438;1321438;13843536;Rue Fernand Leger 50-50A;Fernand Légerstraat - Rue Fernand Léger;50;;20191218124303;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
-EVERE - FH01;4120030;4120030;13843536;Rue Fernand Leger 50-50A;Fernand Légerstraat - Rue Fernand Léger;50;A;20191218124303;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1622159;1622159;10373234;Sint-Jozefstraat 15-21-27;Sint-Jozefstraat - Rue Saint-Joseph;27;;20181012010900;C;2019-12-03;Marouane Zoubir;MDU;0;10;0;10;BUILDING template
-EVERE - FH01;1622154;1622154;10373234;Sint-Jozefstraat 15-21-27;Sint-Jozefstraat - Rue Saint-Joseph;21;;20181012010900;C;2019-12-03;Marouane Zoubir;MDU;0;10;0;10;BUILDING template
-EVERE - FH01;1622149;1622149;10373234;Sint-Jozefstraat 15-21-27;Sint-Jozefstraat - Rue Saint-Joseph;15;;20181012010900;C;2019-12-03;Marouane Zoubir;MDU;0;10;0;10;BUILDING template
-EVERE - FH01;5895264;5895264;10563605;Twee Huizenstraat 31-33;Twee Huizenstraat - Rue des Deux Maisons;31;;20190813205135;C;2019-11-07;Jonathan Collignon;MDU;0;18;2;20;BUILDING template
-EVERE - FH01;5895268;5895268;10563605;Twee Huizenstraat 31-33;Twee Huizenstraat - Rue des Deux Maisons;33;;20190813205135;C;2019-11-07;Jonathan Collignon;MDU;0;18;2;20;BUILDING template
-EVERE - FH01;1624263;1624263;10525998;V-Daylaan 20-20A;V-Daylaan - Avenue du V-Day;20;;20190522093717;D;2018-05-24;Jan Knegtel;MDU;0;3;0;3;BUILDING template
-EVERE - FH01;1624264;1624264;10525998;V-Daylaan 20-20A;V-Daylaan - Avenue du V-Day;20;A;20190522093717;D;2018-05-24;Jan Knegtel;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1624265;1624265;12373107;V-Daylaan 22-22A;V-Daylaan - Avenue du V-Day;22;;20190411012818;C;2019-09-17;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
-EVERE - FH01;4119465;4119465;12373107;V-Daylaan 22-22A;V-Daylaan - Avenue du V-Day;22;A;20190411012818;C;2019-09-17;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621811;1621811;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;1;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621812;1621812;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;2;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621813;1621813;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;3;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;8;0;8;BUILDING template
-EVERE - FH01;3918850;3918850;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;4;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;4109913;4109913;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;5;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621814;1621814;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;6;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;8;0;8;BUILDING template
-EVERE - FH01;1621815;1621815;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;7;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;1621816;1621816;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;8;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;6;0;6;BUILDING template
-EVERE - FH01;1621817;1621817;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;9;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;3916119;3916119;25881795;Vincent Van Goghlaan 1-2-3-4-5-6-7-8-9-10;Vincent Van Goghlaan - Avenue Vincent Van Gogh;10;;20200205100618;C;2019-11-12;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
-EVERE - FH01;5856588;5856588;10563549;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;15;;20191213182917;XA;2019-10-25;Jonathan Collignon;MDU;0;40;2;42;BUILDING template
-EVERE - FH01;5946627;5946627;21912474;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;19;;20191213182917;XA;2019-10-25;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;5921614;5921614;10563549;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;21;;20191213182917;XA;2019-10-25;Jonathan Collignon;MDU;0;32;2;34;BUILDING template
-EVERE - FH01;5946628;5946628;21912474;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;23;;20191213182917;XA;2019-10-25;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;5946626;5946626;21912474;Willy Van Der Meerenstr 15-19-21;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;25;;20191213182917;XA;2019-10-25;Jonathan Collignon;MDU;1;0;0;1;BUILDING template
-EVERE - FH01;5862169;5862169;11976761;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;11;;20190430011621;XA;2019-10-30;Jonathan Collignon;MDU;0;12;2;14;BUILDING template
-EVERE - FH01;5866850;5866850;11976761;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;13;;20190430011621;XA;2019-10-30;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;5935345;5935345;11976761;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;5;;20190430011621;XA;2019-10-30;Jonathan Collignon;MDU;0;10;2;12;BUILDING template
-EVERE - FH01;5931199;5931199;11976761;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;7;;20190430011621;XA;2019-10-30;Jonathan Collignon;MDU;0;15;2;17;BUILDING template
-EVERE - FH01;5943706;5943706;11976761;Willy Van Der Meerenstr 5-7-9-11-13;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;9;;20190430011621;XA;2019-10-30;Jonathan Collignon;MDU;0;22;2;24;BUILDING template
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+EVERE - FH01;1120054;BL0117;5;1120054;11473371;Leuvensesteenweg 833-835;;Chaussée de Louvain - Leuvensesteenweg;833;;20190124081024;D;2019-06-27 10:35:29;Bjorn De Pauw;MDU;1;2;0;3;BUILDING template
+EVERE - FH01;1120055;BL0117;;1120055;11473371;Leuvensesteenweg 833-835;;Chaussée de Louvain - Leuvensesteenweg;835;;20190124081024;;2019-06-27 10:35:29;Bjorn De Pauw;MDU;0;1;0;1;BUILDING template
+EVERE - FH01;1220676;BL0128;1;1220676;21596062;Fernand Legerstraat 40-40A;Fernand Legerstraat 40-40A;Rue Fernand Léger - Fernand Légerstraat;40;;20191218142939;A;2019-10-10;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
+EVERE - FH01;722648;BL0128;1;722648;21596042;Fernand Legerstraat 42-42A;Fernand Legerstraat 42-42A;Rue Fernand Léger - Fernand Légerstraat;42;;20191218142039;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
+EVERE - FH01;1321439;BL0128;1;1321439;21596023;Fernand Legerstraat 44-44A;Fernand Legerstraat 44-44A;Rue Fernand Léger - Fernand Légerstraat;44;;20191218141008;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
+EVERE - FH01;1621882;BL0128;1;1621882;21595992;Rue Fernand Leger 46-46A;Fernand Legerstraat 46-46A;Rue Fernand Léger - Fernand Légerstraat;46;;20191218130039;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
+EVERE - FH01;1336013;BL0128;1;1336013;21596000;Rue Fernand Leger 48-48A;Fernand Legerstraat 48-48A;Rue Fernand Léger - Fernand Légerstraat;48;;20191218125041;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
+EVERE - FH01;1321438;BL0128;1;1321438;13843536;Rue Fernand Leger 50-50A;Fernand Legerstraat 50-50A;Rue Fernand Léger - Fernand Légerstraat;50;;20191218124303;A;2019-10-11;Jonathan Collignon;MDU;0;33;3;36;BUILDING template
+EVERE - FH01;1621878;BL0128;;1621878;21596062;Fernand Legerstraat 40-40A;Fernand Legerstraat 40-40A;Rue Fernand Léger - Fernand Légerstraat;40;A;20191218142939;A;2019-10-10;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
+EVERE - FH01;1621880;BL0128;;1621880;21596042;Fernand Legerstraat 42-42A;Fernand Legerstraat 42-42A;Rue Fernand Léger - Fernand Légerstraat;42;A;20191218142039;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
+EVERE - FH01;1621881;BL0128;;1621881;21596023;Rue Fernand Leger 44-44A;Fernand Legerstraat 44-44A;Rue Fernand Léger - Fernand Légerstraat;44;A;20191218141008;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
+EVERE - FH01;1621883;BL0128;;1621883;21595992;Rue Fernand Leger 46-46A;Fernand Legerstraat 46-46A;Rue Fernand Léger - Fernand Légerstraat;46;A;20191218130039;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
+EVERE - FH01;1621884;BL0128;;1621884;21596000;Rue Fernand Leger 48-48A;Fernand Legerstraat 48-48A;Rue Fernand Léger - Fernand Légerstraat;48;A;20191218125041;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template
+EVERE - FH01;4120030;BL0128;;4120030;13843536;Rue Fernand Leger 50-50A;Fernand Legerstraat 50-50A;Rue Fernand Léger - Fernand Légerstraat;50;A;20191218124303;A;2019-10-11;Jonathan Collignon;MDU;0;1;0;1;BUILDING template

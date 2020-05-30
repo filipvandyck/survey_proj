@@ -1,0 +1,304 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+EVERE - FH05;5583150;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;955;;;153762,066;172319,183
+EVERE - FH05;5583227;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;102;;;153801,324;172625,028
+EVERE - FH05;5583228;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;106;;;153746,028;172653,911
+EVERE - FH05;725731;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;105;;;153738,013;172633,531
+EVERE - FH05;725732;16;0;0;16;MDU;;Y;NA;4;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;103;;;153776,359;172651,878
+EVERE - FH05;725733;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;101;;;153804,151;172646,738
+EVERE - FH05;725829;29;0;0;29;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;22;;;153910,495;172679,393
+EVERE - FH05;725830;29;0;0;29;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;20;;;153946,935;172629,765
+EVERE - FH05;725831;29;0;0;29;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;18;;;153977,46;172578,34
+EVERE - FH05;725878;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;979;;;154009,547;172416,678
+EVERE - FH05;725879;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;977;;;153992,452;172418,526
+EVERE - FH05;725880;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;975;;;153971,377;172401,519
+EVERE - FH05;725881;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;973;;;153954,22;172403,372
+EVERE - FH05;725882;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;971;;;153933,171;172386,355
+EVERE - FH05;725883;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;969;;;153916,011;172388,251
+EVERE - FH05;725884;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;967;;;153895,018;172371,18
+EVERE - FH05;725885;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;965;;;153877,923;172373,058
+EVERE - FH05;725886;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;963;;;153854,861;172355,9
+EVERE - FH05;725887;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;961;;;153833,889;172358,01
+EVERE - FH05;725888;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;959;;;153808,495;172337,553
+EVERE - FH05;725889;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;957;;;153787,547;172339,589
+EVERE - FH05;725890;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Leuvensesteenweg;953;;;153741,221;172321,477
+EVERE - FH05;1437988;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;16;;;153997,615;172510,755
+EVERE - FH05;725902;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;14;;;154004,315;172554,175
+EVERE - FH05;725903;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;12;;;154028,615;172481,613
+EVERE - FH05;725904;8;0;0;8;MDU;;Y;NA;4;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;10;;;154044,161;172474,318
+EVERE - FH05;1621291;104;0;0;104;MDU;;Y;NA;4;4;;;;;BUILDING template;Platolaan - Avenue Platon;21;;;153611,588;172477,883
+EVERE - FH05;862905;15;0;0;15;MDU;;Y;NA;4;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;41;;;153656,9;172702,72
+EVERE - FH05;862906;15;0;0;15;MDU;;Y;NA;4;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;42;;;153606,86;172676,13
+EVERE - FH05;1623300;68;0;0;68;MDU;;Y;NA;4;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;58;;;153645,709;172574,257
+EVERE - FH05;5583209;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;8;;;153741,201;172563,619
+EVERE - FH05;5583210;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;14;;;153733,74;172607,554
+EVERE - FH05;5583211;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;20;;;153770,38;172570,752
+EVERE - FH05;5583212;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;24;;;153774,391;172600,24
+EVERE - FH05;5583213;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;31;;;153814,266;172558,844
+EVERE - FH05;5583214;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;36;;;153807,699;172595,421
+EVERE - FH05;5583215;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;44;;;153847,774;172550,653
+EVERE - FH05;5583216;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;50;;;153853,282;172594,761
+EVERE - FH05;5583217;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;56;;;153857,229;172618,72
+EVERE - FH05;5583218;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;60;;;153849,954;172647,529
+EVERE - FH05;5583219;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;70;;;153890,077;172582,803
+EVERE - FH05;5583220;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;73;;;153889,52;172604,924
+EVERE - FH05;5583221;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;74;;;153889,335;172612,298
+EVERE - FH05;5583222;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;78;;;153888,592;172641,793
+EVERE - FH05;5583223;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;86;;;153915,208;172558,714
+EVERE - FH05;5583224;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;92;;;153920,019;172602,902
+EVERE - FH05;5583225;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;97;;;153937,274;172541,388
+EVERE - FH05;5583226;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;100;;;153944,797;172562,4
+EVERE - FH05;725754;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;7;;;153733,74;172607,554
+EVERE - FH05;725756;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;1;;;153741,201;172563,619
+EVERE - FH05;725806;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;19;;;153774,391;172600,24
+EVERE - FH05;725807;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;15;;;153770,38;172570,752
+EVERE - FH05;725808;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;30;;;153807,699;172595,421
+EVERE - FH05;725809;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;25;;;153814,266;172558,844
+EVERE - FH05;725810;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;43;;;153853,282;172594,761
+EVERE - FH05;725811;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;37;;;153847,774;172550,653
+EVERE - FH05;725816;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;61;;;153884,872;172582,671
+EVERE - FH05;725817;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;64;;;153884,317;172604,793
+EVERE - FH05;725818;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;65;;;153884,133;172612,167
+EVERE - FH05;725819;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;69;;;153883,392;172641,664
+EVERE - FH05;725820;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;79;;;153909,995;172559,281
+EVERE - FH05;725821;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;85;;;153914,805;172603,471
+EVERE - FH05;725822;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;93;;;153932,369;172543,144
+EVERE - FH05;725823;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;96;;;153939,892;172564,156
+EVERE - FH05;725824;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;26;;;153834,149;172522,327
+EVERE - FH05;725825;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;24;;;153846,901;172520,614
+EVERE - FH05;725826;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;20;;;153859,17;172519,034
+EVERE - FH05;725827;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;2;;;153920,715;172511,051
+EVERE - FH05;725828;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;22;;;153852,885;172519,843
+EVERE - FH05;725832;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;51;;;153852,153;172617,44
+EVERE - FH05;725833;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;55;;;153844,878;172646,246
+EVERE - FH05;1325304;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;29;;;153872,088;172454,13
+EVERE - FH05;725891;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;17;;;153716,403;172490,035
+EVERE - FH05;1475527;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;16;;;153714,198;172473,519
+EVERE - FH05;725892;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;18;;;153717,212;172496,337
+EVERE - FH05;1621278;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;2;;;153688,772;172340,048
+EVERE - FH05;725893;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;13;;;153711,755;172454,749
+EVERE - FH05;1621279;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;3;;;153690,185;172347,091
+EVERE - FH05;725894;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;20;;;153718,814;172508,769
+EVERE - FH05;1621280;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;4;;;153691,635;172354,283
+EVERE - FH05;725895;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;12;;;153705,996;172425,391
+EVERE - FH05;1621281;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;5;;;153694,48;172368,328
+EVERE - FH05;725896;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;1;;;153687,327;172332,831
+EVERE - FH05;1621282;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;6;;;153695,955;172375,602
+EVERE - FH05;725897;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;55;;;153744,731;172505,507
+EVERE - FH05;1621283;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;7;;;153697,39;172382,712
+EVERE - FH05;725898;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;27;;;153840,931;172492,977
+EVERE - FH05;1621284;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;8;;;153698,836;172389,849
+EVERE - FH05;725899;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;1;;;153930,756;172481,303
+EVERE - FH05;1621285;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;9;;;153701,683;172403,866
+EVERE - FH05;725900;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;16;;;153871,446;172517,454
+EVERE - FH05;1621286;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;10;;;153703,124;172411,053
+EVERE - FH05;725901;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;29;;;153834,783;172493,789
+EVERE - FH05;1621287;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;11;;;153704,546;172418,097
+EVERE - FH05;1621288;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;14;;;153712,571;172461,005
+EVERE - FH05;1621289;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;15;;;153713,374;172467,179
+EVERE - FH05;1621290;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Platolaan - Avenue Platon;19;;;153718,013;172502,531
+EVERE - FH05;725907;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;7;;;154003,223;172446,658
+EVERE - FH05;725908;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;60;;;153988,926;172451,313
+EVERE - FH05;1621554;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Zaventemstraat;60;;;153823,436;172699,545
+EVERE - FH05;725909;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;32;;;153868,176;172410,718
+EVERE - FH05;1622424;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;2;;;153706,469;172726,22
+EVERE - FH05;725910;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;30;;;153862,348;172409,962
+EVERE - FH05;1622425;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;3;;;153704,383;172720,399
+EVERE - FH05;725911;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;14;;;153788,418;172417,685
+EVERE - FH05;1622426;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;4;;;153703,232;172714,613
+EVERE - FH05;725912;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;12;;;153776,547;172419,256
+EVERE - FH05;1622427;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;6;;;153699,154;172703,226
+EVERE - FH05;725913;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;2;;;153735,53;172427,668
+EVERE - FH05;1622428;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;7;;;153694,183;172691,112
+EVERE - FH05;725914;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;9;;;153790,622;172444,476
+EVERE - FH05;1622429;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;8;;;153693,672;172684,939
+EVERE - FH05;725915;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;15;;;153793,066;172463,016
+EVERE - FH05;1622430;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;9;;;153693,186;172679,05
+EVERE - FH05;725916;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;1;;;153763,424;172448,137
+EVERE - FH05;1622431;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;10;;;153691,897;172673,148
+EVERE - FH05;725917;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;7;;;153765,841;172466,788
+EVERE - FH05;1622432;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;11;;;153691,37;172666,768
+EVERE - FH05;725918;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;25;;;153870,446;172441,64
+EVERE - FH05;1622433;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;14;;;153689,385;172643,31
+EVERE - FH05;725919;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;31;;;153872,899;172460,31
+EVERE - FH05;1622434;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;16;;;153689,193;172631,094
+EVERE - FH05;725920;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;17;;;153842,254;172437,82
+EVERE - FH05;1622435;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;20;;;153655,235;172628,54
+EVERE - FH05;725921;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;23;;;153844,704;172456,567
+EVERE - FH05;1622436;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;21;;;153655,71;172634,336
+EVERE - FH05;862903;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Cicerolaan;20;;;153530,927;172603,545
+EVERE - FH05;1622437;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;22;;;153657,017;172640,24
+EVERE - FH05;862904;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;40;;;153565,481;172649,975
+EVERE - FH05;1622438;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;23;;;153657,51;172646,252
+EVERE - FH05;1622439;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;24;;;153658,801;172652,349
+EVERE - FH05;1622440;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;25;;;153659,333;172658,606
+EVERE - FH05;862907;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;27;;;153622,157;172624,35
+EVERE - FH05;1622441;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;28;;;153622,665;172630,471
+EVERE - FH05;862908;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;30;;;153623,672;172642,624
+EVERE - FH05;1622442;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;32;;;153590,481;172603,23
+EVERE - FH05;862909;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;36;;;153574,812;172621,682
+EVERE - FH05;1622443;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;33;;;153586,6;172607,8
+EVERE - FH05;862910;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;31;;;153594,424;172598,586
+EVERE - FH05;1622444;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;34;;;153582,676;172612,422
+EVERE - FH05;862911;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;1;;;153708,545;172732,015
+EVERE - FH05;1622445;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;37;;;153568,881;172631,849
+EVERE - FH05;862912;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;12;;;153690,871;172660,719
+EVERE - FH05;1622446;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;38;;;153567,743;172637,857
+EVERE - FH05;862913;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;13;;;153689,896;172649,38
+EVERE - FH05;1622447;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;39;;;153566,604;172643,958
+EVERE - FH05;862914;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;18;;;153688,214;172619,458
+EVERE - FH05;1623001;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;2;;;153739,957;172570,94
+EVERE - FH05;862915;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;19;;;153654,741;172622,442
+EVERE - FH05;1623002;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;3;;;153738,713;172578,26
+EVERE - FH05;862916;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;26;;;153659,833;172664,546
+EVERE - FH05;1623003;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;4;;;153737,47;172585,581
+EVERE - FH05;1623004;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;5;;;153736,226;172592,901
+EVERE - FH05;1623005;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;6;;;153734,982;172600,222
+EVERE - FH05;1623007;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;9;;;153739,958;172570,94
+EVERE - FH05;1623008;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;10;;;153738,714;172578,26
+EVERE - FH05;1623009;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;11;;;153737,47;172585,581
+EVERE - FH05;1623010;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;12;;;153736,225;172592,901
+EVERE - FH05;1623011;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;13;;;153734,982;172600,222
+EVERE - FH05;1623013;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;16;;;153771,383;172578,124
+EVERE - FH05;1623014;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;17;;;153772,385;172585,495
+EVERE - FH05;1623015;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;18;;;153773,388;172592,867
+EVERE - FH05;1623018;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;21;;;153771,383;172578,124
+EVERE - FH05;1623019;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;22;;;153772,385;172585,495
+EVERE - FH05;1623022;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;26;;;153812,954;172566,158
+EVERE - FH05;1623023;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;27;;;153811,64;172573,473
+EVERE - FH05;1623024;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;28;;;153810,326;172580,788
+EVERE - FH05;1623025;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;29;;;153809,012;172588,103
+EVERE - FH05;1623029;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;33;;;153811,64;172573,473
+EVERE - FH05;1623030;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;34;;;153810,326;172580,788
+EVERE - FH05;1623031;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;35;;;153809,012;172588,103
+EVERE - FH05;1623033;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;38;;;153848,692;172558,005
+EVERE - FH05;1623034;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;40;;;153850,528;172572,707
+EVERE - FH05;1623035;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;41;;;153851,446;172580,058
+EVERE - FH05;1623036;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;42;;;153852,363;172587,41
+EVERE - FH05;1623039;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;45;;;153848,692;172558,005
+EVERE - FH05;1623040;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;47;;;153850,527;172572,708
+EVERE - FH05;1623041;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;48;;;153851,445;172580,059
+EVERE - FH05;1623042;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;49;;;153852,363;172587,409
+EVERE - FH05;1623045;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;52;;;153850,333;172624,642
+EVERE - FH05;1623046;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;54;;;153846,697;172639,044
+EVERE - FH05;1623048;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;58;;;153853,591;172633,125
+EVERE - FH05;1623049;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;59;;;153851,773;172640,326
+EVERE - FH05;1623051;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;62;;;153884,688;172590,044
+EVERE - FH05;1623052;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;63;;;153884,503;172597,419
+EVERE - FH05;1623054;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;66;;;153883,948;172619,542
+EVERE - FH05;1623055;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;67;;;153883,763;172626,917
+EVERE - FH05;1623056;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;68;;;153883,577;172634,291
+EVERE - FH05;1623058;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;72;;;153889,706;172597,549
+EVERE - FH05;1623061;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;76;;;153888,964;172627,047
+EVERE - FH05;1623062;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;77;;;153888,778;172634,422
+EVERE - FH05;1623065;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;81;;;153911,599;172574,012
+EVERE - FH05;1623066;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;82;;;153912,4;172581,377
+EVERE - FH05;1623067;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;83;;;153913,202;172588,741
+EVERE - FH05;1623068;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;84;;;153914,004;172596,106
+EVERE - FH05;1623071;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;87;;;153916,01;172566,079
+EVERE - FH05;1623072;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;88;;;153916,812;172573,444
+EVERE - FH05;1623073;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;89;;;153917,614;172580,809
+EVERE - FH05;1623074;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;90;;;153918,416;172588,174
+EVERE - FH05;1623075;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;91;;;153919,218;172595,539
+EVERE - FH05;1623078;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;94;;;153934,876;172550,148
+EVERE - FH05;1623079;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;95;;;153937,383;172557,152
+EVERE - FH05;1623081;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;98;;;153939,782;172548,392
+EVERE - FH05;1623082;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;99;;;153942,289;172555,396
+EVERE - FH05;1623266;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;3;;;153925,172;172482,031
+EVERE - FH05;1623267;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;4;;;153914,747;172511,83
+EVERE - FH05;1623268;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;5;;;153918,972;172482,839
+EVERE - FH05;1623269;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;7;;;153912,927;172483,631
+EVERE - FH05;1623270;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;8;;;153902,513;172513,426
+EVERE - FH05;1623271;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;10;;;153896,261;172514,244
+EVERE - FH05;1623272;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;11;;;153901,024;172485,183
+EVERE - FH05;1623273;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;12;;;153890,278;172515,023
+EVERE - FH05;1623274;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;13;;;153888,634;172486,776
+EVERE - FH05;1623275;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;14;;;153877,414;172516,687
+EVERE - FH05;1623276;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;15;;;153883,167;172487,479
+EVERE - FH05;1623277;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;17;;;153876,974;172488,271
+EVERE - FH05;1623278;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;18;;;153865,163;172518,262
+EVERE - FH05;1623279;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;25;;;153846,558;172492,233
+EVERE - FH05;1623280;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;28;;;153828,204;172523,092
+EVERE - FH05;1623281;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;30;;;153821,998;172523,888
+EVERE - FH05;1623282;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;31;;;153828,737;172494,591
+EVERE - FH05;1623283;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;33;;;153822,309;172495,44
+EVERE - FH05;1623284;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;34;;;153809,671;172525,472
+EVERE - FH05;1623285;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;35;;;153816,712;172496,181
+EVERE - FH05;1623286;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;36;;;153803,662;172526,248
+EVERE - FH05;1623287;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;37;;;153804,504;172497,768
+EVERE - FH05;1623288;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;39;;;153798,877;172498,485
+EVERE - FH05;1623289;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;41;;;153792,51;172499,293
+EVERE - FH05;1623290;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;42;;;153778,466;172529,529
+EVERE - FH05;1623291;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;43;;;153786,539;172500,106
+EVERE - FH05;1623292;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;44;;;153772,321;172530,322
+EVERE - FH05;1623293;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;45;;;153780,336;172500,897
+EVERE - FH05;1623294;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;47;;;153774,665;172501,584
+EVERE - FH05;1623295;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;48;;;153760,37;172531,833
+EVERE - FH05;1623296;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;50;;;153736,669;172534,978
+EVERE - FH05;1623297;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;51;;;153756,633;172503,954
+EVERE - FH05;1623298;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;52;;;153731,036;172535,708
+EVERE - FH05;1623299;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;53;;;153750,368;172504,775
+EVERE - FH05;1623302;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;3;;;153764,245;172454,444
+EVERE - FH05;1623303;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;4;;;153741,34;172426,856
+EVERE - FH05;1623304;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;5;;;153765,031;172460,5
+EVERE - FH05;1623305;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;6;;;153752,868;172422,348
+EVERE - FH05;1623306;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;8;;;153758,709;172421,603
+EVERE - FH05;1623307;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;11;;;153791,435;172450,642
+EVERE - FH05;1623308;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;13;;;153792,222;172456,615
+EVERE - FH05;1623309;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;16;;;153794,252;172416,948
+EVERE - FH05;1623310;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;18;;;153806,542;172418,331
+EVERE - FH05;1623311;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;19;;;153843,07;172444,08
+EVERE - FH05;1623312;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;21;;;153843,875;172450,217
+EVERE - FH05;1623313;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;22;;;153824,319;172415,961
+EVERE - FH05;1623314;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;26;;;153841,698;172410,721
+EVERE - FH05;1623315;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;27;;;153871,283;172448,029
+EVERE - FH05;1623316;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;33;;;153950,869;172469,96
+EVERE - FH05;1623317;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;34;;;153880,788;172416,624
+EVERE - FH05;1623318;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;35;;;153951,628;172475,637
+EVERE - FH05;1623319;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;36;;;153886,337;172418,59
+EVERE - FH05;1623320;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;40;;;153903,238;172424,479
+EVERE - FH05;1623321;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;42;;;153915,551;172425,612
+EVERE - FH05;1623322;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;44;;;153921,089;172427,577
+EVERE - FH05;1623323;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;46;;;153932,581;172431,515
+EVERE - FH05;1623324;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;48;;;153938,096;172433,466
+EVERE - FH05;1623325;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;50;;;153949,439;172437,486
+EVERE - FH05;1623326;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;54;;;153965,415;172446,188
+EVERE - FH05;1623327;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;56;;;153970,929;172448,143
+EVERE - FH05;1623328;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;58;;;153983,384;172449,368
+EVERE - FH05;25439;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;56;;;153718,448;172537,343
+EVERE - FH05;25443;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;1;;;154030,206;172440,918
+EVERE - FH05;3916101;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;5;;;154008,795;172448,653
+EVERE - FH05;3916138;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;20;;;153812,399;172417,585
+EVERE - FH05;3997166;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;38;;;153897,714;172422,532
+EVERE - FH05;4045399;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;23;;;153858,888;172490,587
+EVERE - FH05;4103547;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;54;;;153724,679;172536,534
+EVERE - FH05;4106862;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;15;;;153688,874;172637,236
+EVERE - FH05;4107583;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;10;;;153770,735;172420,034
+EVERE - FH05;4107720;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;24;;;153830,126;172415,216
+EVERE - FH05;4108023;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;23;;;153773,388;172592,867
+EVERE - FH05;4108153;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;29;;;153623,168;172636,537
+EVERE - FH05;4108997;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;39;;;153849,61;172565,356
+EVERE - FH05;4108998;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;46;;;153849,609;172565,357
+EVERE - FH05;4110760;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;5;;;153701,258;172709,102
+EVERE - FH05;4111295;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;32;;;153812,953;172566,157
+EVERE - FH05;4112747;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;71;;;153889,892;172590,174
+EVERE - FH05;4112748;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;75;;;153889,149;172619,672
+EVERE - FH05;4112754;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;52;;;153954,924;172439,411
+EVERE - FH05;NB-11406001508;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;60;;;153630;172550
+EVERE - FH05;4112904;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;9;;;153906,625;172484,452
+EVERE - FH05;NB-11404001509;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Cicerolaan - Avenue Cicéron;40;;;153535;172561
+EVERE - FH05;4113214;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;40;;;153784,857;172528,705
+EVERE - FH05;4113812;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;6;;;153908,535;172512,642
+EVERE - FH05;4114701;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;19;;;153870,763;172489,068
+EVERE - FH05;NB-114010401512;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Oleandergaard - Clos des Lauriers Roses;104;;;153775;172630
+EVERE - FH05;4114755;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;49;;;153762,167;172503,236
+EVERE - FH05;4117619;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;57;;;153855,409;172625,924
+EVERE - FH05;4117622;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;53;;;153848,515;172631,843
+EVERE - FH05;4119304;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Clos des Lauriers Roses - Oleandergaard;80;;;153910,797;172566,647
+EVERE - FH05;4119581;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;21;;;153864,454;172489,876
+EVERE - FH05;4119601;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Francois Villonlaan - Avenue Francois Villon;28;;;153847,516;172409,989
+EVERE - FH05;4119604;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;32;;;153815,993;172524,661
+EVERE - FH05;4119614;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;35;;;153578,754;172617,04
+EVERE - FH05;4119616;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Duiveltjesgaarde - Clos des Diablotins;17;;;153688,719;172625,467
+EVERE - FH05;4119628;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;46;;;153766,365;172531,089
+EVERE - FH05;4124523;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;A. Vermeylenlaan - Avenue Auguste Vermeylen;38;;;153790,807;172527,94
+EVERE - FH05;4187816;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Galgelaan - Avenue du Gibet;3;;;154024,645;172438,99

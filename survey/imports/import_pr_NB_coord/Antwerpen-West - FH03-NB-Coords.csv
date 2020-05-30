@@ -1,0 +1,25 @@
+﻿Projectnummer;Blok;LAM MK;Straat;Huisnummer;Huisnummer Toevoeging;Huisnr;xPos;yPos;BT;VC Method;LU;BU;SU;TOTAAL;Wall Mount;SS Reason;Number Floors;Perceel eigenschap;Building comment;Building exists;BG Name;Opdrachttemplate;FT Distributie;FT Distributie Opmerking
+ANTWERPEN-WEST - FH03;;NB-20003001536;Grote Kauwenberg;30;;;152959;212500;MDU;;1;0;0;1;Y;NA;2;;;Y;Grote Kauwenberg 30-32;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20003301520;Grote Kauwenberg;33;;;152979;212507;MDU;;1;0;0;1;Y;NA;2;;;Y;Grote Kauwenberg 33-37-39-41-47-49_Pieter van Hobokenstraat 3;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20003701521;Grote Kauwenberg;37;;;152976;212500;MDU;;1;0;0;1;Y;NA;2;;;Y;Grote Kauwenberg 33-37-39-41-47-49_Pieter van Hobokenstraat 3;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20003901522;Grote Kauwenberg;39;;;152979;212496;MDU;;1;0;0;1;Y;NA;2;;;Y;Grote Kauwenberg 33-37-39-41-47-49_Pieter van Hobokenstraat 3;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20004101523;Grote Kauwenberg;41;;;152978;212491;MDU;;1;0;0;1;Y;NA;2;;;Y;Grote Kauwenberg 33-37-39-41-47-49_Pieter van Hobokenstraat 3;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20004701524;Grote Kauwenberg;47;;;152972;212478;MDU;;1;0;0;1;Y;NA;2;;;Y;Grote Kauwenberg 33-37-39-41-47-49_Pieter van Hobokenstraat 3;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20008601532;Italiëlei;86;;;153256;212535;MDU;;1;0;0;1;Y;NA;2;;;Y;Italielei 84-86;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20008401531;Klapdorp;84;;;152663;212768;MDU;;1;0;0;1;Y;NA;2;;;Y;Klapdorp 82-84;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20004201538;Kleine Kauwenberg;42;;;152992;212637;MDU;;1;0;0;1;Y;NA;2;;;Y;Kleine Kauwenberg 42_Vekestraat 51;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-2000701530;Lange Noordstraat;7;;;152589;212712;MDU;;1;0;0;1;Y;NA;2;;;Y;Lange Noordstraat 5-7;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20002101529;Lange Noordstraat;21;;;152625;212736;MDU;;1;0;0;1;Y;NA;2;;;Y;Lange Noordstraat 19-21;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-2000501528;Lansstraat;5;;;152752;212709;MDU;;1;0;0;1;Y;NA;2;;;Y;Lansstraat 1-5;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-2000801526;Paardenmarkt;8;;;152726;212774;MDU;;1;0;0;1;Y;NA;2;;;Y;Paardenmarkt 6-8;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20009001539;Paardenmarkt;90;;;153073;212750;MDU;;1;0;0;1;Y;NA;2;;;Y;Paardenmarkt 90-92-94;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20009401527;Paardenmarkt;94;;;153110;212738;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-2000901519;Stadswaag;9;;;152721;212670;MDU;;1;0;0;1;Y;NA;2;;;Y;Stadswaag 9-10;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20001601518;Stadswaag;16;;;152679;212641;MDU;;1;0;0;1;Y;NA;2;;;Y;Stadswaag 16-17;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-200023ed0d20;Toog;23;;;152856;212734;SDU;;1;0;0;1;Y;NA;2;;;;;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20005101537;Vekestraat;51;;;152988;212635;SDU;;1;0;0;1;Y;NA;2;;;Y;;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20001501513;Venusstraat;15;;;152825;212661;MDU;;1;0;0;1;Y;NA;2;;;Y;Venusstraat 11-15;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-200017A01534;Venusstraat;17;A;;152840;212629;MDU;;1;0;0;1;Y;NA;2;;;Y;Venusstraat 17-17A;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-200019A01535;Venusstraat;19;A;;152826;212624;MDU;;1;0;0;1;Y;NA;2;;;Y;Venusstraat 19-19A;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20002301514;Venusstraat;23;;;152813;212602;MDU;;1;0;0;1;Y;NA;2;;;Y;Venusstraat 23-25;BUILDING template;;
+ANTWERPEN-WEST - FH03;;NB-20003701515;Venusstraat;37;;;152801;212529;MDU;;1;0;0;1;Y;NA;2;;;Y;Venusstraat 35-37;BUILDING template;;

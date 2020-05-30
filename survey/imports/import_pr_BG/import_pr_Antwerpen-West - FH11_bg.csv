@@ -1,0 +1,672 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+ANTWERPEN-WEST - FH11;6667252;BL1109;;6667252;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;Cockerillkaai;20;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970911;BL1109;;970911;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;Cockerillkaai;23;;;;;;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;6399823;BL1109;;6399823;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;Cockerillkaai;24;;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971238;BL1109;;971238;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;Leuvenstraat;32;;;;;;MDU;2;0;2;4;BUILDING template
+ANTWERPEN-WEST - FH11;970895;BL1109;;970895;;Cockerillkaai 20-23-24_Leuvenstraat 32_Wapenstraat 1;Wapenstraat;1;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5575337;BL1108;;5575337;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Cockerillkaai;26;;20200428155402;XA;;Steffen Verhofsté;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1800201;BL1108;;1800201;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Cockerillkaai;27;;20200428155402;;;;MDU;2;9;0;11;BUILDING template
+ANTWERPEN-WEST - FH11;1800206;BL1108;;1800206;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Cockerillkaai;28;;20200428155402;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4519436;BL1108;;4519436;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Cockerillkaai;29;;20200428155402;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1800209;BL1108;;1800209;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Cockerillkaai;30;;20200428155402;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;968689;BL1108;;968689;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Cockerillkaai;31;;20200428155402;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1993988;BL1108;;1993988;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Luikstraat;1;;;XC;;Steffen Verhofsté;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;968677;BL1108;;968677;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Luikstraat;3;;;;;;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2063174;BL1108;;2063174;;Cockerillkaai 26-27-28-29-30-31_Luikstraat 1-3_Wapenstraat 6;Wapenstraat;6;;;XC;;Steffen Verhofsté;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;968687;BL1107;;968687;;Cockerillkaai 32-33-34-35_Luikstraat 2;Cockerillkaai;32;;20200428155408;XC;;Steffen Verhofsté;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;1800223;BL1108;;1800223;;Cockerillkaai 32-33-34-35_Luikstraat 2;Cockerillkaai;33;;20200428155408;;;Geert Stockman;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;1800243;BL1107;;1800243;;Cockerillkaai 32-33-34-35_Luikstraat 2;Cockerillkaai;34;;20200428155402;XA;;Steffen Verhofsté;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;1800254;BL1108;;1800254;;Cockerillkaai 32-33-34-35_Luikstraat 2;Cockerillkaai;35;;20200428155402;;;Geert Stockman;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;968679;BL1107;;968679;;Cockerillkaai 32-33-34-35_Luikstraat 2;Luikstraat;2;;;XC;;Steffen Verhofsté;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;968690;BL1106;;968690;;Cockerillkaai 39_Waalsekaai 35A;Cockerillkaai;39;;;;;Maayken Vanfleteren;MDU;1;0;2;3;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200035A7f27;;;NB-200035A7f27;;Cockerillkaai 39_Waalsekaai 35A;Waalsekaai;35;A;;;;Maayken Vanfleteren;MDU;2;0;5;7;BUILDING template
+ANTWERPEN-WEST - FH11;1785671;BL1115;;1785671;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;De Burburestraat;43;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5473543;BL1115;;5473543;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;Leopold de Waelplaats;26;A;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;969134;BL1115;;969134;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;Leopold de Waelplaats;28;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2062836;BL1115;;2062836;;De Burburestraat 43_Leopold de Waelplaats 26A-28-30;Leopold de Waelplaats;30;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785513;BL1115;;1785513;;De Burburestraat 7-9;De Burburestraat;7;;;;;Hidde Kiekens;MDU;1;11;1;13;BUILDING template
+ANTWERPEN-WEST - FH11;1785555;BL1115;;1785555;;De Burburestraat 7-9;De Burburestraat;9;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;762445;BL1104;;762445;;De Gerlachekaai 15_Verviersstraat 3;De Gerlachekaai;15;;20200428155408;XC;;Steffen Verhofsté;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;762432;BL1104;;762432;;De Gerlachekaai 15_Verviersstraat 3;Verviersstraat;1;;;;;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;4519107;BL1104;;4519107;;De Gerlachekaai 15_Verviersstraat 3;Verviersstraat;3;;20200428155408;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1101513;BL1103;;1101513;;Schalienstraat 1-3-5_Verviersstraat 2-4;Schalienstraat;1;;;XA;;Steffen Verhofsté;MDU;3;16;2;21;BUILDING template
+ANTWERPEN-WEST - FH11;2050228;BL1103;;2050228;;Schalienstraat 1-3-5_Verviersstraat 2-4;Schalienstraat;3;;;;;Maayken Vanfleteren;MDU;6;0;3;9;BUILDING template
+ANTWERPEN-WEST - FH11;NB-2000545fb82;;;NB-2000545fb82;;Schalienstraat 1-3-5_Verviersstraat 2-4;Schalienstraat;5;;;;;Maayken Vanfleteren;MDU;4;0;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;2060362;BL1103;;2060362;;Schalienstraat 1-3-5_Verviersstraat 2-4;Verviersstraat;2;;;;;Maayken Vanfleteren;MDU;1;23;2;26;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200044c8352;;;NB-200044c8352;;Schalienstraat 1-3-5_Verviersstraat 2-4;Verviersstraat;4;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1893506;BL1105;;1893506;;De Gerlachekaai 6-7-8;De Gerlachekaai;6;;;XC;;Geert Stockman;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;1893516;BL1105;;1893516;;De Gerlachekaai 6-7-8;De Gerlachekaai;7;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;968685;BL1105;;968685;;De Gerlachekaai 6-7-8;De Gerlachekaai;8;;;XC;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;977800;BL1117;;977800;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;Gillisplaats;2;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2060308;BL1117;;2060308;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;Verschansingstraat;52;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060311;BL1117;;2060311;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;Verschansingstraat;54;;;;;Geert Stockman;MDU;0;17;1;18;BUILDING template
+ANTWERPEN-WEST - FH11;977803;BL1117;;977803;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;Verschansingstraat;56;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971801;BL1117;;971801;;Gillisplaats 2_Verschansingstraat 52-54-56_Vlaamsekaai 63;Vlaamsekaai;63;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971812;BL1113;;971812;;Graaf Van Egmontstraat 60_Leopold De Waelplaats 2_Verlatstraat 41;Graaf van Egmontstraat;60;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970508;BL1113;;970508;;Graaf Van Egmontstraat 60_Leopold De Waelplaats 2_Verlatstraat 41;Leopold de Waelplaats;2;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971792;BL1113;;971792;;Graaf Van Egmontstraat 60_Leopold De Waelplaats 2_Verlatstraat 41;Verlatstraat;41;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;968680;BL1107;;968680;;Ijzerenpoortkaai 10_Waalsekaai 34;IJzerenpoortkaai;10;;;;;Geert Stockman;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200034e81529;;;NB-200034e81529;;Ijzerenpoortkaai 10_Waalsekaai 34;Waalsekaai;34;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1028381;BL1119;;1028381;;Jan van Gentstraat 1-3_Pacificatiestraat 2;Jan van Gentstraat;1;;;;;Hidde Kiekens;MDU;9;0;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;1892178;BL1119;;1892178;;Jan van Gentstraat 1-3_Pacificatiestraat 2;Jan van Gentstraat;3;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1028388;BL1119;;1028388;;Jan van Gentstraat 1-3_Pacificatiestraat 2;Pacificatiestraat;2;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1028407;BL1119;;1028407;;Jan van Gentstraat 5-7-9-11;Jan van Gentstraat;11;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1028383;BL1119;;1028383;;Jan van Gentstraat 5-7-9-11;Jan van Gentstraat;5;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1892212;BL1119;;1892212;;Jan van Gentstraat 5-7-9-11;Jan van Gentstraat;7;;;;;Hidde Kiekens;MDU;9;0;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;4517256;BL1119;;4517256;;Jan van Gentstraat 5-7-9-11;Jan van Gentstraat;9;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5383735;BL1115;;5383735;;Leopold de Waelplaats 20-22-24A-26;Leopold de Waelplaats;20;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;969132;BL1115;;969132;;Leopold de Waelplaats 20-22-24A-26;Leopold de Waelplaats;22;;;;;Hidde Kiekens;MDU;0;17;1;18;BUILDING template
+ANTWERPEN-WEST - FH11;5394053;BL1115;;5394053;;Leopold de Waelplaats 20-22-24A-26;Leopold de Waelplaats;24;A;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;969133;BL1115;;969133;;Leopold de Waelplaats 20-22-24A-26;Leopold de Waelplaats;26;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;970898;BL1110;;970898;;Leuvenstraat 1-3-5-7-9;Leuvenstraat;1;;;;;Hidde Kiekens;MDU;4;0;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1990345;BL1110;;1990345;;Leuvenstraat 1-3-5-7-9;Leuvenstraat;3;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;1990349;BL1110;;1990349;;Leuvenstraat 1-3-5-7-9;Leuvenstraat;7;;;;;Hidde Kiekens;MDU;0;7;0;7;BUILDING template
+ANTWERPEN-WEST - FH11;1990351;BL1110;;1990351;;Leuvenstraat 1-3-5-7-9;Leuvenstraat;9;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;970517;BL1114;;970517;;Museumstraat 11-11A-11B;Museumstraat;11;;;;;Maayken Vanfleteren;MDU;2;12;2;16;BUILDING template
+ANTWERPEN-WEST - FH11;2023816;BL1114;;2023816;;Museumstraat 11-11A-11B;Museumstraat;11;A;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2023819;BL1114;;2023819;;Museumstraat 11-11A-11B;Museumstraat;11;B;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4054053;BL1115;;4054053;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;12;D;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;969126;BL1115;;969126;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;12;;;;;Hidde Kiekens;MDU;1;6;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;2023829;BL1115;;2023829;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;12;A;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;2023832;BL1115;;2023832;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;12;B;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;2023837;BL1115;;2023837;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;12;C;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;1482441;BL1115;;1482441;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;14;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2023854;BL1115;;2023854;;Museumstraat 12-12A-12B-12C-12D-14-14A;Museumstraat;14;A;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;969128;BL1115;;969128;;Museumstraat 18-20;Museumstraat;18;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200020f9f733;;;NB-200020f9f733;;Museumstraat 18-20;Museumstraat;20;;;;;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+ANTWERPEN-WEST - FH11;2023908;BL1115;;2023908;;Museumstraat 36-38-40;Museumstraat;36;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;2023914;BL1115;;2023914;;Museumstraat 36-38-40;Museumstraat;38;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1340349;BL1115;;1340349;;Museumstraat 36-38-40;Museumstraat;40;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;969124;BL1115;;969124;;Museumstraat 48-50;Museumstraat;48;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;5414526;BL1115;;5414526;;Museumstraat 48-50;Museumstraat;50;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5824909;BL1116;;5824909;;Pourbusstraat 33_Verschaningstraat 20;Pourbusstraat;33;;;;;Geert Stockman;MDU;0;3;1;4;BUILDING template
+ANTWERPEN-WEST - FH11;4052086;BL1116;;4052086;;Pourbusstraat 33_Verschaningstraat 20;Verschansingstraat;20;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2050237;BL1102;;2050237;;Schalienstraat 24-26;Schalienstraat;24;;;;;Maayken Vanfleteren;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;968544;BL1102;;968544;;Schalienstraat 24-26;Schalienstraat;26;;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968541;BL1102;;968541;;Schalienstraat 30-32-34;Schalienstraat;30;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2050239;BL1102;;2050239;;Schalienstraat 30-32-34;Schalienstraat;32;;;;;Maayken Vanfleteren;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;4520331;BL1102;;4520331;;Schalienstraat 30-32-34;Schalienstraat;34;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;30348;BL1122;;30348;;Van Der Sweepstraat 12-14;Van der Sweepstraat;12;;;;;Maayken Vanfleteren;MDU;0;56;2;58;BUILDING template
+ANTWERPEN-WEST - FH11;968813;BL1122;;968813;;Van Der Sweepstraat 12-14;Van der Sweepstraat;14;;;;;Maayken Vanfleteren;MDU;0;56;2;58;BUILDING template
+ANTWERPEN-WEST - FH11;968548;BL1101;;968548;;Van Der Sweepstraat 3-5-7;Van der Sweepstraat;3;;;;;Maayken Vanfleteren;MDU;2;82;4;88;BUILDING template
+ANTWERPEN-WEST - FH11;2055993;BL1101;;2055993;;Van Der Sweepstraat 3-5-7;Van der Sweepstraat;5;;;;;Maayken Vanfleteren;MDU;0;82;4;86;BUILDING template
+ANTWERPEN-WEST - FH11;5576299;BL1101;;5576299;;Van Der Sweepstraat 3-5-7;Van der Sweepstraat;7;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060105;BL1113;;2060105;;Verlatstraat 11-13;Verlatstraat;11;;;;;Maayken Vanfleteren;MDU;1;1;1;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060106;BL1113;;2060106;;Verlatstraat 11-13;Verlatstraat;13;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970503;BL1113;;970503;;Verlatstraat 23-25;Verlatstraat;23;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;6524938;BL1113;;6524938;;Verlatstraat 23-25;Verlatstraat;25;;;;;Maayken Vanfleteren;MDU;10;0;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;4517018;BL1113;;4517018;;Verlatstraat 9_Vorstermanstraat 4-6-8-10;Verlatstraat;9;;;;;Maayken Vanfleteren;MDU;2;6;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2060282;BL1116;;2060282;;Verschansingstraat 16-16A;Verschansingstraat;16;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200016A1883;;;NB-200016A1883;;Verschansingstraat 16-16A;Verschansingstraat;16;A;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5552744;BL1114;;5552744;;Vlaamsekaai 28-29-29A-30-31;Vlaamsekaai;28;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060979;BL1114;;2060979;;Vlaamsekaai 28-29-29A-30-31;Vlaamsekaai;29;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060980;BL1114;;2060980;;Vlaamsekaai 28-29-29A-30-31;Vlaamsekaai;29;A;;;;Maayken Vanfleteren;MDU;4;2;1;7;BUILDING template
+ANTWERPEN-WEST - FH11;2060981;BL1114;;2060981;;Vlaamsekaai 28-29-29A-30-31;Vlaamsekaai;30;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970512;BL1114;;970512;;Vlaamsekaai 28-29-29A-30-31;Vlaamsekaai;31;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968539;BL1102;;968539;;Waalse Kaai 54-55;Waalsekaai;54;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062550;BL1102;;2062550;;Waalse Kaai 54-55;Waalsekaai;55;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;970930;BL1111;;970930;;Waalsekaai 2-3-4-5;Waalsekaai;2;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062523;BL1111;;2062523;;Waalsekaai 2-3-4-5;Waalsekaai;3;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;1101821;BL1111;;1101821;;Waalsekaai 2-3-4-5;Waalsekaai;4;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062524;BL1111;;2062524;;Waalsekaai 2-3-4-5;Waalsekaai;5;;;;;Geert Stockman;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;1028394;BL1119;;1028394;;;Bolivarplaats;1;;;;;Hidde Kiekens;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;970919;BL1111;;970919;;;Cockerillkaai;1;;;;;Geert Stockman;MDU;0;6;1;7;BUILDING template
+ANTWERPEN-WEST - FH11;1800102;BL1110;;1800102;;;Cockerillkaai;11;;;;;Hidde Kiekens;MDU;0;9;0;9;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200012f15d97;;;NB-200012f15d97;;;Cockerillkaai;12;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;1800114;BL1110;;1800114;;;Cockerillkaai;13;;;;;Hidde Kiekens;MDU;0;9;0;9;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200014a4c748;;;NB-200014a4c748;;;Cockerillkaai;14;;;;;Hidde Kiekens;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1800136;BL1110;;1800136;;;Cockerillkaai;15;;;;;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;970914;BL1109;;970914;;;Cockerillkaai;16;;20200428155408;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1800171;BL1109;;1800171;;;Cockerillkaai;17;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;970913;BL1109;;970913;;;Cockerillkaai;18;;;XA;;Steffen Verhofsté;MDU;6;4;0;10;BUILDING template
+ANTWERPEN-WEST - FH11;1800053;BL1111;;1800053;;;Cockerillkaai;2;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;970912;BL1109;;970912;;;Cockerillkaai;22;;;X;;Steffen Verhofsté;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200023418b03;;;NB-200023418b03;;;Cockerillkaai;23;;;;;Maayken Vanfleteren;MDU;1;6;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;968686;BL1108;;968686;;;Cockerillkaai;25;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200026509b75;;;NB-200026509b75;;;Cockerillkaai;26;;;;;Maayken Vanfleteren;MDU;3;0;1;4;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200027e37681;;;NB-200027e37681;;;Cockerillkaai;27;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;1800066;BL1111;;1800066;;;Cockerillkaai;3;;;;;Geert Stockman;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;NB-2000324ad895;;;NB-2000324ad895;;;Cockerillkaai;32;;;;;Geert Stockman;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;1800259;BL1107;;1800259;;;Cockerillkaai;36;;;;;;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968688;BL1107;;968688;;;Cockerillkaai;37;;;XC;;Steffen Verhofsté;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970918;BL1111;;970918;;;Cockerillkaai;4;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;970917;BL1111;;970917;;;Cockerillkaai;5;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;970916;BL1111;;970916;;;Cockerillkaai;6;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970915;BL1110;;970915;;;Cockerillkaai;7;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;4516842;BL1110;;4516842;;;Cockerillkaai;8;;;;;Hidde Kiekens;SDU;0;1;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;969122;BL1115;;969122;;;De Burburestraat;1;;;;;Hidde Kiekens;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1785560;BL1116;;1785560;;;De Burburestraat;10;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785562;BL1115;;1785562;;;De Burburestraat;11;;;;;Hidde Kiekens;MDU;2;9;0;11;BUILDING template
+ANTWERPEN-WEST - FH11;1785578;BL1116;;1785578;;;De Burburestraat;12;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1785584;BL1115;;1785584;;;De Burburestraat;13;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1785591;BL1116;;1785591;;;De Burburestraat;14;;;;;Geert Stockman;MDU;0;7;0;7;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200014A5e80;;;NB-200014A5e80;;;De Burburestraat;14;A;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785594;BL1115;;1785594;;;De Burburestraat;15;;;;;Hidde Kiekens;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;1785598;BL1116;;1785598;;;De Burburestraat;16;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1506081;BL1115;;1506081;;;De Burburestraat;17;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1785607;BL1116;;1785607;;;De Burburestraat;18;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1785473;BL1116;;1785473;;;De Burburestraat;2;A;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;977823;BL1116;;977823;;;De Burburestraat;2;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;977825;BL1116;;977825;;;De Burburestraat;20;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;977826;BL1116;;977826;;;De Burburestraat;22;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785617;BL1116;;1785617;;;De Burburestraat;24;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785618;BL1115;;1785618;;;De Burburestraat;25;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;1785623;BL1116;;1785623;;;De Burburestraat;26;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785625;BL1116;;1785625;;;De Burburestraat;28;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1785628;BL1115;;1785628;;;De Burburestraat;29;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;1785641;BL1116;;1785641;;;De Burburestraat;30;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4201186;BL1116;;4201186;;;De Burburestraat;32;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1785646;BL1115;;1785646;;;De Burburestraat;33;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;1514324;BL1115;;1514324;;;De Burburestraat;37;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;1785485;BL1116;;1785485;;;De Burburestraat;4;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1785489;BL1116;;1785489;;;De Burburestraat;4;A;;;;Geert Stockman;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1785663;BL1115;;1785663;;;De Burburestraat;41;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;6454994;BL1115;;6454994;;;De Burburestraat;5;A;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1785490;BL1115;;1785490;;;De Burburestraat;5;;;;;Hidde Kiekens;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1785493;BL1116;;1785493;;;De Burburestraat;6;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5906036;BL1115;;5906036;;;De Burburestraat;7;A;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1785550;BL1116;;1785550;;;De Burburestraat;8;;;;;Geert Stockman;MDU;6;0;1;7;BUILDING template
+ANTWERPEN-WEST - FH11;968684;BL1105;;968684;;;De Gerlachekaai;1;;;XC;;Steffen Verhofsté;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;762443;BL1104;;762443;;;De Gerlachekaai;11;;;XC;;Steffen Verhofsté;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;3926659;BL1104;;3926659;;;De Gerlachekaai;13;;;XC;;Steffen Verhofsté;MDU;0;7;0;7;BUILDING template
+ANTWERPEN-WEST - FH11;3926668;BL1104;;3926668;;;De Gerlachekaai;14;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;1893608;BL1104;;1893608;;;De Gerlachekaai;17;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;968549;BL1102;;968549;;;De Gerlachekaai;37;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;977578;BL1118;;977578;;;Gentplaats;1;;;;;Hidde Kiekens;MDU;4;0;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977579;BL1118;;977579;;;Gentplaats;2;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977580;BL1118;;977580;;;Gentplaats;3;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1160389;BL1121;;1160389;;;Gentplaats;4;;;;;Hidde Kiekens;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1892021;BL1121;;1892021;;;Gentplaats;5;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1892048;BL1121;;1892048;;;Gentplaats;6;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1028387;BL1121;;1028387;;;Gentplaats;7;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1898934;BL1118;;1898934;;;Gijzelaarsstraat;10;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1898939;BL1118;;1898939;;;Gijzelaarsstraat;12;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1898949;BL1118;;1898949;;;Gijzelaarsstraat;14;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1898986;BL1118;;1898986;;;Gijzelaarsstraat;16;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899010;BL1118;;1899010;;;Gijzelaarsstraat;18;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;977592;BL1118;;977592;;;Gijzelaarsstraat;2;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;4518176;BL1118;;4518176;;;Gijzelaarsstraat;20;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899049;BL1118;;1899049;;;Gijzelaarsstraat;22;;;;;Hidde Kiekens;MDU;4;0;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1899083;BL1118;;1899083;;;Gijzelaarsstraat;24;;;;;Hidde Kiekens;MDU;0;1;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;1899089;BL1118;;1899089;;;Gijzelaarsstraat;26;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899109;BL1118;;1899109;;;Gijzelaarsstraat;28;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899122;BL1118;;1899122;;;Gijzelaarsstraat;30;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1899134;BL1118;;1899134;;;Gijzelaarsstraat;32;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1899138;BL1118;;1899138;;;Gijzelaarsstraat;34;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4249619;BL1118;;4249619;;;Gijzelaarsstraat;36;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1899183;BL1118;;1899183;;;Gijzelaarsstraat;38;;;;;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;1898919;BL1118;;1898919;;;Gijzelaarsstraat;4;;;;;Hidde Kiekens;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;4518172;BL1118;;4518172;;;Gijzelaarsstraat;40;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4518173;BL1118;;4518173;;;Gijzelaarsstraat;42;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899274;BL1118;;1899274;;;Gijzelaarsstraat;44;;;;;Hidde Kiekens;MDU;0;9;0;9;BUILDING template
+ANTWERPEN-WEST - FH11;1899319;BL1118;;1899319;;;Gijzelaarsstraat;46;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899341;BL1118;;1899341;;;Gijzelaarsstraat;48;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;4518174;BL1118;;4518174;;;Gijzelaarsstraat;50;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4518175;BL1118;;4518175;;;Gijzelaarsstraat;52;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899387;BL1118;;1899387;;;Gijzelaarsstraat;54;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1101716;BL1118;;1101716;;;Gijzelaarsstraat;56;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977593;BL1118;;977593;;;Gijzelaarsstraat;58;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4128036;BL1118;;4128036;;;Gijzelaarsstraat;6;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1028377;BL1119;;1028377;;;Gijzelaarsstraat;60;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;6431223;BL1119;;6431223;;;Gijzelaarsstraat;60;A;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4062342;BL1119;;4062342;;;Gijzelaarsstraat;62;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1899515;BL1119;;1899515;;;Gijzelaarsstraat;64;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1899523;BL1119;;1899523;;;Gijzelaarsstraat;66;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1899532;BL1119;;1899532;;;Gijzelaarsstraat;68;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1899550;BL1119;;1899550;;;Gijzelaarsstraat;74;;;;;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;1899555;BL1119;;1899555;;;Gijzelaarsstraat;76;;;;;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;1899562;BL1119;;1899562;;;Gijzelaarsstraat;78;;;;;Hidde Kiekens;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;1898933;BL1118;;1898933;;;Gijzelaarsstraat;8;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4517213;BL1119;;4517213;;;Gijzelaarsstraat;80;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4517215;BL1119;;4517215;;;Gijzelaarsstraat;82;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1028374;BL1119;;1028374;;;Gijzelaarsstraat;86;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977611;BL1118;;977611;;;Gillisplaats;7;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977612;BL1118;;977612;;;Gillisplaats;8;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1856750;BL1112;;1856750;;;Graaf van Egmontstraat;10;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1856791;BL1112;;1856791;;;Graaf van Egmontstraat;12;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1856814;BL1112;;1856814;;;Graaf van Egmontstraat;14;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;1856859;BL1112;;1856859;;;Graaf van Egmontstraat;16;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971817;BL1112;;971817;;;Graaf van Egmontstraat;18;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971814;BL1112;;971814;;;Graaf van Egmontstraat;2;;;;;Geert Stockman;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;971816;BL1112;;971816;;;Graaf van Egmontstraat;20;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1856935;BL1112;;1856935;;;Graaf van Egmontstraat;22;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1303250;BL1112;;1303250;;;Graaf van Egmontstraat;24;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1856996;BL1112;;1856996;;;Graaf van Egmontstraat;26;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1857025;BL1112;;1857025;;;Graaf van Egmontstraat;28;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1857040;BL1112;;1857040;;;Graaf van Egmontstraat;30;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4228392;BL1112;;4228392;;;Graaf van Egmontstraat;32;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1857074;BL1112;;1857074;;;Graaf van Egmontstraat;34;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1857110;BL1112;;1857110;;;Graaf van Egmontstraat;36;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1857128;BL1112;;1857128;;;Graaf van Egmontstraat;38;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4516999;BL1112;;4516999;;;Graaf van Egmontstraat;4;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1288039;BL1112;;1288039;;;Graaf van Egmontstraat;40;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;971815;BL1112;;971815;;;Graaf van Egmontstraat;40;A;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;1857189;BL1113;;1857189;;;Graaf van Egmontstraat;42;A;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971818;BL1113;;971818;;;Graaf van Egmontstraat;42;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;971813;BL1113;;971813;;;Graaf van Egmontstraat;44;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1857219;BL1113;;1857219;;;Graaf van Egmontstraat;46;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1857234;BL1113;;1857234;;;Graaf van Egmontstraat;48;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1857254;BL1113;;1857254;;;Graaf van Egmontstraat;50;;;;;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4517004;BL1113;;4517004;;;Graaf van Egmontstraat;52;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1857266;BL1113;;1857266;;;Graaf van Egmontstraat;54;;;;;Maayken Vanfleteren;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;1857290;BL1113;;1857290;;;Graaf van Egmontstraat;56;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4517005;BL1113;;4517005;;;Graaf van Egmontstraat;58;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;4517000;BL1112;;4517000;;;Graaf van Egmontstraat;6;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1101816;BL1112;;1101816;;;Graaf van Egmontstraat;8;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;968681;BL1107;;968681;;;IJzerenpoortkaai;1;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6082706;BL1107;;6082706;;;IJzerenpoortkaai;11;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1288309;BL1107;;1288309;;;IJzerenpoortkaai;2;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;1948421;BL1107;;1948421;;;IJzerenpoortkaai;3;;;;;Geert Stockman;MDU;5;0;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;1948435;BL1107;;1948435;;;IJzerenpoortkaai;7;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;1948438;BL1107;;1948438;;;IJzerenpoortkaai;8;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1948442;BL1107;;1948442;;;IJzerenpoortkaai;9;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;1892268;BL1119;;1892268;;;Jan van Gentstraat;13;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4049058;BL1119;;4049058;;;Jan van Gentstraat;15;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;5575584;BL1119;;5575584;;;Jan van Gentstraat;17;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1082715;BL1119;;1082715;;;Jan van Gentstraat;19;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1028380;BL1121;;1028380;;;Jan van Gentstraat;2;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;6362488;BL1121;;6362488;;;Jan van Gentstraat;2;A;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6308529;BL1120;;6308529;;;Jan van Gentstraat;20;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6609786;BL1119;;6609786;;;Jan van Gentstraat;21;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;5961115;BL1119;;5961115;;;Jan van Gentstraat;23;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6483421;BL1119;;6483421;;;Jan van Gentstraat;25;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;3926591;BL1119;;3926591;;;Jan van Gentstraat;27;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1892300;BL1119;;1892300;;;Jan van Gentstraat;29;;;;;Hidde Kiekens;MDU;0;23;0;23;BUILDING template
+ANTWERPEN-WEST - FH11;1892329;BL1119;;1892329;;;Jan van Gentstraat;31;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5320987;BL1119;;5320987;;;Jan van Gentstraat;39;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;762435;BL1105;;762435;;;Lakenstraat;1;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;4519091;BL1104;;4519091;;;Lakenstraat;10;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200014af1e33;;;NB-200014af1e33;;;Lakenstraat;14;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;762436;BL1104;;762436;;;Lakenstraat;16;;;;;Hidde Kiekens;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;6667253;BL1104;;6667253;;;Lakenstraat;18;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1979919;BL1105;;1979919;;;Lakenstraat;3;;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;1979925;BL1105;;1979925;;;Lakenstraat;3;A;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;1979932;BL1105;;1979932;;;Lakenstraat;3;B;;;;Geert Stockman;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;1979935;BL1105;;1979935;;;Lakenstraat;5;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;762438;BL1105;;762438;;;Lakenstraat;7;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;4519090;BL1104;;4519090;;;Lakenstraat;8;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062829;BL1114;;2062829;;;Leopold de Waelplaats;10;;;;;Maayken Vanfleteren;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2062830;BL1114;;2062830;;;Leopold de Waelplaats;12;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4518054;BL1114;;4518054;;;Leopold de Waelplaats;14;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;32822;BL1114;;32822;;;Leopold de Waelplaats;16;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;NB-20001801265;BL1114;;NB-20001801265;;;Leopold de Waelplaats;18;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5414528;BL1115;;5414528;;;Leopold de Waelplaats;22;A;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2062832;BL1115;;2062832;;;Leopold de Waelplaats;24;B;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;5576402;BL1115;;5576402;;;Leopold de Waelplaats;24;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;5373891;BL1115;;5373891;;;Leopold de Waelplaats;28;A;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;977830;BL1116;;977830;;;Leopold de Waelplaats;32;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;977829;BL1116;;977829;;;Leopold de Waelplaats;34;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970507;BL1114;;970507;;;Leopold de Waelplaats;4;;;;;Maayken Vanfleteren;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2062827;BL1114;;2062827;;;Leopold de Waelplaats;6;;;;;Maayken Vanfleteren;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2062828;BL1114;;2062828;;;Leopold de Waelplaats;8;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;971237;BL1109;;971237;;;Leuvenstraat;16;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6399232;BL1110;;6399232;;;Leuvenstraat;23;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4516817;BL1109;;4516817;;;Leuvenstraat;30;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200050cd148;;;NB-200050cd148;;Leuvenstraat 1-3-5-7-9;Leuvenstraat;5;;;;;Hidde Kiekens;MDU;0;7;0;7;BUILDING template
+ANTWERPEN-WEST - FH11;5383746;BL1110;;5383746;;;Leuvenstraat;76;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4214219;BL1107;;4214219;;;Luikstraat;10;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;NB-2000113cd986;;;NB-2000113cd986;;;Luikstraat;11;;;;;Maayken Vanfleteren;MDU;0;6;1;7;BUILDING template
+ANTWERPEN-WEST - FH11;968678;BL1107;;968678;;;Luikstraat;12;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;6667254;BL1107;;6667254;;;Luikstraat;4;A;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4073986;BL1107;;4073986;;;Luikstraat;4;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1993992;BL1107;;1993992;;;Luikstraat;6;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1993994;BL1108;;1993994;;;Luikstraat;7;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1993995;BL1107;;1993995;;;Luikstraat;8;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968676;BL1108;;968676;;;Luikstraat;9;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970514;BL1114;;970514;;;Museumstraat;1;;;;;Maayken Vanfleteren;MDU;3;2;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;969125;BL1115;;969125;;;Museumstraat;10;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970516;BL1114;;970516;;;Museumstraat;13;;;;;Maayken Vanfleteren;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2023855;BL1115;;2023855;;;Museumstraat;14;B;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2023858;BL1114;;2023858;;;Museumstraat;15;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;969127;BL1115;;969127;;;Museumstraat;16;;;;;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2023861;BL1114;;2023861;;;Museumstraat;17;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4518069;BL1114;;4518069;;;Museumstraat;19;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;969123;BL1115;;969123;;;Museumstraat;2;;;;;Hidde Kiekens;MDU;2;2;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2023866;BL1114;;2023866;;;Museumstraat;21;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2023868;BL1114;;2023868;;;Museumstraat;23;;;;;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2023870;BL1114;;2023870;;;Museumstraat;25;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2023874;BL1114;;2023874;;;Museumstraat;27;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2023876;BL1114;;2023876;;;Museumstraat;29;;;;;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1346848;BL1114;;1346848;;;Museumstraat;3;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4519891;BL1115;;4519891;;;Museumstraat;30;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2023881;BL1114;;2023881;;;Museumstraat;31;;;;;Maayken Vanfleteren;MDU;8;1;0;9;BUILDING template
+ANTWERPEN-WEST - FH11;2023892;BL1115;;2023892;;;Museumstraat;32;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;2023898;BL1114;;2023898;;;Museumstraat;35;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2023912;BL1114;;2023912;;;Museumstraat;37;;;;;Maayken Vanfleteren;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;2023915;BL1114;;2023915;;;Museumstraat;39;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1492179;BL1115;;1492179;;;Museumstraat;4;;;;;Hidde Kiekens;MDU;1;1;1;3;BUILDING template
+ANTWERPEN-WEST - FH11;2023925;BL1114;;2023925;;;Museumstraat;41;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2023929;BL1114;;2023929;;;Museumstraat;43;;;;;Maayken Vanfleteren;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2023933;BL1115;;2023933;;;Museumstraat;44;;;;;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;970513;BL1114;;970513;;;Museumstraat;45;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1326103;BL1114;;1326103;;;Museumstraat;5;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4519887;BL1115;;4519887;;;Museumstraat;6;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2023803;BL1114;;2023803;;;Museumstraat;7;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2023806;BL1115;;2023806;;;Museumstraat;8;;;;;Hidde Kiekens;MDU;2;3;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;970515;BL1114;;970515;;;Museumstraat;9;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2024597;BL1102;;2024597;;;Namenstraat;13;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4520325;BL1102;;4520325;;;Namenstraat;15;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2024600;BL1102;;2024600;;;Namenstraat;17;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968547;BL1102;;968547;;;Namenstraat;19;;;;;Maayken Vanfleteren;MDU;1;6;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;2024583;BL1102;;2024583;;;Namenstraat;3;;;;;Maayken Vanfleteren;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;6443039;BL1102;;6443039;;;Namenstraat;7;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2024587;BL1102;;2024587;;;Namenstraat;7;;;;;Maayken Vanfleteren;MDU;1;1;1;3;BUILDING template
+ANTWERPEN-WEST - FH11;977618;BL1118;;977618;;;Pacificatiestraat;1;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2038501;BL1119;;2038501;;;Pacificatiestraat;10;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200011Bb974;;;NB-200011Bb974;;;Pacificatiestraat;11;B;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2038504;BL1118;;2038504;;;Pacificatiestraat;11;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2038510;BL1119;;2038510;;;Pacificatiestraat;14;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;977614;BL1118;;977614;;;Pacificatiestraat;15;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1028391;BL1119;;1028391;;;Pacificatiestraat;16;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2038516;BL1118;;2038516;;;Pacificatiestraat;17;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2038522;BL1118;;2038522;;;Pacificatiestraat;19;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2038526;BL1118;;2038526;;;Pacificatiestraat;21;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;33404;BL1118;;33404;;;Pacificatiestraat;23;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;30249;BL1118;;30249;;;Pacificatiestraat;25;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1101708;BL1118;;1101708;;;Pacificatiestraat;3;;;;;Hidde Kiekens;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2038495;BL1119;;2038495;;;Pacificatiestraat;4;;;;;Hidde Kiekens;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;2038496;BL1118;;2038496;;;Pacificatiestraat;5;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4148046;BL1119;;4148046;;;Pacificatiestraat;6;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;977615;BL1118;;977615;;;Pacificatiestraat;7;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;4517268;BL1118;;4517268;;;Pacificatiestraat;8;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;977619;BL1118;;977619;;;Pacificatiestraat;9;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;977815;BL1116;;977815;;;Pourbusstraat;1;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1466296;BL1117;;1466296;;;Pourbusstraat;10;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4518834;BL1116;;4518834;;;Pourbusstraat;11;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2045452;BL1117;;2045452;;;Pourbusstraat;12;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2045453;BL1116;;2045453;;;Pourbusstraat;13;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2045454;BL1117;;2045454;;;Pourbusstraat;14;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2045455;BL1116;;2045455;;;Pourbusstraat;15;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2045456;BL1117;;2045456;;;Pourbusstraat;16;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2045457;BL1116;;2045457;;;Pourbusstraat;17;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2045458;BL1117;;2045458;;;Pourbusstraat;18;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2045459;BL1116;;2045459;;;Pourbusstraat;19;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2045444;BL1117;;2045444;;;Pourbusstraat;2;A;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;977814;BL1117;;977814;;;Pourbusstraat;2;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;4518843;BL1117;;4518843;;;Pourbusstraat;20;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2045460;BL1116;;2045460;;;Pourbusstraat;21;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2045461;BL1117;;2045461;;;Pourbusstraat;22;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2045462;BL1116;;2045462;;;Pourbusstraat;23;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2045463;BL1117;;2045463;;;Pourbusstraat;24;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977817;BL1116;;977817;;;Pourbusstraat;25;;;;;Geert Stockman;MDU;1;7;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;977816;BL1117;;977816;;;Pourbusstraat;26;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2045445;BL1116;;2045445;;;Pourbusstraat;3;;;;;Geert Stockman;MDU;1;6;0;7;BUILDING template
+ANTWERPEN-WEST - FH11;5861715;BL1116;;5861715;;;Pourbusstraat;31;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2045446;BL1117;;2045446;;;Pourbusstraat;4;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200054eba64;;;NB-200054eba64;;;Pourbusstraat;5;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2045448;BL1117;;2045448;;;Pourbusstraat;6;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2045449;BL1116;;2045449;;;Pourbusstraat;7;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2045450;BL1117;;2045450;;;Pourbusstraat;8;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2045451;BL1116;;2045451;;;Pourbusstraat;9;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;5770316;BL1103;;5770316;;;Schalienstraat;1;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2050232;BL1102;;2050232;;;Schalienstraat;10;;;;;Maayken Vanfleteren;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2050233;BL1102;;2050233;;;Schalienstraat;12;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;3928365;BL1102;;3928365;;;Schalienstraat;14;;;;;Maayken Vanfleteren;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2050234;BL1102;;2050234;;;Schalienstraat;16;;;;;Maayken Vanfleteren;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2050235;BL1102;;2050235;;;Schalienstraat;18;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;762422;BL1102;;762422;;;Schalienstraat;2;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;968543;BL1102;;968543;;;Schalienstraat;28;;;;;Maayken Vanfleteren;MDU;0;2;1;3;BUILDING template
+ANTWERPEN-WEST - FH11;762421;BL1103;;762421;;;Schalienstraat;31;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6326563;BL1102;;6326563;;;Schalienstraat;34;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;5576220;BL1102;;5576220;;;Schalienstraat;36;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;968545;BL1102;;968545;;;Schalienstraat;38;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;762423;BL1103;;762423;;;Schalienstraat;41;;;;;Maayken Vanfleteren;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2050230;BL1102;;2050230;;;Schalienstraat;6;;;;;Maayken Vanfleteren;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2050231;BL1102;;2050231;;;Schalienstraat;8;;;;;Maayken Vanfleteren;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;3928368;BL1111;;3928368;;;Scheldestraat;10;;;;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;2050501;BL1111;;2050501;;;Scheldestraat;12;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;2050503;BL1111;;2050503;;;Scheldestraat;14;;;;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;2050506;BL1111;;2050506;;;Scheldestraat;22;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;NB-20002421af14;;;NB-20002421af14;;;Scheldestraat;24;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2050509;BL1111;;2050509;;;Scheldestraat;26;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2050510;BL1111;;2050510;;;Scheldestraat;28;;;;;Geert Stockman;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2050512;BL1111;;2050512;;;Scheldestraat;30;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2050514;BL1111;;2050514;;;Scheldestraat;32;;;;;Geert Stockman;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;970904;BL1111;;970904;;;Scheldestraat;34;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970903;BL1111;;970903;;;Scheldestraat;36;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;971799;BL1112;;971799;;;Scheldestraat;38;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;970892;BL1111;;970892;;;Timmerwerfstraat;1;;;;;Geert Stockman;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2056918;BL1110;;2056918;;;Timmerwerfstraat;10;;;;;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH11;970888;BL1111;;970888;;;Timmerwerfstraat;11;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;971051;BL1110;;971051;;;Timmerwerfstraat;12;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970887;BL1111;;970887;;;Timmerwerfstraat;13;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;970885;BL1111;;970885;;;Timmerwerfstraat;15;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;970884;BL1111;;970884;;;Timmerwerfstraat;17;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;970882;BL1111;;970882;;;Timmerwerfstraat;19;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;970880;BL1111;;970880;;;Timmerwerfstraat;21;;;;;Geert Stockman;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;6518705;BL1111;;6518705;;;Timmerwerfstraat;29;A;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970877;BL1111;;970877;;;Timmerwerfstraat;29;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;970875;BL1111;;970875;;;Timmerwerfstraat;33;;;;;Geert Stockman;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;5403616;BL1110;;5403616;;;Timmerwerfstraat;36;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;971174;BL1110;;971174;;;Timmerwerfstraat;38;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2056916;BL1110;;2056916;;;Timmerwerfstraat;4;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970873;BL1110;;970873;;;Timmerwerfstraat;40;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5576321;BL1110;;5576321;;;Timmerwerfstraat;6;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2056917;BL1110;;2056917;;;Timmerwerfstraat;8;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971791;BL1113;;971791;;;Verlatstraat;1;;;;;Maayken Vanfleteren;MDU;1;7;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;970506;BL1114;;970506;;;Verlatstraat;12;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2060107;BL1114;;2060107;;;Verlatstraat;14;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;6443434;BL1113;;6443434;;;Verlatstraat;15;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;33410;BL1113;;33410;;;Verlatstraat;15;;;;;Maayken Vanfleteren;MDU;2;7;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;30322;BL1114;;30322;;;Verlatstraat;16;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;30326;BL1113;;30326;;;Verlatstraat;17;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;970501;BL1114;;970501;;;Verlatstraat;18;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060110;BL1113;;2060110;;;Verlatstraat;19;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970502;BL1114;;970502;;;Verlatstraat;2;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060111;BL1114;;2060111;;;Verlatstraat;20;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971793;BL1113;;971793;;;Verlatstraat;21;;;;;Maayken Vanfleteren;MDU;0;64;0;64;BUILDING template
+ANTWERPEN-WEST - FH11;2060116;BL1114;;2060116;;;Verlatstraat;24;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060118;BL1114;;2060118;;;Verlatstraat;26;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971794;BL1113;;971794;;;Verlatstraat;27;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060119;BL1114;;2060119;;;Verlatstraat;28;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060120;BL1113;;2060120;;;Verlatstraat;29;;;;;Maayken Vanfleteren;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060102;BL1113;;2060102;;;Verlatstraat;3;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060121;BL1114;;2060121;;;Verlatstraat;30;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2060122;BL1113;;2060122;;;Verlatstraat;31;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060123;BL1114;;2060123;;;Verlatstraat;32;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060124;BL1113;;2060124;;;Verlatstraat;33;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060125;BL1114;;2060125;;;Verlatstraat;34;;;;;Maayken Vanfleteren;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060126;BL1113;;2060126;;;Verlatstraat;35;;;;;Maayken Vanfleteren;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;2060127;BL1114;;2060127;;;Verlatstraat;36;;;;;Maayken Vanfleteren;MDU;1;3;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;1451319;BL1113;;1451319;;;Verlatstraat;37;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970500;BL1114;;970500;;;Verlatstraat;38;;;;;Maayken Vanfleteren;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060128;BL1114;;2060128;;;Verlatstraat;38;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4034391;BL1113;;4034391;;;Verlatstraat;39;;;;;Maayken Vanfleteren;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060103;BL1114;;2060103;;;Verlatstraat;4;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060104;BL1113;;2060104;;;Verlatstraat;5;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1277343;BL1114;;1277343;;;Verlatstraat;6;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;1482664;BL1113;;1482664;;;Verlatstraat;7;;;;;Maayken Vanfleteren;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200080dc374;;;NB-200080dc374;;;Verlatstraat;8;;;;;Maayken Vanfleteren;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060277;BL1116;;2060277;;;Verschansingstraat;10;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060279;BL1116;;2060279;;;Verschansingstraat;12;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060280;BL1116;;2060280;;;Verschansingstraat;14;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977806;BL1116;;977806;;;Verschansingstraat;18;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060286;BL1116;;2060286;;;Verschansingstraat;22;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;977804;BL1117;;977804;;;Verschansingstraat;24;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060290;BL1117;;2060290;;;Verschansingstraat;28;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4518838;BL1117;;4518838;;;Verschansingstraat;30;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060292;BL1117;;2060292;;;Verschansingstraat;32;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060293;BL1117;;2060293;;;Verschansingstraat;34;;;;;Geert Stockman;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;2060294;BL1117;;2060294;;;Verschansingstraat;36;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4518839;BL1117;;4518839;;;Verschansingstraat;38;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060272;BL1116;;2060272;;;Verschansingstraat;4;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060297;BL1117;;2060297;;;Verschansingstraat;40;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060299;BL1117;;2060299;;;Verschansingstraat;42;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060301;BL1117;;2060301;;;Verschansingstraat;44;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060303;BL1117;;2060303;;;Verschansingstraat;46;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060304;BL1117;;2060304;;;Verschansingstraat;48;;;;;Geert Stockman;MDU;1;5;0;6;BUILDING template
+ANTWERPEN-WEST - FH11;2060306;BL1117;;2060306;;;Verschansingstraat;50;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2060274;BL1116;;2060274;;;Verschansingstraat;6;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060276;BL1116;;2060276;;;Verschansingstraat;8;;;;;Geert Stockman;MDU;0;5;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;4519110;BL1104;;4519110;;;Verviersstraat;11;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2060368;BL1104;;2060368;;;Verviersstraat;15;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200017914078;;;NB-200017914078;;;Verviersstraat;17;;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;6339520;BL1103;;6339520;;;Verviersstraat;4;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4519108;BL1104;;4519108;;;Verviersstraat;5;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4519109;BL1104;;4519109;;;Verviersstraat;7;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2060367;BL1104;;2060367;;;Verviersstraat;9;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;968683;BL1105;;968683;;;Visserskaai;1;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;6582697;BL1105;;6582697;;;Visserskaai;10;A;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060966;BL1105;;2060966;;;Visserskaai;10;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;968682;BL1105;;968682;;;Visserskaai;11;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2060961;BL1105;;2060961;;;Visserskaai;2;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2060962;BL1105;;2060962;;;Visserskaai;3;;;;;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;2060963;BL1105;;2060963;;;Visserskaai;4;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060964;BL1105;;2060964;;;Visserskaai;8;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060965;BL1105;;2060965;;;Visserskaai;9;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;971805;BL1112;;971805;;;Vlaamsekaai;1;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060972;BL1112;;2060972;;;Vlaamsekaai;10;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;971808;BL1112;;971808;;;Vlaamsekaai;11;;;;;Geert Stockman;MDU;3;0;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;971809;BL1112;;971809;;;Vlaamsekaai;12;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4190566;BL1112;;4190566;;;Vlaamsekaai;13;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060973;BL1112;;2060973;;;Vlaamsekaai;14;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4517021;BL1112;;4517021;;;Vlaamsekaai;15;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971810;BL1112;;971810;;;Vlaamsekaai;16;;;;;Geert Stockman;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;971800;BL1113;;971800;;;Vlaamsekaai;17;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4517007;BL1113;;4517007;;;Vlaamsekaai;18;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2060974;BL1113;;2060974;;;Vlaamsekaai;19;;;;;Maayken Vanfleteren;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;2060967;BL1112;;2060967;;;Vlaamsekaai;2;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060975;BL1113;;2060975;;;Vlaamsekaai;20;;;;;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4517008;BL1113;;4517008;;;Vlaamsekaai;21;;;;;Maayken Vanfleteren;MDU;1;3;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;2060976;BL1113;;2060976;;;Vlaamsekaai;23;;;;;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060977;BL1113;;2060977;;;Vlaamsekaai;24;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4517012;BL1113;;4517012;;;Vlaamsekaai;25;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;971802;BL1113;;971802;;;Vlaamsekaai;26;;;;;Maayken Vanfleteren;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;970510;BL1114;;970510;;;Vlaamsekaai;27;;;;;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2060968;BL1112;;2060968;;;Vlaamsekaai;3;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970509;BL1114;;970509;;;Vlaamsekaai;32;;;;;Maayken Vanfleteren;MDU;1;2;1;4;BUILDING template
+ANTWERPEN-WEST - FH11;969130;BL1115;;969130;;;Vlaamsekaai;33;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2060986;BL1115;;2060986;;;Vlaamsekaai;34;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2060987;BL1115;;2060987;;;Vlaamsekaai;35;;;;;Hidde Kiekens;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;4518060;BL1115;;4518060;;;Vlaamsekaai;37;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060988;BL1115;;2060988;;;Vlaamsekaai;39;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4516998;BL1112;;4516998;;;Vlaamsekaai;4;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;969131;BL1115;;969131;;;Vlaamsekaai;40;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;969129;BL1115;;969129;;;Vlaamsekaai;41;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;977822;BL1116;;977822;;;Vlaamsekaai;42;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060989;BL1116;;2060989;;;Vlaamsekaai;43;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060990;BL1116;;2060990;;;Vlaamsekaai;44;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060991;BL1116;;2060991;;;Vlaamsekaai;45;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060994;BL1116;;2060994;;;Vlaamsekaai;46;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2060995;BL1116;;2060995;;;Vlaamsekaai;47;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2060996;BL1116;;2060996;;;Vlaamsekaai;48;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;1483358;BL1116;;1483358;;;Vlaamsekaai;49;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060969;BL1112;;2060969;;;Vlaamsekaai;5;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;977821;BL1116;;977821;;;Vlaamsekaai;50;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;977820;BL1117;;977820;;;Vlaamsekaai;52;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2060998;BL1117;;2060998;;;Vlaamsekaai;53;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;5576376;BL1117;;5576376;;;Vlaamsekaai;54;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2061002;BL1117;;2061002;;;Vlaamsekaai;55;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2061003;BL1117;;2061003;;;Vlaamsekaai;56;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;977819;BL1117;;977819;;;Vlaamsekaai;57;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2061005;BL1117;;2061005;;;Vlaamsekaai;58;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2061006;BL1117;;2061006;;;Vlaamsekaai;59;;;;;Geert Stockman;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;971804;BL1112;;971804;;;Vlaamsekaai;6;;;;;Geert Stockman;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2061007;BL1117;;2061007;;;Vlaamsekaai;61;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977818;BL1117;;977818;;;Vlaamsekaai;62;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977583;BL1118;;977583;;;Vlaamsekaai;64;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061008;BL1118;;2061008;;;Vlaamsekaai;65;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2061009;BL1118;;2061009;;;Vlaamsekaai;66;;;;;Hidde Kiekens;MDU;0;9;0;9;BUILDING template
+ANTWERPEN-WEST - FH11;1513866;BL1118;;1513866;;;Vlaamsekaai;67;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2061010;BL1118;;2061010;;;Vlaamsekaai;68;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2061011;BL1118;;2061011;;;Vlaamsekaai;69;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;971806;BL1112;;971806;;;Vlaamsekaai;7;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;3928577;BL1118;;3928577;;;Vlaamsekaai;70;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061012;BL1118;;2061012;;;Vlaamsekaai;71;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061013;BL1118;;2061013;;;Vlaamsekaai;72;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061014;BL1118;;2061014;;;Vlaamsekaai;73;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;977582;BL1118;;977582;;;Vlaamsekaai;74;;;;;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH11;977585;BL1118;;977585;;;Vlaamsekaai;75;;;;;Hidde Kiekens;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2061015;BL1118;;2061015;;;Vlaamsekaai;76;;;;;Hidde Kiekens;MDU;5;0;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;977587;BL1118;;977587;;;Vlaamsekaai;77;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061017;BL1118;;2061017;;;Vlaamsekaai;78;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061018;BL1118;;2061018;;;Vlaamsekaai;79;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2060971;BL1112;;2060971;;;Vlaamsekaai;8;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;977588;BL1118;;977588;;;Vlaamsekaai;80;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;977581;BL1118;;977581;;;Vlaamsekaai;81;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2061020;BL1118;;2061020;;;Vlaamsekaai;82;;;;;Hidde Kiekens;MDU;3;4;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;5576377;BL1118;;5576377;;;Vlaamsekaai;83;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;977589;BL1118;;977589;;;Vlaamsekaai;84;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061022;BL1118;;2061022;;;Vlaamsekaai;85;;;;;Hidde Kiekens;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2061023;BL1118;;2061023;;;Vlaamsekaai;86;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061024;BL1118;;2061024;;;Vlaamsekaai;87;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2061025;BL1118;;2061025;;;Vlaamsekaai;88;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;977590;BL1118;;977590;;;Vlaamsekaai;89;;;;;Hidde Kiekens;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;971807;BL1112;;971807;;;Vlaamsekaai;9;;;;;Geert Stockman;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;977586;BL1118;;977586;;;Vlaamsekaai;90;;;;;Hidde Kiekens;MDU;8;0;1;9;BUILDING template
+ANTWERPEN-WEST - FH11;1028385;BL1121;;1028385;;;Vlaamsekaai;92;;;;;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200093330198;;;NB-200093330198;;;Vlaamsekaai;93;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;NB-20009330792;;;NB-20009330792;;;Vlaamsekaai;93;;;;;Filip Van Dyck;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971796;BL1112;;971796;;;Vorstermanstraat;1;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971797;BL1112;;971797;;;Vorstermanstraat;11;;;;;Geert Stockman;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;2061802;BL1113;;2061802;;;Vorstermanstraat;12;;;;;Maayken Vanfleteren;MDU;3;8;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;1333345;BL1113;;1333345;;;Vorstermanstraat;14;;;;;Maayken Vanfleteren;MDU;3;8;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;2061804;BL1113;;2061804;;;Vorstermanstraat;16;;;;;Maayken Vanfleteren;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;4517017;BL1113;;4517017;;;Vorstermanstraat;18;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971795;BL1113;;971795;;;Vorstermanstraat;2;;;;;Maayken Vanfleteren;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971798;BL1113;;971798;;;Vorstermanstraat;20;;;;;Maayken Vanfleteren;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;4517026;BL1112;;4517026;;;Vorstermanstraat;3;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200045d1f63;;;NB-200045d1f63;;Verlatstraat 9_Vorstermanstraat 4-6-8-10;Vorstermanstraat;4;;;;;Maayken Vanfleteren;MDU;1;6;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;5303336;BL1112;;5303336;;;Vorstermanstraat;5;A;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;1289945;BL1112;;1289945;;;Vorstermanstraat;5;;;;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;2061798;BL1112;;2061798;;;Vorstermanstraat;7;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2061800;BL1113;;2061800;;Verlatstraat 9_Vorstermanstraat 4-6-8-10;Vorstermanstraat;8;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2061801;BL1112;;2061801;;;Vorstermanstraat;9;;;;;Geert Stockman;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH11;2062531;BL1111;;2062531;;Verlatstraat 9_Vorstermanstraat 4-6-8-10;Waalsekaai;10;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970929;BL1111;;970929;;;Waalsekaai;11;;;;;Geert Stockman;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;970928;BL1110;;970928;;;Waalsekaai;14;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062532;BL1110;;2062532;;;Waalsekaai;15;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;5321929;BL1110;;5321929;;;Waalsekaai;16;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;971228;BL1110;;971228;;;Waalsekaai;17;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062533;BL1110;;2062533;;;Waalsekaai;18;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062534;BL1110;;2062534;;;Waalsekaai;19;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;6626034;BL1110;;6626034;;;Waalsekaai;19;A;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062535;BL1110;;2062535;;;Waalsekaai;20;;;;;Hidde Kiekens;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2062536;BL1110;;2062536;;;Waalsekaai;21;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;4074677;BL1110;;4074677;;;Waalsekaai;22;;;;;Hidde Kiekens;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;970927;BL1110;;970927;;;Waalsekaai;23;;;;;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;NB-2000244fd584;;;NB-2000244fd584;;;Waalsekaai;24;;;;;Hidde Kiekens;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062537;BL1108;;2062537;;;Waalsekaai;25;;;;;Maayken Vanfleteren;MDU;2;0;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2062538;BL1108;;2062538;;;Waalsekaai;26;;;;;Maayken Vanfleteren;SDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062539;BL1108;;2062539;;;Waalsekaai;27;;;;;Maayken Vanfleteren;MDU;2;1;1;4;BUILDING template
+ANTWERPEN-WEST - FH11;2062540;BL1108;;2062540;;;Waalsekaai;27;B;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;968667;BL1108;;968667;;;Waalsekaai;28;;;;;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;968663;BL1107;;968663;;;Waalsekaai;29;;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;2062541;BL1107;;2062541;;;Waalsekaai;30;;;;;Geert Stockman;MDU;0;4;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2062542;BL1107;;2062542;;;Waalsekaai;31;;;;;Geert Stockman;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH11;2062543;BL1107;;2062543;;;Waalsekaai;32;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;2062544;BL1107;;2062544;;;Waalsekaai;33;;;;;Geert Stockman;MDU;2;1;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;968664;BL1105;;968664;;;Waalsekaai;36;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2062546;BL1105;;2062546;;;Waalsekaai;37;;;;;Geert Stockman;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;6330869;BL1105;;6330869;;;Waalsekaai;38;A;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;968670;BL1105;;968670;;;Waalsekaai;38;;;;;Geert Stockman;MDU;1;4;1;6;BUILDING template
+ANTWERPEN-WEST - FH11;NB-200039bfa562;;;NB-200039bfa562;;;Waalsekaai;39;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062547;BL1105;;2062547;;;Waalsekaai;40;;;;;Geert Stockman;MDU;1;31;1;33;BUILDING template
+ANTWERPEN-WEST - FH11;6525263;BL1105;;6525263;;;Waalsekaai;41;;;;;Geert Stockman;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;4268511;BL1105;;4268511;;;Waalsekaai;42;A;;;;Geert Stockman;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH11;968669;BL1105;;968669;;;Waalsekaai;42;;;;;Geert Stockman;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968665;BL1105;;968665;;;Waalsekaai;43;;;;;Geert Stockman;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;762413;BL1104;;762413;;;Waalsekaai;44;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;6068451;BL1104;;6068451;;;Waalsekaai;45;A;;;;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4519096;BL1104;;4519096;;;Waalsekaai;45;;;;;Hidde Kiekens;MDU;0;5;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;4519114;BL1104;;4519114;;;Waalsekaai;46;;;;;Hidde Kiekens;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2062548;BL1104;;2062548;;;Waalsekaai;47;;;;;Hidde Kiekens;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;762417;BL1103;;762417;;;Waalsekaai;52;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;762419;BL1103;;762419;;;Waalsekaai;53;;;;;Maayken Vanfleteren;MDU;1;4;0;5;BUILDING template
+ANTWERPEN-WEST - FH11;1101504;BL1102;;1101504;;;Waalsekaai;56;;;;;Maayken Vanfleteren;MDU;1;2;0;3;BUILDING template
+ANTWERPEN-WEST - FH11;2062551;BL1102;;2062551;;;Waalsekaai;57;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;6460902;BL1102;;6460902;;;Waalsekaai;57;A;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;4520311;BL1102;;4520311;;;Waalsekaai;58;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;2062553;BL1102;;2062553;;;Waalsekaai;59;;;;;Maayken Vanfleteren;MDU;1;3;0;4;BUILDING template
+ANTWERPEN-WEST - FH11;2062526;BL1111;;2062526;;;Waalsekaai;6;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;2062554;BL1102;;2062554;;;Waalsekaai;60;;;;;Maayken Vanfleteren;MDU;2;7;1;10;BUILDING template
+ANTWERPEN-WEST - FH11;6444355;BL1102;;6444355;;;Waalsekaai;60;A;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;2062556;BL1102;;2062556;;;Waalsekaai;61;;20200428155419;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;1101514;BL1102;;1101514;;;Waalsekaai;62;;20200428155419;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;6086676;BL1102;;6086676;;;Waalsekaai;65;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;990358;BL1111;;990358;;;Waalsekaai;7;;;;;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH11;2062530;BL1111;;2062530;;;Waalsekaai;8;;;;;Geert Stockman;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH11;NB-20001487f646;;;NB-20001487f646;;;Wapenstraat;14;;;;;Maayken Vanfleteren;MDU;6;0;1;7;BUILDING template
+ANTWERPEN-WEST - FH11;2063175;BL1108;;2063175;;;Wapenstraat;16;;;;;Maayken Vanfleteren;SDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH11;968672;BL1108;;968672;;;Wapenstraat;18;;;;;Maayken Vanfleteren;SDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH11;968673;BL1108;;968673;;;Wapenstraat;2;;;XC;;Steffen Verhofsté;MDU;3;3;1;7;BUILDING template

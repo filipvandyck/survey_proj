@@ -1,0 +1,106 @@
+OpdrachtID;Projectnummer;Straat;Huisnummer;Huisnummer Toevoeging;Postcode;Plaats;xPos;yPos;Opdrachtnummer;LAM MK;Opdrachttemplate;Adres
+873479;Knokke - FH10;Anemonenlaan;11;;;Knokke;72571,0;226274,0;NB-1101403;NB-1101403;BUILDING template;Anemonenlaan 11  Knokke
+873480;Knokke - FH10;Arcadelaan;2;;;Knokke;73170,33;226335,4;NB-201404;NB-201404;BUILDING template;Arcadelaan 2  Knokke
+873481;Knokke - FH10;Bocheldreef;3;;;Knokke;73007,0;226537,0;NB-301405;NB-301405;BUILDING template;Bocheldreef 3  Knokke
+873482;Knokke - FH10;Bocheldreef;11;;;Knokke;72974,0;226523,0;NB-1101406;NB-1101406;BUILDING template;Bocheldreef 11  Knokke
+873483;Knokke - FH10;Brieshelling;7;;;Knokke;72757,0;226688,0;NB-701407;NB-701407;BUILDING template;Brieshelling 7  Knokke
+873484;Knokke - FH10;Duinbergenlaan;59;;;Knokke;72853,0;226276,0;NB-5901408;NB-5901408;BUILDING template;Duinbergenlaan 59  Knokke
+873485;Knokke - FH10;Duinbergenlaan;87;;;Knokke;72746,0;226502,0;NB-8701409;NB-8701409;BUILDING template;Duinbergenlaan 87  Knokke
+873486;Knokke - FH10;Duinbergenlaan;105;;;Knokke;72653,0;226601,0;NB-10501410;NB-10501410;BUILDING template;Duinbergenlaan 105  Knokke
+873487;Knokke - FH10;Duinbergenlaan;113;;;Knokke;72641,0;226629,0;NB-11301411;NB-11301411;BUILDING template;Duinbergenlaan 113  Knokke
+873488;Knokke - FH10;Duinbergenlaan;115;;;Knokke;72638,0;226636,0;NB-11501412;NB-11501412;BUILDING template;Duinbergenlaan 115  Knokke
+873489;Knokke - FH10;Duinendreef;26;;;Knokke;72776,0;226407,0;NB-2601413;NB-2601413;BUILDING template;Duinendreef 26  Knokke
+873490;Knokke - FH10;Duinendreef;39;;;Knokke;72913,43;226448,58;NB-3901414;NB-3901414;BUILDING template;Duinendreef 39  Knokke
+873491;Knokke - FH10;Duinendreef;43;;;Knokke;72920,0;226450,0;NB-4301415;NB-4301415;BUILDING template;Duinendreef 43  Knokke
+873492;Knokke - FH10;Duinendreef;46;;;Knokke;72886,0;226410,0;NB-4601416;NB-4601416;BUILDING template;Duinendreef 46  Knokke
+873493;Knokke - FH10;Duinendreef;47;;;Knokke;72925,0;226453,0;NB-4701417;NB-4701417;BUILDING template;Duinendreef 47  Knokke
+873494;Knokke - FH10;Elizabetlaan;245;;;Knokke;73245,0;226596,0;NB-24501418;NB-24501418;BUILDING template;Elizabetlaan 245  Knokke
+873495;Knokke - FH10;Elizabetlaan;249;;;Knokke;73207,37;226537,01;NB-24901419;NB-24901419;BUILDING template;Elizabetlaan 249  Knokke
+873496;Knokke - FH10;Elizabetlaan;283;;;Knokke;72846,0;226270,0;NB-28301420;NB-28301420;BUILDING template;Elizabetlaan 283  Knokke
+873497;Knokke - FH10;Elizabetlaan;323;;;Knokke;72245,0;226163,0;NB-32301421;NB-32301421;BUILDING template;Elizabetlaan 323  Knokke
+873498;Knokke - FH10;Engelsestraat;1;;;Knokke;72777,0;226686,0;NB-101422;NB-101422;BUILDING template;Engelsestraat 1  Knokke
+873499;Knokke - FH10;Engelsestraat;3;;;Knokke;72782,0;226686,0;NB-301423;NB-301423;BUILDING template;Engelsestraat 3  Knokke
+873500;Knokke - FH10;Florapad;2;A;;Knokke;72567,0;226347,0;NB-2A01424;NB-2A01424;BUILDING template;Florapad 2 A Knokke
+873501;Knokke - FH10;Florapad;2;C;;Knokke;72572,0;226347,0;NB-2C01425;NB-2C01425;BUILDING template;Florapad 2 C Knokke
+873502;Knokke - FH10;Florapad;2;D;;Knokke;72572,0;226347,0;NB-2D01426;NB-2D01426;BUILDING template;Florapad 2 D Knokke
+873503;Knokke - FH10;Florapad;2;E;;Knokke;72572,0;226347,0;NB-2E01427;NB-2E01427;BUILDING template;Florapad 2 E Knokke
+873504;Knokke - FH10;Florapad;2;F;;Knokke;72572,0;226347,0;NB-2F01428;NB-2F01428;BUILDING template;Florapad 2 F Knokke
+873505;Knokke - FH10;Florapad;2;G;;Knokke;72572,0;226347,0;NB-2G01429;NB-2G01429;BUILDING template;Florapad 2 G Knokke
+873506;Knokke - FH10;Florapad;2;H;;Knokke;72572,0;226347,0;NB-2H01430;NB-2H01430;BUILDING template;Florapad 2 H Knokke
+873507;Knokke - FH10;Florapad;2;I;;Knokke;72572,0;226347,0;NB-2I01431;NB-2I01431;BUILDING template;Florapad 2 I Knokke
+873508;Knokke - FH10;Florapad;5;;;Knokke;72601,0;226321,0;NB-501432;NB-501432;BUILDING template;Florapad 5  Knokke
+873509;Knokke - FH10;Gallischpad;6;;;Knokke;72935,0;226613,0;NB-601433;NB-601433;BUILDING template;Gallischpad 6  Knokke
+873510;Knokke - FH10;Hazenpad;1;;;Knokke;72601,0;226345,0;NB-101434;NB-101434;BUILDING template;Hazenpad 1  Knokke
+873511;Knokke - FH10;Jozef Nellenslaan;6;;;Knokke;73040,99;226484,71;NB-601435;NB-601435;BUILDING template;Jozef Nellenslaan 6  Knokke
+873512;Knokke - FH10;Jozef Nellenslaan;47;;;Knokke;73296,0;226763,0;NB-4701436;NB-4701436;BUILDING template;Jozef Nellenslaan 47  Knokke
+873513;Knokke - FH10;Klaprozenpad;6;;;Knokke;72979,57;226613,63;NB-601437;NB-601437;BUILDING template;Klaprozenpad 6  Knokke
+873515;Knokke - FH10;Kruindreef;5;;;Knokke;73061,0;226610,0;NB-501438;NB-501438;BUILDING template;Kruindreef 5  Knokke
+873516;Knokke - FH10;Kruindreef;5;A;;Knokke;73066,0;226610,0;NB-5A01439;NB-5A01439;BUILDING template;Kruindreef 5 A Knokke
+873517;Knokke - FH10;Kruindreef;7;;;Knokke;73078,0;226622,0;NB-701440;NB-701440;BUILDING template;Kruindreef 7  Knokke
+873518;Knokke - FH10;Kruindreef;7;A;;Knokke;73083,0;226622,0;NB-7A01441;NB-7A01441;BUILDING template;Kruindreef 7 A Knokke
+873519;Knokke - FH10;Leeuwerikenlaan;11;;;Knokke;73188,0;226706,0;NB-1101442;NB-1101442;BUILDING template;Leeuwerikenlaan 11  Knokke
+873520;Knokke - FH10;Leeuwerikenlaan;13;;;Knokke;73227,7;226668,18;NB-1301443;NB-1301443;BUILDING template;Leeuwerikenlaan 13  Knokke
+873521;Knokke - FH10;Lommergang;3;;;Knokke;72953,0;226403,0;NB-301444;NB-301444;BUILDING template;Lommergang 3  Knokke
+873522;Knokke - FH10;Lommergang;5;;;Knokke;72953,0;226389,0;NB-501445;NB-501445;BUILDING template;Lommergang 5  Knokke
+873523;Knokke - FH10;Lommergang;7;;;Knokke;72948,0;226419,0;NB-701446;NB-701446;BUILDING template;Lommergang 7  Knokke
+873524;Knokke - FH10;Lommergang;8;;;Knokke;72996,0;226365,0;NB-801447;NB-801447;BUILDING template;Lommergang 8  Knokke
+873525;Knokke - FH10;Majoor Quaillestraat;2;;;Knokke;72965,0;226800,0;NB-201448;NB-201448;BUILDING template;Majoor Quaillestraat 2  Knokke
+873526;Knokke - FH10;Majoor Quaillestraat;10;;;Knokke;72987,0;226721,0;NB-1001449;NB-1001449;BUILDING template;Majoor Quaillestraat 10  Knokke
+873527;Knokke - FH10;Margrietenpad;14;A;;Knokke;73264,33;226445,04;NB-14A01450;NB-14A01450;BUILDING template;Margrietenpad 14 A Knokke
+873528;Knokke - FH10;Margrietenpad;14;B;;Knokke;73269,33;226445,04;NB-14B01451;NB-14B01451;BUILDING template;Margrietenpad 14 B Knokke
+873529;Knokke - FH10;Meeuwendreef;2;;;Knokke;72837,0;226277,0;NB-201452;NB-201452;BUILDING template;Meeuwendreef 2  Knokke
+873530;Knokke - FH10;Meeuwendreef;8;A;;Knokke;72788,0;226326,0;NB-8A01453;NB-8A01453;BUILDING template;Meeuwendreef 8 A Knokke
+873531;Knokke - FH10;Mimosastraat;16;;;Knokke;72618,0;226577,0;NB-1601454;NB-1601454;BUILDING template;Mimosastraat 16  Knokke
+873532;Knokke - FH10;Patriottenstraat;2;;;Knokke;72631,0;226620,0;NB-201455;NB-201455;BUILDING template;Patriottenstraat 2  Knokke
+873533;Knokke - FH10;Patriottenstraat;7;A;;Knokke;72419,54;226535,44;NB-7A01456;NB-7A01456;BUILDING template;Patriottenstraat 7 A Knokke
+873534;Knokke - FH10;Patriottenstraat;8;;;Knokke;72624,0;226618,0;NB-801457;NB-801457;BUILDING template;Patriottenstraat 8  Knokke
+873535;Knokke - FH10;Patriottenstraat;12;;;Knokke;72618,0;226615,0;NB-1201458;NB-1201458;BUILDING template;Patriottenstraat 12  Knokke
+873536;Knokke - FH10;Patriottenstraat;14;;;Knokke;72612,0;226614,0;NB-1401459;NB-1401459;BUILDING template;Patriottenstraat 14  Knokke
+873537;Knokke - FH10;Patriottenstraat;18;;;Knokke;72607,0;226611,0;NB-1801460;NB-1801460;BUILDING template;Patriottenstraat 18  Knokke
+873538;Knokke - FH10;Patriottenstraat;34;;;Knokke;72560,0;226591,0;NB-3401461;NB-3401461;BUILDING template;Patriottenstraat 34  Knokke
+873539;Knokke - FH10;Patriottenstraat;38;;;Knokke;72535,82;226581,8;NB-3801462;NB-3801462;BUILDING template;Patriottenstraat 38  Knokke
+873540;Knokke - FH10;Patriottenstraat;42;;;Knokke;72526,0;226579,0;NB-4201463;NB-4201463;BUILDING template;Patriottenstraat 42  Knokke
+873541;Knokke - FH10;Patriottenstraat;54;;;Knokke;72485,0;226561,0;NB-5401464;NB-5401464;BUILDING template;Patriottenstraat 54  Knokke
+873542;Knokke - FH10;Patriottenstraat;58;;;Knokke;72490,0;226561,0;NB-5801465;NB-5801465;BUILDING template;Patriottenstraat 58  Knokke
+873543;Knokke - FH10;Patriottenstraat;60;;;Knokke;72473,0;226554,0;NB-6001466;NB-6001466;BUILDING template;Patriottenstraat 60  Knokke
+873544;Knokke - FH10;Petunialaan;6;;;Knokke;72885,0;226524,0;NB-601467;NB-601467;BUILDING template;Petunialaan 6  Knokke
+873545;Knokke - FH10;Petunialaan;10;;;Knokke;72887,18;226561,08;NB-1001468;NB-1001468;BUILDING template;Petunialaan 10  Knokke
+873546;Knokke - FH10;Petunialaan;18;;;Knokke;72879,0;226617,0;NB-1801469;NB-1801469;BUILDING template;Petunialaan 18  Knokke
+873547;Knokke - FH10;Petunialaan;22;;;Knokke;72886,0;226619,0;NB-2201470;NB-2201470;BUILDING template;Petunialaan 22  Knokke
+873548;Knokke - FH10;Petunialaan;30;;;Knokke;72930,0;226633,0;NB-3001471;NB-3001471;BUILDING template;Petunialaan 30  Knokke
+873549;Knokke - FH10;Phillippartpad;1;;;Knokke;73115,0;226703,0;NB-101472;NB-101472;BUILDING template;Phillippartpad 1  Knokke
+873550;Knokke - FH10;Phillippartpad;3;;;Knokke;73120,0;226703,0;NB-301473;NB-301473;BUILDING template;Phillippartpad 3  Knokke
+873551;Knokke - FH10;Poststraat;10;;;Knokke;72896,0;226473,0;NB-1001474;NB-1001474;BUILDING template;Poststraat 10  Knokke
+873552;Knokke - FH10;Poststraat;16;;;Knokke;72905,0;226471,0;NB-1601475;NB-1601475;BUILDING template;Poststraat 16  Knokke
+873553;Knokke - FH10;Poststraat;20;;;Knokke;72910,0;226470,0;NB-2001476;NB-2001476;BUILDING template;Poststraat 20  Knokke
+873554;Knokke - FH10;Zeedijk-Duinbergen;300;A;;Knokke;72421,22;226538,75;NB-300A01477;NB-300A01477;BUILDING template;Zeedijk-Duinbergen 300 A Knokke
+873555;Knokke - FH10;Zeedijk-Duinbergen;300;B;;Knokke;72426,22;226538,75;NB-300B01478;NB-300B01478;BUILDING template;Zeedijk-Duinbergen 300 B Knokke
+873556;Knokke - FH10;Zeedijk-Duinbergen;304;;;Knokke;72437,0;226558,0;NB-30401479;NB-30401479;BUILDING template;Zeedijk-Duinbergen 304  Knokke
+873557;Knokke - FH10;Zeedijk-Duinbergen;307;;;Knokke;72448,0;226570,0;NB-30701480;NB-30701480;BUILDING template;Zeedijk-Duinbergen 307  Knokke
+873558;Knokke - FH10;Zeedijk-Duinbergen;309;;;Knokke;72454,48;226578,53;NB-30901481;NB-30901481;BUILDING template;Zeedijk-Duinbergen 309  Knokke
+873559;Knokke - FH10;Zeedijk-Duinbergen;314;;;Knokke;72490,0;226611,0;NB-31401482;NB-31401482;BUILDING template;Zeedijk-Duinbergen 314  Knokke
+873560;Knokke - FH10;Zeedijk-Duinbergen;315;;;Knokke;72495,0;226611,0;NB-31501483;NB-31501483;BUILDING template;Zeedijk-Duinbergen 315  Knokke
+873561;Knokke - FH10;Zeedijk-Duinbergen;317;;;Knokke;72508,0;226618,0;NB-31701484;NB-31701484;BUILDING template;Zeedijk-Duinbergen 317  Knokke
+873562;Knokke - FH10;Zeedijk-Duinbergen;327;;;Knokke;72548,0;226634,0;NB-32701485;NB-32701485;BUILDING template;Zeedijk-Duinbergen 327  Knokke
+873563;Knokke - FH10;Zeedijk-Duinbergen;330;;;Knokke;72565,0;226641,0;NB-33001486;NB-33001486;BUILDING template;Zeedijk-Duinbergen 330  Knokke
+873564;Knokke - FH10;Zeedijk-Duinbergen;333;;;Knokke;72588,0;226649,0;NB-33301487;NB-33301487;BUILDING template;Zeedijk-Duinbergen 333  Knokke
+873565;Knokke - FH10;Zeedijk-Duinbergen;389;;;Knokke;72783,0;226732,0;NB-38901488;NB-38901488;BUILDING template;Zeedijk-Duinbergen 389  Knokke
+873566;Knokke - FH10;Zeedijk-Duinbergen;392;;;Knokke;72788,0;226732,0;NB-39201489;NB-39201489;BUILDING template;Zeedijk-Duinbergen 392  Knokke
+873567;Knokke - FH10;Zeedijk-Duinbergen;395;;;Knokke;72798,0;226739,0;NB-39501490;NB-39501490;BUILDING template;Zeedijk-Duinbergen 395  Knokke
+873568;Knokke - FH10;Zeedijk-Duinbergen;395;A;;Knokke;72803,0;226739,0;NB-395A01491;NB-395A01491;BUILDING template;Zeedijk-Duinbergen 395 A Knokke
+873569;Knokke - FH10;Zeedijk-Duinbergen;395;B;;Knokke;72803,0;226739,0;NB-395B01492;NB-395B01492;BUILDING template;Zeedijk-Duinbergen 395 B Knokke
+873570;Knokke - FH10;Zeedijk-Duinbergen;396;;;Knokke;72805,0;226742,0;NB-39601493;NB-39601493;BUILDING template;Zeedijk-Duinbergen 396  Knokke
+873697;Knokke - FH10;Zeedijk-Duinbergen;399;;;Knokke;72809,0;226743,0;NB-39901494;NB-39901494;BUILDING template;Zeedijk-Duinbergen 399  Knokke
+873698;Knokke - FH10;Zeedijk-Duinbergen;402;;;Knokke;72816,0;226747,0;NB-40201495;NB-40201495;BUILDING template;Zeedijk-Duinbergen 402  Knokke
+873699;Knokke - FH10;Zeedijk-Duinbergen;403;;;Knokke;72828,0;226752,0;NB-40301496;NB-40301496;BUILDING template;Zeedijk-Duinbergen 403  Knokke
+873700;Knokke - FH10;Zeedijk-Duinbergen;404;;;Knokke;72833,0;226752,0;NB-40401497;NB-40401497;BUILDING template;Zeedijk-Duinbergen 404  Knokke
+873701;Knokke - FH10;Zeedijk-Duinbergen;407;;;Knokke;72841,0;226759,0;NB-40701498;NB-40701498;BUILDING template;Zeedijk-Duinbergen 407  Knokke
+873702;Knokke - FH10;Zeedijk-Duinbergen;410;;;Knokke;72899,0;226785,0;NB-41001499;NB-41001499;BUILDING template;Zeedijk-Duinbergen 410  Knokke
+873703;Knokke - FH10;Zeedijk-Duinbergen;416;;;Knokke;72938,0;226802,0;NB-41601500;NB-41601500;BUILDING template;Zeedijk-Duinbergen 416  Knokke
+873704;Knokke - FH10;Zeedijk-Duinbergen;418;;;Knokke;72957,0;226808,0;NB-41801501;NB-41801501;BUILDING template;Zeedijk-Duinbergen 418  Knokke
+873705;Knokke - FH10;Zeegrasstraat;1;;;Knokke;72535,0;226628,0;NB-101502;NB-101502;BUILDING template;Zeegrasstraat 1  Knokke
+873706;Knokke - FH10;Zeegrasstraat;24;;;Knokke;72555,0;226535,0;NB-2401503;NB-2401503;BUILDING template;Zeegrasstraat 24  Knokke
+873707;Knokke - FH10;Zeegrasstraat;24;A;;Knokke;72560,0;226535,0;NB-24A01504;NB-24A01504;BUILDING template;Zeegrasstraat 24 A Knokke
+873708;Knokke - FH10;Zeegrasstraat;26;A;;Knokke;72535,0;226528,0;NB-26A01505;NB-26A01505;BUILDING template;Zeegrasstraat 26 A Knokke
+873709;Knokke - FH10;Zeegrasstraat;28;A;;Knokke;72563,0;226516,0;NB-28A01506;NB-28A01506;BUILDING template;Zeegrasstraat 28 A Knokke
+873710;Knokke - FH10;Zeegrasstraat;44;;;Knokke;72664,0;226267,0;NB-4401507;NB-4401507;BUILDING template;Zeegrasstraat 44  Knokke

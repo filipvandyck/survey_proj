@@ -1,684 +1,690 @@
-Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name
-ANTWERPEN-WEST - FH06;2052146;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;10;;
-ANTWERPEN-WEST - FH06;1739684;1;0;0;1;SDU;;Y;NA;3;8;;;Y;;BUILDING template;Begijnenstraat;89;;
-ANTWERPEN-WEST - FH06;2052147;0;1;0;1;SDU;;N;MON;2;4;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;11;;
-ANTWERPEN-WEST - FH06;1741131;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;4;;
-ANTWERPEN-WEST - FH06;2052148;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;12;;
-ANTWERPEN-WEST - FH06;2052149;0;1;0;1;SDU;;Y;NA;2;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;13;;
-ANTWERPEN-WEST - FH06;2052151;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Schrijnwerkersstraat;15;;
-ANTWERPEN-WEST - FH06;2052153;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;19;;
-ANTWERPEN-WEST - FH06;2052154;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;20;;
-ANTWERPEN-WEST - FH06;1741137;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;12;;
-ANTWERPEN-WEST - FH06;2052155;0;1;0;1;SDU;;Y;NA;5;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;21;;
-ANTWERPEN-WEST - FH06;1741139;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;16;;
-ANTWERPEN-WEST - FH06;1741140;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;22;;
-ANTWERPEN-WEST - FH06;1741141;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;24;;
-ANTWERPEN-WEST - FH06;1741143;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Bervoetstraat;31;;
-ANTWERPEN-WEST - FH06;1741144;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;33;;
-ANTWERPEN-WEST - FH06;2056538;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Terninckstraat;5;;
-ANTWERPEN-WEST - FH06;1741146;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;35;;
-ANTWERPEN-WEST - FH06;1741148;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;41;;
-ANTWERPEN-WEST - FH06;1741149;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;43;;
-ANTWERPEN-WEST - FH06;1741150;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;45;;
-ANTWERPEN-WEST - FH06;1741151;1;0;0;1;SDU;;Y;NA;0;4;;;Y;_;BUILDING template;Bervoetstraat;51;;
-ANTWERPEN-WEST - FH06;2061259;0;1;0;1;SDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckveld;5;;
-ANTWERPEN-WEST - FH06;1750022;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;4;;
-ANTWERPEN-WEST - FH06;2061260;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Vleminckveld;10;;
-ANTWERPEN-WEST - FH06;1750023;0;1;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Jan Blomstraat;5;;
-ANTWERPEN-WEST - FH06;1750024;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;6;;
-ANTWERPEN-WEST - FH06;721;0;1;0;1;SDU;;N;ORN;27;3;;;Y;_;BUILDING template;Eiermarkt;20;;
-ANTWERPEN-WEST - FH06;12599;0;1;0;1;SDU;;N;MON;2;0;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;2;;
-ANTWERPEN-WEST - FH06;2061266;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;22;;
-ANTWERPEN-WEST - FH06;12601;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenstraat;2;;
-ANTWERPEN-WEST - FH06;2061267;0;1;0;1;SDU;;Y;NA;3;6;;;Y;_;BUILDING template;Vleminckveld;24;;
-ANTWERPEN-WEST - FH06;2061268;1;0;0;1;SDU;;N;MON;5;3;Monument;;Y;_ MON;BUILDING template;Vleminckveld;27;;
-ANTWERPEN-WEST - FH06;12607;0;1;0;1;SDU;;N;MON;4;3;Monument;;Y;_ MON;BUILDING template;Mechelseplein;6;;
-ANTWERPEN-WEST - FH06;2061269;0;1;0;1;SDU;;Y;NA;3;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;28;;
-ANTWERPEN-WEST - FH06;1778794;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;17;;
-ANTWERPEN-WEST - FH06;2061270;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;29;;
-ANTWERPEN-WEST - FH06;12649;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Eiermarkt;31;;
-ANTWERPEN-WEST - FH06;2061271;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;30;;
-ANTWERPEN-WEST - FH06;1778808;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;27;;
-ANTWERPEN-WEST - FH06;2061273;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Vleminckveld;32;;
-ANTWERPEN-WEST - FH06;49251;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;22;;
-ANTWERPEN-WEST - FH06;1778839;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Bredestraat;39;;
-ANTWERPEN-WEST - FH06;2061275;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckveld;33;;
-ANTWERPEN-WEST - FH06;49252;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;4;;
-ANTWERPEN-WEST - FH06;49253;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;12;;
-ANTWERPEN-WEST - FH06;1857314;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;1;;
-ANTWERPEN-WEST - FH06;2061277;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Vleminckveld;36;;
-ANTWERPEN-WEST - FH06;49254;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;10;;
-ANTWERPEN-WEST - FH06;1857325;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;3;;
-ANTWERPEN-WEST - FH06;49255;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;20;;
-ANTWERPEN-WEST - FH06;2061279;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Vleminckveld;38;;
-ANTWERPEN-WEST - FH06;1857371;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;11;;
-ANTWERPEN-WEST - FH06;1868992;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;4;;
-ANTWERPEN-WEST - FH06;2061282;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;44;;
-ANTWERPEN-WEST - FH06;54874;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Lombardenvest;2;;
-ANTWERPEN-WEST - FH06;1869001;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;6;;
-ANTWERPEN-WEST - FH06;2061283;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckveld;46;;
-ANTWERPEN-WEST - FH06;54876;0;1;0;1;SDU;;Y;NA;5;8;;;Y;_;BUILDING template;Lombardenvest;80;;
-ANTWERPEN-WEST - FH06;1869022;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;10;;
-ANTWERPEN-WEST - FH06;54877;0;1;0;1;SDU;;Y;NA;2;5;;;Y;_;BUILDING template;Lombardenvest;20;;
-ANTWERPEN-WEST - FH06;1869031;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;;BUILDING template;Everdijstraat;12;;
-ANTWERPEN-WEST - FH06;54878;0;1;0;1;SDU;;Y;NA;4;6;;;Y;_;BUILDING template;Lombardenvest;24;;
-ANTWERPEN-WEST - FH06;2061288;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;64;;
-ANTWERPEN-WEST - FH06;1869043;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Everdijstraat;15;;
-ANTWERPEN-WEST - FH06;2061292;1;0;0;1;SDU;;Y;NA;0;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;72;;
-ANTWERPEN-WEST - FH06;1869062;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;19;;
-ANTWERPEN-WEST - FH06;2061293;0;1;0;1;SDU;;Y;NA;0;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;74;;
-ANTWERPEN-WEST - FH06;1869064;1;0;0;1;SDU;;Y;NA;5;6;;;Y;_;BUILDING template;Everdijstraat;21;;
-ANTWERPEN-WEST - FH06;2061294;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;76;;
-ANTWERPEN-WEST - FH06;54883;0;1;0;1;SDU;;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;62;;
-ANTWERPEN-WEST - FH06;2061295;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;78;;
-ANTWERPEN-WEST - FH06;54884;0;1;0;1;SDU;;Y;NA;3;8;;;Y;_;BUILDING template;Lombardenvest;58;;
-ANTWERPEN-WEST - FH06;1869083;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;33;;
-ANTWERPEN-WEST - FH06;1869103;0;1;0;1;SDU;;Y;NA;0;3;;;Y;_;BUILDING template;Everdijstraat;37;;
-ANTWERPEN-WEST - FH06;2061298;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;7;;
-ANTWERPEN-WEST - FH06;54888;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;52;;
-ANTWERPEN-WEST - FH06;54889;0;1;0;1;SDU;;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;57;;
-ANTWERPEN-WEST - FH06;1869118;0;1;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Everdijstraat;41;;
-ANTWERPEN-WEST - FH06;1869122;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Everdijstraat;43;;
-ANTWERPEN-WEST - FH06;54891;0;1;0;1;SDU;;N;IRREG;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;19;;
-ANTWERPEN-WEST - FH06;1884602;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Korte Gasthuisstraat;4;;
-ANTWERPEN-WEST - FH06;54892;0;1;0;1;SDU;;N;ORN;4;4;;;Y;_;BUILDING template;Kammenstraat;21;;
-ANTWERPEN-WEST - FH06;1884618;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Korte Gasthuisstraat;6;;
-ANTWERPEN-WEST - FH06;54893;0;1;0;1;SDU;;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;67;;
-ANTWERPEN-WEST - FH06;2064238;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;12;;
-ANTWERPEN-WEST - FH06;54894;0;1;0;1;SDU;;Y;NA;5;6;Beschermd Erfgoed;;Y;_;BUILDING template;Korte Gasthuisstraat;2;;
-ANTWERPEN-WEST - FH06;1884669;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;10;;
-ANTWERPEN-WEST - FH06;2064240;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Wiegstraat;18;;
-ANTWERPEN-WEST - FH06;54895;0;1;0;1;SDU;;N;MON;3;8;Monument;;Y;_ MON;BUILDING template;Korte Gasthuisstraat;34;;
-ANTWERPEN-WEST - FH06;1884691;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Korte Gasthuisstraat;12;;
-ANTWERPEN-WEST - FH06;54897;1;0;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;53;;
-ANTWERPEN-WEST - FH06;54899;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;23;;
-ANTWERPEN-WEST - FH06;1884742;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Gasthuisstraat;20;;
-ANTWERPEN-WEST - FH06;2064244;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Wiegstraat;28;;
-ANTWERPEN-WEST - FH06;1884816;0;1;0;1;SDU;;Y;NA;5;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;28;;
-ANTWERPEN-WEST - FH06;2064245;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;30;;
-ANTWERPEN-WEST - FH06;1884838;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Korte Gasthuisstraat;30;;
-ANTWERPEN-WEST - FH06;2064246;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;32;;
-ANTWERPEN-WEST - FH06;2064247;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Wiegstraat;34;;
-ANTWERPEN-WEST - FH06;2068354;0;1;0;1;SDU;;N;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Sint-Katelijnevest;34;;
-ANTWERPEN-WEST - FH06;55285;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;8;;
-ANTWERPEN-WEST - FH06;2068356;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Sint-Katelijnevest;38;;
-ANTWERPEN-WEST - FH06;55287;1;0;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Rosier;25;;
-ANTWERPEN-WEST - FH06;1885037;0;1;0;1;SDU;;N;IRREG;5;5;;;Y;_;BUILDING template;Lange Gasthuisstraat;16;;
-ANTWERPEN-WEST - FH06;2068358;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Katelijnevest;42;;
-ANTWERPEN-WEST - FH06;55288;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;23;;
-ANTWERPEN-WEST - FH06;1892885;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;1;;
-ANTWERPEN-WEST - FH06;55291;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;47;;
-ANTWERPEN-WEST - FH06;1892898;0;1;0;1;SDU;;N;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Maarschalk Gérardstraat;4;A;
-ANTWERPEN-WEST - FH06;55292;1;0;0;1;SDU;;Y;NA;4;3;;;Y;;BUILDING template;Rosier;1;;
-ANTWERPEN-WEST - FH06;1892908;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;5;;
-ANTWERPEN-WEST - FH06;2068427;0;1;0;1;SDU;;N;IRREG;4;0;;;Y;_;BUILDING template;Lombardenvest;15;;
-ANTWERPEN-WEST - FH06;2068428;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;16;;
-ANTWERPEN-WEST - FH06;1892935;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;8;;
-ANTWERPEN-WEST - FH06;2068429;0;1;0;1;SDU;;N;IRREG;4;0;;;Y;_;BUILDING template;Lombardenvest;19;;
-ANTWERPEN-WEST - FH06;2068430;0;1;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Lombardenvest;23;;
-ANTWERPEN-WEST - FH06;1892950;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;11;;
-ANTWERPEN-WEST - FH06;1893001;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;15;;
-ANTWERPEN-WEST - FH06;2068433;0;1;0;1;SDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;31;;
-ANTWERPEN-WEST - FH06;55312;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oudaan;12;;
-ANTWERPEN-WEST - FH06;1893042;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;18;;
-ANTWERPEN-WEST - FH06;2068435;0;1;0;1;SDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;35;;
-ANTWERPEN-WEST - FH06;1893085;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;20;;
-ANTWERPEN-WEST - FH06;2068436;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Lombardenvest;37;;
-ANTWERPEN-WEST - FH06;2068437;0;1;0;1;SDU;;Y;NA;4;3;;;Y;;BUILDING template;Lombardenvest;39;;
-ANTWERPEN-WEST - FH06;1893166;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;26;;
-ANTWERPEN-WEST - FH06;2068438;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Lombardenvest;42;;
-ANTWERPEN-WEST - FH06;1893194;1;0;0;1;SDU;;Y;NA;0;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;29;;
-ANTWERPEN-WEST - FH06;6629699;0;1;0;1;SDU;;Y;NA;5;5;;;Y;_;BUILDING template;Lombardenvest;61;;
-ANTWERPEN-WEST - FH06;55484;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;55;;
-ANTWERPEN-WEST - FH06;1921113;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Groenkerkhofstraat;5;;
-ANTWERPEN-WEST - FH06;2068441;0;1;0;1;SDU;;Y;NA;5;5;;;Y;_;BUILDING template;Lombardenvest;49;;
-ANTWERPEN-WEST - FH06;55485;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;47;;
-ANTWERPEN-WEST - FH06;1921159;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;5;;
-ANTWERPEN-WEST - FH06;2068443;0;1;0;1;SDU;;Y;NA;5;55;;;Y;_;BUILDING template;Lombardenvest;53;;
-ANTWERPEN-WEST - FH06;55500;1;0;0;1;SDU;;Y;NA;3;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;85;;
-ANTWERPEN-WEST - FH06;55503;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Begijnenstraat;1;;
-ANTWERPEN-WEST - FH06;2068446;0;1;0;1;SDU;;Y;NA;5;5;;;Y;;BUILDING template;Lombardenvest;65;;
-ANTWERPEN-WEST - FH06;55505;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Vleminckveld;68;;
-ANTWERPEN-WEST - FH06;1921210;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;13;;
-ANTWERPEN-WEST - FH06;1921214;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Groenplaats;14;;
-ANTWERPEN-WEST - FH06;1921232;0;1;0;1;SDU;;N;ORN;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;17;;
-ANTWERPEN-WEST - FH06;55508;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;42;;
-ANTWERPEN-WEST - FH06;1921239;0;1;0;1;SDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;18;;
-ANTWERPEN-WEST - FH06;55509;0;1;0;1;SDU;;Y;NA;4;3;;;Y;;BUILDING template;Rosier;32;;
-ANTWERPEN-WEST - FH06;1921243;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Groenplaats;19;;
-ANTWERPEN-WEST - FH06;3985734;0;1;0;1;SDU;;N;MON;5;3;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;14;;
-ANTWERPEN-WEST - FH06;1921248;0;1;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;20;;
-ANTWERPEN-WEST - FH06;55512;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Maarschalk Gérardstraat;16;;
-ANTWERPEN-WEST - FH06;1921250;0;1;0;1;SDU;;N;MON;1;0;Monument;;Y;MON;BUILDING template;Groenplaats;21;;
-ANTWERPEN-WEST - FH06;4008183;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;5;;
-ANTWERPEN-WEST - FH06;55513;0;1;0;1;SDU;;N;ORN;3;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;4;;
-ANTWERPEN-WEST - FH06;1921257;0;1;0;1;SDU;;N;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Groenplaats;22;;
-ANTWERPEN-WEST - FH06;4008924;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;12;;
-ANTWERPEN-WEST - FH06;1921262;0;1;0;1;SDU;;N;ORN;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;23;;
-ANTWERPEN-WEST - FH06;4011250;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oude Koornmarkt;63;;
-ANTWERPEN-WEST - FH06;1921267;0;1;0;1;SDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;25;;
-ANTWERPEN-WEST - FH06;56509;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;15;;
-ANTWERPEN-WEST - FH06;4016417;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;5;;
-ANTWERPEN-WEST - FH06;56510;0;1;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;9;;
-ANTWERPEN-WEST - FH06;4016456;0;1;0;1;SDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;24;;
-ANTWERPEN-WEST - FH06;56516;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Papenstraatje;1;;
-ANTWERPEN-WEST - FH06;1921307;0;1;0;1;SDU;;N;IRREG;3;4;;;Y;;BUILDING template;Groenplaats;32;;
-ANTWERPEN-WEST - FH06;56529;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Oude Koornmarkt;75;;
-ANTWERPEN-WEST - FH06;56530;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oude Koornmarkt;1;;
-ANTWERPEN-WEST - FH06;1933750;0;1;0;1;SDU;;N;MON;3;3;Monument;;Y;Review Required MON;BUILDING template;Handschoenmarkt;4;;
-ANTWERPEN-WEST - FH06;56533;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Oude Koornmarkt;39;;
-ANTWERPEN-WEST - FH06;4063591;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;22;;
-ANTWERPEN-WEST - FH06;56535;0;1;0;1;SDU;;Y;NA;0;3;;;Y;_;BUILDING template;Oude Koornmarkt;41;;
-ANTWERPEN-WEST - FH06;1933772;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Handschoenmarkt;10;;
-ANTWERPEN-WEST - FH06;4184634;1;0;0;1;SDU;;N;ORN;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;39;;
-ANTWERPEN-WEST - FH06;56538;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;21;;
-ANTWERPEN-WEST - FH06;1933777;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Handschoenmarkt;12;;
-ANTWERPEN-WEST - FH06;4190505;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;29;;
-ANTWERPEN-WEST - FH06;56540;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Oude Koornmarkt;57;;
-ANTWERPEN-WEST - FH06;1933787;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Handschoenmarkt;14;;
-ANTWERPEN-WEST - FH06;56541;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;61;;
-ANTWERPEN-WEST - FH06;56542;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;2;;
-ANTWERPEN-WEST - FH06;56543;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;8;;
-ANTWERPEN-WEST - FH06;1959761;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kammenstraat;31;;
-ANTWERPEN-WEST - FH06;59537;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;1;;
-ANTWERPEN-WEST - FH06;1959763;0;1;0;1;SDU;;Y;NA;3;6;;;Y;_;BUILDING template;Kammenstraat;33;;
-ANTWERPEN-WEST - FH06;4504570;1;0;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Bervoetstraat;18;;
-ANTWERPEN-WEST - FH06;59538;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Schrijnwerkersstraat;25;;
-ANTWERPEN-WEST - FH06;1959769;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;37;;
-ANTWERPEN-WEST - FH06;59539;0;1;0;1;SDU;;Y;NA;7;3;Beschermd Erfgoed;;Y;_;BUILDING template;Schoenmarkt;22;;
-ANTWERPEN-WEST - FH06;4504600;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;91;;
-ANTWERPEN-WEST - FH06;59540;0;1;0;1;SDU;;N;ORN;4;3;;;Y;_;BUILDING template;Schoenmarkt;14;A;
-ANTWERPEN-WEST - FH06;1959771;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kammenstraat;41;;
-ANTWERPEN-WEST - FH06;4504648;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;33;;
-ANTWERPEN-WEST - FH06;6629698;0;1;0;1;SDU;;N;ORN;1;1;;;Y;_;BUILDING template;Vleminckveld;9;;
-ANTWERPEN-WEST - FH06;59548;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Wiegstraat;36;;
-ANTWERPEN-WEST - FH06;4504652;0;1;0;1;SDU;;Y;NA;4;10;;;Y;;BUILDING template;Begijnenstraat;49;;
-ANTWERPEN-WEST - FH06;59553;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;Review Required MON;BUILDING template;Wiegstraat;16;;
-ANTWERPEN-WEST - FH06;1959775;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;45;;
-ANTWERPEN-WEST - FH06;4504657;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;67;;
-ANTWERPEN-WEST - FH06;60041;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Melkmarkt;31;;
-ANTWERPEN-WEST - FH06;4504659;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;71;;
-ANTWERPEN-WEST - FH06;60046;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Sint-Katelijnevest;50;;
-ANTWERPEN-WEST - FH06;1959787;0;1;0;1;SDU;;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;61;;
-ANTWERPEN-WEST - FH06;1959789;0;1;0;1;SDU;;N;IRREG;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;63;;
-ANTWERPEN-WEST - FH06;1959795;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;71;;
-ANTWERPEN-WEST - FH06;4504664;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;83;;
-ANTWERPEN-WEST - FH06;6629697;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Vleminckveld;58;;
-ANTWERPEN-WEST - FH06;1959797;0;1;0;1;SDU;;N;MON;3;4;Monument;;Y;_ MON;BUILDING template;Kammenstraat;75;;
-ANTWERPEN-WEST - FH06;1959800;0;1;0;1;SDU;;Y;NA;3;8;;;Y;_;BUILDING template;Kammenstraat;81;;
-ANTWERPEN-WEST - FH06;4504704;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;14;;
-ANTWERPEN-WEST - FH06;60535;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Lange Gasthuisstraat;32;;
-ANTWERPEN-WEST - FH06;60536;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;30;;
-ANTWERPEN-WEST - FH06;4504710;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;9;;
-ANTWERPEN-WEST - FH06;60537;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;28;;
-ANTWERPEN-WEST - FH06;4504711;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;11;;
-ANTWERPEN-WEST - FH06;60538;0;1;0;1;SDU;;Y;NA;6;5;;;Y;_;BUILDING template;Lange Gasthuisstraat;22;;
-ANTWERPEN-WEST - FH06;1968732;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;7;;
-ANTWERPEN-WEST - FH06;4504717;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;24;;
-ANTWERPEN-WEST - FH06;60539;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;26;;
-ANTWERPEN-WEST - FH06;4505397;1;0;0;1;SDU;;N;MON;4;3;Monument;;Y;Review Required MON;BUILDING template;Lijnwaadmarkt;12;;
-ANTWERPEN-WEST - FH06;1968741;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Oude Koornmarkt;11;;
-ANTWERPEN-WEST - FH06;4505406;0;1;0;1;SDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Jan Blomstraat;3;;
-ANTWERPEN-WEST - FH06;1968748;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Oude Koornmarkt;13;;
-ANTWERPEN-WEST - FH06;4506481;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;5;;
-ANTWERPEN-WEST - FH06;60707;0;1;0;1;SDU;;Y;NA;4;6;;;Y;_;BUILDING template;Groenkerkhofstraat;3;;
-ANTWERPEN-WEST - FH06;1968754;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;15;;
-ANTWERPEN-WEST - FH06;1968769;1;0;0;1;SDU;;N;MON;5;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;17;;
-ANTWERPEN-WEST - FH06;4506499;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;33;;
-ANTWERPEN-WEST - FH06;60730;0;1;0;1;SDU;;Y;NA;3;8;;;Y;_;BUILDING template;Groenplaats;1;;
-ANTWERPEN-WEST - FH06;1968833;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Oude Koornmarkt;31;;
-ANTWERPEN-WEST - FH06;1968850;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Oude Koornmarkt;37;;
-ANTWERPEN-WEST - FH06;60732;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;4;;
-ANTWERPEN-WEST - FH06;4506507;1;0;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Vleminckveld;34;;
-ANTWERPEN-WEST - FH06;61205;0;1;0;1;SDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Beggaardenstraat;1;;
-ANTWERPEN-WEST - FH06;4506514;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Kammenstraat;73;;
-ANTWERPEN-WEST - FH06;4509219;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;17;;
-ANTWERPEN-WEST - FH06;61207;0;1;0;1;SDU;;Y;NA;0;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;40;;
-ANTWERPEN-WEST - FH06;1968966;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oude Koornmarkt;65;;
-ANTWERPEN-WEST - FH06;61208;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;41;;
-ANTWERPEN-WEST - FH06;61209;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Melkmarkt;33;;
-ANTWERPEN-WEST - FH06;1990847;0;1;0;1;SDU;;N;ORN;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;2;;
-ANTWERPEN-WEST - FH06;4509248;0;1;0;1;SDU;;Y;NA;0;3;;;Y;_;BUILDING template;Vleminckstraat;6;;
-ANTWERPEN-WEST - FH06;61211;0;1;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Sudermanstraat;24;;
-ANTWERPEN-WEST - FH06;1990850;0;1;0;1;SDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Lijnwaadmarkt;4;;
-ANTWERPEN-WEST - FH06;61212;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sudermanstraat;12;;
-ANTWERPEN-WEST - FH06;1990857;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;6;;
-ANTWERPEN-WEST - FH06;1990861;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;8;;
-ANTWERPEN-WEST - FH06;1990865;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;10;;
-ANTWERPEN-WEST - FH06;61217;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vleminckstraat;12;;
-ANTWERPEN-WEST - FH06;1990873;0;1;0;1;SDU;;N;MON;4;3;Monument;;Y;Review Required MON;BUILDING template;Lijnwaadmarkt;14;;
-ANTWERPEN-WEST - FH06;4511723;1;0;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenvest;28;;
-ANTWERPEN-WEST - FH06;1992418;1;0;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Lombardenstraat;4;;
-ANTWERPEN-WEST - FH06;61219;0;1;0;1;SDU;;Y;NA;8;3;;;Y;_;BUILDING template;Eiermarkt;41;;
-ANTWERPEN-WEST - FH06;1992421;0;1;0;1;SDU;;Y;NA;6;3;;;Y;_;BUILDING template;Lombardenstraat;6;;
-ANTWERPEN-WEST - FH06;4511739;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Lombardenstraat;32;;
-ANTWERPEN-WEST - FH06;4511746;0;1;0;1;SDU;;Y;NA;5;8;;;Y;_;BUILDING template;Lombardenvest;70;;
-ANTWERPEN-WEST - FH06;4511775;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Korte Gasthuisstraat;16;;
-ANTWERPEN-WEST - FH06;61223;0;1;0;1;SDU;;Y;NA;6;5;;;Y;_;BUILDING template;Eiermarkt;21;;
-ANTWERPEN-WEST - FH06;61224;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;25;;
-ANTWERPEN-WEST - FH06;4512159;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;19;;
-ANTWERPEN-WEST - FH06;4070508;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Bredestraat;19;;
-ANTWERPEN-WEST - FH06;1992448;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Lombardenstraat;26;;
-ANTWERPEN-WEST - FH06;4512161;1;0;0;1;SDU;;Y;NA;0;3;;;Y;_;BUILDING template;Oude Koornmarkt;33;;
-ANTWERPEN-WEST - FH06;61226;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_;BUILDING template;Eiermarkt;1;A;
-ANTWERPEN-WEST - FH06;1992449;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Lombardenstraat;28;;
-ANTWERPEN-WEST - FH06;61227;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Eiermarkt;5;;
-ANTWERPEN-WEST - FH06;1992452;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenstraat;30;;
-ANTWERPEN-WEST - FH06;5373822;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;27;;
-ANTWERPEN-WEST - FH06;61251;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Sint-Pieterstraat;2;;
-ANTWERPEN-WEST - FH06;5383653;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;29;A;
-ANTWERPEN-WEST - FH06;61252;0;1;0;1;SDU;;Y;NA;5;4;;;Y;_;BUILDING template;Sint-Pieterstraat;8;;
-ANTWERPEN-WEST - FH06;5383655;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;29;B;
-ANTWERPEN-WEST - FH06;61310;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Groenplaats;34;;
-ANTWERPEN-WEST - FH06;173605;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;16;;
-ANTWERPEN-WEST - FH06;1998314;0;1;0;1;SDU;;Y;NA;3;6;;;Y;_;BUILDING template;Kleine Markt;13;;
-ANTWERPEN-WEST - FH06;5423872;0;1;0;1;SDU;;Y;NA;1;3;;;Y;_;BUILDING template;Melkmarkt;25;A;
-ANTWERPEN-WEST - FH06;1999498;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;10;;
-ANTWERPEN-WEST - FH06;5424977;0;1;0;1;SDU;;N;ORN;0;0;;;Y;_;BUILDING template;Boogkeers;5;;
-ANTWERPEN-WEST - FH06;173882;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Wiegstraat;4;;
-ANTWERPEN-WEST - FH06;5435540;0;1;0;1;SDU;;N;IRREG;15;0;;;Y;;BUILDING template;Oudaan;11;;
-ANTWERPEN-WEST - FH06;173883;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Wiegstraat;6;;
-ANTWERPEN-WEST - FH06;173884;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Wiegstraat;10;;
-ANTWERPEN-WEST - FH06;5555311;1;0;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Wiegstraat;8;;
-ANTWERPEN-WEST - FH06;1999513;1;0;0;1;SDU;;N;IRREG;3;0;;;Y;_;BUILDING template;Mechelseplein;22;A;
-ANTWERPEN-WEST - FH06;173901;1;0;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenvest;26;;
-ANTWERPEN-WEST - FH06;1999515;1;0;0;1;SDU;;N;MON;3;4;Monument;;Y;_ MON;BUILDING template;Mechelseplein;24;;
-ANTWERPEN-WEST - FH06;5566574;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Begijnenstraat;23;;
-ANTWERPEN-WEST - FH06;2001912;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Melkmarkt;15;;
-ANTWERPEN-WEST - FH06;174025;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Korte Gasthuisstraat;22;;
-ANTWERPEN-WEST - FH06;2001916;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Melkmarkt;18;;
-ANTWERPEN-WEST - FH06;5575556;0;1;0;1;SDU;;N;IRREG;3;12;Beschermd Erfgoed;;Y;;BUILDING template;Lange Gasthuisstraat;20;;
-ANTWERPEN-WEST - FH06;176743;0;1;0;1;SDU;;Y;NA;3;10;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;4;;
-ANTWERPEN-WEST - FH06;5575624;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Groenplaats;3;;
-ANTWERPEN-WEST - FH06;198628;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;8;;
-ANTWERPEN-WEST - FH06;2001931;1;0;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Melkmarkt;29;;
-ANTWERPEN-WEST - FH06;862884;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Everdijstraat;45;;
-ANTWERPEN-WEST - FH06;2001937;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Melkmarkt;32;;
-ANTWERPEN-WEST - FH06;2001940;0;1;0;1;SDU;;N;MON;3;6;Monument;;Y;_ MON;BUILDING template;Melkmarkt;34;;
-ANTWERPEN-WEST - FH06;5576084;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;18;;
-ANTWERPEN-WEST - FH06;1059322;0;1;0;1;SDU;;N;MON;3;4;Monument;;Y;_ MON;BUILDING template;Groenplaats;30;;
-ANTWERPEN-WEST - FH06;2001945;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;36;;
-ANTWERPEN-WEST - FH06;5734740;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;_;BUILDING template;Meirbrug;8;;
-ANTWERPEN-WEST - FH06;1059342;0;1;0;1;SDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Jan Blomstraat;1;;
-ANTWERPEN-WEST - FH06;2001946;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Melkmarkt;37;;
-ANTWERPEN-WEST - FH06;12609;0;1;0;1;SDU;;Y;NA;5;3;;;;;BUILDING template;Oude Koornmarkt;25;;
-ANTWERPEN-WEST - FH06;1059343;0;1;0;1;SDU;;N;IRREG;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;7;;
-ANTWERPEN-WEST - FH06;55295;1;0;0;1;SDU;;N;ORN;5;0;;;;;BUILDING template;Vleminckveld;15;;
-ANTWERPEN-WEST - FH06;1059351;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;16;;
-ANTWERPEN-WEST - FH06;55307;0;1;0;1;SDU;;Y;NA;5;6;;;;;BUILDING template;Kammenstraat;69;;
-ANTWERPEN-WEST - FH06;1059352;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;20;;
-ANTWERPEN-WEST - FH06;55311;0;1;0;1;SDU;;Y;NA;7;3;;;;;BUILDING template;Oudaan;10;;
-ANTWERPEN-WEST - FH06;1059357;0;1;0;1;SDU;;N;MON;2;4;Monument;;Y;_ MON;BUILDING template;Sint-Pieterstraat;5;;
-ANTWERPEN-WEST - FH06;6095924;1;0;0;1;SDU;;N;ORN;2;10;;;Y;_;BUILDING template;Schoenmarkt;2;A;
-ANTWERPEN-WEST - FH06;2027602;0;1;0;1;SDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;12;;
-ANTWERPEN-WEST - FH06;6188680;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;9;B;
-ANTWERPEN-WEST - FH06;1059367;0;1;0;1;SDU;;Y;NA;0;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;26;;
-ANTWERPEN-WEST - FH06;2027607;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Korte Nieuwstraat;14;;
-ANTWERPEN-WEST - FH06;6314615;1;0;0;1;SDU;;Y;NA;6;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;25;A;
-ANTWERPEN-WEST - FH06;1059369;0;1;0;1;SDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;14;;
-ANTWERPEN-WEST - FH06;6316329;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Lombardenstraat;14;;
-ANTWERPEN-WEST - FH06;1739666;1;0;0;1;SDU;;Y;NA;3;3;;;;;BUILDING template;Begijnenstraat;35;;
-ANTWERPEN-WEST - FH06;6327004;0;1;0;1;SDU;;Y;NA;8;6;Beschermd Erfgoed;;Y;_;BUILDING template;Wiegstraat;2;A;
-ANTWERPEN-WEST - FH06;2027621;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;20;;
-ANTWERPEN-WEST - FH06;1741142;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Bervoetstraat;25;;
-ANTWERPEN-WEST - FH06;2027626;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;24;;
-ANTWERPEN-WEST - FH06;1968886;0;1;0;1;SDU;;Y;NA;4;3;;;;;BUILDING template;Oude Koornmarkt;47;;
-ANTWERPEN-WEST - FH06;1074858;0;1;0;1;SDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;28;;
-ANTWERPEN-WEST - FH06;2027629;0;1;0;1;SDU;;Y;NA;3;5;;;Y;;BUILDING template;Korte Nieuwstraat;26;;
-ANTWERPEN-WEST - FH06;1074912;0;1;0;1;SDU;;N;MON;4;3;Monument;;Y;MON;BUILDING template;Groenplaats;27;;
-ANTWERPEN-WEST - FH06;2027633;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;28;;
-ANTWERPEN-WEST - FH06;6404970;0;1;0;1;SDU;;Y;NA;5;5;;;Y;_;BUILDING template;Lombardenvest;55;;
-ANTWERPEN-WEST - FH06;2048653;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Rosier;12;A;
-ANTWERPEN-WEST - FH06;1091095;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Katelijnevest;48;;
-ANTWERPEN-WEST - FH06;6407198;0;1;0;1;SDU;;Y;NA;1;5;;;Y;;BUILDING template;Everdijstraat;20;;
-ANTWERPEN-WEST - FH06;2048654;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Rosier;13;;
-ANTWERPEN-WEST - FH06;2052152;0;1;0;1;SDU;;Y;NA;4;3;;;;;BUILDING template;Schrijnwerkersstraat;16;;
-ANTWERPEN-WEST - FH06;2035165;0;1;0;1;SDU;;N;MON;16;0;Monument;;Y;MON;BUILDING template;Oudaan;5;;
-ANTWERPEN-WEST - FH06;2055917;0;1;0;1;SDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;2;A;
-ANTWERPEN-WEST - FH06;2035170;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;6;;
-ANTWERPEN-WEST - FH06;2055918;0;1;0;1;SDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;2;B;
-ANTWERPEN-WEST - FH06;2035173;0;1;0;1;SDU;;Y;NA;7;4;;;Y;_;BUILDING template;Oudaan;8;;
-ANTWERPEN-WEST - FH06;6467509;1;0;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;2;;
-ANTWERPEN-WEST - FH06;2055922;0;1;0;1;SDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;6;B;
-ANTWERPEN-WEST - FH06;1139907;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Mechelseplein;22;;
-ANTWERPEN-WEST - FH06;2061265;1;0;0;1;SDU;;N;ORN;3;0;;;;;BUILDING template;Vleminckveld;21;;
-ANTWERPEN-WEST - FH06;1139910;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Mechelseplein;26;;
-ANTWERPEN-WEST - FH06;2035213;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;26;;
-ANTWERPEN-WEST - FH06;6524104;0;1;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Beggaardenstraat;3;;
-ANTWERPEN-WEST - FH06;2061303;0;1;0;1;SDU;;Y;NA;4;3;;;;;BUILDING template;Vleminckstraat;13;;
-ANTWERPEN-WEST - FH06;1139912;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;27;;
-ANTWERPEN-WEST - FH06;2035214;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oudaan;28;;
-ANTWERPEN-WEST - FH06;6524106;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Groenplaats;35;;
-ANTWERPEN-WEST - FH06;3956505;0;1;0;1;SDU;;Y;NA;6;3;;;;;BUILDING template;Lombardenstraat;10;;
-ANTWERPEN-WEST - FH06;2035215;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oudaan;30;;
-ANTWERPEN-WEST - FH06;4080731;0;1;0;1;SDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;6;A;
-ANTWERPEN-WEST - FH06;2048645;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;3;;
-ANTWERPEN-WEST - FH06;4096171;1;0;0;1;SDU;;N;ORN;5;0;;;;;BUILDING template;Vleminckveld;13;;
-ANTWERPEN-WEST - FH06;2048646;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Rosier;4;;
-ANTWERPEN-WEST - FH06;4256532;1;0;0;1;SDU;;N;ORN;5;0;;;;;BUILDING template;Vleminckveld;19;;
-ANTWERPEN-WEST - FH06;2048648;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;8;;
-ANTWERPEN-WEST - FH06;6518721;0;1;0;1;SDU;;N;ORN;4;4;;;;;BUILDING template;Groenplaats;40;A;
-ANTWERPEN-WEST - FH06;2048649;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;9;;
-ANTWERPEN-WEST - FH06;2048650;0;1;0;1;SDU;;Y;NA;0;3;;;Y;_;BUILDING template;Rosier;10;;
-ANTWERPEN-WEST - FH06;2048655;1;0;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Rosier;14;;
-ANTWERPEN-WEST - FH06;2048656;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;15;;
-ANTWERPEN-WEST - FH06;2048657;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;16;;
-ANTWERPEN-WEST - FH06;2048659;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;20;;
-ANTWERPEN-WEST - FH06;1297943;0;1;0;1;SDU;;N;ORN;5;5;;;Y;_;BUILDING template;Groenplaats;36;;
-ANTWERPEN-WEST - FH06;2048660;1;0;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;21;;
-ANTWERPEN-WEST - FH06;1313879;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Bervoetstraat;9;;
-ANTWERPEN-WEST - FH06;2048662;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;22;;
-ANTWERPEN-WEST - FH06;6629696;0;1;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Everdijstraat;14;A;
-ANTWERPEN-WEST - FH06;1369823;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Wiegstraat;14;;
-ANTWERPEN-WEST - FH06;2048664;1;0;0;1;SDU;;N;ORN;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;26;;
-ANTWERPEN-WEST - FH06;1373123;0;1;0;1;SDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;33;;
-ANTWERPEN-WEST - FH06;2048665;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;27;;
-ANTWERPEN-WEST - FH06;2048667;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;35;;
-ANTWERPEN-WEST - FH06;2048668;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;37;;
-ANTWERPEN-WEST - FH06;2048669;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;38;;
-ANTWERPEN-WEST - FH06;2048671;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;40;;
-ANTWERPEN-WEST - FH06;1456855;0;1;0;1;SDU;;Y;NA;4;7;;;Y;_;BUILDING template;Wiegstraat;20;;
-ANTWERPEN-WEST - FH06;1488600;1;0;0;1;SDU;;N;ORN;3;0;;;Y;_;BUILDING template;Vleminckveld;17;;
-ANTWERPEN-WEST - FH06;2048673;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;45;;
-ANTWERPEN-WEST - FH06;2050646;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;5;;
-ANTWERPEN-WEST - FH06;1511424;0;1;0;1;SDU;;N;MON;5;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;23;;
-ANTWERPEN-WEST - FH06;1512593;0;1;0;1;SDU;;N;MON;21;5;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;35;;
-ANTWERPEN-WEST - FH06;2051255;0;1;0;1;SDU;;N;MON;3;5;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;6;;
-ANTWERPEN-WEST - FH06;2051256;0;1;0;1;SDU;;N;MON;3;9;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;8;;
-ANTWERPEN-WEST - FH06;1739652;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Beggaardenstraat;6;;
-ANTWERPEN-WEST - FH06;2051259;0;1;0;1;SDU;;N;ORN;5;5;;;Y;_;BUILDING template;Schoenmarkt;21;;
-ANTWERPEN-WEST - FH06;1739655;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;3;;
-ANTWERPEN-WEST - FH06;2051260;0;1;0;1;SDU;;N;ORN;10;5;;;Y;_;BUILDING template;Schoenmarkt;25;;
-ANTWERPEN-WEST - FH06;1739657;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;7;;
-ANTWERPEN-WEST - FH06;2051262;0;1;0;1;SDU;;N;ORN;10;5;;;Y;_;BUILDING template;Schoenmarkt;29;;
-ANTWERPEN-WEST - FH06;2051263;0;1;0;1;SDU;;N;ORN;21;5;;;Y;_;BUILDING template;Schoenmarkt;31;;
-ANTWERPEN-WEST - FH06;1739661;1;0;0;1;SDU;;N;ORN;0;0;;;Y;;BUILDING template;Begijnenstraat;21;;
-ANTWERPEN-WEST - FH06;1739668;0;1;0;1;SDU;;N;ORN;4;0;;;Y;;BUILDING template;Begijnenstraat;41;;
-ANTWERPEN-WEST - FH06;2052141;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;6;;
-ANTWERPEN-WEST - FH06;1739673;0;1;0;1;SDU;;Y;NA;0;1;;;Y;_;BUILDING template;Begijnenstraat;55;;
-ANTWERPEN-WEST - FH06;2052142;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;7;;
-ANTWERPEN-WEST - FH06;2052144;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;8;;
-ANTWERPEN-WEST - FH06;1739680;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;65;;
-ANTWERPEN-WEST - FH06;2052145;0;1;0;1;SDU;;N;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;9;;
-ANTWERPEN-WEST - FH06;2055924;2;0;0;2;MDU;;N;MON;3;6;Monument;;Y;_ MON;BUILDING template;Sudermanstraat;20;;
-ANTWERPEN-WEST - FH06;2055925;1;1;0;2;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sudermanstraat;22;;
-ANTWERPEN-WEST - FH06;2056545;1;1;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Terninckstraat;17;;
-ANTWERPEN-WEST - FH06;1778850;1;1;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;43;;
-ANTWERPEN-WEST - FH06;49257;0;2;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Meirbrug;4;;
-ANTWERPEN-WEST - FH06;1869018;1;1;0;2;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;8;;
-ANTWERPEN-WEST - FH06;1869037;1;1;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;13;;
-ANTWERPEN-WEST - FH06;54881;1;1;0;2;MDU;;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;66;;
-ANTWERPEN-WEST - FH06;54887;1;1;0;2;MDU;;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;60;;
-ANTWERPEN-WEST - FH06;2061300;1;1;0;2;MDU;;Y;NA;0;3;;;Y;_;BUILDING template;Vleminckstraat;9;;
-ANTWERPEN-WEST - FH06;2061301;2;0;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckstraat;11;;
-ANTWERPEN-WEST - FH06;2061305;2;0;0;2;MDU;;Y;NA;3;3;;;Y;;BUILDING template;Vleminckstraat;18;;
-ANTWERPEN-WEST - FH06;1884633;1;1;0;2;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;8;;
-ANTWERPEN-WEST - FH06;54896;1;1;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Gasthuisstraat;24;;
-ANTWERPEN-WEST - FH06;1884705;2;0;0;2;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Korte Gasthuisstraat;14;;
-ANTWERPEN-WEST - FH06;2064242;1;1;0;2;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;24;;
-ANTWERPEN-WEST - FH06;54901;1;1;0;2;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Everdijstraat;11;;
-ANTWERPEN-WEST - FH06;54903;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Everdijstraat;7;;
-ANTWERPEN-WEST - FH06;1884866;1;1;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Gasthuisstraat;32;;
-ANTWERPEN-WEST - FH06;1884988;0;2;0;2;MDU;;Y;NA;5;4;;;Y;;BUILDING template;Lange Gasthuisstraat;12;;
-ANTWERPEN-WEST - FH06;1885054;0;2;0;2;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;24;;
-ANTWERPEN-WEST - FH06;55290;1;0;1;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;17;;
-ANTWERPEN-WEST - FH06;1892929;2;0;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;7;;
-ANTWERPEN-WEST - FH06;55309;0;2;0;2;MDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Oudaan;14;;
-ANTWERPEN-WEST - FH06;55486;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;49;;
-ANTWERPEN-WEST - FH06;55501;2;0;0;2;MDU;;Y;NA;5;5;;;Y;;BUILDING template;Begijnenstraat;31;;
-ANTWERPEN-WEST - FH06;2068447;0;2;0;2;MDU;;Y;NA;5;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenvest;76;;
-ANTWERPEN-WEST - FH06;4002765;2;0;0;2;MDU;;Y;NA;0;3;;;Y;_;BUILDING template;Rosier;7;;
-ANTWERPEN-WEST - FH06;1921317;0;2;0;2;MDU;;N;MON;4;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;33;;
-ANTWERPEN-WEST - FH06;4043087;1;1;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;10;;
-ANTWERPEN-WEST - FH06;1933759;1;1;0;2;MDU;;N;MON;4;6;Monument;;Y;Review Required MON;BUILDING template;Handschoenmarkt;8;;
-ANTWERPEN-WEST - FH06;1959770;1;1;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kammenstraat;39;;
-ANTWERPEN-WEST - FH06;1959779;1;1;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;49;;
-ANTWERPEN-WEST - FH06;1959780;0;2;0;2;MDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Kammenstraat;51;;
-ANTWERPEN-WEST - FH06;4504660;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;73;;
-ANTWERPEN-WEST - FH06;1968721;1;1;0;2;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oude Koornmarkt;3;;
-ANTWERPEN-WEST - FH06;1968739;1;1;0;2;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Oude Koornmarkt;9;;
-ANTWERPEN-WEST - FH06;1968899;1;1;0;2;MDU;;Y;NA;0;4;;;Y;_;BUILDING template;Oude Koornmarkt;51;;
-ANTWERPEN-WEST - FH06;61210;1;1;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Sudermanstraat;14;;
-ANTWERPEN-WEST - FH06;4509455;1;1;0;2;MDU;;Y;NA;3;6;;;Y;_;BUILDING template;Sint-Katelijnevest;36;;
-ANTWERPEN-WEST - FH06;1999509;0;2;0;2;MDU;;N;MON;4;3;Monument;;Y;_ MON;BUILDING template;Mechelseplein;18;;
-ANTWERPEN-WEST - FH06;174026;1;1;0;2;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;26;;
-ANTWERPEN-WEST - FH06;5575586;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;12;;
-ANTWERPEN-WEST - FH06;2001929;1;1;0;2;MDU;;N;MON;3;3;Monument;;Y;Review Required MON;BUILDING template;Melkmarkt;28;;
-ANTWERPEN-WEST - FH06;198788;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;1;;
-ANTWERPEN-WEST - FH06;2001933;1;1;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Melkmarkt;30;;
-ANTWERPEN-WEST - FH06;5575924;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;18;;
-ANTWERPEN-WEST - FH06;1059320;1;1;0;2;MDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;16;;
-ANTWERPEN-WEST - FH06;2001948;1;1;0;2;MDU;;Y;NA;0;4;;;Y;_;BUILDING template;Melkmarkt;39;;
-ANTWERPEN-WEST - FH06;1059366;0;2;0;2;MDU;;N;MON;4;6;Monument;;Y;_ MON;BUILDING template;Melkmarkt;38;;
-ANTWERPEN-WEST - FH06;1091132;1;1;0;2;MDU;;Y;NA;3;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;15;;
-ANTWERPEN-WEST - FH06;6588791;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Meirbrug;6;;
-ANTWERPEN-WEST - FH06;1139918;0;2;0;2;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;11;;
-ANTWERPEN-WEST - FH06;2048647;2;0;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;6;;
-ANTWERPEN-WEST - FH06;2048651;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;11;;
-ANTWERPEN-WEST - FH06;2048652;2;0;0;2;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;12;;
-ANTWERPEN-WEST - FH06;1139979;0;2;0;2;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Bervoetstraat;40;;
-ANTWERPEN-WEST - FH06;1443643;0;2;0;2;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;2;;
-ANTWERPEN-WEST - FH06;2052139;2;0;0;2;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;3;;
-ANTWERPEN-WEST - FH06;1739667;2;0;0;2;MDU;;N;GLASS;0;0;;;Y;;BUILDING template;Begijnenstraat;37;;
-ANTWERPEN-WEST - FH06;1739677;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;61;;
-ANTWERPEN-WEST - FH06;1741133;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;6;;
-ANTWERPEN-WEST - FH06;1741135;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;10;;
-ANTWERPEN-WEST - FH06;2056536;2;1;0;3;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Terninckstraat;3;;
-ANTWERPEN-WEST - FH06;2056539;3;0;0;3;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Terninckstraat;7;;
-ANTWERPEN-WEST - FH06;1778756;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;5;;
-ANTWERPEN-WEST - FH06;1778777;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;11;;
-ANTWERPEN-WEST - FH06;12605;1;2;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;6;;
-ANTWERPEN-WEST - FH06;1778804;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;25;;
-ANTWERPEN-WEST - FH06;1857364;3;0;0;3;MDU;;N;MON;4;6;Monument;;Y;_ MON;BUILDING template;Eiermarkt;9;;
-ANTWERPEN-WEST - FH06;2061284;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;48;;
-ANTWERPEN-WEST - FH06;54890;2;1;0;3;MDU;;N;ORN;3;3;;;Y;_;BUILDING template;Kammenstraat;55;;
-ANTWERPEN-WEST - FH06;2064241;3;0;0;3;MDU;;Y;NA;4;6;;;Y;_;BUILDING template;Wiegstraat;22;;
-ANTWERPEN-WEST - FH06;54902;3;0;0;3;MDU;;Y;NA;2;6;;;Y;;BUILDING template;Everdijstraat;30;;
-ANTWERPEN-WEST - FH06;54904;3;0;0;3;MDU;;N;ORN;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;1;;
-ANTWERPEN-WEST - FH06;55294;2;1;0;3;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Vleminckveld;8;;
-ANTWERPEN-WEST - FH06;1892939;2;1;0;3;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;9;;
-ANTWERPEN-WEST - FH06;55313;2;1;0;3;MDU;;N;IRREG;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;20;;
-ANTWERPEN-WEST - FH06;55483;2;1;0;3;MDU;;Y;NA;0;3;;;Y;_;BUILDING template;Bervoetstraat;1;;
-ANTWERPEN-WEST - FH06;1921194;2;1;0;3;MDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;10;;
-ANTWERPEN-WEST - FH06;55511;2;1;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;30;;
-ANTWERPEN-WEST - FH06;1921273;2;1;0;3;MDU;;N;MON;5;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;26;;
-ANTWERPEN-WEST - FH06;4257539;3;0;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Sudermanstraat;18;;
-ANTWERPEN-WEST - FH06;60043;2;1;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;21;;
-ANTWERPEN-WEST - FH06;60073;2;1;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Beggaardenstraat;23;;
-ANTWERPEN-WEST - FH06;1960302;2;1;0;3;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Kasteelpleinstraat;5;;
-ANTWERPEN-WEST - FH06;1960303;2;1;0;3;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Kasteelpleinstraat;7;;
-ANTWERPEN-WEST - FH06;60706;3;0;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Groenkerkhofstraat;7;;
-ANTWERPEN-WEST - FH06;60728;2;1;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Oude Koornmarkt;69;;
-ANTWERPEN-WEST - FH06;4506498;3;0;0;3;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;31;;
-ANTWERPEN-WEST - FH06;1968968;2;1;0;3;MDU;;N;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;71;;
-ANTWERPEN-WEST - FH06;1968970;2;1;0;3;MDU;;N;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;73;;
-ANTWERPEN-WEST - FH06;4509456;2;1;0;3;MDU;;N;ORN;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Katelijnevest;40;;
-ANTWERPEN-WEST - FH06;61222;0;3;0;3;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Eiermarkt;13;;
-ANTWERPEN-WEST - FH06;1992434;0;3;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenstraat;16;;
-ANTWERPEN-WEST - FH06;1778760;2;1;0;3;MDU;;Y;NA;3;5;;;;;BUILDING template;Bredestraat;7;;
-ANTWERPEN-WEST - FH06;173900;2;1;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Lombardenvest;40;;
-ANTWERPEN-WEST - FH06;5572030;2;1;0;3;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Sint-Katelijnevest;30;;
-ANTWERPEN-WEST - FH06;173903;2;1;0;3;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Lombardenvest;22;;
-ANTWERPEN-WEST - FH06;2001915;2;1;0;3;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Melkmarkt;17;;
-ANTWERPEN-WEST - FH06;2027591;2;1;0;3;MDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;10;;
-ANTWERPEN-WEST - FH06;1074854;3;0;0;3;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Pieterstraat;4;;
-ANTWERPEN-WEST - FH06;2035161;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;4;;
-ANTWERPEN-WEST - FH06;1139919;3;0;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;3;;
-ANTWERPEN-WEST - FH06;2048658;3;0;0;3;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;18;;
-ANTWERPEN-WEST - FH06;2048670;3;0;0;3;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;39;;
-ANTWERPEN-WEST - FH06;2048672;2;1;0;3;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Rosier;41;;
-ANTWERPEN-WEST - FH06;2050647;2;1;0;3;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;7;;
-ANTWERPEN-WEST - FH06;1511557;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;6;;
-ANTWERPEN-WEST - FH06;2050648;3;0;0;3;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;9;;
-ANTWERPEN-WEST - FH06;1741132;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;5;;
-ANTWERPEN-WEST - FH06;1741134;4;0;0;4;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;8;;
-ANTWERPEN-WEST - FH06;2055923;4;0;0;4;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Sudermanstraat;16;;
-ANTWERPEN-WEST - FH06;1741145;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;34;;
-ANTWERPEN-WEST - FH06;2056547;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Terninckstraat;19;;
-ANTWERPEN-WEST - FH06;1778769;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;9;;
-ANTWERPEN-WEST - FH06;1778789;4;0;0;4;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;15;;
-ANTWERPEN-WEST - FH06;2061272;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;31;;
-ANTWERPEN-WEST - FH06;2061276;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;35;;
-ANTWERPEN-WEST - FH06;1857405;3;1;0;4;MDU;;N;MON;3;5;Monument;;Y;MON;BUILDING template;Eiermarkt;19;;
-ANTWERPEN-WEST - FH06;2061281;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;42;;
-ANTWERPEN-WEST - FH06;2061285;2;2;0;4;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckveld;50;;
-ANTWERPEN-WEST - FH06;54879;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;64;;
-ANTWERPEN-WEST - FH06;2061289;3;1;0;4;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Vleminckveld;66;;
-ANTWERPEN-WEST - FH06;54880;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;54;;
-ANTWERPEN-WEST - FH06;1869049;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;17;;
-ANTWERPEN-WEST - FH06;54882;4;0;0;4;MDU;;Y;NA;5;8;;;Y;_;BUILDING template;Lombardenvest;68;;
-ANTWERPEN-WEST - FH06;1869077;3;1;0;4;MDU;;N;MON;3;4;Monument;;Y;Review Required MON;BUILDING template;Everdijstraat;31;;
-ANTWERPEN-WEST - FH06;2061296;4;0;0;4;MDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;4;;
-ANTWERPEN-WEST - FH06;2061297;3;1;0;4;MDU;;Y;NA;0;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;5;;
-ANTWERPEN-WEST - FH06;2064243;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Wiegstraat;26;;
-ANTWERPEN-WEST - FH06;2068359;3;1;0;4;MDU;;Y;NA;4;6;;;Y;_;BUILDING template;Sint-Katelijnevest;44;;
-ANTWERPEN-WEST - FH06;2068422;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;8;;
-ANTWERPEN-WEST - FH06;2068425;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;12;;
-ANTWERPEN-WEST - FH06;55296;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;60;;
-ANTWERPEN-WEST - FH06;55316;4;0;0;4;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Everdijstraat;2;;
-ANTWERPEN-WEST - FH06;1893137;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;24;;
-ANTWERPEN-WEST - FH06;1921165;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;6;;
-ANTWERPEN-WEST - FH06;1921170;3;1;0;4;MDU;;N;ORN;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;7;;
-ANTWERPEN-WEST - FH06;2068444;3;1;0;4;MDU;;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;56;;
-ANTWERPEN-WEST - FH06;55504;4;0;0;4;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Vleminckveld;62;;
-ANTWERPEN-WEST - FH06;55514;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;3;;
-ANTWERPEN-WEST - FH06;55515;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;17;;
-ANTWERPEN-WEST - FH06;1959758;3;1;0;4;MDU;;Y;NA;4;6;;;Y;_;BUILDING template;Kammenstraat;25;;
-ANTWERPEN-WEST - FH06;4259238;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;54;;
-ANTWERPEN-WEST - FH06;1959759;3;1;0;4;MDU;;Y;NA;4;6;;;Y;_;BUILDING template;Kammenstraat;29;;
-ANTWERPEN-WEST - FH06;4504564;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;32;;
-ANTWERPEN-WEST - FH06;4504598;4;0;0;4;MDU;;Y;NA;4;3;;;Y;;BUILDING template;Terninckstraat;9;;
-ANTWERPEN-WEST - FH06;60040;3;1;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;13;;
-ANTWERPEN-WEST - FH06;60044;3;1;0;4;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Melkmarkt;25;;
-ANTWERPEN-WEST - FH06;1959799;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;79;;
-ANTWERPEN-WEST - FH06;1959803;4;0;0;4;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Kammenstraat;85;;
-ANTWERPEN-WEST - FH06;1968902;3;1;0;4;MDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;53;;
-ANTWERPEN-WEST - FH06;4511730;3;1;0;4;MDU;;N;ORN;4;5;;;Y;_;BUILDING template;Lombardenvest;6;;
-ANTWERPEN-WEST - FH06;1992428;3;1;0;4;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenstraat;12;;
-ANTWERPEN-WEST - FH06;12377;4;0;0;4;MDU;;Y;NA;4;5;;;;;BUILDING template;Bredestraat;3;;
-ANTWERPEN-WEST - FH06;1778833;4;0;0;4;MDU;;Y;NA;4;5;;;;;BUILDING template;Bredestraat;37;;
-ANTWERPEN-WEST - FH06;1992459;3;1;0;4;MDU;;Y;NA;4;6;;;Y;_;BUILDING template;Lombardenstraat;36;;
-ANTWERPEN-WEST - FH06;1999501;3;1;0;4;MDU;;N;ORN;4;3;;;Y;_;BUILDING template;Mechelseplein;14;;
-ANTWERPEN-WEST - FH06;1999507;3;1;0;4;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Mechelseplein;16;;
-ANTWERPEN-WEST - FH06;173902;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;32;;
-ANTWERPEN-WEST - FH06;5575513;4;0;0;4;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Everdijstraat;51;;
-ANTWERPEN-WEST - FH06;2001928;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Melkmarkt;27;;
-ANTWERPEN-WEST - FH06;2001942;3;1;0;4;MDU;;N;MON;5;5;Monument;;Y;_ MON;BUILDING template;Melkmarkt;35;;
-ANTWERPEN-WEST - FH06;6018352;0;4;0;4;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Eiermarkt;17;;
-ANTWERPEN-WEST - FH06;2001958;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;42;;
-ANTWERPEN-WEST - FH06;1072767;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Pieterstraat;1;;
-ANTWERPEN-WEST - FH06;2027615;3;1;0;4;MDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;18;;
-ANTWERPEN-WEST - FH06;1074855;3;1;0;4;MDU;;N;MON;4;6;Monument;;Y;_ MON;BUILDING template;Eiermarkt;7;;
-ANTWERPEN-WEST - FH06;1091131;3;1;0;4;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;3;;
-ANTWERPEN-WEST - FH06;1091158;3;1;0;4;MDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Kammenstraat;89;;
-ANTWERPEN-WEST - FH06;1139915;4;0;0;4;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;21;;
-ANTWERPEN-WEST - FH06;1139978;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;2;;
-ANTWERPEN-WEST - FH06;1139988;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kasteelpleinstraat;9;;
-ANTWERPEN-WEST - FH06;1139989;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kasteelpleinstraat;1;;
-ANTWERPEN-WEST - FH06;2056544;5;0;0;5;MDU;;Y;NA;2;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Terninckstraat;15;;
-ANTWERPEN-WEST - FH06;1778829;5;0;0;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;35;;
-ANTWERPEN-WEST - FH06;2061280;5;0;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Vleminckveld;40;;
-ANTWERPEN-WEST - FH06;2068361;4;1;0;5;MDU;;Y;NA;0;6;;;Y;_;BUILDING template;Sint-Katelijnevest;46;;
-ANTWERPEN-WEST - FH06;1892918;3;2;0;5;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;6;;
-ANTWERPEN-WEST - FH06;1892977;5;0;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;13;;
-ANTWERPEN-WEST - FH06;55346;0;5;0;5;MDU;;Y;NA;6;5;;;Y;_;BUILDING template;Oudaan;1;;
-ANTWERPEN-WEST - FH06;1893189;3;2;0;5;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;28;;
-ANTWERPEN-WEST - FH06;4015036;4;1;0;5;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Kammenstraat;83;;
-ANTWERPEN-WEST - FH06;60042;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;23;;
-ANTWERPEN-WEST - FH06;1959782;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;53;;
-ANTWERPEN-WEST - FH06;4504685;5;0;0;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;12;;
-ANTWERPEN-WEST - FH06;60075;4;1;0;5;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Beggaardenstraat;21;;
-ANTWERPEN-WEST - FH06;60705;4;1;0;5;MDU;;N;MON;4;3;Monument;;Y;_ MON;BUILDING template;Groenkerkhofstraat;1;;
-ANTWERPEN-WEST - FH06;4506491;5;0;0;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;41;;
-ANTWERPEN-WEST - FH06;1968891;4;1;0;5;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Oude Koornmarkt;49;;
-ANTWERPEN-WEST - FH06;61206;4;1;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Melkmarkt;44;;
-ANTWERPEN-WEST - FH06;4509452;4;1;0;5;MDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;22;;
-ANTWERPEN-WEST - FH06;1992456;4;1;0;5;MDU;;Y;NA;5;6;;;Y;_;BUILDING template;Lombardenstraat;34;;
-ANTWERPEN-WEST - FH06;2001918;4;1;0;5;MDU;;Y;NA;0;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;19;;
-ANTWERPEN-WEST - FH06;2001921;4;1;0;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Melkmarkt;20;;
-ANTWERPEN-WEST - FH06;2027610;4;1;0;5;MDU;;N;MON;3;5;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;16;;
-ANTWERPEN-WEST - FH06;1139887;5;0;0;5;MDU;;Y;NA;0;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gérardstraat;31;;
-ANTWERPEN-WEST - FH06;1437874;4;1;0;5;MDU;;N;MON;3;5;Monument;;Y;MON;BUILDING template;Korte Nieuwstraat;4;;
-ANTWERPEN-WEST - FH06;1451773;5;0;0;5;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Begijnenstraat;93;;
-ANTWERPEN-WEST - FH06;1739660;5;0;0;5;MDU;;Y;NA;4;3;;;Y;;BUILDING template;Begijnenstraat;17;;
-ANTWERPEN-WEST - FH06;1741147;6;0;0;6;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;39;;
-ANTWERPEN-WEST - FH06;12633;6;0;0;6;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Oudaan;32;;
-ANTWERPEN-WEST - FH06;54870;1;5;0;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenvest;34;;
-ANTWERPEN-WEST - FH06;2068431;6;0;0;6;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;25;;
-ANTWERPEN-WEST - FH06;2068442;6;0;0;6;MDU;;Y;NA;5;5;;;Y;;BUILDING template;Lombardenvest;51;;
-ANTWERPEN-WEST - FH06;4504567;6;0;0;6;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;38;;
-ANTWERPEN-WEST - FH06;60049;6;0;0;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Korte Nieuwstraat;2;;
-ANTWERPEN-WEST - FH06;61214;6;0;0;6;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckstraat;2;;
-ANTWERPEN-WEST - FH06;2027587;5;1;0;6;MDU;;Y;NA;2;5;;;Y;_;BUILDING template;Korte Nieuwstraat;8;;
-ANTWERPEN-WEST - FH06;1139914;4;2;0;6;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;23;;
-ANTWERPEN-WEST - FH06;1495533;5;1;0;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Kasteelpleinstraat;3;;
-ANTWERPEN-WEST - FH06;2061286;7;0;0;7;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;52;;
-ANTWERPEN-WEST - FH06;1869113;7;0;0;7;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;39;;
-ANTWERPEN-WEST - FH06;55481;6;1;0;7;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Mechelseplein;20;;
-ANTWERPEN-WEST - FH06;4504662;7;0;0;7;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Begijnenstraat;77;;
-ANTWERPEN-WEST - FH06;60534;0;7;0;7;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;16;;
-ANTWERPEN-WEST - FH06;4510360;5;2;0;7;MDU;;N;ORN;5;5;;;Y;_;BUILDING template;Lange Gasthuisstraat;18;;
-ANTWERPEN-WEST - FH06;1992438;7;0;0;7;MDU;;N;ORN;0;3;;;Y;_;BUILDING template;Lombardenstraat;18;;
-ANTWERPEN-WEST - FH06;1778799;5;2;0;7;MDU;;Y;NA;3;3;;;;;BUILDING template;Bredestraat;21;;
-ANTWERPEN-WEST - FH06;1778821;7;0;0;7;MDU;;Y;NA;4;5;;;;;BUILDING template;Bredestraat;33;;
-ANTWERPEN-WEST - FH06;173881;7;0;0;7;MDU;;Y;NA;8;5;Beschermd Erfgoed;;Y;_;BUILDING template;Wiegstraat;2;;
-ANTWERPEN-WEST - FH06;5575626;5;2;0;7;MDU;;N;MON;5;5;Monument;;Y;_;BUILDING template;Groenplaats;42;;
-ANTWERPEN-WEST - FH06;5575847;6;1;0;7;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Oude Koornmarkt;59;;
-ANTWERPEN-WEST - FH06;4150925;7;0;0;7;MDU;;Y;NA;4;3;;;;;BUILDING template;Melkmarkt;40;A;
-ANTWERPEN-WEST - FH06;2056549;6;2;0;8;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Terninckstraat;21;;
-ANTWERPEN-WEST - FH06;2061264;8;0;0;8;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;18;;
-ANTWERPEN-WEST - FH06;54886;7;1;0;8;MDU;;Y;NA;5;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenvest;74;;
-ANTWERPEN-WEST - FH06;1884727;7;1;0;8;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Korte Gasthuisstraat;18;;
-ANTWERPEN-WEST - FH06;1959773;7;1;0;8;MDU;;Y;NA;6;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;43;;
-ANTWERPEN-WEST - FH06;4509236;0;2;6;8;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Eiermarkt;35;;
-ANTWERPEN-WEST - FH06;61218;6;2;0;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckstraat;16;;
-ANTWERPEN-WEST - FH06;61220;0;2;6;8;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Eiermarkt;33;;
-ANTWERPEN-WEST - FH06;5575480;8;0;0;8;MDU;;Y;NA;6;5;;;Y;_;BUILDING template;Eiermarkt;23;;
-ANTWERPEN-WEST - FH06;174031;7;1;0;8;MDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Geefsstraat;5;;
-ANTWERPEN-WEST - FH06;6524092;8;0;0;8;MDU;;Y;NA;3;6;;;Y;_;BUILDING template;Oudaan;3;;
-ANTWERPEN-WEST - FH06;6525393;8;0;0;8;MDU;;Y;NA;5;3;;;;;BUILDING template;Begijnenstraat;25;;
-ANTWERPEN-WEST - FH06;1139976;7;1;0;8;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Terninckstraat;1;;
-ANTWERPEN-WEST - FH06;2061306;9;0;0;9;MDU;;N;ORN;5;0;;;Y;_;BUILDING template;Vleminckstraat;23;;
-ANTWERPEN-WEST - FH06;2068448;8;1;0;9;MDU;;Y;NA;5;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenvest;78;;
-ANTWERPEN-WEST - FH06;3923483;9;0;0;9;MDU;;N;ORN;6;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;3;;
-ANTWERPEN-WEST - FH06;1992442;9;0;0;9;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Lombardenstraat;22;;
-ANTWERPEN-WEST - FH06;5575774;9;0;0;9;MDU;;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;65;;
-ANTWERPEN-WEST - FH06;5576380;9;0;0;9;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Vleminckveld;70;;
-ANTWERPEN-WEST - FH06;1448986;9;0;0;9;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckveld;7;;
-ANTWERPEN-WEST - FH06;2061262;9;1;0;10;MDU;;N;ORN;5;0;;;Y;_;BUILDING template;Vleminckveld;14;;
-ANTWERPEN-WEST - FH06;60070;10;0;0;10;MDU;;N;ORN;6;0;;;Y;_;BUILDING template;Sudermanstraat;2;;
-ANTWERPEN-WEST - FH06;5560963;7;3;0;10;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Oudaan;22;;
-ANTWERPEN-WEST - FH06;5575511;10;0;0;10;MDU;;N;ORN;6;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;5;;
-ANTWERPEN-WEST - FH06;1741138;10;0;0;10;MDU;;Y;NA;3;5;;;;;BUILDING template;Bervoetstraat;14;;
-ANTWERPEN-WEST - FH06;1992424;9;1;0;10;MDU;;Y;NA;6;3;;;;;BUILDING template;Lombardenstraat;8;;
-ANTWERPEN-WEST - FH06;1139986;7;3;0;10;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;95;;
-ANTWERPEN-WEST - FH06;2052140;9;1;0;10;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;5;;
-ANTWERPEN-WEST - FH06;1778782;10;1;0;11;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;13;;
-ANTWERPEN-WEST - FH06;55310;10;1;0;11;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Oudaan;2;;
-ANTWERPEN-WEST - FH06;1921200;10;1;0;11;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Groenplaats;11;;
-ANTWERPEN-WEST - FH06;1998308;10;1;0;11;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kleine Markt;11;;
-ANTWERPEN-WEST - FH06;1139940;10;1;0;11;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;19;;
-ANTWERPEN-WEST - FH06;1438270;11;0;0;11;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Vleminckveld;23;;
-ANTWERPEN-WEST - FH06;2061261;12;0;0;12;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckveld;11;;
-ANTWERPEN-WEST - FH06;1959786;12;0;0;12;MDU;;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;59;;
-ANTWERPEN-WEST - FH06;60071;10;2;0;12;MDU;;N;ORN;6;0;;;Y;_;BUILDING template;Sudermanstraat;6;;
-ANTWERPEN-WEST - FH06;60731;10;2;0;12;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Groenplaats;2;;
-ANTWERPEN-WEST - FH06;198689;10;2;0;12;MDU;;Y;NA;6;4;;;;;BUILDING template;Oudaan;24;;
-ANTWERPEN-WEST - FH06;2027639;12;0;0;12;MDU;;N;ORN;6;0;;;Y;_;BUILDING template;Korte Nieuwstraat;30;;
-ANTWERPEN-WEST - FH06;1139922;11;1;0;12;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Schermersstraat;1;;
-ANTWERPEN-WEST - FH06;1921177;12;1;0;13;MDU;;Y;NA;7;3;;;Y;_;BUILDING template;Groenplaats;8;;
-ANTWERPEN-WEST - FH06;2061278;13;1;0;14;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;37;;
-ANTWERPEN-WEST - FH06;1959778;12;2;0;14;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;47;;
-ANTWERPEN-WEST - FH06;1869096;14;1;0;15;MDU;;N;MON;3;5;Monument;;Y;_ MON;BUILDING template;Everdijstraat;35;;
-ANTWERPEN-WEST - FH06;2068432;16;0;0;16;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;29;;
-ANTWERPEN-WEST - FH06;1998288;16;0;0;16;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kleine Markt;5;;
-ANTWERPEN-WEST - FH06;1139913;16;0;0;16;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Maarschalk Gérardstraat;25;;
-ANTWERPEN-WEST - FH06;2068445;16;1;0;17;MDU;;Y;NA;5;5;;;Y;;BUILDING template;Lombardenvest;63;;
-ANTWERPEN-WEST - FH06;198787;21;4;0;25;MDU;;Y;NA;7;3;;;Y;_;BUILDING template;Kleine Markt;7;;
-ANTWERPEN-WEST - FH06;49256;26;2;0;28;MDU;;Y;NA;7;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Meirbrug;2;;
-ANTWERPEN-WEST - FH06;1521194;27;2;0;29;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Terninckstraat;13;;
-ANTWERPEN-WEST - FH06;2035180;0;30;0;30;MDU;;N;IRREG;3;0;;;Y;_;BUILDING template;Oudaan;15;;
-ANTWERPEN-WEST - FH06;5575625;37;0;0;37;MDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Groenplaats;40;;
-ANTWERPEN-WEST - FH06;61228;0;44;0;44;MDU;;N;ORN;9;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Meirbrug;1;;
-ANTWERPEN-WEST - FH06;1739128;0;50;2;52;MDU;;Y;NA;9;4;;;;;BUILDING template;Beddenstraat;2;;
-ANTWERPEN-WEST - FH06;1884894;59;0;2;61;MDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Korte Gasthuisstraat;36;;
+ï»¿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+ANTWERPEN-WEST - FH06;2052146;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;10;;;152432,925;212004,445
+ANTWERPEN-WEST - FH06;1739684;1;0;0;1;SDU;;Y;NA;3;8;;;Y;;BUILDING template;Begijnenstraat;89;;;152258,06;211350,925
+ANTWERPEN-WEST - FH06;2052147;0;1;0;1;SDU;;N;MON;2;4;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;11;;;152448,916;211991,964
+ANTWERPEN-WEST - FH06;1741131;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;4;;;152270,595;211349,075
+ANTWERPEN-WEST - FH06;2052148;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;12;;;152432,834;211997,216
+ANTWERPEN-WEST - FH06;1741132;4;1;0;5;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Bervoetstraat;5;;;152273,266;211368,733
+ANTWERPEN-WEST - FH06;2052149;0;1;0;1;SDU;;Y;NA;2;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;13;;;152450,453;211987,732
+ANTWERPEN-WEST - FH06;1741133;3;0;0;3;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;6;;;152274,567;211347,842
+ANTWERPEN-WEST - FH06;1741134;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;8;;Bervoetstraat 8-10;152282,649;211345,993
+ANTWERPEN-WEST - FH06;2052151;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Schrijnwerkersstraat;15;;;152451,422;211983,362
+ANTWERPEN-WEST - FH06;1741135;3;0;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;10;;Bervoetstraat 8-10;152288,403;211341,472
+ANTWERPEN-WEST - FH06;2052153;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;19;;;152454,544;211974,557
+ANTWERPEN-WEST - FH06;2052154;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;20;;;152433,278;211976,374
+ANTWERPEN-WEST - FH06;1741137;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;12;;;152292,513;211339,829
+ANTWERPEN-WEST - FH06;2052155;0;1;0;1;SDU;;Y;NA;5;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;21;;;152455,464;211967,995
+ANTWERPEN-WEST - FH06;1741139;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;16;;;152298,745;211342,5
+ANTWERPEN-WEST - FH06;2055923;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Sudermanstraat;16;;;152465,41;212191,458
+ANTWERPEN-WEST - FH06;1741140;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;22;;;152318;211336
+ANTWERPEN-WEST - FH06;2055924;1;1;0;2;MDU;D;N;MON;3;6;Monument;;Y;_ MON;BUILDING template;Sudermanstraat;20;;;152460,465;212182,052
+ANTWERPEN-WEST - FH06;1741141;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;24;;;152333,609;211337,147
+ANTWERPEN-WEST - FH06;2055925;3;1;0;4;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sudermanstraat;22;;;152453,009;212176,531
+ANTWERPEN-WEST - FH06;1741143;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Bervoetstraat;31;;;152333,406;211355,331
+ANTWERPEN-WEST - FH06;2056536;4;0;0;4;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Terninckstraat;3;;;152293,984;211292,367
+ANTWERPEN-WEST - FH06;1741144;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;33;;;152338,913;211354,935
+ANTWERPEN-WEST - FH06;2056538;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Terninckstraat;5;;;152300,05;211295,057
+ANTWERPEN-WEST - FH06;1741145;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;34;;;152356,013;211336,535
+ANTWERPEN-WEST - FH06;2056539;3;0;0;3;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Terninckstraat;7;;;152303,373;211297,114
+ANTWERPEN-WEST - FH06;1741146;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;35;;;152343,804;211354,405
+ANTWERPEN-WEST - FH06;1741147;5;0;0;5;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;39;;;152354,881;211353,896
+ANTWERPEN-WEST - FH06;2056544;5;0;0;5;MDU;;Y;NA;2;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Terninckstraat;15;;;152346,697;211320,838
+ANTWERPEN-WEST - FH06;1741148;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;41;;;152361,94;211352,389
+ANTWERPEN-WEST - FH06;2056545;2;1;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Terninckstraat;17;;;152354,767;211326,221
+ANTWERPEN-WEST - FH06;1741149;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;43;;;152366,825;211353,238
+ANTWERPEN-WEST - FH06;2056547;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Terninckstraat;19;;;152359,019;211328,753
+ANTWERPEN-WEST - FH06;1741150;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;45;;;152372,635;211353,708
+ANTWERPEN-WEST - FH06;2056549;4;2;0;6;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Terninckstraat;21;;;152365,231;211335,043
+ANTWERPEN-WEST - FH06;1741151;1;0;0;1;MDU;;Y;NA;1;4;;;Y;_;BUILDING template;Bervoetstraat;51;;Bervoetstraat 51-55;152391,61;211352,921
+ANTWERPEN-WEST - FH06;2061259;0;1;0;1;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckveld;5;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152366,136;211693,696
+ANTWERPEN-WEST - FH06;1750022;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;4;;;152211,306;212231,855
+ANTWERPEN-WEST - FH06;2061260;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Vleminckveld;10;;;152361,481;211663,602
+ANTWERPEN-WEST - FH06;1750023;0;1;0;1;MDU;;Y;MON;3;3;Monument;;Y;_ MON;BUILDING template;Jan Blomstraat;5;;Jan Blomstraat 3-5-7;152240,395;212226,406
+ANTWERPEN-WEST - FH06;2061261;12;0;0;12;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckveld;11;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152380,82;211677,467
+ANTWERPEN-WEST - FH06;1750024;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;6;;;152219,593;212226,112
+ANTWERPEN-WEST - FH06;2061262;9;1;0;10;MDU;;N;ORN;5;0;;;Y;_;BUILDING template;Vleminckveld;14;;;152367,383;211655,339
+ANTWERPEN-WEST - FH06;721;0;1;0;1;MDU;;N;ORN;27;3;;;Y;_;BUILDING template;Eiermarkt;20;;Eiermarkt 20_Schoenmarkt 25-29-31-35;152452,273;212121,192
+ANTWERPEN-WEST - FH06;1778756;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;5;;;152346,688;211656,598
+ANTWERPEN-WEST - FH06;2061264;8;0;0;8;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;18;;;152377,219;211644,008
+ANTWERPEN-WEST - FH06;12599;0;1;0;1;SDU;;N;MON;2;0;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;2;;;152367,335;212031,436
+ANTWERPEN-WEST - FH06;1778769;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;9;;;152345,271;211648,1
+ANTWERPEN-WEST - FH06;2061266;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;22;;;152388,673;211632,634
+ANTWERPEN-WEST - FH06;12601;0;1;0;1;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenstraat;2;;Lombardenstraat 2-4;152340,924;211945,648
+ANTWERPEN-WEST - FH06;1778777;0;1;0;1;MDU;;Y;NA;4;3;;;Y;De eigenaar verdeelt 1 aansluiting over zijn leefeenheid en de 7 studentenkamers;BUILDING template;Bredestraat;11;;Bredestraat 11-13;152344,327;211642,906
+ANTWERPEN-WEST - FH06;2061267;0;1;0;1;SDU;;Y;NA;3;6;;;Y;_;BUILDING template;Vleminckveld;24;;;152399,083;211632,756
+ANTWERPEN-WEST - FH06;12605;1;2;0;3;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;6;;;152351,645;211671,392
+ANTWERPEN-WEST - FH06;1778782;0;1;0;1;MDU;;Y;NA;4;3;;;Y;De eigenaar verdeelt 1 aansluiting over zijn leefeenheid en de 7 studentenkamers;BUILDING template;Bredestraat;13;;Bredestraat 11-13;152342,989;211637,713
+ANTWERPEN-WEST - FH06;2061268;1;0;0;1;SDU;;N;MON;5;3;Monument;;Y;_ MON;BUILDING template;Vleminckveld;27;;;152410,744;211645,399
+ANTWERPEN-WEST - FH06;12607;0;1;0;1;SDU;;N;MON;4;3;Monument;;Y;_ MON;BUILDING template;Mechelseplein;6;;;152507,237;211476,284
+ANTWERPEN-WEST - FH06;1778789;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;15;;;152342,36;211632,283
+ANTWERPEN-WEST - FH06;2061269;0;1;0;1;SDU;;Y;NA;3;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;28;;;152399,716;211624,347
+ANTWERPEN-WEST - FH06;12633;6;0;0;6;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Oudaan;32;;Lange Gasthuisstraat 8_Oudaan 32;152507,862;211767,123
+ANTWERPEN-WEST - FH06;1778794;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;17;;;152344;211626
+ANTWERPEN-WEST - FH06;2061270;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;29;;;152415,568;211639,4
+ANTWERPEN-WEST - FH06;12649;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Eiermarkt;31;;;152463,908;212148,206
+ANTWERPEN-WEST - FH06;1778804;3;0;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;25;;;152338,54;211612,09
+ANTWERPEN-WEST - FH06;2061271;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;30;;;152408,213;211618,524
+ANTWERPEN-WEST - FH06;1778808;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;27;;;152337,581;211607,775
+ANTWERPEN-WEST - FH06;2061272;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;31;;;152418,076;211636,75
+ANTWERPEN-WEST - FH06;1778829;5;0;0;5;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Bredestraat;35;;;152335,595;211591,337
+ANTWERPEN-WEST - FH06;2061273;0;1;0;1;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Vleminckveld;32;;Vleminckveld 32-34;152415,936;211610,377
+ANTWERPEN-WEST - FH06;49251;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;22;;;152438,007;211971,384
+ANTWERPEN-WEST - FH06;1778839;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Bredestraat;39;;;152333,198;211582,912
+ANTWERPEN-WEST - FH06;2061275;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckveld;33;;;152420,979;211633,011
+ANTWERPEN-WEST - FH06;49252;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;4;;;152434,783;212018,592
+ANTWERPEN-WEST - FH06;1778850;1;1;0;2;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bredestraat;43;;Bredestraat 43_Rosier 1;152330,663;211572,912
+ANTWERPEN-WEST - FH06;2061276;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;35;;;152422,843;211629,39
+ANTWERPEN-WEST - FH06;49253;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;12;;;152446,285;212034,604
+ANTWERPEN-WEST - FH06;1857314;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;1;;;152360,473;212191,684
+ANTWERPEN-WEST - FH06;2061277;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Vleminckveld;36;;;152419,276;211607,202
+ANTWERPEN-WEST - FH06;49254;0;1;0;1;MDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;10;;Schoenmarkt 10_Schrijnwerkersstraat 2;152430,013;212032,368
+ANTWERPEN-WEST - FH06;1857325;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;3;;;152364,838;212192,024
+ANTWERPEN-WEST - FH06;2061278;13;1;0;14;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;37;;;152428,306;211626,804
+ANTWERPEN-WEST - FH06;49255;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;20;;;152471,823;212043,02
+ANTWERPEN-WEST - FH06;1857364;3;0;0;3;MDU;;N;MON;4;6;Monument;;Y;_ MON;BUILDING template;Eiermarkt;9;;;152401,487;212174,781
+ANTWERPEN-WEST - FH06;2061279;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Vleminckveld;38;;;152422,943;211605,435
+ANTWERPEN-WEST - FH06;49256;26;2;0;28;MDU;;Y;NA;7;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Meirbrug;2;;Meirbrug 2-4_Schoenmarkt 22;152482,005;212049,867
+ANTWERPEN-WEST - FH06;1857371;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;11;;;152407,694;212179,016
+ANTWERPEN-WEST - FH06;2061280;5;0;0;5;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Vleminckveld;40;;;152424,289;211602,799
+ANTWERPEN-WEST - FH06;49257;0;2;0;2;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Meirbrug;4;;Meirbrug 2-4_Schoenmarkt 22;152495,519;212047,952
+ANTWERPEN-WEST - FH06;1857405;3;1;0;4;MDU;;N;MON;3;5;Monument;;Y;MON;BUILDING template;Eiermarkt;19;;;152424,465;212171,004
+ANTWERPEN-WEST - FH06;2061281;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;42;;;152428,609;211594,145
+ANTWERPEN-WEST - FH06;54870;1;5;0;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenvest;34;;;152308,449;211953,931
+ANTWERPEN-WEST - FH06;1868992;1;0;0;1;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;4;;Everdijstraat 2-4_Kammenstraat 69;152300,936;211837,639
+ANTWERPEN-WEST - FH06;2061282;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;44;;;152434,157;211588,528
+ANTWERPEN-WEST - FH06;54874;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Lombardenvest;2;;;152224,235;211971,946
+ANTWERPEN-WEST - FH06;1869001;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;6;;;152304,489;211838,046
+ANTWERPEN-WEST - FH06;2061283;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckveld;46;;;152439,294;211586,542
+ANTWERPEN-WEST - FH06;1869018;0;1;0;1;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;8;;Everdijstraat 8-10;152308,916;211838,775
+ANTWERPEN-WEST - FH06;2061284;2;1;0;3;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;48;;;152442,705;211581,241
+ANTWERPEN-WEST - FH06;54876;0;1;0;1;MDU;;Y;NA;5;8;;;Y;_;BUILDING template;Lombardenvest;80;;Lombardenvest 78-80;152450,284;211931,939
+ANTWERPEN-WEST - FH06;1869022;2;0;0;2;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;10;;Everdijstraat 8-10;152316,855;211838,865
+ANTWERPEN-WEST - FH06;2061285;2;1;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckveld;50;;;152448,388;211579,05
+ANTWERPEN-WEST - FH06;54877;0;1;0;1;SDU;;Y;NA;2;5;;;Y;_;BUILDING template;Lombardenvest;20;;;152267,799;211962,628
+ANTWERPEN-WEST - FH06;1869031;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;;BUILDING template;Everdijstraat;12;;;152329;211839
+ANTWERPEN-WEST - FH06;2061286;7;0;0;7;MDU;D;Y;NA;4;3;;;Y;7 brie7 LUâ€™s waarvan er 3 aansluitbaar zijn te Vleminckveld en 4 te Rosier;BUILDING template;Vleminckveld;52;;;152449,294;211574,693
+ANTWERPEN-WEST - FH06;54878;0;1;0;1;SDU;;Y;NA;4;6;;;Y;_;BUILDING template;Lombardenvest;24;;;152282,606;211953,371
+ANTWERPEN-WEST - FH06;1869037;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;13;;;152322,594;211853,089
+ANTWERPEN-WEST - FH06;2061288;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;64;;;152476,555;211550,994
+ANTWERPEN-WEST - FH06;54879;3;1;1;5;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;64;;;152412,313;211932,435
+ANTWERPEN-WEST - FH06;1869043;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Everdijstraat;15;;;152329,108;211852,362
+ANTWERPEN-WEST - FH06;2061289;3;1;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Vleminckveld;66;;;152477,924;211546,542
+ANTWERPEN-WEST - FH06;54880;3;1;1;5;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;54;;;152381,778;211937,407
+ANTWERPEN-WEST - FH06;1869049;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;17;;;152333,415;211853,379
+ANTWERPEN-WEST - FH06;2061292;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;72;;;152483,541;211527,227
+ANTWERPEN-WEST - FH06;54881;1;1;0;2;MDU;D;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;66;;;152418,142;211933,103
+ANTWERPEN-WEST - FH06;1869062;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;19;;;152340,523;211853,188
+ANTWERPEN-WEST - FH06;2061293;0;1;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;74;;;152483,151;211524,567
+ANTWERPEN-WEST - FH06;54882;4;0;0;4;MDU;D;Y;NA;5;8;;;Y;_;BUILDING template;Lombardenvest;68;;Lombardenvest 68-70;152425,039;211929,856
+ANTWERPEN-WEST - FH06;1869064;1;0;0;1;SDU;;Y;NA;5;6;;;Y;_;BUILDING template;Everdijstraat;21;;;152345,976;211852,739
+ANTWERPEN-WEST - FH06;2061294;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;76;;;152484,157;211520,72
+ANTWERPEN-WEST - FH06;54883;0;1;0;1;SDU;;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;62;;;152407,228;211932,579
+ANTWERPEN-WEST - FH06;1869077;3;1;0;4;MDU;;N;MON;3;4;Monument;;Y;Review Required MON;BUILDING template;Everdijstraat;31;;;152400,244;211852,597
+ANTWERPEN-WEST - FH06;2061295;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckveld;78;;;152482,034;211515,925
+ANTWERPEN-WEST - FH06;54884;0;1;0;1;SDU;;Y;NA;3;8;;;Y;_;BUILDING template;Lombardenvest;58;;;152394,225;211934,562
+ANTWERPEN-WEST - FH06;1869083;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;33;;;152412,689;211851,816
+ANTWERPEN-WEST - FH06;2061296;4;0;0;4;MDU;D;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;4;;;152402,991;212212,92
+ANTWERPEN-WEST - FH06;54886;7;1;0;8;MDU;;Y;NA;5;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenvest;74;;;152431,844;211932,566
+ANTWERPEN-WEST - FH06;1869096;14;1;0;15;MDU;;N;MON;3;5;Monument;;Y;_ MON;BUILDING template;Everdijstraat;35;;;152419,01;211853,064
+ANTWERPEN-WEST - FH06;2061297;3;1;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;5;;;152412,83;212230,112
+ANTWERPEN-WEST - FH06;54887;2;1;1;4;MDU;D;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;60;;;152401,444;211933,656
+ANTWERPEN-WEST - FH06;1869103;0;1;0;1;MDU;;Y;NA;1;3;;;Y;_;BUILDING template;Everdijstraat;37;;Everdijstraat 37-39;152427,677;211852,322
+ANTWERPEN-WEST - FH06;2061298;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;7;;;152419,071;212227,598
+ANTWERPEN-WEST - FH06;54888;0;1;0;1;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;52;;Everdijstraat 27_Lombardenvest 52;152368,537;211911,885
+ANTWERPEN-WEST - FH06;1869113;7;0;0;7;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;39;;Everdijstraat 37-39;152432,87;211851,328
+ANTWERPEN-WEST - FH06;2061300;1;1;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Vleminckstraat;9;;;152428,73;212222,903
+ANTWERPEN-WEST - FH06;54889;0;1;0;1;MDU;XA;N;ORN;5;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;57;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152271,357;211870,516
+ANTWERPEN-WEST - FH06;1869118;0;1;0;1;SDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_;BUILDING template;Everdijstraat;41;;;152438,76;211852,042
+ANTWERPEN-WEST - FH06;2061301;2;0;0;2;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckstraat;11;;Vleminckstraat 11-13;152439,488;212223,659
+ANTWERPEN-WEST - FH06;54890;2;1;0;3;MDU;D;N;ORN;3;3;;;Y;_;BUILDING template;Kammenstraat;55;;;152268,843;211874,398
+ANTWERPEN-WEST - FH06;1869122;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Everdijstraat;43;;;152448,379;211853,167
+ANTWERPEN-WEST - FH06;2061305;1;1;0;2;MDU;D;Y;NA;3;3;;;Y;;BUILDING template;Vleminckstraat;18;;;152456;212198
+ANTWERPEN-WEST - FH06;54891;0;1;0;1;SDU;;N;IRREG;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;19;;;152216,311;211973,313
+ANTWERPEN-WEST - FH06;1884602;0;1;0;1;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Korte Gasthuisstraat;4;;Korte Gasthuisstraat 4-6;152457,837;211928,195
+ANTWERPEN-WEST - FH06;2061306;9;0;0;9;MDU;;N;ORN;5;0;;;Y;_;BUILDING template;Vleminckstraat;23;;Sudermanstraat 6-6A-6B_Vleminckstraat 23;152466,287;212216,207
+ANTWERPEN-WEST - FH06;54892;0;1;0;1;SDU;;N;ORN;4;4;;;Y;_;BUILDING template;Kammenstraat;21;;;152217,59;211966,303
+ANTWERPEN-WEST - FH06;1884618;0;1;0;1;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Korte Gasthuisstraat;6;;Korte Gasthuisstraat 4-6;152458,999;211924,716
+ANTWERPEN-WEST - FH06;54893;0;1;0;1;MDU;XA;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;67;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152291,337;211851,411
+ANTWERPEN-WEST - FH06;1884633;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;8;;;152458,908;211920,815
+ANTWERPEN-WEST - FH06;2064238;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;12;;;152490,874;212011,352
+ANTWERPEN-WEST - FH06;54894;0;1;0;1;SDU;;Y;NA;5;6;Beschermd Erfgoed;;Y;_;BUILDING template;Korte Gasthuisstraat;2;;;152457;211932
+ANTWERPEN-WEST - FH06;1884669;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;10;;;152460,442;211915,978
+ANTWERPEN-WEST - FH06;2064240;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Wiegstraat;18;;;152484,388;211999,554
+ANTWERPEN-WEST - FH06;54895;0;1;0;1;SDU;;N;MON;3;8;Monument;;Y;_ MON;BUILDING template;Korte Gasthuisstraat;34;;;152483,37;211857,396
+ANTWERPEN-WEST - FH06;1884691;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Korte Gasthuisstraat;12;;;152460,912;211911,272
+ANTWERPEN-WEST - FH06;2064241;3;0;0;3;MDU;D;Y;NA;4;6;;;Y;_;BUILDING template;Wiegstraat;22;;Wiegstraat 20-22;152479,711;211992,309
+ANTWERPEN-WEST - FH06;54896;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Gasthuisstraat;24;;;152474,061;211880,014
+ANTWERPEN-WEST - FH06;1884705;2;1;0;3;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Korte Gasthuisstraat;14;;;152462,272;211906,06
+ANTWERPEN-WEST - FH06;2064242;1;1;0;2;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;24;;;152477,291;211987,79
+ANTWERPEN-WEST - FH06;54897;1;0;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;53;;;152476,839;211854,189
+ANTWERPEN-WEST - FH06;1884727;7;1;0;8;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Korte Gasthuisstraat;18;;Korte Gasthuisstraat 16-18;152468,042;211894,952
+ANTWERPEN-WEST - FH06;2064243;3;1;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Wiegstraat;26;;;152474,705;211983,648
+ANTWERPEN-WEST - FH06;54899;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Everdijstraat;23;;;152352,474;211850,802
+ANTWERPEN-WEST - FH06;1884742;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Gasthuisstraat;20;;;152470,186;211890,176
+ANTWERPEN-WEST - FH06;2064244;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Wiegstraat;28;;;152473,415;211979,902
+ANTWERPEN-WEST - FH06;54901;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Everdijstraat;11;;;152315,966;211851,937
+ANTWERPEN-WEST - FH06;1884816;0;1;0;1;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;28;;Korte Gasthuisstraat 26-28;152478,245;211870,377
+ANTWERPEN-WEST - FH06;2064245;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;30;;;152470,094;211977,185
+ANTWERPEN-WEST - FH06;54902;3;0;0;3;MDU;;Y;NA;2;6;;;Y;;BUILDING template;Everdijstraat;30;;;152446,365;211831,5
+ANTWERPEN-WEST - FH06;1884838;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Korte Gasthuisstraat;30;;;152479,79;211866,824
+ANTWERPEN-WEST - FH06;2064246;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Wiegstraat;32;;;152468,797;211973,658
+ANTWERPEN-WEST - FH06;54903;2;0;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Everdijstraat;7;;;152308,431;211854,25
+ANTWERPEN-WEST - FH06;1884866;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Gasthuisstraat;32;;;152482,118;211862,099
+ANTWERPEN-WEST - FH06;2064247;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Wiegstraat;34;;;152467,049;211970,192
+ANTWERPEN-WEST - FH06;54904;3;0;0;3;MDU;XA;N;ORN;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;1;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152299,428;211852,601
+ANTWERPEN-WEST - FH06;1884894;59;0;2;61;MDU;;N;IRREG;2;0;;;Y;_;BUILDING template;Korte Gasthuisstraat;36;;;152485,968;211825,874
+ANTWERPEN-WEST - FH06;2068354;0;1;0;1;SDU;;N;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Sint-Katelijnevest;34;;;152540,184;212214,961
+ANTWERPEN-WEST - FH06;55285;0;1;0;1;MDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;8;;Lange Gasthuisstraat 8_Oudaan 32;152511,16;211757,571
+ANTWERPEN-WEST - FH06;1884988;0;2;0;2;MDU;D;Y;NA;5;4;;;Y;;BUILDING template;Lange Gasthuisstraat;12;;;152513,384;211742,109
+ANTWERPEN-WEST - FH06;2068356;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Sint-Katelijnevest;38;;;152539,71;212206,422
+ANTWERPEN-WEST - FH06;55287;1;0;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Rosier;25;;;152393,403;211564,693
+ANTWERPEN-WEST - FH06;1885037;0;1;0;1;MDU;;N;IRREG;5;5;;;Y;_;BUILDING template;Lange Gasthuisstraat;16;;Lange Gasthuisstraat 16-18;152514,88;211727,421
+ANTWERPEN-WEST - FH06;2068358;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Katelijnevest;42;;;152539,511;212198,273
+ANTWERPEN-WEST - FH06;55288;1;0;0;1;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;23;;Rosier 21-23;152382,444;211566,953
+ANTWERPEN-WEST - FH06;1885054;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;24;;;152522,924;211663,35
+ANTWERPEN-WEST - FH06;2068359;3;1;0;4;MDU;D;Y;NA;4;6;;;Y;_;BUILDING template;Sint-Katelijnevest;44;;;152539,467;212193,383
+ANTWERPEN-WEST - FH06;55290;4;0;0;4;MDU;D;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;17;;;152367,787;211566,884
+ANTWERPEN-WEST - FH06;1892885;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;1;;;152502;211466
+ANTWERPEN-WEST - FH06;2068361;0;1;0;1;SDU;;Y;NA;2;6;;;Y;_;BUILDING template;Sint-Katelijnevest;46;;;152539,378;212187,198
+ANTWERPEN-WEST - FH06;55291;1;0;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;47;;;152457,719;211567,227
+ANTWERPEN-WEST - FH06;1892898;0;1;0;1;MDU;;N;IRREG;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Maarschalk Gerardstraat;4;A;Maarschalk Gerardstraat 4-4A;152475,622;211481,405
+ANTWERPEN-WEST - FH06;2068422;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;8;;;152241,915;211968,573
+ANTWERPEN-WEST - FH06;55292;1;0;0;1;MDU;D;Y;NA;4;3;;;Y;;BUILDING template;Rosier;1;;Bredestraat 43_Rosier 1;152335,115;211571,816
+ANTWERPEN-WEST - FH06;1892908;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;5;;;152492,656;211454,584
+ANTWERPEN-WEST - FH06;2068425;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;12;;;152251,337;211966,272
+ANTWERPEN-WEST - FH06;55294;2;1;0;3;MDU;D;Y;NA;3;4;;;Y;_;BUILDING template;Vleminckveld;8;;;152355,973;211667,536
+ANTWERPEN-WEST - FH06;1892918;3;2;0;5;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;6;;;152470,87;211465,994
+ANTWERPEN-WEST - FH06;2068427;0;1;0;1;MDU;;N;IRREG;4;0;;;Y;_;BUILDING template;Lombardenvest;15;;Geefsstraat 5_Lombardenvest 15-19;152357,365;211963,945
+ANTWERPEN-WEST - FH06;55296;4;0;0;4;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;60;;;152462,239;211567,432
+ANTWERPEN-WEST - FH06;1892929;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;7;;;152486,263;211445,849
+ANTWERPEN-WEST - FH06;2068428;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;16;;;152259,706;211964,543
+ANTWERPEN-WEST - FH06;1892935;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;8;;;152467,034;211454,213
+ANTWERPEN-WEST - FH06;2068429;0;1;0;1;MDU;;N;IRREG;4;0;;;Y;_;BUILDING template;Lombardenvest;19;;Geefsstraat 5_Lombardenvest 15-19;152363,818;211964,108
+ANTWERPEN-WEST - FH06;1892939;2;1;0;3;MDU;D;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;9;;;152479,447;211435,851
+ANTWERPEN-WEST - FH06;2068430;0;1;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Lombardenvest;23;;;152404;211985
+ANTWERPEN-WEST - FH06;1892950;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;11;;;152477,783;211425,564
+ANTWERPEN-WEST - FH06;2068431;6;0;0;6;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;25;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152401,337;211977,017
+ANTWERPEN-WEST - FH06;55309;0;2;0;2;MDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Oudaan;14;;;152400,563;211745,559
+ANTWERPEN-WEST - FH06;1892977;5;0;0;5;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;13;;;152475,015;211420,547
+ANTWERPEN-WEST - FH06;2068432;16;0;0;16;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;29;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152373,106;211960,645
+ANTWERPEN-WEST - FH06;55310;10;1;0;11;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Oudaan;2;;;152349,57;211739,585
+ANTWERPEN-WEST - FH06;1893001;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;15;;;152467,933;211417,946
+ANTWERPEN-WEST - FH06;2068433;0;1;0;1;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;31;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152373,316;211955,45
+ANTWERPEN-WEST - FH06;55312;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oudaan;12;;;152384,78;211747,198
+ANTWERPEN-WEST - FH06;1893042;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;18;;;152430,767;211403,786
+ANTWERPEN-WEST - FH06;2068435;0;1;0;1;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;35;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152383,653;211953,981
+ANTWERPEN-WEST - FH06;55313;2;1;0;3;MDU;;N;IRREG;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;20;;;152444,721;211752,401
+ANTWERPEN-WEST - FH06;1893085;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;20;;;152423,22;211392,5
+ANTWERPEN-WEST - FH06;2068436;0;1;0;1;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Lombardenvest;37;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152387,484;211953,509
+ANTWERPEN-WEST - FH06;55316;4;0;0;4;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Everdijstraat;2;;Everdijstraat 2-4_Kammenstraat 69;152293,731;211837,655
+ANTWERPEN-WEST - FH06;1893137;4;0;0;4;MDU;D;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;24;;;152416,401;211378,615
+ANTWERPEN-WEST - FH06;2068437;0;1;0;1;MDU;;Y;NA;4;3;;;Y;;BUILDING template;Lombardenvest;39;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152391,262;211952,984
+ANTWERPEN-WEST - FH06;55346;0;5;0;5;MDU;;Y;NA;6;5;;;Y;_;BUILDING template;Oudaan;1;;;152330,883;211771,702
+ANTWERPEN-WEST - FH06;1893166;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;26;;;152413,216;211372,596
+ANTWERPEN-WEST - FH06;2068438;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Lombardenvest;42;;;152330,202;211949,939
+ANTWERPEN-WEST - FH06;55481;6;1;0;7;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Mechelseplein;20;;;152520,798;211429,477
+ANTWERPEN-WEST - FH06;1893189;3;2;0;5;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;28;;;152409,947;211365,028
+ANTWERPEN-WEST - FH06;55483;2;1;0;3;MDU;D;Y;NA;2;3;;;Y;Geen crepi gevel;BUILDING template;Bervoetstraat;1;;;152267,375;211369,966
+ANTWERPEN-WEST - FH06;1893194;1;0;0;1;MDU;D;Y;NA;1;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;29;;Maarschalk Gerardstraat 29-31;152451,627;211367,031
+ANTWERPEN-WEST - FH06;6629699;0;1;0;1;SDU;;Y;NA;5;5;;;Y;_;BUILDING template;Lombardenvest;61;;;152438,016;211963,186
+ANTWERPEN-WEST - FH06;55484;1;0;0;1;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;55;;Bervoetstraat 51-55;152397,315;211353,319
+ANTWERPEN-WEST - FH06;1921113;0;1;0;1;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Groenkerkhofstraat;5;;Groenplaats 1_Groenkerkhofstraat 5-7;152229,048;212097,452
+ANTWERPEN-WEST - FH06;2068441;0;1;0;1;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Lombardenvest;49;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152397,506;211952,197
+ANTWERPEN-WEST - FH06;55485;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;47;;;152379,707;211352,562
+ANTWERPEN-WEST - FH06;1921159;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;5;;;152243,605;212137,578
+ANTWERPEN-WEST - FH06;2068442;6;0;0;6;MDU;;Y;NA;5;5;;;Y;;BUILDING template;Lombardenvest;51;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152401,284;211951,514
+ANTWERPEN-WEST - FH06;55486;2;0;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;49;;;152384,256;211353,406
+ANTWERPEN-WEST - FH06;1921165;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;6;;;152247,254;212143,4
+ANTWERPEN-WEST - FH06;2068443;0;1;0;1;MDU;;Y;NA;5;55;;;Y;_;BUILDING template;Lombardenvest;53;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152405,272;211948,209
+ANTWERPEN-WEST - FH06;55500;1;0;0;1;SDU;;Y;NA;3;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;85;;;152259,91;211369,829
+ANTWERPEN-WEST - FH06;1921170;3;1;0;4;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;7;;;152243,87;212149,821
+ANTWERPEN-WEST - FH06;2068444;3;1;1;5;MDU;D;Y;NA;4;8;;;Y;_;BUILDING template;Lombardenvest;56;;;152387,175;211938,8
+ANTWERPEN-WEST - FH06;55501;2;0;0;2;MDU;;Y;NA;5;5;;;Y;;BUILDING template;Begijnenstraat;31;;;152298,882;211498,802
+ANTWERPEN-WEST - FH06;1921177;12;1;0;13;MDU;;Y;NA;7;3;;;Y;_;BUILDING template;Groenplaats;8;;Groenplaats 8_Oude Koornmarkt 57-59;152245,403;212160,519
+ANTWERPEN-WEST - FH06;2068445;16;1;0;17;MDU;;Y;NA;5;5;;;Y;;BUILDING template;Lombardenvest;63;;;152431,77;211961,813
+ANTWERPEN-WEST - FH06;55503;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Begijnenstraat;1;;;152317,855;211553,254
+ANTWERPEN-WEST - FH06;1921194;2;1;0;3;MDU;;Y;MON;3;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;10;;Groenplaats 9-10;152246,09;212178,274
+ANTWERPEN-WEST - FH06;2068446;0;1;0;1;SDU;;Y;NA;5;5;;;Y;;BUILDING template;Lombardenvest;65;;;152441,794;211965,63
+ANTWERPEN-WEST - FH06;55504;4;0;0;4;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Vleminckveld;62;;;152472,719;211556,473
+ANTWERPEN-WEST - FH06;1921200;10;1;0;11;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Groenplaats;11;;;152245,287;212187,369
+ANTWERPEN-WEST - FH06;2068447;0;2;0;2;MDU;;Y;NA;5;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenvest;76;;;152438,185;211932,63
+ANTWERPEN-WEST - FH06;55505;0;1;0;1;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Vleminckveld;68;;Vleminckveld 68-70;152479,153;211541,533
+ANTWERPEN-WEST - FH06;1921210;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;13;;;152243,398;212198,956
+ANTWERPEN-WEST - FH06;2068448;8;1;0;9;MDU;;Y;NA;5;8;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenvest;78;;Lombardenvest 78-80;152443,617;211931,922
+ANTWERPEN-WEST - FH06;1921214;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Groenplaats;14;;;152242,074;212203,57
+ANTWERPEN-WEST - FH06;1921232;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;17;;;152260,379;212216,39
+ANTWERPEN-WEST - FH06;3923483;9;0;0;9;MDU;XC;N;ORN;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;3;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;152306,628;211874,007
+ANTWERPEN-WEST - FH06;55508;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;42;;;152467,719;211551,61
+ANTWERPEN-WEST - FH06;1921239;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;18;;;152265,807;212214,233
+ANTWERPEN-WEST - FH06;55509;0;1;0;1;SDU;;Y;NA;4;3;;;Y;;BUILDING template;Rosier;32;;;152450;211539
+ANTWERPEN-WEST - FH06;1921243;0;1;0;1;SDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Groenplaats;19;;;152270,22;212212,627
+ANTWERPEN-WEST - FH06;3985734;0;1;0;1;SDU;;N;MON;5;3;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;14;;;152450,545;212034,734
+ANTWERPEN-WEST - FH06;55511;2;1;0;3;MDU;D;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;30;;;152405,647;211357,65
+ANTWERPEN-WEST - FH06;1921248;0;1;0;1;SDU;;Y;MON;3;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;20;;;152273,505;212210,252
+ANTWERPEN-WEST - FH06;4002765;2;0;0;2;MDU;D;Y;NA;2;3;;;Y;_;BUILDING template;Rosier;7;;;152347,65;211569,556
+ANTWERPEN-WEST - FH06;55512;0;1;0;1;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Maarschalk Gerardstraat;16;;Maarschalk Gerardstraat 12-14-16;152447,785;211426,008
+ANTWERPEN-WEST - FH06;1921250;0;1;0;1;SDU;;Y;MON;1;4;Monument;;Y;MON;BUILDING template;Groenplaats;21;;;152288,46;212210,616
+ANTWERPEN-WEST - FH06;4008183;0;1;0;1;MDU;;Y;MON;4;5;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;5;;Oude Koornmarkt 5-7;152155,087;212284,695
+ANTWERPEN-WEST - FH06;55513;0;1;0;1;MDU;;N;ORN;3;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;4;;Maarschalk Gerardstraat 4-4A;152477,376;211486,816
+ANTWERPEN-WEST - FH06;1921257;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_;BUILDING template;Groenplaats;22;;;152293,901;212207,105
+ANTWERPEN-WEST - FH06;4008924;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;12;;;152247,565;212194,733
+ANTWERPEN-WEST - FH06;55514;4;0;0;4;MDU;D;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;3;;;152497,876;211461,013
+ANTWERPEN-WEST - FH06;1921262;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;23;;;152298,014;212204,875
+ANTWERPEN-WEST - FH06;4011250;0;1;0;1;SDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oude Koornmarkt;63;;;152226,749;212147,76
+ANTWERPEN-WEST - FH06;55515;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;17;;;152467,425;211410,997
+ANTWERPEN-WEST - FH06;1921267;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;25;;;152303,676;212206,288
+ANTWERPEN-WEST - FH06;4015036;4;1;0;5;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Kammenstraat;83;;;152315,324;211795,94
+ANTWERPEN-WEST - FH06;56509;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;15;;;152238,536;212208,257
+ANTWERPEN-WEST - FH06;1921273;2;1;0;3;MDU;;Y;MON;5;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;26;;;152310,696;212206,936
+ANTWERPEN-WEST - FH06;4016417;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;5;;;152315,321;211545,583
+ANTWERPEN-WEST - FH06;56510;0;1;0;1;MDU;;Y;MON;3;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;9;;Groenplaats 9-10;152242,104;212170,441
+ANTWERPEN-WEST - FH06;4016456;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;24;;;152299,193;212208,936
+ANTWERPEN-WEST - FH06;56516;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Papenstraatje;1;;;152228,485;212201,228
+ANTWERPEN-WEST - FH06;1921307;0;1;0;1;SDU;;N;IRREG;3;4;;;Y;;BUILDING template;Groenplaats;32;;;152344;212148
+ANTWERPEN-WEST - FH06;56529;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Oude Koornmarkt;75;;;152220,087;212104,956
+ANTWERPEN-WEST - FH06;1921317;0;2;0;2;MDU;;N;MON;4;3;Monument;;Y;_ MON;BUILDING template;Groenplaats;33;;;152347,456;212115,885
+ANTWERPEN-WEST - FH06;56530;0;1;0;1;MDU;D;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oude Koornmarkt;1;;Oude Koornmarkt 1-3;152149,513;212290,878
+ANTWERPEN-WEST - FH06;1933750;0;1;0;1;SDU;;Y;MON;3;3;Monument;;Y;Review Required MON;BUILDING template;Handschoenmarkt;4;;;152164,92;212284,732
+ANTWERPEN-WEST - FH06;4043087;2;1;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;10;;;152462,171;211445,925
+ANTWERPEN-WEST - FH06;56533;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Oude Koornmarkt;39;;;152211,866;212213,601
+ANTWERPEN-WEST - FH06;1933759;0;1;0;1;SDU;;Y;MON;4;6;Monument;;Y;Review Required MON;BUILDING template;Handschoenmarkt;8;;;152172,869;212277,334
+ANTWERPEN-WEST - FH06;4063591;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;22;;;152418,693;211385,593
+ANTWERPEN-WEST - FH06;56535;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Oude Koornmarkt;41;;;152217,07;212199,478
+ANTWERPEN-WEST - FH06;1933772;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Handschoenmarkt;10;;;152177,458;212272,842
+ANTWERPEN-WEST - FH06;4184634;1;0;0;1;SDU;;N;ORN;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;39;;;152292,444;211480,24
+ANTWERPEN-WEST - FH06;56538;0;1;0;1;SDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;21;;;152187,481;212257,71
+ANTWERPEN-WEST - FH06;1933777;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Handschoenmarkt;12;;;152181,95;212268,505
+ANTWERPEN-WEST - FH06;4190505;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;29;;;152337,239;211602,981
+ANTWERPEN-WEST - FH06;56540;0;1;0;1;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Oude Koornmarkt;57;;Groenplaats 8_Oude Koornmarkt 57-59;152230,058;212161,781
+ANTWERPEN-WEST - FH06;1933787;0;1;0;1;MDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Handschoenmarkt;14;;Handschoenmarkt 14_Oude Koornmarkt 15-17-19;152185,995;212263,531
+ANTWERPEN-WEST - FH06;4257539;3;0;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Sudermanstraat;18;;;152463,371;212188,009
+ANTWERPEN-WEST - FH06;56541;0;1;0;1;SDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;61;;;152226,952;212151,917
+ANTWERPEN-WEST - FH06;1959758;3;1;0;4;MDU;D;Y;NA;4;6;;;Y;_;BUILDING template;Kammenstraat;25;;;152230,068;211957,085
+ANTWERPEN-WEST - FH06;4259238;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckveld;54;;;152454,089;211572,364
+ANTWERPEN-WEST - FH06;56542;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;2;;;152198,788;212249,707
+ANTWERPEN-WEST - FH06;1959759;3;1;0;4;MDU;D;Y;NA;4;6;;;Y;_;BUILDING template;Kammenstraat;29;;;152229,478;211950,413
+ANTWERPEN-WEST - FH06;4504564;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;32;;;152349,856;211337,355
+ANTWERPEN-WEST - FH06;56543;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;8;;;152221,176;212219,039
+ANTWERPEN-WEST - FH06;1959761;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kammenstraat;31;;;152233,572;211945,65
+ANTWERPEN-WEST - FH06;4504567;6;0;0;6;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Bervoetstraat;38;;;152375,15;211336,731
+ANTWERPEN-WEST - FH06;59537;0;1;0;1;SDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schrijnwerkersstraat;1;;;152446,132;212028,261
+ANTWERPEN-WEST - FH06;1959763;0;1;0;1;SDU;;Y;NA;3;6;;;Y;_;BUILDING template;Kammenstraat;33;;;152236,279;211936,932
+ANTWERPEN-WEST - FH06;4504570;1;0;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Bervoetstraat;18;;;152304,91;211341,335
+ANTWERPEN-WEST - FH06;59538;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Schrijnwerkersstraat;25;;;152461,7;211961,459
+ANTWERPEN-WEST - FH06;1959769;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;37;;;152239,024;211929,953
+ANTWERPEN-WEST - FH06;4504598;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;;BUILDING template;Terninckstraat;9;;;152306,327;211298,802
+ANTWERPEN-WEST - FH06;59539;0;1;0;1;MDU;;Y;NA;7;3;Beschermd Erfgoed;;Y;_;BUILDING template;Schoenmarkt;22;;Meirbrug 2-4_Schoenmarkt 22;152476,693;212047,328
+ANTWERPEN-WEST - FH06;1959770;1;1;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Kammenstraat;39;;;152241,592;211924,392
+ANTWERPEN-WEST - FH06;4504600;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;91;;;152257,786;211343,938
+ANTWERPEN-WEST - FH06;59540;0;1;0;1;SDU;;N;ORN;4;3;;;Y;_;BUILDING template;Schoenmarkt;14;A;;152457,005;212032,982
+ANTWERPEN-WEST - FH06;1959771;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kammenstraat;41;;;152244,336;211918,545
+ANTWERPEN-WEST - FH06;4504648;1;0;0;1;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;33;;Begijnenstraat 33-35;152296,143;211491,268
+ANTWERPEN-WEST - FH06;6629698;0;1;0;1;MDU;;N;ORN;1;1;;;Y;_;BUILDING template;Vleminckveld;9;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152377,084;211680,397
+ANTWERPEN-WEST - FH06;NB-200032695193;2;0;0;2;MDU;;Y;NA;3;4;;;;_;BUILDING template;Sint-Katelijnevest;32;;;152542;212223
+ANTWERPEN-WEST - FH06;59548;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Wiegstraat;36;;;152465,157;211966,24
+ANTWERPEN-WEST - FH06;1959773;7;1;0;8;MDU;;Y;NA;6;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;43;;;152249,935;211909,453
+ANTWERPEN-WEST - FH06;4504652;0;1;0;1;MDU;;Y;NA;4;10;;;Y;;BUILDING template;Begijnenstraat;49;;Begijnenstraat 49-55;152290;211463
+ANTWERPEN-WEST - FH06;59553;0;1;0;1;SDU;;N;MON;4;5;Monument;;Y;Review Required MON;BUILDING template;Wiegstraat;16;;;152484,474;212003,815
+ANTWERPEN-WEST - FH06;1959775;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;45;;;152254,451;211900,063
+ANTWERPEN-WEST - FH06;60040;3;1;0;4;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;13;;Korte Nieuwstraat 2_Melkmarkt 13;152380,794;212296,92
+ANTWERPEN-WEST - FH06;1959778;12;2;0;14;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;47;;;152258,755;211893,444
+ANTWERPEN-WEST - FH06;4504657;1;0;0;1;SDU;;Y;NA;2;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;67;;;152270,869;211416,404
+ANTWERPEN-WEST - FH06;60041;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Melkmarkt;31;;;152387,321;212228,919
+ANTWERPEN-WEST - FH06;1959779;0;1;0;1;MDU;D;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;49;;Kammenstraat 49-53;152262,181;211884,904
+ANTWERPEN-WEST - FH06;60042;4;1;0;5;MDU;;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;23;;;152379,329;212256,993
+ANTWERPEN-WEST - FH06;1959780;0;1;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Kammenstraat;51;;;152285,875;211886,907
+ANTWERPEN-WEST - FH06;4504659;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;71;;;152267,718;211405,514
+ANTWERPEN-WEST - FH06;60043;2;1;0;3;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;21;;;152378,612;212263,23
+ANTWERPEN-WEST - FH06;1959782;3;1;0;4;MDU;D;Y;NA;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;53;;Kammenstraat 49-53;152265,956;211877,937
+ANTWERPEN-WEST - FH06;4504660;1;1;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;73;;;152266,622;211399,007
+ANTWERPEN-WEST - FH06;60044;3;2;0;5;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Melkmarkt;25;;;152380,696;212248,935
+ANTWERPEN-WEST - FH06;1959786;12;0;1;13;MDU;XA;N;ORN;5;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;59;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152273,53;211866,984
+ANTWERPEN-WEST - FH06;60046;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Sint-Katelijnevest;50;;;152537,852;212176,469
+ANTWERPEN-WEST - FH06;1959787;0;1;0;1;MDU;XA;N;ORN;5;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;61;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152275,236;211863,317
+ANTWERPEN-WEST - FH06;4504662;7;0;0;7;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Begijnenstraat;77;;;152268;211387
+ANTWERPEN-WEST - FH06;60049;6;0;0;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Korte Nieuwstraat;2;;Korte Nieuwstraat 2_Melkmarkt 13;152387,361;212295,031
+ANTWERPEN-WEST - FH06;1959789;0;1;0;1;MDU;XA;N;IRREG;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;63;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152278,099;211858,784
+ANTWERPEN-WEST - FH06;60070;10;0;0;10;MDU;;N;ORN;6;0;;;Y;_;BUILDING template;Sudermanstraat;2;;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B;152480,35;212240,555
+ANTWERPEN-WEST - FH06;1959795;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;71;;;152301,113;211832,513
+ANTWERPEN-WEST - FH06;4504664;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;83;;;152261,074;211374,555
+ANTWERPEN-WEST - FH06;6629697;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Vleminckveld;58;;;152460,743;211569,574
+ANTWERPEN-WEST - FH06;60071;10;2;0;12;MDU;;N;ORN;6;0;;;Y;_;BUILDING template;Sudermanstraat;6;;Sudermanstraat 6-6A-6B_Vleminckstraat 23;152477,096;212223,344
+ANTWERPEN-WEST - FH06;1959797;0;1;0;1;SDU;;N;MON;3;4;Monument;;Y;_ MON;BUILDING template;Kammenstraat;75;;;152307,599;211811,09
+ANTWERPEN-WEST - FH06;4504685;5;0;0;5;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;12;;Mechelseplein 10-12;152509;211462
+ANTWERPEN-WEST - FH06;60073;2;1;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Beggaardenstraat;23;;;152533,308;212177,132
+ANTWERPEN-WEST - FH06;1959799;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Kammenstraat;79;;;152310,45;211805,27
+ANTWERPEN-WEST - FH06;60075;4;1;0;5;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Beggaardenstraat;21;;;152528,842;212178,779
+ANTWERPEN-WEST - FH06;1959800;0;1;0;1;SDU;;Y;NA;3;8;;;Y;_;BUILDING template;Kammenstraat;81;;;152313,47;211799,904
+ANTWERPEN-WEST - FH06;60534;0;7;0;7;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;16;;;152419,02;211750,069
+ANTWERPEN-WEST - FH06;1959803;4;0;0;4;MDU;;Y;NA;3;4;;;Y;_;BUILDING template;Kammenstraat;85;;;152319,232;211790,124
+ANTWERPEN-WEST - FH06;4504704;0;1;0;1;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;14;;Maarschalk Gerardstraat 12-14-16;152454,361;211433,119
+ANTWERPEN-WEST - FH06;60535;0;1;0;1;SDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Lange Gasthuisstraat;32;;;152520,527;211605,828
+ANTWERPEN-WEST - FH06;1960302;2;1;0;3;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Kasteelpleinstraat;5;;;152268,266;211313,253
+ANTWERPEN-WEST - FH06;60536;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;30;;;152518,943;211623,488
+ANTWERPEN-WEST - FH06;1960303;3;1;0;4;MDU;D;Y;NA;4;5;;;Y;_;BUILDING template;Kasteelpleinstraat;7;;;152270,304;211306,383
+ANTWERPEN-WEST - FH06;4504710;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;9;;;152312,855;211538,802
+ANTWERPEN-WEST - FH06;60537;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;28;;;152522,207;211637,165
+ANTWERPEN-WEST - FH06;1968721;1;0;0;1;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Oude Koornmarkt;3;;Oude Koornmarkt 1-3;152153,496;212288,472
+ANTWERPEN-WEST - FH06;4504711;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;11;;;152311,554;211535,309
+ANTWERPEN-WEST - FH06;60538;0;1;0;1;SDU;;Y;NA;6;5;;;Y;_;BUILDING template;Lange Gasthuisstraat;22;;;152524,245;211676,895
+ANTWERPEN-WEST - FH06;1968732;0;1;0;1;MDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;7;;Oude Koornmarkt 5-7;152161,879;212278,813
+ANTWERPEN-WEST - FH06;4504717;0;1;0;1;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;24;;Rosier 20-22-24;152415,184;211538,391
+ANTWERPEN-WEST - FH06;60539;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lange Gasthuisstraat;26;;;152523,485;211648,149
+ANTWERPEN-WEST - FH06;1968739;1;1;0;2;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Oude Koornmarkt;9;;;152167,536;212275,547
+ANTWERPEN-WEST - FH06;4505397;1;0;0;1;SDU;;Y;MON;4;3;Monument;;Y;Review Required MON;BUILDING template;Lijnwaadmarkt;12;;;152331,052;212281,837
+ANTWERPEN-WEST - FH06;60705;4;1;0;5;MDU;;Y;MON;4;3;Monument;;Y;_ MON;BUILDING template;Groenkerkhofstraat;1;;;152218,797;212100,056
+ANTWERPEN-WEST - FH06;1968741;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Oude Koornmarkt;11;;;152170,282;212272,784
+ANTWERPEN-WEST - FH06;4505406;0;1;0;1;MDU;;Y;MON;2;3;Monument;;Y;_ MON;BUILDING template;Jan Blomstraat;3;;Jan Blomstraat 3-5-7;152237,084;212229,921
+ANTWERPEN-WEST - FH06;60706;3;0;0;3;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Groenkerkhofstraat;7;;Groenplaats 1_Groenkerkhofstraat 5-7;152236,84;212095,204
+ANTWERPEN-WEST - FH06;1968748;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Oude Koornmarkt;13;;;152172,954;212269,632
+ANTWERPEN-WEST - FH06;4506481;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;5;;;152345;211571
+ANTWERPEN-WEST - FH06;60707;0;1;0;1;SDU;;Y;NA;4;6;;;Y;_;BUILDING template;Groenkerkhofstraat;3;;;152223,923;212098,795
+ANTWERPEN-WEST - FH06;1968754;0;1;0;1;MDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;15;;Handschoenmarkt 14_Oude Koornmarkt 15-17-19;152175,807;212266,558
+ANTWERPEN-WEST - FH06;4506491;4;0;0;4;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Bredestraat;41;;;152331,759;211578,049
+ANTWERPEN-WEST - FH06;60728;2;1;0;3;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Oude Koornmarkt;69;;;152222,689;212125,098
+ANTWERPEN-WEST - FH06;1968769;1;0;0;1;MDU;;Y;MON;5;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;17;;Handschoenmarkt 14_Oude Koornmarkt 15-17-19;152178,808;212263,818
+ANTWERPEN-WEST - FH06;4506498;3;0;0;3;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;31;;Rosier 29A-29B-31;152404,979;211565,857
+ANTWERPEN-WEST - FH06;4506499;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;33;;;152411,828;211564,898
+ANTWERPEN-WEST - FH06;60730;0;1;0;1;MDU;;Y;NA;3;8;;;Y;_;BUILDING template;Groenplaats;1;;Groenplaats 1_Groenkerkhofstraat 5-7;152243,979;212102,217
+ANTWERPEN-WEST - FH06;1968833;0;1;0;1;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Oude Koornmarkt;31;;Oude Koornmarkt 31-33-35;152205,084;212224,687
+ANTWERPEN-WEST - FH06;60731;10;2;0;12;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Groenplaats;2;;Groenplaats 2-3;152244,607;212109,514
+ANTWERPEN-WEST - FH06;1968850;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Oude Koornmarkt;37;;;152209,172;212217,029
+ANTWERPEN-WEST - FH06;60732;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;4;;;152247,088;212133,139
+ANTWERPEN-WEST - FH06;1968891;4;1;0;5;MDU;;Y;NA;5;4;;;Y;_;BUILDING template;Oude Koornmarkt;49;;;152220,467;212185,59
+ANTWERPEN-WEST - FH06;4506507;1;0;0;1;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Vleminckveld;34;;Vleminckveld 32-34;152413,731;211613,507
+ANTWERPEN-WEST - FH06;61205;0;1;0;1;SDU;;N;IRREG;5;4;;;Y;_;BUILDING template;Beggaardenstraat;1;;;152494,468;212199,667
+ANTWERPEN-WEST - FH06;1968899;1;1;0;2;MDU;;Y;NA;2;4;;;Y;_;BUILDING template;Oude Koornmarkt;51;;;152222,839;212179,154
+ANTWERPEN-WEST - FH06;4506514;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Kammenstraat;73;;;152313,991;211825,224
+ANTWERPEN-WEST - FH06;61206;4;1;0;5;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Melkmarkt;44;;;152373,252;212190,572
+ANTWERPEN-WEST - FH06;1968902;3;1;0;4;MDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;53;;;152223,945;212171,101
+ANTWERPEN-WEST - FH06;4509219;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;17;;;152453,056;211978,705
+ANTWERPEN-WEST - FH06;61207;0;1;0;1;SDU;;Y;NA;2;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;40;;;152371,163;212199,666
+ANTWERPEN-WEST - FH06;1968966;0;1;0;1;MDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oude Koornmarkt;65;;Oude Koornmarkt 65-67;152225,289;212137,859
+ANTWERPEN-WEST - FH06;61208;0;1;0;1;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;41;;Eiermarkt 7_Melkmarkt 41;152391,242;212187,274
+ANTWERPEN-WEST - FH06;1968968;2;1;0;3;MDU;;Y;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;71;;;152222,099;212117,057
+ANTWERPEN-WEST - FH06;4509236;0;2;6;8;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Eiermarkt;35;;;152502;212127
+ANTWERPEN-WEST - FH06;61209;0;1;0;1;SDU;;Y;NA;5;3;;;Y;_;BUILDING template;Melkmarkt;33;;;152389,115;212215,447
+ANTWERPEN-WEST - FH06;1968970;2;1;0;3;MDU;;Y;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;73;;;152221,045;212110,321
+ANTWERPEN-WEST - FH06;61210;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Sudermanstraat;14;;;152466,272;212195,079
+ANTWERPEN-WEST - FH06;1990847;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;2;;;152308,459;212292,913
+ANTWERPEN-WEST - FH06;4509248;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Vleminckstraat;6;;;152415,057;212207,5
+ANTWERPEN-WEST - FH06;61211;0;1;0;1;MDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Sudermanstraat;24;;Eiermarkt 25_Sudermanstraat 24;152452,355;212166,812
+ANTWERPEN-WEST - FH06;1990850;0;1;0;1;SDU;;Y;MON;2;3;Monument;;Y;_ MON;BUILDING template;Lijnwaadmarkt;4;;;152313,64;212291,266
+ANTWERPEN-WEST - FH06;4509452;0;1;0;1;SDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;22;;;152440,895;212270,628
+ANTWERPEN-WEST - FH06;61212;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sudermanstraat;12;;;152468,524;212200,036
+ANTWERPEN-WEST - FH06;1990857;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;6;;;152319,794;212289,104
+ANTWERPEN-WEST - FH06;4509455;1;1;0;2;MDU;D;Y;NA;3;6;;;Y;_;BUILDING template;Sint-Katelijnevest;36;;;152539,354;212210,828
+ANTWERPEN-WEST - FH06;61214;6;0;0;6;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckstraat;2;;;152389,115;212215,447
+ANTWERPEN-WEST - FH06;1990861;0;1;0;1;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;8;;Lijnwaadmarkt 8-10;152324,834;212287,225
+ANTWERPEN-WEST - FH06;4509456;3;1;0;4;MDU;D;N;ORN;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Katelijnevest;40;;;152539,474;212202
+ANTWERPEN-WEST - FH06;1990865;0;1;0;1;MDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;10;;Lijnwaadmarkt 8-10;152327,335;212284,84
+ANTWERPEN-WEST - FH06;4510360;5;2;0;7;MDU;;N;ORN;5;5;;;Y;_;BUILDING template;Lange Gasthuisstraat;18;;Lange Gasthuisstraat 16-18;152516,32;211723,238
+ANTWERPEN-WEST - FH06;61217;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Vleminckstraat;12;;;152438;212202
+ANTWERPEN-WEST - FH06;1990873;0;1;0;1;SDU;;Y;MON;4;3;Monument;;Y;Review Required MON;BUILDING template;Lijnwaadmarkt;14;;;152337,363;212276,378
+ANTWERPEN-WEST - FH06;4511723;1;0;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenvest;28;;;152289,198;211953,261
+ANTWERPEN-WEST - FH06;61218;6;2;0;8;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Vleminckstraat;16;;;152455,744;212198,331
+ANTWERPEN-WEST - FH06;1992418;1;0;0;1;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_;BUILDING template;Lombardenstraat;4;;Lombardenstraat 2-4;152341,63;211941,762
+ANTWERPEN-WEST - FH06;4511730;3;1;1;5;MDU;D;N;ORN;4;5;;;Y;_;BUILDING template;Lombardenvest;6;;;152231,557;211970,806
+ANTWERPEN-WEST - FH06;61219;0;1;0;1;MDU;;Y;NA;8;3;;;Y;_;BUILDING template;Eiermarkt;41;;Eiermarkt 41_Meirbrug 1;152513;212103
+ANTWERPEN-WEST - FH06;1992421;0;1;0;1;SDU;;Y;NA;6;3;;;Y;_;BUILDING template;Lombardenstraat;6;;;152341,074;211935,613
+ANTWERPEN-WEST - FH06;4511739;1;0;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Lombardenstraat;32;;;152347,496;211868,568
+ANTWERPEN-WEST - FH06;61220;0;2;6;8;MDU;;Y;NA;4;4;;;Y;;BUILDING template;Eiermarkt;33;;;152488,602;212132,491
+ANTWERPEN-WEST - FH06;1992428;3;1;0;4;MDU;D;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenstraat;12;;Lombardenstraat 12-14;152335,329;211919,801
+ANTWERPEN-WEST - FH06;4511746;0;1;0;1;MDU;D;Y;NA;5;8;;;Y;_;BUILDING template;Lombardenvest;70;;Lombardenvest 68-70;152426,543;211932,77
+ANTWERPEN-WEST - FH06;61222;0;3;0;3;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Eiermarkt;13;;Eiermarkt 13-17;152430,889;212185,057
+ANTWERPEN-WEST - FH06;1992434;2;1;1;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenstraat;16;;;152342,446;211909,947
+ANTWERPEN-WEST - FH06;4511775;0;1;0;1;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Korte Gasthuisstraat;16;;Korte Gasthuisstraat 16-18;152465,651;211900,162
+ANTWERPEN-WEST - FH06;12377;4;0;0;4;MDU;D;Y;NA;4;5;;;;;BUILDING template;Bredestraat;3;;;152347,71;211660,12
+ANTWERPEN-WEST - FH06;61223;0;1;0;1;SDU;;Y;NA;6;5;;;Y;_;BUILDING template;Eiermarkt;21;;;152439,493;212181,395
+ANTWERPEN-WEST - FH06;1992438;7;0;0;7;MDU;;N;ORN;4;3;;;Y;_;BUILDING template;Lombardenstraat;18;;;152343,499;211901,813
+ANTWERPEN-WEST - FH06;1778760;2;1;0;3;MDU;D;Y;NA;3;5;;;;;BUILDING template;Bredestraat;7;;;152346,073;211652,522
+ANTWERPEN-WEST - FH06;61224;0;1;0;1;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Eiermarkt;25;;Eiermarkt 25_Sudermanstraat 24;152444,295;212162,066
+ANTWERPEN-WEST - FH06;1992442;9;0;0;9;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Lombardenstraat;22;;;152344,852;211891,366
+ANTWERPEN-WEST - FH06;4512159;0;1;0;1;MDU;;Y;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;19;;Handschoenmarkt 14_Oude Koornmarkt 15-17-19;152181,876;212259,507
+ANTWERPEN-WEST - FH06;4070508;0;1;0;1;MDU;XC;Y;NA;3;4;;;;;BUILDING template;Bredestraat;19;;Bredestraat 19-21;152340,833;211623,688
+ANTWERPEN-WEST - FH06;1992448;1;0;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Lombardenstraat;26;;;152347,969;211880,466
+ANTWERPEN-WEST - FH06;4512161;1;0;0;1;MDU;;Y;NA;1;3;;;Y;_;BUILDING template;Oude Koornmarkt;33;;Oude Koornmarkt 31-33-35;152206,525;212219,759
+ANTWERPEN-WEST - FH06;1778799;6;0;0;6;MDU;XC;Y;NA;3;3;;;;4 entiteiten vooraan en 2 entiteiten achteraan te nr 21;BUILDING template;Bredestraat;21;;Bredestraat 19-21;152340,125;211616,983
+ANTWERPEN-WEST - FH06;61226;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_;BUILDING template;Eiermarkt;1;A;;152361;212191
+ANTWERPEN-WEST - FH06;1992449;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Lombardenstraat;28;;;152347,783;211877,046
+ANTWERPEN-WEST - FH06;1778821;6;0;0;6;MDU;D;Y;NA;4;5;;;;;BUILDING template;Bredestraat;33;;;152336,379;211595,077
+ANTWERPEN-WEST - FH06;61227;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Eiermarkt;5;;;152368,784;212191,085
+ANTWERPEN-WEST - FH06;1992452;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lombardenstraat;30;;;152348,288;211873,704
+ANTWERPEN-WEST - FH06;1778833;4;0;0;4;MDU;D;Y;NA;4;5;;;;;BUILDING template;Bredestraat;37;;;152334,125;211587,147
+ANTWERPEN-WEST - FH06;61228;0;44;0;44;MDU;;N;ORN;9;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Meirbrug;1;;Eiermarkt 41_Meirbrug 1;152516,203;212083,06
+ANTWERPEN-WEST - FH06;1992456;4;1;0;5;MDU;D;Y;NA;5;6;;;Y;_;BUILDING template;Lombardenstraat;34;;;152350,326;211868,219
+ANTWERPEN-WEST - FH06;5373822;0;1;0;1;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;27;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152388,691;211969,88
+ANTWERPEN-WEST - FH06;61251;0;1;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Sint-Pieterstraat;2;;;152353,115;212191,445
+ANTWERPEN-WEST - FH06;1992459;3;1;0;4;MDU;D;Y;NA;4;6;;;Y;_;BUILDING template;Lombardenstraat;36;;;152351,095;211859,245
+ANTWERPEN-WEST - FH06;5383653;1;0;0;1;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;29;A;Rosier 29A-29B-31;152401,143;211564,556
+ANTWERPEN-WEST - FH06;NB-200062e0517;0;1;0;1;SDU;;Y;NA;4;4;;;;_;BUILDING template;Sint-Pieterstraat;6;;;152362;212200
+ANTWERPEN-WEST - FH06;61252;0;1;0;1;SDU;;Y;NA;5;4;;;Y;_;BUILDING template;Sint-Pieterstraat;8;;;152368,541;212205,972
+ANTWERPEN-WEST - FH06;1998288;16;0;0;16;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Kleine Markt;5;;;152350,703;211726,976
+ANTWERPEN-WEST - FH06;5383655;0;1;0;1;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;29;B;Rosier 29A-29B-31;152401,212;211566,953
+ANTWERPEN-WEST - FH06;61310;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Groenplaats;34;;;152346,33;212100,244
+ANTWERPEN-WEST - FH06;1998308;10;1;0;11;MDU;;Y;NA;6;3;;;Y;_;BUILDING template;Kleine Markt;11;;;152357,204;211707,759
+ANTWERPEN-WEST - FH06;173605;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;16;;;152463,073;212036,489
+ANTWERPEN-WEST - FH06;1998314;0;1;0;1;SDU;;Y;NA;3;6;;;Y;_;BUILDING template;Kleine Markt;13;;;152361,653;211702,041
+ANTWERPEN-WEST - FH06;5423872;0;1;0;1;SDU;;Y;NA;1;3;;;Y;_;BUILDING template;Melkmarkt;25;A;;152395,089;212245,181
+ANTWERPEN-WEST - FH06;173881;7;0;0;7;MDU;;Y;NA;8;5;Beschermd Erfgoed;;Y;_;BUILDING template;Wiegstraat;2;;;152506,629;212036,632
+ANTWERPEN-WEST - FH06;1999498;0;1;0;1;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;10;;Mechelseplein 10-12;152511,989;211465,886
+ANTWERPEN-WEST - FH06;5424977;0;1;0;1;SDU;;N;ORN;2;0;;;Y;_;BUILDING template;Boogkeers;5;;;152497,546;211577,965
+ANTWERPEN-WEST - FH06;173882;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_;BUILDING template;Wiegstraat;4;;;152502,044;212030,499
+ANTWERPEN-WEST - FH06;1999501;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;14;;;152516,373;211454,819
+ANTWERPEN-WEST - FH06;5435540;0;1;0;1;MDU;;N;IRREG;15;0;;;Y;;BUILDING template;Oudaan;11;;Oudaan 5-11;152364,401;211814,287
+ANTWERPEN-WEST - FH06;173883;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Wiegstraat;6;;;152500,198;212022,173
+ANTWERPEN-WEST - FH06;1999507;3;1;0;4;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Mechelseplein;16;;;152513,073;211447,742
+ANTWERPEN-WEST - FH06;173884;0;1;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Wiegstraat;10;;;152493,06;212014,88
+ANTWERPEN-WEST - FH06;1999509;0;2;0;2;MDU;D;Y;MON;4;3;Monument;;Y;_ MON;BUILDING template;Mechelseplein;18;;;152518,336;211438,725
+ANTWERPEN-WEST - FH06;5555311;1;0;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Wiegstraat;8;;;152496,545;212017,695
+ANTWERPEN-WEST - FH06;173900;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;40;;;152323,423;211951,426
+ANTWERPEN-WEST - FH06;1999513;1;0;0;1;SDU;;N;IRREG;3;0;;;Y;_;BUILDING template;Mechelseplein;22;A;;152533,483;211397,357
+ANTWERPEN-WEST - FH06;5560963;7;3;0;10;MDU;;Y;NA;6;4;;;Y;_;BUILDING template;Oudaan;22;;;152460,233;211754,669
+ANTWERPEN-WEST - FH06;173901;1;0;0;1;SDU;;Y;NA;4;5;;;Y;_;BUILDING template;Lombardenvest;26;;;152286;211953
+ANTWERPEN-WEST - FH06;1999515;1;0;0;1;SDU;;N;MON;3;4;Monument;;Y;_ MON;BUILDING template;Mechelseplein;24;;;152536,609;211385,792
+ANTWERPEN-WEST - FH06;5566574;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Begijnenstraat;23;;Begijnenstraat 23-25;152302,718;211507,09
+ANTWERPEN-WEST - FH06;173902;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Lombardenvest;32;;;152294,752;211955,302
+ANTWERPEN-WEST - FH06;5572030;2;1;0;3;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Sint-Katelijnevest;30;;;152542,95;212223,691
+ANTWERPEN-WEST - FH06;173903;2;1;1;4;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Lombardenvest;22;;;152272,789;211961,165
+ANTWERPEN-WEST - FH06;2001912;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Melkmarkt;15;;;152379,551;212288,065
+ANTWERPEN-WEST - FH06;5575480;8;0;0;8;MDU;;Y;NA;6;5;;;Y;_;BUILDING template;Eiermarkt;23;;;152440;212181
+ANTWERPEN-WEST - FH06;174025;1;0;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_;BUILDING template;Korte Gasthuisstraat;22;;;152472;211886,282
+ANTWERPEN-WEST - FH06;5575511;10;0;0;10;MDU;XC;N;ORN;5;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Everdijstraat;5;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;152316,224;211870,785
+ANTWERPEN-WEST - FH06;NB-20002701540;1;0;0;1;MDU;;Y;NA;2;4;;;Y;;BUILDING template;Everdijstraat;27;;Everdijstraat 27_Lombardenvest 52;152375;211848
+ANTWERPEN-WEST - FH06;174026;2;1;1;4;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Korte Gasthuisstraat;26;;Korte Gasthuisstraat 26-28;152477,743;211873,556
+ANTWERPEN-WEST - FH06;2001915;2;1;0;3;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Melkmarkt;17;;;152379,148;212279,91
+ANTWERPEN-WEST - FH06;5575513;4;0;0;4;MDU;D;Y;NA;5;5;;;Y;_;BUILDING template;Everdijstraat;51;;;152468,309;211853,938
+ANTWERPEN-WEST - FH06;NB-20006701541;1;0;0;1;MDU;;Y;NA;2;4;;;Y;;BUILDING template;Oude Koornmarkt;67;;Oude Koornmarkt 65-67;152221;212134
+ANTWERPEN-WEST - FH06;174031;7;1;0;8;MDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Geefsstraat;5;;Geefsstraat 5_Lombardenvest 15-19;152357,574;211969,251
+ANTWERPEN-WEST - FH06;2001916;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Melkmarkt;18;;Melkmarkt 14-18-20;152357,799;212286,942
+ANTWERPEN-WEST - FH06;5575556;0;1;0;1;SDU;;N;IRREG;3;12;Beschermd Erfgoed;;Y;;BUILDING template;Lange Gasthuisstraat;20;;;152518,723;211699,946
+ANTWERPEN-WEST - FH06;NB-20003501542;1;0;0;1;MDU;;Y;NA;2;4;;;Y;;BUILDING template;Oude Koornmarkt;35;;Oude Koornmarkt 31-33-35;152207;212217
+ANTWERPEN-WEST - FH06;176743;0;1;0;1;SDU;;Y;NA;3;10;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schoenmarkt;4;;;152402,353;212028,108
+ANTWERPEN-WEST - FH06;2001918;4;1;0;5;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;19;;;152379,182;212271,397
+ANTWERPEN-WEST - FH06;5575586;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;12;;Maarschalk Gerardstraat 12-14-16;152458,38;211438,234
+ANTWERPEN-WEST - FH06;2056153;1;0;0;1;MDU;;Y;NA;1;4;;;;;BUILDING template;Tempelstraat;1;;Oude Koornmarkt 23-25_Tempelstraat 1;152192,932;212245,505
+ANTWERPEN-WEST - FH06;2001921;4;1;0;5;MDU;;Y;NA;4;3;;;Y;_;BUILDING template;Melkmarkt;20;;Melkmarkt 14-18-20;152361,612;212276,01
+ANTWERPEN-WEST - FH06;5575624;0;1;0;1;MDU;;Y;NA;5;3;;;Y;_;BUILDING template;Groenplaats;3;;Groenplaats 2-3;152247,358;212113,391
+ANTWERPEN-WEST - FH06;2001928;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Melkmarkt;27;;;152382,986;212240,529
+ANTWERPEN-WEST - FH06;5575625;37;0;0;37;MDU;;N;MON;4;0;Monument;;Y;MON;BUILDING template;Groenplaats;40;;;152326,889;211980,194
+ANTWERPEN-WEST - FH06;198628;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Mechelseplein;8;;;152511,507;211470,936
+ANTWERPEN-WEST - FH06;2001929;0;1;0;1;SDU;;Y;MON;3;3;Monument;;Y;Review Required MON;BUILDING template;Melkmarkt;28;;;152357,849;212256,578
+ANTWERPEN-WEST - FH06;5575626;5;2;0;7;MDU;;N;MON;5;5;Monument;;Y;_;BUILDING template;Groenplaats;42;;;152313,79;212042,13
+ANTWERPEN-WEST - FH06;198787;21;4;0;25;MDU;;Y;NA;7;3;;;Y;_;BUILDING template;Kleine Markt;7;;;152353,972;211718,292
+ANTWERPEN-WEST - FH06;2001931;1;0;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Melkmarkt;29;;;152383,586;212234,111
+ANTWERPEN-WEST - FH06;5575774;8;0;1;9;MDU;XA;N;ORN;6;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Kammenstraat;65;;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1;152282,925;211852,141
+ANTWERPEN-WEST - FH06;198788;2;0;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Bredestraat;1;;;152347,475;211664,782
+ANTWERPEN-WEST - FH06;2001933;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Melkmarkt;30;;;152364,283;212252,236
+ANTWERPEN-WEST - FH06;5575847;6;1;0;7;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Oude Koornmarkt;59;;Groenplaats 8_Oude Koornmarkt 57-59;152229,608;212157,319
+ANTWERPEN-WEST - FH06;862884;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_;BUILDING template;Everdijstraat;45;;;152460;211853
+ANTWERPEN-WEST - FH06;2001937;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Melkmarkt;32;;;152366,531;212246,993
+ANTWERPEN-WEST - FH06;5575924;2;0;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;18;;Lijnwaadmarkt 16-18;152347,326;212270,702
+ANTWERPEN-WEST - FH06;1059320;1;1;0;2;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;16;;;152253,176;212218,739
+ANTWERPEN-WEST - FH06;2001940;0;1;0;1;SDU;;N;MON;3;6;Monument;;Y;_ MON;BUILDING template;Melkmarkt;34;;;152367,817;212232,999
+ANTWERPEN-WEST - FH06;5576084;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;18;;;152430,298;211750,819
+ANTWERPEN-WEST - FH06;2001942;3;1;0;4;MDU;D;N;MON;5;5;Monument;;Y;_ MON;BUILDING template;Melkmarkt;35;;;152384,933;212207,587
+ANTWERPEN-WEST - FH06;5576380;9;0;0;9;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Vleminckveld;70;;Vleminckveld 68-70;152478,746;211537,638
+ANTWERPEN-WEST - FH06;1059322;0;1;0;1;SDU;;Y;MON;3;4;Monument;;Y;_ MON;BUILDING template;Groenplaats;30;;;152342,017;212201,027
+ANTWERPEN-WEST - FH06;2001945;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;36;;;152366,475;212227,467
+ANTWERPEN-WEST - FH06;5734740;0;1;0;1;SDU;;Y;NA;5;4;Beschermd Erfgoed;;Y;_;BUILDING template;Meirbrug;8;;;152508,173;212044,522
+ANTWERPEN-WEST - FH06;1059342;0;1;0;1;SDU;;Y;MON;2;3;Monument;;Y;_ MON;BUILDING template;Jan Blomstraat;1;;;152231,496;212233,994
+ANTWERPEN-WEST - FH06;2001946;0;1;0;1;MDU;;N;MON;4;5;Monument;;Y;_ MON;BUILDING template;Melkmarkt;37;;Melkmarkt 37-39;152401,587;212197,967
+ANTWERPEN-WEST - FH06;12609;0;1;0;1;MDU;;Y;NA;5;3;;;;;BUILDING template;Oude Koornmarkt;25;;Oude Koornmarkt 23-25_Tempelstraat 1;152198;212238
+ANTWERPEN-WEST - FH06;1059343;0;1;0;1;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Jan Blomstraat;7;;Jan Blomstraat 3-5-7;152245,899;212222,9
+ANTWERPEN-WEST - FH06;2001948;1;1;0;2;MDU;;Y;NA;2;4;;;Y;_;BUILDING template;Melkmarkt;39;;Melkmarkt 37-39;152388,435;212192,24
+ANTWERPEN-WEST - FH06;6018352;0;4;0;4;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Eiermarkt;17;;Eiermarkt 13-17;152423;212168
+ANTWERPEN-WEST - FH06;55295;1;0;0;1;MDU;;N;ORN;5;0;;;;;BUILDING template;Vleminckveld;15;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152399,323;211662,948
+ANTWERPEN-WEST - FH06;1059351;0;1;0;1;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;16;;Lijnwaadmarkt 16-18;152342,966;212273,4
+ANTWERPEN-WEST - FH06;2001958;3;1;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;42;;;152372,633;212195,218
+ANTWERPEN-WEST - FH06;55307;0;1;0;1;MDU;D;Y;NA;5;6;;;;;BUILDING template;Kammenstraat;69;;Everdijstraat 2-4_Kammenstraat 69;152292;211835
+ANTWERPEN-WEST - FH06;1059352;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Lijnwaadmarkt;20;;;152352,741;212267,716
+ANTWERPEN-WEST - FH06;2027587;5;1;0;6;MDU;;Y;NA;2;5;;;Y;_;BUILDING template;Korte Nieuwstraat;8;;;152410,538;212284,818
+ANTWERPEN-WEST - FH06;55311;0;1;0;1;SDU;;Y;NA;7;3;;;;;BUILDING template;Oudaan;10;;;152381;211747
+ANTWERPEN-WEST - FH06;1059357;0;1;0;1;SDU;;Y;MON;2;4;Monument;;Y;_ MON;BUILDING template;Sint-Pieterstraat;5;;;152357,602;212212,1
+ANTWERPEN-WEST - FH06;2027591;2;1;0;3;MDU;D;N;MON;4;4;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;10;;;152414,967;212278,142
+ANTWERPEN-WEST - FH06;6095924;1;0;0;1;SDU;;N;ORN;2;10;;;Y;_;BUILDING template;Schoenmarkt;2;A;;152390,915;212028,265
+ANTWERPEN-WEST - FH06;1059366;1;1;0;2;MDU;D;Y;MON;4;6;Monument;;Y;_ MON;BUILDING template;Melkmarkt;38;;;152363,618;212220,077
+ANTWERPEN-WEST - FH06;2027602;0;1;0;1;SDU;;N;MON;2;3;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;12;;;152420,378;212280,222
+ANTWERPEN-WEST - FH06;6188680;0;1;0;1;MDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;9;B;Schrijnwerkersstraat 5-7-9-9B;152446;212011
+ANTWERPEN-WEST - FH06;198689;10;2;0;12;MDU;;Y;NA;6;4;;;;;BUILDING template;Oudaan;24;;;152467;211754
+ANTWERPEN-WEST - FH06;1059367;0;1;0;1;SDU;;Y;NA;2;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;26;;;152356,959;212263,082
+ANTWERPEN-WEST - FH06;2027607;0;1;0;1;SDU;;Y;NA;3;4;;;Y;_;BUILDING template;Korte Nieuwstraat;14;;;152423,125;212275,135
+ANTWERPEN-WEST - FH06;6314615;1;0;0;1;MDU;XA;Y;NA;6;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;25;A;Maarschalk Gerardstraat 25-25A;152449,319;211378,881
+ANTWERPEN-WEST - FH06;1739128;0;50;2;52;MDU;;Y;NA;9;4;;;;;BUILDING template;Beddenstraat;2;;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;152408,973;212105,462
+ANTWERPEN-WEST - FH06;1059369;0;1;0;1;MDU;;N;ORN;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Melkmarkt;14;;Melkmarkt 14-18-20;152360,24;212293,511
+ANTWERPEN-WEST - FH06;2027610;4;1;0;5;MDU;;N;MON;3;5;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;16;;;152429,082;212274,295
+ANTWERPEN-WEST - FH06;6316329;0;1;0;1;MDU;D;Y;NA;4;4;;;Y;_;BUILDING template;Lombardenstraat;14;;Lombardenstraat 12-14;152343,261;211920,958
+ANTWERPEN-WEST - FH06;1739666;1;0;0;1;MDU;;Y;NA;3;3;;;;;BUILDING template;Begijnenstraat;35;;Begijnenstraat 33-35;152297;211490
+ANTWERPEN-WEST - FH06;1072767;4;0;0;4;MDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Pieterstraat;1;;;152350,997;212206,557
+ANTWERPEN-WEST - FH06;2027615;3;1;0;4;MDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Korte Nieuwstraat;18;;;152438,562;212264,926
+ANTWERPEN-WEST - FH06;6327004;0;1;0;1;SDU;;Y;NA;8;6;Beschermd Erfgoed;;Y;_;BUILDING template;Wiegstraat;2;A;;152508,76;212040,653
+ANTWERPEN-WEST - FH06;1741138;0;1;0;1;SDU;;Y;NA;3;5;;;;SDU, BU - studentenhuis met 10 kamers;BUILDING template;Bervoetstraat;14;;;152296;211344
+ANTWERPEN-WEST - FH06;1074854;1;0;1;2;MDU;D;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Pieterstraat;4;;Sint-Pietersstraat 4-6;152359,656;212199,007
+ANTWERPEN-WEST - FH06;2027621;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;20;;;152435,851;212271,922
+ANTWERPEN-WEST - FH06;1741142;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Bervoetstraat;25;;;152316;211355
+ANTWERPEN-WEST - FH06;1074855;3;1;0;4;MDU;;N;MON;4;6;Monument;;Y;_ MON;BUILDING template;Eiermarkt;7;;Eiermarkt 7_Melkmarkt 41;152397,333;212179,554
+ANTWERPEN-WEST - FH06;2027626;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;24;;;152446,123;212265,715
+ANTWERPEN-WEST - FH06;1968886;0;1;0;1;SDU;;Y;NA;4;3;;;;;BUILDING template;Oude Koornmarkt;47;;;152218;212191
+ANTWERPEN-WEST - FH06;1074858;0;1;0;1;SDU;;Y;NA;4;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Groenplaats;28;;;152326,149;212201,702
+ANTWERPEN-WEST - FH06;2027629;0;1;0;1;SDU;;Y;NA;3;5;;;Y;;BUILDING template;Korte Nieuwstraat;26;;;152452,961;212263,127
+ANTWERPEN-WEST - FH06;1992424;9;1;0;10;MDU;;Y;NA;6;3;;;;;BUILDING template;Lombardenstraat;8;;;152341;211934
+ANTWERPEN-WEST - FH06;1074912;0;1;0;1;SDU;;Y;MON;4;3;Monument;;Y;MON;BUILDING template;Groenplaats;27;;;152316,199;212203,013
+ANTWERPEN-WEST - FH06;2027633;0;1;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;28;;;152460,752;212259,562
+ANTWERPEN-WEST - FH06;6404970;0;1;0;1;MDU;;Y;NA;5;5;;;Y;_;BUILDING template;Lombardenvest;55;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152410,486;211946,588
+ANTWERPEN-WEST - FH06;2048653;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Rosier;12;A;;152345;211549
+ANTWERPEN-WEST - FH06;1091095;0;1;0;1;SDU;;Y;NA;4;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Sint-Katelijnevest;48;;;152538,225;212181,976
+ANTWERPEN-WEST - FH06;2027639;12;0;0;12;MDU;;N;ORN;6;0;;;Y;_;BUILDING template;Korte Nieuwstraat;30;;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B;152481,714;212250,735
+ANTWERPEN-WEST - FH06;6407198;0;1;0;1;SDU;;Y;NA;1;5;;;Y;;BUILDING template;Everdijstraat;20;;;152411,927;211829,931
+ANTWERPEN-WEST - FH06;2048654;1;0;0;1;MDU;D;Y;NA;3;4;;;;;BUILDING template;Rosier;13;;Rosier 11-13;152360;211567
+ANTWERPEN-WEST - FH06;1091131;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;3;;;152403,833;212230,759
+ANTWERPEN-WEST - FH06;2035161;2;1;0;3;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;4;;;152353,55;211744,813
+ANTWERPEN-WEST - FH06;2052152;0;1;0;1;SDU;;Y;NA;4;3;;;;;BUILDING template;Schrijnwerkersstraat;16;;;152433;211985
+ANTWERPEN-WEST - FH06;1091132;1;1;0;2;MDU;D;Y;NA;3;6;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Vleminckstraat;15;;;152452,062;212222,804
+ANTWERPEN-WEST - FH06;2035165;0;1;0;1;MDU;;N;MON;16;0;Monument;;Y;MON;BUILDING template;Oudaan;5;;Oudaan 5-11;152368,831;211779,534
+ANTWERPEN-WEST - FH06;2055917;0;1;0;1;MDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;2;A;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B;152488;212250
+ANTWERPEN-WEST - FH06;1091158;3;1;0;4;MDU;D;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Kammenstraat;89;;;152323,347;211784,854
+ANTWERPEN-WEST - FH06;2035170;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;6;;;152364,294;211745,087
+ANTWERPEN-WEST - FH06;2055918;0;1;0;1;MDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;2;B;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B;152486;212245
+ANTWERPEN-WEST - FH06;1139887;5;0;0;5;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;31;;Maarschalk Gerardstraat 29-31;152452,759;211361,759
+ANTWERPEN-WEST - FH06;2035173;0;1;0;1;SDU;;Y;NA;7;4;;;Y;_;BUILDING template;Oudaan;8;;;152376,519;211746,291
+ANTWERPEN-WEST - FH06;6467509;1;0;0;1;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;2;;Schoenmarkt 10_Schrijnwerkersstraat 2;152434,364;212023,271
+ANTWERPEN-WEST - FH06;2055922;0;1;0;1;MDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;6;B;Sudermanstraat 6-6A-6B_Vleminckstraat 23;152474;212220
+ANTWERPEN-WEST - FH06;1139907;0;1;0;1;SDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Mechelseplein;22;;;152506,635;211403,339
+ANTWERPEN-WEST - FH06;2035180;0;30;0;30;MDU;;N;IRREG;3;0;;;Y;_;BUILDING template;Oudaan;15;;;152443,149;211793,212
+ANTWERPEN-WEST - FH06;6524092;8;0;0;8;MDU;;Y;NA;3;6;;;Y;_;BUILDING template;Oudaan;3;;;152343,954;211764,388
+ANTWERPEN-WEST - FH06;2061265;1;0;0;1;MDU;;N;ORN;3;0;;;;;BUILDING template;Vleminckveld;21;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152400;211657
+ANTWERPEN-WEST - FH06;1139910;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Mechelseplein;26;;;152539,581;211376,31
+ANTWERPEN-WEST - FH06;2035213;0;1;0;1;SDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Oudaan;26;;;152478,191;211757,958
+ANTWERPEN-WEST - FH06;6524104;0;1;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Beggaardenstraat;3;;;152515;212194
+ANTWERPEN-WEST - FH06;2061303;0;1;0;1;MDU;D;Y;NA;4;3;;;;;BUILDING template;Vleminckstraat;13;;Vleminckstraat 11-13;152446;212226
+ANTWERPEN-WEST - FH06;1139912;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;27;;;152452,287;211373,65
+ANTWERPEN-WEST - FH06;2035214;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oudaan;28;;;152490,835;211760,915
+ANTWERPEN-WEST - FH06;6524106;0;1;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Groenplaats;35;;;152346,655;212095,105
+ANTWERPEN-WEST - FH06;3956505;0;1;0;1;SDU;;Y;NA;6;3;;;;;BUILDING template;Lombardenstraat;10;;;152341;211931
+ANTWERPEN-WEST - FH06;1139913;15;0;1;16;MDU;XA;Y;NA;6;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;25;;Maarschalk Gerardstraat 25-25A;152448,427;211382,845
+ANTWERPEN-WEST - FH06;2035215;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Oudaan;30;;;152498,136;211762,171
+ANTWERPEN-WEST - FH06;6588791;0;2;0;2;MDU;;Y;NA;4;4;Beschermd Erfgoed;;Y;_;BUILDING template;Meirbrug;6;;;152502,629;212045,979
+ANTWERPEN-WEST - FH06;4080731;0;1;0;1;MDU;;N;ORN;6;0;;;;;BUILDING template;Sudermanstraat;6;A;Sudermanstraat 6-6A-6B_Vleminckstraat 23;152474;212220
+ANTWERPEN-WEST - FH06;1139914;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;Distributiekabel door bruikbare wachtbuis laten lopen;BUILDING template;Maarschalk Gerardstraat;23;;;152450,613;211389,272
+ANTWERPEN-WEST - FH06;2048645;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;3;;;152339,088;211569,487
+ANTWERPEN-WEST - FH06;4096171;1;0;0;1;MDU;;N;ORN;5;0;;;;;BUILDING template;Vleminckveld;13;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152393;211659
+ANTWERPEN-WEST - FH06;1139915;4;0;0;4;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;21;;;152458,175;211393,558
+ANTWERPEN-WEST - FH06;2048646;1;0;0;1;SDU;;Y;NA;4;4;;;Y;;BUILDING template;Rosier;4;;;152318;211556
+ANTWERPEN-WEST - FH06;4150925;7;0;0;7;MDU;;Y;NA;4;3;;;;;BUILDING template;Melkmarkt;40;A;;152371;212199
+ANTWERPEN-WEST - FH06;1139918;0;2;0;2;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;11;;;152509,796;211375,741
+ANTWERPEN-WEST - FH06;2048647;1;0;0;1;SDU;;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;6;;;152324,91;211554,556
+ANTWERPEN-WEST - FH06;4256532;1;0;0;1;MDU;;N;ORN;5;0;;;;;BUILDING template;Vleminckveld;19;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152391,041;211673,56
+ANTWERPEN-WEST - FH06;1139919;3;0;0;3;MDU;D;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;3;;;152483,8;211371,842
+ANTWERPEN-WEST - FH06;2048648;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;8;;;152330,115;211553,528
+ANTWERPEN-WEST - FH06;6518721;0;1;0;1;SDU;;N;ORN;4;4;;;;;BUILDING template;Groenplaats;40;A;;152338;212038
+ANTWERPEN-WEST - FH06;1139922;12;1;1;14;MDU;XA;Y;NA;7;3;;;Y;_;BUILDING template;Schermersstraat;1;;;152472,378;211375,899
+ANTWERPEN-WEST - FH06;2048649;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;9;;;152351,348;211568,46
+ANTWERPEN-WEST - FH06;6525393;8;0;0;8;MDU;;Y;NA;5;3;;;;;BUILDING template;Begijnenstraat;25;;Begijnenstraat 23-25;152306;211501
+ANTWERPEN-WEST - FH06;1139940;9;1;1;11;MDU;XA;Y;NA;6;3;;;Y;_;BUILDING template;Maarschalk Gerardstraat;19;;;152465,773;211401,312
+ANTWERPEN-WEST - FH06;2048650;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Rosier;10;;;152334,705;211551,747
+ANTWERPEN-WEST - FH06;1139976;7;1;0;8;MDU;D;Y;NA;4;5;;;Y;_;BUILDING template;Terninckstraat;1;;;152277,58;211286,09
+ANTWERPEN-WEST - FH06;2048651;2;0;0;2;MDU;D;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;11;;Rosier 11-13;152356,143;211568,46
+ANTWERPEN-WEST - FH06;1139978;4;0;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Bervoetstraat;2;;;152266;211351
+ANTWERPEN-WEST - FH06;2048652;2;0;0;2;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Rosier;12;;;152342,239;211549,487
+ANTWERPEN-WEST - FH06;1139979;0;2;0;2;MDU;D;Y;NA;5;3;;;Y;_;BUILDING template;Bervoetstraat;40;;;152379,969;211338,653
+ANTWERPEN-WEST - FH06;2048655;1;0;0;1;SDU;;N;MON;3;3;Monument;;Y;_ MON;BUILDING template;Rosier;14;;;152350,253;211547,432
+ANTWERPEN-WEST - FH06;1139986;7;3;0;10;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;95;;;152260,869;211334,418
+ANTWERPEN-WEST - FH06;2048656;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;15;;;152362,787;211566,131
+ANTWERPEN-WEST - FH06;2048657;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;16;;;152364,636;211544,898
+ANTWERPEN-WEST - FH06;1139988;3;0;0;3;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Kasteelpleinstraat;9;;;152282;211299
+ANTWERPEN-WEST - FH06;2048658;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;Wordt heden verbouwd naar een eengezinswoning;BUILDING template;Rosier;18;;;152374,157;211544,761
+ANTWERPEN-WEST - FH06;1139989;3;1;0;4;MDU;D;Y;NA;4;3;;;Y;_;BUILDING template;Kasteelpleinstraat;1;;;152263,608;211326,267
+ANTWERPEN-WEST - FH06;2048659;1;0;0;1;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;20;;Rosier 20-22-24;152387,846;211547,273
+ANTWERPEN-WEST - FH06;1297943;0;1;0;1;MDU;;N;ORN;5;5;;;Y;_;BUILDING template;Groenplaats;36;;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;152340,741;212066,727
+ANTWERPEN-WEST - FH06;2048660;1;0;0;1;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;21;;Rosier 21-23;152378,981;211565,392
+ANTWERPEN-WEST - FH06;1313879;0;1;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Bervoetstraat;9;;;152284,019;211365,24
+ANTWERPEN-WEST - FH06;2048662;0;1;0;1;MDU;;N;MON;3;0;Monument;;Y;MON;BUILDING template;Rosier;22;;Rosier 20-22-24;152406,897;211539,693
+ANTWERPEN-WEST - FH06;6629696;0;1;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Everdijstraat;14;A;;152344,273;211837,76
+ANTWERPEN-WEST - FH06;1369823;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Wiegstraat;14;;;152488,613;212007,694
+ANTWERPEN-WEST - FH06;2048664;1;0;0;1;SDU;;N;ORN;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;26;;;152427,171;211545,309
+ANTWERPEN-WEST - FH06;1373123;0;1;0;1;MDU;;Y;NA;4;5;;;Y;;BUILDING template;Lombardenvest;33;;Lombardenvest 25-27-29-31-33-35-37-39-49-51-53-55;152378,196;211954,873
+ANTWERPEN-WEST - FH06;2048665;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;27;;;152397,65;211564,693
+ANTWERPEN-WEST - FH06;1437874;4;1;0;5;MDU;;N;MON;3;5;Monument;;Y;MON;BUILDING template;Korte Nieuwstraat;4;;;152392,912;212295,589
+ANTWERPEN-WEST - FH06;2048667;0;1;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;35;;;152416,76;211565,104
+ANTWERPEN-WEST - FH06;1438270;11;0;0;11;MDU;;N;IRREG;5;3;;;Y;_;BUILDING template;Vleminckveld;23;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152386,904;211668,147
+ANTWERPEN-WEST - FH06;2048668;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;37;;;152421,143;211565,378
+ANTWERPEN-WEST - FH06;1443643;0;2;0;2;MDU;;Y;NA;4;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Maarschalk Gerardstraat;2;;;152482,582;211507,227
+ANTWERPEN-WEST - FH06;2048669;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;38;;;152458,404;211549,761
+ANTWERPEN-WEST - FH06;1448986;9;0;0;9;MDU;;N;ORN;5;3;;;Y;_;BUILDING template;Vleminckveld;7;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152372,201;211686,243
+ANTWERPEN-WEST - FH06;2048670;3;0;0;3;MDU;D;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Rosier;39;;;152426,143;211567,295
+ANTWERPEN-WEST - FH06;1451773;5;0;0;5;MDU;D;Y;NA;5;4;;;Y;_;BUILDING template;Begijnenstraat;93;;;152258,882;211340,171
+ANTWERPEN-WEST - FH06;2048671;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;40;;;152462,582;211550,515
+ANTWERPEN-WEST - FH06;1456855;0;1;0;1;MDU;D;Y;NA;4;7;;;Y;_;BUILDING template;Wiegstraat;20;;Wiegstraat 20-22;152481,971;211995,767
+ANTWERPEN-WEST - FH06;2048672;2;1;0;3;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Rosier;41;;;152435,458;211567,843
+ANTWERPEN-WEST - FH06;1488600;1;0;0;1;MDU;;N;ORN;3;0;;;Y;_;BUILDING template;Vleminckveld;17;;Vleminckveld 5-7-9-11-13-15-17-19-21-23;152394,779;211666,514
+ANTWERPEN-WEST - FH06;2048673;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Rosier;45;;;152450,664;211567,158
+ANTWERPEN-WEST - FH06;1495533;5;1;0;6;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Kasteelpleinstraat;3;;;152266,006;211319,76
+ANTWERPEN-WEST - FH06;2050646;1;0;0;1;SDU;;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;5;;;152490,395;211372,989
+ANTWERPEN-WEST - FH06;1511424;0;1;0;1;MDU;;Y;MON;5;4;Monument;;Y;Review Required MON;BUILDING template;Oude Koornmarkt;23;;Oude Koornmarkt 23-25_Tempelstraat 1;152198,463;212241,379
+ANTWERPEN-WEST - FH06;2050647;1;1;0;2;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;7;;;152496,677;211373,9
+ANTWERPEN-WEST - FH06;1511557;3;1;0;4;MDU;D;Y;NA;4;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Korte Nieuwstraat;6;;;152404,429;212287,919
+ANTWERPEN-WEST - FH06;2050648;3;0;0;3;MDU;D;Y;NA;3;5;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Schermersstraat;9;;;152503,145;211375,146
+ANTWERPEN-WEST - FH06;1512593;0;1;0;1;MDU;;N;MON;21;5;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;35;;Eiermarkt 20_Schoenmarkt 25-29-31-35;152475,572;212082,676
+ANTWERPEN-WEST - FH06;2051255;0;1;0;1;SDU;;N;MON;3;5;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;6;;;152412,698;212028,285
+ANTWERPEN-WEST - FH06;1521194;27;2;0;29;MDU;;Y;NA;3;4;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Terninckstraat;13;;;152321,518;211310,354
+ANTWERPEN-WEST - FH06;2051256;0;1;0;1;SDU;;N;MON;3;9;Monument;;Y;_ MON;BUILDING template;Schoenmarkt;8;;;152421,616;212029,854
+ANTWERPEN-WEST - FH06;1739652;0;1;0;1;SDU;;Y;NA;4;4;;;Y;_;BUILDING template;Beggaardenstraat;6;;;152506;212162
+ANTWERPEN-WEST - FH06;2051259;0;1;0;1;MDU;;N;ORN;5;5;;;Y;_;BUILDING template;Schoenmarkt;21;;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;152360;212065
+ANTWERPEN-WEST - FH06;1739655;1;0;0;1;SDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;3;;;152316,691;211549,008
+ANTWERPEN-WEST - FH06;2051260;0;1;0;1;MDU;;N;ORN;10;5;;;Y;_;BUILDING template;Schoenmarkt;25;;Eiermarkt 20_Schoenmarkt 25-29-31-35;152433;212063
+ANTWERPEN-WEST - FH06;1739657;1;0;0;1;SDU;;Y;NA;2;3;;;Y;_;BUILDING template;Begijnenstraat;7;;;152313,814;211542,021
+ANTWERPEN-WEST - FH06;2051262;0;1;0;1;MDU;;N;ORN;10;5;;;Y;_;BUILDING template;Schoenmarkt;29;;Eiermarkt 20_Schoenmarkt 25-29-31-35;152447;212065
+ANTWERPEN-WEST - FH06;1739660;5;0;0;5;MDU;;Y;NA;4;3;;;Y;;BUILDING template;Begijnenstraat;17;;;152307,855;211522,501
+ANTWERPEN-WEST - FH06;2051263;0;1;0;1;MDU;;N;ORN;21;5;;;Y;_;BUILDING template;Schoenmarkt;31;;Eiermarkt 20_Schoenmarkt 25-29-31-35;152466;212075
+ANTWERPEN-WEST - FH06;1739661;1;0;0;1;SDU;;N;ORN;2;0;;;Y;;BUILDING template;Begijnenstraat;21;;;152305,115;211514,213
+ANTWERPEN-WEST - FH06;2052139;1;1;0;2;MDU;D;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;3;;;152448;212022
+ANTWERPEN-WEST - FH06;1739667;2;0;0;2;MDU;D;N;GLASS;2;0;;;Y;;BUILDING template;Begijnenstraat;37;;;152294,43;211484,829
+ANTWERPEN-WEST - FH06;2052140;9;1;0;10;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;5;;Schrijnwerkersstraat 5-7-9-9B;152447,175;212017,808
+ANTWERPEN-WEST - FH06;1739668;0;1;0;1;SDU;;N;ORN;4;0;;;Y;;BUILDING template;Begijnenstraat;41;;;152290,732;211475,309
+ANTWERPEN-WEST - FH06;2052141;0;1;0;1;SDU;;Y;NA;3;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;6;;;152434,498;212014,015
+ANTWERPEN-WEST - FH06;1739673;0;1;0;1;MDU;;Y;NA;1;4;;;Y;_;BUILDING template;Begijnenstraat;55;;Begijnenstraat 49-55;152280,595;211445,514
+ANTWERPEN-WEST - FH06;2052142;0;1;0;1;MDU;;Y;NA;4;5;;;Y;_;BUILDING template;Schrijnwerkersstraat;7;;Schrijnwerkersstraat 5-7-9-9B;152447,249;212001,071
+ANTWERPEN-WEST - FH06;1739677;2;0;0;2;MDU;;Y;NA;3;3;;;Y;_;BUILDING template;Begijnenstraat;61;;;152275,8;211430,582
+ANTWERPEN-WEST - FH06;2052144;0;1;0;1;SDU;;N;MON;4;4;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;8;;;152433,984;212009,203
+ANTWERPEN-WEST - FH06;1739680;1;0;0;1;SDU;;Y;NA;3;3;Beschermd Erfgoed;;Y;_ BE;BUILDING template;Begijnenstraat;65;;;152273,06;211422,569
+ANTWERPEN-WEST - FH06;2052145;0;1;0;1;MDU;;N;MON;3;5;Monument;;Y;Review Required MON;BUILDING template;Schrijnwerkersstraat;9;;Schrijnwerkersstraat 5-7-9-9B;152448,844;211996,408

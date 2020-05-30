@@ -871,16 +871,16 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 3500-8731;3500;8731;Ertbeekstraat;W03-D-Hasselt-FH08
 1140-10789;1140;10789;Lindestraat - Rue du Tilleul;W04-C-Evere-FH03
 1140-10996;1140;10996;Tuinbouw - Tuinbouw;W04-C-Evere-FH03
-1140-14259;1140;14259;Avenue Henri Conscience - H. Consciencelaan;W04-C-Evere-FH03
+1140-14259;1140;14259;H. Consciencelaan - Avenue Henri Conscience;W04-C-Evere-FH03
 1140-16085;1140;16085;Languedocwandelwegen - Allees du Languedoc;W04-C-Evere-FH03
 1140-16128;1140;16128;Godfroid Kurthstraat - Rue Godfroid Kurth;W04-C-Evere-FH03
 1140-16217;1140;16217;Onze Lieve Vrouwlaan - Avenue Notre-Dame;W04-C-Evere-FH03
-1140-16291;1140;16291;Clos de l Oasis - Oasebinnenhof;W04-C-Evere-FH03
-1140-16362;1140;16362;S. Hoedemaekerssquare - Square Servaas Hoedemaekers;W04-C-Evere-FH03
+1140-16291;1140;16291;Oasebinnenhof - Clos de l Oasis;W04-C-Evere-FH03
+1140-16362;1140;16362;Square Servaas Hoedemaekers - Hoedemaekerssquare;W04-C-Evere-FH03
 1140-16437;1140;16437;Henri Matisselaan - Avenue Henri Matisse;W04-C-Evere-FH03
 1140-16464;1140;16464;F. Vande Maelestraat - Rue F. Vande Maele;W04-C-Evere-FH03
 1140-16524;1140;16524;J. B. Mosselmansstraat - Rue Jean-Baptiste Mosselmans;W04-C-Evere-FH03
-1140-16589;1140;16589;Avenue Louis Pierard - Louis Pierardlaan;W04-C-Evere-FH03
+1140-16589;1140;16589;Louis Pierardlaan - Avenue Louis Pierard;W04-C-Evere-FH03
 1140-16644;1140;16644;Provencewandelwegen - Allees de Provence;W04-C-Evere-FH03
 1140-16704;1140;16704;J. Van Ruusbroeckstraat - Rue J. Van Ruusbroeck;W04-C-Evere-FH03
 1140-17443;1140;17443;Onthaalsquare - Square de l Accueil;W04-C-Evere-FH03
@@ -896,13 +896,268 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 1140-22;1140;22;Kentstraat - Rue du Kent;W04-C-Evere-FH03
 1140-23;1140;23;Andalusielaan - Avenue de l Andalousie;W04-C-Evere-FH03
 1140-28;1140;28;Avenue du Frioul - Friulilaan;W04-C-Evere-FH03
-1140-30;1140;30;Chemin du Jutland - Jutlandweg;W04-C-Evere-FH03
+1140-30;1140;30;Jutlandweg - Chemin du Jutland;W04-C-Evere-FH03
 1140-34;1140;34;Peloponnesosstraat - Rue du Peloponnese;W04-C-Evere-FH03
-1140-35;1140;35;KLein Zwitserlandgaarde - Clos de la Petite Suisse;W04-C-Evere-FH03
+1140-35;1140;35;Klein Zwitserlandgaarde - Clos de la Petite Suisse;W04-C-Evere-FH03
 1140-38;1140;38;Algarvegaarde - Clos de l Algarve;W04-C-Evere-FH03
 1140-4329;1140;4329;Genevestraat - Rue de Geneve;W04-C-Evere-FH03
-1140-4701;1140;4701;Chaussee de Haecht - Haachtsesteenweg;W04-C-Evere-FH03
+1140-4701;1140;4701;Haachtsesteenweg - Chaussee de Haecht;W04-C-Evere-FH03
 1140-5415;1140;5415;Impressionnismelaan - Avenue de l Impressionnisme;W04-C-Evere-FH03
 1140-6364;1140;6364;Leekaertsstraat - Rue Leekaerts;W04-C-Evere-FH03
-1140-8171;1140;8171;Avenue de l Oud-Kapelleke - Oud-Kapellekelaan;W04-C-Evere-FH03
+1140-8171;1140;8171;Oud-Kapellekelaan - Avenue de l Oud-Kapelleke;W04-C-Evere-FH03
 1140-9182;1140;9182;Weerstandstraat - Rue de la Resistance;W04-C-Evere-FH03
+8300-146;8300;146;Maxim Willemspad;W03-C-Knokke-Heist-FH03
+8300-16590;8300;16590;Kongostraat;W03-C-Knokke-Heist-FH03
+8300-16619;8300;16619;Koninginnenlaan;W03-C-Knokke-Heist-FH03
+8300-19076;8300;19076;Lispannenlaan;W03-C-Knokke-Heist-FH03
+8300-21478;8300;21478;Jozef Mommenstraat;W03-C-Knokke-Heist-FH03
+8300-21615;8300;21615;Morgensterpad;W03-C-Knokke-Heist-FH03
+8300-22187;8300;22187;Neptunuspad;W03-C-Knokke-Heist-FH03
+8300-26959;8300;26959;Julius Sabbelaan;W03-C-Knokke-Heist-FH03
+8300-28811;8300;28811;Sportlaan;W03-C-Knokke-Heist-FH03
+8300-30114;8300;30114;Taborastraat;W03-C-Knokke-Heist-FH03
+8300-35349;8300;35349;Zegemeerpad;W03-C-Knokke-Heist-FH03
+8300-5807;8300;5807;Majoor Vandammestraat;W03-C-Knokke-Heist-FH03
+8300-9812;8300;9812;Georginapad;W03-C-Knokke-Heist-FH03
+1140-1043;1140;1043;Tweedekkerstraat - Rue du Biplan;W04-C-Evere-FH04
+1140-10481;1140;10481;Stroobantsstraat - Rue Stroobants;W04-C-Evere-FH04
+1140-11703;1140;11703;Walkiersstraat - Rue Walkiers;W04-C-Evere-FH04
+1140-15695;1140;15695;Windmolenstraat - Rue du Moulin;W04-C-Evere-FH04
+1140-16011;1140;16011;G. Van Leeuwlaan - Avenue Guillaume Van Leeuw;W04-C-Evere-FH04
+1140-16019;1140;16019;Frans Leonstraat - Rue Frans Leon;W04-C-Evere-FH04
+1140-16213;1140;16213;Gustaaf Norgastraat - Rue Gustave Norga;W04-C-Evere-FH04
+1140-16225;1140;16225;H. Van Neromstraat - Rue H. Van Nerom;W04-C-Evere-FH04
+1140-16255;1140;16255;P. Van Obberghenstraat - Rue P. Van Obberghen;W04-C-Evere-FH04
+1140-16310;1140;16310;Houtweg - Chemin Du Bois;W04-C-Evere-FH04
+1140-16330;1140;16330;H. Van Hammestraat - Rue H. Van Hamme;W04-C-Evere-FH04
+1140-16333;1140;16333;P. Hauwaertssquare - Square Pierre Hauwaerts;W04-C-Evere-FH04
+1140-16390;1140;16390;H. Van Hoordestraat - Rue H. Van Hoorde;W04-C-Evere-FH04
+1140-16438;1140;16438;P. Mattheussensstraat - Rue Pierre Mattheussens;W04-C-Evere-FH04
+1140-16580;1140;16580;Frans Pepermansstraat - Rue Frans Pepermans;W04-C-Evere-FH04
+1140-16624;1140;16624;W. Van Perckstraat - Rue Willebrord Van Perck;W04-C-Evere-FH04
+1140-16719;1140;16719;Herlevingslaan - Avenue du Renouveau;W04-C-Evere-FH04
+1140-16788;1140;16788;Arnold Sohiestraat - Rue Arnold Sohie;W04-C-Evere-FH04
+1140-16807;1140;16807;Edward Stuckensstraat - Rue Edouard Stuckens;W04-C-Evere-FH04
+1140-16877;1140;16877;Laurent Vandenhovenstraat - Rue Laurent Vandenhoven;W04-C-Evere-FH04
+1140-16883;1140;16883;Frans Verdonckstraat - Rue Frans Verdonck;W04-C-Evere-FH04
+1140-16899;1140;16899;Sint-Vincentiusplaats - Place Saint-Vincent;W04-C-Evere-FH04
+1140-16900;1140;16900;Sint-Vincentiusstraat - Rue Saint-Vincent;W04-C-Evere-FH04
+1140-16918;1140;16918;Van Waeyenberghstraat - Rue Van Waeyenbergh;W04-C-Evere-FH04
+1140-17392;1140;17392;P. Aldersonstraat - Rue P. Alderson;W04-C-Evere-FH04
+1140-17434;1140;17434;F. Van Asschestraat - Rue F. Van Assche;W04-C-Evere-FH04
+1140-17438;1140;17438;Vliegpleinstraat -Rue Plaine d Aviation;W04-C-Evere-FH04
+1140-17486;1140;17486;Jaak Ballingsstraat - Rue Jacques Ballings;W04-C-Evere-FH04
+1140-17647;1140;17647;L. Van Boeckelstraat - Rue L. Van Boeckel;W04-C-Evere-FH04
+1140-17685;1140;17685;Goede Herderstraat - Rue du Bon Pasteur;W04-C-Evere-FH04
+1140-17741;1140;17741;J. F. De Craenstraat - Rue J. F. De Craen;W04-C-Evere-FH04
+1140-17819;1140;17819;Fr. Van Cutsemstraat - Rue Fr. Van Cutsem;W04-C-Evere-FH04
+1140-17824;1140;17824;Rustplaatslaan - Avenue Champs de Repos;W04-C-Evere-FH04
+1140-17889;1140;17889;Edward Dekosterstraat - Rue Edouard Dekoster;W04-C-Evere-FH04
+1140-1914;1140;1914;Carlistraat - Rue Carli;W04-C-Evere-FH04
+1140-2;1140;2;Gastendelleweg - Chemin de Gastendelle;W04-C-Evere-FH04
+1140-3205;1140;3205;Doolegtstraat - Rue du Doolegt;W04-C-Evere-FH04
+1140-3662;1140;3662;Winkelhaakstraat - Rue de l Equerre;W04-C-Evere-FH04
+1140-4;1140;4;Marnedal - Val de Marne;W04-C-Evere-FH04
+1140-4010;1140;4010;Fonsonstraat - Rue Fonson;W04-C-Evere-FH04
+1140-4478;1140;4478;Golflaan - Avenue du Golf;W04-C-Evere-FH04
+1140-7040;1140;7040;Marnestraat - Rue de la Marne;W04-C-Evere-FH04
+1140-8245;1140;8245;Vredeplein - Place de la Paix;W04-C-Evere-FH04
+1140-8335;1140;8335;Parijsstraat - Rue de Paris;W04-C-Evere-FH04
+1140-8494;1140;8494;Wipstraat - Rue de la Perche;W04-C-Evere-FH04
+1140-8581;1140;8581;Picardiestraat - Rue Picardie;W04-C-Evere-FH04
+3500-171;3500;171;Alan Turingstraat;W03-D-Hasselt-FH08
+8301-1030;8301;1030;Azalealaan;W03-C-Knokke-Heist-FH08
+8301-14634;8301;14634;Kapellaan;W03-C-Knokke-Heist-FH08
+8301-1666;8301;1666;Begoniapad;W03-C-Knokke-Heist-FH08
+8301-1678;8301;1678;Beiaardlaan;W03-C-Knokke-Heist-FH08
+8301-17616;8301;17616;Kwelmpad;W03-C-Knokke-Heist-FH08
+8301-18511;8301;18511;Lentelaan;W03-C-Knokke-Heist-FH08
+8301-200;8301;200;Acacialaan;W03-C-Knokke-Heist-FH08
+8301-20222;8301;20222;Paul Van der Meerschenlaan;W03-C-Knokke-Heist-FH08
+8301-22183;8301;22183;Jozef Nellenslaan;W03-C-Knokke-Heist-FH08
+8301-26746;8301;26746;Rozenlaan;W03-C-Knokke-Heist-FH08
+8301-26764;8301;26764;Wilderozenpad;W03-C-Knokke-Heist-FH08
+8301-28428;8301;28428;Sneppenpad;W03-C-Knokke-Heist-FH08
+8301-29928;8301;29928;Stijn Streuvelsplein;W03-C-Knokke-Heist-FH08
+8301-30432;8301;30432;Theresialaan;W03-C-Knokke-Heist-FH08
+8301-33736;8301;33736;Waterloostraat;W03-C-Knokke-Heist-FH08
+8301-35325;8301;35325;Zeerobbenlaan;W03-C-Knokke-Heist-FH08
+8301-792;8301;792;Arcadelaan;W03-C-Knokke-Heist-FH08
+8301-8159;8301;8159;Eeuwfeestlaan;W03-C-Knokke-Heist-FH08
+8301-11589;8301;11589;Hazenpad;W03-C-Knokke-Heist-FH10
+8301-12490;8301;12490;Heuvelpad;W03-C-Knokke-Heist-FH10
+8301-12681;8301;12681;Van Hoenackerpad;W03-C-Knokke-Heist-FH10
+8301-13874;8301;13874;Irispad;W03-C-Knokke-Heist-FH10
+8301-15912;8301;15912;Kinderpad;W03-C-Knokke-Heist-FH10
+8301-15970;8301;15970;Klaprozenpad;W03-C-Knokke-Heist-FH10
+8301-17099;8301;17099;Krekelpad;W03-C-Knokke-Heist-FH10
+8301-17198;8301;17198;Krokussenpad;W03-C-Knokke-Heist-FH10
+8301-17284;8301;17284;Kruindreef;W03-C-Knokke-Heist-FH10
+8301-17551;8301;17551;Kwade Helling;W03-C-Knokke-Heist-FH10
+8301-18285;8301;18285;Leeuwerikenlaan;W03-C-Knokke-Heist-FH10
+8301-1905;8301;1905;Bergdreef;W03-C-Knokke-Heist-FH10
+8301-19196;8301;19196;Lommergang;W03-C-Knokke-Heist-FH10
+8301-19755;8301;19755;Manitobaplein;W03-C-Knokke-Heist-FH10
+8301-19816;8301;19816;Margrietenpad;W03-C-Knokke-Heist-FH10
+8301-20307;8301;20307;Meeuwendreef;W03-C-Knokke-Heist-FH10
+8301-20896;8301;20896;Mimosastraat;W03-C-Knokke-Heist-FH10
+8301-23554;8301;23554;Oudjespad;W03-C-Knokke-Heist-FH10
+8301-24145;8301;24145;Patriottenstraat;W03-C-Knokke-Heist-FH10
+8301-24429;8301;24429;Petunialaan;W03-C-Knokke-Heist-FH10
+8301-24461;8301;24461;Phillippartpad;W03-C-Knokke-Heist-FH10
+8301-25067;8301;25067;Poststraat;W03-C-Knokke-Heist-FH10
+8301-25236;8301;25236;Prinsjespad;W03-C-Knokke-Heist-FH10
+8301-25440;8301;25440;Majoor Quaillestraat;W03-C-Knokke-Heist-FH10
+8301-26460;8301;26460;Rondeweg;W03-C-Knokke-Heist-FH10
+8301-28;8301;28;Dir.-Gen. Willemspark;W03-C-Knokke-Heist-FH10
+8301-2896;8301;2896;Bocheldreef;W03-C-Knokke-Heist-FH10
+8301-29108;8301;29108;Sint-Michielsplein;W03-C-Knokke-Heist-FH10
+8301-33161;8301;33161;Vossenhul;W03-C-Knokke-Heist-FH10
+8301-33618;8301;33618;De Wandelaar;W03-C-Knokke-Heist-FH10
+8301-35295;8301;35295;Zeegrasstraat;W03-C-Knokke-Heist-FH10
+8301-35633;8301;35633;Zomerpad;W03-C-Knokke-Heist-FH10
+8301-4144;8301;4144;Brieshelling;W03-C-Knokke-Heist-FH10
+8301-4798;8301;4798;Van Cailliedreef;W03-C-Knokke-Heist-FH10
+8301-5714;8301;5714;Vandaelelaan;W03-C-Knokke-Heist-FH10
+8301-5764;8301;5764;Dalgang;W03-C-Knokke-Heist-FH10
+8301-615;8301;615;Anemonenlaan;W03-C-Knokke-Heist-FH10
+8301-7758;8301;7758;Zeedijk-Duinbergen;W03-C-Knokke-Heist-FH10
+8301-7759;8301;7759;Duinbergenlaan;W03-C-Knokke-Heist-FH10
+8301-7772;8301;7772;Duinendreef;W03-C-Knokke-Heist-FH10
+8301-86;8301;86;Ermitage;W03-C-Knokke-Heist-FH10
+8301-8652;8301;8652;Engelsestraat;W03-C-Knokke-Heist-FH10
+8301-9077;8301;9077;Florapad;W03-C-Knokke-Heist-FH10
+8301-9370;8301;9370;Gallischpad;W03-C-Knokke-Heist-FH10
+1140-16304;1140;16304;Duiveltjesgaarde - Clos des Diablotins;W04-C-Evere-FH05
+1140-16716;1140;16716;Clos des Lauriers Roses - Oleandergaard;W04-C-Evere-FH05
+1140-16888;1140;16888;A. Vermeylenlaan - Avenue Auguste Vermeylen;W04-C-Evere-FH05
+1140-16892;1140;16892;Francois Villonlaan - Avenue Francois Villon;W04-C-Evere-FH05
+1140-4403;1140;4403;Galgelaan - Avenue du Gibet;W04-C-Evere-FH05
+1140-8704;1140;8704;Platolaan - Avenue Platon;W04-C-Evere-FH05
+8800-10138;8800;10138;Gitsestraat;W01-C-Roeselare-FH01
+8800-10190;8800;10190;Godshuislaan;W01-C-Roeselare-FH01
+8800-11345;8800;11345;Handelsstraat;W01-C-Roeselare-FH01
+8800-13127;8800;13127;Hoogleedsesteenweg;W01-C-Roeselare-FH01
+8800-13317;8800;13317;Henri Horriestraat;W01-C-Roeselare-FH01
+8800-134;8800;134;Barnumerf;W01-C-Roeselare-FH01
+8800-1347;8800;1347;Kleine-Bassinstraat;W01-C-Roeselare-FH01
+8800-16510;8800;16510;Kokelaarstraat;W01-C-Roeselare-FH01
+8800-174;8800;174;De Munt;W01-C-Roeselare-FH01
+8800-177;8800;177;Conincklijke Passage;W01-C-Roeselare-FH01
+8800-17831;8800;17831;Landbouwstraat;W01-C-Roeselare-FH01
+8800-19670;8800;19670;Jan Mahieustraat;W01-C-Roeselare-FH01
+8800-19915;8800;19915;Grote Markt;W01-C-Roeselare-FH01
+8800-20827;8800;20827;Middenstraat;W01-C-Roeselare-FH01
+8800-22684;8800;22684;Noordlaan;W01-C-Roeselare-FH01
+8800-22698;8800;22698;Noordstraat;W01-C-Roeselare-FH01
+8800-23229;8800;23229;Ooststraat;W01-C-Roeselare-FH01
+8800-26453;8800;26453;Rondekomstraat;W01-C-Roeselare-FH01
+8800-28894;8800;28894;Sint-Amandsstraat;W01-C-Roeselare-FH01
+8800-29366;8800;29366;Stationsdreef;W01-C-Roeselare-FH01
+8800-29373;8800;29373;Stationsplein;W01-C-Roeselare-FH01
+8800-29556;8800;29556;Steenstraat;W01-C-Roeselare-FH01
+8800-29806;8800;29806;Stokerijstraat;W01-C-Roeselare-FH01
+8800-30179;8800;30179;Teerlingstraat;W01-C-Roeselare-FH01
+8800-30769;8800;30769;Torenstraat;W01-C-Roeselare-FH01
+8800-32203;8800;32203;Hugo Verrieststraat;W01-C-Roeselare-FH01
+8800-32724;8800;32724;Vlamingstraat;W01-C-Roeselare-FH01
+8800-34197;8800;34197;Weverijstraat;W01-C-Roeselare-FH01
+8800-34510;8800;34510;Adriaen Willaertstraat;W01-C-Roeselare-FH01
+8800-34927;8800;34927;Wortelstraat;W01-C-Roeselare-FH01
+8800-35515;8800;35515;Zijstraat;W01-C-Roeselare-FH01
+8800-4439;8800;4439;Brugsesteenweg;W01-C-Roeselare-FH01
+8800-44975;8800;44975;de Coninckplein;W01-C-Roeselare-FH01
+8800-51;8800;51;Duivestraat;W01-C-Roeselare-FH01
+8800-5181;8800;5181;Cichoreistraat;W01-C-Roeselare-FH01
+8800-5203;8800;5203;Citroenstraat;W01-C-Roeselare-FH01
+8800-5421;8800;5421;Hendrik Consciencestraat;W01-C-Roeselare-FH01
+8800-7040;8800;7040;Doorgangsstraat;W01-C-Roeselare-FH01
+8800-7432;8800;7432;Drafstraat;W01-C-Roeselare-FH01
+8800-9446;8800;9446;Garenstraat;W01-C-Roeselare-FH01
+8800-9473;8800;9473;Gasthuisstraat;W01-C-Roeselare-FH01
+8800-95;8800;95;Louis Tantstraat;W01-C-Roeselare-FH01
+8800-96;8800;96;Achiel Denysstraat;W01-C-Roeselare-FH01
+2000-8287;2000;8287;Eikenstraat;W03-C-Antwerpen-West-FH04
+2000-30216;2000;30216;Tempelstraat;W03-C-Antwerpen-West-FH06
+8301-453;8301;453;Zeedijk-Albertstrand;W03-C-Knokke-Heist-FH08
+2000-1255;2000;1255;Emiel Banningstraat;W03-C-Antwerpen-West-FH10
+2000-13279;2000;13279;Graaf van Hoornestraat;W03-C-Antwerpen-West-FH10
+2000-14881;2000;14881;Kasteelstraat;W03-C-Antwerpen-West-FH10
+2000-1530;2000;1530;Beeldhouwersstraat;W03-C-Antwerpen-West-FH10
+2000-15902;2000;15902;Kiliaanstraat;W03-C-Antwerpen-West-FH10
+2000-1643;2000;1643;Begijnenvest;W03-C-Antwerpen-West-FH10
+2000-16623;2000;16623;Koninginnestraat;W03-C-Antwerpen-West-FH10
+2000-17770;2000;17770;Lambermontplaats;W03-C-Antwerpen-West-FH10
+2000-17771;2000;17771;Lambermontstraat;W03-C-Antwerpen-West-FH10
+2000-19316;2000;19316;Louizastraat;W03-C-Antwerpen-West-FH10
+2000-19958;2000;19958;Marnixplaats;W03-C-Antwerpen-West-FH10
+2000-20130;2000;20130;Mechelsesteenweg;W03-C-Antwerpen-West-FH10
+2000-24197;2000;24197;Edward Pecherstraat;W03-C-Antwerpen-West-FH10
+2000-24650;2000;24650;Plaatsnijdersstraat;W03-C-Antwerpen-West-FH10
+2000-26371;2000;26371;Karel Rogierstraat;W03-C-Antwerpen-West-FH10
+2000-27462;2000;27462;Schildersstraat;W03-C-Antwerpen-West-FH10
+2000-30354;2000;30354;Terninckgang;W03-C-Antwerpen-West-FH10
+2000-30692;2000;30692;Tolstraat;W03-C-Antwerpen-West-FH10
+2000-3093;2000;3093;Admiraal de Boisotstraat;W03-C-Antwerpen-West-FH10
+2000-3130;2000;3130;Bollandusstraat;W03-C-Antwerpen-West-FH10
+2000-32003;2000;32003;Verbondstraat;W03-C-Antwerpen-West-FH10
+2000-33257;2000;33257;De Vrierestraat;W03-C-Antwerpen-West-FH10
+2000-33291;2000;33291;Vrijheidstraat;W03-C-Antwerpen-West-FH10
+2000-33480;2000;33480;Leopold de Waelstraat;W03-C-Antwerpen-West-FH10
+2000-33993;2000;33993;Welvaartstraat;W03-C-Antwerpen-West-FH10
+2000-35917;2000;35917;Zwijgerstraat;W03-C-Antwerpen-West-FH10
+2000-3760;2000;3760;Bouwmeestersstraat;W03-C-Antwerpen-West-FH10
+2000-3837;2000;3837;Brabantstraat;W03-C-Antwerpen-West-FH10
+2000-4172;2000;4172;Britselei;W03-C-Antwerpen-West-FH10
+2000-41744;2000;41744;Kapucinessenstraat;W03-C-Antwerpen-West-FH10
+2000-505;2000;505;Allewaertstraat;W03-C-Antwerpen-West-FH10
+2000-5483;2000;5483;Coquilhatstraat;W03-C-Antwerpen-West-FH10
+2000-576;2000;576;Amerikalei;W03-C-Antwerpen-West-FH10
+2000-6395;2000;6395;Baron Dhanislaan;W03-C-Antwerpen-West-FH10
+2000-9918;2000;9918;Geuzenstraat;W03-C-Antwerpen-West-FH10
+8301-115;8301;115;Paasleliehof;W03-C-Knokke-Heist-FH12
+8301-11678;8301;11678;Heestersstraat;W03-C-Knokke-Heist-FH12
+8301-12562;8301;12562;Emanuel Hielstraat;W03-C-Knokke-Heist-FH12
+8301-13599;8301;13599;Hulststraat;W03-C-Knokke-Heist-FH12
+8301-17213;8301;17213;Krommedijk;W03-C-Knokke-Heist-FH12
+8301-18097;8301;18097;Laurierstraat;W03-C-Knokke-Heist-FH12
+8301-1849;8301;1849;Peter Benoitlaan;W03-C-Knokke-Heist-FH12
+8301-20070;8301;20070;Matrozenplein;W03-C-Knokke-Heist-FH12
+8301-22672;8301;22672;Noordhinder;W03-C-Knokke-Heist-FH12
+8301-24105;8301;24105;Pastuurdijk;W03-C-Knokke-Heist-FH12
+8301-31600;8301;31600;Varenstraat;W03-C-Knokke-Heist-FH12
+8301-31668;8301;31668;Breed Veertien;W03-C-Knokke-Heist-FH12
+8301-33587;8301;33587;Walstraat;W03-C-Knokke-Heist-FH12
+8301-35770;8301;35770;Zuidstraat;W03-C-Knokke-Heist-FH12
+8301-36281;8301;36281;Weibroekstraat;W03-C-Knokke-Heist-FH12
+8301-5;8301;5;Pinksterbloemhof;W03-C-Knokke-Heist-FH12
+8301-53;8301;53;Logenhoek;W03-C-Knokke-Heist-FH12
+8301-89;8301;89;Oostenhem;W03-C-Knokke-Heist-FH12
+8301-92;8301;92;Zonnebloemstraat;W03-C-Knokke-Heist-FH12
+3500-11442;3500;11442;Harmoniestraat;W02-D-Hasselt-FH01
+3500-13473;3500;13473;Sint-Hubertusplein;W02-D-Hasselt-FH01
+3500-175;3500;175;Abelenstraat;W02-D-Hasselt-FH01
+3500-19779;3500;19779;Manteliusstraat;W02-D-Hasselt-FH01
+3500-20037;3500;20037;Frans Massystraat;W02-D-Hasselt-FH01
+3500-20435;3500;20435;Melkvoetstraat;W02-D-Hasselt-FH01
+3500-22922;3500;22922;Olmenstraat;W02-D-Hasselt-FH01
+3500-27570;3500;27570;Schoolstraat;W02-D-Hasselt-FH01
+3500-30769;3500;30769;Torenstraat;W02-D-Hasselt-FH01
+3500-30956;3500;30956;Sint-Truidersteenweg;W02-D-Hasselt-FH01
+3500-31475;3500;31475;Pastoor Van Dijckstraat;W02-D-Hasselt-FH01
+3500-3248;3500;3248;Boomkensstraat;W02-D-Hasselt-FH01
+3500-33082;3500;33082;Vooruitzichtstraat;W02-D-Hasselt-FH01
+3500-33308;3500;33308;Vrijwilligersplein;W02-D-Hasselt-FH01
+3500-34941;3500;34941;Woutersstraat;W02-D-Hasselt-FH01
+3500-39029;3500;39029;Kanunnik Eybenstraat;W02-D-Hasselt-FH01
+3500-39030;3500;39030;Burgemeester Bollenstraat;W02-D-Hasselt-FH01
+3500-4078;3500;4078;Brendelstraat;W02-D-Hasselt-FH01
+3500-4312;3500;4312;Monseigneur Broekxplein;W02-D-Hasselt-FH01
+3500-52;3500;52;Woutersplein;W02-D-Hasselt-FH01
+3500-8595;3500;8595;Elzenstraat;W02-D-Hasselt-FH01
+3500-908;3500;908;Koningin Astridlaan;W02-D-Hasselt-FH01
+3500-9117;3500;9117;Fonteinstraat;W02-D-Hasselt-FH01
+3500-9299;3500;9299;Gaarveldstraat;W02-D-Hasselt-FH01
+3500-9523;3500;9523;Gazometerstraat;W02-D-Hasselt-FH01
+3500-9829;3500;9829;Geraetsstraat;W02-D-Hasselt-FH01
+8300-16386;8300;16386;Knokkestraat;W03-C-Knokke-Heist-FH12

@@ -1,23 +1,133 @@
-Projectnummer;Opdrachtnummer;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
-ANTWERPEN-WEST - FH04;1945553;1945553;;Huidevettersstraat 38-40;Huidevettersstraat;40;;;XA;2020-01-23 12:00:36;Maayken Vanfleteren;MDU;23;19;4;46;BUILDING template
-ANTWERPEN-WEST - FH04;182860;182860;;Huidevettersstraat 38-40;Huidevettersstraat;38;;;A;2020-01-23 12:00:44;Maayken Vanfleteren;MDU;3;20;3;26;BUILDING template
-ANTWERPEN-WEST - FH04;187969;187969;;Kipdorp 21-23;Kipdorp;21;;;XC;2020-02-14 11:45:28;Maayken Vanfleteren;MDU;1;25;2;28;BUILDING template
-ANTWERPEN-WEST - FH04;5575825;5575825;;Kipdorp 21-23;Kipdorp;23;;;XC;2020-02-14 11:45:28;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
-ANTWERPEN-WEST - FH04;56802;56802;;Kipdorp 6-8;Kipdorp;8;;;XC;2020-02-13 13:40:44;Maayken Vanfleteren;MDU;0;12;2;14;BUILDING template
-ANTWERPEN-WEST - FH04;5403552;5403552;;Kipdorp 6-8;Kipdorp;6;;;XC;2020-02-13 13:40:44;Maayken Vanfleteren;MDU;3;0;1;4;BUILDING template
-ANTWERPEN-WEST - FH04;3926213;3926213;;Korte Gasthuisstraat 21-23-25;Korte Gasthuisstraat;21;;;XC;2020-01-24 10:50:20;Maayken Vanfleteren;MDU;2;2;0;4;BUILDING template
-ANTWERPEN-WEST - FH04;4509225;4509225;;Korte Gasthuisstraat 21-23-25;Korte Gasthuisstraat;23;;;XC;2020-01-24 10:50:20;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
-ANTWERPEN-WEST - FH04;59555;59555;;Korte Gasthuisstraat 21-23-25;Korte Gasthuisstraat;25;;;XC;2020-01-24 10:50:20;Maayken Vanfleteren;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;109185;109185;;Lange Sint-Annastraat 40-44_Sint-Jacobsmarkt 47-49;Lange Sint-Annastraat;40;;;XA;2020-02-13 14:00:33;Geert Stockman;MDU;0;4;1;5;BUILDING template
-ANTWERPEN-WEST - FH04;5548011;5548011;;Lange Sint-Annastraat 40-44_Sint-Jacobsmarkt 47-49;Lange Sint-Annastraat;44;;;XA;2020-02-13 14:00:33;Geert Stockman;MDU;0;16;1;17;BUILDING template
-ANTWERPEN-WEST - FH04;109210;109210;;Lange Sint-Annastraat 40-44_Sint-Jacobsmarkt 47-49;Sint-Jacobsmarkt;49;;;XA;2020-02-13 14:00:33;Geert Stockman;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;1953414;1953414;;Lange Sint-Annastraat 40-44_Sint-Jacobsmarkt 47-49;Sint-Jacobsmarkt;47;;;XA;2020-02-13 14:00:33;Geert Stockman;MDU;0;14;1;15;BUILDING template
-ANTWERPEN-WEST - FH04;3927937;3927937;;Leysstraat 7-9-11-13-15;Leysstraat;11;;;XA;2020-02-28 20:05:08;Hidde Kiekens;MDU;0;8;1;9;BUILDING template
-ANTWERPEN-WEST - FH04;110089;110089;;Leysstraat 7-9-11-13-15;Leysstraat;7;;;XA;2020-02-28 20:05:08;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;1990374;1990374;;Leysstraat 7-9-11-13-15;Leysstraat;9;;;XA;2020-02-28 20:05:08;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;1990386;1990386;;Leysstraat 7-9-11-13-15;Leysstraat;13;;;XA;2020-02-28 20:05:08;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;1990387;1990387;;Leysstraat 7-9-11-13-15;Leysstraat;15;;;XA;2020-02-28 20:05:08;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;5576351;5576351;;Otto Veniusstraat 26-28;Otto Veniusstraat;26;;;A;2020-01-22 10:05:20;Hidde Kiekens;MDU;0;33;1;34;BUILDING template
-ANTWERPEN-WEST - FH04;110195;110195;;Otto Veniusstraat 26-28;Otto Veniusstraat;28;;;A;2020-01-22 10:05:20;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
-ANTWERPEN-WEST - FH04;4509059;4509059;;Paradijsstraat 6-8;Paradijsstraat;8;;;XC;2020-02-03 19:50:12;Geert Stockman;MDU;0;7;0;7;BUILDING template
-ANTWERPEN-WEST - FH04;4259266;4259266;;Paradijsstraat 6-8;Paradijsstraat;6;;;XC;2020-02-03 19:50:12;Geert Stockman;MDU;0;1;0;1;BUILDING template
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+ANTWERPEN-WEST - FH04;1090983;BL0401;1;1090983;;Ambtmanstraat 7-9;Ambtmanstraat;7;;;D;2020-02-06 23:00:22;Maayken Vanfleteren;MDU;1;1;0;2;BUILDING template
+ANTWERPEN-WEST - FH04;109180;BL0401;1;109180;;Ambtmanstraat 7-9;Ambtmanstraat;9;;;D;2020-02-06 23:00:19;Maayken Vanfleteren;MDU;0;2;1;3;BUILDING template
+ANTWERPEN-WEST - FH04;5575537;BL0432;7;5575537;;Frankrijklei 54-56 ;Frankrijklei;54;;;XA;2019-12-20 20:45:15;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1008464;BL0432;7;1008464;;Frankrijklei 54-56 ;Frankrijklei;56;;;XA;2019-12-20 20:45:15;Hidde Kiekens;MDU;7;17;1;25;BUILDING template
+ANTWERPEN-WEST - FH04;1873798;BL0432;7;1873798;;Frankrijklei 62-64-68_Kipdorpvest 49-55;Frankrijklei;62;;;A;2019-12-25 13:30:20;Hidde Kiekens;MDU;0;16;1;17;BUILDING template
+ANTWERPEN-WEST - FH04;1085997;BL0432;7;1085997;;Frankrijklei 62-64-68_Kipdorpvest 49-55;Frankrijklei;64;;;A;2019-12-25 13:30:20;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1008463;BL0432;7;1008463;;Frankrijklei 62-64-68_Kipdorpvest 49-55;Frankrijklei;68;;;A;2019-12-25 13:30:20;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1962047;BL0432;7;1962047;;Frankrijklei 62-64-68_Kipdorpvest 49-55;Kipdorpvest;55;;;A;2019-12-25 13:30:20;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;5552572;BL0432;7;5552572;;Frankrijklei 62-64-68_Kipdorpvest 49-55;Kipdorpvest;49;;;A;2019-12-25 13:30:20;Hidde Kiekens;MDU;0;221;8;229;BUILDING template
+ANTWERPEN-WEST - FH04;1932680;BL0411;3;1932680;27513994;Frans Halsplein 13-15-17-19;Frans Halsplein;15;;20200127104646;XC;2020-01-26 08:20:12;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH04;1932689;BL0411;3;1932689;27513994;Frans Halsplein 13-15-17-19;Frans Halsplein;17;;20200127104646;XC;2020-01-26 08:30:19;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH04;5575668;BL0411;3;5575668;27513994;Frans Halsplein 13-15-17-19;Frans Halsplein;19;;20200127104646;XC;2020-01-26 08:35:11;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH04;109942;BL0411;3;109942;27513994;Frans Halsplein 13-15-17-19;Frans Halsplein;13;;20200127104646;XC;2020-01-26 08:15:16;Geert Stockman;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH04;1944479;BL0429;6;1944479;;Hopland 17-19-21;Hopland;17;;;XA;2020-02-06 15:55:24;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1944481;BL0429;6;1944481;;Hopland 17-19-21;Hopland;19;;;XA;2020-02-06 15:55:24;Hidde Kiekens;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH04;1944482;BL0429;6;1944482;;Hopland 17-19-21;Hopland;21;;;XA;2020-02-06 15:55:24;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1944485;BL0430;6;1944485;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Hopland;31;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;3927706;BL0430;6;3927706;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Hopland;33;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;0;4;1;5;BUILDING template
+ANTWERPEN-WEST - FH04;1944487;BL0430;6;1944487;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Hopland;35;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1944488;BL0430;6;1944488;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Hopland;37;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1966298;BL0430;6;1966298;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Kolveniersstraat;11;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1966287;BL0430;6;1966287;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Kolveniersstraat;7;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;40;1;0;41;BUILDING template
+ANTWERPEN-WEST - FH04;1966295;BL0430;6;1966295;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Kolveniersstraat;9;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+ANTWERPEN-WEST - FH04;1208696;BL0430;6;1208696;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Meir;76;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;0;6;0;6;BUILDING template
+ANTWERPEN-WEST - FH04;1311788;BL0430;6;1311788;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Meir;78;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;5575987;BL0430;6;5575987;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Meir;80;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;0;6;1;7;BUILDING template
+ANTWERPEN-WEST - FH04;110183;BL0430;6;110183;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Meir;82;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;NB-20008401384;;;NB-20008401384;;Hopland 31-33-35-37_Kolveniersstraat 7-9-11_Meir 76-78-80-82-84 ;Meir;84;;;XA;2020-02-20 19:25:14;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1945553;BL0426;6;1945553;;Huidervettersstraat 38-40_Korte Gasthuisstraat 21-23-25 ;Huidevettersstraat;40;;;XA;2020-01-23 12:00:36;Maayken Vanfleteren;MDU;23;19;4;46;BUILDING template
+ANTWERPEN-WEST - FH04;182860;BL0426;6;182860;;Huidervettersstraat 38-40_Korte Gasthuisstraat 21-23-25 ;Huidevettersstraat;38;;;XA;2020-01-23 12:00:36;Maayken Vanfleteren;MDU;3;20;3;26;BUILDING template
+ANTWERPEN-WEST - FH04;3926213;BL0426;6;3926213;;Huidervettersstraat 38-40_Korte Gasthuisstraat 21-23-25 ;Korte Gasthuisstraat;21;;;XA;2020-01-23 12:00:36;Maayken Vanfleteren;MDU;2;2;0;4;BUILDING template
+ANTWERPEN-WEST - FH04;4509225;BL0426;6;4509225;;Huidervettersstraat 38-40_Korte Gasthuisstraat 21-23-25 ;Korte Gasthuisstraat;23;;;XA;2020-01-23 12:00:36;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;59555;BL0426;6;59555;;Huidervettersstraat 38-40_Korte Gasthuisstraat 21-23-25 ;Korte Gasthuisstraat;25;;;XA;2020-01-23 12:00:36;Maayken Vanfleteren;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;5575734;BL0427;6;5575734;;Huidevettersstraat 33-35-37;Huidevettersstraat;35;;;;;;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;60018;BL0427;6;60018;;Huidevettersstraat 33-35-37;Huidevettersstraat;33;;;;;;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;60013;BL0427;6;60013;;Huidevettersstraat 33-35-37;Huidevettersstraat;37;;;;;;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;109952;BL0411;3;109952;27514046;Kattenstraat 20-22;Kattenstraat;20;;20200127104719;XC;2020-01-26 08:50:12;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH04;5575787;BL0411;3;5575787;27514046;Kattenstraat 20-22;Kattenstraat;22;;20200127104719;XC;2020-01-26 08:50:12;Geert Stockman;MDU;0;9;1;10;BUILDING template
+ANTWERPEN-WEST - FH04;1960755;BL0408;2;1960755;;Keizerstraat 20-22;Keizerstraat;20;;;XC;2020-01-26 08:50:12;Geert Stockman;MDU;7;2;2;11;BUILDING template
+ANTWERPEN-WEST - FH04;109161;BL0408;2;109161;;Keizerstraat 20-22;Keizerstraat;22;;;XC;2020-01-26 08:50:12;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1961994;BL0409;2;1961994;;Kipdorp 31-33;Kipdorp;33;;;;;;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH04;1961993;BL0409;2;1961993;;Kipdorp 31-33 ;Kipdorp;31;;;;;;MDU;0;11;1;12;BUILDING template
+ANTWERPEN-WEST - FH04;5575828;BL0415;3;5575828;;Kipdorp 44-46-48 ;Kipdorp;48;;;XC;2020-03-12 19:35:06;Geert Stockman;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1962002;BL0415;3;1962002;;Kipdorp 44-46-48 ;Kipdorp;46;;;XC;2020-03-12 19:35:06;Geert Stockman;MDU;0;26;1;27;BUILDING template
+ANTWERPEN-WEST - FH04;110042;BL0415;3;110042;;Kipdorp 44-46-48 ;Kipdorp;44;;;XC;2020-03-12 19:35:06;Geert Stockman;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;109946;BL0410;2;109946;;Kipdorp 49-51 ;Kipdorp;49;;;;2020-02-17 15:10:29;Maayken Vanfleteren;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;5575829;BL0410;2;5575829;;Kipdorp 49-51 ;Kipdorp;51;;;;;Peter Van Leeuwen;MDU;0;46;1;47;BUILDING template
+ANTWERPEN-WEST - FH04;6577632;BL0410;2;6577632;;Kipdorp 59-61_Prinsesstraat 46;Kipdorp;59;;;;;Peter Van Leeuwen;MDU;0;1;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;11987;BL0410;2;11987;;Kipdorp 59-61_Prinsesstraat 46;Kipdorp;61;;;;;Peter Van Leeuwen;MDU;7;0;7;14;BUILDING template
+ANTWERPEN-WEST - FH04;2045900;BL0410;2;2045900;;Kipdorp 59-61_Prinsesstraat 46;Prinsesstraat;46;;;;;Peter Van Leeuwen;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;5575832;BL0431;7;5575832;;Kipdorpvest 40-42 ;Kipdorpvest;40;;;XA;2020-03-11 13:15:10;Hidde Kiekens;MDU;3;17;2;22;BUILDING template
+ANTWERPEN-WEST - FH04;1008479;BL0431;7;1008479;;Kipdorpvest 40-42 ;Kipdorpvest;42;;;XA;2020-03-11 13:15:10;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1962038;BL0432;7;1962038;;Kipdorpvest 43-45 ;Kipdorpvest;43;;;D;2019-12-13 15:40:17;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1008471;BL0432;7;1008471;;Kipdorpvest 43-45  ;Kipdorpvest;45;;;D;2019-12-13 15:40:17;Hidde Kiekens;MDU;1;8;1;10;BUILDING template
+ANTWERPEN-WEST - FH04;1091138;BL0429;6;1091138;;Kolveniersstraat 26-28;Kolveniersstraat;26;;;D;2019-12-27 10:40:10;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;110189;BL0429;6;110189;;Kolveniersstraat 26-28;Kolveniersstraat;28;;;D;2019-12-27 10:40:10;Hidde Kiekens;MDU;0;3;0;3;BUILDING template
+ANTWERPEN-WEST - FH04;5576488;BL0420;4;5576488;;Korte Klarenstraat 7-9 ;Korte Klarenstraat;9;;;XC;2020-01-30 19:20:13;Hidde Kiekens;MDU;0;7;1;8;BUILDING template
+ANTWERPEN-WEST - FH04;962193;BL0420;4;962193;;Korte Klarenstraat 7-9 ;Korte Klarenstraat;7;;;XC;2020-01-30 19:20:13;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;4013488;BL0420;4;4013488;;Korte Klarenstraat 9A-9B ;Korte Klarenstraat;9;B;;XC;2020-01-24 20:55:13;Hidde Kiekens;MDU;0;18;1;19;BUILDING template
+ANTWERPEN-WEST - FH04;962189;BL0420;4;962189;;Korte Klarenstraat 9A-9B ;Korte Klarenstraat;9;A;;XC;2020-01-24 20:55:13;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;6463099;BL0406;2;6463099;;Korte Sint Annastraat 3A-5-5A;Korte Sint-Annastraat;3;A;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;6444183;BL0406;2;6444183;;Korte Sint Annastraat 3A-5-5A;Korte Sint-Annastraat;5;A;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1735166;BL0406;2;1735166;;Korte Sint Annastraat 3A-5-5A;Korte Sint-Annastraat;5;;;;;Geert Stockman;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;109203;BL0407;2;109203;;Kortewinkelstraat 28-28A ;Korte Winkelstraat;28;;;;;Geert Stockman;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;5835518;BL0407;2;5835518;;Kortewinkelstraat 28-28A ;Korte Winkelstraat;28;A;;;;Geert Stockman;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;962185;BL0421;5;962185;;Lange Klarenstraat 16-18-20 ;Lange Klarenstraat;20;;;D;2020-03-30 10:48:02;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;NB-20001801385;;;NB-20001801385;;Lange Klarenstraat 16-18-20 ;Lange Klarenstraat;18;;;D;2020-03-30 10:48:02;Peter Van Leeuwen;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;5560965;BL0421;5;5560965;;Lange Klarenstraat 16-18-20 ;Lange Klarenstraat;16;;;D;2020-03-30 10:48:02;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;4510982;BL0422;5;4510982;;Lange Klarenstraat 5-7;Lange Klarenstraat;5;;;D;2020-01-20 10:55:22;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;4510985;BL0422;5;4510985;;Lange Klarenstraat 5-7 ;Lange Klarenstraat;7;;;D;2020-01-20 10:55:22;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;187747;BL0422;5;187747;;Lange klarenstraat 9-11;Lange Klarenstraat;11;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;187746;BL0422;5;187746;;Lange klarenstraat 9-11;Lange Klarenstraat;9;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;962184;BL0420;4;962184;;Lange Nieuwstraat 32-34-36 ;Lange Nieuwstraat;32;;;;;Peter Van Leeuwen;MDU;0;0;0;0;BUILDING template
+ANTWERPEN-WEST - FH04;1282681;BL0420;4;1282681;;Lange Nieuwstraat 32-34-36 ;Lange Nieuwstraat;34;;;;;Peter Van Leeuwen;MDU;0;44;1;45;BUILDING template
+ANTWERPEN-WEST - FH04;5576043;BL0420;4;5576043;;Lange Nieuwstraat 32-34-36 ;Lange Nieuwstraat;36;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;NB-2000201386;;;NB-2000201386;;Lange nieuwstraat 66-68_Eikenstraat 2 ;Eikenstraat;2;;;D;2020-02-13 14:20:22;Hidde Kiekens;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;148667;BL0422;5;148667;;Lange nieuwstraat 66-68_Eikenstraat 2 ;Lange Nieuwstraat;66;;;D;2020-02-13 14:20:22;Hidde Kiekens;MDU;0;2;0;2;BUILDING template
+ANTWERPEN-WEST - FH04;5576046;BL0422;5;5576046;;Lange nieuwstraat 66-68_Eikenstraat 2 ;Lange Nieuwstraat;68;;;D;2020-02-13 14:20:22;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1735184;BL0412;3;1735184;;Lange Sint Annastraat 28-30-32-34-36-38;Lange Sint-Annastraat;28;;;XC;2020-02-26 14:30:19;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH04;1476629;BL0412;3;1476629;;Lange Sint Annastraat 28-30-32-34-36-38;Lange Sint-Annastraat;30;;;XC;2020-02-26 14:30:19;Geert Stockman;MDU;0;8;1;9;BUILDING template
+ANTWERPEN-WEST - FH04;1486922;BL0412;3;1486922;;Lange Sint Annastraat 28-30-32-34-36-38;Lange Sint-Annastraat;32;;;XC;2020-02-26 14:30:19;Geert Stockman;MDU;0;14;1;15;BUILDING template
+ANTWERPEN-WEST - FH04;1735186;BL0412;3;1735186;;Lange Sint Annastraat 28-30-32-34-36-38;Lange Sint-Annastraat;34;;;XC;2020-02-26 14:30:19;Geert Stockman;MDU;0;1;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;109191;BL0412;3;109191;;Lange Sint Annastraat 28-30-32-34-36-38;Lange Sint-Annastraat;36;;;XC;2020-02-26 14:30:19;Geert Stockman;MDU;0;10;1;11;BUILDING template
+ANTWERPEN-WEST - FH04;248842;BL0423;5;248842;;Meir 111-115 ;Meir;111;;;D;2020-03-30 15:20:50;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;6524187;BL0423;5;6524187;;Meir 111-115 ;Meir;115;;;D;2020-03-30 15:20:50;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;59990;BL0427;6;59990;;Meir 12-14 ;Meir;12;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;59991;BL0427;6;59991;;Meir 12-14 ;Meir;14;;;;;Peter Van Leeuwen;MDU;3;2;1;6;BUILDING template
+ANTWERPEN-WEST - FH04;182743;BL0419;4;182743;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Meir;1;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;2001378;BL0419;4;2001378;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Meir;5;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;2001386;BL0419;4;2001386;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Meir;9;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;3928002;BL0419;4;3928002;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Meir;3;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;0;12;1;13;BUILDING template
+ANTWERPEN-WEST - FH04;2001382;BL0419;4;2001382;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Meir;7;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;0;12;0;12;BUILDING template
+ANTWERPEN-WEST - FH04;2068369;BL0419;4;2068369;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Sint-Katelijnevest;67;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;0;14;1;15;BUILDING template
+ANTWERPEN-WEST - FH04;2057933;BL0419;4;2057933;;Meir 1-3 5-7-9_Sint Katelijnenevest 67_Twaalfmaandenstraat 14;Twaalfmaandenstraat;14;;;XA;2020-02-26 19:45:10;Hidde Kiekens;MDU;0;8;0;8;BUILDING template
+ANTWERPEN-WEST - FH04;5575982;BL0427;6;5575982;;Meir 22-24 ;Meir;24;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;59993;BL0427;6;59993;;Meir 22-24 ;Meir;22;;;;;Peter Van Leeuwen;MDU;2;28;0;30;BUILDING template
+ANTWERPEN-WEST - FH04;59994;BL0427;6;59994;;Meir 26-28-30 ;Meir;26;;;D;2020-03-24 13:18:41;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;5575984;BL0427;6;5575984;;Meir 26-28-30 ;Meir;30;;;D;2020-03-24 13:18:41;Peter Van Leeuwen;MDU;2;0;1;3;BUILDING template
+ANTWERPEN-WEST - FH04;59995;BL0427;6;59995;;Meir 26-28-30 ;Meir;28;;;D;2020-03-24 13:18:41;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;60582;BL0421;5;60582;;Meir 31-33 ;Meir;31;;;D;2020-04-08 15:49:41;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;6524102;BL0421;5;6524102;;Meir 31-33 ;Meir;33;;;D;2020-04-08 15:49:41;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;4507529;BL0427;6;4507529;;Meir 32-34-36 ;Meir;34;;;XA;2020-02-10 19:40:15;Hidde Kiekens;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;2001442;BL0427;6;2001442;;Meir 32-34-36 ;Meir;36;;;XA;2020-02-10 19:40:15;Hidde Kiekens;MDU;0;20;1;21;BUILDING template
+ANTWERPEN-WEST - FH04;60000;BL0427;6;60000;;Meir 32-34-36 ;Meir;32;;;XA;2020-02-10 19:40:15;Hidde Kiekens;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;59998;BL0427;6;59998;;Meir 42-46 ;Meir;42;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;5575985;BL0427;6;5575985;;Meir 42-46 ;Meir;46;;;;;Peter Van Leeuwen;MDU;0;17;0;17;BUILDING template
+ANTWERPEN-WEST - FH04;2001472;BL0422;5;2001472;;Meir 55-57;Meir;57;;;D;2020-03-30 15:57:13;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;2001470;BL0422;5;2001470;;Meir 55-57 ;Meir;55;;;D;2020-03-30 15:57:13;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;2001517;BL0423;5;2001517;;Meir 89-91-93-95-97 ;Meir;89;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;2001519;BL0423;5;2001519;;Meir 89-91-93-95-97 ;Meir;91;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;3958136;BL0423;5;3958136;;Meir 89-91-93-95-97 ;Meir;93;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;2001522;BL0423;5;2001522;;Meir 89-91-93-95-97 ;Meir;95;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;110111;BL0423;5;110111;;Meir 89-91-93-95-97 ;Meir;97;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;109215;BL0407;2;109215;;Molenbergstraat 2-3-4 ;Molenbergstraat;2;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;6577633;BL0407;2;6577633;;Molenbergstraat 2-3-4 ;Molenbergstraat;3;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;4061939;BL0407;2;4061939;;Molenbergstraat 2-3-4 ;Molenbergstraat;4;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;1338783;BL0407;2;1338783;;Molenbergstraat 9_Sint Jacobsmarkt 97;Molenbergstraat;9;;;XA;2020-01-14 07:20:18;Geert Stockman;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;91938;BL0407;2;91938;;Molenbergstraat 9_Sint Jacobsmarkt 97;Sint-Jacobsmarkt;97;;;XA;2020-01-14 07:20:18;Geert Stockman;MDU;5;2;1;8;BUILDING template
+ANTWERPEN-WEST - FH04;5428419;BL0428;6;5428419;;Schuttershofstraat 9-9A-9B-9C-9D-11 ;Schuttershofstraat;9;A;;D;2020-03-24 13:11:02;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;2052254;BL0428;6;2052254;;Schuttershofstraat 9-9A-9B-9C-9D-11 ;Schuttershofstraat;9;B;;D;2020-03-24 13:11:02;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;5403556;BL0428;6;5403556;;Schuttershofstraat 9-9A-9B-9C-9D-11 ;Schuttershofstraat;9;D;;D;2020-03-24 13:11:02;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;5576258;BL0428;6;5576258;;Schuttershofstraat 9-9A-9B-9C-9D-11 ;Schuttershofstraat;11;;;D;2020-03-24 13:11:02;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;60796;BL0428;6;60796;;Schuttershofstraat 9-9A-9B-9C-9D-11 ;Schuttershofstraat;9;;;D;2020-03-24 13:11:02;Peter Van Leeuwen;MDU;3;0;1;4;BUILDING template
+ANTWERPEN-WEST - FH04;4035525;BL0428;6;4035525;;Schuttershofstraat 9-9A-9B-9C-9D-11 ;Schuttershofstraat;9;C;;D;2020-03-24 13:11:02;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;2057927;BL0419;4;2057927;;Twaalfmaandenstraat 7-9-11-13;Twaalfmaandenstraat;7;;;D;2020-04-01 11:52:11;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;2057929;BL0419;4;2057929;;Twaalfmaandenstraat 7-9-11-13;Twaalfmaandenstraat;9;;;D;2020-04-01 11:52:11;Peter Van Leeuwen;MDU;0;14;0;14;BUILDING template
+ANTWERPEN-WEST - FH04;2057930;BL0419;4;2057930;;Twaalfmaandenstraat 7-9-11-13;Twaalfmaandenstraat;11;;;D;2020-04-01 11:52:11;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;2057932;BL0419;4;2057932;;Twaalfmaandenstraat 7-9-11-13;Twaalfmaandenstraat;13;;;D;2020-04-01 11:52:11;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;60024;BL0429;6;60024;;Wapper 9-11-13-15 ;Wapper;9;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;1508424;BL0429;6;1508424;;Wapper 9-11-13-15 ;Wapper;11;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+ANTWERPEN-WEST - FH04;4508048;BL0429;6;4508048;;Wapper 9-11-13-15 ;Wapper;13;;;;;Peter Van Leeuwen;MDU;1;0;1;2;BUILDING template
+ANTWERPEN-WEST - FH04;60025;BL0429;6;60025;;Wapper 9-11-13-15 ;Wapper;15;;;;;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template

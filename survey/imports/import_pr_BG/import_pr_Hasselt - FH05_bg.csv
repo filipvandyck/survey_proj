@@ -1,0 +1,335 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+HASSELT - FH05;6590590;BL0006;;6590590;;;Gouverneur Roppesingel;159;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328550;BL0004;;328550;;;Danielsstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448981;BL0004;;2448981;;;Zomerstraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590591;BL0006;;6590591;;;Gouverneur Roppesingel;157;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412591;BL0006;;2412591;;;Danielsstraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448982;BL0004;;2448982;;;Zomerstraat;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590592;BL0003;;6590592;;;Herfststraat;12;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412594;BL0006;;2412594;;;Danielsstraat;29;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896825;BL0005;;4896825;;;Zomerstraat;47;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590593;BL0003;;6590593;;;Herfststraat;10;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412597;BL0006;;2412597;;;Danielsstraat;31;;;;;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH05;4896800;BL0004;;4896800;;;Zomerstraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590594;BL0003;;6590594;;;Herfststraat;4;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2405870;BL0003;;2405870;;;Gouverneur Roppesingel;131;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;2448983;BL0005;;2448983;;;Zomerstraat;49;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590595;BL0003;;6590595;;;Herfststraat;33;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2405872;BL0003;;2405872;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;133;;20200508112853;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;2448985;BL0005;;2448985;;;Zomerstraat;51;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3937166;BL0003;;3937166;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;135;;20200508112853;;;Dieu Jocelin;MDU;0;3;1;4;BUILDING template
+HASSELT - FH05;2405875;BL0006;;2405875;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel;165;;20200508112853;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;328580;BL0003;;328580;;;Herfststraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896901;BL0003;;4896901;;;Herfststraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896902;BL0003;;4896902;;;Herfststraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328582;BL0003;;328582;;;Herfststraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407321;BL0003;;2407321;;;Herfststraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407322;BL0003;;2407322;;;Herfststraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896844;BL0003;;4896844;;;Herfststraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632824;BL0003;;6632824;;;Winterstraat;11;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328377;BL0003;;328377;;;Kroonwinningstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328376;BL0002;;328376;;;Kroonwinningstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423284;BL0003;;2423284;;;Kroonwinningstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423285;BL0002;;2423285;;;Kroonwinningstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632825;BL0003;;6632825;;;Winterstraat;31;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423287;BL0003;;2423287;;;Kroonwinningstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423288;BL0002;;2423288;;;Kroonwinningstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1366867;BL0003;;1366867;;;Kroonwinningstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423291;BL0003;;2423291;;;Kroonwinningstraat;7;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632826;BL0003;;6632826;;;Winterstraat;39;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423293;BL0002;;2423293;;;Kroonwinningstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423296;BL0003;;2423296;;;Kroonwinningstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632827;BL0003;;6632827;;;Winterstraat;42;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328378;BL0002;;328378;;;Kroonwinningstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896918;BL0003;;4896918;;;Kroonwinningstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632828;BL0003;;6632828;;;Winterstraat;38;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328379;BL0002;;328379;;;Kroonwinningstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328380;BL0002;;328380;;;Kroonwinningstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632829;BL0003;;6632829;;;Winterstraat;36;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423298;BL0003;;2423298;;;Kroonwinningstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423299;BL0003;;2423299;;;Kroonwinningstraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632830;BL0003;;6632830;;;Winterstraat;34;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897771;BL0003;;4897771;;;Kroonwinningstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328381;BL0003;;328381;;;Kroonwinningstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423301;BL0003;;2423301;;;Kroonwinningstraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896766;BL0002;;4896766;;;Kroonwinningstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3937439;BL0002;;3937439;;;Kroonwinningstraat;30;;;;;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH05;2423305;BL0003;;2423305;;;Kroonwinningstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423306;BL0002;;2423306;;;Kroonwinningstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896769;BL0002;;4896769;;;Kroonwinningstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632831;BL0003;;6632831;;;Winterstraat;32;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896770;BL0002;;4896770;;;Kroonwinningstraat;36;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423307;BL0002;;2423307;;;Kroonwinningstraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896772;BL0002;;4896772;;;Kroonwinningstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423310;BL0003;;2423310;;;Kroonwinningstraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423313;BL0002;;2423313;;;Kroonwinningstraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423318;BL0003;;2423318;;;Kroonwinningstraat;43;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4093037;BL0003;;4093037;;;Kroonwinningstraat;43;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423320;BL0002;;2423320;;;Kroonwinningstraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423323;BL0003;;2423323;;;Kroonwinningstraat;45;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423325;BL0002;;2423325;;;Kroonwinningstraat;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328382;BL0002;;328382;;;Kroonwinningstraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423328;BL0003;;2423328;;;Kroonwinningstraat;49;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423331;BL0002;;2423331;;;Kroonwinningstraat;50;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423335;BL0003;;2423335;;;Kroonwinningstraat;51;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897827;BL0002;;4897827;;;Kroonwinningstraat;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423337;BL0003;;2423337;;;Kroonwinningstraat;53;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423340;BL0002;;2423340;;;Kroonwinningstraat;54;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;708707;BL0003;;708707;;;Kroonwinningstraat;55;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3959995;BL0003;;3959995;;;Kroonwinningstraat;57;;;;;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH05;2423343;BL0003;;2423343;;;Kroonwinningstraat;57;A;;;;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+HASSELT - FH05;328385;BL0002;;328385;;;Kroonwinningstraat;58;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897797;BL0003;;4897797;;;Kroonwinningstraat;59;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423346;BL0002;;2423346;;;Kroonwinningstraat;60;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328384;BL0003;;328384;;;Kroonwinningstraat;61;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423347;BL0002;;2423347;;;Kroonwinningstraat;62;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423348;BL0002;;2423348;;;Kroonwinningstraat;64;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423350;BL0003;;2423350;;;Kroonwinningstraat;65;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423352;BL0002;;2423352;;;Kroonwinningstraat;70;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2423355;BL0002;;2423355;;;Kroonwinningstraat;72;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897819;BL0002;;4897819;;;Kroonwinningstraat;80;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;708908;BL0002;;708908;;;Kroonwinningstraat;82;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;708907;BL0002;;708907;;;Kroonwinningstraat;84;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;21916;BL0002;;21916;;;Kroonwinningstraat;86;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH05;4193754;BL0004;;4193754;;;Lentestraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328371;BL0004;;328371;;;Lentestraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4022873;BL0004;;4022873;;;Lentestraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425666;BL0004;;2425666;;;Lentestraat;7;;;;;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH05;328370;BL0001;;328370;;;Lentestraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425667;BL0004;;2425667;;;Lentestraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1512520;BL0001;;1512520;;;Lentestraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425670;BL0004;;2425670;;;Lentestraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425673;BL0001;;2425673;;;Lentestraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425674;BL0001;;2425674;;;Lentestraat;14;;;;;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+HASSELT - FH05;2425675;BL0001;;2425675;;;Lentestraat;14;A;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH05;2425678;BL0004;;2425678;;;Lentestraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425681;BL0001;;2425681;;;Lentestraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425682;BL0004;;2425682;;;Lentestraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425686;BL0001;;2425686;;;Lentestraat;18;;;;;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+HASSELT - FH05;2425690;BL0004;;2425690;;;Lentestraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425694;BL0001;;2425694;;;Lentestraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896985;BL0004;;4896985;;;Lentestraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425698;BL0001;;2425698;;;Lentestraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425701;BL0004;;2425701;;;Lentestraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4209906;BL0001;;4209906;;;Lentestraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425703;BL0004;;2425703;;;Lentestraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3937481;BL0001;;3937481;;;Lentestraat;26;;;;;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH05;328374;BL0004;;328374;;;Lentestraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425705;BL0001;;2425705;;;Lentestraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328372;BL0001;;328372;;;Lentestraat;38;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328373;BL0001;;328373;;;Lentestraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425708;BL0001;;2425708;;;Lentestraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425710;BL0001;;2425710;;;Lentestraat;44;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425711;BL0001;;2425711;;;Lentestraat;46;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2425713;BL0001;;2425713;;;Lentestraat;48;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632809;BL0003;;6632809;;;Winterstraat;35;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328375;BL0001;;328375;;;Lentestraat;52;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426459;BL0001;;2426459;;;Luikersteenweg;138;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426463;BL0001;;2426463;33626466;Luikersteenweg 140A-140B;Luikersteenweg;140;A;20200508104100;;;Dieu Jocelin;MDU;0;8;0;8;BUILDING template
+HASSELT - FH05;2426466;BL0001;;2426466;33626466;Luikersteenweg 140A-140B;Luikersteenweg;140;B;20200508104100;;;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH05;328566;BL0001;;328566;;;Luikersteenweg;144;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426469;BL0001;;2426469;;;Luikersteenweg;144;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426473;BL0001;;2426473;;;Luikersteenweg;144;B;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426475;BL0001;;2426475;;;Luikersteenweg;146;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426476;BL0001;;2426476;;;Luikersteenweg;146;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328565;BL0001;;328565;;;Luikersteenweg;150;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896928;BL0001;;4896928;;;Luikersteenweg;152;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426482;BL0001;;2426482;;;Luikersteenweg;154;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426484;BL0001;;2426484;;;Luikersteenweg;156;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426488;BL0001;;2426488;;;Luikersteenweg;158;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426493;BL0001;;2426493;;;Luikersteenweg;160;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426494;BL0001;;2426494;;;Luikersteenweg;162;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328558;BL0001;;328558;;;Luikersteenweg;164;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328556;BL0005;;328556;;;Luikersteenweg;166;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426499;BL0005;;2426499;;;Luikersteenweg;168;;;;;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH05;2426502;BL0005;;2426502;;;Luikersteenweg;170;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426503;BL0005;;2426503;;;Luikersteenweg;172;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426504;BL0005;;2426504;;;Luikersteenweg;174;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426506;BL0005;;2426506;;;Luikersteenweg;176;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426507;BL0005;;2426507;;;Luikersteenweg;178;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426509;BL0005;;2426509;;;Luikersteenweg;180;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896868;BL0005;;4896868;;;Luikersteenweg;182;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426514;BL0005;;2426514;;;Luikersteenweg;184;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426516;BL0005;;2426516;;;Luikersteenweg;186;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426517;BL0005;;2426517;;;Luikersteenweg;188;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896871;BL0005;;4896871;;;Luikersteenweg;190;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426522;BL0005;;2426522;;;Luikersteenweg;192;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;2426526;BL0005;;2426526;;;Luikersteenweg;194;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896959;BL0005;;4896959;;;Luikersteenweg;196;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1190701;BL0005;;1190701;;;Luikersteenweg;198;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1481618;BL0005;;1481618;;;Luikersteenweg;200;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426533;BL0005;;2426533;;;Luikersteenweg;202;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896963;BL0005;;4896963;;;Luikersteenweg;204;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426536;BL0005;;2426536;;;Luikersteenweg;206;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;327202;BL0005;;327202;;;Luikersteenweg;208;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426540;BL0005;;2426540;;;Luikersteenweg;210;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426542;BL0005;;2426542;;;Luikersteenweg;212;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1441625;BL0005;;1441625;;;Luikersteenweg;214;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328557;BL0005;;328557;;;Luikersteenweg;216;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328559;BL0006;;328559;;;Luikersteenweg;218;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426545;BL0006;;2426545;;;Luikersteenweg;220;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896855;BL0006;;4896855;;;Luikersteenweg;222;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426547;BL0006;;2426547;;;Luikersteenweg;224;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1510695;BL0006;;1510695;;;Luikersteenweg;226;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1164602;BL0006;;1164602;;;Luikersteenweg;228;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;328553;BL0006;;328553;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;230;;20200508112853;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;2426562;BL0006;;2426562;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;232;;20200508112853;;;Dieu Jocelin;MDU;8;8;0;16;BUILDING template
+HASSELT - FH05;2426288;BL0001;;2426288;33626278;Oude Luikerbaan 79-81-81A-83;Oude Luikerbaan;79;;20200508104100;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;328576;BL0001;;328576;33626278;Oude Luikerbaan 79-81-81A-83;Oude Luikerbaan;81;;20200508104100;;;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426291;BL0001;;2426291;33626278;Oude Luikerbaan 79-81-81A-83;Oude Luikerbaan;81;A;20200508104100;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;328577;BL0001;;328577;33626278;Oude Luikerbaan 79-81-81A-83;Oude Luikerbaan;83;;20200508104100;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;328544;BL0004;;328544;;;Oude Luikerbaan;89;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896742;BL0004;;4896742;;;Oude Luikerbaan;91;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426295;BL0004;;2426295;;;Oude Luikerbaan;93;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426296;BL0004;;2426296;;;Oude Luikerbaan;95;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426298;BL0003;;2426298;;;Oude Luikerbaan;96;;;;;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH05;2426301;BL0004;;2426301;;;Oude Luikerbaan;97;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426304;BL0004;;2426304;;;Oude Luikerbaan;99;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426306;BL0003;;2426306;;;Oude Luikerbaan;100;;;;;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH05;2426309;BL0004;;2426309;;;Oude Luikerbaan;101;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426310;BL0003;;2426310;;;Oude Luikerbaan;102;;;;;Dieu Jocelin;MDU;1;0;1;2;BUILDING template
+HASSELT - FH05;328541;BL0004;;328541;;;Oude Luikerbaan;103;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426312;BL0003;;2426312;;;Oude Luikerbaan;104;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426313;BL0006;;2426313;;;Oude Luikerbaan;105;;;;;Dieu Jocelin;MDU;0;6;0;6;BUILDING template
+HASSELT - FH05;2426315;BL0003;;2426315;;;Oude Luikerbaan;106;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328542;BL0006;;328542;;;Oude Luikerbaan;107;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426317;BL0003;;2426317;;;Oude Luikerbaan;108;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4227121;BL0003;;4227121;;;Oude Luikerbaan;110;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426318;BL0003;;2426318;;;Oude Luikerbaan;112;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426319;BL0003;;2426319;;;Oude Luikerbaan;118;;;;;Dieu Jocelin;MDU;2;0;2;4;BUILDING template
+HASSELT - FH05;2426320;BL0003;;2426320;;;Oude Luikerbaan;120;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896735;BL0006;;4896735;;;Oude Luikerbaan;121;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426322;BL0003;;2426322;;;Oude Luikerbaan;122;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896736;BL0006;;4896736;;;Oude Luikerbaan;123;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896738;BL0006;;4896738;;;Oude Luikerbaan;125;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426323;BL0003;;2426323;;;Oude Luikerbaan;126;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3922303;BL0006;;3922303;;;Oude Luikerbaan;127;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328546;BL0003;;328546;;;Oude Luikerbaan;138;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426326;BL0003;;2426326;;;Oude Luikerbaan;140;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328540;BL0003;;328540;;;Oude Luikerbaan;142;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426330;BL0003;;2426330;;;Oude Luikerbaan;144;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426331;BL0003;;2426331;;;Oude Luikerbaan;146;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426332;BL0003;;2426332;;;Oude Luikerbaan;148;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426333;BL0003;;2426333;;;Oude Luikerbaan;150;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3990101;BL0003;;3990101;;;Oude Luikerbaan;152;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328543;BL0003;;328543;;;Oude Luikerbaan;156;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2426334;BL0003;;2426334;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Oude Luikerbaan;160;;20200508112853;;;Dieu Jocelin;MDU;0;4;0;4;BUILDING template
+HASSELT - FH05;2406760;BL0002;;2406760;;;Vier-Bundersstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897745;BL0002;;4897745;;;Vier-Bundersstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897748;BL0002;;4897748;;;Vier-Bundersstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2406762;BL0002;;2406762;;;Vier-Bundersstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632814;BL0003;;6632814;;;Winterstraat;20;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;708909;BL0003;;708909;;;Winterstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328362;BL0003;;328362;;;Winterstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632815;BL0003;;6632815;;;Winterstraat;22;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328366;BL0003;;328366;;;Winterstraat;5;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328365;BL0003;;328365;;;Winterstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632821;BL0003;;6632821;;;Winterstraat;24;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328368;BL0003;;328368;;;Winterstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328364;BL0003;;328364;;;Winterstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632822;BL0003;;6632822;;;Winterstraat;26;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328367;BL0003;;328367;;;Winterstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;5751543;BL0003;;5751543;;;Winterstraat;12;;;;;Dieu Jocelin;MDU;1;1;1;3;BUILDING template
+HASSELT - FH05;4896908;BL0003;;4896908;;;Winterstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6391167;BL0003;;6391167;;;Winterstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896910;BL0003;;4896910;;;Winterstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;5908229;BL0003;;5908229;;;Winterstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407163;BL0001;;2407163;33626507;Anne Frankplein 1-3-4-5-6;Anne Frankplein;1;;20200508104100;;;Dieu Jocelin;MDU;0;6;1;7;BUILDING template
+HASSELT - FH05;1319342;BL0003;;1319342;;;Winterstraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;5751546;BL0003;;5751546;;;Winterstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407166;BL0001;;2407166;33626507;Anne Frankplein 1-3-4-5-6;Anne Frankplein;3;;20200508104100;;;Dieu Jocelin;MDU;0;7;1;8;BUILDING template
+HASSELT - FH05;4896914;BL0003;;4896914;;;Winterstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407169;BL0001;;2407169;33626507;Anne Frankplein 1-3-4-5-6;Anne Frankplein;4;;20200508104100;;;Dieu Jocelin;MDU;0;6;1;7;BUILDING template
+HASSELT - FH05;4176413;BL0003;;4176413;;;Winterstraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407170;BL0001;;2407170;33626507;Anne Frankplein 1-3-4-5-6;Anne Frankplein;5;;20200508104100;;;Dieu Jocelin;MDU;0;4;1;5;BUILDING template
+HASSELT - FH05;2407039;BL0003;;2407039;;;Winterstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632823;BL0003;;6632823;;;Winterstraat;30;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407172;BL0001;;2407172;33626507;Anne Frankplein 1-3-4-5-6;Anne Frankplein;6;;20200508104100;;;Dieu Jocelin;MDU;0;6;1;7;BUILDING template
+HASSELT - FH05;2407041;BL0003;;2407041;;;Winterstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;3937179;BL0001;;3937179;33626600;Anne Frankplein 7-8-9-10-11;Anne Frankplein;7;;20200508104100;;;Dieu Jocelin;MDU;0;8;1;9;BUILDING template
+HASSELT - FH05;2407043;BL0003;;2407043;;;Winterstraat;27;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407173;BL0001;;2407173;33626600;Anne Frankplein 7-8-9-10-11;Anne Frankplein;8;;20200508104100;;;Dieu Jocelin;MDU;0;9;1;10;BUILDING template
+HASSELT - FH05;5751544;BL0003;;5751544;;;Winterstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407175;BL0001;;2407175;33626600;Anne Frankplein 7-8-9-10-11;Anne Frankplein;9;;20200508104100;;;Dieu Jocelin;MDU;0;10;1;11;BUILDING template
+HASSELT - FH05;5431280;BL0003;;5431280;;;Winterstraat;29;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407176;BL0001;;2407176;33626600;Anne Frankplein 7-8-9-10-11;Anne Frankplein;10;;20200508104100;;;Dieu Jocelin;MDU;0;9;1;10;BUILDING template
+HASSELT - FH05;5778252;BL0003;;5778252;;;Winterstraat;37;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1323149;BL0001;;1323149;33626600;Anne Frankplein 7-8-9-10-11;Anne Frankplein;11;;20200508104100;;;Dieu Jocelin;MDU;1;7;1;9;BUILDING template
+HASSELT - FH05;6199761;BL0003;;6199761;;;Winterstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407181;BL0001;;2407181;33626601;Anne Frankplein 12-13-14-15-16-17;Anne Frankplein;12;;20200508104101;;;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH05;328567;BL0005;;328567;;;Zomerstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407182;BL0001;;2407182;33626601;Anne Frankplein 12-13-14-15-16-17;Anne Frankplein;13;;20200508104101;;;Dieu Jocelin;MDU;1;9;1;11;BUILDING template
+HASSELT - FH05;328571;BL0005;;328571;;;Zomerstraat;3;;;;;Dieu Jocelin;MDU;0;5;0;5;BUILDING template
+HASSELT - FH05;2407184;BL0001;;2407184;33626601;Anne Frankplein 12-13-14-15-16-17;Anne Frankplein;14;;20200508104101;;;Dieu Jocelin;MDU;1;7;1;9;BUILDING template
+HASSELT - FH05;328575;BL0004;;328575;;;Zomerstraat;4;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407186;BL0001;;2407186;33626601;Anne Frankplein 12-13-14-15-16-17;Anne Frankplein;15;;20200508104101;;;Dieu Jocelin;MDU;0;8;0;8;BUILDING template
+HASSELT - FH05;328573;BL0004;;328573;;;Zomerstraat;6;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407189;BL0001;;2407189;33626601;Anne Frankplein 12-13-14-15-16-17;Anne Frankplein;16;;20200508104101;;;Dieu Jocelin;MDU;0;6;1;7;BUILDING template
+HASSELT - FH05;328570;BL0004;;328570;;;Zomerstraat;10;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2407191;BL0001;;2407191;33626601;Anne Frankplein 12-13-14-15-16-17;Anne Frankplein;17;;20200508104101;;;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH05;328574;BL0004;;328574;;;Zomerstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412553;BL0006;;2412553;;;Danielsstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896784;BL0004;;4896784;;;Zomerstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;21906;BL0001;;21906;;;Lentestraat;2;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412555;BL0005;;2412555;;;Danielsstraat;2;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328569;BL0005;;328569;;;Zomerstraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632810;BL0001;;6632810;;;Lentestraat;50;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412558;BL0005;;2412558;;;Danielsstraat;2;A;;;;;SDU;1;0;0;1;BUILDING template
+HASSELT - FH05;328547;BL0006;;328547;;;Danielsstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448942;BL0004;;2448942;;;Zomerstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896927;BL0001;;4896927;;;Luikersteenweg;148;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448946;BL0005;;2448946;;;Zomerstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897773;BL0003;;4897773;;;Kroonwinningstraat;29;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412560;BL0006;;2412560;;;Danielsstraat;7;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448949;BL0004;;2448949;;;Zomerstraat;20;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4897817;BL0002;;4897817;;;Kroonwinningstraat;78;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412563;BL0005;;2412563;;;Danielsstraat;8;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448953;BL0005;;2448953;;;Zomerstraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632811;BL0005;;6632811;;;Zomerstraat;29;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;5927168;BL0003;;5927168;;;Kroonwinningstraat;27;A;;;;;SDU;1;0;0;1;BUILDING template
+HASSELT - FH05;2412565;BL0006;;2412565;;;Danielsstraat;9;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448957;BL0004;;2448957;;;Zomerstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;5934865;BL0002;;5934865;;;Oude Luikerbaan;94;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412568;BL0006;;2412568;;;Danielsstraat;11;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4215406;BL0005;;4215406;;;Zomerstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6643766;BL0005;;6643766;;;Zomerstraat;33;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6019633;BL0005;;6019633;;;Zomerstraat;37;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328548;BL0004;;328548;;;Danielsstraat;12;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448961;BL0004;;2448961;;;Zomerstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6086484;BL0003;;6086484;;;Oude Luikerbaan;98;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412572;BL0006;;2412572;;;Danielsstraat;13;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448963;BL0004;;2448963;;;Zomerstraat;24;A;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632813;BL0005;;6632813;;;Zomerstraat;45;;;;;Filip Van Dyck;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6149157;BL0005;;6149157;;;Zomerstraat;43;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412574;BL0004;;2412574;;;Danielsstraat;14;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448966;BL0005;;2448966;;;Zomerstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6353281;BL0005;;6353281;;;Zomerstraat;9;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4201644;BL0006;;4201644;;;Danielsstraat;15;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448969;BL0004;;2448969;;;Zomerstraat;26;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6536978;BL0003;;6536978;;;Herfststraat;5;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412575;BL0004;;2412575;;;Danielsstraat;16;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6550136;BL0003;;6550136;;;Herfststraat;11;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412577;BL0006;;2412577;;;Danielsstraat;17;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4152416;BL0004;;4152416;;;Zomerstraat;28;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6556554;BL0002;;6556554;;;Kroonwinningstraat;68;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412580;BL0004;;2412580;;;Danielsstraat;18;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;1516949;BL0004;;1516949;;;Zomerstraat;30;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6556771;BL0003;;6556771;;;Winterstraat;6;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412582;BL0006;;2412582;;;Danielsstraat;19;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448974;BL0005;;2448974;;;Zomerstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590585;BL0003;;6590585;;;Gouverneur Roppesingel;129;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328549;BL0006;;328549;;;Danielsstraat;21;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448977;BL0004;;2448977;;;Zomerstraat;32;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590586;BL0003;;6590586;;;Gouverneur Roppesingel;127;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4182542;BL0004;;4182542;;;Danielsstraat;22;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4896791;BL0004;;4896791;;;Zomerstraat;34;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6632807;BL0005;;6632807;;;Zomerstraat;39;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590587;BL0003;;6590587;;;Gouverneur Roppesingel;125;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412585;BL0006;;2412585;;;Danielsstraat;23;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448979;BL0004;;2448979;;;Zomerstraat;40;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590588;BL0006;;6590588;;;Gouverneur Roppesingel;163;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2412588;BL0004;;2412588;;;Danielsstraat;24;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;2448980;BL0005;;2448980;;;Zomerstraat;41;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;6590589;BL0006;;6590589;;;Gouverneur Roppesingel;161;;;;;;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;328551;BL0006;;328551;;;Danielsstraat;25;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH05;4232036;BL0004;;4232036;;;Zomerstraat;42;;;;;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
