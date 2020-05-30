@@ -4,6 +4,9 @@
 # example file : Doctyp_FIS-Lamkey_2766157-name_BG dUrslaan 24 S d Mercxstr 29.pdf
 
 
+import mod_rename_convert as ren
+
+
 import glob
 import os
 import re
@@ -22,6 +25,7 @@ def replace_bad_chars(s):
     s = re.sub(":", "", s)
     s = re.sub("\.", "", s)
     s = re.sub("-", "", s)
+    s = re.sub("_", "", s)
     return(s)
 
 
@@ -117,6 +121,7 @@ def check_dir():
     print('Document FIS / FIS checker + renamer')    
     print('[I] = FIS')    
     print('[T] = FTS')    
+    print('[F] = FFL')    
     answer = input("\n :: ") 
     answer = answer.upper()
 
@@ -129,6 +134,9 @@ def check_dir():
     if(answer== 'T') :
         folder = 'FTS/'
         prefix_to_check = "Doctyp_FTS-Lamkey_" 
+
+    if(answer== 'F') :
+        ren.rename_pdf_facade()
 
     if folder != '':
         FOLDER_TO_CHECK = os.path.join(FOLDER_TO_CHECK, folder)
