@@ -372,6 +372,9 @@ def process_for_street_survey(survey):
    
     checkValidValues(survey,'VC_Method',['','D - Facade Box','A - Floorbox','C - Precabled ONTP','X - Awaiting decision on B','B - G.Fast','F - Fiber','E - CAT5e-6'])
     
+    ####### NR TPs 
+   
+    checkValidValues(survey,'Nr_TPs','1')
     
     
     ####### SSV ACTION

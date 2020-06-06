@@ -190,42 +190,6 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 2000-8209;2000;8209;Graaf van Egmontstraat;W03-C-Antwerpen-West-FH07
 2000-9204;2000;9204;Franckenstraat;W03-C-Antwerpen-West-FH07
 2000-968;2000;968;Augustijnenstraat;W03-C-Antwerpen-West-FH07
-9100-101;9100;101;Philippus Neridreef;W03-D-Sint-Niklaas-FH02
-9100-1030;9100;1030;Azalealaan;W03-D-Sint-Niklaas-FH02
-9100-10519;9100;10519;De Gravestraat;W03-D-Sint-Niklaas-FH02
-9100-13336;9100;13336;Hospitaalstraat;W03-D-Sint-Niklaas-FH02
-9100-14345;9100;14345;Kalkstraat;W03-D-Sint-Niklaas-FH02
-9100-16086;9100;16086;Klein-Hulststraat;W03-D-Sint-Niklaas-FH02
-9100-16358;9100;16358;Knaptandstraat;W03-D-Sint-Niklaas-FH02
-9100-16518;9100;16518;Kokkelbeekstraat;W03-D-Sint-Niklaas-FH02
-9100-17821;9100;17821;Lamstraat;W03-D-Sint-Niklaas-FH02
-9100-19;9100;19;Zwijgershoek;W03-D-Sint-Niklaas-FH02
-9100-19666;9100;19666;Magnolialaan;W03-D-Sint-Niklaas-FH02
-9100-20504;9100;20504;Mercatorstraat;W03-D-Sint-Niklaas-FH02
-9100-20515;9100;20515;Houtbriel;W03-D-Sint-Niklaas-FH02
-9100-21025;9100;21025;Moerlandstraat;W03-D-Sint-Niklaas-FH02
-9100-22602;9100;22602;August Nobelsstraat;W03-D-Sint-Niklaas-FH02
-9100-23902;9100;23902;Papenakkerstraat;W03-D-Sint-Niklaas-FH02
-9100-23992;9100;23992;Parklaan;W03-D-Sint-Niklaas-FH02
-9100-24333;9100;24333;Grote Peperstraat;W03-D-Sint-Niklaas-FH02
-9100-24335;9100;24335;Kleine Peperstraat;W03-D-Sint-Niklaas-FH02
-9100-24858;9100;24858;Polderstraat;W03-D-Sint-Niklaas-FH02
-9100-25716;9100;25716;Regentieplein;W03-D-Sint-Niklaas-FH02
-9100-25717;9100;25717;Regentiestraat;W03-D-Sint-Niklaas-FH02
-9100-29373;9100;29373;Stationsplein;W03-D-Sint-Niklaas-FH02
-9100-30963;9100;30963;Truweelstraat;W03-D-Sint-Niklaas-FH02
-9100-31779;9100;31779;Veldstraat;W03-D-Sint-Niklaas-FH02
-9100-32180;9100;32180;Vermorgenstraat;W03-D-Sint-Niklaas-FH02
-9100-32530;9100;32530;Sint-Vincentiusstraat;W03-D-Sint-Niklaas-FH02
-9100-33529;9100;33529;Walburgstraat;W03-D-Sint-Niklaas-FH02
-9100-35097;9100;35097;Zamanstraat;W03-D-Sint-Niklaas-FH02
-9100-35360;9100;35360;Zeildoekstraat;W03-D-Sint-Niklaas-FH02
-9100-40038;9100;40038;Lodewijk De Meesterstraat;W03-D-Sint-Niklaas-FH02
-9100-4446;9100;4446;Brugsken;W03-D-Sint-Niklaas-FH02
-9100-448;9100;448;Prins Albertstraat;W03-D-Sint-Niklaas-FH02
-9100-635;9100;635;Ankerstraat;W03-D-Sint-Niklaas-FH02
-9100-708;9100;708;Antwerpse Steenweg;W03-D-Sint-Niklaas-FH02
-9100-86;9100;86;Sint-Rochushof;W03-D-Sint-Niklaas-FH02
 1140-11;1140;11;Edgar Degas straat;W02-D-Evere-FH01
 1140-12;1140;12;Auguste Renoirstraat;W02-D-Evere-FH01
 1140-12073;1140;12073;Zaventemstraat;W02-D-Evere-FH01
@@ -299,36 +263,6 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 8300-8485;8300;8485;Elizabetlaan;W03-C-Knokke-Heist-FH01
 8300-9040;8300;9040;Fincentlaan;W03-C-Knokke-Heist-FH01
 8300-9700;8300;9700;Gemeenteplein;W03-C-Knokke-Heist-FH01
-9100-12129;9100;12129;Hemelaerstraat;W03-D-Sint-Niklaas-FH01
-9100-12530;9100;12530;Hendrik Heymanplein;W03-D-Sint-Niklaas-FH01
-9100-12772;9100;12772;Hofstraat;W03-D-Sint-Niklaas-FH01
-9100-13444;9100;13444;Hoveniersstraat;W03-D-Sint-Niklaas-FH01
-9100-139;9100;139;Paul Snoekstraat;W03-D-Sint-Niklaas-FH01
-9100-14200;9100;14200;Sint-Jozefstraat;W03-D-Sint-Niklaas-FH01
-9100-14881;9100;14881;Kasteelstraat;W03-D-Sint-Niklaas-FH01
-9100-16063;9100;16063;Kleine Laan;W03-D-Sint-Niklaas-FH01
-9100-16546;9100;16546;Collegestraat;W03-D-Sint-Niklaas-FH01
-9100-16590;9100;16590;Kongostraat;W03-D-Sint-Niklaas-FH01
-9100-18565;9100;18565;Leopold II-laan;W03-D-Sint-Niklaas-FH01
-9100-19912;9100;19912;Grote Markt;W03-D-Sint-Niklaas-FH01
-9100-22403;9100;22403;Nieuwstraat;W03-D-Sint-Niklaas-FH01
-9100-22945;9100;22945;Onze-Lieve-Vrouwplein;W03-D-Sint-Niklaas-FH01
-9100-22946;9100;22946;Onze-Lieve-Vrouwstraat;W03-D-Sint-Niklaas-FH01
-9100-24000;9100;24000;Parkstraat;W03-D-Sint-Niklaas-FH01
-9100-24752;9100;24752;Plezantstraat;W03-D-Sint-Niklaas-FH01
-9100-27007;9100;27007;Sacramentsstraat;W03-D-Sint-Niklaas-FH01
-9100-29377;9100;29377;Stationsstraat;W03-D-Sint-Niklaas-FH01
-9100-29782;9100;29782;Mgr. Stillemansstraat;W03-D-Sint-Niklaas-FH01
-9100-32045;9100;32045;Dokter Verdurmenstraat;W03-D-Sint-Niklaas-FH01
-9100-3269;9100;3269;Boonhemstraat;W03-D-Sint-Niklaas-FH01
-9100-34114;9100;34114;Westerstraat;W03-D-Sint-Niklaas-FH01
-9100-40037;9100;40037;Kroonmolenstraat;W03-D-Sint-Niklaas-FH01
-9100-4175;9100;4175;Richard Van Britsomstraat;W03-D-Sint-Niklaas-FH01
-9100-4343;9100;4343;Broodstraat;W03-D-Sint-Niklaas-FH01
-9100-4990;9100;4990;Casinostraat;W03-D-Sint-Niklaas-FH01
-9100-5022;9100;5022;de Castrodreef;W03-D-Sint-Niklaas-FH01
-9100-5771;9100;5771;Dalstraat;W03-D-Sint-Niklaas-FH01
-9100-724;9100;724;Apostelstraat;W03-D-Sint-Niklaas-FH01
 2000-10177;2000;10177;Godefriduskaai;W03-C-Antwerpen-West-FH01
 2000-11407;2000;11407;Hanzestedenplaats;W03-C-Antwerpen-West-FH01
 2000-1212;2000;1212;Catharina Pepijnstraat;W03-C-Antwerpen-West-FH01
@@ -1161,3 +1095,44 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 3500-9523;3500;9523;Gazometerstraat;W02-D-Hasselt-FH01
 3500-9829;3500;9829;Geraetsstraat;W02-D-Hasselt-FH01
 8300-16386;8300;16386;Knokkestraat;W03-C-Knokke-Heist-FH12
+9100-12129;9100;12129;Hemelaerstraat;W03-D-Sint-Niklaas-FH01
+9100-12530;9100;12530;Hendrik Heymanplein;W03-D-Sint-Niklaas-FH01
+9100-12772;9100;12772;Hofstraat;W03-D-Sint-Niklaas-FH01
+9100-13444;9100;13444;Hoveniersstraat;W03-D-Sint-Niklaas-FH01
+9100-139;9100;139;Paul Snoekstraat;W03-D-Sint-Niklaas-FH01
+9100-14200;9100;14200;Sint-Jozefstraat;W03-D-Sint-Niklaas-FH01
+9100-14345;9100;14345;Kalkstraat;W03-D-Sint-Niklaas-FH01
+9100-14881;9100;14881;Kasteelstraat;W03-D-Sint-Niklaas-FH01
+9100-16063;9100;16063;Kleine Laan;W03-D-Sint-Niklaas-FH01
+9100-16518;9100;16518;Kokkelbeekstraat;W03-D-Sint-Niklaas-FH01
+9100-16546;9100;16546;Collegestraat;W03-D-Sint-Niklaas-FH01
+9100-16590;9100;16590;Kongostraat;W03-D-Sint-Niklaas-FH01
+9100-19912;9100;19912;Grote Markt;W03-D-Sint-Niklaas-FH01
+9100-20515;9100;20515;Houtbriel;W03-D-Sint-Niklaas-FH01
+9100-22403;9100;22403;Nieuwstraat;W03-D-Sint-Niklaas-FH01
+9100-22945;9100;22945;Onze-Lieve-Vrouwplein;W03-D-Sint-Niklaas-FH01
+9100-22946;9100;22946;Onze-Lieve-Vrouwstraat;W03-D-Sint-Niklaas-FH01
+9100-24000;9100;24000;Parkstraat;W03-D-Sint-Niklaas-FH01
+9100-24333;9100;24333;Grote Peperstraat;W03-D-Sint-Niklaas-FH01
+9100-24335;9100;24335;Kleine Peperstraat;W03-D-Sint-Niklaas-FH01
+9100-24752;9100;24752;Plezantstraat;W03-D-Sint-Niklaas-FH01
+9100-25716;9100;25716;Regentieplein;W03-D-Sint-Niklaas-FH01
+9100-25717;9100;25717;Regentiestraat;W03-D-Sint-Niklaas-FH01
+9100-27007;9100;27007;Sacramentsstraat;W03-D-Sint-Niklaas-FH01
+9100-29373;9100;29373;Stationsplein;W03-D-Sint-Niklaas-FH01
+9100-29377;9100;29377;Stationsstraat;W03-D-Sint-Niklaas-FH01
+9100-29782;9100;29782;Mgr. Stillemansstraat;W03-D-Sint-Niklaas-FH01
+9100-32045;9100;32045;Dokter Verdurmenstraat;W03-D-Sint-Niklaas-FH01
+9100-3269;9100;3269;Boonhemstraat;W03-D-Sint-Niklaas-FH01
+9100-34114;9100;34114;Westerstraat;W03-D-Sint-Niklaas-FH01
+9100-35097;9100;35097;Zamanstraat;W03-D-Sint-Niklaas-FH01
+9100-40037;9100;40037;Kroonmolenstraat;W03-D-Sint-Niklaas-FH01
+9100-4175;9100;4175;Richard Van Britsomstraat;W03-D-Sint-Niklaas-FH01
+9100-4343;9100;4343;Broodstraat;W03-D-Sint-Niklaas-FH01
+9100-448;9100;448;Prins Albertstraat;W03-D-Sint-Niklaas-FH01
+9100-4990;9100;4990;Casinostraat;W03-D-Sint-Niklaas-FH01
+9100-5022;9100;5022;de Castrodreef;W03-D-Sint-Niklaas-FH01
+9100-5771;9100;5771;Dalstraat;W03-D-Sint-Niklaas-FH01
+9100-635;9100;635;Ankerstraat;W03-D-Sint-Niklaas-FH01
+9100-724;9100;724;Apostelstraat;W03-D-Sint-Niklaas-FH01
+1140-6673;1140;6673;Avenue des Loisirs - Vrijetijdslaan;W02-D-Evere-FH01
