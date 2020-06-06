@@ -11,6 +11,8 @@ setup(
         'numpy',
         'geopandas',
         'folium',
-        'rtree'
+        'rtree',
+        'pdfminer.six',
+        'chardet'
 	]
 )
