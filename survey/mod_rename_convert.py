@@ -35,6 +35,8 @@ from pdfminer.layout import LTFigure
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfparser import PDFParser
 
+from docx2pdf import convert
+
 
 windowsClient = True
 try:
@@ -160,10 +162,16 @@ def pdf_find_handtekening(pdfname):
 
 
 
-def windows_doc_to_pdf(doc):
+def windows_doc_to_pdf(doc,outputdir):
     """
     convert a doc/docx document to pdf format (windows only, requires word)
     :param doc: path to document
+    """
+    base=os.path.basename(doc)
+    filename = os.path.splitext(base)[0]
+    time.sleep(1)
+    convert(doc, outputdir + filename + ".pdf")
+    
     """
     wdFormatPDF = 17
     word = comtypes.client.CreateObject('Word.Application')
@@ -172,7 +180,7 @@ def windows_doc_to_pdf(doc):
     doc.SaveAs(doc + '.pdf', FileFormat=wdFormatPDF)
     doc.Close()
     word.Quit()
-
+    """
 def linux_doc_to_pdf(doc,outputdir=INPUTFOLDER):
     """
     convert a doc/docx document to pdf format (linux only, requires libreoffice)
@@ -440,7 +448,10 @@ def convert_doc_to_pdf_from_directory(directory,outputdir):
     for f in docfiles:
         print(f + " to pdf " + " is windows client: " + str(windowsClient))	
         if windowsClient == True:
-             windows_doc_to_pdf(f)
+            
+             windows_doc_to_pdf(f,outputdir)
+          
+             
         else:
              linux_doc_to_pdf(f,outputdir)		
     return(docfiles)
