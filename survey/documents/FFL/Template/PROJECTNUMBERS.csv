@@ -1,0 +1,116 @@
+projectid;projectnummer;postcode;city;offerteEmail;offerteContact;Company;Area_Name;SsvEmail;Verantwoordelijke PXS;GSM PXS;Mail PXs
+2;HASSELT - FH03;3500;Hasselt;SNoels@besix.com;Noels Stefaan;Besix;W02-D-Hasselt-FH03;SurveyFTTH@besix.com;Noels Stefaan;080032490;glasvezel.hasselt@proximus.com
+3;HASSELT - FH02;3500;Hasselt;SNoels@besix.com;Noels Stefaan;Besix;W02-D-Hasselt-FH02;SurveyFTTH@besix.com;Noels Stefaan;080032490;glasvezel.hasselt@proximus.com
+4;LEUVEN - FH03;3000;Leuven;SurveyFTTH@besix.com;Bert Van Luyck;Besix;W02-D-Leuven-FH03;SurveyFTTH@besix.com;Pedro Den Ruyter;080032492;glasvezel.leuven@proximus.com
+5;LEUVEN - FH01;3000;Leuven;Fifthnet_meetstaat@esas.eu;Pedro Den Ruyter;ESAS Infra;W02-D-Leuven-FH01;;Pedro Den Ruyter;080032492;glasvezel.leuven@proximus.com
+6;LIÈGE - FH02;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH02;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+7;LIÈGE - FH01;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH01;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+8;NAMUR - FH08;5100;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH08;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+9;NAMUR - FH04;5000;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH04;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+10;NAMUR - FH06;5000;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH06;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+11;NAMUR - FH07;5000;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH07;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+12;CHARLEROI - FH05;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH05;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+13;CHARLEROI - FH04;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH04;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+14;CHARLEROI - FH03;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH03;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+15;CHARLEROI - FH02;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH02;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+16;CHARLEROI - FH01;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH01;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+17;ROESELARE - FH04;8800;Roeselare;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W01-C-Roeselare-FH04;;Renzo Scheldeman;080032370;glasvezel.roeselare@proximus.com
+18;ROESELARE - FH03;8800;Roeselare;Fifthnet_meetstaat@esas.eu;Oguz Poyraz;ESAS Infra;W01-C-Roeselare-FH03;;Oguz Poyraz;080032370;glasvezel.roeselare@proximus.com
+19;ROESELARE - FH05;8800;Roeselare;Fifthnet_meetstaat@esas.eu;Oguz Poyraz;ESAS Infra;W01-C-Roeselare-FH05;;Oguz Poyraz;080032370;glasvezel.roeselare@proximus.com
+20;UCCLE - FH01;1180;Uccle;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Uccle-FH01;;Frédéric Ferrière;080016755;fibreoptique.uccle@proximus.com
+21;UCCLE - FH02;1180;Uccle;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Uccle-FH02;;Frédéric Ferrière;080016755;fibreoptique.uccle@proximus.com
+23;HASSELT - FH01;3500;Hasselt;SNoels@besix.com;Noels Stefaan;Besix;W02-D-Hasselt-FH01;SurveyFTTH@besix.com;Noels Stefaan;080032490;glasvezel.hasselt@proximus.com
+25;ROESELARE - FH02;8800;Roeselare;Fifthnet_meetstaat@esas.eu;Oguz Poyraz;ESAS Infra;W01-C-Roeselare-FH02;;Oguz Poyraz;080032370;glasvezel.roeselare@proximus.com
+26;EVERE - FH01;1140;Evere;EMassart@besix.com;Emmanuelle Massart;Besix;W02-D-Evere-FH01;SurveyFTTH@besix.com;Emmanuelle Massart;080016855;fibreoptique.evere@proximus.com
+27;LIÈGE - FH03;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH03;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+28;LEUVEN - FH02;3000;Leuven;Fifthnet_meetstaat@esas.eu;Pedro Den Ruyter;ESAS Infra;W02-D-Leuven-FH02;;Pedro Den Ruyter;080032492;glasvezel.leuven@proximus.com
+29;LIÈGE - FH04;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH04;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+30;ANTWERPEN-WEST - FH01;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH01;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+31;ANTWERPEN-WEST - FH04;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH04;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+32;ANTWERPEN-WEST - FH06;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH06;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+33;ANTWERPEN-WEST - FH07;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH07;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+34;NAMUR - FH03;5000;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH03;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+35;KNOKKE - FH01;8300;Knokke-Heist;Rscheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH01;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+37;BRUGGE - FH01;8000;Brugge;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Brugge-FH01;;Bart Devos;080017008;glasvezel.brugge@proximus.com
+38;BRUGGE - FH02;8000;Brugge;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Brugge-FH02;;Bart Devos;080017008;glasvezel.brugge@proximus.com
+39;GENK - FH01;;;;;;;;;;
+40;GENK - FH02;;;;;;;;;;
+41;MECHELEN - FH01;2800;Mechelen;BDePauw@besix.com;Bjorn De Pauw;Besix;W03-D-Mechelen-FH01;;Bjorn De Pauw;080090046;glasvezel.mechelen@proximus.com
+42;MECHELEN - FH02;2800;Mechelen;Fifthnet_meetstaat@esas.eu;ESAS Infra;ESAS Infra;W03-D-Mechelen-FH02;;Gianni Loeckx;080090046;glasvezel.mechelen@proximus.com
+43;SINT-NIKLAAS - FH01;9100;Sint-Niklaas;Fifthnet_meetstaat@esas.eu;Timmy Wery;Besix;W03-D-Sint-Niklaas-FH01;;Timmy Wery;080090047;glasvezel.sintniklaas@proximus.com
+44;SINT-NIKLAAS - FH02;9100;Sint-Niklaas;twerry2@besix.com;Timmy Wery;Besix;W03-D-Sint-Niklaas-FH02;;Timmy Wery;080090047;glasvezel.sintniklaas@proximus.com
+45;OUDENAARDE - FH01;;;;;;;;;;
+46;OUDENAARDE - FH02;;;;;;;;;;
+47;OUDENAARDE - FH03;;;;;;;;;;
+53;MECHELEN - FH03;2800;Mechelen;Fifthnet_meetstaat@esas.eu;ESAS Infra;ESAS Infra;W03-D-Mechelen-FH03;;Gianni Loeckx;080090046;glasvezel.mechelen@proximus.com
+54;ROESELARE - FH01;8800;Roeselare;Fifthnet_meetstaat@esas.eu;Oguz Poyraz;ESAS Infra;W01-C-Roeselare-FH01;;Oguz Poyraz;080032370;glasvezel.roeselare@proximus.com
+55;CHARLEROI - FH10;6061;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH10;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+60;ANTWERPEN-WEST - FH08;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH08;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+61;LIÈGE - FH05;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH05;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+63;HASSELT - FH04;3500;Hasselt;dnoels@besix.com;Noels Dennis;Besix;W03-D-Hasselt-FH08;SurveyFTTH@besix.com;Noels Dennis;080032490;glasvezel.hasselt@proximus.com
+64;HASSELT - FH05;3500;Hasselt;dnoels@besix.com;Noels Dennis;Besix;W03-D-Hasselt-FH05;SurveyFTTH@besix.com;Noels Dennis;080032490;glasvezel.hasselt@proximus.com
+65;HASSELT - FH06;3500;Hasselt;dnoels@besix.com;Noels Dennis;Besix;W03-D-Hasselt-FH06;SurveyFTTH@besix.com;Noels Dennis;080032490;glasvezel.hasselt@proximus.com
+66;LIÈGE - FH06;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH06;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+67;NAMUR - FH01;5000;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH01;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+69;LIÈGE - FH07;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH07;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+70;UCCLE - FH04;1180;Uccle;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Uccle-FH04;;Frédéric Ferrière;080016755;fibreoptique.uccle@proximus.com
+71;UCCLE - FH03;1180;Uccle;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Uccle-FH03;;Frédéric Ferrière;080016755;fibreoptique.uccle@proximus.com
+72;LIÈGE - FH08;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH08;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+73;CHARLEROI - FH11;6061;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-CHARLEROI-FH11;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+77;BRUSSEL - FHA3;1000;Brussel;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;;;Frédéric Ferrière;;
+78;EVERE - FH02;1140;Evere;EMassart@besix.com;Emmanuelle Massart;Besix;W02-D-Evere-FH02;SurveyFTTH@besix.com;Emmanuelle Massart;080016855;fibreoptique.evere@proximus.com
+79;CHARLEROI - FH12;6061;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH12;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+80;LIÈGE - FH11;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH11;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+81;LIÈGE - FH12;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH12;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+83;LIÈGE - FH17;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH17;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+84;UCCLE - FH05;1190;Uccle;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Uccle-FH05;;Frédéric Ferrière;080016755;fibreoptique.uccle@proximus.com
+85;KNOKKE-HEIST - FH03;8300;Knokke-Heist;Rscheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH03;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+86;KNOKKE-HEIST - FH11;8301;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH11;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+88;KNOKKE-HEIST - FH09;8301;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH09;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+89;ANTWERPEN-WEST - FH03;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH03;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+90;ANTWERPEN-WEST - FH02;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH02;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+91;KNOKKE-HEIST - FH04;8300;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH04;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+92;FEDECS A3 - 1020;1020;Brussel;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W02-F-A3_1020_Laeken_Avenue de l'Araucaria;;Frédéric Ferrière;;
+93;FEDECS A3 - 1080;1080;Brussel;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W02-F-A3_1080_Rue Van Kalck_Rue de la Fraîcheur_Rue de la melopée;;Frédéric Ferrière;;
+94;LIÈGE - FH09;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH09;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+95;MONS - FH01;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH01;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+96;MONS - FH02;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH02;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+97;MONS - FH03;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH03;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+98;MONS - FH04;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH04;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+99;MONS - FH05;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH05;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+100;MONS - FH06;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH06;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+101;MONS - FH07;7000;Mons;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-D-Mons-FH07;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+102;LIEGE - FH10;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH10;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+103;LIEGE - FH14;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH14;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+104;LIEGE - FH15;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH15;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+105;NAMUR - FH09;5100;Namur;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W01-C-Namur-FH09;;Christophe Collin;080030306;fibreoptique.mons@proximus.com
+106;CHARLEROI - FH07;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH07;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+107;CHARLEROI - FH09;6060;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH09;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+108;CHARLEROI - FH13;6001;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH13;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+109;CHARLEROI - FH14;6001;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH14;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+110;CHARLEROI - FH15;6030;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH15;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+111;CHARLEROI - FH18;6010;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH18;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+112;KNOKKE-HEIST - FH06;8300;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH06;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+113;KNOKKE-HEIST - FH05;8300;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH05;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+114;ANTWERPEN-WEST - FH11;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH11;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+115;LIEGE - FH13;4020;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH13;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+116;LIEGE - FH16;4000;Liège;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Liege-FH16;;Pascal Assoignons;080024028;fibreoptique.liege@proximus.com
+117;CHARLEROI - FH06;6000;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH07;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+118;CHARLEROI - FH08;6060;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH07;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+119;CHARLEROI - FH17;6010;Charleroi;pierreyves.lambert.ext@proximus.com;LAMBERT Pierre-Yves;Verbraeken;W03-C-Charleroi-FH07;;Muriel Exsteens;080032410;fibreoptique.charleroi@proximus.com
+120;LEUVEN - FH04;3000;Leuven;Fifthnet_meetstaat@esas.eu;Pedro Den Ruyter;ESAS Infra;W03-D-Leuven-FH04;;Pedro Den Ruyter;080032492;glasvezel.leuven@proximus.com
+121;LEUVEN - FH05;3000;Leuven;Fifthnet_meetstaat@esas.eu;Pedro Den Ruyter;ESAS Infra;W03-D-Leuven-FH05;;Pedro Den Ruyter;080032492;glasvezel.leuven@proximus.com
+122;ANTWERPEN-WEST - FH09;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH03;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+123;HASSELT - FH08;3500;Hasselt;dnoels@besix.com;Noels Dennis;Besix;W03-D-Hasselt-FH08;SurveyFTTH@besix.com;Noels Dennis;080032490;glasvezel.hasselt@proximus.com
+124;EVERE - FH03;1140;Evere;EMassart@besix.com;Emmanuelle Massart;Besix;W04-D-Evere-FH03;SurveyFTTH@besix.com;Emmanuelle Massart;080016855;fibreoptique.evere@proximus.com
+125;SCHAERBEEK - FH01;1030;Schaerbeek;Fifthnet_meetstaat@esas.eu;;ESAS Infra;W03-C-Schaerbeek-FH01;;;;
+126;SCHAERBEEK - FH02;1030;Schaerbeek;Fifthnet_meetstaat@esas.eu;;ESAS Infra;W03-C-Schaerbeek-FH02;;;;
+127;SCHAERBEEK - FH03;1030;Schaerbeek;Fifthnet_meetstaat@esas.eu;;ESAS Infra;W03-C-Schaerbeek-FH03;;;;
+128;SCHAERBEEK - FH04;1030;Schaerbeek;Fifthnet_meetstaat@esas.eu;;ESAS Infra;W03-C-Schaerbeek-FH04;;;;
+129;SCHAERBEEK - FH10;1030;Schaerbeek;Fifthnet_meetstaat@esas.eu;;ESAS Infra;W03-C-Schaerbeek-FH10;;;;
+130;EVERE - FH04;1140;Evere;EMassart@besix.com;Emmanuelle Massart;Besix;W04-D-Evere-FH04;SurveyFTTH@besix.com;Emmanuelle Massart;080016855;fibreoptique.evere@proximus.com
+131;KNOKKE-HEIST - FH08;8301;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH08;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+132;KNOKKE-HEIST - FH10;8301;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH10;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com
+133;EVERE - FH05;1140;Evere;EMassart@besix.com;Emmanuelle Massart;Besix;W04-D-Evere-FH04;SurveyFTTH@besix.com;Emmanuelle Massart;080016855;fibreoptique.evere@proximus.com
+134;ANTWERPEN-WEST - FH10;2000;Antwerpen;Surveyftth-antwerpen@besix.com;van Beers Aschwin;Besix;W03-C-Antwerpen-West-FH10;SurveyFTTH@besix.com;van Beers Aschwin;080093884;glasvezel.antwerpen-west@proximus.com
+135;KNOKKE-HEIST - FH12;8301;Knokke-Heist;RScheldeman@besix.com;OAdem@besix.com;Scheldeman Renzo;Besix;W03-C-Knokke-Heist-FH12;SurveyFTTH@besix.com;Renzo Scheldeman;080017006;glasvezel.knokke.heist@proximus.com

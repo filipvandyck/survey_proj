@@ -5,7 +5,7 @@
 
 
 import mod_rename_convert as ren
-
+import mod_facade_letter as fac
 
 import glob
 import os
@@ -24,7 +24,8 @@ def replace_bad_chars(s):
     s = re.sub("Ã©", "e", s)
     s = re.sub(":", "", s)
     s = re.sub("\.", "", s)
-    s = re.sub("-", "", s)
+    s = re.sub("\ -", "", s)
+    s = re.sub("\-", "", s)
     s = re.sub("_", "", s)
     return(s)
 
@@ -122,6 +123,9 @@ def check_dir():
     print('[I] = FIS')    
     print('[T] = FTS')    
     print('[F] = FFL')    
+    print('[B] = Make FFL From IFH')    
+    print('[M] = FMH')
+
     answer = input("\n :: ") 
     answer = answer.upper()
 
@@ -135,8 +139,34 @@ def check_dir():
         folder = 'FTS/'
         prefix_to_check = "Doctyp_FTS-Lamkey_" 
 
+    if(answer== 'M') : 
+        folder = 'FMH/'
+
+        prefix_to_check = "Doctyp_FMH-Lamkey_" 
+
     if(answer== 'F') :
         ren.rename_pdf_facade()
+
+    if(answer== 'B') :
+        folder = 'FFL/'
+        
+        prefix_to_check = "Doctyp_FFL-Lamkey_" 
+        
+
+        print('Select Language of the letter')
+        print('[F] = FR')    
+        print('[ANY] = NL')    
+        answer = input("\n :: ") 
+        answer = answer.upper()
+
+        if answer == 'F':
+            fac.process_facade_letter(fac.INPUTFOLDER + fac.INPUT_SURVEY, fac.INPUTFOLDER + fac.INPUT_FACADE_LETTER_FR)
+          
+        else:    
+            fac.process_facade_letter(fac.INPUTFOLDER + fac.INPUT_SURVEY, fac.INPUTFOLDER + fac.INPUT_FACADE_LETTER)
+        
+        PDF_TO_CHECK = os.path.join(FOLDER_TO_CHECK, folder)
+        ren.convert_doc_to_pdf_from_directory(fac.OUTPUTFOLDER,PDF_TO_CHECK)
 
     if folder != '':
         FOLDER_TO_CHECK = os.path.join(FOLDER_TO_CHECK, folder)
