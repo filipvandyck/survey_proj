@@ -185,8 +185,10 @@ def make_survey_import(file1, outputfolder, streetfile, cityfile, output_to_area
 
     survey = df_totaal.merge(survey, how='right')
     columnToInt(survey,'TOTAAL')
- 
-    survey['BT'] = np.where( survey.BU + survey.LU > 1, 'MDU','SDU')
+
+    survey['BGName'] = survey['BG Name']
+    #survey['BT'] = np.where( survey.BU + survey.LU > 1, 'MDU','SDU')
+    survey['BT'] = np.where( (survey.TOTAAL == 1) & (survey.BGName == ''), 'SDU','MDU')
 
     
     columnToStr(survey,'SS Reason')
