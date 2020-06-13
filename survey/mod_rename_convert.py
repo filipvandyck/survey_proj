@@ -504,7 +504,7 @@ def rename_pdf_facade():
         Prefix = "Doctyp_FFL-Lamkey_"
 
 
-        new_filename = Prefix + LAMKEY + "_" + str(document_counter) + '.pdf'
+        new_filename = Prefix + LAMKEY + "_name-" + str(document_counter) + '.pdf'
 
         print("Rename file: \t" + f + "\nto: \t\t" + new_filename)
 

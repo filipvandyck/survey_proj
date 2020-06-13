@@ -1,15 +1,9 @@
 ﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;BG Version;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
-KNOKKE-HEIST - FH09;2766967;BL0918;2;2766967;;Graaf d Ursellaan 4-5;Graaf d Ursellaan;4;;;XA;2020-01-21;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
-KNOKKE-HEIST - FH09;2766968;BL0918;2;2766968;;Graaf d Ursellaan 4-5;Graaf d Ursellaan;5;;;XA;2020-01-21;Peter Van Leeuwen;MDU;0;7;0;7;BUILDING template
-KNOKKE-HEIST - FH09;2766972;BL0918;2;2766972;31382893;Graaf d Ursellaan 6-7;Graaf d Ursellaan;6;;20200312154941;XA;2019-11-22 10:15:23;Yannick_ Lambrechts;MDU;1;0;0;1;BUILDING template
-KNOKKE-HEIST - FH09;2766974;BL0918;2;2766974;31382893;Graaf d Ursellaan 6-7;Graaf d Ursellaan;7;;20200312154941;XA;2019-11-22 10:15:23;Yannick_ Lambrechts;MDU;0;7;1;8;BUILDING template
-KNOKKE-HEIST - FH09;71714;BL0918;2;71714;;Graaf d Ursellaan 8-9;Graaf d Ursellaan;8;;;XA;2020-01-23;Peter Van Leeuwen;MDU;1;7;0;8;BUILDING template
-KNOKKE-HEIST - FH09;2766975;BL0918;2;2766975;;Graaf d Ursellaan 8-9;Graaf d Ursellaan;9;;;XA;2020-01-23;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
-KNOKKE-HEIST - FH09;71715;BL0918;2;71715;31382561;Graaf d Ursellaan 10-11;Graaf d Ursellaan;10;;20200312154200;XA;2020-01-24 11:30:28;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
-KNOKKE-HEIST - FH09;2766976;BL0918;2;2766976;31382561;Graaf d Ursellaan 10-11;Graaf d Ursellaan;11;;20200312154200;XA;2020-01-24 11:30:28;Peter Van Leeuwen;MDU;1;13;0;14;BUILDING template
-KNOKKE-HEIST - FH09;2766980;BL0918;2;2766980;;Graaf d Ursellaan 12-13;Graaf d Ursellaan;12;;;XA;2020-01-28;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
-KNOKKE-HEIST - FH09;2766983;BL0918;2;2766983;;Graaf d Ursellaan 12-13;Graaf d Ursellaan;13;;;XA;2020-01-28;Peter Van Leeuwen;MDU;0;6;0;6;BUILDING template
-KNOKKE-HEIST - FH09;2766984;BL0918;2;2766984;;Graaf d Ursellaan 14-15;Graaf d Ursellaan;14;;;XA;2020-01-23;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
-KNOKKE-HEIST - FH09;2766986;BL0918;2;2766986;;Graaf d Ursellaan 14-15;Graaf d Ursellaan;15;;;XA;2020-01-23;Peter Van Leeuwen;MDU;0;7;0;7;BUILDING template
-KNOKKE-HEIST - FH09;2766988;BL0918;2;2766988;31382573;Graaf d Ursellaan 16-17;Graaf d Ursellaan;16;;20200312154355;XA;2019-11-25 07:00:24;Yannick_ Lambrechts;MDU;0;10;1;11;BUILDING template
-KNOKKE-HEIST - FH09;4096025;BL0918;2;4096025;31382573;Graaf d Ursellaan 16-17;Graaf d Ursellaan;17;;20200312154355;XA;2019-11-25 07:00:24;Yannick_ Lambrechts;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH09;290493;BL0907;1;290493;;Vuurtorenstraat 1_Zeedijk-Heist 173;Vuurtorenstraat;1;;;XA;2020-01-31 15:05:29;Peter Van Leeuwen;MDU;1;34;0;35;BUILDING template
+KNOKKE-HEIST - FH09;290501;BL0907;1;290501;;Vuurtorenstraat 1_Zeedijk-Heist 173;Zeedijk-Heist;173;;;XA;2020-01-31 15:05:29;Peter Van Leeuwen;MDU;1;0;0;1;BUILDING template
+KNOKKE-HEIST - FH09;4337751;BL0907;1;4337751;;Zeedijk-Heist 183-184-185-186-187-188;Zeedijk-Heist;183;;;XA;2019-11-15 15:25:13;Andreas Versteeven;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH09;4337752;BL0907;1;4337752;;Zeedijk-Heist 183-184-185-186-187-188;Zeedijk-Heist;184;;;XA;2019-11-15 15:25:13;Andreas Versteeven;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH09;3939510;BL0907;1;3939510;;Zeedijk-Heist 183-184-185-186-187-188;Zeedijk-Heist;185;;;XA;2019-11-15 15:25:13;Andreas Versteeven;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH09;1465872;BL0907;1;1465872;;Zeedijk-Heist 183-184-185-186-187-188;Zeedijk-Heist;186;;;XA;2019-11-15 15:25:13;Andreas Versteeven;MDU;0;52;2;54;BUILDING template
+KNOKKE-HEIST - FH09;4337754;BL0907;1;4337754;;Zeedijk-Heist 183-184-185-186-187-188;Zeedijk-Heist;187;;;XA;2019-11-15 15:25:13;Andreas Versteeven;MDU;0;1;0;1;BUILDING template
+KNOKKE-HEIST - FH09;4337755;BL0907;1;4337755;;Zeedijk-Heist 183-184-185-186-187-188;Zeedijk-Heist;188;;;XA;2019-11-15 15:25:13;Andreas Versteeven;MDU;0;1;0;1;BUILDING template

@@ -130,7 +130,7 @@ def process_facade_letter(survey,facade_letter,outputfolder=OUTPUTFOLDER):
 
 
 
-        docx_replace_regex(doc, re.compile(r"<Lamkey>") , LAMKEY)
+        docx_replace_regex(doc, re.compile(r"<test>") , LAMKEY)
         
 
         
