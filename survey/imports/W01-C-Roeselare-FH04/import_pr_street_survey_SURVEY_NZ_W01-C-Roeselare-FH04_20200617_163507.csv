@@ -1,0 +1,15 @@
+LAM MK;LAM City Code;LAM Street Code;Street;Nr;Suffix;Zip;Municipality;Suburb;xPos;yPos;Name;Wall Mount;SS Reason;Number Floors;Height Cable;Orig VC Type;New VC Type;VC Method;LU;BU;SU;TOTAAL;LANGUAGE;BT;CONTACT;EMAIL;TELNR
+1252040;56560000;2337;Beversesteenweg;202;;8800;Roeselare;;63095,565;183731,774;;N;IRREG;1;4;Undefined;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+1252742;56560000;12699;Germain Hoetstraat;29;;8800;Roeselare;;63636,855;182746,14;;Y;NA;3;8;Undefined;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+1252948;56560000;16727;Koornstraat;117;;8800;Roeselare;;63640,511;182519,339;;Y;NA;2;7;Undefined;Unknown;D - Facade Box;1;0;0;1;NL;SDU;nan;nan;nan
+1252967;56560000;17733;Jules Lagaelaan;2;;8800;Roeselare;;63111,247;182465,468;;NA;NA;;;Unknown;Unknown;D - Facade Box;1;0;0;1;NL;SDU;nan;nan;nan
+3413633;56560000;766;Ardooisesteenweg;110;;8800;Roeselare;;63347,116;182978,452;;N;IRREG;3;12;Unknown;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+3413845;56560000;2337;Beversesteenweg;50;;8800;Roeselare;;63074,461;183048,627;;NA;NA;;;Unknown;Fiber;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+3413861;56560000;2337;Beversesteenweg;102;;8800;Roeselare;;63112,009;183290,641;;Y;NA;3;8;Undefined;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+3413864;56560000;2337;Beversesteenweg;108;;8800;Roeselare;;63111,318;183316,777;;Y;NA;3;7;Undefined;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+3417059;56560000;19723;Mandellaan;324;;8800;Roeselare;;63754,739;182630,28;;N;IRREG;2;7;Undefined;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+4353023;56560000;29012;Sint-Hubrechtsstraat;40;;8800;Roeselare;;63134,437;182665,91;;NA;NA;;;Unknown;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+4353025;56560000;29012;Sint-Hubrechtsstraat;42;;8800;Roeselare;;63137,435;182661,513;;NA;NA;;;Unknown;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+874794;56560000;766;Ardooisesteenweg;49;;8800;Roeselare;;63141,437;182892,808;;N;IRREG;3;8;Undefined;Unknown;D - Facade Box;0;1;0;1;NL;SDU;nan;nan;nan
+875201;56560000;16727;Koornstraat;4;;8800;Roeselare;;63420,771;182945,14;;Y;NA;3;7;Unknown;Unknown;D - Facade Box;1;0;0;1;NL;SDU;nan;nan;nan
+875326;56560000;17733;Jules Lagaelaan;1;;8800;Roeselare;;63114,117;182460,276;;Y;NA;2;7;Undefined;Unknown;D - Facade Box;1;0;0;1;NL;SDU;nan;nan;nan

@@ -159,11 +159,15 @@ def check_dir():
         answer = input("\n :: ") 
         answer = answer.upper()
 
+        print(fac.INPUTFOLDER + fac.INPUT_SURVEY)
+
         if answer == 'F':
             fac.process_facade_letter(fac.INPUTFOLDER + fac.INPUT_SURVEY, fac.INPUTFOLDER + fac.INPUT_FACADE_LETTER_FR)
           
         else:    
             fac.process_facade_letter(fac.INPUTFOLDER + fac.INPUT_SURVEY, fac.INPUTFOLDER + fac.INPUT_FACADE_LETTER)
+
+        
         
         PDF_TO_CHECK = os.path.join(FOLDER_TO_CHECK, folder)
         ren.convert_doc_to_pdf_from_directory(fac.OUTPUTFOLDER,PDF_TO_CHECK)

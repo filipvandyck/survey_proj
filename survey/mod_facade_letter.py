@@ -53,11 +53,14 @@ def process_facade_letter(survey,facade_letter,outputfolder=OUTPUTFOLDER):
 
     projectfile = INPUTFOLDER + INPUT_PROJECT
 
+
+    
     project = pd.read_excel(projectfile, index_col=0,dtype={'GSM PXS': object}) 
     project.columns = project.columns.str.replace(' ','_')
 
     for row in project.index:
         print("[" + str(row)+"]\t" + project['projectnummer'][row])
+
 
 
     answer = input("\n :: ") 
@@ -103,8 +106,8 @@ def process_facade_letter(survey,facade_letter,outputfolder=OUTPUTFOLDER):
         survey = survey[survey['Wall_Mount'] == 'Y']
 
     survey = survey.drop_duplicates(subset='LAM_MK', keep='first')
-    
 
+   
     for index, row in survey.iterrows():
         STREET = row['Street']
         NR =  str(row['Nr']) + row['Suffix']
