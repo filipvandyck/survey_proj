@@ -10,6 +10,7 @@ import mod_import_pr as imp
 import mod_correction_import as cor
 import mod_units as units
 import mod_check_documents as check_documents
+import mod_dq as dq
 import os
 import glob
 
@@ -144,6 +145,7 @@ def menu_from_dict(mydict, header='',footer=''):
 
 def main_menu():
     menu = {
+            'A': {'name' : 'Data Quality', 'action' : dq_menu},
             'P': {'name' : 'Plannrrr Corrections', 'action' : corrections_menu},
             'C': {'name' : 'Coordinates', 'action' : coords_menu},
             'V': {'name' : 'Validate Survey', 'action' : validate_menu},
@@ -157,11 +159,17 @@ def main_menu():
 
 
 def documents_menu():
-    print('test')
  #   create_file = select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
  #   if create_file:
  #       units.processfile(create_file)
     check_documents.check_dir()    
+    main_menu()
+
+def dq_menu():
+  #  create_file = select_file_from_folder_menu(units.UNITSFOLDER,'csv','LOAD ifh file', units.UNITSFOLDER)
+  #  if create_file:
+  #      units.processfile(create_file)
+    dq.make_diff_pr_ifh(dq.TEST_IFH,dq.TEST_PR) 
     main_menu()
 
 
