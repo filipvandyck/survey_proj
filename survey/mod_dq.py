@@ -31,10 +31,12 @@ def make_diff_pr_ifh(f,f_pr):
     #survey = pd.read_csv(f, delimiter=';',encoding = "ISO-8859-1", keep_default_na=False,dtype={'LAM MK': object,'TOTAAL': object})
     survey.columns = survey.columns.str.replace(' ','_')
     survey = survey.drop_duplicates(subset='LAM_MK', keep='first')
-    pr = pd.read_excel(f_pr,  keep_default_na=False,dtype={'Opdrachtnummer': object, 'UNITS TOTAL': object})
+    pr = pd.read_excel(f_pr,  keep_default_na=False,dtype={'Opdrachtnummer': object, 'NR BU': object, 'NR LU': object, 'NR SU': object, 'UNITS TOTAL': object})
     pr.columns = pr.columns.str.replace(' ','_')
     
     survey = survey.astype(str)
+
+
 
 
     out.menu_header("check pr for data quality")
@@ -94,16 +96,68 @@ def make_diff_pr_ifh(f,f_pr):
     df_units_total = pd.merge(df_units_total, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
 
     #print(df_units_total)
+   
+    #units bu
+
+    pr['test_Units_BU'] = pr['Opdrachtnummer'] + '_' + pr['NR_BU']
+    survey['test_BU'] = survey['LAM_MK'] + '_' + survey['BU']
+    df_bu = pr[~pr['test_Units_BU'].isin(survey['test_BU'])]
+    df_bu['errors'] = 'Units bu diff'
 
 
-    #units total
-    df_dif=pd.concat([df_cluster, df_blok,df_buildingfid,df_bg,df_bt,df_units_total], join='outer', axis=0)
+    df_bu = pd.merge(df_bu, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
+
+    #units lu
+
+    pr['test_Units_LU'] = pr['Opdrachtnummer'] + '_' + pr['NR_LU']
+    survey['test_LU'] = survey['LAM_MK'] + '_' + survey['LU']
+    df_lu = pr[~pr['test_Units_LU'].isin(survey['test_LU'])]
+    df_lu['errors'] = 'Units lu diff'
+
+
+    df_lu = pd.merge(df_lu, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
+
+    #units su
+
+    pr['test_Units_SU'] = pr['Opdrachtnummer'] + '_' + pr['NR_SU']
+    survey['test_SU'] = survey['LAM_MK'] + '_' + survey['SU']
+    df_su = pr[~pr['test_Units_SU'].isin(survey['test_SU'])]
+    df_su['errors'] = 'Units su diff'
+
+
+    df_su = pd.merge(df_su, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
+
+    #quadrant
+    survey['Q_IFH'] = survey['VC_Method'].str[:1]
+
+    pr['test_Q'] = pr['Quadrant'].str.replace('XC','C')
+    pr['test_Q'] = pr['test_Q'].str.replace('XA','A')
+
+
+
+    pr['test_Q'] = pr['Opdrachtnummer'] + '_' + pr['test_Q']
+    survey['test_Q'] = survey['LAM_MK'] + '_' + survey['Q_IFH']
+    df_q = pr[~pr['test_Q'].isin(survey['test_Q'])]
+    df_q['errors'] = 'Quadrant diff'
+
+
+    df_q = pd.merge(df_q, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
+
+
+
+
+    df_dif=pd.concat([df_cluster, df_blok,df_buildingfid,df_bg,df_bt,df_units_total,df_bu,df_lu,df_su,df_q], join='outer', axis=0)
     df_dif=df_dif.sort_values(by=['Opdrachtnummer'])
 
     out.print_df(df_dif)
 
-    df_dif=df_dif[['Projectnummer','errors','Opdrachtnummer','Blok','Cluster_NR','Building_FID','LAM_MK','BG_Id','BG_Name','BG_Name_IFH','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant','SSV_Date','Surveyor','Buildingtype','NR_BU','NR_LU','NR_SU','UNITS_TOTAL','LU','BU','SU','TOTAAL','Opdrachttemplate']]
 
+
+    df_dif=df_dif[['Projectnummer','errors','Opdrachtnummer','Blok','Cluster_NR','Building_FID','LAM_MK','BG_Id','BG_Name','BG_Name_IFH','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant','Q_IFH', 'SSV_Date','Surveyor','Buildingtype','NR_BU','NR_LU','NR_SU','UNITS_TOTAL','BU','LU','SU','TOTAAL','Opdrachttemplate']]
+
+
+    df_dif.columns = df_dif.columns.str.replace('_',' ')
+    df_dif = df_dif.rename(columns={"BU": "IFH_BU", "LU": "IFH_LU","SU": "IFH_SU","TOTAAL": "IFH_TOTAAL"})
 
     filename = TEST_OUTPUT
     csv = df_dif.to_csv(filename,sep=';',index=False)

@@ -1,4 +1,0 @@
-Projectnummer;errors;Opdrachtnummer;Blok;Cluster_NR;Building_FID;LAM_MK;BG_Id;BG_Name;BG_Name_IFH;Straat;Huisnummer;Huisnummer_Toevoeging;Quadrant;SSV_Date;Surveyor;Buildingtype;NR_BU;NR_LU;NR_SU;UNITS_TOTAL;LU;BU;SU;TOTAAL;Opdrachttemplate
-SINT-NIKLAAS - FH01;BG Name diff;1291139;BL0119;3;790857;1291139;;Hendrik Heymanplein 1_Grote Markt 34;;Grote Markt;34;;D;2020-05-28 15:15:14;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;BUILDING template
-SINT-NIKLAAS - FH01;Buildingtype diff;1291139;BL0119;3;790857;1291139;;Hendrik Heymanplein 1_Grote Markt 34;;Grote Markt;34;;D;2020-05-28 15:15:14;Maayken Vanfleteren;MDU;1;0;0;1;;;;;BUILDING template
-SINT-NIKLAAS - FH01;BG Name diff;96772;BL0119;3;817472;96772;;Hendrik Heymanplein 1_Grote Markt 34;;Hendrik Heymanplein;1;;D;2020-05-28 15:15:15;Maayken Vanfleteren;MDU;0;7;1;8;7;0;1;8;BUILDING template
