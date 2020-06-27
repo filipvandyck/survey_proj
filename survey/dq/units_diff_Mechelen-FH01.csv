@@ -1,0 +1,33 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster_NR;Building_FID;LAM_MK;BG_Id;BG_Name;BG_Name_IFH;Straat;Huisnummer;Huisnummer_Toevoeging;Quadrant;SSV_Date;Surveyor;Buildingtype;NR_BU;NR_LU;NR_SU;UNITS_TOTAL;LU;BU;SU;TOTAAL;Opdrachttemplate
+MECHELEN - FH01;Units total diff;1351370;BL0116;4;425532;1351370;33740121;Begijnenstraat 33-35-37-39-41-43-43A;Begijnenstraat 33-35-37-39-41-43-43A;Begijnenstraat;43;;XC;2020-05-28;Jo De Clippel;MDU;0;3;1;4;4;0;1;5;BUILDING template
+MECHELEN - FH01;Units total diff;3030790;BL0105;2;427852;3030790;33740117;Befferstraat 37-39;Befferstraat 37-39;Befferstraat;37;;D;2020-05-19 08:30:06;Dieu Jocelin;MDU;0;1;2;3;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;3032955;BL0106;2;429086;3032955;33740199;Frederik de Merodestraat 21-23;Frederik de Merodestraat 21-23;Frederik de Merodestraat;21;;D;2020-06-12;Dieu Jocelin;MDU;0;2;0;2;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;3040453;BL0130;3;433368;3040453;33740125;Leermarkt 56-58;Leermarkt 56-58;Leermarkt;56;;D;2020-05-19 11:15:20;Dieu Jocelin;MDU;1;0;1;2;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;3042702;BL0122;3;434549;3042702;33740133;Grote Markt 37-38;Grote Markt 37-38;Grote Markt;37;;D;2020-05-18 10:25:04;Jo De Clippel;MDU;1;1;0;2;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;3043720;BL0115;5;435046;3043720;;;;Nauwstraat;5;;C;2020-05-20 09:45:07;Dieu Jocelin;MDU;1;3;1;5;6;0;2;8;BUILDING template
+MECHELEN - FH01;Units total diff;3046132;BL0115;5;436306;3046132;33740160;Persoonshoek 9-11-13;Persoonshoek 9-11-13;Persoonshoek;9;;C;2020-05-29 15:25:06;Jo De Clippel;MDU;1;20;3;24;13;1;0;14;BUILDING template
+MECHELEN - FH01;Units total diff;3046136;BL0115;5;436307;3046136;33740160;Persoonshoek 9-11-13;Persoonshoek 9-11-13;Persoonshoek;11;;C;2020-05-29 15:35:07;Jo De Clippel;MDU;0;33;1;34;33;1;1;35;BUILDING template
+MECHELEN - FH01;Units total diff;3046140;BL0115;5;436308;3046140;33740160;Persoonshoek 9-11-13;Persoonshoek 9-11-13;Persoonshoek;13;;XC;2020-06-10 13:20:26;Jo De Clippel;MDU;0;42;0;42;42;1;0;43;BUILDING template
+MECHELEN - FH01;Units total diff;3047607;BL0127;4;10472511;3047607;;;;Lange Schipstraat;24;;D;2020-05-06;Dieu Jocelin;MDU;2;0;1;3;1;1;0;2;BUILDING template
+MECHELEN - FH01;Units total diff;3048621;BL0108;1;11452664;3048621;33740175;Sint-Katelijnestraat 36-36B;Sint-Katelijnestraat 36-36B;Sint-Katelijnestraat;36;B;D;2020-05-25 08:25:04;Jo De Clippel;MDU;1;1;0;2;0;1;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;3049069;BL0116;4;437711;3049069;;;;Steenweg;8;;D;2020-05-18 10:45:30;Dieu Jocelin;MDU;1;1;1;3;3;1;1;5;BUILDING template
+MECHELEN - FH01;Units total diff;4010572;BL0116;4;11452567;4010572;33740187;Vismarkt 12-14;Vismarkt 12-14;Vismarkt;14;;D;2020-05-19 08:55:06;Dieu Jocelin;MDU;1;0;1;2;0;1;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;4061904;BL0104;2;33738228;4061904;33740108;Frederik de Merodestraat 38-40;Frederik de Merodestraat 38-40;Frederik de Merodestraat;40;;D;2020-05-28;Dieu Jocelin;MDU;0;1;1;2;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;4164871;BL0105;2;11452596;4164871;;;;Frederik de merodestraat;14;;XC;2020-05-27 09:15:26;Dieu Jocelin;MDU;0;7;1;8;5;0;1;6;BUILDING template
+MECHELEN - FH01;Units total diff;4740715;BL0101;1;7092621;4740715;33740203;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat;29;;D;2020-05-18 09:40:05;Dieu Jocelin;MDU;1;3;0;4;0;1;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;4748761;BL0116;4;445783;4748761;33740187;Vismarkt 12-14;Vismarkt 12-14;Vismarkt;12;;D;2020-05-19 08:55:03;Dieu Jocelin;MDU;1;0;1;2;0;1;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;5318115;BL0110;5;21704278;5318115;33740122;Begijnenstraat 50-50A;Begijnenstraat 50-50A;Begijnenstraat;50;A;XC;2020-05-20;Dieu Jocelin;MDU;0;8;1;9;8;0;2;10;BUILDING template
+MECHELEN - FH01;Units total diff;5374208;BL0104;2;449022;5374208;33740182;Veemarkt 39-41;Veemarkt 39-41;Veemarkt;41;;D;2020-05-18 10:05:08;Jo De Clippel;MDU;1;0;1;2;0;1;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;5507055;BL0102;1;7092625;5507055;33740172;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat;10;A;XC;2020-05-20 07:15:05;Jo De Clippel;MDU;0;7;1;8;7;0;2;9;BUILDING template
+MECHELEN - FH01;Units total diff;5508105;BL0102;1;7092626;5508105;33740172;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat;8;;XC;2020-05-27 08:10:04;Jo De Clippel;MDU;0;6;1;7;8;0;2;10;BUILDING template
+MECHELEN - FH01;Units total diff;5524627;BL0102;1;7092627;5524627;33740172;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat;10;;XC;2020-05-20 11:40:11;Jo De Clippel;MDU;0;7;1;8;7;0;2;9;BUILDING template
+MECHELEN - FH01;Units total diff;5543967;BL0104;2;7092628;5543967;33740181;;;Varkensstraat;15;;XC;2020-05-15 11:20:15;Dieu Jocelin;MDU;0;4;1;5;4;0;2;6;BUILDING template
+MECHELEN - FH01;Units total diff;5749434;BL0104;2;11452635;5749434;33740181;Varkensstraat 17-19;Varkensstraat 17-19;Varkensstraat;17;;XC;2020-05-15 11:22:32;Dieu Jocelin;MDU;0;3;1;4;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;5904577;BL0102;1;7092640;5904577;33740172;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;Sint-Janstraat;8;B;XC;2020-05-20 07:05:04;Jo De Clippel;MDU;0;5;1;6;3;0;1;4;BUILDING template
+MECHELEN - FH01;Units total diff;6382367;BL0109;1;33738235;6382367;33740111;Wollemarkt 11-13;Wollemarkt 11-13;Wollemarkt;13;;D;2020-05-19 09:05:05;Dieu Jocelin;MDU;0;10;0;10;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;6447591;BL0101;1;11452604;6447591;33740203;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat 27-27A-29;Goswin de Stassartstraat;27;A;D;2020-05-18;Dieu Jocelin;MDU;1;3;0;4;1;0;0;1;BUILDING template
+MECHELEN - FH01;Units total diff;904579;BL0127;4;10472533;904579;;;;Lange Schipstraat;2;;D;2020-02-17;Jo De Clippel;MDU;1;2;0;3;2;0;0;2;BUILDING template
+MECHELEN - FH01;Units total diff;905286;BL0116;2;33738227;905286;;;;Begijnenstraat;11;;XC;2020-05-25 10:00:37;Dieu Jocelin;MDU;0;8;1;9;11;0;0;11;BUILDING template
+MECHELEN - FH01;Units total diff;905287;BL0110;5;450501;905287;;;;Begijnenstraat;18;;XC;2020-06-09 11:15:40;Jo De Clippel;MDU;1;2;0;3;10;0;10;20;BUILDING template
+MECHELEN - FH01;Units total diff;905645;BL0110;5;7092687;905645;33740122;Begijnenstraat 50-50A;Begijnenstraat 50-50A;Begijnenstraat;50;;XC;2020-05-20;Dieu Jocelin;MDU;2;10;1;13;12;0;2;14;BUILDING template
+MECHELEN - FH01;Units total diff;905659;BL0116;4;7092690;905659;33740189;Vismarkt 2-4;Vismarkt 2-4;Vismarkt;2;;D;2020-05-19 08:45:05;Dieu Jocelin;MDU;1;0;1;2;1;0;0;1;BUILDING template

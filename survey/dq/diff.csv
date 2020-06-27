@@ -1,8 +1,4 @@
 Projectnummer;errors;Opdrachtnummer;Blok;Cluster_NR;Building_FID;LAM_MK;BG_Id;BG_Name;BG_Name_IFH;Straat;Huisnummer;Huisnummer_Toevoeging;Quadrant;SSV_Date;Surveyor;Buildingtype;NR_BU;NR_LU;NR_SU;UNITS_TOTAL;LU;BU;SU;TOTAAL;Opdrachttemplate
-SINT-NIKLAAS - FH02;Units total diff;1514012;BL0210;2;791507;1514012;;;;Kalkstraat;53;;XC;2020-06-16 18:45:04;Maayken Vanfleteren;MDU;1;8;0;9;7;1;0;8;BUILDING template
-SINT-NIKLAAS - FH02;Buildingtype diff;1514062;BL0211;2;791534;1514062;11489720;Lodewijk De Meesterstraat 24-26;;Lodewijk De Meesterstraat;24;;;2020-06-15 09:50:15;Geert Stockman;SDU;1;0;0;1;;;;;BUILDING template
-SINT-NIKLAAS - FH02;Units total diff;3510046;BL0216;3;801998;3510046;;;;Parklaan;63;;D;2020-06-18 14:25:33;Maayken Vanfleteren;MDU;1;2;0;3;4;0;0;4;BUILDING template
-SINT-NIKLAAS - FH02;Units total diff;3525056;BL0207;2;805670;3525056;;;;Zamanstraat;5;;D;2020-02-07 09:05:21;Maayken Vanfleteren;MDU;0;4;1;5;4;0;0;4;BUILDING template
-SINT-NIKLAAS - FH02;Units total diff;3525097;BL0207;2;805675;3525097;;;;Zamanstraat;15;;X;2020-02-07 09:05:30;Maayken Vanfleteren;MDU;1;4;0;5;2;1;0;3;BUILDING template
-SINT-NIKLAAS - FH02;Buildingtype diff;6383957;BL0206;1;21139573;6383957;;Regentiestraat 61-63_Zwijgershoek 14;;Zwijgershoek;14;;;2019-10-24;Dirk Marien;SDU;0;1;0;1;;;;;BUILDING template
-SINT-NIKLAAS - FH02;Units total diff;96647;BL0216;3;817430;96647;;;;Parklaan;57;;D;2020-06-18 14:25:25;Maayken Vanfleteren;MDU;1;3;1;5;3;1;0;4;BUILDING template
+SINT-NIKLAAS - FH01;BG Name diff;1291139;BL0119;3;790857;1291139;;Hendrik Heymanplein 1_Grote Markt 34;;Grote Markt;34;;D;2020-05-28 15:15:14;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;BUILDING template
+SINT-NIKLAAS - FH01;Buildingtype diff;1291139;BL0119;3;790857;1291139;;Hendrik Heymanplein 1_Grote Markt 34;;Grote Markt;34;;D;2020-05-28 15:15:14;Maayken Vanfleteren;MDU;1;0;0;1;;;;;BUILDING template
+SINT-NIKLAAS - FH01;BG Name diff;96772;BL0119;3;817472;96772;;Hendrik Heymanplein 1_Grote Markt 34;;Hendrik Heymanplein;1;;D;2020-05-28 15:15:15;Maayken Vanfleteren;MDU;0;7;1;8;7;0;1;8;BUILDING template

@@ -1,0 +1,5 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster_NR;Building_FID;LAM_MK;BG_Id;BG_Name;BG_Name_IFH;Straat;Huisnummer;Huisnummer_Toevoeging;Quadrant;SSV_Date;Surveyor;Buildingtype;NR_BU;NR_LU;NR_SU;UNITS_TOTAL;LU;BU;SU;TOTAAL;Opdrachttemplate
+HASSELT - FH05;Buildingtype diff;2426291;BL0001;1;387547;2426291;33626278;;;Oude Luikerbaan;81;A;;15/06/2020 8:40;Dieu Jocelin;SDU;1;0;0;1;;;;;BUILDING template
+HASSELT - FH05;Buildingtype diff;328576;BL0001;1;394365;328576;33626278;;;Oude Luikerbaan;81;;;15/06/2020 8:40;Jo De Clippel;SDU;0;1;0;1;;;;;BUILDING template
+HASSELT - FH05;BG Name diff;2426288;BL0001;1;387546;2426288;33626278;Oude Luikerbaan 79-83;Oude Luikerbaan 79-83;Oude Luikerbaan;79;;C;15/06/2020 9:10;Jo De Clippel;MDU;1;0;2;3;0;1;1;2;BUILDING template
+HASSELT - FH05;BG Name diff;328577;BL0001;1;394366;328577;33626278;Oude Luikerbaan 79-83;Oude Luikerbaan 79-83;Oude Luikerbaan;83;;C;15/06/2020 9:15;Jo De Clippel;MDU;0;0;1;1;0;1;1;2;BUILDING template
