@@ -11,6 +11,7 @@ import mod_correction_import as cor
 import mod_units as units
 import mod_check_documents as check_documents
 import mod_dq as dq
+import mod_frost as frost
 import os
 import glob
 
@@ -146,6 +147,7 @@ def menu_from_dict(mydict, header='',footer=''):
 def main_menu():
     menu = {
             'A': {'name' : 'Data Quality', 'action' : dq_menu},
+            'F': {'name' : 'Frost', 'action' : frost_menu},
             'P': {'name' : 'Plannrrr Corrections', 'action' : corrections_menu},
             'C': {'name' : 'Coordinates', 'action' : coords_menu},
             'V': {'name' : 'Validate Survey', 'action' : validate_menu},
@@ -171,6 +173,11 @@ def dq_menu():
   #      units.processfile(create_file)
     dq.make_diff_pr_ifh(dq.TEST_IFH,dq.TEST_PR) 
     main_menu()
+
+def frost_menu():
+    frost.make_gct()
+    main_menu()
+
 
 
 def units_menu():
