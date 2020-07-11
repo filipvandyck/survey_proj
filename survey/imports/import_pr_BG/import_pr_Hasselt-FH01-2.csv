@@ -1,0 +1,983 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+HASSELT - FH01;2438366;BL0110;1;;2438366;;;Schoolstraat;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408496;BL0114;1;;2408496;;;Bampslaan;7;;D;2018-10-03;Geert Stockman;MDU;1;2;0;1;BUILDING template
+HASSELT - FH01;707413;BL0113;1;;707413;;;Spoorwegstraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408498;BL0114;1;;2408498;;;Bampslaan;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408500;BL0114;1;;2408500;;;Bampslaan;11;;D;2019-11-06;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;4897353;BL0110;1;;4897353;;;Schoolstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408502;BL0114;1;;2408502;;;Bampslaan;13;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707412;BL0113;1;;707412;;;Spoorwegstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653672;BL0114;1;;653672;;;Bampslaan;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438370;BL0110;1;;2438370;;;Schoolstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408511;BL0114;1;;2408511;;;Bampslaan;21;;C;2018-10-09;Geert Stockman;MDU;4;1;0;5;BUILDING template
+HASSELT - FH01;707411;BL0113;1;;707411;;;Spoorwegstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408515;BL0114;1;;2408515;;;Bampslaan;23;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2438371;BL0110;1;;2438371;;;Schoolstraat;21;;;2018-08-21;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707410;BL0113;1;;707410;;;Spoorwegstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408521;BL0114;1;;2408521;;;Bampslaan;31;;D;2018-05-03 13:56:43;Youssef Abdellaoui;MDU;1;4;1;6;BUILDING template
+HASSELT - FH01;2438374;BL0110;1;;2438374;;;Schoolstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707409;BL0113;1;;707409;;;Spoorwegstraat;25;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937219;BL0114;1;;3937219;;;Bampslaan;33;;D;2018-05-03 14:26:02;Kevin Dekens;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2438378;BL0110;1;;2438378;;;Schoolstraat;25;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707408;BL0113;1;;707408;;;Spoorwegstraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408522;BL0114;1;;2408522;;;Bampslaan;35;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438380;BL0110;1;;2438380;;;Schoolstraat;27;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707407;BL0113;1;;707407;;;Spoorwegstraat;27;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653670;BL0114;1;;653670;;;Bampslaan;37;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438385;BL0110;1;;2438385;;;Schoolstraat;31;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707406;BL0113;1;;707406;;;Spoorwegstraat;28;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937270;BL0114;1;;3937270;;Brendel 1_Schiervellaan 1;Brendelstraat;1;;B;2018-10-05;Geert Stockman;MDU;1;5;1;7;BUILDING template
+HASSELT - FH01;4019176;BL0110;1;;4019176;;;Schoolstraat;33;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2411081;BL0114;1;;2411081;;;Brendelstraat;4;;D;2018-10-05;Olivier Collignon;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;707405;BL0113;1;;707405;;;Spoorwegstraat;29;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653668;BL0114;1;;653668;;;Brendelstraat;5;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438392;BL0110;1;;2438392;;;Schoolstraat;35;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415717;BL0114;1;;2415717;;;Geraetsstraat;11;;;2018-09-02;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707404;BL0113;1;;707404;;;Spoorwegstraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3960088;BL0114;1;;3960088;;;Geraetsstraat;13;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438399;BL0110;1;;2438399;;;Schoolstraat;37;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415719;BL0114;1;;2415719;;;Geraetsstraat;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903189;BL0113;1;;4903189;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;1;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;4871027;BL0114;1;;4871027;;;Geraetsstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707199;BL0110;1;;707199;;;Schoolstraat;39;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415723;BL0114;1;;2415723;;;Geraetsstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5908309;BL0102;1;12437616;5908309;12438745;Abelenstraat 1-1A;Abelenstraat;1;A;D - Facade Box;;;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2415726;BL0114;1;;2415726;;;Geraetsstraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415728;BL0114;1;;2415728;;;Geraetsstraat;23;;;2018-09-02;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2415729;BL0114;1;;2415729;;;Geraetsstraat;25;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6434600;BL0102;1;12437671;6434600;12438745;Abelenstraat 1-1A;Abelenstraat;1;B;D - Facade Box;;;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;653660;BL0114;1;;653660;;;Geraetsstraat;27;;;2018-09-02;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;1121093;BL0114;1;;1121093;;;Koningin Astridlaan;6;;;2018-09-16;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;21890;BL0102;1;;21890;;;Abelenstraat;3;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6162639;BL0101;1;;6162639;;;Sint-Truidersteenweg;67;B;;2018-08-18;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2408229;BL0114;1;;2408229;7072277;;Koningin Astridlaan;8;;D;2018-09-16;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;653667;BL0114;1;;653667;;;Koningin Astridlaan;10;;C;2019-09-02;Kurt Holsteyns;MDU;0;33;0;33;BUILDING template
+HASSELT - FH01;4871086;BL0114;1;;4871086;;;Koningin Astridlaan;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937204;BL0102;1;;3937204;;;Abelenstraat;5;;B;2018-05-23;Kevin Dekens;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;2408240;BL0114;1;;2408240;;;Koningin Astridlaan;26;;D;2018-09-24;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2408243;BL0114;1;;2408243;;;Koningin Astridlaan;28;;D;2018-09-16;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;653665;BL0114;1;;653665;;;Koningin Astridlaan;30;;D;2018-09-24;Geert Stockman;MDU;1;1;;2;BUILDING template
+HASSELT - FH01;2438171;BL0114;1;;2438171;;Brendel 1_Schiervellaan 1;de Schiervellaan;1;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;2438181;BL0114;1;;2438181;7072284;;de Schiervellaan;3;;B;2018-10-03;Geert Stockman;MDU;1;6;2;9;BUILDING template
+HASSELT - FH01;653662;BL0114;1;;653662;;;de Schiervellaan;7;;;2018-10-03;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;653663;BL0114;1;;653663;9176129;de Schiervellaan 9-11;de Schiervellaan;9;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;5731213;BL0114;1;5166213;5731213;9176129;de Schiervellaan 9-11;de Schiervellaan;11;;XC;2018-10-04;Geert Stockman;MDU;2;10;1;13;BUILDING template
+HASSELT - FH01;653664;BL0114;1;;653664;9177045;de Schiervellaan 13_Bampslaan 1;de Schiervellaan;13;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;2428463;BL0116;1;;2428463;;;Frans Massystraat;11;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428472;BL0116;1;;2428472;;;Frans Massystraat;13;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937547;BL0116;1;;3937547;;;Frans Massystraat;15;;D;2018-10-01;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2428474;BL0116;1;;2428474;;;Frans Massystraat;17;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653410;BL0116;1;;653410;;;Frans Massystraat;19;;B;2018-11-28 19:55:13;Geert Stockman;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;653403;BL0116;1;;653403;;;Koningin Astridlaan;50;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1295122;BL0116;1;;1295122;;;Monseigneur Broekxplein;1;;B;2018-11-28 19:50:18;Geert Stockman;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;1278657;BL0116;1;;1278657;;;Monseigneur Broekxplein;6;;B;2018-11-28 20:05:20;Geert Stockman;MDU;11;1;4;16;BUILDING template
+HASSELT - FH01;4847307;BL0117;1;;4847307;;;Melkvoetstraat;24;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5832174;BL0117;1;;5832174;;;Melkvoetstraat;28;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937553;BL0117;1;;3937553;;;Melkvoetstraat;32;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;654122;BL0117;1;;654122;;;Melkvoetstraat;34;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654124;BL0117;1;;654124;;;Melkvoetstraat;36;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429019;BL0117;1;;2429019;;;Melkvoetstraat;42;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4203764;BL0117;1;;4203764;;;Melkvoetstraat;44;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654128;BL0117;1;;654128;;;Melkvoetstraat;46;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654130;BL0117;1;;654130;;;Melkvoetstraat;48;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654109;BL0117;1;;654109;;;Melkvoetstraat;56;;D;2018-09-01;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;654113;BL0117;1;;654113;;Melkvoetstraat 58-58A-58B;Melkvoetstraat;58;;E;2018-09-12 15:35:49;;MDU;0;9;0;9;BUILDING template
+HASSELT - FH01;654111;BL0117;1;;654111;;;Melkvoetstraat;60;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4847313;BL0117;1;;4847313;;;Melkvoetstraat;62;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2415088;BL0111;1;;2415088;;;Gaarveldstraat;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4847317;BL0117;1;;4847317;;;Melkvoetstraat;66;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429032;BL0117;1;;2429032;;;Melkvoetstraat;68;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415091;BL0111;1;;2415091;;;Gaarveldstraat;11;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4074417;BL0117;1;;4074417;;;Melkvoetstraat;70;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429034;BL0117;1;;2429034;;;Melkvoetstraat;72;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3998978;BL0111;1;;3998978;;;Gaarveldstraat;13;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429037;BL0117;1;;2429037;;;Melkvoetstraat;74;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429041;BL0117;1;;2429041;;;Melkvoetstraat;76;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415097;BL0111;1;;2415097;;;Gaarveldstraat;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429045;BL0117;1;;2429045;;;Melkvoetstraat;78;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429050;BL0117;1;;2429050;;;Melkvoetstraat;80;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4896597;BL0103;1;;4896597;;;Gaarveldstraat;98;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415101;BL0111;1;;2415101;;;Gaarveldstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429054;BL0117;1;;2429054;;;Melkvoetstraat;82;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654115;BL0117;1;;654115;;;Melkvoetstraat;84;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415188;BL0103;1;;2415188;;;Gaarveldstraat;100;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415105;BL0111;1;;2415105;;;Gaarveldstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429030;BL0117;1;;2429030;8577807;Melkvoetstraat 58-58A-58B;Melkvoetstraat;58;A;;2018-09-12 15:36:35;;MDU;;;;;BUILDING template
+HASSELT - FH01;5438243;BL0117;1;;5438243;;Melkvoetstraat 58-58A-58B;Melkvoetstraat;58;B;;2018-09-12 15:36:03;;MDU;;;;;BUILDING template
+HASSELT - FH01;708094;BL0103;1;;708094;;;Gaarveldstraat;102;;D;2018-08-14;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2415109;BL0111;1;;2415109;;;Gaarveldstraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654136;BL0117;1;;654136;;;Vrijwilligersplein;2;;D;2018-09-01;Geert Stockman;MDU;1;3;0;4;BUILDING template
+HASSELT - FH01;4261782;BL0103;1;;4261782;;;Sint-Hubertusplein;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707394;BL0111;1;;707394;;;Gaarveldstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4221970;BL0117;1;;4221970;;;Vrijwilligersplein;4;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;708111;BL0103;1;;708111;;;Sint-Hubertusplein;6;;;2018-08-14;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707387;BL0111;1;;707387;;;Harmoniestraat;2;;D;2018-08-28;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2446512;BL0117;1;;2446512;;;Vrijwilligersplein;6;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415131;BL0106;1;;2415131;;;Gaarveldstraat;53;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2418691;BL0103;1;;2418691;;;Sint-Hubertusplein;8;;D;2018-05-23;Youssef Abdellaoui;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2416819;BL0111;1;;2416819;;;Harmoniestraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446514;BL0117;1;;2446514;;;Vrijwilligersplein;8;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415134;BL0106;1;;2415134;;;Gaarveldstraat;55;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;708112;BL0103;1;;708112;;;Sint-Hubertusplein;10;;D;2018-08-14;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2416820;BL0111;1;;2416820;;;Harmoniestraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446516;BL0117;1;;2446516;;;Vrijwilligersplein;10;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415135;BL0106;1;;2415135;;;Gaarveldstraat;57;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2418696;BL0103;1;;2418696;;;Sint-Hubertusplein;12;;D;2019-05-09 08:56:50;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2442780;BL0102;1;;2442780;;;Torenstraat;36;;;2019-09-05;Kurt Holsteyns;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2416822;BL0111;1;;2416822;;;Harmoniestraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4847272;BL0117;1;;4847272;;;Vrijwilligersplein;12;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415136;BL0106;1;;2415136;;;Gaarveldstraat;59;;;2019-05-08 13:16:30;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;708113;BL0103;1;;708113;;;Sint-Hubertusplein;14;;D;2020-06-16;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2442783;BL0102;1;;2442783;;;Torenstraat;38;;;2019-09-05 14:55:48;Kurt Holsteyns;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2416826;BL0111;1;;2416826;;;Harmoniestraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446518;BL0117;1;;2446518;;;Vrijwilligersplein;14;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2414608;BL0102;1;;2414608;;;Elzenstraat;2;A;E;2018-03-08 11:59:01;Kevin Dekens;MDU;0;4;1;5;BUILDING template
+HASSELT - FH01;2418700;BL0103;1;;2418700;;;Sint-Hubertusplein;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442785;BL0102;1;;2442785;;;Torenstraat;40;;;2019-09-05;Kurt Holsteyns;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;707386;BL0111;1;;707386;;;Harmoniestraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145389;BL0117;1;;1145389;;;Koningin Astridlaan;37;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2407557;BL0103;1;;2407557;;;Abelenstraat;11;;D;2018-03-13 11:01:50;Kevin Dekens;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2418701;BL0103;1;;2418701;;;Sint-Hubertusplein;18;;D;2018-08-14;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;707340;BL0102;1;;707340;;;Torenstraat;42;;;2019-09-05 15:25:15;Kurt Holsteyns;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;707385;BL0111;1;;707385;;;Harmoniestraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408251;BL0117;1;;2408251;;;Koningin Astridlaan;39;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;3937213;BL0117;1;;3937213;;;Koningin Astridlaan;41;;B;2019-05-28;Filip Van Geel;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2418703;BL0103;1;;2418703;;;Sint-Hubertusplein;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897521;BL0101;1;;4897521;;;Boomkensstraat;88;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416830;BL0111;1;;2416830;;;Harmoniestraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408254;BL0117;1;;2408254;;;Koningin Astridlaan;43;;D;2018-09-24;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2408256;BL0117;1;;2408256;;;Koningin Astridlaan;45;;D;2018-09-26;Olivier Collignon;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;4072252;BL0103;1;;4072252;;;Sint-Hubertusplein;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409800;BL0101;1;;2409800;;;Boomkensstraat;90;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416833;BL0111;1;;2416833;;;Harmoniestraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408260;BL0117;1;;2408260;;;Koningin Astridlaan;49;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;4852643;BL0117;1;;4852643;;;Koningin Astridlaan;51;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4852645;BL0117;1;;4852645;;;Koningin Astridlaan;53;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;708114;BL0103;1;;708114;;;Sint-Hubertusplein;24;;D;2018-05-18;Youssef Abdellaoui;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2409802;BL0101;1;;2409802;;;Boomkensstraat;92;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416837;BL0111;1;;2416837;;;Harmoniestraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4852651;BL0117;1;;4852651;;;Koningin Astridlaan;57;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408269;BL0117;1;;2408269;;;Koningin Astridlaan;59;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408270;BL0117;1;;2408270;;;Koningin Astridlaan;61;;D;2019-05-09;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;4896641;BL0103;1;;4896641;;;Sint-Hubertusplein;26;;D;2018-08-14;Olivier Collignon;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2409803;BL0101;1;;2409803;;;Boomkensstraat;94;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416840;BL0111;1;;2416840;;;Harmoniestraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4852654;BL0117;1;;4852654;;;Koningin Astridlaan;63;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408273;BL0117;1;;2408273;;;Koningin Astridlaan;65;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408275;BL0117;1;;2408275;;;Koningin Astridlaan;67;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;708115;BL0103;1;;708115;;;Sint-Hubertusplein;28;;D;2018-04-19 13:50:04;Kevin Dekens;MDU;1;2;1;4;BUILDING template
+HASSELT - FH01;2409805;BL0101;1;;2409805;;;Boomkensstraat;96;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416843;BL0111;1;;2416843;;;Harmoniestraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408276;BL0117;1;;2408276;;;Koningin Astridlaan;69;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408278;BL0117;1;;2408278;;;Koningin Astridlaan;71;;D;2018-07-30 10:39:49;;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2408279;BL0117;1;;2408279;;;Koningin Astridlaan;75;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5422649;BL0103;1;;5422649;;Sint-Hubertusplein 2-2A;Sint-Hubertusplein;2;A;D;2018-08-14;Geert Stockman;MDU;1;3;0;4;BUILDING template
+HASSELT - FH01;2409807;BL0101;1;;2409807;;;Boomkensstraat;98;;D;2018-08-15;Olivier Collignon;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2416847;BL0111;1;;2416847;;;Harmoniestraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408281;BL0117;1;;2408281;;;Koningin Astridlaan;77;;;2018-05-17;Kevin Dekens;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2408282;BL0117;1;;2408282;;;Koningin Astridlaan;79;;E;2019-06-24;Kust Hostyens;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2408284;BL0117;1;;2408284;;;Koningin Astridlaan;81;;;2018-10-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707336;BL0103;1;;707336;;;Torenstraat;1;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409808;BL0101;1;;2409808;;;Boomkensstraat;100;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937349;BL0111;1;;3937349;;;Harmoniestraat;28;;D;2018-08-21;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;4852676;BL0117;1;;4852676;;;Koningin Astridlaan;85;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408285;BL0117;1;;2408285;;;Koningin Astridlaan;87;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145388;BL0117;1;;1145388;;;Koningin Astridlaan;89;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;709221;BL0103;1;;709221;;;Torenstraat;3;;X;2019-09-03;Kurt Holsteyns;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2409810;BL0101;1;;2409810;;;Boomkensstraat;102;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5381021;BL0111;1;;5381021;;;Harmoniestraat;2;A;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6162633;BL0117;1;;6162633;;;Melkvoetstraat;2;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;654120;BL0117;1;;654120;;;Melkvoetstraat;6;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428959;BL0117;1;;2428959;;;Melkvoetstraat;8;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409813;BL0101;1;;2409813;;;Boomkensstraat;104;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5437959;BL0111;1;;5437959;;;Harmoniestraat;2;B;D;2018-08-28;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2428967;BL0117;1;;2428967;;;Melkvoetstraat;10;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428970;BL0117;1;;2428970;;;Melkvoetstraat;12;;D;2018-08-14 10:34:59;;MDU;;;;;BUILDING template
+HASSELT - FH01;2428972;BL0117;1;;2428972;;;Melkvoetstraat;14;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409819;BL0101;1;;2409819;;;Boomkensstraat;106;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416851;BL0111;1;;2416851;;;Harmoniestraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428978;BL0117;1;;2428978;;;Melkvoetstraat;16;;D;2018-05-14 12:01:03;Youssef Abdellaoui;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2406662;BL0113;1;;2406662;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;2;;C;2019-05-09;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2428982;BL0117;1;;2428982;;;Melkvoetstraat;18;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4015514;BL0117;1;;4015514;;;Melkvoetstraat;20;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409820;BL0101;1;;2409820;;;Boomkensstraat;108;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707384;BL0111;1;;707384;;;Harmoniestraat;32;;;2018-08-26;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2428991;BL0117;1;;2428991;;;Melkvoetstraat;22;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406664;BL0113;1;;2406664;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;3;;C;2019-05-09;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;1145400;BL0118;1;;1145400;9041583;Burgemeester Bollenstraat 10_Koningin Astridlaan 21;Burgemeester Bollenstraat;10;;D;2019-09-02;Kurt Holsteyns;MDU;0;4;1;5;BUILDING template
+HASSELT - FH01;25130;BL0118;1;;25130;;;Burgemeester Bollenstraat;12;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937248;BL0101;1;;3937248;;;Boomkensstraat;110;;D;2018-03-13 11:07:21;Kevin Dekens;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;707381;BL0111;1;;707381;;;Harmoniestraat;34;;;2018-08-21;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2449571;BL0118;1;;2449571;;;Burgemeester Bollenstraat;14;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406665;BL0113;1;;2406665;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;4;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;3966571;BL0118;1;;3966571;;;Burgemeester Bollenstraat;16;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449576;BL0118;1;;2449576;;;Burgemeester Bollenstraat;18;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937250;BL0101;1;;3937250;;;Boomkensstraat;112;;D;2018-10-01;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;6162640;BL0101;1;;6162640;7072281;Sint-Truidersteenweg 85A-85B;Sint-Truidersteenweg;85;A;D;2018-08-21;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;707379;BL0111;1;;707379;;;Kanunnik Eybenstraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406667;BL0113;1;;2406667;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;5;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449579;BL0118;1;;2449579;;;Burgemeester Bollenstraat;20;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449580;BL0118;1;;2449580;;;Burgemeester Bollenstraat;22;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2407552;BL0102;1;;2407552;;;Abelenstraat;7;;XA;2019-09-05;Kurt Holsteyns;MDU;0;11;1;12;BUILDING template
+HASSELT - FH01;3937251;BL0101;1;;3937251;;;Boomkensstraat;114;;D;2018-09-16;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;707189;BL0101;1;;707189;;;Vooruitzichtstraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449542;BL0111;1;;2449542;;;Kanunnik Eybenstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406668;BL0113;1;;2406668;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;6;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449581;BL0118;1;;2449581;;;Burgemeester Bollenstraat;24;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449582;BL0118;1;;2449582;;;Burgemeester Bollenstraat;26;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937205;BL0102;1;;3937205;;;Abelenstraat;7;A;D;2019-09-06;Kurt Holsteyns;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2409822;BL0101;1;;2409822;;;Boomkensstraat;116;;;2019-05-09 09:07:34;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2446135;BL0101;1;;2446135;;;Vooruitzichtstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707378;BL0111;1;;707378;;;Kanunnik Eybenstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4186027;BL0113;1;;4186027;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;7;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449583;BL0118;1;;2449583;;;Burgemeester Bollenstraat;28;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449590;BL0118;1;;2449590;;;Burgemeester Bollenstraat;30;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707208;BL0102;1;;707208;;;Boomkensstraat;69;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2409826;BL0101;1;;2409826;;;Boomkensstraat;118;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446137;BL0101;1;;2446137;;;Vooruitzichtstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5831640;BL0111;1;;5831640;;;Kanunnik Eybenstraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903196;BL0113;1;;4903196;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;8;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;4852571;BL0118;1;;4852571;;;Burgemeester Bollenstraat;32;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897381;BL0102;1;;4897381;;;Boomkensstraat;71;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707216;BL0101;1;;707216;;;Boomkensstraat;120;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446142;BL0101;1;;2446142;;;Vooruitzichtstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406669;BL0113;1;;2406669;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;9;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;4063049;BL0118;1;;4063049;;;Burgemeester Bollenstraat;34;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4203377;BL0102;1;;4203377;;;Boomkensstraat;73;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415012;BL0101;1;;2415012;2-6;;Fonteinstraat;2;;;2020-06-16;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2446147;BL0101;1;;2446147;;;Vooruitzichtstraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406670;BL0113;1;;2406670;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;10;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449594;BL0118;1;;2449594;;;Burgemeester Bollenstraat;36;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409789;BL0102;1;;2409789;;;Boomkensstraat;75;;E;2018-09-02;Geert Stockman;MDU;1;1;1;3;BUILDING template
+HASSELT - FH01;707488;BL0101;1;;707488;;;Fonteinstraat;8;;D;2018-08-21;Geert Stockman;MDU;1;6;0;7;BUILDING template
+HASSELT - FH01;2446153;BL0101;1;;2446153;;;Vooruitzichtstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449599;BL0118;1;;2449599;38 en 40;Burgemeester Bollenstraat 38-40;Burgemeester Bollenstraat;38;;D;2019-07-09;Geert Saenen;MDU;1;17;0;18;BUILDING template
+HASSELT - FH01;2406672;BL0113;1;;2406672;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;11;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449605;BL0118;1;;2449605;8563766;Burgemeester Bollenstraat 38-40;Burgemeester Bollenstraat;40;;;16/nov/17;;MDU;;;;;BUILDING template
+HASSELT - FH01;2409795;BL0102;1;;2409795;;;Boomkensstraat;81;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897407;BL0101;1;;4897407;;;Vooruitzichtstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449607;BL0118;1;;2449607;;;Burgemeester Bollenstraat;42;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406673;BL0113;1;;2406673;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;12;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449611;BL0118;1;;2449611;;;Burgemeester Bollenstraat;44;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937246;BL0102;1;;3937246;;;Boomkensstraat;83;;D;2018-08-15;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2446157;BL0101;1;;2446157;;;Vooruitzichtstraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449615;BL0118;1;;2449615;;;Burgemeester Bollenstraat;46;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406674;BL0113;1;;2406674;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;13;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449618;BL0118;1;;2449618;;;Burgemeester Bollenstraat;48;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409797;BL0102;1;;2409797;;;Boomkensstraat;85;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446161;BL0101;1;;2446161;;;Vooruitzichtstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449621;BL0118;1;;2449621;;;Burgemeester Bollenstraat;50;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406675;BL0113;1;;2406675;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;14;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449625;BL0118;1;;2449625;;;Burgemeester Bollenstraat;52;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409798;BL0102;1;;2409798;;;Boomkensstraat;87;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446165;BL0101;1;;2446165;;;Vooruitzichtstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449628;BL0118;1;;2449628;;;Burgemeester Bollenstraat;54;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903204;BL0113;1;;4903204;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;15;;C;2019-05-09;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2449631;BL0118;1;;2449631;;;Burgemeester Bollenstraat;56;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409799;BL0102;1;;2409799;;;Boomkensstraat;89;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4172102;BL0101;1;;4172102;;;Vooruitzichtstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449633;BL0118;1;;2449633;;;Burgemeester Bollenstraat;58;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4162140;BL0113;1;;4162140;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;16;;C;2019-05-09;Dieu Jocelin;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2449637;BL0118;1;;2449637;;;Burgemeester Bollenstraat;60;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409801;BL0102;1;;2409801;;;Boomkensstraat;91;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446170;BL0101;1;;2446170;;;Vooruitzichtstraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449638;BL0118;1;;2449638;;;Burgemeester Bollenstraat;62;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2406676;BL0113;1;;2406676;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;17;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449639;BL0118;1;;2449639;;;Burgemeester Bollenstraat;64;;D;2018-05-08 13:37:08;Youssef Abdellaoui;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;2446173;BL0101;1;;2446173;;;Vooruitzichtstraat;28;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449641;BL0118;1;;2449641;;;Burgemeester Bollenstraat;66;;D;2018-05-14 16:35:18;Kevin Dekens;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2406677;BL0113;1;;2406677;7072280;Woutersplein 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18;Woutersplein;18;;C;2017-11-16;;MDU;;;;;BUILDING template
+HASSELT - FH01;2449643;BL0118;1;;2449643;;;Burgemeester Bollenstraat;68;;D;2018-05-15;Abdelmalek Lamkoref;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2446180;BL0101;1;;2446180;;;Vooruitzichtstraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449645;BL0118;1;;2449645;;;Burgemeester Bollenstraat;70;;D;2018-05-09 11:15:36;Kevin Dekens;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2448148;BL0113;1;;2448148;7072280;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;1;;C;2020-06-25;Jo De Clippel;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2449647;BL0118;1;;2449647;;;Burgemeester Bollenstraat;72;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446185;BL0101;1;;2446185;;;Vooruitzichtstraat;32;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448151;BL0113;1;;2448151;7072280;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;3;;C;2018-09-16;Geert Stockman;MDU;0;11;0;11;BUILDING template
+HASSELT - FH01;1145403;BL0118;1;;1145403;;;Burgemeester Bollenstraat;74;;D;2018-09-01;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;4897419;BL0101;1;;4897419;;;Vooruitzichtstraat;34;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707228;BL0113;1;;707228;7072280;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;7;;C;2020-06-25 09:20:24;Jo De Clippel;MDU;2;0;0;2;BUILDING template
+HASSELT - FH01;5435960;BL0118;1;;5435960;;;Burgemeester Bollenstraat;14;A;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446194;BL0101;1;;2446194;;;Vooruitzichtstraat;36;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448160;BL0113;1;;2448160;7072280;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;11;;C;2018-09-16;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;1145392;BL0118;1;;1145392;9041583;Burgemeester Bollenstraat 10_Koningin Astridlaan 21;Koningin Astridlaan;21;;;16/nov/17;;MDU;;;;;BUILDING template
+HASSELT - FH01;4149687;BL0101;1;;4149687;;;Vooruitzichtstraat;38;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4852627;BL0118;1;;4852627;;;Koningin Astridlaan;23;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408239;BL0118;1;;2408239;;;Koningin Astridlaan;25;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408241;BL0118;1;;2408241;;;Koningin Astridlaan;27;;;2018-10-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2408245;BL0118;1;;2408245;;;Koningin Astridlaan;29;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2408246;BL0118;1;;2408246;;;Koningin Astridlaan;31;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145391;BL0118;1;;1145391;;;Koningin Astridlaan;33;;B;2018-10-01;Geert Stockman;MDU;3;0;0;3;BUILDING template
+HASSELT - FH01;1145390;BL0118;1;;1145390;;;Koningin Astridlaan;35;;E;2019-12-16 12:10:18;Jo De Clippel;MDU;2;0;0;2;BUILDING template
+HASSELT - FH01;1145398;BL0118;1;;1145398;;;Manteliusstraat;4;;;2018-09-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;708110;BL0103;1;;708110;;;Sint-Hubertusplein;2;;D;2020-06-17 08:10:04;Jo De Clippel;MDU;1;3;0;4;BUILDING template
+HASSELT - FH01;2427801;BL0118;1;;2427801;;;Manteliusstraat;6;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937542;BL0118;1;;3937542;;;Manteliusstraat;8;;D;2018-05-16 12:15:03;Youssef Abdellaoui;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2427811;BL0118;1;;2427811;;;Manteliusstraat;10;;D;2018-05-16 12:30:39;Youssef Abdellaoui;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2427828;BL0118;1;;2427828;;;Manteliusstraat;12;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427842;BL0118;1;;2427842;;;Manteliusstraat;14;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427850;BL0118;1;;2427850;;;Manteliusstraat;16;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4852553;BL0118;1;;4852553;;;Manteliusstraat;18;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4852556;BL0118;1;;4852556;;;Manteliusstraat;20;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145397;BL0118;1;;1145397;;;Manteliusstraat;22;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442757;BL0103;1;;2442757;;;Torenstraat;19;;D;2018-06-08;Abdelmalek Lamkoref;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;654142;BL0118;1;;654142;;;Manteliusstraat;24;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442760;BL0103;1;;2442760;;;Torenstraat;21;;;2018-08-14;Olivier Collignon;SDU;;;;;BUILDING template
+HASSELT - FH01;2427881;BL0118;1;;2427881;;;Manteliusstraat;26;;;2018-09-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;3937671;BL0103;1;;3937671;;;Torenstraat;23;;D;2018-08-14;Olivier Collignon;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2427884;BL0118;1;;2427884;;;Manteliusstraat;28;;D;2018-09-01;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2442767;BL0103;1;;2442767;;;Torenstraat;25;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427892;BL0118;1;;2427892;;;Manteliusstraat;30;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6162632;BL0107;1;;6162632;;;Harmoniestraat;43;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442771;BL0103;1;;2442771;;;Torenstraat;27;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427900;BL0118;1;;2427900;;;Manteliusstraat;32;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4226728;BL0118;1;;4226728;;;Manteliusstraat;34;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442774;BL0103;1;;2442774;7072283;Torenstraat 29-31;Torenstraat;29;;D;2018-06-01;Abdelmalek Lamkoref;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2427918;BL0118;1;;2427918;;;Manteliusstraat;36;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427923;BL0118;1;;2427923;;;Manteliusstraat;38;;D;2018-09-01;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;3937675;BL0103;1;;3937675;;;Torenstraat;33;;D;2018-08-14;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2427938;BL0118;1;;2427938;;;Manteliusstraat;40;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427952;BL0118;1;;2427952;;;Manteliusstraat;42;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707337;BL0103;1;;707337;;;Torenstraat;35;;D;2018-05-29;Abdelmalek Lamkoref;MDU;1;4;0;5;BUILDING template
+HASSELT - FH01;654140;BL0118;1;;654140;;;Manteliusstraat;44;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654138;BL0118;1;;654138;;;Manteliusstraat;46;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6330683;BL0102;1;14140550;6330683;;;Boomkensstraat;109;;C;;;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;654143;BL0118;1;;654143;;;Manteliusstraat;48;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1019987;BL0111;1;;1019987;;;Woutersstraat;2;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654101;BL0118;1;;654101;;;Melkvoetstraat;1;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654103;BL0118;1;;654103;;;Melkvoetstraat;3;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428955;BL0118;1;;2428955;;;Melkvoetstraat;5;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903384;BL0111;1;;4903384;;;Woutersstraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4847241;BL0118;1;;4847241;;;Melkvoetstraat;7;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448155;BL0111;1;;2448155;;;Woutersstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937312;BL0101;1;;3937312;;;Fonteinstraat;10;;D;2018-08-21;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2448156;BL0111;1;;2448156;;;Woutersstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415019;BL0101;1;;2415019;;;Fonteinstraat;14;;E;2018-08-21;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;2448159;BL0111;1;;2448159;;;Woutersstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6162631;BL0101;1;;6162631;;;Fonteinstraat;16;;;2018-04-18 09:59:49;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937728;BL0111;1;;3937728;;;Woutersstraat;12;;D;2018-08-26;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2415022;BL0101;1;;2415022;;;Fonteinstraat;18;;;2018-04-18 09:59:50;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448162;BL0111;1;;2448162;;;Woutersstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897587;BL0101;1;;4897587;;;Fonteinstraat;20;;;2018-04-18 09:59:50;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903391;BL0111;1;;4903391;;;Woutersstraat;16;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;4897589;BL0101;1;;4897589;;;Fonteinstraat;22;;;2018-04-18 09:59:51;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448166;BL0111;1;;2448166;;;Woutersstraat;18;;D;2018-08-26;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;4897392;BL0102;1;;4897392;;;Boomkensstraat;93;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415024;BL0101;1;;2415024;;;Fonteinstraat;24;;;2018-04-18 09:59:51;;SDU;;;;;BUILDING template
+HASSELT - FH01;707434;BL0111;1;;707434;;;Woutersstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409804;BL0102;1;;2409804;;;Boomkensstraat;95;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415026;BL0101;1;;2415026;;;Fonteinstraat;26;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;4903272;BL0111;1;;4903272;;;Woutersstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409806;BL0102;1;;2409806;;;Boomkensstraat;97;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415028;BL0101;1;;2415028;;;Fonteinstraat;30;;D;2018-03-13 11:53:05;;MDU;0;1;0;2;BUILDING template
+HASSELT - FH01;2448172;BL0111;1;;2448172;;;Woutersstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428963;BL0118;1;;2428963;;;Melkvoetstraat;9;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4199619;BL0102;1;;4199619;;;Boomkensstraat;99;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707478;BL0101;1;;707478;;;Fonteinstraat;32;;;2018-04-18 09:59:53;;SDU;;;;;BUILDING template
+HASSELT - FH01;707433;BL0111;1;;707433;;;Woutersstraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4847245;BL0118;1;;4847245;;;Melkvoetstraat;11;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409809;BL0102;1;;2409809;;;Boomkensstraat;101;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707202;BL0101;1;;707202;;;Schoolstraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707227;BL0111;1;;707227;;;Woutersstraat;2;A;D;2018-11-05;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2428971;BL0118;1;;2428971;;;Melkvoetstraat;13;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409811;BL0102;1;;2409811;;;Boomkensstraat;103;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438347;BL0101;1;;2438347;;;Schoolstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428975;BL0118;1;;2428975;;;Melkvoetstraat;15;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428979;BL0118;1;;2428979;;;Melkvoetstraat;17;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448161;BL0113;1;;2448161;7072280;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;13;;C;2018-09-16;Geert Stockman;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;2409815;BL0102;1;;2409815;;;Boomkensstraat;105;;D;2018-08-15;Olivier Collignon;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;4897368;BL0101;1;;4897368;;;Schoolstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409775;BL0109;1;;2409775;;;Boomkensstraat;57;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428986;BL0118;1;;2428986;;;Melkvoetstraat;19;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654105;BL0118;1;;654105;;;Melkvoetstraat;21;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448163;BL0113;1;;2448163;7072280;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;15;;C;2019-05-09;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;3937247;BL0102;1;;3937247;;;Boomkensstraat;107;;D;2018-08-15;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2438351;BL0101;1;;2438351;;;Schoolstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4175303;BL0109;1;;4175303;;;Boomkensstraat;59;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654107;BL0118;1;;654107;;;Melkvoetstraat;23;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428996;BL0118;1;;2428996;;;Melkvoetstraat;25;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707431;BL0113;1;;707431;;;Woutersstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937249;BL0102;1;;3937249;;;Boomkensstraat;111;;D;2018-08-15;Olivier Collignon;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2438357;BL0101;1;;2438357;;;Schoolstraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409776;BL0109;1;;2409776;;;Boomkensstraat;61;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428998;BL0118;1;;2428998;;;Melkvoetstraat;27;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429001;BL0118;1;;2429001;;;Melkvoetstraat;29;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903452;BL0113;1;;4903452;;;Woutersstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409821;BL0102;1;;2409821;;;Boomkensstraat;113;;D;2018-08-15;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2438363;BL0101;1;;2438363;;;Schoolstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409780;BL0109;1;;2409780;;;Boomkensstraat;63;;D;2018-08-15;Olivier Collignon;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2429004;BL0118;1;;2429004;;;Melkvoetstraat;31;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4181956;BL0118;1;;4181956;;;Melkvoetstraat;33;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448170;BL0113;1;;2448170;;;Woutersstraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937252;BL0102;1;;3937252;;;Boomkensstraat;115;;D;2018-06-12;Abdelmalek Lamkoref;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2438367;BL0101;1;;2438367;;;Schoolstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4235187;BL0109;1;;4235187;;;Boomkensstraat;65;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429009;BL0118;1;;2429009;;;Melkvoetstraat;35;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4221701;BL0113;1;;4221701;;;Woutersstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707207;BL0102;1;;707207;;;Boomkensstraat;117;;D;2019-05-09;Dieu Jocelin;MDU;0;0;0;0;BUILDING template
+HASSELT - FH01;2438369;BL0101;1;;2438369;;;Schoolstraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707209;BL0109;1;;707209;;;Boomkensstraat;67;;D;2020-06-16;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;4151467;BL0118;1;;4151467;;;Melkvoetstraat;37;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903454;BL0113;1;;4903454;;;Woutersstraat;25;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409784;BL0102;1;;2409784;;;Boomkensstraat;69;B;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897370;BL0101;1;;4897370;;;Schoolstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5411994;BL0109;1;;5411994;;;Boomkensstraat;63;A;D;2018-05-22;Abdelmalek Lamkoref;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;4903457;BL0113;1;;4903457;;;Woutersstraat;27;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6582886;BL0110;1;;6582886;;;Schoolstraat;41;;;;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;707224;BL0102;1;;707224;;;Elzenstraat;2;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897371;BL0101;1;;4897371;;;Schoolstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5431532;BL0109;1;;5431532;;;Boomkensstraat;63;B;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448174;BL0113;1;;2448174;;;Woutersstraat;29;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437137;BL0106;1;;2437137;;;Runkstersteenweg;142;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937302;BL0102;1;;3937302;;;Elzenstraat;4;;D;2018-03-13 11:13:19;Kevin Dekens;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2438375;BL0101;1;;2438375;;;Schoolstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707223;BL0109;1;;707223;;;Elzenstraat;9;;D;2018-06-06;Kevin Dekens;MDU;0;7;1;8;BUILDING template
+HASSELT - FH01;2448178;BL0113;1;;2448178;;;Woutersstraat;31;;;2019-05-09 10:58:42;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2437138;BL0106;1;;2437138;;;Runkstersteenweg;144;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937303;BL0102;1;;3937303;;;Elzenstraat;6;;D;2018-08-18;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;4897376;BL0101;1;;4897376;;;Schoolstraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707222;BL0109;1;;707222;;;Elzenstraat;11;;D;2018-06-07 15:50:24;Kevin Dekens;MDU;0;8;1;9;BUILDING template
+HASSELT - FH01;6065608;BL0113;1;;6065608;;;Woutersstraat;35;;D;2018-09-16;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2437140;BL0106;1;;2437140;;;Runkstersteenweg;146;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2414610;BL0102;1;;2414610;;;Elzenstraat;8;;D;2018-08-18;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2438389;BL0101;1;;2438389;;;Schoolstraat;32;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707221;BL0109;1;;707221;;;Elzenstraat;13;;D;2018-05-23;Youssef Abdellaoui;MDU;0;11;1;12;BUILDING template
+HASSELT - FH01;2448185;BL0113;1;;2448185;;;Woutersstraat;37;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437142;BL0106;1;;2437142;;;Runkstersteenweg;148;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897377;BL0101;1;;4897377;;;Schoolstraat;34;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903466;BL0113;1;;4903466;;;Woutersstraat;39;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937627;BL0106;1;;3937627;;;Runkstersteenweg;150;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2438396;BL0101;1;;2438396;;;Schoolstraat;36;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903468;BL0113;1;;4903468;;;Woutersstraat;41;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1019984;BL0106;1;;1019984;;;Runkstersteenweg;152;;D;2018-08-26;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;707200;BL0101;1;;707200;;;Schoolstraat;38;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448192;BL0113;1;;2448192;;;Woutersstraat;43;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437148;BL0106;1;;2437148;;;Runkstersteenweg;154;;D;2018-10-01;Geert Stockman;MDU;1;1;1;3;BUILDING template
+HASSELT - FH01;2438402;BL0101;1;;2438402;;;Schoolstraat;40;;;2018-08-28;Geert Stockman;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2448195;BL0113;1;;2448195;;;Woutersstraat;45;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437150;BL0106;1;;2437150;;;Runkstersteenweg;156;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707429;BL0113;1;;707429;;;Woutersstraat;47;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707100;BL0106;1;;707100;;;Runkstersteenweg;158;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416817;BL0112;1;;2416817;;;Harmoniestraat;1;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707099;BL0106;1;;707099;;;Runkstersteenweg;160;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707388;BL0112;1;;707388;;;Harmoniestraat;3;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6352556;BL0109;1;;6352556;;;Elzenstraat;29;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437158;BL0106;1;;2437158;;;Runkstersteenweg;162;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903477;BL0112;1;;4903477;;;Harmoniestraat;5;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415121;BL0109;1;;2415121;;;Gaarveldstraat;40;;D;2020-06-23 13:25:09;Jo De Clippel;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;2437160;BL0106;1;;2437160;;;Runkstersteenweg;164;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416821;BL0112;1;;2416821;;;Harmoniestraat;7;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415122;BL0109;1;;2415122;;;Gaarveldstraat;46;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415139;BL0106;1;;2415139;;;Gaarveldstraat;61;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901472;BL0106;1;;4901472;;;Runkstersteenweg;166;;D;2019-05-08;Filip Van Geel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2416824;BL0112;1;;2416824;;;Harmoniestraat;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415126;BL0109;1;;2415126;;;Gaarveldstraat;48;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415142;BL0106;1;;2415142;;;Gaarveldstraat;63;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707097;BL0106;1;;707097;;;Runkstersteenweg;168;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416828;BL0112;1;;2416828;;;Harmoniestraat;11;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415128;BL0109;1;;2415128;;;Gaarveldstraat;50;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415144;BL0106;1;;2415144;;;Gaarveldstraat;65;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437162;BL0106;1;;2437162;;;Runkstersteenweg;164;A;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416829;BL0112;1;;2416829;;;Harmoniestraat;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415132;BL0109;1;;2415132;;;Gaarveldstraat;54;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415146;BL0106;1;;2415146;;;Gaarveldstraat;67;;;2019-05-08 13:00:19;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;708107;BL0103;1;;708107;;;Abelenstraat;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416832;BL0112;1;;2416832;;;Harmoniestraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4175141;BL0109;1;;4175141;;;Gaarveldstraat;56;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;707133;BL0106;1;;707133;69 - 69B;;Gaarveldstraat;69;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2407561;BL0103;1;;2407561;;;Abelenstraat;13;;;17-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409733;BL0110;1;;2409733;;;Boomkensstraat;2;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416835;BL0112;1;;2416835;;;Harmoniestraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;6414029;BL0107;1;;6414029;;;Kanunnik Eybenstraat;7;;;;;SDU;;;;;BUILDING template
+HASSELT - FH01;707132;BL0106;1;;707132;;;Gaarveldstraat;71;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4016685;BL0103;1;;4016685;;;Abelenstraat;15;;D;2019-05-08;Filip Van Geel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2409736;BL0110;1;;2409736;;;Boomkensstraat;4;;;2019-05-09 10:10:19;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2429012;BL0118;1;;2429012;;;Melkvoetstraat;39;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416838;BL0112;1;;2416838;;;Harmoniestraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415157;BL0106;1;;2415157;;;Gaarveldstraat;73;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;708106;BL0103;1;;708106;;;Abelenstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903325;BL0110;1;;4903325;;;Boomkensstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2429017;BL0118;1;;2429017;;;Melkvoetstraat;41;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1291577;BL0112;1;;1291577;;;Harmoniestraat;23;;D;2018-08-26;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;3937673;BL0103;1;;3937673;;;Torenstraat;31;;D;2020-06-16 13:15:10;Jo De Clippel;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2415160;BL0106;1;;2415160;;;Gaarveldstraat;75;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2407563;BL0103;1;;2407563;;;Abelenstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903328;BL0110;1;;4903328;;;Boomkensstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;654099;BL0118;1;;654099;;;Melkvoetstraat;43;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416845;BL0112;1;;2416845;;;Harmoniestraat;25;;D;2018-08-21;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2415163;BL0106;1;;2415163;;;Gaarveldstraat;77;;;2019-05-08 12:55:09;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2407567;BL0103;1;;2407567;;;Abelenstraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409740;BL0110;1;;2409740;;;Boomkensstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4065338;BL0119;1;;4065338;;;Koningin Astridlaan;5;;D;2019-09-02;Kurt Holsteyns;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2415165;BL0106;1;;2415165;;;Gaarveldstraat;79;;D;2018-09-02;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2407570;BL0103;1;;2407570;;;Abelenstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409745;BL0110;1;;2409745;;;Boomkensstraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415167;BL0106;1;;2415167;;;Gaarveldstraat;81;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2407572;BL0103;1;;2407572;;;Abelenstraat;25;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409748;BL0110;1;;2409748;;;Boomkensstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1338325;BL0106;1;;1338325;;;Gaarveldstraat;83;;D;2018-09-02;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2407576;BL0103;1;;2407576;;;Abelenstraat;27;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4011184;BL0110;1;;4011184;;;Boomkensstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937313;BL0106;1;;3937313;;;Gaarveldstraat;85;;D;2018-09-02;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2407577;BL0103;1;;2407577;;;Abelenstraat;29;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3997814;BL0110;1;;3997814;;;Boomkensstraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415174;BL0106;1;;2415174;;;Gaarveldstraat;87;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;709227;BL0103;1;;709227;;;Abelenstraat;31;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409753;BL0110;1;;2409753;;;Boomkensstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415176;BL0106;1;;2415176;;;Gaarveldstraat;89;;D;2018-09-03;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;708105;BL0103;1;;708105;;;Abelenstraat;33;;D;2018-04-19 14:20:37;Youssef Abdellaoui;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2409755;BL0110;1;;2409755;;;Boomkensstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707112;BL0106;1;;707112;;;Gaarveldstraat;91;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707332;BL0103;1;;707332;;;Gaarveldstraat;60;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2409759;BL0110;1;;2409759;;;Boomkensstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415182;BL0106;1;;2415182;;;Gaarveldstraat;93;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903332;BL0110;1;;4903332;;;Boomkensstraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901561;BL0106;1;;4901561;;;Gaarveldstraat;95;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409761;BL0110;1;;2409761;;;Boomkensstraat;28;;D;2018-08-15;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;4264299;BL0106;1;;4264299;;;Gaarveldstraat;97;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409762;BL0110;1;;2409762;;;Boomkensstraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4182375;BL0106;1;;4182375;;;Gaarveldstraat;99;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409764;BL0110;1;;2409764;;;Boomkensstraat;32;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901564;BL0106;1;;4901564;;;Gaarveldstraat;101;;;2019-05-08 12:50:12;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;707400;BL0110;1;;707400;;;Boomkensstraat;34;;B;2018-09-05;Geert Stockman;MDU;1;10;1;12;BUILDING template
+HASSELT - FH01;4216710;BL0106;1;;4216710;;;Gaarveldstraat;103;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409773;BL0110;1;;2409773;;;Boomkensstraat;52;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415190;BL0106;1;;2415190;;;Gaarveldstraat;105;;;2019-05-08 12:50:11;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2409777;BL0110;1;;2409777;Huisnummer 62 64 en 66;Boomkensstraat 62-64-66;Boomkensstraat;62;;;2019-05-09;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;4901565;BL0106;1;;4901565;;;Gaarveldstraat;107;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409781;BL0110;1;;2409781;Huisnummer 62 64 en 66;Boomkensstraat 62-64-66;Boomkensstraat;64;;B;2019-06-06;Kust Hostyens;MDU;1;8;2;11;BUILDING template
+HASSELT - FH01;1145393;BL0119;1;;1145393;;;Koningin Astridlaan;7;;D;2018-09-16;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2408231;BL0119;1;;2408231;;;Koningin Astridlaan;9;;D;2018-09-16;Geert Stockman;MDU;1;4;0;5;BUILDING template
+HASSELT - FH01;4901567;BL0106;1;;4901567;;;Gaarveldstraat;109;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1121086;BL0119;1;;1121086;;;Koningin Astridlaan;11;;D;2018-09-16;Geert Stockman;MDU;1;3;1;5;BUILDING template
+HASSELT - FH01;2408236;BL0119;1;;2408236;;;Koningin Astridlaan;13;;D;2018-09-16;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2415194;BL0106;1;;2415194;;Gaarveldstraat 111-111A;Gaarveldstraat;111;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;1145404;BL0119;1;;1145404;;;Thonissenlaan;2;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;1145405;BL0119;1;;1145405;;;Thonissenlaan;4;;D;2020-06-16;Jo De Clippel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2442185;BL0119;1;;2442185;;;Thonissenlaan;6;;D;2019-05-09;Dieu Jocelin;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;4901570;BL0106;1;;4901570;;;Gaarveldstraat;113;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937658;BL0119;1;;3937658;;;Thonissenlaan;8;;D;2020-06-16;Jo De Clippel;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2442197;BL0119;1;;2442197;;;Thonissenlaan;10;;D;2018-09-01;Geert Stockman;MDU;1;1;1;3;BUILDING template
+HASSELT - FH01;2442214;BL0119;1;;2442214;;;Thonissenlaan;12;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;707110;BL0106;1;;707110;;;Gaarveldstraat;115;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442222;BL0119;1;;2442222;;;Thonissenlaan;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442228;BL0119;1;;2442228;;;Thonissenlaan;16;;;2018-10-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2442231;BL0119;1;;2442231;;;Thonissenlaan;18;;B;2018-10-01;Geert Stockman;MDU;2;7;1;10;BUILDING template
+HASSELT - FH01;4179593;BL0106;1;;4179593;69 - 69B;;Gaarveldstraat;69;B;;2019-05-08 12:55:41;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2442239;BL0119;1;;2442239;;;Thonissenlaan;20;;B;2018-10-01;Geert Stockman;MDU;7;0;0;7;BUILDING template
+HASSELT - FH01;2442260;BL0119;1;;2442260;;Thonissenlaan 28-34;Thonissenlaan;28;;X;2018-10-05;Geert Stockman;MDU;0;7;1;8;BUILDING template
+HASSELT - FH01;2415177;BL0106;1;;2415177;;;Gaarveldstraat;89;A;;2020-06-23;Jo De Clippel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2442284;BL0119;1;;2442284;;Thonissenlaan 28-34;Thonissenlaan;34;;;2019-05-09 12:20:24;Dieu Jocelin;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2442290;BL0119;1;;2442290;;;Thonissenlaan;36;;D;2019-06-07 14:30:37;Kust Hostyens;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;5371646;BL0106;1;;5371646;111-111A;Gaarveldstraat 111-111A;Gaarveldstraat;111;A;D;2019-05-08 12:45:56;Filip Van Geel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;3937304;BL0102;1;;3937304;;;Elzenstraat;10;;D;2018-08-18;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;707220;BL0109;1;;707220;;;Elzenstraat;15;;D;2018-05-22;Kevin Dekens;MDU;0;8;1;9;BUILDING template
+HASSELT - FH01;2442300;BL0119;1;;2442300;;;Thonissenlaan;38;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442309;BL0119;1;;2442309;;;Thonissenlaan;40;;XA;2018-09-01;Geert Stockman;MDU;1;6;1;8;BUILDING template
+HASSELT - FH01;707125;BL0106;1;;707125;;;Pastoor Van Dijckstraat;3;;D;2018-08-19;Geert Stockman;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;707343;BL0102;1;;707343;;;Elzenstraat;12;;D;2018-08-18;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;707342;BL0109;1;;707342;;;Elzenstraat;17;;D;2018-08-18;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;2442360;BL0119;1;;2442360;;;Thonissenlaan;50;;B;2019-06-06;Kust Hostyens;MDU;1;6;1;8;BUILDING template
+HASSELT - FH01;707124;BL0106;1;;707124;;;Pastoor Van Dijckstraat;5;;D;2018-08-19;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2414612;BL0102;1;;2414612;;;Elzenstraat;14;;D;2018-10-03;Geert Stockman;MDU;0;7;2;9;BUILDING template
+HASSELT - FH01;707341;BL0109;1;;707341;;;Elzenstraat;19;;D;2018-08-18;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;70257;BL0119;1;;70257;;;Thonissenlaan;52;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707126;BL0106;1;;707126;;;Pastoor Van Dijckstraat;7;;D;2018-08-19;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;707218;BL0102;1;;707218;;;Elzenstraat;16;;D;2018-06-05;Bernardo Kana da Rosa;MDU;1;5;0;6;BUILDING template
+HASSELT - FH01;5422648;BL0109;1;;5422648;;;Elzenstraat;1;A;D;2018-09-07;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;1339373;BL0119;1;;1339373;;;Burgemeester Bollenstraat;3;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707127;BL0106;1;;707127;;;Pastoor Van Dijckstraat;9;;D;2018-08-19;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2443217;BL0101;1;;2443217;;;Sint-Truidersteenweg;67;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707219;BL0109;1;;707219;;;Elzenstraat;21;;D;2018-08-18;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2449565;BL0119;1;;2449565;;;Burgemeester Bollenstraat;9;;D;2019-06-25;Filip Van Geel;MDU;0;6;1;7;BUILDING template
+HASSELT - FH01;707130;BL0106;1;;707130;;;Pastoor Van Dijckstraat;11;;D;2018-08-19;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2443219;BL0101;1;;2443219;;;Sint-Truidersteenweg;69;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937742;BL0119;1;;3937742;;;Burgemeester Bollenstraat;11;;D;2019-08-20;Kurt Holsteyns;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;707129;BL0106;1;;707129;;;Pastoor Van Dijckstraat;13;;D;2018-08-19;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;707484;BL0101;1;;707484;;;Sint-Truidersteenweg;71;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2449567;BL0119;1;;2449567;;;Burgemeester Bollenstraat;13;;D;2019-06-25;Filip Van Geel;MDU;2;0;0;2;BUILDING template
+HASSELT - FH01;707044;BL0106;1;;707044;;;Runkstersteenweg;118;;D;2018-08-26;Geert Stockman;MDU;1;9;0;10;BUILDING template
+HASSELT - FH01;707483;BL0101;1;;707483;;;Sint-Truidersteenweg;73;;E;2019-06-06;Kust Hostyens;MDU;0;14;0;14;BUILDING template
+HASSELT - FH01;2449574;BL0119;1;;2449574;;;Burgemeester Bollenstraat;15;;D;2019-06-25;Filip Van Geel;MDU;2;0;0;2;BUILDING template
+HASSELT - FH01;707102;BL0106;1;;707102;;;Runkstersteenweg;120;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2443228;BL0101;1;;2443228;;;Sint-Truidersteenweg;75;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937743;BL0119;1;;3937743;;;Burgemeester Bollenstraat;17;;D;2019-06-25;Filip Van Geel;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;4901547;BL0106;1;;4901547;;;Runkstersteenweg;122;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2443230;BL0101;1;;2443230;;;Sint-Truidersteenweg;77;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3966573;BL0119;1;;3966573;;;Burgemeester Bollenstraat;19;;;2018-10-05;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2437090;BL0106;1;;2437090;;;Runkstersteenweg;124;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2443232;BL0101;1;;2443232;;;Sint-Truidersteenweg;79;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4867181;BL0119;1;;4867181;Burgemeestersstraat 21 + 23 + 25;;Burgemeester Bollenstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437098;BL0106;1;;2437098;;;Runkstersteenweg;126;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2443234;BL0101;1;;2443234;;;Sint-Truidersteenweg;81;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2408222;BL0119;1;;2408222;;;Koningin Astridlaan;3;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437101;BL0106;1;;2437101;;;Runkstersteenweg;128;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2443236;BL0101;1;;2443236;;;Sint-Truidersteenweg;83;;;2018-08-21;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;4867243;BL0121;1;;4867243;;;Gazometerstraat;1;;;2019-05-09 12:05:15;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2437105;BL0106;1;;2437105;;;Runkstersteenweg;130;;;2019-05-08 14:23:41;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2443245;BL0101;1;;2443245;;;Sint-Truidersteenweg;87;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427773;BL0121;1;;2427773;;;Manteliusstraat;3;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437110;BL0106;1;;2437110;;;Runkstersteenweg;132;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2443249;BL0101;1;;2443249;;;Sint-Truidersteenweg;89;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437119;BL0106;1;;2437119;;;Runkstersteenweg;134;;;2018-09-06;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;583810;BL0101;1;;583810;;;Sint-Truidersteenweg;91;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437123;BL0106;1;;2437123;;;Runkstersteenweg;136;;D;2018-09-12;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;707232;BL0101;1;;707232;8410404;Vooruitzichtstraat 50_Sint-Truiderssteenweg 93;Sint-Truidersteenweg;93;;XC;2018-06-15;Kevin Dekens;MDU;1;0;1;2;BUILDING template
+HASSELT - FH01;2437127;BL0106;1;;2437127;;;Runkstersteenweg;138;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;707485;BL0101;1;;707485;;;Sint-Truidersteenweg;67;A;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416849;BL0112;1;;2416849;;;Harmoniestraat;29;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437133;BL0106;1;;2437133;;;Runkstersteenweg;140;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427792;BL0121;1;;2427792;;;Manteliusstraat;5;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2416852;BL0112;1;;2416852;;;Harmoniestraat;31;;;2018-08-26;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707136;BL0107;1;;707136;;;Harmoniestraat;45;;D;2018-08-21;Geert Stockman;MDU;0;8;1;9;BUILDING template
+HASSELT - FH01;707403;BL0113;1;;707403;;;Boomkensstraat;1;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707383;BL0112;1;;707383;;;Harmoniestraat;33;;D;2018-08-21;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;707137;BL0107;1;;707137;;;Harmoniestraat;47;;D;2018-08-21;Geert Stockman;MDU;0;8;1;9;BUILDING template
+HASSELT - FH01;2409735;BL0113;1;;2409735;;;Boomkensstraat;3;;D;2018-09-16;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;707382;BL0112;1;;707382;;;Harmoniestraat;35;;;2018-08-21;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707135;BL0107;1;;707135;;;Harmoniestraat;49;;D;2018-08-21;Geert Stockman;MDU;0;8;1;9;BUILDING template
+HASSELT - FH01;2409738;BL0113;1;;2409738;;;Boomkensstraat;5;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;707374;BL0112;1;;707374;;;Kanunnik Eybenstraat;2;;D;2018-03-21 14:40:02;Kevin Dekens;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;707122;BL0107;1;;707122;;;Kanunnik Eybenstraat;1;;;2018-08-26;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2409739;BL0113;1;;2409739;;;Boomkensstraat;7;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707375;BL0112;1;;707375;;;Kanunnik Eybenstraat;4;;D;2018-03-21 14:41:02;Kevin Dekens;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;2449535;BL0107;1;;2449535;;;Kanunnik Eybenstraat;3;;;2019-05-09 08:00:53;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;707198;BL0113;1;;707198;;;Boomkensstraat;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707376;BL0112;1;;707376;;;Kanunnik Eybenstraat;6;;F;2019-08-30;Kurt Holsteyns;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;2449537;BL0107;1;;2449537;;;Kanunnik Eybenstraat;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409743;BL0113;1;;2409743;;;Boomkensstraat;11;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707377;BL0112;1;;707377;;;Kanunnik Eybenstraat;8;;B;2018-09-12;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;707123;BL0107;1;;707123;;;Kanunnik Eybenstraat;11;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415140;BL0103;1;;2415140;;;Gaarveldstraat;62;;D;2018-08-14;Geert Stockman;MDU;1;6;0;7;BUILDING template
+HASSELT - FH01;2436837;BL0113;1;;2436837;runkstersteenweg 4 6 8 2a 2b 2c 2d 2e;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;4;;E;2019-05-29;Kust Hostyens;MDU;0;32;3;35;BUILDING template
+HASSELT - FH01;2436856;BL0112;1;;2436856;;;Runkstersteenweg;28;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2449541;BL0107;1;;2449541;;;Kanunnik Eybenstraat;13;;D;2019-05-09;Dieu Jocelin;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2415148;BL0103;1;;2415148;;;Gaarveldstraat;68;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2436840;BL0113;1;;2436840;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;6;;E;2018-09-12;Geert Stockman;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;2436860;BL0112;1;;2436860;;;Runkstersteenweg;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707128;BL0107;1;;707128;;;Pastoor Van Dijckstraat;2;;D;2018-08-19;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2415153;BL0103;1;;2415153;;;Gaarveldstraat;70;;B;2018-10-01;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2436842;BL0113;1;;2436842;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;8;;E;2018-09-12;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;707131;BL0107;1;;707131;;;Pastoor Van Dijckstraat;4;;D;2018-08-19;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;2415155;BL0103;1;;2415155;;;Gaarveldstraat;72;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707393;BL0113;1;;707393;;;Runkstersteenweg;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2444512;BL0107;1;;2444512;;;Pastoor Van Dijckstraat;6;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2415158;BL0103;1;;2415158;;;Gaarveldstraat;74;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436847;BL0113;1;;2436847;;;Runkstersteenweg;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707103;BL0107;1;;707103;;;Runkstersteenweg;84;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415161;BL0103;1;;2415161;;;Gaarveldstraat;76;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436849;BL0113;1;;2436849;;;Runkstersteenweg;16;;D;2018-08-19;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2436994;BL0107;1;;2436994;;;Runkstersteenweg;86;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4896580;BL0103;1;;4896580;;;Gaarveldstraat;78;;C;2018-06-06;Abdelmalek Lamkoref;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;4903256;BL0113;1;;4903256;;;Runkstersteenweg;18;;D;2019-05-08;Filip Van Geel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2437002;BL0107;1;;2437002;;;Runkstersteenweg;88;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415168;BL0103;1;;2415168;;;Gaarveldstraat;82;;C;2018-08-14;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2436850;BL0113;1;;2436850;;;Runkstersteenweg;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437009;BL0107;1;;2437009;;;Runkstersteenweg;90;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415170;BL0103;1;;2415170;;;Gaarveldstraat;84;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707396;BL0110;1;;707396;Huisnummer 62 64 en 66;Boomkensstraat 62-64-66;Boomkensstraat;66;;D;2019-05-09;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;2437018;BL0107;1;;2437018;8420216;Runkstersteenweg 92-94;Runkstersteenweg;92;;D;2018-08-19;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2415172;BL0103;1;;2415172;;;Gaarveldstraat;86;;;2018-08-14;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2409783;BL0110;1;;2409783;;;Boomkensstraat;68;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901598;BL0107;1;;4901598;8420216;Runkstersteenweg 92-94;Runkstersteenweg;94;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;2415175;BL0103;1;;2415175;;;Gaarveldstraat;88;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4204605;BL0110;1;;4204605;;;Boomkensstraat;70;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437031;BL0107;1;;2437031;;;Runkstersteenweg;96;;;2018-08-19;Geert Stockman;SDU;1;;0;1;BUILDING template
+HASSELT - FH01;3992071;BL0103;1;;3992071;;;Gaarveldstraat;90;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2409786;BL0110;1;;2409786;;;Boomkensstraat;72;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437041;BL0107;1;;2437041;;;Runkstersteenweg;98;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415180;BL0103;1;;2415180;;;Gaarveldstraat;92;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409787;BL0110;1;;2409787;;;Boomkensstraat;74;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4867201;BL0121;1;;4867201;;;Manteliusstraat;7;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937624;BL0107;1;;3937624;;;Runkstersteenweg;100;;D;2018-08-19;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2415184;BL0103;1;;2415184;;;Gaarveldstraat;94;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409790;BL0110;1;;2409790;;;Boomkensstraat;76;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4867205;BL0121;1;;4867205;;;Manteliusstraat;9;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937625;BL0107;1;;3937625;;;Runkstersteenweg;102;;D;2018-08-19;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2415186;BL0103;1;;2415186;;;Gaarveldstraat;96;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409793;BL0110;1;;2409793;;;Boomkensstraat;78;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427819;BL0121;1;;2427819;;;Manteliusstraat;11;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437058;BL0107;1;;2437058;;;Runkstersteenweg;104;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937245;BL0110;1;;3937245;;;Boomkensstraat;80;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427834;BL0121;1;;2427834;;;Manteliusstraat;13;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707045;BL0107;1;;707045;;;Runkstersteenweg;106;;D;2018-08-19;Geert Stockman;MDU;0;12;0;12;BUILDING template
+HASSELT - FH01;707094;BL0105;1;;707094;;;Runkstersteenweg;204;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707217;BL0110;1;;707217;;;Boomkensstraat;82;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427845;BL0121;1;;2427845;;;Manteliusstraat;15;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707111;BL0105;1;;707111;;;Gaarveldstraat;104;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707088;BL0105;1;;707088;;;Sint-Hubertusplein;1;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409796;BL0110;1;;2409796;;;Boomkensstraat;84;;;2020-06-16;Jo De Clippel;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2427856;BL0121;1;;2427856;;;Manteliusstraat;17;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415191;BL0105;1;;2415191;;;Gaarveldstraat;106;;D;2018-09-16;Geert Stockman;MDU;1;2;1;4;BUILDING template
+HASSELT - FH01;707084;BL0105;1;;707084;;;Sint-Hubertusplein;3;;D;2018-08-28;Geert Stockman;MDU;1;4;1;6;BUILDING template
+HASSELT - FH01;707480;BL0110;1;;707480;;;Fonteinstraat;62;;;2018-04-18 09:36:15;;SDU;;;;;BUILDING template
+HASSELT - FH01;707339;BL0102;1;;707339;;;Torenstraat;8;;D;2018-08-18;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2427863;BL0121;1;;2427863;;;Manteliusstraat;19;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415193;BL0105;1;;2415193;;;Gaarveldstraat;108;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415046;BL0110;1;;2415046;;;Fonteinstraat;64;;;2018-04-18 09:57:34;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937669;BL0102;1;;3937669;;;Torenstraat;10;;D;2018-08-14;Olivier Collignon;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;707225;BL0109;1;;707225;;;Gaarveldstraat;2;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4867221;BL0121;1;;4867221;;;Manteliusstraat;25;;;2018-05-30;Youssef Abdellaoui;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;4048409;BL0105;1;;4048409;;;Gaarveldstraat;110;;E;2018-03-13 12:04:03;Kevin Dekens;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2415050;BL0110;1;;2415050;;;Fonteinstraat;66;;;2018-04-18 09:57:35;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442750;BL0102;1;;2442750;;;Torenstraat;12;;D;2018-08-14;Olivier Collignon;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;3956865;BL0109;1;;3956865;;;Gaarveldstraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427883;BL0121;1;;2427883;;;Manteliusstraat;27;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415197;BL0105;1;;2415197;;;Gaarveldstraat;114;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415052;BL0110;1;;2415052;;;Fonteinstraat;68;;;2018-04-18 09:57:36;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442754;BL0102;1;;2442754;;;Torenstraat;14;;D;2018-08-14;Geert Stockman;MDU;1;7;0;8;BUILDING template
+HASSELT - FH01;2415084;BL0109;1;;2415084;;;Gaarveldstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427885;BL0121;1;;2427885;;;Manteliusstraat;29;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901476;BL0105;1;;4901476;;;Gaarveldstraat;116;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707481;BL0110;1;;707481;;;Fonteinstraat;70;;;2018-04-18 09:57:37;;SDU;;;;;BUILDING template
+HASSELT - FH01;707206;BL0102;1;;707206;9163878;Torenstraat 22-24-26;Torenstraat;22;;XA;2019-09-05;Kurt Holsteyns;MDU;0;11;1;12;BUILDING template
+HASSELT - FH01;2415087;BL0109;1;;2415087;;;Gaarveldstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427897;BL0121;1;;2427897;;;Manteliusstraat;31;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427907;BL0121;1;;2427907;;;Manteliusstraat;33;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1458269;BL0113;1;;1458269;;Woutersstraat 1-3-5-7-11-13-15;Woutersstraat;5;;C;2019-11-05;Jo De Clippel;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2415199;BL0105;1;;2415199;;;Gaarveldstraat;118;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707233;BL0110;1;;707233;;fonteinstraat 72-74-76;Fonteinstraat;72;;B;2019-06-07;Kust Hostyens;MDU;0;24;2;26;BUILDING template
+HASSELT - FH01;2415090;BL0109;1;;2415090;;;Gaarveldstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427912;BL0121;1;;2427912;;;Manteliusstraat;35;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415200;BL0105;1;;2415200;;;Gaarveldstraat;120;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415058;BL0110;1;;2415058;;fonteinstraat 72-74-76;Fonteinstraat;74;;;2018-04-18 09:57:38;;MDU;;;;;BUILDING template
+HASSELT - FH01;2415093;BL0109;1;;2415093;;;Gaarveldstraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427920;BL0121;1;;2427920;;;Manteliusstraat;37;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901479;BL0105;1;;4901479;;;Gaarveldstraat;122;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1294204;BL0110;1;;1294204;;fonteinstraat 72-74-76;Fonteinstraat;76;;B;2018-08-28;Geert Stockman;MDU;0;10;0;10;BUILDING template
+HASSELT - FH01;2415095;BL0109;1;;2415095;;;Gaarveldstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427930;BL0121;1;;2427930;;;Manteliusstraat;39;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415201;BL0105;1;;2415201;;;Gaarveldstraat;124;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415098;BL0109;1;;2415098;;;Gaarveldstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427945;BL0121;1;;2427945;;;Manteliusstraat;41;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415202;BL0105;1;;2415202;;;Gaarveldstraat;126;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415103;BL0109;1;;2415103;;;Gaarveldstraat;18;;;2018-07-24 12:33:42;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427958;BL0121;1;;2427958;;;Manteliusstraat;43;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415203;BL0105;1;;2415203;;;Gaarveldstraat;128;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415107;BL0109;1;;2415107;;;Gaarveldstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4867240;BL0121;1;;4867240;;;Manteliusstraat;45;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427963;BL0121;1;;2427963;;;Manteliusstraat;47;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415205;BL0105;1;;2415205;;;Gaarveldstraat;130;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415111;BL0109;1;;2415111;;;Gaarveldstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2427967;BL0121;1;;2427967;;;Manteliusstraat;49;;;16/nov/17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446510;BL0121;1;;2446510;;;Vrijwilligersplein;3;;;2019-05-09 12:05:24;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2415207;BL0105;1;;2415207;;;Gaarveldstraat;132;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903163;BL0109;1;;4903163;;;Gaarveldstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653673;BL0114;1;;653673;9177045;de Schiervellaan 13_Bampslaan 1;Bampslaan;1;;XA;2019-09-04;Kurt Holsteyns;MDU;1;10;1;12;BUILDING template
+HASSELT - FH01;653425;BL0115;1;;653425;;;Bampslaan;39;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707109;BL0105;1;;707109;;;Gaarveldstraat;134;;D;2018-09-16;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2415113;BL0109;1;;2415113;;;Gaarveldstraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408527;BL0115;1;;2408527;;;Bampslaan;41;;;2019-05-09 11:09:47;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2408529;BL0115;1;;2408529;;;Bampslaan;43;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;707104;BL0105;1;;707104;;;Olmenstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446205;BL0101;1;;2446205;;;Vooruitzichtstraat;42;;B;2018-09-02;Geert Stockman;MDU;12;0;0;12;BUILDING template
+HASSELT - FH01;2415115;BL0109;1;;2415115;;;Gaarveldstraat;28;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408530;BL0115;1;;2408530;;;Bampslaan;45;;;2019-05-09;Dieu Jocelin;SDU;1;1;0;1;BUILDING template
+HASSELT - FH01;677699;BL0115;1;;677699;;;Bampslaan;47;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2432473;BL0105;1;;2432473;;;Olmenstraat;12;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446210;BL0101;1;;2446210;;;Vooruitzichtstraat;44;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415116;BL0109;1;;2415116;;;Gaarveldstraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408533;BL0115;1;;2408533;;;Bampslaan;49;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2408534;BL0115;1;;2408534;;;Bampslaan;51;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2432476;BL0105;1;;2432476;;;Olmenstraat;14;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446212;BL0101;1;;2446212;;;Vooruitzichtstraat;46;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903166;BL0109;1;;4903166;;;Gaarveldstraat;32;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653426;BL0115;1;;653426;;;Bampslaan;53;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2428436;BL0115;1;;2428436;;;Frans Massystraat;2;;D;2019-12-02;Jo De Clippel;MDU;0;14;1;15;BUILDING template
+HASSELT - FH01;2432480;BL0105;1;;2432480;;;Olmenstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2446213;BL0101;1;;2446213;;;Vooruitzichtstraat;48;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903168;BL0109;1;;4903168;;;Gaarveldstraat;34;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653414;BL0115;1;;653414;;;Frans Massystraat;4;;D;2019-12-03;Jo De Clippel;MDU;1;1;1;3;BUILDING template
+HASSELT - FH01;2428481;BL0115;1;;2428481;;;Frans Massystraat;20;;D;2018-10-01;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2432484;BL0105;1;;2432484;;;Olmenstraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707190;BL0101;1;;707190;8410404;Vooruitzichtstraat 50_Sint-Truiderssteenweg 93;Vooruitzichtstraat;50;;C;2018-06-15;Abdelmalek Lamkoref;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;4903171;BL0109;1;;4903171;;;Gaarveldstraat;36;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2428486;BL0115;1;;2428486;;;Frans Massystraat;24;;D;2019-06-05;Kust Hostyens;MDU;2;2;0;4;BUILDING template
+HASSELT - FH01;2428493;BL0115;1;;2428493;;;Frans Massystraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901686;BL0105;1;;4901686;;;Olmenstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415118;BL0108;1;;2415118;;;Gaarveldstraat;35;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415119;BL0109;1;;2415119;;;Gaarveldstraat;38;;D;2018-09-03;Geert Stockman;MDU;0;5;0;5;BUILDING template
+HASSELT - FH01;2428496;BL0115;1;;2428496;;;Frans Massystraat;30;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;653420;BL0115;1;;653420;;;Geraetsstraat;2;;;2018-09-02;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2415710;BL0115;1;;2415710;;;Geraetsstraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707105;BL0105;1;;707105;;;Olmenstraat;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707333;BL0109;1;;707333;;;Boomkensstraat;43;;D;2018-08-15;Olivier Collignon;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;3937668;BL0109;1;;3937668;;;Torenstraat;2;;D;2018-05-25;Youssef Abdellaoui;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2415712;BL0115;1;;2415712;;;Geraetsstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415714;BL0115;1;;2415714;;;Geraetsstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415721;BL0115;1;;2415721;9185368;Geraetsstraat 18-20;Geraetsstraat;18;;B;2018-05-03;Youssef Abdellaoui;MDU;2;3;1;6;BUILDING template
+HASSELT - FH01;707106;BL0105;1;;707106;;;Olmenstraat;24;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707197;BL0109;1;;707197;;;Boomkensstraat;45;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707338;BL0109;1;;707338;;;Torenstraat;4;;D;2018-06-14;Abdelmalek Lamkoref;MDU;0;3;1;4;BUILDING template
+HASSELT - FH01;2415724;BL0115;1;;2415724;9185368;Geraetsstraat 18-20;Geraetsstraat;20;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;4044631;BL0115;1;;4044631;;;Geraetsstraat;22;;;2018-10-01;Geert Stockman;SDU;1;;;1;BUILDING template
+HASSELT - FH01;2432493;BL0105;1;;2432493;;;Olmenstraat;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4897494;BL0109;1;;4897494;;;Boomkensstraat;47;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707401;BL0111;1;;707401;;;Boomkensstraat;13;;;2019-09-09;Kurt Holsteyns;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;653418;BL0115;1;;653418;;;Geraetsstraat;24;;;17-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;653407;BL0115;1;;653407;;;Koningin Astridlaan;32;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901689;BL0105;1;;4901689;;;Olmenstraat;28;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409770;BL0109;1;;2409770;;;Boomkensstraat;49;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409749;BL0111;1;;2409749;;;Boomkensstraat;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436861;BL0112;1;;2436861;;;Runkstersteenweg;32;;;2019-05-08 14:06:28;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2408247;BL0115;1;;2408247;;Koningin Astridlaan 34-36;Koningin Astridlaan;34;;E;2018-10-01;Geert Stockman;MDU;3;1;0;4;BUILDING template
+HASSELT - FH01;4852717;BL0115;1;;4852717;;Koningin Astridlaan 34-36;Koningin Astridlaan;36;;E;2018-10-01;Geert Stockman;MDU;3;1;0;4;BUILDING template
+HASSELT - FH01;2432496;BL0105;1;;2432496;;;Olmenstraat;30;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409772;BL0109;1;;2409772;;;Boomkensstraat;51;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409751;BL0111;1;;2409751;;;Boomkensstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903350;BL0112;1;;4903350;;;Runkstersteenweg;34;;D;2020-06-22;Jo De Clippel;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2408250;BL0115;1;;2408250;;;Koningin Astridlaan;38;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2408252;BL0115;1;;2408252;7072278;;Koningin Astridlaan;40;;D;2018-09-24;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;706712;BL0105;1;;706712;;;Olmenstraat;32;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937243;BL0109;1;;3937243;;;Boomkensstraat;53;;D;2019-09-09;Kurt Holsteyns;MDU;3;4;0;7;BUILDING template
+HASSELT - FH01;2409752;BL0111;1;;2409752;;;Boomkensstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903355;BL0112;1;;4903355;;;Runkstersteenweg;38;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937214;BL0115;1;;3937214;;;Koningin Astridlaan;42;;;2018-09-24;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;653405;BL0115;1;;653405;;;Koningin Astridlaan;44;;;2018-04-24 12:35:03;Kevin Dekens;SDU;2;0;0;2;BUILDING template
+HASSELT - FH01;2432499;BL0105;1;;2432499;;;Olmenstraat;34;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409754;BL0111;1;;2409754;;;Boomkensstraat;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903356;BL0112;1;;4903356;;;Runkstersteenweg;40;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;25122;BL0115;1;;25122;;;Koningin Astridlaan;46;;;2018-09-24;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2408258;BL0115;1;;2408258;;;Koningin Astridlaan;48;;D;2019-12-03;Jo De Clippel;MDU;1;14;1;16;BUILDING template
+HASSELT - FH01;2432501;BL0105;1;;2432501;;;Olmenstraat;36;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409757;BL0111;1;;2409757;;;Boomkensstraat;23;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436879;BL0112;1;;2436879;;;Runkstersteenweg;42;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2440365;BL0115;1;;2440365;;;Stationsplein;1;;D;2018-10-11;Geert Stockman;MDU;1;0;1;2;BUILDING template
+HASSELT - FH01;2440386;BL0115;1;;2440386;;;Stationsplein;5;;D;2019-05-09;Dieu Jocelin;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;3937566;BL0105;1;;3937566;;;Olmenstraat;38;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707397;BL0111;1;;707397;;;Boomkensstraat;25;;;2018-09-16;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2436890;BL0112;1;;2436890;;;Runkstersteenweg;44;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2440405;BL0115;1;;2440405;;;Stationsplein;7;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2440409;BL0115;1;;2440409;;;Stationsplein;9;;;2019-05-09 11:25:02;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;4901702;BL0105;1;;4901702;;;Olmenstraat;40;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409760;BL0111;1;;2409760;;;Boomkensstraat;27;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903260;BL0113;1;;4903260;;;Runkstersteenweg;22;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4903361;BL0112;1;;4903361;;;Runkstersteenweg;46;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2440411;BL0115;1;;2440411;;;Stationsplein;11;;B;2018-10-05;Geert Stockman;MDU;5;0;2;7;BUILDING template
+HASSELT - FH01;2440415;BL0115;1;;2440415;;;Stationsplein;13;;D;2018-10-11;Geert Stockman;MDU;1;3;0;4;BUILDING template
+HASSELT - FH01;707107;BL0105;1;;707107;;;Olmenstraat;42;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707399;BL0111;1;;707399;;;Boomkensstraat;29;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4069470;BL0113;1;;4069470;;;Runkstersteenweg;24;;C;2018-03-08 13:55:22;Kevin Dekens;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2436895;BL0112;1;;2436895;;;Runkstersteenweg;48;;D;2019-05-08;Filip Van Geel;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;2440421;BL0115;1;;2440421;;;Stationsplein;15;;D;2018-10-11;Geert Stockman;MDU;1;2;0;3;BUILDING template
+HASSELT - FH01;2432505;BL0105;1;;2432505;;;Olmenstraat;44;;B;2018-09-16;Geert Stockman;MDU;0;5;1;6;BUILDING template
+HASSELT - FH01;707398;BL0111;1;;707398;;;Boomkensstraat;31;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707392;BL0113;1;;707392;;;Runkstersteenweg;26;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937621;BL0112;1;;3937621;;;Runkstersteenweg;50;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2440427;BL0115;1;;2440427;;;Stationsplein;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437165;BL0105;1;;2437165;;;Runkstersteenweg;170;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409765;BL0111;1;;2409765;;;Boomkensstraat;33;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436818;BL0113;1;;2436818;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;2;A;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;4903370;BL0112;1;;4903370;;;Runkstersteenweg;52;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;677700;BL0115;1;;677700;;;Stationsplein;19;;;2018-10-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;2437166;BL0105;1;;2437166;;;Runkstersteenweg;172;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409767;BL0111;1;;2409767;;;Boomkensstraat;35;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436822;BL0113;1;;2436822;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;2;B;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;4063304;BL0112;1;;4063304;;;Runkstersteenweg;54;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;5430012;BL0115;1;;5430012;;;Stationsplein;21;;;2019-05-09;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2437173;BL0105;1;;2437173;;;Runkstersteenweg;174;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2409768;BL0111;1;;2409768;;;Boomkensstraat;37;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436825;BL0113;1;;2436825;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;2;C;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;2436908;BL0112;1;;2436908;;;Runkstersteenweg;56;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442323;BL0119;1;;2442323;;;Thonissenlaan;42;;XA;2019-09-09;Kurt Holsteyns;MDU;2;10;1;13;BUILDING template
+HASSELT - FH01;2437177;BL0105;1;;2437177;;;Runkstersteenweg;176;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707334;BL0111;1;;707334;;;Boomkensstraat;39;;D;2018-09-16;Geert Stockman;MDU;1;1;0;2;BUILDING template
+HASSELT - FH01;2436830;BL0113;1;;2436830;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;2;D;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;4034912;BL0112;1;;4034912;;;Runkstersteenweg;58;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442341;BL0119;1;;2442341;7072282;;Thonissenlaan;46;;X;2019-08-21;Kurt Holsteyns;MDU;2;11;1;14;BUILDING template
+HASSELT - FH01;2437182;BL0105;1;;2437182;;;Runkstersteenweg;178;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;708098;BL0103;1;;708098;;;Torenstraat;5;;D;2018-05-28;Abdelmalek Lamkoref;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;707226;BL0111;1;;707226;;;Gaarveldstraat;1;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436834;BL0113;1;;2436834;10347758;Runkstersteenweg 4-6-8-2A-2B-2C-2D-2E;Runkstersteenweg;2;E;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;2436912;BL0112;1;;2436912;;;Runkstersteenweg;60;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145399;BL0119;1;;1145399;;;Burgemeester Bollenstraat;1;;D;2018-09-24;Geert Stockman;MDU;1;6;0;7;BUILDING template
+HASSELT - FH01;2437183;BL0105;1;;2437183;;;Runkstersteenweg;180;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442743;BL0103;1;;2442743;;;Torenstraat;7;;D;2018-03-19 16:24:34;Kevin Dekens;MDU;0;1;0;1;BUILDING template
+HASSELT - FH01;1319532;BL0111;1;;1319532;;;Gaarveldstraat;3;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;707427;BL0113;1;;707427;;;Spoorwegstraat;1;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436918;BL0112;1;;2436918;;;Runkstersteenweg;62;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145401;BL0119;1;;1145401;;;Burgemeester Bollenstraat;5;;D;2018-09-12;Geert Stockman;MDU;0;6;0;0;BUILDING template
+HASSELT - FH01;2437184;BL0105;1;;2437184;;;Runkstersteenweg;182;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442745;BL0103;1;;2442745;;;Torenstraat;9;;D;2018-03-19 16:30:07;Kevin Dekens;MDU;0;11;1;12;BUILDING template
+HASSELT - FH01;2415085;BL0111;1;;2415085;;;Gaarveldstraat;7;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707428;BL0113;1;;707428;;;Spoorwegstraat;2;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436923;BL0112;1;;2436923;;;Runkstersteenweg;64;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1145402;BL0119;1;;1145402;;;Burgemeester Bollenstraat;7;;D;2018-09-01;Geert Stockman;MDU;0;4;0;4;BUILDING template
+HASSELT - FH01;2437186;BL0105;1;;2437186;;;Runkstersteenweg;184;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442748;BL0103;1;;2442748;;;Torenstraat;11;;D;2018-03-19 16:28:32;Kevin Dekens;MDU;0;8;1;9;BUILDING template
+HASSELT - FH01;707426;BL0113;1;;707426;;;Spoorwegstraat;3;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436928;BL0112;1;;2436928;;;Runkstersteenweg;66;;;2019-05-08;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;70244;BL0120;1;;70244;;;Thonissenlaan;54;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901708;BL0105;1;;4901708;;;Runkstersteenweg;186;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2418689;BL0105;1;;2418689;;;Sint-Hubertusplein;5;;D;2018-08-28;Geert Stockman;MDU;0;0;0;0;BUILDING template
+HASSELT - FH01;708096;BL0103;1;;708096;;;Torenstraat;13;;D;2018-03-19 16:26:03;Kevin Dekens;MDU;0;7;1;8;BUILDING template
+HASSELT - FH01;707425;BL0113;1;;707425;;;Spoorwegstraat;4;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707048;BL0112;1;;707048;;;Runkstersteenweg;70;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442385;BL0120;1;;2442385;;;Thonissenlaan;56;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2437194;BL0105;1;;2437194;;;Runkstersteenweg;188;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2418699;BL0105;1;;2418699;;;Sint-Hubertusplein;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;709220;BL0103;1;;709220;;;Torenstraat;15;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707424;BL0113;1;;707424;;;Spoorwegstraat;5;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707047;BL0112;1;;707047;;;Runkstersteenweg;72;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442396;BL0120;1;;2442396;;;Thonissenlaan;58;;;2018-03-13 12:29:18;Kevin Dekens;SDU;0;;0;1;BUILDING template
+HASSELT - FH01;2437204;BL0105;1;;2437204;;;Runkstersteenweg;190;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707085;BL0105;1;;707085;;;Sint-Hubertusplein;17;;D;2018-09-01;Geert Stockman;MDU;2;6;0;8;BUILDING template
+HASSELT - FH01;709219;BL0103;1;;709219;;;Torenstraat;17;;D;2018-08-15;Olivier Collignon;MDU;1;7;0;8;BUILDING template
+HASSELT - FH01;707423;BL0113;1;;707423;;;Spoorwegstraat;6;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707391;BL0112;1;;707391;;;Runkstersteenweg;74;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442410;BL0120;1;;2442410;;;Thonissenlaan;60;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4901710;BL0105;1;;4901710;;;Runkstersteenweg;192;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707087;BL0105;1;;707087;;;Sint-Hubertusplein;19;;D;2018-08-28;Geert Stockman;MDU;2;6;0;8;BUILDING template
+HASSELT - FH01;707422;BL0113;1;;707422;;;Spoorwegstraat;7;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2436964;BL0112;1;;2436964;;;Runkstersteenweg;76;;D;2018-03-19 13:39:38;Kevin Dekens;MDU;0;6;0;6;BUILDING template
+HASSELT - FH01;2442413;BL0120;1;;2442413;;;Thonissenlaan;62;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2437209;BL0105;1;;2437209;;;Runkstersteenweg;194;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707086;BL0105;1;;707086;;;Sint-Hubertusplein;21;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442764;BL0102;1;;2442764;9163878;Torenstraat 22-24-26;Torenstraat;24;;;2019-09-05 13:26:53;Kurt Holsteyns;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2442415;BL0120;1;;2442415;;;Thonissenlaan;64;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707421;BL0113;1;;707421;;;Spoorwegstraat;8;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448181;BL0112;1;;2448181;;;Woutersstraat;32;;;2019-05-09;Dieu Jocelin;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;2442417;BL0120;1;;2442417;;;Thonissenlaan;66;;;2019-05-09 12:10:22;Dieu Jocelin;SDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2437213;BL0105;1;;2437213;;;Runkstersteenweg;196;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415124;BL0106;1;;2415124;;;Gaarveldstraat;47;;D;2018-09-03;Geert Stockman;MDU;0;8;0;8;BUILDING template
+HASSELT - FH01;2442769;BL0102;1;;2442769;9163878;Torenstraat 22-24-26;Torenstraat;26;;;2019-09-05;Kurt Holsteyns;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;2442426;BL0120;1;;2442426;;;Thonissenlaan;68;;D;2018-05-16 11:35:04;Youssef Abdellaoui;MDU;1;1;1;3;BUILDING template
+HASSELT - FH01;707420;BL0113;1;;707420;;;Spoorwegstraat;9;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1462011;BL0112;1;;1462011;;;Woutersstraat;34;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;70247;BL0120;1;;70247;9094362;Thonissenlaan 70-78-80;Thonissenlaan;70;;X;2019-09-09;Kurt Holsteyns;MDU;0;0;0;0;BUILDING template
+HASSELT - FH01;2437217;BL0105;1;;2437217;;;Runkstersteenweg;198;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707134;BL0106;1;;707134;;;Gaarveldstraat;49;;;2019-05-08 13:20:57;Filip Van Geel;SDU;0;1;0;1;BUILDING template
+HASSELT - FH01;3937672;BL0102;1;;3937672;9163879;Torenstraat 28-30-32;Torenstraat;28;;;2019-09-05 13:55:39;Kurt Holsteyns;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;4846707;BL0120;1;;4846707;9094362;Thonissenlaan 70-78-80;Thonissenlaan;78;;;2018-09-01;Geert Stockman;MDU;;;;;BUILDING template
+HASSELT - FH01;707419;BL0113;1;;707419;;;Spoorwegstraat;10;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448184;BL0112;1;;2448184;;;Woutersstraat;36;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;4846710;BL0120;1;;4846710;9094362;Thonissenlaan 70-78-80;Thonissenlaan;80;;;16-nov-17;;MDU;;;;;BUILDING template
+HASSELT - FH01;4901713;BL0105;1;;4901713;;;Runkstersteenweg;200;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2415130;BL0106;1;;2415130;;;Gaarveldstraat;51;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707402;BL0110;1;;707402;;;Fonteinstraat;86;;;2018-04-18 09:57:39;;SDU;;;;;BUILDING template
+HASSELT - FH01;5446987;BL0102;1;;5446987;9163879;Torenstraat 28-30-32;Torenstraat;30;;;2019-09-05;Kurt Holsteyns;MDU;1;0;0;1;BUILDING template
+HASSELT - FH01;70249;BL0120;1;;70249;;;Thonissenlaan;82;;;2018-09-01;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707418;BL0113;1;;707418;;;Spoorwegstraat;16;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448188;BL0112;1;;2448188;;;Woutersstraat;40;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937660;BL0120;1;;3937660;;;Thonissenlaan;86;;D;2018-09-01;Geert Stockman;MDU;1;1;1;3;BUILDING template
+HASSELT - FH01;2437220;BL0105;1;;2437220;;;Runkstersteenweg;202;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937674;BL0102;1;;3937674;9163879;Torenstraat 28-30-32;Torenstraat;32;;XA;2019-09-05;Kurt Holsteyns;MDU;0;11;1;12;BUILDING template
+HASSELT - FH01;2442440;BL0120;1;;2442440;;;Thonissenlaan;88;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707417;BL0113;1;;707417;;;Spoorwegstraat;17;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;1445008;BL0112;1;;1445008;;;Woutersstraat;42;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;70251;BL0120;1;;70251;9085981;Thonissenlaan 90-92;Thonissenlaan;90;;D;2020-01-06;Jo De Clippel;MDU;0;3;1;4;BUILDING template
+HASSELT - FH01;2442776;BL0102;1;;2442776;;;Torenstraat;34;;XA;2019-09-05;Kurt Holsteyns;MDU;0;11;1;12;BUILDING template
+HASSELT - FH01;70254;BL0120;1;;70254;9085981;Thonissenlaan 90-92;Thonissenlaan;92;;D;2020-01-06;Jo De Clippel;MDU;2;0;2;4;BUILDING template
+HASSELT - FH01;707416;BL0113;1;;707416;;;Spoorwegstraat;18;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2448194;BL0112;1;;2448194;;;Woutersstraat;44;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442378;BL0120;1;;2442378;;;Thonissenlaan;54;A;D;2018-09-12;Geert Stockman;MDU;0;7;0;7;BUILDING template
+HASSELT - FH01;2438355;BL0110;1;;2438355;;;Schoolstraat;11;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442390;BL0120;1;;2442390;;;Thonissenlaan;56;A;;2018-09-12;Geert Stockman;SDU;;;;;BUILDING template
+HASSELT - FH01;707415;BL0113;1;;707415;;;Spoorwegstraat;19;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;707430;BL0112;1;;707430;;;Woutersstraat;46;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;2442401;BL0120;1;;2442401;;;Thonissenlaan;58;A;D;2020-06-16;Jo De Clippel;MDU;0;9;1;10;BUILDING template
+HASSELT - FH01;2438360;BL0110;1;;2438360;;;Schoolstraat;13;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937543;BL0121;1;;3937543;;;Manteliusstraat;21;;D;2018-09-01;Geert Stockman;MDU;0;3;0;3;BUILDING template
+HASSELT - FH01;707414;BL0113;1;;707414;;;Spoorwegstraat;20;;;16-nov-17;;SDU;;;;;BUILDING template
+HASSELT - FH01;3937729;BL0112;1;;3937729;;;Woutersstraat;48;;D;2018-08-26;Geert Stockman;MDU;0;2;0;2;BUILDING template
+HASSELT - FH01;4867216;BL0121;1;;4867216;;;Manteliusstraat;23;;D;2018-05-30;Youssef Abdellaoui;MDU;0;5;0;6;BUILDING template

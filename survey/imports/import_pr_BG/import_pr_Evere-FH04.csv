@@ -1,0 +1,11 @@
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
+EVERE - FH04;827996;BL0032;;971642;827996;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;191;;;;Marouane Zoubir;MDU;0;7;0;7;BUILDING template
+EVERE - FH04;5583166;BL0032;;33477940;5583166;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;193;;;;Marouane Zoubir;MDU;0;2;0;2;BUILDING template
+EVERE - FH04;827936;BL0032;;33477941;827936;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;195;A;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;827938;BL0032;;33477942;827938;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;195;B;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;827941;BL0032;;33477943;827941;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;197;A;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;NB-1140197B77115;;;;NB-1140197B77115;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;197;B;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;827947;BL0032;;33477944;827947;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;199;A;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;827949;BL0032;;33477945;827949;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;199;B;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;827951;BL0032;;33477947;827951;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;201;A;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template
+EVERE - FH04;827953;BL0032;;33477948;827953;;Lindestraat 191-193-195A-195B-197A-197B-199A-199B-201A-201B;Lindestraat - Rue du Tilleul;201;B;;;Marouane Zoubir;SDU;0;1;0;1;BUILDING template

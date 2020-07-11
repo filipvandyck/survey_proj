@@ -89,22 +89,22 @@ def make_gct():
     out.info_file('Total B2 empty',total_b2_no)
     out.info_file('Total changes B1 B2',total_rft_todo)
 
-    pbi_rft_to_do['B2_new'] = pbi_rft_to_do['B2_new'].dt.date
-    pbi_rft_to_do['B2'] = pbi_rft_to_do['B2'].dt.date
-    pbi_rft_to_do['B1'] = pbi_rft_to_do['B1'].dt.date
+    pbi_rft_to_do['B2_new'] = pbi_rft_to_do['B2_new'].dt.strftime('%Y%m%d')
+    pbi_rft_to_do['B2'] = pbi_rft_to_do['B2'].dt.strftime('%Y%m%d')
+    pbi_rft_to_do['B1'] = pbi_rft_to_do['B1'].dt.strftime('%Y%m%d')
 
     #GCT_upload_W03-C-ANTWERPEN-WEST-FH01_20200705_101804
     area = pbi['Block_Name'][1]
     area = area.split('_')[0]
     area_upper = area.upper()
-#    print(area)
+    print(area)
 
-#    print(areas)
+
 
     areas = areas[areas['Zoning_Name']==area]
-
-    zoning_fid = areas['Zoning_FID'][0]
-    zoning_id = areas['Zoning_ID'][0]
+    print(areas)    
+    zoning_fid = areas['Zoning_FID'].iloc[0]
+    zoning_id = areas['Zoning_ID'].iloc[0]
 
 #    print(zoning_fid)
 #    print(zoning_id)
