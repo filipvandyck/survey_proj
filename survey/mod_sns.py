@@ -24,8 +24,9 @@ def make_sns_report():
     out.menu_header('SNS REPORT')
 
     out.info_file("Reading Planrrr data", EXPORT_FILE_PR)
-    df_pr = pd.read_csv(EXPORT_FILE_PR, delimiter=',', encoding = "ISO-8859-1", keep_default_na=False,dtype={'Opdrachtnummer': object})
+    df_pr = pd.read_csv(EXPORT_FILE_PR, delimiter=',', encoding = "ISO-8859-1", keep_default_na=False,dtype={'Opdrachtnummer': object, 'UNITS TOTAL': object})
     df_pr.columns = df_pr.columns.str.replace(' ','_')
+    df_pr['UNITS_TOTAL'] = pd.to_numeric(df_pr['UNITS_TOTAL'],errors='coerce')
 
     out.info_file("Reading SNS data", SNS_FILE)
     xls = pd.ExcelFile(SNS_FILE)
@@ -41,6 +42,11 @@ def make_sns_report():
 
 
     table_report = pd.merge(table_fis, table_fis_needed, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
+
+
+    table_report['MDU'] = pd.to_numeric(table_report['MDU'],errors='coerce')
+    table_report['MDU_TOTAL'] = pd.to_numeric(table_report['MDU_TOTAL'],errors='coerce')
+    table_report['SDU_TOTAL'] = pd.to_numeric(table_report['SDU_TOTAL'],errors='coerce')
     table_report['BUILDINGS_TOTAL'] = table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']
     table_report['FIS_PROCENT'] = table_report['MDU'] / table_report['MDU_TOTAL'] * 100
 
@@ -70,7 +76,6 @@ def make_sns_report():
     table_report = pd.merge(table_report, table_report_fts, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
     table_report = pd.merge(table_report, table_quadrants, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_SSV'))
 
-
     table_report['SSV_PROCENT'] = table_report['MDU_SSV'] / table_report['MDU_TOTAL'] * 100
 
 
@@ -78,6 +83,10 @@ def make_sns_report():
 
     filename = SNSFOLDER + 'report.csv'
     out.info_file("Writing report file", filename)
+    
+    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SDU_SSV','SSV_PROCENT']]
+
+
     csv = table_report.to_csv(filename, sep=';')
 
     out.info_file("Report data", table_report)
