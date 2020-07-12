@@ -12,6 +12,7 @@ import mod_units as units
 import mod_check_documents as check_documents
 import mod_dq as dq
 import mod_frost as frost
+import mod_sns as sns
 import os
 import glob
 
@@ -147,6 +148,7 @@ def menu_from_dict(mydict, header='',footer=''):
 def main_menu():
     menu = {
             'A': {'name' : 'Data Quality', 'action' : dq_menu},
+            'S': {'name' : 'SNS Report', 'action' : sns_menu},
             'F': {'name' : 'Frost', 'action' : frost_menu},
             'P': {'name' : 'Plannrrr Corrections', 'action' : corrections_menu},
             'C': {'name' : 'Coordinates', 'action' : coords_menu},
@@ -172,6 +174,9 @@ def dq_menu():
   #  if create_file:
   #      units.processfile(create_file)
     dq.make_diff_pr_ifh(dq.TEST_IFH,dq.TEST_PR) 
+    main_menu()
+def sns_menu():
+    sns.make_sns_report()
     main_menu()
 
 def frost_menu():
