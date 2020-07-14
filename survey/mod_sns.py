@@ -39,7 +39,13 @@ def make_sns_report():
     table_fis = pd.pivot_table(df_report,values='FIS',index='ZONE_NAME',columns='Buildingtype',aggfunc=np.sum)
     table_fis_needed = pd.pivot_table(df_report,values='FIS',index='ZONE_NAME',columns='Buildingtype',aggfunc=np.size)
 
+    df_fis = df_report[df_report['FIS']==1]     
+    df_fis_sdu = df_fis[df_fis['Buildingtype']=='SDU'] 
 
+    filename = SNSFOLDER + 'report_sdu.csv' 
+    out.info_file("Writing report SDU FIS file", filename)
+    csv = df_fis_sdu.to_csv(filename, sep=';')
+    
 
     table_report = pd.merge(table_fis, table_fis_needed, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
 

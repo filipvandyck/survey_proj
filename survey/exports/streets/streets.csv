@@ -242,7 +242,7 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 1140-17560;1140;17560;Avenue Jules Bordet - Jules Bordetlaan;W02-D-Evere-FH01
 1140-17571;1140;17571;Kolonel Bourgstraat;W02-D-Evere-FH01
 1140-17602;1140;17602;Eenboomstraat - Rue de l Arbre Unique;W02-D-Evere-FH01
-1140-17666;1140;17666;Avenue du Four ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Briques - Kareelovenlaan;W02-D-Evere-FH01
+1140-17666;1140;17666;Avenue du Four ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Briques - Kareelovenlaan;W02-D-Evere-FH01
 1140-17677;1140;17677;Avenue du Cimetiere de Bruxelles - Kerkhof van Brussellaan;W02-D-Evere-FH01
 1140-17812;1140;17812;Avenue des Anciens Combattants;W02-D-Evere-FH01
 1140-17831;1140;17831;Avenue des Communautes - Gemeenschappenlaan;W02-D-Evere-FH01
@@ -253,7 +253,7 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 1140-21;1140;21;Clos de l Argiliere - Kleigroeveerf;W02-D-Evere-FH01
 1140-2306;1140;2306;Avenue Ciceron - Cicerolaan;W02-D-Evere-FH01
 1140-24;1140;24;Clos des Briquetiers - Steenbakkerserf;W02-D-Evere-FH01
-1140-25;1140;25;Clos des Compagnons BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢tisseurs - Bouwgezellenerf;W02-D-Evere-FH01
+1140-25;1140;25;Clos des Compagnons BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢tisseurs - Bouwgezellenerf;W02-D-Evere-FH01
 1140-3046;1140;3046;Begeertenlaan - Avenue des Desirs;W02-D-Evere-FH01
 1140-36;1140;36;Willy Van Der Meerenstr - Rue Willy Van Der Meeren;W02-D-Evere-FH01
 1140-377;1140;377;Artemislaan - Avenue Artemis;W02-D-Evere-FH01
@@ -517,7 +517,7 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 1140-16304;1140;16304;Duiveltjesgaarde - Clos des Diablotins;W04-C-Evere-FH05
 1140-16716;1140;16716;Clos des Lauriers Roses;W04-C-Evere-FH05
 1140-16888;1140;16888;A. Vermeylenlaan - Avenue Auguste Vermeylen;W04-C-Evere-FH05
-1140-16892;1140;16892;FranÃÂÃÂ§ois Villonlaan - Avenue FranÃÂÃÂ§ois Villon;W04-C-Evere-FH05
+1140-16892;1140;16892;FranÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ois Villonlaan - Avenue FranÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ois Villon;W04-C-Evere-FH05
 1140-4403;1140;4403;Galgelaan - Avenue du Gibet;W04-C-Evere-FH05
 1140-8704;1140;8704;Platolaan - Avenue Platon;W04-C-Evere-FH05
 2800-10739;2800;10739;Groenstraat;W03-D-Mechelen-FH02
@@ -566,3 +566,20 @@ id;Zip;LAM_Street_Code;Street;Area_Name
 2800-8955;2800;8955;Faid Herbestraat;W03-D-Mechelen-FH02
 2800-9613;2800;9613;Willem Geetsstraat;W03-D-Mechelen-FH02
 2800-9904;2800;9904;Albert Geudensstraat;W03-D-Mechelen-FH02
+8300-13098;8300;13098;D Hooghestraat;W03-C-Knokke-Heist-FH06
+8300-13349;8300;13349;Julius Hostestraat;W03-C-Knokke-Heist-FH06
+8300-1415;8300;1415;Bayauxlaan;W03-C-Knokke-Heist-FH06
+8300-16385;8300;16385;Zeedijk-Knokke;W03-C-Knokke-Heist-FH06
+8300-16639;8300;16639;Koningslaan;W03-C-Knokke-Heist-FH06
+8300-18533;8300;18533;Leopoldlaan;W03-C-Knokke-Heist-FH06
+8300-20211;8300;20211;Meerlaan;W03-C-Knokke-Heist-FH06
+8300-20214;8300;20214;Meerminlaan;W03-C-Knokke-Heist-FH06
+8300-22183;8300;22183;Jozef Nellenslaan;W03-C-Knokke-Heist-FH06
+8300-24010;8300;24010;Paul Parmentierlaan;W03-C-Knokke-Heist-FH06
+8300-2643;8300;2643;Blancgarinstraat;W03-C-Knokke-Heist-FH06
+8300-29712;8300;29712;Sterrenlaan;W03-C-Knokke-Heist-FH06
+8300-35675;8300;35675;Zonnelaan;W03-C-Knokke-Heist-FH06
+8300-35836;8300;35836;Zwaluwenlaan;W03-C-Knokke-Heist-FH06
+8300-453;8300;453;Zeedijk-Albertstrand;W03-C-Knokke-Heist-FH06
+8300-4877;8300;4877;Canadasquare;W03-C-Knokke-Heist-FH06
+8300-7893;8300;7893;Sylvain Dupuisstraat;W03-C-Knokke-Heist-FH06

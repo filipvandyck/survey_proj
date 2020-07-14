@@ -1,0 +1,798 @@
+;ZONE_NAME;ZONING_TCHNLGY;MAINLAMKEY;POSTAL_CODE;CITY_NAME;STREET_NAME;HOUSE_NUMBER;DTP;FIC;FIS;FTS;OpdrachtID;Projectnummer;Opdrachtnummer;BG_Name;Blok;Straat;Huisnummer;Huisnummer_Toevoeging;Buildingtype;Quadrant;NR_BU;NR_LU;NR_SU;UNITS_TOTAL;Opdrachttemplate
+75501;W01-C-Charleroi-FH03;FTTH-Cu;1144596;6000.0;Charleroi;Boulevard Audent;48;;;1.0;;36783.0;CHARLEROI - FH03;1144596;;10;Boulevard Audent;48;;SDU;;1;;1;;BUILDING template
+75502;W01-C-Charleroi-FH03;FTTH-Cu;1144597;6000.0;Charleroi;Boulevard Audent;60;;;1.0;;36785.0;CHARLEROI - FH03;1144597;;10;Boulevard Audent;60;;SDU;;1;;1;;BUILDING template
+75526;W01-C-Charleroi-FH03;FTTH-Cu;1449226;6000.0;Charleroi;Boulevard Joseph Tirou;87;;;1.0;;36690.0;CHARLEROI - FH03;1449226;87 boulevard Joseph tirou;08;Boulevard Joseph Tirou;87;;SDU;;1;;3;;BUILDING template
+75527;W01-C-Charleroi-FH03;FTTH-Cu;1450042;6000.0;Charleroi;Rue de Dampremy (Charleroi);8;;;1.0;;36699.0;CHARLEROI - FH03;1450042;8 rue de dampremy;08;Rue de Dampremy;8;;SDU;;1;;1;;BUILDING template
+75534;W01-C-Charleroi-FH03;FTTH-Cu;1494157;6000.0;Charleroi;Rue de Dampremy (Charleroi);12;;;1.0;;36701.0;CHARLEROI - FH03;1494157;12 rue de dampremy;08;Rue de Dampremy;12;;SDU;;1;;2;;BUILDING template
+75543;W01-C-Charleroi-FH03;FTTH-Cu;2021437;6000.0;Charleroi;Boulevard Audent;20;;;1.0;;36771.0;CHARLEROI - FH03;2021437;;10;Boulevard Audent;20;;SDU;;1;;1;;BUILDING template
+75544;W01-C-Charleroi-FH03;FTTH-Cu;2021442;6000.0;Charleroi;Boulevard Audent;24;;;1.0;;36772.0;CHARLEROI - FH03;2021442;;10;Boulevard Audent;24;;SDU;;;1;1;;BUILDING template
+75547;W01-C-Charleroi-FH03;FTTH-Cu;2021452;6000.0;Charleroi;Boulevard Audent;30;;;1.0;;36775.0;CHARLEROI - FH03;2021452;;10;Boulevard Audent;30;;SDU;;;1;1;;BUILDING template
+75549;W01-C-Charleroi-FH03;FTTH-Cu;2021460;6000.0;Charleroi;Boulevard Audent;38;;;1.0;;36779.0;CHARLEROI - FH03;2021460;;10;Boulevard Audent;38;;SDU;;;1;1;;BUILDING template
+75551;W01-C-Charleroi-FH03;FTTH-Cu;2021464;6000.0;Charleroi;Boulevard Audent;42;;;1.0;;36781.0;CHARLEROI - FH03;2021464;;10;Boulevard Audent;42;;SDU;;;1;1;;BUILDING template
+75585;W01-C-Charleroi-FH03;FTTH-Cu;2025619;6000.0;Charleroi;Rue Dagnelies;5;;;1.0;;36659.0;CHARLEROI - FH03;2025619;5 rue dagnelies;06;Rue Dagnelies;5;;SDU;;1;;1;;BUILDING template
+75588;W01-C-Charleroi-FH03;FTTH-Cu;2025627;6000.0;Charleroi;Rue de Dampremy (Charleroi);4;;;1.0;;36697.0;CHARLEROI - FH03;2025627;4 rue de dampremy;08;Rue de Dampremy;4;;SDU;;1;;1;;BUILDING template
+75593;W01-C-Charleroi-FH03;FTTH-Cu;2025632;6000.0;Charleroi;Rue de Dampremy (Charleroi);13;;;1.0;;36570.0;CHARLEROI - FH03;2025632;13 rue de dampremy;02;Rue de Dampremy;13;;SDU;;1;;3;;BUILDING template
+75595;W01-C-Charleroi-FH03;FTTH-Cu;2025634;6000.0;Charleroi;Rue de Dampremy (Charleroi);15;;;1.0;;36571.0;CHARLEROI - FH03;2025634;15 rue de dampremy;02;Rue de Dampremy;15;;SDU;;1;;2;;BUILDING template
+75600;W01-C-Charleroi-FH03;FTTH-Cu;2025640;6000.0;Charleroi;Rue de Dampremy (Charleroi);21;;;1.0;;36574.0;CHARLEROI - FH03;2025640;;02;Rue de Dampremy;21;;SDU;;1;;1;;BUILDING template
+75605;W01-C-Charleroi-FH03;FTTH-Cu;2025646;6000.0;Charleroi;Rue de Dampremy (Charleroi);28;;;1.0;;36709.0;CHARLEROI - FH03;2025646;;08;Rue de Dampremy;28;;SDU;;1;;3;;BUILDING template
+75616;W01-C-Charleroi-FH03;FTTH-Cu;2025666;6000.0;Charleroi;Rue de Dampremy (Charleroi);49;;;1.0;;36586.0;CHARLEROI - FH03;2025666;49 rue de dampremy;02;Rue de Dampremy;49;;SDU;;1;;2;;BUILDING template
+75622;W01-C-Charleroi-FH03;FTTH-Cu;2025674;6000.0;Charleroi;Rue de Dampremy (Charleroi);60;;;1.0;;36720.0;CHARLEROI - FH03;2025674;60 rue de dampremy;08;Rue de Dampremy;60;;SDU;;1;;2;;BUILDING template
+75623;W01-C-Charleroi-FH03;FTTH-Cu;2025675;6000.0;Charleroi;Rue de Dampremy (Charleroi);62;;;1.0;;36721.0;CHARLEROI - FH03;2025675;62 rue de dampremy;08;Rue de Dampremy;62;;SDU;;1;;2;;BUILDING template
+75633;W01-C-Charleroi-FH03;FTTH-Cu;2027175;6000.0;Charleroi;Place de la Digue;10;;;1.0;;36652.0;CHARLEROI - FH03;2027175;medicentre;05;Place de la Digue;10;;SDU;C;;1;1;;BUILDING template
+75650;W01-C-Charleroi-FH03;FTTH-Cu;2027195;6000.0;Charleroi;Place de la Digue;36;;;1.0;;36556.0;CHARLEROI - FH03;2027195;36/37/38 place de la digue;02;Place de la Digue;36;;SDU;D;1;;3;;BUILDING template
+75677;W01-C-Charleroi-FH03;FTTH-Cu;2034114;6000.0;Charleroi;Rue de la Montagne(Charleroi);19;;;1.0;;36826.0;CHARLEROI - FH03;2034114;;10;Rue de la Montagne;19;;SDU;;1;;1;;BUILDING template
+75678;W01-C-Charleroi-FH03;FTTH-Cu;2034116;6000.0;Charleroi;Rue de la Montagne(Charleroi);21;;;1.0;;36827.0;CHARLEROI - FH03;2034116;;10;Rue de la Montagne;21;;SDU;;1;;1;;BUILDING template
+75679;W01-C-Charleroi-FH03;FTTH-Cu;2034118;6000.0;Charleroi;Rue de la Montagne(Charleroi);23;;;1.0;;36828.0;CHARLEROI - FH03;2034118;;10;Rue de la Montagne;23;;SDU;;1;;2;;BUILDING template
+75680;W01-C-Charleroi-FH03;FTTH-Cu;2034120;6000.0;Charleroi;Rue de la Montagne(Charleroi);25;;;1.0;;36829.0;CHARLEROI - FH03;2034120;;10;Rue de la Montagne;25;;SDU;;1;;2;;BUILDING template
+75684;W01-C-Charleroi-FH03;FTTH-Cu;2034127;6000.0;Charleroi;Rue de la Montagne(Charleroi);33;;;1.0;;36830.0;CHARLEROI - FH03;2034127;;10;Rue de la Montagne;33;;SDU;;1;;2;;BUILDING template
+75686;W01-C-Charleroi-FH03;FTTH-Cu;2034129;6000.0;Charleroi;Rue de la Montagne(Charleroi);36;;;1.0;;36614.0;CHARLEROI - FH03;2034129;36 rue de la montagne;02;Rue de la Montagne;36;;SDU;;1;;2;;BUILDING template
+75713;W01-C-Charleroi-FH03;FTTH-Cu;2036111;6000.0;Charleroi;Rue du Palais;7;;;1.0;;36833.0;CHARLEROI - FH03;2036111;;10;Rue du Palais;7;;SDU;;;1;1;;BUILDING template
+75715;W01-C-Charleroi-FH03;FTTH-Cu;2036117;6000.0;Charleroi;Rue du Palais;17;;;1.0;;36837.0;CHARLEROI - FH03;2036117;;10;Rue du Palais;17;;SDU;;1;;2;;BUILDING template
+75719;W01-C-Charleroi-FH03;FTTH-Cu;2037360;6000.0;Charleroi;Rue du Pont Neuf(Charleroi);58;;1.0;1.0;1.0;36841.0;CHARLEROI - FH03;2037360;58 rue du pont neuf;10;Rue du Pont Neuf;58;;SDU;C;1;;1;;BUILDING template
+75721;W01-C-Charleroi-FH03;FTTH-Cu;2037362;6000.0;Charleroi;Rue du Pont Neuf(Charleroi);64;;;1.0;;36843.0;CHARLEROI - FH03;2037362;64 rue du pont neuf;10;Rue du Pont Neuf;64;;SDU;;1;;1;;BUILDING template
+75722;W01-C-Charleroi-FH03;FTTH-Cu;2037363;6000.0;Charleroi;Rue du Pont Neuf(Charleroi);66;;;1.0;;36844.0;CHARLEROI - FH03;2037363;66 rue du pont neuf;10;Rue du Pont Neuf;66;;SDU;;1;;1;;BUILDING template
+75723;W01-C-Charleroi-FH03;FTTH-Cu;2037364;6000.0;Charleroi;Rue du Pont Neuf(Charleroi);68;;;1.0;;36845.0;CHARLEROI - FH03;2037364;;10;Rue du Pont Neuf;68;;SDU;;1;;2;;BUILDING template
+75737;W01-C-Charleroi-FH03;FTTH-Cu;2039604;6000.0;Charleroi;Boulevard Joseph Tirou;65;;;1.0;;36681.0;CHARLEROI - FH03;2039604;;08;Boulevard Joseph Tirou;65;;SDU;;1;;1;;BUILDING template
+75738;W01-C-Charleroi-FH03;FTTH-Cu;2039606;6000.0;Charleroi;Boulevard Joseph Tirou;67;;1.0;1.0;1.0;36682.0;CHARLEROI - FH03;2039606;67/69 boulevard Joseph tirou;08;Boulevard Joseph Tirou;67;;SDU;A;1;;4;;BUILDING template
+75740;W01-C-Charleroi-FH03;FTTH-Cu;2039611;6000.0;Charleroi;Boulevard Joseph Tirou;73;;;1.0;;36685.0;CHARLEROI - FH03;2039611;;08;Boulevard Joseph Tirou;73;;SDU;D;1;;4;;BUILDING template
+75742;W01-C-Charleroi-FH03;FTTH-Cu;2039615;6000.0;Charleroi;Boulevard Joseph Tirou;77;;;1.0;;36687.0;CHARLEROI - FH03;2039615;77 boulevard Joseph tirou;08;Boulevard Joseph Tirou;77;;SDU;A;1;;2;;BUILDING template
+75763;W01-C-Charleroi-FH03;FTTH-Cu;2039669;6000.0;Charleroi;Boulevard Joseph Tirou;147;;;1.0;;36742.0;CHARLEROI - FH03;2039669;147/149 boulevard Joseph tirou (B);09;Boulevard Joseph Tirou;147;;SDU;C;1;;3;;BUILDING template
+75765;W01-C-Charleroi-FH03;FTTH-Cu;2039673;6000.0;Charleroi;Boulevard Joseph Tirou;151;;1.0;1.0;1.0;36744.0;CHARLEROI - FH03;2039673;151/153/155;09;Boulevard Joseph Tirou;151;;SDU;A;1;;2;;BUILDING template
+75774;W01-C-Charleroi-FH03;FTTH-Cu;2042291;6000.0;Charleroi;Boulevard de l'Yser;34;;;1.0;;36546.0;CHARLEROI - FH03;2042291;34 boulevard de l'yser;02;Boulevard de lYser;34;;SDU;;1;;2;;BUILDING template
+75775;W01-C-Charleroi-FH03;FTTH-Cu;2042293;6000.0;Charleroi;Boulevard de l'Yser;36;;;1.0;;36547.0;CHARLEROI - FH03;2042293;36 boulevard de l'yser;02;Boulevard de lYser;36;;SDU;D;1;;3;;BUILDING template
+75800;W01-C-Charleroi-FH03;FTTH-Cu;4257641;6000.0;Charleroi;Place de la Digue;15;;;1.0;;36657.0;CHARLEROI - FH03;4257641;;05;Place de la Digue;15;;SDU;;1;;1;;BUILDING template
+75807;W01-C-Charleroi-FH03;FTTH-Cu;459393;6000.0;Charleroi;Rue de Louvain;19;;;1.0;;36476.0;CHARLEROI - FH03;459393;19 rue de Louvain;03;Rue de Louvain;19;;SDU;;;1;1;;BUILDING template
+75813;W01-C-Charleroi-FH03;FTTH-Cu;459400;6000.0;Charleroi;Rue de la Digue (Charleroi);5;;;1.0;;36599.0;CHARLEROI - FH03;459400;;02;Rue de la Digue;5;;SDU;;1;;2;;BUILDING template
+75841;W01-C-Charleroi-FH03;FTTH-Cu;461025;6000.0;Charleroi;Rue de Dampremy (Charleroi);2;;;1.0;;36696.0;CHARLEROI - FH03;461025;2 rue de dampremy;08;Rue de Dampremy;2;;SDU;;1;;1;;BUILDING template
+75843;W01-C-Charleroi-FH03;FTTH-Cu;461027;6000.0;Charleroi;Boulevard Joseph Tirou;49;;;1.0;;36676.0;CHARLEROI - FH03;461027;;08;Boulevard Joseph Tirou;49;;SDU;;1;;3;;BUILDING template
+75845;W01-C-Charleroi-FH03;FTTH-Cu;461240;6000.0;Charleroi;Rue de Dampremy (Charleroi);51;;;1.0;;36587.0;CHARLEROI - FH03;461240;;02;Rue de Dampremy;51;;SDU;D;;1;;;BUILDING template
+75849;W01-C-Charleroi-FH03;FTTH-Cu;461259;6000.0;Charleroi;Rue de Dampremy (Charleroi);44;;;1.0;;36714.0;CHARLEROI - FH03;461259;44/46;08;Rue de Dampremy;44;;SDU;D;1;;2;;BUILDING template
+75850;W01-C-Charleroi-FH03;FTTH-Cu;461260;6000.0;Charleroi;Rue de Dampremy (Charleroi);81;;;1.0;;242107.0;CHARLEROI - FH03;461260;;02;Rue de Dampremy;81;;SDU;;1;;1;;BUILDING template
+75852;W01-C-Charleroi-FH03;FTTH-Cu;461262;6000.0;Charleroi;Rue de Dampremy (Charleroi);43;;;1.0;;36583.0;CHARLEROI - FH03;461262;43 rue de dampremy;02;Rue de Dampremy;43;;SDU;;1;;1;;BUILDING template
+75858;W01-C-Charleroi-FH03;FTTH-Cu;461270;6000.0;Charleroi;Rue de Dampremy (Charleroi);71;1.0;1.0;1.0;1.0;36595.0;CHARLEROI - FH03;461270;71/73/75;02;Rue de Dampremy;71;;SDU;C;1;;;;BUILDING template
+75888;W01-C-Charleroi-FH03;FTTH-Cu;461715;6000.0;Charleroi;Rue de la Justice;2;;;1.0;;36857.0;CHARLEROI - FH03;461715;;12;Rue de la Justice;2;;SDU;;1;;2;;BUILDING template
+75903;W01-C-Charleroi-FH03;FTTH-Cu;462175;6000.0;Charleroi;Boulevard Joseph Tirou;165;;;1.0;;36750.0;CHARLEROI - FH03;462175;165 boulevard tirou;09;Boulevard Joseph Tirou;165;;SDU;;1;;1;;BUILDING template
+75913;W01-C-Charleroi-FH03;FTTH-Cu;463812;6000.0;Charleroi;Rue de la Montagne(Charleroi);1;;;1.0;;36817.0;CHARLEROI - FH03;463812;;10;Rue de la Montagne;1;;SDU;;1;;1;;BUILDING template
+75914;W01-C-Charleroi-FH03;FTTH-Cu;463813;6000.0;Charleroi;Rue de Montigny;26;;;1.0;;36797.0;CHARLEROI - FH03;463813;26 rue de Montigny (D);10;Rue de Montigny;26;;SDU;;1;;1;;BUILDING template
+75918;W01-C-Charleroi-FH03;FTTH-Cu;463820;6000.0;Charleroi;Rue de Montigny;23;;;1.0;;36759.0;CHARLEROI - FH03;463820;;09;Rue de Montigny;23;;SDU;;;1;1;;BUILDING template
+75925;W01-C-Charleroi-FH03;FTTH-Cu;464198;6000.0;Charleroi;Rue du Pont Neuf(Charleroi);74;;;1.0;;36848.0;CHARLEROI - FH03;464198;74 rue du pont neuf;10;Rue du Pont Neuf;74;;SDU;;1;;1;;BUILDING template
+75930;W01-C-Charleroi-FH03;FTTH-Cu;464203;6000.0;Charleroi;Rue de Montigny;59;;;1.0;;36881.0;CHARLEROI - FH03;464203;59 rue de Montigny, 6000 Charleroi;13;Rue de Montigny;59;;SDU;;;1;1;;BUILDING template
+75935;W01-C-Charleroi-FH03;FTTH-Cu;464210;6000.0;Charleroi;Rue de Montigny;49;;1.0;1.0;1.0;36876.0;CHARLEROI - FH03;464210;Prunieau 2 - Montigny 49;13;Rue de Montigny;49;;SDU;A;1;;3;;BUILDING template
+75937;W01-C-Charleroi-FH03;FTTH-Cu;464212;6000.0;Charleroi;Rue de Montigny;33;;;1.0;;36764.0;CHARLEROI - FH03;464212;;09;Rue de Montigny;33;;SDU;;1;0;1;;BUILDING template
+75948;W01-C-Charleroi-FH03;FTTH-Cu;5066995;6000.0;Charleroi;Rue de la Montagne(Charleroi);15;;;1.0;;36824.0;CHARLEROI - FH03;5066995;;10;Rue de la Montagne;15;;SDU;;1;;1;;BUILDING template
+75953;W01-C-Charleroi-FH03;FTTH-Cu;5068403;6000.0;Charleroi;Rue de Dampremy (Charleroi);47;;;1.0;;36585.0;CHARLEROI - FH03;5068403;47-45 rue de dampremy;02;Rue de Dampremy;47;;SDU;;1;;1;;BUILDING template
+75956;W01-C-Charleroi-FH03;FTTH-Cu;5070984;6000.0;Charleroi;Rue de Dampremy (Charleroi);64;;;1.0;;36722.0;CHARLEROI - FH03;5070984;64 rue de dampremy;08;Rue de Dampremy;64;;SDU;;1;;2;;BUILDING template
+142742;W01-C-Namur-FH06;FTTH-Cu;1119927;5000.0;Namur;Rue J. Grafé(NR);10;;1.0;1.0;1.0;59430.0;NAMUR - FH06;1119927;10 Rue Joseph GrafÃ© - 37 Rue Grandgagnage 5000 Namur;0626;Rue J. Grafe;10;;SDU;;1;0;0;1.0;BUILDING template
+142745;W01-C-Namur-FH06;FTTH-Cu;1119930;5000.0;Namur;Rue de l'Arsenal(NR);14;;;1.0;;60377.0;NAMUR - FH06;1119930;;0623;Rue de lArsenal;14;;SDU;;1;0;2;3.0;BUILDING template
+142750;W01-C-Namur-FH06;FTTH-Cu;1119937;5000.0;Namur;Rue Blondeau;5;;1.0;1.0;1.0;58514.0;NAMUR - FH06;1119937;5 Rue Blondeau 5000 Namur;0625;Rue Blondeau;5;;SDU;;0;1;0;1.0;BUILDING template
+142770;W01-C-Namur-FH06;FTTH-Cu;1119962;5000.0;Namur;Rue de l'Evêché(NR);12;;;1.0;;60346.0;NAMUR - FH06;1119962;12 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;12;;SDU;;1;0;1;2.0;BUILDING template
+142772;W01-C-Namur-FH06;FTTH-Cu;1119964;5000.0;Namur;Rue de l'Evêché(NR);8;;;1.0;;60344.0;NAMUR - FH06;1119964;6 Rue de l'EvÃ©chÃ© 4000 LiÃ¨ge;0622;Rue de lEveche;8;;SDU;;0;1;0;1.0;BUILDING template
+142776;W01-C-Namur-FH06;FTTH-Cu;1121110;5000.0;Namur;Rue de l'Ange;2;;;1.0;;60389.0;NAMUR - FH06;1121110;2 rue de l'ange ( Future Agence BNP PARIBAS );06;Rue de lAnge;2;;SDU;;1;0;1;2.0;BUILDING template
+142793;W01-C-Namur-FH06;FTTH-Cu;1121131;5000.0;Namur;Rue des Echasseurs;2;;1.0;1.0;1.0;62220.0;NAMUR - FH06;1121131;;10;Rue des Echasseurs;2;;SDU;;1;0;0;1.0;BUILDING template
+142796;W01-C-Namur-FH06;FTTH-Cu;1121137;5000.0;Namur;Rue du Pont(NR);8;;;1.0;;61317.0;NAMUR - FH06;1121137;;07;Rue du Pont;8;;SDU;;1;0;1;2.0;BUILDING template
+142798;W01-C-Namur-FH06;FTTH-Cu;1121140;5000.0;Namur;Rue de Marchovelette(NR);1;;;1.0;;61286.0;NAMUR - FH06;1121140;1 Rue de Marchovelette 5000 Namur (Belfius Bank);07;Rue de Marchovelette;1;;SDU;;1;0;1;2.0;BUILDING template
+142837;W01-C-Namur-FH06;FTTH-Cu;1290824;5000.0;Namur;Rue de la Croix(NR);48;;;1.0;;62277.0;NAMUR - FH06;1290824;52 rue de la croix (exie magasin vÃªtement );13;Rue de la Croix;48;;SDU;;1;0;2;3.0;BUILDING template
+142848;W01-C-Namur-FH06;FTTH-Cu;1290837;5000.0;Namur;Place Marché aux Légumes(NR);8;;;1.0;;62713.0;NAMUR - FH06;1290837;8 place du marchÃ© (havanna );12;Place Marche aux Legumes;8;;SDU;;1;0;1;2.0;BUILDING template
+142862;W01-C-Namur-FH06;FTTH-Cu;1290859;5000.0;Namur;Rue de l'Ange;17;;1.0;1.0;1.0;61814.0;NAMUR - FH06;1290859;17 Rue de l'ange 5000 Namur (Galler);10;Rue de lAnge;17;;SDU;;1;0;0;1.0;BUILDING template
+142866;W01-C-Namur-FH06;FTTH-Cu;1290865;5000.0;Namur;Rue des Fripiers(NR);8;;;1.0;;61808.0;NAMUR - FH06;1290865;8 Rue des fripiers (enez  grill);11;Rue des Fripiers;8;;SDU;;1;0;1;2.0;BUILDING template
+142873;W01-C-Namur-FH06;FTTH-Cu;1290876;5000.0;Namur;Rue des Fripiers(NR);13;;;1.0;;62229.0;NAMUR - FH06;1290876;13 Rue des fripiers (La pointilleuse);10;Rue des Fripiers;13;;SDU;;1;0;0;1.0;BUILDING template
+142874;W01-C-Namur-FH06;FTTH-Cu;1290877;5000.0;Namur;Rue des Fripiers(NR);9;;;1.0;;62227.0;NAMUR - FH06;1290877;;10;Rue des Fripiers;9;;SDU;;1;;0;1.0;BUILDING template
+142892;W01-C-Namur-FH06;FTTH-Cu;1309890;5000.0;Namur;Rue Saint-Jacques(NR);31;;;1.0;;62776.0;NAMUR - FH06;1309890;;14;Rue Saint-Jacques;31;;SDU;;1;0;0;1.0;BUILDING template
+142897;W01-C-Namur-FH06;FTTH-Cu;1309899;5000.0;Namur;Rue de l'Ange;74;;;1.0;;61765.0;NAMUR - FH06;1309899;;05;Rue de lAnge;74;;SDU;;1;0;1;2.0;BUILDING template
+142907;W01-C-Namur-FH06;FTTH-Cu;1309922;5000.0;Namur;Rue de l'Ange;97;;;1.0;;62262.0;NAMUR - FH06;1309922;97 Rue de l'Ange 5000 Namur (Geox);13;Rue de lAnge;97;;SDU;;1;0;2;3.0;BUILDING template
+143010;W01-C-Namur-FH06;FTTH-Cu;1432394;5000.0;Namur;Rue Félix Wodon(NR);22;;;1.0;;63691.0;NAMUR - FH06;1432394;;28;Rue Felix Wodon;22;;SDU;;1;0;1;2.0;BUILDING template
+143027;W01-C-Namur-FH06;FTTH-Cu;1432421;5000.0;Namur;Avenue des Combattants(NR);7;;;1.0;;58957.0;NAMUR - FH06;1432421;;0627;Avenue des Combattants;7;;SDU;;1;0;0;1.0;BUILDING template
+143028;W01-C-Namur-FH06;FTTH-Cu;1440708;5000.0;Namur;Rue de Marchovelette(NR);29;;1.0;1.0;1.0;61295.0;NAMUR - FH06;1440708;29-31 Rue de Marchovelette 5000 Namur (les secrets du chef);07;Rue de Marchovelette;29;;SDU;;1;0;0;1.0;BUILDING template
+143040;W01-C-Namur-FH06;FTTH-Cu;1516066;5000.0;Namur;Rue de l'Ange;30;;;1.0;;61354.0;NAMUR - FH06;1516066;30 Rue de l'Ange 5000 Namur (Pizza Hut);05;Rue de lAnge;30;;SDU;;1;0;1;2.0;BUILDING template
+143041;W01-C-Namur-FH06;FTTH-Cu;1516067;5000.0;Namur;Rue de l'Ange;41;;;1.0;;62724.0;NAMUR - FH06;1516067;41 Rue de l'ange (pharmacie );12;Rue de lAnge;41;;SDU;;1;0;1;2.0;BUILDING template
+143042;W01-C-Namur-FH06;FTTH-Cu;1516069;5000.0;Namur;Rue de l'Ange;16;;1.0;1.0;1.0;61349.0;NAMUR - FH06;1516069;;05;Rue de lAnge;16;;SDU;;1;0;0;1.0;BUILDING template
+143048;W01-C-Namur-FH06;FTTH-Cu;153258;5000.0;Namur;Rue Joseph Saintraint(NR);11;;;1.0;;60832.0;NAMUR - FH06;153258;11 Rue Joseph Saintraint 5000 Namur;0621b;Rue Joseph Saintraint;11;;SDU;;0;1;1;2.0;BUILDING template
+143052;W01-C-Namur-FH06;FTTH-Cu;20511;5000.0;Namur;Rue de l'Ange;19;;;1.0;;61803.0;NAMUR - FH06;20511;19 Rue de l'ange (histoire d'or);11;Rue de lAnge;19;;SDU;;1;0;1;2.0;BUILDING template
+143056;W01-C-Namur-FH06;FTTH-Cu;20519;5000.0;Namur;Rue de Bruxelles;61;;1.0;1.0;1.0;60355.0;NAMUR - FH06;20519;61 rue de Bruxelles ( universitÃ© de Namur );0624a;Rue de Bruxelles;61;;SDU;;1;0;0;1.0;BUILDING template
+143066;W01-C-Namur-FH06;FTTH-Cu;3197495;5000.0;Namur;Rue de l'Ange;15;;;1.0;;61813.0;NAMUR - FH06;3197495;15 Rue de l'ange 5000 Namur (leonidas);10;Rue de lAnge;15;;SDU;;1;0;0;1.0;BUILDING template
+143068;W01-C-Namur-FH06;FTTH-Cu;3197497;5000.0;Namur;Rue de l'Ange;21;;;1.0;;61804.0;NAMUR - FH06;3197497;21 Rue de l'ange (cafÃ©s delahaut);11;Rue de lAnge;21;;SDU;;1;0;1;2.0;BUILDING template
+143069;W01-C-Namur-FH06;FTTH-Cu;3197498;5000.0;Namur;Rue de l'Ange;23;;;1.0;;61805.0;NAMUR - FH06;3197498;23 Rue de l'ange (flying tiger);11;Rue de lAnge;23;;SDU;;1;0;1;2.0;BUILDING template
+143070;W01-C-Namur-FH06;FTTH-Cu;3197499;5000.0;Namur;Rue de l'Ange;24;;;1.0;;61352.0;NAMUR - FH06;3197499;24 Rue de l'Ange 5000 Namur (H&M);05;Rue de lAnge;24;;SDU;;1;0;1;2.0;BUILDING template
+143074;W01-C-Namur-FH06;FTTH-Cu;3197505;5000.0;Namur;Rue de l'Ange;45;;;1.0;;62726.0;NAMUR - FH06;3197505;;12;Rue de lAnge;45;;SDU;;1;0;0;1.0;BUILDING template
+143076;W01-C-Namur-FH06;FTTH-Cu;3197509;5000.0;Namur;Rue de l'Ange;52;;;1.0;;61757.0;NAMUR - FH06;3197509;52 rue Place de l'ange;05;Rue de lAnge;52;;SDU;;1;0;1;2.0;BUILDING template
+143079;W01-C-Namur-FH06;FTTH-Cu;3197513;5000.0;Namur;Rue de l'Ange;58;;;1.0;;61759.0;NAMUR - FH06;3197513;58 rue de l'ange;05;Rue de lAnge;58;;SDU;;1;0;1;2.0;BUILDING template
+143082;W01-C-Namur-FH06;FTTH-Cu;3197516;5000.0;Namur;Rue de l'Ange;64;;;1.0;;61761.0;NAMUR - FH06;3197516;64 rue de l'ange;05;Rue de lAnge;64;;SDU;;1;0;1;2.0;BUILDING template
+143087;W01-C-Namur-FH06;FTTH-Cu;3197522;5000.0;Namur;Rue de l'Ange;76;;;1.0;;61766.0;NAMUR - FH06;3197522;76 rue l'ange;05;Rue de lAnge;76;;SDU;;1;0;1;2.0;BUILDING template
+143088;W01-C-Namur-FH06;FTTH-Cu;3197523;5000.0;Namur;Rue de l'Ange;77;;;1.0;;62256.0;NAMUR - FH06;3197523;77 Rue de L'ange 5000 Namur;13;Rue de lAnge;77;;SDU;;1;0;3;4.0;BUILDING template
+143089;W01-C-Namur-FH06;FTTH-Cu;3197524;5000.0;Namur;Rue de l'Ange;78;;;1.0;;61767.0;NAMUR - FH06;3197524;78 rue de l'ange;05;Rue de lAnge;78;;SDU;;1;0;1;2.0;BUILDING template
+143090;W01-C-Namur-FH06;FTTH-Cu;3197525;5000.0;Namur;Rue de l'Ange;79;;;1.0;;62257.0;NAMUR - FH06;3197525;79 Rue de l'ange 5000 Namur;13;Rue de lAnge;79;;SDU;;1;0;2;3.0;BUILDING template
+143133;W01-C-Namur-FH06;FTTH-Cu;3198242;5000.0;Namur;Rue Blondeau;7;;;1.0;;58515.0;NAMUR - FH06;3198242;7 Rue Blondeau 5000 Namur;0625;Rue Blondeau;7;;SDU;;1;0;1;2.0;BUILDING template
+143135;W01-C-Namur-FH06;FTTH-Cu;3198244;5000.0;Namur;Rue Blondeau;11;;;1.0;;58517.0;NAMUR - FH06;3198244;11 Rue Blondeau 5000 Namur;0625;Rue Blondeau;11;;SDU;;0;1;0;1.0;BUILDING template
+143136;W01-C-Namur-FH06;FTTH-Cu;3198245;5000.0;Namur;Rue Blondeau;13;;;1.0;;58518.0;NAMUR - FH06;3198245;13 Rue Blondeau 5000 Namur;0625;Rue Blondeau;13;;SDU;;0;1;0;1.0;BUILDING template
+143155;W01-C-Namur-FH06;FTTH-Cu;3198960;5000.0;Namur;Rue des Brasseurs;22;;;1.0;;61304.0;NAMUR - FH06;3198960;22 Rue des Brasseurs 5000 Namur;07;Rue des Brasseurs;22;;SDU;;1;0;1;2.0;BUILDING template
+143216;W01-C-Namur-FH06;FTTH-Cu;3199032;5000.0;Namur;Rue des Brasseurs;162;;;1.0;;60838.0;NAMUR - FH06;3199032;;0621b;Rue des Brasseurs;162;;SDU;;0;1;0;1.0;BUILDING template
+143224;W01-C-Namur-FH06;FTTH-Cu;3199044;5000.0;Namur;Rue des Brasseurs;179;;;1.0;;62703.0;NAMUR - FH06;3199044;;15;Rue des Brasseurs;179;;SDU;;0;1;2;3.0;BUILDING template
+143260;W01-C-Namur-FH06;FTTH-Cu;3199193;5000.0;Namur;Rue de Bruxelles;71;;1.0;1.0;1.0;59433.0;NAMUR - FH06;3199193;rue de Bruxelles 71 ( pharmacie );0626;Rue de Bruxelles;71;;SDU;;1;0;0;1.0;BUILDING template
+143277;W01-C-Namur-FH06;FTTH-Cu;3200077;5000.0;Namur;Rue du Collège(NR);17;;;1.0;;59853.0;NAMUR - FH06;3200077;;0619;Rue du College;17;;SDU;;1;0;1;2.0;BUILDING template
+143285;W01-C-Namur-FH06;FTTH-Cu;3200089;5000.0;Namur;Rue du Collège(NR);45;;;1.0;;60851.0;NAMUR - FH06;3200089;;0621b;Rue du College;45;;SDU;;1;0;0;1.0;BUILDING template
+143288;W01-C-Namur-FH06;FTTH-Cu;3200516;5000.0;Namur;Rue de la Croix(NR);3;;;1.0;;62729.0;NAMUR - FH06;3200516;neant rue de la Croix 3;12;Rue de la Croix;3;;SDU;;1;0;1;2.0;BUILDING template
+143295;W01-C-Namur-FH06;FTTH-Cu;3200523;5000.0;Namur;Rue de la Croix(NR);13;;;1.0;;62732.0;NAMUR - FH06;3200523;13 rue de la croix 5000 Namur (boutique ikks);12;Rue de la Croix;13;;SDU;;1;0;1;2.0;BUILDING template
+143301;W01-C-Namur-FH06;FTTH-Cu;3200530;5000.0;Namur;Rue de la Croix(NR);20;;;1.0;;62268.0;NAMUR - FH06;3200530;20 rue de la croix (vent d ailleurs);13;Rue de la Croix;20;;SDU;;1;0;2;3.0;BUILDING template
+143302;W01-C-Namur-FH06;FTTH-Cu;3200531;5000.0;Namur;Rue de la Croix(NR);21;;;1.0;;62735.0;NAMUR - FH06;3200531;neant de la croix 21;12;Rue de la Croix;21;;SDU;;1;0;1;2.0;BUILDING template
+143303;W01-C-Namur-FH06;FTTH-Cu;3200532;5000.0;Namur;Rue de la Croix(NR);22;;;1.0;;62269.0;NAMUR - FH06;3200532;22 rue de la croix(mercerie brodery);13;Rue de la Croix;22;;SDU;;1;0;2;3.0;BUILDING template
+143320;W01-C-Namur-FH06;FTTH-Cu;3200549;5000.0;Namur;Rue de la Croix(NR);43;;;1.0;;62743.0;NAMUR - FH06;3200549;43 rue de la croix 5000 Namur (Caro furs);12;Rue de la Croix;43;;SDU;;1;0;3;4.0;BUILDING template
+143322;W01-C-Namur-FH06;FTTH-Cu;3200551;5000.0;Namur;Rue de la Croix(NR);50;;;1.0;;62278.0;NAMUR - FH06;3200551;50 rue de la croix (l atelier hall);13;Rue de la Croix;50;;SDU;;1;0;2;3.0;BUILDING template
+143363;W01-C-Namur-FH06;FTTH-Cu;3202608;5000.0;Namur;Rue de l'Evêché(NR);16;;;1.0;;60347.0;NAMUR - FH06;3202608;16 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;16;;SDU;;0;1;2;3.0;BUILDING template
+143364;W01-C-Namur-FH06;FTTH-Cu;3202610;5000.0;Namur;Rue de l'Evêché(NR);20;;;1.0;;60348.0;NAMUR - FH06;3202610;18-20 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;20;;SDU;;0;1;2;3.0;BUILDING template
+143391;W01-C-Namur-FH06;FTTH-Cu;3203218;5000.0;Namur;Boulevard Frère Orban(NR);1,A;;1.0;1.0;;58459.0;NAMUR - FH06;3203218;;0624b;Boulevard Frere Orban;1;A;SDU;;1;0;0;1.0;BUILDING template
+143397;W01-C-Namur-FH06;FTTH-Cu;3203261;5000.0;Namur;Rue Fumal(NR);12;;;1.0;;60816.0;NAMUR - FH06;3203261;12 Rue Fumal 5000 Namur (MusÃ©e FÃ©licien Rops);0621b;Rue Fumal;12;;SDU;;1;0;1;2.0;BUILDING template
+143418;W01-C-Namur-FH06;FTTH-Cu;3203713;5000.0;Namur;Rue J. Grafé(NR);4;;1.0;1.0;1.0;59424.0;NAMUR - FH06;3203713;4 rue Joseph grafÃ©;0626;Rue J. Grafe;4;;SDU;;1;6;;;BUILDING template
+143422;W01-C-Namur-FH06;FTTH-Cu;3203762;5000.0;Namur;Rue Grandgagnage(NR);2;;;1.0;;59411.0;NAMUR - FH06;3203762;;0626;Rue Grandgagnage;2;;SDU;;0;0;1;1.0;BUILDING template
+143446;W01-C-Namur-FH06;FTTH-Cu;3205201;5000.0;Namur;Rue Lelièvre(NR);2;;1.0;1.0;1.0;60861.0;NAMUR - FH06;3205201;;0621a;Rue Lelievre;2;;SDU;;1;0;0;1.0;BUILDING template
+143451;W01-C-Namur-FH06;FTTH-Cu;3205206;5000.0;Namur;Rue Lelièvre(NR);9;;;1.0;;60371.0;NAMUR - FH06;3205206;;0623;Rue Lelievre;9;;SDU;;1;0;0;1.0;BUILDING template
+143452;W01-C-Namur-FH06;FTTH-Cu;3205208;5000.0;Namur;Rue Lelièvre(NR);10;;;1.0;;60865.0;NAMUR - FH06;3205208;;0621a;Rue Lelievre;10;;SDU;;1;0;1;2.0;BUILDING template
+143459;W01-C-Namur-FH06;FTTH-Cu;3206334;5000.0;Namur;Rue Haute Marcelle(NR);5;;;1.0;;62230.0;NAMUR - FH06;3206334;;13;Rue Haute Marcelle;5;;SDU;;1;0;2;3.0;BUILDING template
+143471;W01-C-Namur-FH06;FTTH-Cu;3206346;5000.0;Namur;Rue Haute Marcelle(NR);18;;;1.0;;62757.0;NAMUR - FH06;3206346;TSA 16/18 rue haute Marcel;14;Rue Haute Marcelle;18;;SDU;;1;0;1;2.0;BUILDING template
+143485;W01-C-Namur-FH06;FTTH-Cu;3206361;5000.0;Namur;Rue Haute Marcelle(NR);40;;;1.0;;62766.0;NAMUR - FH06;3206361;;14;Rue Haute Marcelle;40;;SDU;;1;0;1;2.0;BUILDING template
+143490;W01-C-Namur-FH06;FTTH-Cu;3206580;5000.0;Namur;Place Marché aux Légumes(NR);2;;;1.0;;62710.0;NAMUR - FH06;3206580;2-3-4 place marche au lÃ©gumes 5000 Namur;12;Place Marche aux Legumes;2;;SDU;;1;0;1;2.0;BUILDING template
+143493;W01-C-Namur-FH06;FTTH-Cu;3206585;5000.0;Namur;Place Marché aux Légumes(NR);10;;;1.0;;62714.0;NAMUR - FH06;3206585;10 place du marchÃ© (piano bar);12;Place Marche aux Legumes;10;;SDU;;1;0;1;2.0;BUILDING template
+143507;W01-C-Namur-FH06;FTTH-Cu;3206613;5000.0;Namur;Rue de Marchovelette(NR);25;;;1.0;;61293.0;NAMUR - FH06;3206613;25 Rue de Marchovelette 5000 Namur (caractR coiffure);07;Rue de Marchovelette;25;;SDU;;1;0;2;3.0;BUILDING template
+143513;W01-C-Namur-FH06;FTTH-Cu;3207408;5000.0;Namur;Rue de la Monnaie(NR);13;;;1.0;;60392.0;NAMUR - FH06;3207408;;06;Rue de la Monnaie;13;;SDU;;1;1;0;2.0;BUILDING template
+143527;W01-C-Namur-FH06;FTTH-Cu;3208113;5000.0;Namur;Rue de l'Ouvrage(NR);10;;;1.0;;62787.0;NAMUR - FH06;3208113;;14;Rue de lOuvrage;10;;SDU;;1;0;2;3.0;BUILDING template
+143532;W01-C-Namur-FH06;FTTH-Cu;3208118;5000.0;Namur;Rue de l'Ouvrage(NR);16;;;1.0;;62789.0;NAMUR - FH06;3208118;12-14-16 Rue de l'Ouvrage 5000 Namur (Slumberland);14;Rue de lOuvrage;16;;SDU;;0;0;1;1.0;BUILDING template
+143587;W01-C-Namur-FH06;FTTH-Cu;3208921;5000.0;Namur;Rue du Président(NR);34;;;1.0;;63203.0;NAMUR - FH06;3208921;34 Rue du PrÃ©sident 5000 Namur;18;Rue du President;34;;SDU;;0;1;0;1.0;BUILDING template
+143591;W01-C-Namur-FH06;FTTH-Cu;3208925;5000.0;Namur;Rue du Président(NR);38;;;1.0;;63205.0;NAMUR - FH06;3208925;38 Rue du PrÃ©sident 5000 Namur;18;Rue du President;38;;SDU;;0;1;0;1.0;BUILDING template
+143606;W01-C-Namur-FH06;FTTH-Cu;3209616;5000.0;Namur;Rue Joseph Saintraint(NR);10;;;1.0;;60337.0;NAMUR - FH06;3209616;10 Rue Joseph Saintraint 5000 Namur;0622;Rue Joseph Saintraint;10;;SDU;;1;0;3;4.0;BUILDING template
+143619;W01-C-Namur-FH06;FTTH-Cu;3209919;5000.0;Namur;Rue du Séminaire;20;1.0;;1.0;1.0;58475.0;NAMUR - FH06;3209919;20 Rue du SÃ©minaire (amphithÃ©Ã¢tre Vauban );0624b;Rue du Seminaire;20;;SDU;;1;0;0;1.0;BUILDING template
+143633;W01-C-Namur-FH06;FTTH-Cu;3210127;5000.0;Namur;Place Saint-Aubain(NR);7;;;1.0;;60330.0;NAMUR - FH06;3210127;7 Place Saint-Aubain 5000 Namur (Justice de paix);0622;Place Saint-Aubain;7;;SDU;;1;0;2;3.0;BUILDING template
+143668;W01-C-Namur-FH06;FTTH-Cu;3210491;5000.0;Namur;Rue Saint-Loup(NR);20;;;1.0;;62246.0;NAMUR - FH06;3210491;;13;Rue Saint-Loup;20;;SDU;;1;0;2;3.0;BUILDING template
+143672;W01-C-Namur-FH06;FTTH-Cu;3210708;5000.0;Namur;Marché Saint-Remy(NR);5;;;1.0;;60396.0;NAMUR - FH06;3210708;;04;Marche Saint-Remy;5;;SDU;;1;0;1;2.0;BUILDING template
+143687;W01-C-Namur-FH06;FTTH-Cu;3924862;5000.0;Namur;Rue de l'Arsenal(NR);1;;;1.0;;58464.0;NAMUR - FH06;3924862;;0624b;Rue de lArsenal;1;;SDU;;1;0;0;1.0;BUILDING template
+143689;W01-C-Namur-FH06;FTTH-Cu;3945477;5000.0;Namur;Rue de l'Arsenal(NR);6;;;1.0;;60374.0;NAMUR - FH06;3945477;6 Rue  de l'arsenal ( Ãcole henallux );0623;Rue de lArsenal;6;;SDU;;1;0;0;1.0;BUILDING template
+143709;W01-C-Namur-FH06;FTTH-Cu;4038841;5000.0;Namur;Rue Fumal(NR);10;;;1.0;;60815.0;NAMUR - FH06;4038841;10 Rue Fumal 5000 Namur;0621b;Rue Fumal;10;;SDU;;1;0;0;1.0;BUILDING template
+143713;W01-C-Namur-FH06;FTTH-Cu;4060425;5000.0;Namur;Place du Palais de Justice(NR);4;;;1.0;;60365.0;NAMUR - FH06;4060425;4 Place palais de justice  (palais de justice );0623;Place du Palais de Justice;4;;SDU;;1;0;0;1.0;BUILDING template
+143727;W01-C-Namur-FH06;FTTH-Cu;4131871;5000.0;Namur;Rue de l'Evêché(NR);6;;;1.0;;60343.0;NAMUR - FH06;4131871;6 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;6;;SDU;;1;0;0;1.0;BUILDING template
+143732;W01-C-Namur-FH06;FTTH-Cu;4132071;5000.0;Namur;Rue des Brasseurs;107;1.0;1.0;1.0;1.0;62284.0;NAMUR - FH06;4132071;;15;Rue des Brasseurs;107;;SDU;;0;0;1;1.0;BUILDING template
+143753;W01-C-Namur-FH06;FTTH-Cu;5147285;5000.0;Namur;Rue Lelièvre(NR);7;;;1.0;;60370.0;NAMUR - FH06;5147285;;0623;Rue Lelievre;7;;SDU;;1;0;0;1.0;BUILDING template
+143754;W01-C-Namur-FH06;FTTH-Cu;5147482;5000.0;Namur;Rue du Beffroi(NR);13;;;1.0;;61780.0;NAMUR - FH06;5147482;;05;Rue du Beffroi;13;;SDU;;1;0;1;2.0;BUILDING template
+143757;W01-C-Namur-FH06;FTTH-Cu;5147512;5000.0;Namur;Rue de l'Ange;66;;;1.0;;61762.0;NAMUR - FH06;5147512;66 rue de l'ange;05;Rue de lAnge;66;;SDU;;1;0;1;2.0;BUILDING template
+143773;W01-C-Namur-FH06;FTTH-Cu;5147952;5000.0;Namur;Rue des Brasseurs;12;;;1.0;;61301.0;NAMUR - FH06;5147952;12 Rue des Brasseurs 5000 Namur;07;Rue des Brasseurs;12;;SDU;;1;0;1;;BUILDING template
+143775;W01-C-Namur-FH06;FTTH-Cu;5148148;5000.0;Namur;Place Saint-Aubain(NR);11;;;1.0;;60331.0;NAMUR - FH06;5148148;;0622;Place Saint-Aubain;11;;SDU;;1;0;0;1.0;BUILDING template
+143776;W01-C-Namur-FH06;FTTH-Cu;5148149;5000.0;Namur;Rue Joseph Saintraint(NR);1,A;1.0;1.0;1.0;1.0;60836.0;NAMUR - FH06;5148149;;0621b;Rue Joseph Saintraint;1;A;SDU;;;;;;BUILDING template
+143789;W01-C-Namur-FH06;FTTH-Cu;5148556;5000.0;Namur;Rue des Fripiers(NR);7;;;1.0;;62226.0;NAMUR - FH06;5148556;neant fripiers 7;10;Rue des Fripiers;7;;SDU;;1;0;0;1.0;BUILDING template
+143794;W01-C-Namur-FH06;FTTH-Cu;5149181;5000.0;Namur;Rue Fumal(NR);6;;;1.0;;60813.0;NAMUR - FH06;5149181;6 Rue Fumal 5000 Namur;0621b;Rue Fumal;6;;SDU;;0;0;1;1.0;BUILDING template
+143795;W01-C-Namur-FH06;FTTH-Cu;5149183;5000.0;Namur;Rue Fumal(NR);8;;;1.0;;60814.0;NAMUR - FH06;5149183;8 Rue Fumal 5000 Namur;0621b;Rue Fumal;8;;SDU;;1;0;0;1.0;BUILDING template
+143813;W01-C-Namur-FH06;FTTH-Cu;5355712;5000.0;Namur;Place Saint-Aubain(NR);14;;;1.0;;60358.0;NAMUR - FH06;5355712;14 Place Saint Aubain;0623;Place Saint-Aubain;14;;SDU;;1;0;0;1.0;BUILDING template
+143952;W01-C-Namur-FH07;FTTH-Cu;1344990;5000.0;Namur;Rue de Bruxelles;120;;;1.0;;69198.0;NAMUR - FH07;1344990;;0722;Rue de Bruxelles;120;;SDU;;1;0;1;2.0;BUILDING template
+143984;W01-C-Namur-FH07;FTTH-Cu;1488480;5000.0;Namur;Rue Lucien Namêche(NR);1;;;1.0;;65853.0;NAMUR - FH07;1488480;;0709;Rue Lucien Nameche;1;;SDU;;;;;;BUILDING template
+144000;W01-C-Namur-FH07;FTTH-Cu;20531;5000.0;Namur;Place l'Ilon;17;;1.0;1.0;1.0;63964.0;NAMUR - FH07;20531;Place lillon 17-19 5000 namur;0704;Place lIlon;17;;SDU;;1;0;0;1.0;BUILDING template
+144014;W01-C-Namur-FH07;FTTH-Cu;3198163;5000.0;Namur;Rue Julie Billiart(NR);5;;;1.0;;64421.0;NAMUR - FH07;3198163;;0706;Rue Julie Billiart;5;;SDU;;1;0;1;2.0;BUILDING template
+144060;W01-C-Namur-FH07;FTTH-Cu;3198883;5000.0;Namur;Rue J.B. Brabant;38;;;1.0;;63970.0;NAMUR - FH07;3198883;;0704;Rue J.B. Brabant;38;;SDU;;;;;;BUILDING template
+144086;W01-C-Namur-FH07;FTTH-Cu;3199164;5000.0;Namur;Rue de Bruxelles;36;;;1.0;;68289.0;NAMUR - FH07;3199164;;0722;Rue de Bruxelles;36;;SDU;;1;0;1;2.0;BUILDING template
+144098;W01-C-Namur-FH07;FTTH-Cu;3199197;5000.0;Namur;Rue de Bruxelles;78;;;1.0;;68303.0;NAMUR - FH07;3199197;;0722;Rue de Bruxelles;78;;SDU;;1;0;1;2.0;BUILDING template
+144101;W01-C-Namur-FH07;FTTH-Cu;3199203;5000.0;Namur;Rue de Bruxelles;86;;;1.0;;68306.0;NAMUR - FH07;3199203;;0722;Rue de Bruxelles;86;;SDU;;1;0;1;2.0;BUILDING template
+144138;W01-C-Namur-FH07;FTTH-Cu;3199355;5000.0;Namur;Rue des Carmes;32;;;1.0;;66361.0;NAMUR - FH07;3199355;;0710;Rue des Carmes;32;;SDU;;2;0;0;2.0;BUILDING template
+144171;W01-C-Namur-FH07;FTTH-Cu;3199447;5000.0;Namur;Boulevard Cauchy(NR);2;;;1.0;;67297.0;NAMUR - FH07;3199447;2-2b boulevard cauchy 5000 Namur;0715;Boulevard Cauchy;2;;SDU;;;5;;;BUILDING template
+144190;W01-C-Namur-FH07;FTTH-Cu;3200442;5000.0;Namur;Rue Courtenay(NR);20;;;1.0;;64916.0;NAMUR - FH07;3200442;;0702;Rue Courtenay;20;;SDU;;0;1;1;2.0;BUILDING template
+144264;W01-C-Namur-FH07;FTTH-Cu;3201250;5000.0;Namur;Rue Delvaux(NR);1,A;;;1.0;;67816.0;NAMUR - FH07;3201250;1a rue delvaux 5000 Namur;0714;Rue Delvaux;1;A;SDU;;;1;1;;BUILDING template
+144266;W01-C-Namur-FH07;FTTH-Cu;3201253;5000.0;Namur;Rue Delvaux(NR);5;;;1.0;;67810.0;NAMUR - FH07;3201253;;0714;Rue Delvaux;5;;SDU;;;;;;BUILDING template
+144268;W01-C-Namur-FH07;FTTH-Cu;3201255;5000.0;Namur;Rue Delvaux(NR);7;;;1.0;;67811.0;NAMUR - FH07;3201255;7 Rue delvaux 5000 Namur;0714;Rue Delvaux;7;;SDU;;;1;1;;BUILDING template
+144272;W01-C-Namur-FH07;FTTH-Cu;3201259;5000.0;Namur;Rue Delvaux(NR);11;;;1.0;;67813.0;NAMUR - FH07;3201259;;0714;Rue Delvaux;11;;SDU;;;;;;BUILDING template
+144279;W01-C-Namur-FH07;FTTH-Cu;3201269;5000.0;Namur;Rue Delvaux(NR);32;;;1.0;;66400.0;NAMUR - FH07;3201269;;0713;Rue Delvaux;32;;SDU;;;;;;BUILDING template
+144305;W01-C-Namur-FH07;FTTH-Cu;3201479;5000.0;Namur;Rue Dewez(NR);48;;;1.0;;67317.0;NAMUR - FH07;3201479;48 Rue Dewez 5000 Namur (Zodiaque);0715;Rue Dewez;48;;SDU;;1;;4;;BUILDING template
+144313;W01-C-Namur-FH07;FTTH-Cu;3202591;5000.0;Namur;Rue de l'Etoile(NR);4;;1.0;1.0;1.0;64458.0;NAMUR - FH07;3202591;;0706;Rue de lEtoile;4;;SDU;;;;;;BUILDING template
+144321;W01-C-Namur-FH07;FTTH-Cu;3202662;5000.0;Namur;Rue de Fer;1;;;1.0;;66321.0;NAMUR - FH07;3202662;1 Rue de fer;0710;Rue de Fer;1;;SDU;;1;;8;;BUILDING template
+144323;W01-C-Namur-FH07;FTTH-Cu;3202664;5000.0;Namur;Rue de Fer;5;;;1.0;;66322.0;NAMUR - FH07;3202664;5 rue de fer;0710;Rue de Fer;5;;SDU;;1;;;;BUILDING template
+144324;W01-C-Namur-FH07;FTTH-Cu;3202665;5000.0;Namur;Rue de Fer;7;;;1.0;;66323.0;NAMUR - FH07;3202665;;0710;Rue de Fer;7;;SDU;;1;;5;;BUILDING template
+144327;W01-C-Namur-FH07;FTTH-Cu;3202668;5000.0;Namur;Rue de Fer;11;;;1.0;;66324.0;NAMUR - FH07;3202668;Rue de fer 11;0710;Rue de Fer;11;;SDU;;1;;;;BUILDING template
+144337;W01-C-Namur-FH07;FTTH-Cu;3202679;5000.0;Namur;Rue de Fer;26;;1.0;1.0;1.0;65883.0;NAMUR - FH07;3202679;;0709;Rue de Fer;26;;SDU;;1;0;1;2.0;BUILDING template
+144338;W01-C-Namur-FH07;FTTH-Cu;3202680;5000.0;Namur;Rue de Fer;27;;;1.0;;66328.0;NAMUR - FH07;3202680;27 rue de fer;0710;Rue de Fer;27;;SDU;;;;3;;BUILDING template
+144340;W01-C-Namur-FH07;FTTH-Cu;3202682;5000.0;Namur;Rue de Fer;31;;;1.0;;66330.0;NAMUR - FH07;3202682;31 rue de fer;0710;Rue de Fer;31;;SDU;;1;;4;;BUILDING template
+144342;W01-C-Namur-FH07;FTTH-Cu;3202684;5000.0;Namur;Rue de Fer;33;1.0;;1.0;;66331.0;NAMUR - FH07;3202684;;0710;Rue de Fer;33;;SDU;;;;;;BUILDING template
+144346;W01-C-Namur-FH07;FTTH-Cu;3202690;5000.0;Namur;Rue de Fer;41;;;1.0;;66334.0;NAMUR - FH07;3202690;41 rue de fer;0710;Rue de Fer;41;;SDU;;;;;;BUILDING template
+144348;W01-C-Namur-FH07;FTTH-Cu;3202692;5000.0;Namur;Rue de Fer;43;;;1.0;;66335.0;NAMUR - FH07;3202692;43 Rue de fer 5000 Namur;0710;Rue de Fer;43;;SDU;;;;;;BUILDING template
+144349;W01-C-Namur-FH07;FTTH-Cu;3202693;5000.0;Namur;Rue de Fer;45;;;1.0;;66336.0;NAMUR - FH07;3202693;45/47 Rue de fer;0710;Rue de Fer;45;;SDU;;1;;5;;BUILDING template
+144351;W01-C-Namur-FH07;FTTH-Cu;3202696;5000.0;Namur;Rue de Fer;51;;;1.0;;66337.0;NAMUR - FH07;3202696;51 rue de fer;0710;Rue de Fer;51;;SDU;;;;3;;BUILDING template
+144364;W01-C-Namur-FH07;FTTH-Cu;3202711;5000.0;Namur;Rue de Fer;71;;;1.0;;66344.0;NAMUR - FH07;3202711;;0710;Rue de Fer;71;;SDU;;;;;;BUILDING template
+144370;W01-C-Namur-FH07;FTTH-Cu;3202719;5000.0;Namur;Rue de Fer;80;;;1.0;;67340.0;NAMUR - FH07;3202719;;0718;Rue de Fer;80;;SDU;;;;;;BUILDING template
+144373;W01-C-Namur-FH07;FTTH-Cu;3202723;5000.0;Namur;Rue de Fer;86;;;1.0;;67343.0;NAMUR - FH07;3202723;;0718;Rue de Fer;86;;SDU;;;;;;BUILDING template
+144375;W01-C-Namur-FH07;FTTH-Cu;3202725;5000.0;Namur;Rue de Fer;88;;;1.0;;67344.0;NAMUR - FH07;3202725;;0718;Rue de Fer;88;;SDU;;;;;;BUILDING template
+144386;W01-C-Namur-FH07;FTTH-Cu;3202739;5000.0;Namur;Rue de Fer;117;;;1.0;;66873.0;NAMUR - FH07;3202739;;0720;Rue de Fer;117;;SDU;;1;0;0;1.0;BUILDING template
+144387;W01-C-Namur-FH07;FTTH-Cu;3202740;5000.0;Namur;Rue de Fer;119;;;1.0;;66874.0;NAMUR - FH07;3202740;;0720;Rue de Fer;119;;SDU;;1;0;1;2.0;BUILDING template
+144391;W01-C-Namur-FH07;FTTH-Cu;3202744;5000.0;Namur;Rue de Fer;127;;;1.0;;66876.0;NAMUR - FH07;3202744;;0720;Rue de Fer;127;;SDU;;1;0;1;2.0;BUILDING template
+144392;W01-C-Namur-FH07;FTTH-Cu;3202745;5000.0;Namur;Rue de Fer;129;;;1.0;;66877.0;NAMUR - FH07;3202745;;0720;Rue de Fer;129;;SDU;;1;0;1;2.0;BUILDING template
+144393;W01-C-Namur-FH07;FTTH-Cu;3202746;5000.0;Namur;Rue de Fer;131;;;1.0;;66878.0;NAMUR - FH07;3202746;;0720;Rue de Fer;131;;SDU;;1;0;0;1.0;BUILDING template
+144406;W01-C-Namur-FH07;FTTH-Cu;3203287;5000.0;Namur;Rue Galliot;20;;;1.0;;67358.0;NAMUR - FH07;3203287;20 rue galliot;0716;Rue Galliot;20;;SDU;;;2;1;;BUILDING template
+144407;W01-C-Namur-FH07;FTTH-Cu;3203288;5000.0;Namur;Rue Galliot;22;;;1.0;;67359.0;NAMUR - FH07;3203288;22 rue galliot 5000 Namur;0716;Rue Galliot;22;;SDU;;;;;;BUILDING template
+144425;W01-C-Namur-FH07;FTTH-Cu;3203330;5000.0;Namur;Passage de la Gare;11;;1.0;1.0;1.0;66853.0;NAMUR - FH07;3203330;;0720;Passage de la Gare;11;;SDU;;1;0;1;2.0;BUILDING template
+144438;W01-C-Namur-FH07;FTTH-Cu;3203658;5000.0;Namur;Rue Godefroid;19;;;1.0;;68270.0;NAMUR - FH07;3203658;;0722;Rue Godefroid;19;;SDU;;0;1;1;2.0;BUILDING template
+144448;W01-C-Namur-FH07;FTTH-Cu;3203669;5000.0;Namur;Rue Godefroid;31;;;1.0;;68276.0;NAMUR - FH07;3203669;;0722;Rue Godefroid;31;;SDU;;1;0;1;2.0;BUILDING template
+144449;W01-C-Namur-FH07;FTTH-Cu;3203670;5000.0;Namur;Rue Godefroid;32;;;1.0;;68750.0;NAMUR - FH07;3203670;;0721;Rue Godefroid;32;;SDU;;;;;;BUILDING template
+144479;W01-C-Namur-FH07;FTTH-Cu;3204569;5000.0;Namur;Rue de l'Inquiétude(NR);9;;;1.0;;66885.0;NAMUR - FH07;3204569;;0720;Rue de lInquitude;9;;SDU;;0;1;1;2.0;BUILDING template
+144489;W01-C-Namur-FH07;FTTH-Cu;3205236;5000.0;Namur;Place Léopold(NR);3;1.0;1.0;1.0;1.0;67354.0;NAMUR - FH07;3205236;bÃ¢timent de la rÃ©gion Walonne;0716;Place Leopold;3;;SDU;;1;;3;;BUILDING template
+144523;W01-C-Namur-FH07;FTTH-Cu;3207088;5000.0;Namur;Boulevard Ernest Mélot(NR);18;;;1.0;;68794.0;NAMUR - FH07;3207088;;0722;Boulevard Ernest Melot;18;;SDU;;1;0;1;2.0;BUILDING template
+144533;W01-C-Namur-FH07;FTTH-Cu;3207284;5000.0;Namur;Rue Général Michel(NR);33;;;1.0;;66413.0;NAMUR - FH07;3207284;33 Rue gÃ©nÃ©ral Michel;0713;Rue General Michel;33;;SDU;;0;1;0;1.0;BUILDING template
+144541;W01-C-Namur-FH07;FTTH-Cu;3207398;5000.0;Namur;Rue Moncrabeau(NR);10;;;1.0;;67327.0;NAMUR - FH07;3207398;;0718;Rue Moncrabeau;10;;SDU;;;;;;BUILDING template
+144548;W01-C-Namur-FH07;FTTH-Cu;3207628;5000.0;Namur;Rue Lucien Namêche(NR);6;;;1.0;;65421.0;NAMUR - FH07;3207628;;0711;Rue Lucien Namiche;6;;SDU;;0;1;0;1.0;BUILDING template
+144552;W01-C-Namur-FH07;FTTH-Cu;3207632;5000.0;Namur;Rue Lucien Namêche(NR);12;;;1.0;;65823.0;NAMUR - FH07;3207632;;0711;Rue Lucien Nameche;12;;SDU;;;;;;BUILDING template
+144560;W01-C-Namur-FH07;FTTH-Cu;3207644;5000.0;Namur;Rue Lucien Namêche(NR);34;;;1.0;;67827.0;NAMUR - FH07;3207644;34 Rue Lucien NamÃªche 5000 Namur;0714;Rue Lucien Nameche;34;;SDU;;;1;1;2.0;BUILDING template
+144567;W01-C-Namur-FH07;FTTH-Cu;3207651;5000.0;Namur;Rue Lucien Namêche(NR);41;;;1.0;;67365.0;NAMUR - FH07;3207651;41 Rue Lucien NamÃªche 5000 Namur;0716;Rue Lucien Nameche;41;;SDU;;;1;2;3.0;BUILDING template
+144573;W01-C-Namur-FH07;FTTH-Cu;3207657;5000.0;Namur;Rue Lucien Namêche(NR);47;;;1.0;;67368.0;NAMUR - FH07;3207657;47 Rue Lucien NamÃªche 5000 Namur;0716;Rue Lucien Nameche;47;;SDU;;1;1;5;4.0;BUILDING template
+144604;W01-C-Namur-FH07;FTTH-Cu;3208311;5000.0;Namur;Rue Pepin(NR);18;;;1.0;;64431.0;NAMUR - FH07;3208311;;0706;Rue Pepin;18;;SDU;;1;0;1;2.0;BUILDING template
+144605;W01-C-Namur-FH07;FTTH-Cu;3208312;5000.0;Namur;Rue Pepin(NR);20;;;1.0;;64432.0;NAMUR - FH07;3208312;20 rue pÃ©pin 5000 Namur;0706;Rue Pepin;20;;SDU;D;0;3;0;3.0;BUILDING template
+144606;W01-C-Namur-FH07;FTTH-Cu;3208313;5000.0;Namur;Rue Pepin(NR);22;;;1.0;;64433.0;NAMUR - FH07;3208313;;0706;Rue Pepin;22;;SDU;;0;1;1;2.0;BUILDING template
+144611;W01-C-Namur-FH07;FTTH-Cu;3208318;5000.0;Namur;Rue Pepin(NR);34;;;1.0;;64440.0;NAMUR - FH07;3208318;;0706;Rue Pepin;34;;SDU;;0;1;0;1.0;BUILDING template
+144612;W01-C-Namur-FH07;FTTH-Cu;3208319;5000.0;Namur;Rue Pepin(NR);37;;;1.0;;65831.0;NAMUR - FH07;3208319;;0711;Rue Pepin;37;;SDU;D;0;1;1;2.0;BUILDING template
+144613;W01-C-Namur-FH07;FTTH-Cu;3208320;5000.0;Namur;Rue Pepin(NR);38;;;1.0;;64442.0;NAMUR - FH07;3208320;;0706;Rue Pepin;38;;SDU;;0;1;0;1.0;BUILDING template
+144617;W01-C-Namur-FH07;FTTH-Cu;3208324;5000.0;Namur;Rue Pepin(NR);42;;;1.0;;64444.0;NAMUR - FH07;3208324;;0706;Rue Pepin;42;;SDU;;1;0;0;1.0;BUILDING template
+144642;W01-C-Namur-FH07;FTTH-Cu;3209235;5000.0;Namur;Rue Rogier(NR);28;;;1.0;;67333.0;NAMUR - FH07;3209235;;0718;Rue Rogier;28;;SDU;;;;;;BUILDING template
+144644;W01-C-Namur-FH07;FTTH-Cu;3209238;5000.0;Namur;Rue Rogier(NR);30;;;1.0;;67334.0;NAMUR - FH07;3209238;;0718;Rue Rogier;30;;SDU;;;;;;BUILDING template
+144696;W01-C-Namur-FH07;FTTH-Cu;3209299;5000.0;Namur;Rue Rogier(NR);109;;;1.0;;65419.0;NAMUR - FH07;3209299;109 rue rogier;0712;Rue Rogier;109;;SDU;;1;1;3;3.0;BUILDING template
+144706;W01-C-Namur-FH07;FTTH-Cu;3210426;5000.0;Namur;Rue Saint-Jacques(NR);28;;;1.0;;65905.0;NAMUR - FH07;3210426;;0710;Rue Saint-Jacques;28;;SDU;;;;;;BUILDING template
+144750;W01-C-Namur-FH07;FTTH-Cu;3210610;5000.0;Namur;Rue Saint-Nicolas(NR);24;;;1.0;;65372.0;NAMUR - FH07;3210610;;0705;Rue Saint-Nicolas;24;;SDU;;;;;;BUILDING template
+144857;W01-C-Namur-FH07;FTTH-Cu;3945522;5000.0;Namur;Rue des Dames Blanches(NR);4;;;1.0;;68736.0;NAMUR - FH07;3945522;4 Rue des dames blanches 5000 namur;0717;Rue des Dames Blanches;4;;SDU;;;3;1;4.0;BUILDING template
+144870;W01-C-Namur-FH07;FTTH-Cu;4023373;5000.0;Namur;Rue de Fer;29;;;1.0;;66329.0;NAMUR - FH07;4023373;29 rue de fer;0710;Rue de Fer;29;;SDU;;1;;3;;BUILDING template
+144876;W01-C-Namur-FH07;FTTH-Cu;4060621;5000.0;Namur;Rue des Dames Blanches(NR);12;;;1.0;;68739.0;NAMUR - FH07;4060621;12 Rue des dames blanches 5000 namur;0717;Rue des Dames Blanches;12;;SDU;;1;2;1;4.0;BUILDING template
+144880;W01-C-Namur-FH07;FTTH-Cu;4072890;5000.0;Namur;Rue Courtenay(NR);14;;;1.0;;64913.0;NAMUR - FH07;4072890;;0702;Rue Courtenay;14;;SDU;;0;1;1;2.0;BUILDING template
+144884;W01-C-Namur-FH07;FTTH-Cu;4131642;5000.0;Namur;Rue des Croisiers;50;;;1.0;;67799.0;NAMUR - FH07;4131642;;0720;Rue des Croisiers;50;;SDU;;1;0;1;2.0;BUILDING template
+144888;W01-C-Namur-FH07;FTTH-Cu;4131881;5000.0;Namur;Boulevard Ernest Mélot(NR);14;;;1.0;;68791.0;NAMUR - FH07;4131881;;0722;Boulevard Ernest Melot;14;;SDU;;1;0;1;2.0;BUILDING template
+144889;W01-C-Namur-FH07;FTTH-Cu;4131980;5000.0;Namur;Rue du Lombard(NR);17;;;1.0;;64470.0;NAMUR - FH07;4131980;17 rue du lombard 5000 Namur;0706;Rue du Lombard;17;;SDU;;0;1;1;2.0;BUILDING template
+144922;W01-C-Namur-FH07;FTTH-Cu;5147134;5000.0;Namur;Rue Saint-Jacques(NR);10;;;1.0;;65900.0;NAMUR - FH07;5147134;;0710;Rue Saint-Jacques;10;;SDU;;1;0;1;2.0;BUILDING template
+144951;W01-C-Namur-FH07;FTTH-Cu;5148739;5000.0;Namur;Rue de Fer;137;;;1.0;;66880.0;NAMUR - FH07;5148739;;0720;Rue de Fer;137;;SDU;;1;0;1;2.0;BUILDING template
+145046;W01-C-Namur-FH07;FTTH-Cu;752513;5000.0;Namur;Rue Delvaux(NR);18;;;1.0;;66394.0;NAMUR - FH07;752513;18 Rue delvaux 5000 Namur;0713;Rue Delvaux;18;;SDU;;;1;1;;BUILDING template
+152778;W01-C-Roeselare-FH03;FTTH-Cu;1254999;8800.0;Roeselare;Wilgenstraat;11;;;1.0;;54671.0;ROESELARE - FH03;1254999;;BL0302;Wilgenstraat;11;;SDU;;1;0;0;1.0;BUILDING template
+152837;W01-C-Roeselare-FH03;FTTH-Cu;1255066;8800.0;Roeselare;Jozef De Meesterstraat;23;;;1.0;;55293.0;ROESELARE - FH03;1255066;;BL0307;Jozef De Meesterstraat;23;;SDU;;0;1;0;1.0;BUILDING template
+152946;W01-C-Roeselare-FH03;FTTH-Cu;3414593;8800.0;Roeselare;Delaerestraat;37;;;1.0;;525454.0;ROESELARE - FH03;3414593;;BL0326;Delaerestraat;37;;SDU;;1;0;0;1.0;BUILDING template
+152948;W01-C-Roeselare-FH03;FTTH-Cu;3414595;8800.0;Roeselare;Delaerestraat;41;;;1.0;;58065.0;ROESELARE - FH03;3414595;;BL0326;Delaerestraat;41;;SDU;;1;0;0;1.0;BUILDING template
+152998;W01-C-Roeselare-FH03;FTTH-Cu;3415882;8800.0;Roeselare;Iepersestraat;8;;;1.0;;596820.0;ROESELARE - FH03;3415882;;BL0313;Iepersestraat;8;;SDU;;1;0;0;1.0;BUILDING template
+153154;W01-C-Roeselare-FH03;FTTH-Cu;3417801;8800.0;Roeselare;Ooststraat;144;;;1.0;;58100.0;ROESELARE - FH03;3417801;;BL0326;Ooststraat;144;;SDU;;1;0;0;1.0;BUILDING template
+153203;W01-C-Roeselare-FH03;FTTH-Cu;3418211;8800.0;Roeselare;Rumbeeksesteenweg;56;;;1.0;1.0;56932.0;ROESELARE - FH03;3418211;;BL0318;Rumbeeksesteenweg;56;;SDU;;1;0;0;2.0;BUILDING template
+153204;W01-C-Roeselare-FH03;FTTH-Cu;3418212;8800.0;Roeselare;Rumbeeksesteenweg;58;;;1.0;1.0;56933.0;ROESELARE - FH03;3418212;;BL0318;Rumbeeksesteenweg;58;;SDU;;1;0;0;1.0;BUILDING template
+153230;W01-C-Roeselare-FH03;FTTH-Cu;3418663;8800.0;Roeselare;Sint-Alfonsusstraat;36;;;1.0;;58047.0;ROESELARE - FH03;3418663;;BL0324;Sint-Alfonsusstraat;36;;SDU;;1;0;0;1.0;BUILDING template
+153267;W01-C-Roeselare-FH03;FTTH-Cu;3419386;8800.0;Roeselare;Verwerijstraat;24;;;1.0;;56492.0;ROESELARE - FH03;3419386;;BL0312;Verwerijstraat;24;;SDU;;1;0;0;1.0;BUILDING template
+153335;W01-C-Roeselare-FH03;FTTH-Cu;3420214;8800.0;Roeselare;Zuidstraat;55;;;1.0;;56984.0;ROESELARE - FH03;3420214;;BL0320;Zuidstraat;55;;SDU;;1;0;0;1.0;BUILDING template
+153336;W01-C-Roeselare-FH03;FTTH-Cu;3420215;8800.0;Roeselare;Zuidstraat;56;;;1.0;1.0;55738.0;ROESELARE - FH03;3420215;;BL0311;Zuidstraat;56;;SDU;;0;1;0;1.0;BUILDING template
+153363;W01-C-Roeselare-FH03;FTTH-Cu;3994271;8800.0;Roeselare;Wilgenstraat;25;;;1.0;1.0;54677.0;ROESELARE - FH03;3994271;;BL0302;Wilgenstraat;25;;SDU;;0;1;0;1.0;BUILDING template
+153531;W01-C-Roeselare-FH03;FTTH-Cu;4368514;8800.0;Roeselare;Zuidstraat;48;;;1.0;;55335.0;ROESELARE - FH03;4368514;;BL0311;Zuidstraat;48;;SDU;;1;0;0;1.0;BUILDING template
+153532;W01-C-Roeselare-FH03;FTTH-Cu;4368517;8800.0;Roeselare;Zuidstraat;54;;;1.0;;55737.0;ROESELARE - FH03;4368517;;BL0311;Zuidstraat;54;;SDU;;1;0;0;1.0;BUILDING template
+153563;W01-C-Roeselare-FH03;FTTH-Cu;4371227;8800.0;Roeselare;Iepersestraat;6;;;1.0;;596817.0;ROESELARE - FH03;4371227;;BL0313;Iepersestraat;6;;SDU;;1;0;0;1.0;BUILDING template
+153603;W01-C-Roeselare-FH03;FTTH-Cu;532106;8800.0;Roeselare;Rumbeeksesteenweg;76;;;1.0;1.0;56939.0;ROESELARE - FH03;532106;;BL0318;Rumbeeksesteenweg;76;;SDU;;1;0;0;1.0;BUILDING template
+153623;W01-C-Roeselare-FH03;FTTH-Cu;5398689;8800.0;Roeselare;Delaerestraat;33;;;1.0;;58063.0;ROESELARE - FH03;5398689;;BL0326;Delaerestraat;33;;SDU;;1;0;0;1.0;BUILDING template
+153627;W01-C-Roeselare-FH03;FTTH-Cu;5453178;8800.0;Roeselare;Delaerestraat;11,A;;;1.0;1.0;58066.0;ROESELARE - FH03;5453178;;BL0326;Delaerestraat;11;A;SDU;;0;1;0;1.0;BUILDING template
+153785;W01-C-Roeselare-FH03;FTTH-Cu;876591;8800.0;Roeselare;Delaerestraat;2,A;;;1.0;1.0;57404.0;ROESELARE - FH03;876591;;BL0323;Delaerestraat;2;A;SDU;;1;0;0;1.0;BUILDING template
+153811;W01-C-Roeselare-FH03;FTTH-Cu;877029;8800.0;Roeselare;Westlaan;42;;;1.0;1.0;54668.0;ROESELARE - FH03;877029;;BL0302;Westlaan;42;;SDU;;1;0;0;1.0;BUILDING template
+153875;W01-C-Roeselare-FH03;FTTH-Cu;877323;8800.0;Roeselare;Wilgenstraat;27;;;1.0;1.0;431203.0;ROESELARE - FH03;877323;;BL0302;Wilgenstraat;27;;SDU;;0;1;0;1.0;BUILDING template
+153908;W01-C-Roeselare-FH03;FTTH-Cu;877520;8800.0;Roeselare;Verwerijstraat;1;;;1.0;;56902.0;ROESELARE - FH03;877520;;BL0313;Verwerijstraat;1;;SDU;;0;1;0;1.0;BUILDING template
+153943;W01-C-Roeselare-FH03;FTTH-Cu;880711;8800.0;Roeselare;Zuidstraat;4;;;1.0;;525611.0;ROESELARE - FH03;880711;;BL0313;Zuidstraat;4;;SDU;;0;1;0;1.0;BUILDING template
+153972;W01-C-Roeselare-FH04;FTTH-Cu;123243;8800.0;Roeselare;Ommegangsstraat;21;;;1.0;1.0;16153.0;ROESELARE - FH04;123243;;BL0408;Ommegangsstraat;21;;SDU;;0;1;0;1.0;BUILDING template
+153973;W01-C-Roeselare-FH04;FTTH-Cu;123245;8800.0;Roeselare;Jules Lagaelaan;14;;;1.0;1.0;15990.0;ROESELARE - FH04;123245;;BL0406;Jules Lagaelaan;14;;SDU;;1;0;0;1.0;BUILDING template
+153976;W01-C-Roeselare-FH04;FTTH-Cu;123251;8800.0;Roeselare;Jules Lagaelaan;21;;;1.0;1.0;15994.0;ROESELARE - FH04;123251;;BL0406;Jules Lagaelaan;21;;SDU;;1;0;0;1.0;BUILDING template
+153978;W01-C-Roeselare-FH04;FTTH-Cu;123270;8800.0;Roeselare;Nijverheidsstraat;4;;;1.0;1.0;16140.0;ROESELARE - FH04;123270;;BL0408;Nijverheidsstraat;4;;SDU;;0;1;0;1.0;BUILDING template
+153995;W01-C-Roeselare-FH04;FTTH-Cu;1252040;8800.0;Roeselare;Beversesteenweg;202;;;1.0;;18933.0;ROESELARE - FH04;1252040;;BL0429;Beversesteenweg;202;;SDU;;1;0;0;1.0;BUILDING template
+153999;W01-C-Roeselare-FH04;FTTH-Cu;1252054;8800.0;Roeselare;Beversesteenweg;190;;;1.0;;18928.0;ROESELARE - FH04;1252054;;BL0429;Beversesteenweg;190;;SDU;;1;0;0;1.0;BUILDING template
+154127;W01-C-Roeselare-FH04;FTTH-Cu;1252335;8800.0;Roeselare;Beversesteenweg;35;;;1.0;;18035.0;ROESELARE - FH04;1252335;;BL0420;Beversesteenweg;35;;SDU;;1;0;0;1.0;BUILDING template
+154129;W01-C-Roeselare-FH04;FTTH-Cu;1252721;8800.0;Roeselare;Mandellaan;292;;;1.0;1.0;16809.0;ROESELARE - FH04;1252721;;BL0412;Mandellaan;292;;SDU;;0;1;0;1.0;BUILDING template
+154131;W01-C-Roeselare-FH04;FTTH-Cu;1252729;8800.0;Roeselare;Mandellaan;294;;;1.0;1.0;16810.0;ROESELARE - FH04;1252729;;BL0412;Mandellaan;294;;SDU;;0;1;0;1.0;BUILDING template
+154139;W01-C-Roeselare-FH04;FTTH-Cu;1252737;8800.0;Roeselare;Mandellaan;258;;;1.0;1.0;17059.0;ROESELARE - FH04;1252737;;BL0413;Mandellaan;258;;SDU;;0;1;0;1.0;BUILDING template
+154144;W01-C-Roeselare-FH04;FTTH-Cu;1252742;8800.0;Roeselare;Germain Hoetstraat;29;;;1.0;1.0;17032.0;ROESELARE - FH04;1252742;;BL0413;Germain Hoetstraat;29;;SDU;;1;0;0;1.0;BUILDING template
+154158;W01-C-Roeselare-FH04;FTTH-Cu;1252756;8800.0;Roeselare;Germain Hoetstraat;28;;;1.0;1.0;16764.0;ROESELARE - FH04;1252756;;BL0412;Germain Hoetstraat;28;;SDU;;0;1;0;1.0;BUILDING template
+154160;W01-C-Roeselare-FH04;FTTH-Cu;1252758;8800.0;Roeselare;Ardooisesteenweg;119;;;1.0;1.0;17632.0;ROESELARE - FH04;1252758;;BL0417;Ardooisesteenweg;119;;SDU;;1;0;0;1.0;BUILDING template
+154161;W01-C-Roeselare-FH04;FTTH-Cu;1252759;8800.0;Roeselare;Ardooisesteenweg;123;;;1.0;;17634.0;ROESELARE - FH04;1252759;;BL0417;Ardooisesteenweg;123;;SDU;;1;0;0;1.0;BUILDING template
+154166;W01-C-Roeselare-FH04;FTTH-Cu;1252765;8800.0;Roeselare;Mandellaan;172;;;1.0;;17544.0;ROESELARE - FH04;1252765;;BL0416;Mandellaan;172;;SDU;;1;0;0;1.0;BUILDING template
+154167;W01-C-Roeselare-FH04;FTTH-Cu;1252853;8800.0;Roeselare;Kaaistraat;76;;;1.0;;15451.0;ROESELARE - FH04;1252853;;BL0401;Kaaistraat;76;;SDU;;1;0;0;1.0;BUILDING template
+154223;W01-C-Roeselare-FH04;FTTH-Cu;1252948;8800.0;Roeselare;Koornstraat;117;;;1.0;1.0;16801.0;ROESELARE - FH04;1252948;;BL0412;Koornstraat;117;;SDU;;0;1;0;1.0;BUILDING template
+154272;W01-C-Roeselare-FH04;FTTH-Cu;1503069;8800.0;Roeselare;Spanjestraat;136;;;1.0;1.0;15482.0;ROESELARE - FH04;1503069;;BL0401;Spanjestraat;136;;SDU;;1;0;0;1.0;BUILDING template
+154334;W01-C-Roeselare-FH04;FTTH-Cu;3413632;8800.0;Roeselare;Ardooisesteenweg;107;;;1.0;1.0;17628.0;ROESELARE - FH04;3413632;;BL0417;Ardooisesteenweg;107;;SDU;;0;1;0;1.0;BUILDING template
+154336;W01-C-Roeselare-FH04;FTTH-Cu;3413634;8800.0;Roeselare;Ardooisesteenweg;115,A;;;1.0;1.0;17635.0;ROESELARE - FH04;3413634;;BL0417;Ardooisesteenweg;115;;SDU;;1;0;0;1.0;BUILDING template
+154349;W01-C-Roeselare-FH04;FTTH-Cu;3413861;8800.0;Roeselare;Beversesteenweg;102;;;1.0;1.0;18793.0;ROESELARE - FH04;3413861;;BL0428;Beversesteenweg;102;;SDU;;1;0;0;1.0;BUILDING template
+154352;W01-C-Roeselare-FH04;FTTH-Cu;3413864;8800.0;Roeselare;Beversesteenweg;108;;;1.0;1.0;18795.0;ROESELARE - FH04;3413864;;BL0428;Beversesteenweg;108;;SDU;;1;0;0;1.0;BUILDING template
+154382;W01-C-Roeselare-FH04;FTTH-Cu;3413900;8800.0;Roeselare;Beversesteenweg;188;;;1.0;;18927.0;ROESELARE - FH04;3413900;;BL0429;Beversesteenweg;188;;SDU;;1;0;0;1.0;BUILDING template
+154480;W01-C-Roeselare-FH04;FTTH-Cu;3415315;8800.0;Roeselare;Hammestraat;55;;;1.0;1.0;18270.0;ROESELARE - FH04;3415315;;BL0423;Hammestraat;55;;SDU;;0;1;0;1.0;BUILDING template
+154503;W01-C-Roeselare-FH04;FTTH-Cu;3415712;8800.0;Roeselare;Germain Hoetstraat;32;;;1.0;1.0;16766.0;ROESELARE - FH04;3415712;;BL0412;Germain Hoetstraat;32;;SDU;;0;1;0;1.0;BUILDING template
+154538;W01-C-Roeselare-FH04;FTTH-Cu;3416523;8800.0;Roeselare;Koornstraat;142;;;1.0;;16423.0;ROESELARE - FH04;3416523;;BL0410;Koornstraat;142;;SDU;;1;0;0;1.0;BUILDING template
+154543;W01-C-Roeselare-FH04;FTTH-Cu;3416712;8800.0;Roeselare;Jules Lagaelaan;20;;;1.0;;15993.0;ROESELARE - FH04;3416712;;BL0406;Jules Lagaelaan;20;;SDU;;1;0;0;1.0;BUILDING template
+154598;W01-C-Roeselare-FH04;FTTH-Cu;3417059;8800.0;Roeselare;Mandellaan;324;;;1.0;1.0;16822.0;ROESELARE - FH04;3417059;;BL0412;Mandellaan;324;;SDU;;1;0;0;1.0;BUILDING template
+154600;W01-C-Roeselare-FH04;FTTH-Cu;3417061;8800.0;Roeselare;Mandellaan;334;;;1.0;1.0;16824.0;ROESELARE - FH04;3417061;;BL0412;Mandellaan;334;;SDU;;1;0;0;1.0;BUILDING template
+154605;W01-C-Roeselare-FH04;FTTH-Cu;3417068;8800.0;Roeselare;Mandellaan;352;;;1.0;1.0;16833.0;ROESELARE - FH04;3417068;;BL0412;Mandellaan;352;;SDU;;0;1;0;1.0;BUILDING template
+154675;W01-C-Roeselare-FH04;FTTH-Cu;3418555;8800.0;Roeselare;Spanjestraat;172;;;1.0;;15488.0;ROESELARE - FH04;3418555;;BL0401;Spanjestraat;172;;SDU;;0;1;0;1.0;BUILDING template
+154676;W01-C-Roeselare-FH04;FTTH-Cu;3418556;8800.0;Roeselare;Spanjestraat;174;;;1.0;;15489.0;ROESELARE - FH04;3418556;;BL0401;Spanjestraat;174;;SDU;;0;1;0;1.0;BUILDING template
+154695;W01-C-Roeselare-FH04;FTTH-Cu;3418576;8800.0;Roeselare;Spanjestraat;249;;;1.0;;16648.0;ROESELARE - FH04;3418576;;BL0411;Spanjestraat;249;;SDU;;0;1;0;1.0;BUILDING template
+154696;W01-C-Roeselare-FH04;FTTH-Cu;3418577;8800.0;Roeselare;Spanjestraat;253;;;1.0;1.0;16649.0;ROESELARE - FH04;3418577;;BL0411;Spanjestraat;253;;SDU;;1;0;0;1.0;BUILDING template
+154728;W01-C-Roeselare-FH04;FTTH-Cu;3418632;8800.0;Roeselare;Spinnersstraat;67;;;1.0;1.0;17368.0;ROESELARE - FH04;3418632;;BL0415;Spinnersstraat;67;;SDU;;0;1;0;1.0;BUILDING template
+154729;W01-C-Roeselare-FH04;FTTH-Cu;3418633;8800.0;Roeselare;Spinnersstraat;69;;;1.0;1.0;17369.0;ROESELARE - FH04;3418633;;BL0415;Spinnersstraat;69;;SDU;;0;1;0;1.0;BUILDING template
+154730;W01-C-Roeselare-FH04;FTTH-Cu;3418634;8800.0;Roeselare;Spinnersstraat;71;;;1.0;1.0;17370.0;ROESELARE - FH04;3418634;;BL0415;Spinnersstraat;71;;SDU;;0;1;0;1.0;BUILDING template
+154812;W01-C-Roeselare-FH04;FTTH-Cu;3419404;8800.0;Roeselare;Vierwegstraat;41;;;1.0;1.0;16861.0;ROESELARE - FH04;3419404;;BL0412;Vierwegstraat;41;;SDU;;0;1;0;1.0;BUILDING template
+154813;W01-C-Roeselare-FH04;FTTH-Cu;3419405;8800.0;Roeselare;Vierwegstraat;45;;;1.0;1.0;16862.0;ROESELARE - FH04;3419405;;BL0412;Vierwegstraat;45;;SDU;;0;1;0;1.0;BUILDING template
+154905;W01-C-Roeselare-FH04;FTTH-Cu;4198412;8800.0;Roeselare;Spinnersstraat;73;;;1.0;1.0;17371.0;ROESELARE - FH04;4198412;;BL0415;Spinnersstraat;73;;SDU;;0;1;0;1.0;BUILDING template
+154922;W01-C-Roeselare-FH04;FTTH-Cu;4218578;8800.0;Roeselare;Langebrugstraat;68;;;1.0;1.0;15618.0;ROESELARE - FH04;4218578;;BL0402;Langebrugstraat;68;;SDU;;0;1;0;1.0;BUILDING template
+154924;W01-C-Roeselare-FH04;FTTH-Cu;4229831;8800.0;Roeselare;Langebrugstraat;70;;;1.0;1.0;15619.0;ROESELARE - FH04;4229831;;BL0402;Langebrugstraat;70;;SDU;;0;1;0;1.0;BUILDING template
+154935;W01-C-Roeselare-FH04;FTTH-Cu;4243322;8800.0;Roeselare;Germain Hoetstraat;30;;;1.0;1.0;16765.0;ROESELARE - FH04;4243322;;BL0412;Germain Hoetstraat;30;;SDU;;0;1;0;1.0;BUILDING template
+154949;W01-C-Roeselare-FH04;FTTH-Cu;4352918;8800.0;Roeselare;Mandellaan;178;;;1.0;;17545.0;ROESELARE - FH04;4352918;;BL0416;Mandellaan;178;;SDU;;1;0;0;1.0;BUILDING template
+154984;W01-C-Roeselare-FH04;FTTH-Cu;4353145;8800.0;Roeselare;Ardooisesteenweg;36;;;1.0;1.0;16240.0;ROESELARE - FH04;4353145;;BL0409;Ardooisesteenweg;36;;SDU;;0;1;0;1.0;BUILDING template
+154985;W01-C-Roeselare-FH04;FTTH-Cu;4353147;8800.0;Roeselare;Ardooisesteenweg;38;;;1.0;1.0;16241.0;ROESELARE - FH04;4353147;;BL0409;Ardooisesteenweg;38;;SDU;;0;1;0;1.0;BUILDING template
+155009;W01-C-Roeselare-FH04;FTTH-Cu;4354961;8800.0;Roeselare;Ardooisesteenweg;67;;;1.0;1.0;17748.0;ROESELARE - FH04;4354961;;BL0418;Ardooisesteenweg;67;;SDU;;1;0;0;1.0;BUILDING template
+155109;W01-C-Roeselare-FH04;FTTH-Cu;4365014;8800.0;Roeselare;Hammestraat;57;;;1.0;1.0;18271.0;ROESELARE - FH04;4365014;;BL0423;Hammestraat;57;;SDU;;0;1;0;1.0;BUILDING template
+155128;W01-C-Roeselare-FH04;FTTH-Cu;4368310;8800.0;Roeselare;Mandellaan;286;;;1.0;;16807.0;ROESELARE - FH04;4368310;;BL0412;Mandellaan;286;;SDU;;1;0;0;1.0;BUILDING template
+155205;W01-C-Roeselare-FH04;FTTH-Cu;5500520;8800.0;Roeselare;Bruanestraat;91;;;1.0;1.0;17147.0;ROESELARE - FH04;5500520;;BL0414;Bruanestraat;91;;SDU;;0;1;0;1.0;BUILDING template
+155262;W01-C-Roeselare-FH04;FTTH-Cu;6059681;8800.0;Roeselare;Mandellaan;20,A;;1.0;1.0;;18970.0;ROESELARE - FH04;6059681;;BL0429;Mandellaan;20;;SDU;;1;0;0;1.0;BUILDING template
+155279;W01-C-Roeselare-FH04;FTTH-Cu;84978;8800.0;Roeselare;Ardooisesteenweg;80;;;1.0;1.0;16254.0;ROESELARE - FH04;84978;;BL0409;Ardooisesteenweg;80;;SDU;;0;1;0;1.0;BUILDING template
+155281;W01-C-Roeselare-FH04;FTTH-Cu;860079;8800.0;Roeselare;Beversesteenweg;150;;;1.0;1.0;18915.0;ROESELARE - FH04;860079;;BL0429;Beversesteenweg;150;;SDU;;1;0;0;1.0;BUILDING template
+155293;W01-C-Roeselare-FH04;FTTH-Cu;862515;8800.0;Roeselare;Beversesteenweg;176;;;1.0;;18925.0;ROESELARE - FH04;862515;;BL0429;Beversesteenweg;176;;SDU;;0;1;0;1.0;BUILDING template
+155332;W01-C-Roeselare-FH04;FTTH-Cu;874631;8800.0;Roeselare;Herentalslaan;18;;;1.0;1.0;18818.0;ROESELARE - FH04;874631;;BL0428;Herentalslaan;18;;SDU;;0;1;0;1.0;BUILDING template
+155341;W01-C-Roeselare-FH04;FTTH-Cu;874642;8800.0;Roeselare;Fabrieksstraat;52;;;1.0;1.0;17520.0;ROESELARE - FH04;874642;;BL0416;Fabrieksstraat;52;;SDU;;0;1;0;1.0;BUILDING template
+155406;W01-C-Roeselare-FH04;FTTH-Cu;875047;8800.0;Roeselare;Mandellaan;354;;;1.0;1.0;16834.0;ROESELARE - FH04;875047;;BL0412;Mandellaan;354;;SDU;;0;1;0;1.0;BUILDING template
+155444;W01-C-Roeselare-FH04;FTTH-Cu;875141;8800.0;Roeselare;Koornstraat;40;;;1.0;1.0;17332.0;ROESELARE - FH04;875141;;BL0415;Koornstraat;40;;SDU;;0;1;0;1.0;BUILDING template
+155450;W01-C-Roeselare-FH04;FTTH-Cu;875160;8800.0;Roeselare;Ardooisesteenweg;111;;;1.0;1.0;17629.0;ROESELARE - FH04;875160;;BL0417;Ardooisesteenweg;111;;SDU;;1;0;0;1.0;BUILDING template
+155459;W01-C-Roeselare-FH04;FTTH-Cu;875196;8800.0;Roeselare;Bruanestraat;27;;;1.0;1.0;17301.0;ROESELARE - FH04;875196;;BL0415;Bruanestraat;27;;SDU;;1;0;0;1.0;BUILDING template
+155462;W01-C-Roeselare-FH04;FTTH-Cu;875199;8800.0;Roeselare;Ardooisesteenweg;82;;;1.0;1.0;17277.0;ROESELARE - FH04;875199;;BL0415;Ardooisesteenweg;82;;SDU;;0;1;0;1.0;BUILDING template
+155477;W01-C-Roeselare-FH04;FTTH-Cu;875270;8800.0;Roeselare;Kaaistraat;75;;;1.0;;15450.0;ROESELARE - FH04;875270;;BL0401;Kaaistraat;75;;SDU;;1;0;0;1.0;BUILDING template
+155480;W01-C-Roeselare-FH04;FTTH-Cu;875276;8800.0;Roeselare;Spanjestraat;166;;;1.0;;15487.0;ROESELARE - FH04;875276;;BL0401;Spanjestraat;166;;SDU;;0;1;0;1.0;BUILDING template
+155483;W01-C-Roeselare-FH04;FTTH-Cu;875279;8800.0;Roeselare;Spanjestraat;154;;;1.0;;15484.0;ROESELARE - FH04;875279;;BL0401;Spanjestraat;154;;SDU;;0;1;0;1.0;BUILDING template
+155644;W01-C-Roeselare-FH05;FTTH-Cu;18649;8800.0;Roeselare;Heilig-Hartstraat;51;1.0;;1.0;;12923.0;ROESELARE - FH05;18649;;BL0502;Heilig-Hartstraat;51;;SDU;;1;0;1;2.0;BUILDING template
+155739;W01-C-Roeselare-FH05;FTTH-Cu;3414980;8800.0;Roeselare;Guido Gezellelaan;25;;;1.0;;15275.0;ROESELARE - FH05;3414980;;BL0521;Guido Gezellelaan;25;;SDU;;0;1;0;1.0;BUILDING template
+155747;W01-C-Roeselare-FH05;FTTH-Cu;3415196;8800.0;Roeselare;Gulden-Sporenstraat;6;1.0;1.0;1.0;;14098.0;ROESELARE - FH05;3415196;;BL0510;Gulden-Sporenstraat;6;;SDU;;0;1;1;2.0;BUILDING template
+155751;W01-C-Roeselare-FH05;FTTH-Cu;3415201;8800.0;Roeselare;Gulden-Sporenstraat;18;1.0;;1.0;;14102.0;ROESELARE - FH05;3415201;;BL0510;Gulden-Sporenstraat;18;;SDU;;0;1;1;2.0;BUILDING template
+156058;W01-C-Roeselare-FH05;FTTH-Cu;3419711;8800.0;Roeselare;Wallemeers;29;1.0;1.0;1.0;;13153.0;ROESELARE - FH05;3419711;;BL0506;Wallemeers;29;;SDU;;0;1;0;1.0;BUILDING template
+156362;W01-C-Roeselare-FH05;FTTH-Cu;5580470;8800.0;Roeselare;Leliestraat;63;;;1.0;;15041.0;ROESELARE - FH05;5580470;;BL0518;Leliestraat;63;;SDU;;1;0;0;1.0;BUILDING template
+156425;W01-C-Roeselare-FH05;FTTH-Cu;866508;8800.0;Roeselare;Meenseheirweg;36;;;1.0;;13416.0;ROESELARE - FH05;866508;;BL0501;Meenseheirweg;36;;SDU;;0;1;1;2.0;BUILDING template
+166313;W02-D-Evere-FH01;FTTH-Cu;1120023;1140.0;Evere;Avenue du Cimetière de Bruxelles;135;;;1.0;;91174.0;EVERE - FH01;1120023;;BL0120;Avenue du CimetiÃ¨re de Bruxelles - Kerkhof van Brussellaan;135;;SDU;;0;1;0;1.0;BUILDING template
+166587;W02-D-Evere-FH01;FTTH-Cu;1620947;1140.0;Evere;Chaussée de Louvain;1006;;;1.0;;87044.0;EVERE - FH01;1620947;;BL0103;ChaussÃ©e de Louvain - Leuvensesteenweg;1006;;SDU;;0;1;0;1.0;BUILDING template
+166696;W02-D-Evere-FH01;FTTH-Cu;1621082;1140.0;Evere;Avenue des Olympiades;6;;;1.0;;92424.0;EVERE - FH01;1621082;;BL0126;Avenue des Olympiades - Olympiadenlaan;6;;SDU;;1;0;0;1.0;BUILDING template
+167023;W02-D-Evere-FH01;FTTH-Cu;1623615;1140.0;Evere;Avenue Jules Bordet;104;;;1.0;;93614.0;EVERE - FH01;1623615;;BL0129;Avenue Jules Bordet - Jules Bordetlaan;104;;SDU;;1;0;0;1.0;BUILDING template
+167099;W02-D-Evere-FH01;FTTH-Cu;1623870;1140.0;Evere;Avenue du Cimetière de Bruxelles;147;;;1.0;;91179.0;EVERE - FH01;1623870;;BL0120;Avenue du CimetiÃ¨re de Bruxelles - Kerkhof van Brussellaan;147;;SDU;;1;0;0;1.0;BUILDING template
+167240;W02-D-Evere-FH01;FTTH-Cu;4110412;1140.0;Evere;Chaussée de Louvain;799;;;1.0;;89104.0;EVERE - FH01;4110412;;BL0115;ChaussÃ©e de Louvain - Leuvensesteenweg;799;;SDU;;1;0;0;1.0;BUILDING template
+167429;W02-D-Evere-FH01;FTTH-Cu;722661;1140.0;Evere;Avenue Jules Bordet;140;;;1.0;;92302.0;EVERE - FH01;722661;;BL0124;Avenue Jules Bordet - Jules Bordetlaan;140;;SDU;;1;0;0;1.0;BUILDING template
+167634;W02-D-Evere-FH01;FTTH-Cu;726863;1140.0;Evere;Avenue de l'Optimisme;21;;;1.0;;89112.0;EVERE - FH01;726863;;BL0115;Optimismelaan - Avenue de l'Optimisme;21;;SDU;;0;1;0;1.0;BUILDING template
+168102;W02-D-Hasselt-FH01;FTTH-Cu;2437119;3500.0;Hasselt;Runkstersteenweg;134;;;1.0;;78768.0;HASSELT - FH01;2437119;;BL0106;Runkstersteenweg;134;;SDU;;1;0;0;1.0;BUILDING template
+168468;W02-D-Hasselt-FH01;FTTH-Cu;5431532;3500.0;Hasselt;Boomkensstraat;63,B;;;1.0;;80502.0;HASSELT - FH01;5431532;;BL0109;Boomkensstraat;63;B;SDU;;0;1;0;1.0;BUILDING template
+168917;W02-D-Hasselt-FH02;FTTH-Cu;2413131;3500.0;Hasselt;Diesterstraat;23;;;1.0;;51069.0;HASSELT - FH02;2413131;;BL0209;Diesterstraat;23;;SDU;;1;0;0;1.0;BUILDING template
+169007;W02-D-Hasselt-FH02;FTTH-Cu;2417029;3500.0;Hasselt;Havermarkt;25;;;1.0;;307575.0;HASSELT - FH02;2417029;;BL0235;Havermarkt;25;;SDU;;1;0;0;1.0;BUILDING template
+169135;W02-D-Hasselt-FH02;FTTH-Cu;2426991;3500.0;Hasselt;Maastrichterstraat;48;;;1.0;;52655.0;HASSELT - FH02;2426991;;BL0220;Maastrichterstraat;48;;SDU;;1;0;0;1.0;BUILDING template
+169144;W02-D-Hasselt-FH02;FTTH-Cu;2427017;3500.0;Hasselt;Maastrichterstraat;71;;;1.0;;52618.0;HASSELT - FH02;2427017;;BL0223;Maastrichterstraat;71;;SDU;;1;0;0;1.0;BUILDING template
+169159;W02-D-Hasselt-FH02;FTTH-Cu;2427078;3500.0;Hasselt;Maastrichterstraat;99;;;1.0;;52547.0;HASSELT - FH02;2427078;;BL0221;Maastrichterstraat;99;;SDU;;1;0;0;1.0;BUILDING template
+169186;W02-D-Hasselt-FH02;FTTH-Cu;2429605;3500.0;Hasselt;Minderbroedersstraat;7;;;1.0;;51528.0;HASSELT - FH02;2429605;;BL0207;Minderbroedersstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+169275;W02-D-Hasselt-FH02;FTTH-Cu;2442294;3500.0;Hasselt;Thonissenlaan;37;;;1.0;;50527.0;HASSELT - FH02;2442294;;BL0202;Thonissenlaan;37;;SDU;;1;0;0;1.0;BUILDING template
+169282;W02-D-Hasselt-FH02;FTTH-Cu;2442393;3500.0;Hasselt;Thonissenlaan;57;;;1.0;;50535.0;HASSELT - FH02;2442393;;BL0202;Thonissenlaan;57;;SDU;;1;0;0;1.0;BUILDING template
+169317;W02-D-Hasselt-FH02;FTTH-Cu;2448102;3500.0;Hasselt;Witte-Nonnenstraat;12;;;1.0;;50960.0;HASSELT - FH02;2448102;;BL0204;Witte-Nonnenstraat;12;;SDU;;1;0;0;1.0;BUILDING template
+169333;W02-D-Hasselt-FH02;FTTH-Cu;2449085;3500.0;Hasselt;Zuivelmarkt;18;1.0;;1.0;;51575.0;HASSELT - FH02;2449085;;BL0216;Zuivelmarkt;18;;SDU;;1;0;0;1.0;BUILDING template
+169422;W02-D-Hasselt-FH02;FTTH-Cu;4846483;3500.0;Hasselt;Hemelrijk;2;;;1.0;;52109.0;HASSELT - FH02;4846483;;BL0219;Hemelrijk;2;;SDU;;0;1;0;1.0;BUILDING template
+169423;W02-D-Hasselt-FH02;FTTH-Cu;4846488;3500.0;Hasselt;Hemelrijk;6;;;1.0;;52111.0;HASSELT - FH02;4846488;;BL0219;Hemelrijk;6;;SDU;;0;1;0;1.0;BUILDING template
+169729;W02-D-Hasselt-FH02;FTTH-Cu;70211;3500.0;Hasselt;Demerstraat;107;;;1.0;;50544.0;HASSELT - FH02;70211;;BL0204;Demerstraat;107;;SDU;;1;0;0;1.0;BUILDING template
+169779;W02-D-Hasselt-FH02;FTTH-Cu;70290;3500.0;Hasselt;Witte-Nonnenstraat;14;;;1.0;;50961.0;HASSELT - FH02;70290;;BL0204;Witte-Nonnenstraat;14;;SDU;;1;0;0;1.0;BUILDING template
+171494;W02-D-Leuven-FH01;FTTH-Cu;1186845;3000.0;Leuven;Tiensestraat;200;;;1.0;1.0;516901.0;LEUVEN - FH01;1186845;Nr 202 en 200;BL0012;Tiensestraat;200;;SDU;;1;0;0;1.0;BUILDING template
+171522;W02-D-Leuven-FH01;FTTH-Cu;1186898;3000.0;Leuven;Tiensevest;188;;;1.0;;23563.0;LEUVEN - FH01;1186898;NR 190 188 en 166;BL0010;Tiensevest;188;;SDU;;1;0;1;2.0;BUILDING template
+171534;W02-D-Leuven-FH01;FTTH-Cu;1270415;3000.0;Leuven;Dagobertstraat;52;;;1.0;;22553.0;LEUVEN - FH01;1270415;;BL0009;Dagobertstraat;52;;SDU;;1;0;0;1.0;BUILDING template
+171573;W02-D-Leuven-FH01;FTTH-Cu;3010388;3000.0;Leuven;Blijde-Inkomststraat;31,A;;;1.0;1.0;21120.0;LEUVEN - FH01;3010388;;BL0006;Blijde-Inkomststraat;31;A;SDU;;1;0;0;1.0;BUILDING template
+171593;W02-D-Leuven-FH01;FTTH-Cu;3010446;3000.0;Leuven;Blijde-Inkomststraat;80;;;1.0;1.0;243487.0;LEUVEN - FH01;3010446;;BL0007;Blijde-Inkomststraat;80;;SDU;;1;0;0;1.0;BUILDING template
+171667;W02-D-Leuven-FH01;FTTH-Cu;3013459;3000.0;Leuven;Burgemeestersstraat;5;;;1.0;1.0;516893.0;LEUVEN - FH01;3013459;5 7 en 9;BL0007;Burgemeestersstraat;5;;SDU;;1;0;0;1.0;BUILDING template
+171675;W02-D-Leuven-FH01;FTTH-Cu;3013482;3000.0;Leuven;Burgemeestersstraat;25;;;1.0;;516897.0;LEUVEN - FH01;3013482;;BL0006;Burgemeestersstraat;25;;SDU;;1;0;0;1.0;BUILDING template
+171678;W02-D-Leuven-FH01;FTTH-Cu;3013491;3000.0;Leuven;Burgemeestersstraat;32;;;1.0;1.0;22527.0;LEUVEN - FH01;3013491;;BL0009;Burgemeestersstraat;32;;SDU;E;1;0;1;2.0;BUILDING template
+171681;W02-D-Leuven-FH01;FTTH-Cu;3013499;3000.0;Leuven;Burgemeestersstraat;42;;;1.0;1.0;22530.0;LEUVEN - FH01;3013499;;BL0009;Burgemeestersstraat;42;;SDU;;1;0;0;1.0;BUILDING template
+171683;W02-D-Leuven-FH01;FTTH-Cu;3014194;3000.0;Leuven;Dagobertstraat;5;;;1.0;1.0;21939.0;LEUVEN - FH01;3014194;;BL0008;Dagobertstraat;5;;SDU;;1;0;0;1.0;BUILDING template
+171685;W02-D-Leuven-FH01;FTTH-Cu;3014197;3000.0;Leuven;Dagobertstraat;7;;;1.0;1.0;21940.0;LEUVEN - FH01;3014197;;BL0008;Dagobertstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+171687;W02-D-Leuven-FH01;FTTH-Cu;3014199;3000.0;Leuven;Dagobertstraat;9;;;1.0;1.0;21941.0;LEUVEN - FH01;3014199;;BL0008;Dagobertstraat;9;;SDU;;0;1;0;1.0;BUILDING template
+171786;W02-D-Leuven-FH01;FTTH-Cu;3029196;3000.0;Leuven;Maria-Theresiastraat;12;;;1.0;1.0;21149.0;LEUVEN - FH01;3029196;;BL0006;Maria-Theresiastraat;12;;SDU;;1;0;0;1.0;BUILDING template
+171897;W02-D-Leuven-FH01;FTTH-Cu;3046991;3000.0;Leuven;Tiensestraat;185;;;1.0;1.0;516899.0;LEUVEN - FH01;3046991;Nr 185 187 189 en 191;BL0010;Tiensestraat;185;;SDU;;1;0;0;1.0;BUILDING template
+171900;W02-D-Leuven-FH01;FTTH-Cu;3046998;3000.0;Leuven;Tiensestraat;191;;;1.0;1.0;516900.0;LEUVEN - FH01;3046998;Nr 185 187 189 en 191;BL0010;Tiensestraat;191;;SDU;;1;0;0;1.0;BUILDING template
+171927;W02-D-Leuven-FH01;FTTH-Cu;3047044;3000.0;Leuven;Tiensestraat;237;;;1.0;;23547.0;LEUVEN - FH01;3047044;Nr 237 en A Nr 239 en A;BL0010;Tiensestraat;237;;SDU;;0;1;0;1.0;BUILDING template
+171934;W02-D-Leuven-FH01;FTTH-Cu;3047057;3000.0;Leuven;Tiensestraat;252;;;1.0;;24040.0;LEUVEN - FH01;3047057;;BL0012;Tiensestraat;252;;SDU;;1;0;0;1.0;BUILDING template
+171940;W02-D-Leuven-FH01;FTTH-Cu;3047066;3000.0;Leuven;Tiensestraat;259;;;1.0;;243507.0;LEUVEN - FH01;3047066;;BL0010;Tiensestraat;259;;SDU;;1;0;0;1.0;BUILDING template
+171947;W02-D-Leuven-FH01;FTTH-Cu;3047078;3000.0;Leuven;Tiensestraat;269;;;1.0;;23559.0;LEUVEN - FH01;3047078;Building Group;BL0010;Tiensestraat;269;;SDU;;1;0;0;1.0;BUILDING template
+171948;W02-D-Leuven-FH01;FTTH-Cu;3047083;3000.0;Leuven;Tiensestraat;271;;;1.0;;243509.0;LEUVEN - FH01;3047083;Building Group;BL0010;Tiensestraat;271;;SDU;;1;1;0;2.0;BUILDING template
+171949;W02-D-Leuven-FH01;FTTH-Cu;3047085;3000.0;Leuven;Tiensestraat;273;;;1.0;;243510.0;LEUVEN - FH01;3047085;Building Group;BL0010;Tiensestraat;273;;SDU;;1;0;0;1.0;BUILDING template
+172002;W02-D-Leuven-FH01;FTTH-Cu;3053562;3000.0;Leuven;Windmolenveldstraat;7;;;1.0;;24833.0;LEUVEN - FH01;3053562;Nr 5en7;BL0017;Windmolenveldstraat;7;;SDU;;0;1;0;1.0;BUILDING template
+172018;W02-D-Leuven-FH01;FTTH-Cu;3053593;3000.0;Leuven;Windmolenveldstraat;72;;;1.0;1.0;206226.0;LEUVEN - FH01;3053593;Nr 70  en 72;BL0011;Windmolenveldstraat;72;;SDU;;0;1;0;1.0;BUILDING template
+172045;W02-D-Leuven-FH01;FTTH-Cu;3923585;3000.0;Leuven;Dagobertstraat;20;;;1.0;1.0;22540.0;LEUVEN - FH01;3923585;Dagobertstraat 20;BL0009;Dagobertstraat;20;;SDU;;1;0;1;2.0;BUILDING template
+172065;W02-D-Leuven-FH01;FTTH-Cu;3941307;3000.0;Leuven;Mathildegang;16;;;1.0;1.0;287055.0;LEUVEN - FH01;3941307;The Village;BL0009;Mathildegang;16;;SDU;;1;0;0;1.0;BUILDING template
+172079;W02-D-Leuven-FH01;FTTH-Cu;3941618;3000.0;Leuven;Windmolenveldstraat;5;;;1.0;;24832.0;LEUVEN - FH01;3941618;Nr 5en7;BL0017;Windmolenveldstraat;5;;SDU;;0;1;0;1.0;BUILDING template
+172130;W02-D-Leuven-FH01;FTTH-Cu;4026436;3000.0;Leuven;Burgemeestersstraat;23;1.0;;1.0;;516896.0;LEUVEN - FH01;4026436;;BL0006;Burgemeestersstraat;23;;SDU;;1;0;0;1.0;BUILDING template
+172178;W02-D-Leuven-FH01;FTTH-Cu;475321;3000.0;Leuven;Mathildegang;14;;;1.0;1.0;22565.0;LEUVEN - FH01;475321;14 en 16;BL0009;Mathildegang;14;;SDU;;1;0;1;2.0;BUILDING template
+172301;W02-D-Leuven-FH01;FTTH-Cu;4799458;3000.0;Leuven;Burgemeestersstraat;7;;;1.0;1.0;516894.0;LEUVEN - FH01;4799458;5 7 en 9;BL0007;Burgemeestersstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+172304;W02-D-Leuven-FH01;FTTH-Cu;4799468;3000.0;Leuven;Tiensestraat;187;;;1.0;1.0;23532.0;LEUVEN - FH01;4799468;Hr 185 187 189 en 191;BL0010;Tiensestraat;187;;SDU;;0;1;0;1.0;BUILDING template
+172370;W02-D-Leuven-FH01;FTTH-Cu;5307145;3000.0;Leuven;Mathildegang;11;;;1.0;1.0;22563.0;LEUVEN - FH01;5307145;Dagobertstraat 20;BL0009;Mathildegang;11;;SDU;;0;1;0;1.0;BUILDING template
+172387;W02-D-Leuven-FH01;FTTH-Cu;5467738;3000.0;Leuven;Mathildegang;7;;;1.0;1.0;22561.0;LEUVEN - FH01;5467738;Dagobertstraat 20;BL0009;Mathildegang;7;;SDU;;0;1;0;1.0;BUILDING template
+172391;W02-D-Leuven-FH01;FTTH-Cu;5504940;3000.0;Leuven;Mathildegang;5;;;1.0;1.0;22560.0;LEUVEN - FH01;5504940;Dagobertstraat 20;BL0009;Mathildegang;5;;SDU;;0;1;0;1.0;BUILDING template
+172392;W02-D-Leuven-FH01;FTTH-Cu;5504941;3000.0;Leuven;Mathildegang;9;;;1.0;1.0;22562.0;LEUVEN - FH01;5504941;Dagobertstraat 20;BL0009;Mathildegang;9;;SDU;;0;1;0;1.0;BUILDING template
+172393;W02-D-Leuven-FH01;FTTH-Cu;5541203;3000.0;Leuven;Mathildegang;13;;;1.0;1.0;22564.0;LEUVEN - FH01;5541203;Dagobertstraat 20;BL0009;Mathildegang;13;;SDU;;0;1;0;1.0;BUILDING template
+172395;W02-D-Leuven-FH01;FTTH-Cu;5547314;3000.0;Leuven;Mathildegang;15;;;1.0;1.0;243501.0;LEUVEN - FH01;5547314;;BL0009;Mathildegang;15;;SDU;;0;1;0;1.0;BUILDING template
+172396;W02-D-Leuven-FH01;FTTH-Cu;5602410;3000.0;Leuven;Bogaardenstraat;36;1.0;;1.0;1.0;516891.0;LEUVEN - FH01;5602410;;BL0002;Bogaardenstraat;36;;SDU;;0;1;0;1.0;BUILDING template
+172398;W02-D-Leuven-FH01;FTTH-Cu;5602518;3000.0;Leuven;Mathildegang;1;;;1.0;1.0;22556.0;LEUVEN - FH01;5602518;Dagobertstraat 20;BL0009;Mathildegang;1;;SDU;;0;1;0;1.0;BUILDING template
+172399;W02-D-Leuven-FH01;FTTH-Cu;5703225;3000.0;Leuven;Arnould Nobelstraat;44;;;1.0;1.0;21931.0;LEUVEN - FH01;5703225;;BL0008;Arnould Nobelstraat;44;;SDU;;1;0;1;2.0;BUILDING template
+172400;W02-D-Leuven-FH01;FTTH-Cu;5705604;3000.0;Leuven;Mathildegang;3;;;1.0;1.0;22558.0;LEUVEN - FH01;5705604;Dagobertstraat 20;BL0009;Mathildegang;3;;SDU;;0;1;0;1.0;BUILDING template
+172404;W02-D-Leuven-FH01;FTTH-Cu;5732950;3000.0;Leuven;Arnould Nobelstraat;32;;;1.0;1.0;21929.0;LEUVEN - FH01;5732950;;BL0008;Arnould Nobelstraat;32;;SDU;;1;0;1;2.0;BUILDING template
+172409;W02-D-Leuven-FH01;FTTH-Cu;5831803;3000.0;Leuven;Mathildegang;18;;;1.0;1.0;22567.0;LEUVEN - FH01;5831803;;BL0009;Mathildegang;18;;SDU;;0;1;0;1.0;BUILDING template
+172411;W02-D-Leuven-FH01;FTTH-Cu;5906630;3000.0;Leuven;Mathildegang;19;;;1.0;1.0;22568.0;LEUVEN - FH01;5906630;;BL0009;Mathildegang;19;;SDU;;0;1;0;1.0;BUILDING template
+172416;W02-D-Leuven-FH01;FTTH-Cu;6134070;3000.0;Leuven;Blijde-Inkomststraat;31,C;;;1.0;1.0;21121.0;LEUVEN - FH01;6134070;;BL0006;Blijde-Inkomststraat;31;C;SDU;;1;0;0;1.0;BUILDING template
+172421;W02-D-Leuven-FH01;FTTH-Cu;6138799;3000.0;Leuven;Justus Lipsiusstraat;46,C;;;1.0;1.0;243497.0;LEUVEN - FH01;6138799;;BL0008;Justus Lipsiusstraat;46;C;SDU;;1;0;0;1.0;BUILDING template
+172440;W02-D-Leuven-FH02;FTTH-Cu;1066899;3000.0;Leuven;Schrijnmakersstraat;8;;;1.0;1.0;105104.0;LEUVEN - FH02;1066899;;BL0012;Schrijnmakersstraat;8;;SDU;;1;0;0;1.0;BUILDING template
+172485;W02-D-Leuven-FH02;FTTH-Cu;1100193;3000.0;Leuven;Rattemanspoort;10;;;1.0;;107437.0;LEUVEN - FH02;1100193;;BL0030;Rattemanspoort;10;;SDU;;1;0;0;1.0;BUILDING template
+172588;W02-D-Leuven-FH02;FTTH-Cu;1522780;3000.0;Leuven;Brouwersstraat;7;;;1.0;1.0;102771.0;LEUVEN - FH02;1522780;;BL0003;Brouwersstraat;7;;SDU;;0;1;0;1.0;BUILDING template
+173383;W02-D-Leuven-FH02;FTTH-Cu;3049361;3000.0;Leuven;Karel van Lotharingenstraat;7;;;1.0;;104254.0;LEUVEN - FH02;3049361;;BL0009;Karel van Lotharingenstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+173657;W02-D-Leuven-FH02;FTTH-Cu;4255358;3000.0;Leuven;Schrijnmakersstraat;18;;;1.0;;105109.0;LEUVEN - FH02;4255358;;BL0012;Schrijnmakersstraat;18;;SDU;;1;0;0;1.0;BUILDING template
+173705;W02-D-Leuven-FH02;FTTH-Cu;4788337;3000.0;Leuven;Craenendonck;6;;;1.0;;103994.0;LEUVEN - FH02;4788337;;BL0008;Craenendonck;6;;SDU;;1;0;0;1.0;BUILDING template
+173984;W02-D-Leuven-FH03;FTTH-Cu;1023639;3000.0;Leuven;Diestsevest;92;;;1.0;;436189.0;LEUVEN - FH03;1023639;;BL0326;Diestsevest;92;;SDU;;1;0;0;1.0;BUILDING template
+174044;W02-D-Leuven-FH03;FTTH-Cu;1190290;3000.0;Leuven;Bondgenotenlaan;54;;;1.0;;8200.0;LEUVEN - FH03;1190290;;BL0304;Bondgenotenlaan;54;;SDU;;1;0;0;1.0;BUILDING template
+174111;W02-D-Leuven-FH03;FTTH-Cu;172658;3000.0;Leuven;Diestsevest;94;;;1.0;;436192.0;LEUVEN - FH03;172658;;BL0326;Diestsevest;94;;SDU;;1;0;0;1.0;BUILDING template
+174113;W02-D-Leuven-FH03;FTTH-Cu;172662;3000.0;Leuven;Diestsevest;96;;;1.0;;12572.0;LEUVEN - FH03;172662;;BL0326;Diestsevest;96;;SDU;;1;0;0;1.0;BUILDING template
+174156;W02-D-Leuven-FH03;FTTH-Cu;173163;3000.0;Leuven;Jean-Baptiste Van Monsstraat;73;;;1.0;;12706.0;LEUVEN - FH03;173163;;BL0327;Jean-Baptiste Van Monsstraat;73;;SDU;;1;0;0;1.0;BUILDING template
+174301;W02-D-Leuven-FH03;FTTH-Cu;3010908;3000.0;Leuven;Bondgenotenlaan;133;;;1.0;;11393.0;LEUVEN - FH03;3010908;;BL0320;Bondgenotenlaan;133;;SDU;;1;0;0;1.0;BUILDING template
+174315;W02-D-Leuven-FH03;FTTH-Cu;3010936;3000.0;Leuven;Bondgenotenlaan;155,A;;;1.0;;11412.0;LEUVEN - FH03;3010936;;BL0320;Bondgenotenlaan;155;A;SDU;;1;0;0;1.0;BUILDING template
+174465;W02-D-Leuven-FH03;FTTH-Cu;3015954;3000.0;Leuven;Diestsevest;21;;;1.0;;86416.0;LEUVEN - FH03;3015954;;BL0325;Diestsevest;21;;SDU;;0;1;0;1.0;BUILDING template
+174491;W02-D-Leuven-FH03;FTTH-Cu;3016047;3000.0;Leuven;Diestsevest;98;;;1.0;;160555.0;LEUVEN - FH03;3016047;;BL0326;Diestsevest;98;;SDU;;1;0;0;1.0;BUILDING template
+175102;W02-D-Leuven-FH03;FTTH-Cu;378447;3000.0;Leuven;Bondgenotenlaan;55;;;1.0;;8066.0;LEUVEN - FH03;378447;;BL0303;Bondgenotenlaan;55;;SDU;;1;0;0;1.0;BUILDING template
+175178;W02-D-Leuven-FH03;FTTH-Cu;3923566;3000.0;Leuven;Bogaardenstraat;26;;;1.0;;8375.0;LEUVEN - FH03;3923566;;BL0306;Bogaardenstraat;26;;SDU;;1;0;0;1.0;BUILDING template
+175421;W02-D-Leuven-FH03;FTTH-Cu;4799320;3000.0;Leuven;Diestsevest;66;;;1.0;;12559.0;LEUVEN - FH03;4799320;;BL0326;Diestsevest;66;;SDU;;1;0;0;1.0;BUILDING template
+175479;W02-D-Leuven-FH03;FTTH-Cu;5380;3000.0;Leuven;Diestsestraat;229;;;1.0;;86391.0;LEUVEN - FH03;5380;;BL0325;Diestsestraat;229;;SDU;;1;0;0;1.0;BUILDING template
+175564;W02-D-Liege-FH01;FTTH-Cu;1309692;4000.0;Liège;Rue de la Casquette;23;;;1.0;;41520.0;LIÃGE - FH01;1309692;23 rue de la Casquette 4000 LiÃ¨ge;0111;Rue de la Casquette;23;;SDU;D;1;3;4;;BUILDING template
+175571;W02-D-Liege-FH01;FTTH-Cu;1356492;4000.0;Liège;Mont Saint-Martin;89;;;1.0;;44010.0;LIÃGE - FH01;1356492;;0129;Mont Saint-Martin;89;;SDU;;;;;;BUILDING template
+175576;W02-D-Liege-FH01;FTTH-Cu;1366858;4000.0;Liège;Thier de la Fontaine;89;;;1.0;;43553.0;LIÃGE - FH01;1366858;;0131;Thier de la Fontaine;89;;SDU;;0;1;0;1.0;BUILDING template
+175583;W02-D-Liege-FH01;FTTH-Cu;1475287;4000.0;Liège;Rue Monulphe;79;;;1.0;;201769.0;LIÃGE - FH01;1475287;;BL0130;Rue Monulphe;79;;SDU;;0;1;0;1.0;BUILDING template
+175584;W02-D-Liege-FH01;FTTH-Cu;1475889;4000.0;Liège;Rue Pont d'Avroy;10;;;1.0;;40869.0;LIÃGE - FH01;1475889;;0106;Rue Pont dAvroy;10;;SDU;;;;;;BUILDING template
+175585;W02-D-Liege-FH01;FTTH-Cu;1477942;4000.0;Liège;Rue Sur la Fontaine;87;;;1.0;;42947.0;LIÃGE - FH01;1477942;;0121;Rue Sur la Fontaine;87;;SDU;;0;1;0;1.0;BUILDING template
+175590;W02-D-Liege-FH01;FTTH-Cu;1505178;4000.0;Liège;Rue Monulphe;65;;;1.0;;201762.0;LIÃGE - FH01;1505178;;BL0130;Rue Monulphe;65;;SDU;;0;1;0;1.0;BUILDING template
+175592;W02-D-Liege-FH01;FTTH-Cu;1508512;4000.0;Liège;Rue d'Amay;4;;;1.0;;40974.0;LIÃGE - FH01;1508512;4 Rue d'Amay 4000 LiÃ¨ge;0107;Rue dAmay;4;;SDU;;1;;2;;BUILDING template
+175602;W02-D-Liege-FH01;FTTH-Cu;2739061;4000.0;Liège;Rue Lulay des Fèbvres;1,B;;;1.0;;40800.0;LIÃGE - FH01;2739061;1b Rue Lulay-Des-FÃ¨bvres 4000 LiÃ¨ge;0102;Rue Lulay des Febvres;1;B;SDU;;1;;1;;BUILDING template
+175604;W02-D-Liege-FH01;FTTH-Cu;2739069;4000.0;Liège;Rue Lulay des Fèbvres;5,A;;;1.0;;40801.0;LIÃGE - FH01;2739069;5a Rue Lulay-Des-FÃ¨bvres 4000 LiÃ¨ge;0102;Rue Lulay des Febvres;5;A;SDU;;1;;3;;BUILDING template
+175609;W02-D-Liege-FH01;FTTH-Cu;2739113;4000.0;Liège;Rue Lulay des Fèbvres;9;;1.0;1.0;1.0;40899.0;LIÃGE - FH01;2739113;;0101;Rue Lulay des Febvres;9;;SDU;;;;;;BUILDING template
+175618;W02-D-Liege-FH01;FTTH-Cu;2748166;4000.0;Liège;Rue Léon Mignon;19;;;1.0;;43496.0;LIÃGE - FH01;2748166;;0128;Rue Leon Mignon;19;;SDU;;0;1;0;1.0;BUILDING template
+175627;W02-D-Liege-FH01;FTTH-Cu;2750916;4000.0;Liège;Mont Saint-Martin;17;;1.0;1.0;1.0;43565.0;LIÃGE - FH01;2750916;;0126;Mont Saint-Martin;17;;SDU;;0;1;0;1.0;BUILDING template
+175630;W02-D-Liege-FH01;FTTH-Cu;2750975;4000.0;Liège;Mont Saint-Martin;22;;;1.0;;43018.0;LIÃGE - FH01;2750975;;0127;Mont Saint-Martin;22;;SDU;;1;;;2.0;BUILDING template
+175644;W02-D-Liege-FH01;FTTH-Cu;2751114;4000.0;Liège;Mont Saint-Martin;42;;;1.0;;43027.0;LIÃGE - FH01;2751114;;0127;Mont Saint-Martin;42;;SDU;;;;;;BUILDING template
+175648;W02-D-Liege-FH01;FTTH-Cu;2751145;4000.0;Liège;Mont Saint-Martin;50;;;1.0;;43031.0;LIÃGE - FH01;2751145;;0127;Mont Saint-Martin;50;;SDU;;;;;;BUILDING template
+175658;W02-D-Liege-FH01;FTTH-Cu;2751259;4000.0;Liège;Mont Saint-Martin;75;;1.0;1.0;1.0;43982.0;LIÃGE - FH01;2751259;;0126;Mont Saint-Martin;75;;SDU;;;;;;BUILDING template
+175671;W02-D-Liege-FH01;FTTH-Cu;2751455;4000.0;Liège;Rue Monulphe;63;;;1.0;;201761.0;LIÃGE - FH01;2751455;;BL0130;Rue Monulphe;63;;SDU;;0;1;0;1.0;BUILDING template
+175685;W02-D-Liege-FH01;FTTH-Cu;2754202;4000.0;Liège;Rue du Mouton Blanc;7;;;1.0;;40920.0;LIÃGE - FH01;2754202;7 Rue du Mouton-Blanc 4000 LiÃ¨ge;0105;Rue du Mouton Blanc;7;;SDU;;1;;2;;BUILDING template
+175687;W02-D-Liege-FH01;FTTH-Cu;2754209;4000.0;Liège;Rue du Mouton Blanc;9;;;1.0;;40921.0;LIÃGE - FH01;2754209;9 rue du mouton blanc;0105;Rue du Mouton Blanc;9;;SDU;D;;3;0;;BUILDING template
+175690;W02-D-Liege-FH01;FTTH-Cu;2754235;4000.0;Liège;Rue du Mouton Blanc;13,A;;;1.0;;40928.0;LIÃGE - FH01;2754235;;0105;Rue du Mouton Blanc;13;A;SDU;;;;;;BUILDING template
+175694;W02-D-Liege-FH01;FTTH-Cu;2754285;4000.0;Liège;Rue du Mouton Blanc;19;;;1.0;;40925.0;LIÃGE - FH01;2754285;;0105;Rue du Mouton Blanc;19;;SDU;;;;;;BUILDING template
+175702;W02-D-Liege-FH01;FTTH-Cu;2757918;4000.0;Liège;Place Xavier Neujean;19,A;;;1.0;;41488.0;LIÃGE - FH01;2757918;;0117;Place Xavier Neujean;19;A;SDU;;;;;;BUILDING template
+175704;W02-D-Liege-FH01;FTTH-Cu;2757951;4000.0;Liège;Place Xavier Neujean;23;;1.0;1.0;1.0;42487.0;LIÃGE - FH01;2757951;23-25 Place Xavier-Neujean 4000 LiÃ¨ge;0118;Place Xavier Neujean;23;;SDU;D;2;6;5;;BUILDING template
+175721;W02-D-Liege-FH01;FTTH-Cu;2765871;4000.0;Liège;Rue Pont d'Avroy;28;;;1.0;;40958.0;LIÃGE - FH01;2765871;;0107;Rue Pont dAvroy;28;;SDU;;1;;;;BUILDING template
+175723;W02-D-Liege-FH01;FTTH-Cu;2765878;4000.0;Liège;Rue Pont d'Avroy;34;;;1.0;;40961.0;LIÃGE - FH01;2765878;;0107;Rue Pont dAvroy;34;;SDU;;1;;;;BUILDING template
+175730;W02-D-Liege-FH01;FTTH-Cu;2765920;4000.0;Liège;Pont d'Ile;5;;;1.0;;40791.0;LIÃGE - FH01;2765920;;0102;Pont dIle;5;;SDU;;;;;;BUILDING template
+175731;W02-D-Liege-FH01;FTTH-Cu;2765926;4000.0;Liège;Pont d'Ile;9;;;1.0;;40792.0;LIÃGE - FH01;2765926;7/9 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;9;;SDU;;1;;;;BUILDING template
+175733;W02-D-Liege-FH01;FTTH-Cu;2765929;4000.0;Liège;Pont d'Ile;11;;;1.0;;40793.0;LIÃGE - FH01;2765929;11 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;11;;SDU;;1;;1;;BUILDING template
+175734;W02-D-Liege-FH01;FTTH-Cu;2765931;4000.0;Liège;Pont d'Ile;13;;;1.0;;40794.0;LIÃGE - FH01;2765931;;0102;Pont dIle;13;;SDU;;1;0;0;1.0;BUILDING template
+175736;W02-D-Liege-FH01;FTTH-Cu;2765936;4000.0;Liège;Pont d'Ile;15;;;1.0;;40795.0;LIÃGE - FH01;2765936;15 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;15;;SDU;;1;;2;;BUILDING template
+175740;W02-D-Liege-FH01;FTTH-Cu;2765946;4000.0;Liège;Pont d'Ile;21;;;1.0;;40798.0;LIÃGE - FH01;2765946;21 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;21;;SDU;;1;;1;;BUILDING template
+175744;W02-D-Liege-FH01;FTTH-Cu;2765951;4000.0;Liège;Pont d'Ile;27;;;1.0;;40815.0;LIÃGE - FH01;2765951;27/29 rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;27;;SDU;;1;;3;;BUILDING template
+175748;W02-D-Liege-FH01;FTTH-Cu;2765967;4000.0;Liège;Pont d'Ile;37;;;1.0;;40818.0;LIÃGE - FH01;2765967;37 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;37;;SDU;;1;;2;;BUILDING template
+175749;W02-D-Liege-FH01;FTTH-Cu;2765970;4000.0;Liège;Pont d'Ile;39;;;1.0;;40819.0;LIÃGE - FH01;2765970;39 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;39;;SDU;;1;;2;;BUILDING template
+175752;W02-D-Liege-FH01;FTTH-Cu;2765978;4000.0;Liège;Pont d'Ile;45;;;1.0;;40822.0;LIÃGE - FH01;2765978;45 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;45;;SDU;;1;;3;;BUILDING template
+175754;W02-D-Liege-FH01;FTTH-Cu;2765985;4000.0;Liège;Pont d'Ile;47;;;1.0;;40823.0;LIÃGE - FH01;2765985;47 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;47;;SDU;;1;;3;;BUILDING template
+175756;W02-D-Liege-FH01;FTTH-Cu;2765989;4000.0;Liège;Pont d'Ile;49;;;1.0;;40824.0;LIÃGE - FH01;2765989;49 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;49;;SDU;;1;;3;;BUILDING template
+175758;W02-D-Liege-FH01;FTTH-Cu;2765994;4000.0;Liège;Pont d'Ile;51;;;1.0;;40825.0;LIÃGE - FH01;2765994;51 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;51;;SDU;;1;;3;;BUILDING template
+175760;W02-D-Liege-FH01;FTTH-Cu;2766174;4000.0;Liège;Rue du Pot d'Or;3;;;1.0;;40929.0;LIÃGE - FH01;2766174;3 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;3;;SDU;;1;;3;;BUILDING template
+175764;W02-D-Liege-FH01;FTTH-Cu;2766181;4000.0;Liège;Rue du Pot d'Or;7;;;1.0;;40931.0;LIÃGE - FH01;2766181;7 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;7;;SDU;;1;;3;;BUILDING template
+175765;W02-D-Liege-FH01;FTTH-Cu;2766183;4000.0;Liège;Rue du Pot d'Or;9;;;1.0;;40932.0;LIÃGE - FH01;2766183;;0105;Rue du Pot dOr;9;;SDU;;;;;;BUILDING template
+175767;W02-D-Liege-FH01;FTTH-Cu;2766193;4000.0;Liège;Rue du Pot d'Or;13;;;1.0;;40933.0;LIÃGE - FH01;2766193;13 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;13;;SDU;;1;;;;BUILDING template
+175768;W02-D-Liege-FH01;FTTH-Cu;2766195;4000.0;Liège;Rue du Pot d'Or;14;;;1.0;;42003.0;LIÃGE - FH01;2766195;14 Rue du Pot d'or 4000 Liege;0112;Rue du Pot dOr;14;;SDU;;1;;2;;BUILDING template
+175774;W02-D-Liege-FH01;FTTH-Cu;2766216;4000.0;Liège;Rue du Pot d'Or;28;;;1.0;;41925.0;LIÃGE - FH01;2766216;28 rue du Pot d'Or 4000 LiÃ¨ge;0111;Rue du Pot dOr;28;;SDU;;1;;4;;BUILDING template
+175777;W02-D-Liege-FH01;FTTH-Cu;2766224;4000.0;Liège;Rue du Pot d'Or;33;;;1.0;;40888.0;LIÃGE - FH01;2766224;;0106;Rue du Pot dOr;33;;SDU;;1;;;;BUILDING template
+175782;W02-D-Liege-FH01;FTTH-Cu;2766236;4000.0;Liège;Rue du Pot d'Or;40;;;1.0;;41420.0;LIÃGE - FH01;2766236;;0110;Rue du Pot dOr;40;;SDU;;;;;;BUILDING template
+175784;W02-D-Liege-FH01;FTTH-Cu;2766242;4000.0;Liège;Rue du Pot d'Or;43;;;1.0;;40979.0;LIÃGE - FH01;2766242;;0107;Rue du Pot dOr;43;;SDU;;;;;;BUILDING template
+175808;W02-D-Liege-FH01;FTTH-Cu;2777848;4000.0;Liège;Boulevard de la Sauvenière;37;;;1.0;1.0;42951.0;LIÃGE - FH01;2777848;37 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0119;Boulevard de la Sauveniere;37;;SDU;D;3;6;1;;BUILDING template
+175822;W02-D-Liege-FH01;FTTH-Cu;2777908;4000.0;Liège;Boulevard de la Sauvenière;74;;;1.0;;43987.0;LIÃGE - FH01;2777908;74 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0129;Boulevard de la Sauveniere;74;;SDU;;1;4;;;BUILDING template
+175824;W02-D-Liege-FH01;FTTH-Cu;2777914;4000.0;Liège;Boulevard de la Sauvenière;78;;;1.0;;43989.0;LIÃGE - FH01;2777914;;0129;Boulevard de la Sauveniere;78;;SDU;;0;1;0;1.0;BUILDING template
+175835;W02-D-Liege-FH01;FTTH-Cu;2777964;4000.0;Liège;Boulevard de la Sauvenière;96;;;1.0;;43996.0;LIÃGE - FH01;2777964;;0129;Boulevard de la Sauveniere;96;;SDU;;0;1;0;1.0;BUILDING template
+175836;W02-D-Liege-FH01;FTTH-Cu;2777965;4000.0;Liège;Boulevard de la Sauvenière;97,B;;;1.0;;42973.0;LIÃGE - FH01;2777965;;0119;Boulevard de la Sauveniere;97;B;SDU;;;;;;BUILDING template
+175837;W02-D-Liege-FH01;FTTH-Cu;2777966;4000.0;Liège;Boulevard de la Sauvenière;98;;;1.0;;43997.0;LIÃGE - FH01;2777966;;0129;Boulevard de la Sauveniere;98;;SDU;;;;;;BUILDING template
+175841;W02-D-Liege-FH01;FTTH-Cu;2777977;4000.0;Liège;Boulevard de la Sauvenière;105;;;1.0;;42477.0;LIÃGE - FH01;2777977;105 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0118;Boulevard de la Sauveniere;105;;SDU;C;4;2;;;BUILDING template
+175843;W02-D-Liege-FH01;FTTH-Cu;2777979;4000.0;Liège;Boulevard de la Sauvenière;109;;;1.0;;42479.0;LIÃGE - FH01;2777979;;0118;Boulevard de la Sauveniere;109;;SDU;D;1;0;0;1.0;BUILDING template
+175855;W02-D-Liege-FH01;FTTH-Cu;2778006;4000.0;Liège;Boulevard de la Sauvenière;125;;;1.0;;41458.0;LIÃGE - FH01;2778006;125 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0109;Boulevard de la Sauveniere;125;;SDU;;1;;2;;BUILDING template
+175857;W02-D-Liege-FH01;FTTH-Cu;2778008;4000.0;Liège;Boulevard de la Sauvenière;128;;;1.0;;44058.0;LIÃGE - FH01;2778008;;0122;Boulevard de la Sauveniere;128;;SDU;;;;;;BUILDING template
+175862;W02-D-Liege-FH01;FTTH-Cu;2778024;4000.0;Liège;Boulevard de la Sauvenière;139;;;1.0;;41425.0;LIÃGE - FH01;2778024;;0108;Boulevard de la Sauveniere;139;;SDU;;1;0;0;1.0;BUILDING template
+175870;W02-D-Liege-FH01;FTTH-Cu;2778041;4000.0;Liège;Boulevard de la Sauvenière;162;;1.0;1.0;1.0;42520.0;LIÃGE - FH01;2778041;;0121;Boulevard de la Sauveniere;162;;SDU;;;;;;BUILDING template
+175878;W02-D-Liege-FH01;FTTH-Cu;2778050;4000.0;Liège;Boulevard de la Sauvenière;182;;;1.0;;42530.0;LIÃGE - FH01;2778050;;0121;Boulevard de la Sauveniere;182;;SDU;;;;;;BUILDING template
+175880;W02-D-Liege-FH01;FTTH-Cu;2778052;4000.0;Liège;Boulevard de la Sauvenière;186;;;1.0;;42532.0;LIÃGE - FH01;2778052;;0121;Boulevard de la Sauveniere;186;;SDU;;;;;;BUILDING template
+175897;W02-D-Liege-FH01;FTTH-Cu;2778118;4000.0;Liège;Rue Haute Sauvenière;35;;;1.0;;44509.0;LIÃGE - FH01;2778118;;0124;Rue Haute Sauveniere;35;;SDU;;0;1;0;1.0;BUILDING template
+175899;W02-D-Liege-FH01;FTTH-Cu;2778123;4000.0;Liège;Rue Haute Sauvenière;39;1.0;1.0;1.0;1.0;44511.0;LIÃGE - FH01;2778123;;0124;Rue Haute Sauveniere;39;;SDU;;;;;;BUILDING template
+175902;W02-D-Liege-FH01;FTTH-Cu;2786559;4000.0;Liège;Rue Saint Adalbert;5,A;;;1.0;;41991.0;LIÃGE - FH01;2786559;5a Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;5;A;SDU;;1;;3;;BUILDING template
+175906;W02-D-Liege-FH01;FTTH-Cu;2786610;4000.0;Liège;Rue Saint Adalbert;9,A;;1.0;1.0;1.0;41993.0;LIÃGE - FH01;2786610;9 Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;9;A;SDU;A;5;49;13;;BUILDING template
+175911;W02-D-Liege-FH01;FTTH-Cu;2786636;4000.0;Liège;Rue Saint Adalbert;13;;;1.0;;41989.0;LIÃGE - FH01;2786636;13 Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;13;;SDU;;1;;1;;BUILDING template
+175913;W02-D-Liege-FH01;FTTH-Cu;2786661;4000.0;Liège;Rue Saint Adalbert;16;;;1.0;;41505.0;LIÃGE - FH01;2786661;16 rue Saint Adalbert 4000 LiÃ¨ge;0111;Rue Saint Adalbert;16;;SDU;;1;;2;;BUILDING template
+175921;W02-D-Liege-FH01;FTTH-Cu;2789836;4000.0;Liège;Rue Saint Hubert;7;1.0;1.0;1.0;1.0;44513.0;LIÃGE - FH01;2789836;;0124;Rue Saint Hubert;7;;SDU;;;;;;BUILDING template
+175939;W02-D-Liege-FH01;FTTH-Cu;2791178;4000.0;Liège;Rue Saint Laurent;59;1.0;1.0;1.0;;43535.0;LIÃGE - FH01;2791178;;0131;Rue Saint Laurent;59;;SDU;;;;;;BUILDING template
+175944;W02-D-Liege-FH01;FTTH-Cu;2796202;4000.0;Liège;Rue Saint Séverin;20;;1.0;1.0;;43502.0;LIÃGE - FH01;2796202;;0128;Rue Saint Severin;20;;SDU;;;;;;BUILDING template
+175946;W02-D-Liege-FH01;FTTH-Cu;2796207;4000.0;Liège;Rue Saint Séverin;24;;;1.0;;43504.0;LIÃGE - FH01;2796207;;0128;Rue Saint Severin;24;;SDU;;0;1;0;1.0;BUILDING template
+175947;W02-D-Liege-FH01;FTTH-Cu;2796210;4000.0;Liège;Rue Saint Séverin;26;;;1.0;;43505.0;LIÃGE - FH01;2796210;;0128;Rue Saint Severin;26;;SDU;;;;;;BUILDING template
+175951;W02-D-Liege-FH01;FTTH-Cu;2796220;4000.0;Liège;Rue Saint Séverin;32;;;1.0;;43508.0;LIÃGE - FH01;2796220;;0128;Rue Saint Severin;32;;SDU;;0;1;0;1.0;BUILDING template
+175954;W02-D-Liege-FH01;FTTH-Cu;2796226;4000.0;Liège;Rue Saint Séverin;36;;1.0;1.0;1.0;43510.0;LIÃGE - FH01;2796226;36 rue Saint SÃ©verin 4000 LiÃ¨ge;0128;Rue Saint Severin;36;;SDU;C;;7;;7.0;BUILDING template
+175955;W02-D-Liege-FH01;FTTH-Cu;2796230;4000.0;Liège;Rue Saint Séverin;37;;;1.0;;43047.0;LIÃGE - FH01;2796230;;0127;Rue Saint Severin;37;;SDU;;0;1;0;1.0;BUILDING template
+175961;W02-D-Liege-FH01;FTTH-Cu;2796254;4000.0;Liège;Rue Saint Séverin;47;;;1.0;;43052.0;LIÃGE - FH01;2796254;;0127;Rue Saint Severin;47;;SDU;;0;1;0;1.0;BUILDING template
+175987;W02-D-Liege-FH01;FTTH-Cu;2796450;4000.0;Liège;Rue Saint Séverin;153;;;1.0;;43085.0;LIÃGE - FH01;2796450;;0127;Rue Saint Severin;153;;SDU;;;;;;BUILDING template
+176021;W02-D-Liege-FH01;FTTH-Cu;2799312;4000.0;Liège;Thier de la Fontaine;46;;;1.0;;44036.0;LIÃGE - FH01;2799312;;0129;Thier de la Fontaine;46;;SDU;;0;1;0;1.0;BUILDING template
+176028;W02-D-Liege-FH01;FTTH-Cu;2799347;4000.0;Liège;Thier de la Fontaine;79;;;1.0;;43548.0;LIÃGE - FH01;2799347;;0131;Thier de la Fontaine;79;;SDU;;0;1;0;1.0;BUILDING template
+176035;W02-D-Liege-FH01;FTTH-Cu;2803170;4000.0;Liège;Rue de l'Université;8;;;1.0;;40803.0;LIÃGE - FH01;2803170;8 Rue de l'universitÃ© 4000 LiÃ¨ge;0102;Rue de lUniversite;8;;SDU;;1;;2;;BUILDING template
+176037;W02-D-Liege-FH01;FTTH-Cu;2803179;4000.0;Liège;Rue de l'Université;12;;;1.0;;40805.0;LIÃGE - FH01;2803179;12 Rue de l'UniversitÃ© 4000 LiÃ¨ge;0102;Rue de lUniversite;12;;SDU;D;1;1;3;;BUILDING template
+176043;W02-D-Liege-FH01;FTTH-Cu;2803316;4000.0;Liège;Rue des Urbanistes;6;;;1.0;;44487.0;LIÃGE - FH01;2803316;;0122;Rue des Urbanistes;6;;SDU;D;0;1;0;1.0;BUILDING template
+176045;W02-D-Liege-FH01;FTTH-Cu;2808121;4000.0;Liège;Vinâve d'Ile;4;;;1.0;;40939.0;LIÃGE - FH01;2808121;4 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;4;;SDU;;1;;4;;BUILDING template
+176047;W02-D-Liege-FH01;FTTH-Cu;2808129;4000.0;Liège;Vinâve d'Ile;6;;;1.0;;40940.0;LIÃGE - FH01;2808129;6 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;6;;SDU;;1;;3;;BUILDING template
+176051;W02-D-Liege-FH01;FTTH-Cu;2808137;4000.0;Liège;Vinâve d'Ile;12;;;1.0;;40942.0;LIÃGE - FH01;2808137;12 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;12;;SDU;;1;;2;;BUILDING template
+176056;W02-D-Liege-FH01;FTTH-Cu;2808156;4000.0;Liège;Vinâve d'Ile;21;;;1.0;;40863.0;LIÃGE - FH01;2808156;;0104;Vinave dIle;21;;SDU;;1;0;0;1.0;BUILDING template
+176058;W02-D-Liege-FH01;FTTH-Cu;2808171;4000.0;Liège;Vinâve d'Ile;25;;;1.0;;40864.0;LIÃGE - FH01;2808171;25 rue VinÃ¢ve d'Ã®le 4000 LiÃ¨ge;0104;Vinave dIle;25;;SDU;;1;;;;BUILDING template
+176059;W02-D-Liege-FH01;FTTH-Cu;2808172;4000.0;Liège;Vinâve d'Ile;26;;;1.0;;40945.0;LIÃGE - FH01;2808172;26 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;26;;SDU;;1;;4;;BUILDING template
+176060;W02-D-Liege-FH01;FTTH-Cu;2808173;4000.0;Liège;Vinâve d'Ile;29;;;1.0;;40865.0;LIÃGE - FH01;2808173;;0104;Vinave dIle;29;;SDU;;1;0;0;1.0;BUILDING template
+176061;W02-D-Liege-FH01;FTTH-Cu;2808176;4000.0;Liège;Vinâve d'Ile;32;;;1.0;;40947.0;LIÃGE - FH01;2808176;32 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;32;;SDU;;1;;;;BUILDING template
+176065;W02-D-Liege-FH01;FTTH-Cu;2808186;4000.0;Liège;Vinâve d'Ile;40;;;1.0;;40951.0;LIÃGE - FH01;2808186;40 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;40;;SDU;;1;;2;;BUILDING template
+176067;W02-D-Liege-FH01;FTTH-Cu;2841464;4000.0;Liège;Rue Saint-Jean-en-Isle;3;;;1.0;;41508.0;LIÃGE - FH01;2841464;;0111;Rue Saint-Jean-en-Isle;3;;SDU;;;;;;BUILDING template
+176082;W02-D-Liege-FH01;FTTH-Cu;2841521;4000.0;Liège;Rue Saint-Jean-en-Isle;21;;;1.0;;41515.0;LIÃGE - FH01;2841521;;0111;Rue Saint-Jean-en-Isle;21;;SDU;;;;;;BUILDING template
+176087;W02-D-Liege-FH01;FTTH-Cu;2841535;4000.0;Liège;Rue Saint-Jean-en-Isle;28;;;1.0;;41397.0;LIÃGE - FH01;2841535;28 Rue Saint-Jean-En-Isle 4000 LiÃ¨ge;0110;Rue Saint-Jean-en-Isle;28;;SDU;;1;;2;;BUILDING template
+176091;W02-D-Liege-FH01;FTTH-Cu;2892;4000.0;Liège;Rue Saint Laurent;5;;;1.0;;43521.0;LIÃGE - FH01;2892;;0131;Rue Saint Laurent;5;;SDU;;0;1;0;1.0;BUILDING template
+176094;W02-D-Liege-FH01;FTTH-Cu;2916;4000.0;Liège;Rue Lonhienne;28;;;1.0;1.0;44023.0;LIÃGE - FH01;2916;;0129;Rue Lonhienne;28;;SDU;;;;;;BUILDING template
+176120;W02-D-Liege-FH01;FTTH-Cu;3106265;4000.0;Liège;Bergerue;10;;;1.0;;41979.0;LIÃGE - FH01;3106265;10 Rue en Bergerue 4000 LiÃ¨ge;0112;Bergerue;10;;SDU;D;1;1;1;;BUILDING template
+176125;W02-D-Liege-FH01;FTTH-Cu;3106288;4000.0;Liège;Bergerue;18;;;1.0;;41983.0;LIÃGE - FH01;3106288;18 Rue en Bergerue 4000 LiÃ¨ge;0112;Bergerue;18;;SDU;D;2;;2;;BUILDING template
+176128;W02-D-Liege-FH01;FTTH-Cu;3124404;4000.0;Liège;Rue de la Casquette;4;;;1.0;;42019.0;LIÃGE - FH01;3124404;6 rue de la Casquette 4000 LiÃ¨ge;0116;Rue de la Casquette;4;;SDU;D;1;8;4;;BUILDING template
+176133;W02-D-Liege-FH01;FTTH-Cu;3124420;4000.0;Liège;Rue de la Casquette;11;;;1.0;;41998.0;LIÃGE - FH01;3124420;;0112;Rue de la Casquette;11;;SDU;;1;0;0;1.0;BUILDING template
+176136;W02-D-Liege-FH01;FTTH-Cu;3124430;4000.0;Liège;Rue de la Casquette;16;;;1.0;;41494.0;LIÃGE - FH01;3124430;;0117;Rue de la Casquette;16;;SDU;;;;;;BUILDING template
+176137;W02-D-Liege-FH01;FTTH-Cu;3124435;4000.0;Liège;Rue de la Casquette;18;;;1.0;;41495.0;LIÃGE - FH01;3124435;18 Rue de la Casquette 4000 LiÃ¨ge;0117;Rue de la Casquette;18;;SDU;D;1;4;2;;BUILDING template
+176138;W02-D-Liege-FH01;FTTH-Cu;3124437;4000.0;Liège;Rue de la Casquette;19,B;;;1.0;;41921.0;LIÃGE - FH01;3124437;;0111;Rue de la Casquette;19;B;SDU;;;;;;BUILDING template
+176140;W02-D-Liege-FH01;FTTH-Cu;3124441;4000.0;Liège;Rue de la Casquette;21;;;1.0;;41519.0;LIÃGE - FH01;3124441;;0111;Rue de la Casquette;21;;SDU;;;;;;BUILDING template
+176152;W02-D-Liege-FH01;FTTH-Cu;3124497;4000.0;Liège;Rue de la Casquette;40;;;1.0;;42504.0;LIÃGE - FH01;3124497;;0118;Rue de la Casquette;40;;SDU;;;;;;BUILDING template
+176159;W02-D-Liege-FH01;FTTH-Cu;3124727;4000.0;Liège;Rue de la Cathédrale;92;;;1.0;;40912.0;LIÃGE - FH01;3124727;;0101;Rue de la Cathedrale;92;;SDU;;1;0;0;1.0;BUILDING template
+176161;W02-D-Liege-FH01;FTTH-Cu;3124745;4000.0;Liège;Rue de la Cathédrale;100;;;1.0;;40850.0;LIÃGE - FH01;3124745;100 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;100;;SDU;;1;;;;BUILDING template
+176162;W02-D-Liege-FH01;FTTH-Cu;3124747;4000.0;Liège;Rue de la Cathédrale;102;;;1.0;;40851.0;LIÃGE - FH01;3124747;102 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;102;;SDU;;1;;;;BUILDING template
+176163;W02-D-Liege-FH01;FTTH-Cu;3124751;4000.0;Liège;Rue de la Cathédrale;104;;;1.0;;40852.0;LIÃGE - FH01;3124751;104 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;104;;SDU;;1;;2;;BUILDING template
+176165;W02-D-Liege-FH01;FTTH-Cu;3124763;4000.0;Liège;Rue de la Cathédrale;108;;;1.0;;40854.0;LIÃGE - FH01;3124763;108 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;108;;SDU;;1;;3;;BUILDING template
+176166;W02-D-Liege-FH01;FTTH-Cu;3124765;4000.0;Liège;Rue de la Cathédrale;110;;;1.0;;40855.0;LIÃGE - FH01;3124765;110 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;110;;SDU;;1;;4;;BUILDING template
+176167;W02-D-Liege-FH01;FTTH-Cu;3124768;4000.0;Liège;Rue de la Cathédrale;112;;;1.0;;40856.0;LIÃGE - FH01;3124768;112 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;112;;SDU;;1;;2;;BUILDING template
+176191;W02-D-Liege-FH01;FTTH-Cu;3136751;4000.0;Liège;Degrés des Tisserands;5;;;1.0;;42997.0;LIÃGE - FH01;3136751;;0127;Degres des Tisserands;5;;SDU;;0;1;0;1.0;BUILDING template
+176197;W02-D-Liege-FH01;FTTH-Cu;3136763;4000.0;Liège;Degrés des Tisserands;17;;;1.0;;43001.0;LIÃGE - FH01;3136763;;0127;Degres des Tisserands;17;;SDU;;;;;;BUILDING template
+176213;W02-D-Liege-FH01;FTTH-Cu;3138815;4000.0;Liège;Rue des Dominicains;4,B;;;1.0;1.0;42025.0;LIÃGE - FH01;3138815;;0116;Rue des Dominicains;4;B;SDU;;;;;;BUILDING template
+176216;W02-D-Liege-FH01;FTTH-Cu;3138819;4000.0;Liège;Rue des Dominicains;5;;;1.0;;41968.0;LIÃGE - FH01;3138819;;0114;Rue des Dominicains;5;;SDU;;;;;;BUILDING template
+176223;W02-D-Liege-FH01;FTTH-Cu;3138828;4000.0;Liège;Rue des Dominicains;14;;;1.0;;42443.0;LIÃGE - FH01;3138828;14 rue des Dominicains 4000 LiÃ¨ge;0113;Rue des Dominicains;14;;SDU;;1;;4;;BUILDING template
+176256;W02-D-Liege-FH01;FTTH-Cu;3151698;4000.0;Liège;Rue Sébastien Laruelle;5;;;1.0;;41491.0;LIÃGE - FH01;3151698;5 Rue SÃ©bastien-Laruelle 4000 LiÃ¨ge;0117;Rue Sebastien Laruelle;5;;SDU;D;1;2;2;;BUILDING template
+176265;W02-D-Liege-FH01;FTTH-Cu;3153128;4000.0;Liège;Passage Lemonnier;15;;;1.0;;40784.0;LIÃGE - FH01;3153128;;0102;Passage Lemonnier;15;;SDU;;1;0;0;1.0;BUILDING template
+176266;W02-D-Liege-FH01;FTTH-Cu;3153129;4000.0;Liège;Passage Lemonnier;16;;;1.0;;40894.0;LIÃGE - FH01;3153129;14/16/18 Passage Lemonnier 4000 LiÃ¨ge;0101;Passage Lemonnier;16;;SDU;;1;;;;BUILDING template
+176271;W02-D-Liege-FH01;FTTH-Cu;3153138;4000.0;Liège;Passage Lemonnier;23;;;1.0;;40807.0;LIÃGE - FH01;3153138;;0103;Passage Lemonnier;23;;SDU;;1;0;0;1.0;BUILDING template
+176273;W02-D-Liege-FH01;FTTH-Cu;3153141;4000.0;Liège;Passage Lemonnier;30;;;1.0;;40834.0;LIÃGE - FH01;3153141;30 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;30;;SDU;;1;;2;;BUILDING template
+176276;W02-D-Liege-FH01;FTTH-Cu;3153146;4000.0;Liège;Passage Lemonnier;35;;;1.0;;40809.0;LIÃGE - FH01;3153146;;0103;Passage Lemonnier;35;;SDU;;1;0;0;1.0;BUILDING template
+176278;W02-D-Liege-FH01;FTTH-Cu;3153152;4000.0;Liège;Passage Lemonnier;39;;;1.0;;40810.0;LIÃGE - FH01;3153152;;0103;Passage Lemonnier;39;;SDU;;1;0;0;1.0;BUILDING template
+176279;W02-D-Liege-FH01;FTTH-Cu;3153155;4000.0;Liège;Passage Lemonnier;41;;;1.0;;40811.0;LIÃGE - FH01;3153155;;0103;Passage Lemonnier;41;;SDU;;1;0;0;1.0;BUILDING template
+176281;W02-D-Liege-FH01;FTTH-Cu;3153159;4000.0;Liège;Passage Lemonnier;43;;;1.0;;40812.0;LIÃGE - FH01;3153159;;0103;Passage Lemonnier;43;;SDU;;1;0;0;1.0;BUILDING template
+176282;W02-D-Liege-FH01;FTTH-Cu;3153160;4000.0;Liège;Passage Lemonnier;44;;;1.0;;40840.0;LIÃGE - FH01;3153160;44/46 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;44;;SDU;;1;;3;;BUILDING template
+176286;W02-D-Liege-FH01;FTTH-Cu;3154601;4000.0;Liège;Rue Lonhienne;5;;;1.0;;44465.0;LIÃGE - FH01;3154601;;0122;Rue Lonhienne;5;;SDU;D;0;1;0;1.0;BUILDING template
+176299;W02-D-Liege-FH01;FTTH-Cu;4001252;4000.0;Liège;Rue Monulphe;81;;;1.0;;201770.0;LIÃGE - FH01;4001252;;BL0130;Rue Monulphe;81;;SDU;;0;1;0;1.0;BUILDING template
+176316;W02-D-Liege-FH01;FTTH-Cu;4064939;4000.0;Liège;Rue du Pot d'Or;41,A;;1.0;1.0;1.0;40982.0;LIÃGE - FH01;4064939;;0107;Rue du Pot dOr;41;A;SDU;;;;;;BUILDING template
+176324;W02-D-Liege-FH01;FTTH-Cu;4129860;4000.0;Liège;Passage Lemonnier;47;;;1.0;;40813.0;LIÃGE - FH01;4129860;;0103;Passage Lemonnier;47;;SDU;;1;0;0;1.0;BUILDING template
+176333;W02-D-Liege-FH01;FTTH-Cu;4944437;4000.0;Liège;Passage Lemonnier;32;;;1.0;;40835.0;LIÃGE - FH01;4944437;32 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;32;;SDU;;1;;3;;BUILDING template
+176336;W02-D-Liege-FH01;FTTH-Cu;5176999;4000.0;Liège;Place Xavier Neujean;7;;;1.0;;42008.0;LIÃGE - FH01;5176999;;0116;Place Xavier Neujean;7;;SDU;;;;;;BUILDING template
+176339;W02-D-Liege-FH01;FTTH-Cu;5177304;4000.0;Liège;Vinâve d'Ile;28;;;1.0;;40946.0;LIÃGE - FH01;5177304;;0105;Vinave dIle;28;;SDU;;1;;;;BUILDING template
+176347;W02-D-Liege-FH01;FTTH-Cu;5177355;4000.0;Liège;Pont d'Ile;38;;;1.0;;41952.0;LIÃGE - FH01;5177355;;0114;Pont dIle;38;;SDU;;;;;;BUILDING template
+176364;W02-D-Liege-FH01;FTTH-Cu;5178114;4000.0;Liège;Rue Saint Séverin;165;;;1.0;;43089.0;LIÃGE - FH01;5178114;;0127;Rue Saint Severin;165;;SDU;;0;1;0;1.0;BUILDING template
+176366;W02-D-Liege-FH01;FTTH-Cu;5178213;4000.0;Liège;Rue Saint Séverin;28;;;1.0;;43506.0;LIÃGE - FH01;5178213;;0128;Rue Saint Severin;28;;SDU;;0;1;0;1.0;BUILDING template
+176369;W02-D-Liege-FH01;FTTH-Cu;5178282;4000.0;Liège;Rue Haute Sauvenière;11;1.0;;1.0;;44497.0;LIÃGE - FH01;5178282;;0124;Rue Haute Sauveniere;11;;SDU;D;0;0;0;0.0;BUILDING template
+176371;W02-D-Liege-FH01;FTTH-Cu;5178310;4000.0;Liège;Boulevard de la Sauvenière;48;;;1.0;;44529.0;LIÃGE - FH01;5178310;;0125;Boulevard de la Sauveniere;48;;SDU;;;;;;BUILDING template
+176381;W02-D-Liege-FH01;FTTH-Cu;5179063;4000.0;Liège;Rue Pont d'Avroy;26;;;1.0;;40957.0;LIÃGE - FH01;5179063;;0107;Rue Pont dAvroy;26;;SDU;;1;;;;BUILDING template
+176392;W02-D-Liege-FH01;FTTH-Cu;5303799;4000.0;Liège;Rue Saint Adalbert;5,B;;;1.0;;41992.0;LIÃGE - FH01;5303799;5b Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;5;B;SDU;;1;;2;;BUILDING template
+176412;W02-D-Liege-FH01;FTTH-Cu;5343972;4000.0;Liège;Rue du Pot d'Or;37,A;;;1.0;;40980.0;LIÃGE - FH01;5343972;;0107;Rue du Pot dOr;37;A;SDU;D;1;2;;;BUILDING template
+176449;W02-D-Liege-FH01;FTTH-Cu;6067560;4000.0;Liège;Rue du Diamant;1,A;;;1.0;;42508.0;LIÃGE - FH01;6067560;;0118;Rue du Diamant;1;A;SDU;;;;;;BUILDING template
+176457;W02-D-Liege-FH01;FTTH-Cu;641698;4000.0;Liège;Boulevard de la Sauvenière;123;;;1.0;;41457.0;LIÃGE - FH01;641698;123 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0109;Boulevard de la Sauveniere;123;;SDU;;;;;;BUILDING template
+176459;W02-D-Liege-FH01;FTTH-Cu;641700;4000.0;Liège;Boulevard de la Sauvenière;188;;;1.0;;42533.0;LIÃGE - FH01;641700;;0121;Boulevard de la Sauveniere;188;;SDU;;;;;;BUILDING template
+176466;W02-D-Liege-FH01;FTTH-Cu;642003;4000.0;Liège;Boulevard de la Sauvenière;84;;;1.0;;43992.0;LIÃGE - FH01;642003;82-84-86 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0129;Boulevard de la Sauveniere;84;;SDU;;1;;;;BUILDING template
+176492;W02-D-Liege-FH01;FTTH-Cu;642813;4000.0;Liège;Rue du Pot d'Or;12;;;1.0;;42002.0;LIÃGE - FH01;642813;12 Rue du Pot d'or 4000 LiÃ¨ge;0112;Rue du Pot dOr;12;;SDU;;1;;;;BUILDING template
+176503;W02-D-Liege-FH01;FTTH-Cu;642828;4000.0;Liège;Vinâve d'Ile;2;;;1.0;;40938.0;LIÃGE - FH01;642828;;0105;Vinave dIle;2;;SDU;;;;;;BUILDING template
+176505;W02-D-Liege-FH01;FTTH-Cu;642831;4000.0;Liège;Place de la Cathédrale;4;;;1.0;;40915.0;LIÃGE - FH01;642831;4 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;4;;SDU;;1;;3;;BUILDING template
+176506;W02-D-Liege-FH01;FTTH-Cu;642832;4000.0;Liège;Place de la Cathédrale;2;;;1.0;;40914.0;LIÃGE - FH01;642832;2 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;2;;SDU;;1;;1;;BUILDING template
+176507;W02-D-Liege-FH01;FTTH-Cu;642833;4000.0;Liège;Place de la Cathédrale;10;;;1.0;;40917.0;LIÃGE - FH01;642833;10 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;10;;SDU;;3;;;;BUILDING template
+176513;W02-D-Liege-FH01;FTTH-Cu;642844;4000.0;Liège;Rue Saint Adalbert;18;;;1.0;;41506.0;LIÃGE - FH01;642844;18 rue Saint Adalbert 4000 LiÃ¨ge;0111;Rue Saint Adalbert;18;;SDU;;1;;5;;BUILDING template
+176522;W02-D-Liege-FH01;FTTH-Cu;642893;4000.0;Liège;Place Xavier Neujean;39;;;1.0;;42494.0;LIÃGE - FH01;642893;;0118;Place Xavier Neujean;39;;SDU;D;1;0;0;1.0;BUILDING template
+176523;W02-D-Liege-FH01;FTTH-Cu;642895;4000.0;Liège;Place Xavier Neujean;35;;;1.0;;42492.0;LIÃGE - FH01;642895;;0118;Place Xavier Neujean;35;;SDU;;;;;;BUILDING template
+176536;W02-D-Liege-FH01;FTTH-Cu;642921;4000.0;Liège;Rue Pont d'Avroy;36;;;1.0;;40962.0;LIÃGE - FH01;642921;;0107;Rue Pont dAvroy;36;;SDU;;;;;;BUILDING template
+176543;W02-D-Liege-FH01;FTTH-Cu;642930;4000.0;Liège;Rue du Pot d'Or;32;;;1.0;;41416.0;LIÃGE - FH01;642930;;0110;Rue du Pot dOr;32;;SDU;;;;;;BUILDING template
+176555;W02-D-Liege-FH01;FTTH-Cu;642958;4000.0;Liège;Rue Saint Séverin;123;;;1.0;;43076.0;LIÃGE - FH01;642958;;0127;Rue Saint Severin;123;;SDU;;0;1;0;1.0;BUILDING template
+176556;W02-D-Liege-FH01;FTTH-Cu;642959;4000.0;Liège;Rue Saint Séverin;175;;;1.0;;43091.0;LIÃGE - FH01;642959;;0127;Rue Saint Severin;175;;SDU;;0;1;0;1.0;BUILDING template
+176562;W02-D-Liege-FH01;FTTH-Cu;642996;4000.0;Liège;Rue Hamal;2;;;1.0;1.0;42473.0;LIÃGE - FH01;642996;;0120;Rue Hamal;2;;SDU;;;;;;BUILDING template
+176569;W02-D-Liege-FH01;FTTH-Cu;643004;4000.0;Liège;Boulevard de la Sauvenière;2;;;1.0;;44043.0;LIÃGE - FH01;643004;2 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0123;Boulevard de la Sauveniere;2;;SDU;;1;;2;;BUILDING template
+176571;W02-D-Liege-FH01;FTTH-Cu;643006;4000.0;Liège;Place Verte;2;;;1.0;;44051.0;LIÃGE - FH01;643006;;0123;Place Verte;2;;SDU;D;1;0;0;1.0;BUILDING template
+176577;W02-D-Liege-FH01;FTTH-Cu;645475;4000.0;Liège;Mont Saint-Martin;69;;1.0;1.0;1.0;43980.0;LIÃGE - FH01;645475;;0126;Mont Saint-Martin;69;;SDU;;;;;;BUILDING template
+176586;W02-D-Liege-FH01;FTTH-Cu;645487;4000.0;Liège;Mont Saint-Martin;59;;;1.0;;43975.0;LIÃGE - FH01;645487;;0126;Mont Saint-Martin;59;;SDU;;1;0;0;1.0;BUILDING template
+176590;W02-D-Liege-FH01;FTTH-Cu;646545;4000.0;Liège;Passage Lemonnier;19,B;;;1.0;;40788.0;LIÃGE - FH01;646545;;0102;Passage Lemonnier;19;B;SDU;;;;;;BUILDING template
+176592;W02-D-Liege-FH01;FTTH-Cu;646556;4000.0;Liège;Vinâve d'Ile;1;;;1.0;;40831.0;LIÃGE - FH01;646556;1/3 VinÃ¢ve d'Ã®le 4000 LiÃ¨ge;0103;Vinave dIle;1;;SDU;;1;;3;;BUILDING template
+176593;W02-D-Liege-FH01;FTTH-Cu;646561;4000.0;Liège;Rue Lulay des Fèbvres;22;;;1.0;;40847.0;LIÃGE - FH01;646561;22 rue Lulay-Des-Febvres 4000 LiÃ¨ge;0104;Rue Lulay des Febvres;22;;SDU;;1;3;2;;BUILDING template
+176594;W02-D-Liege-FH01;FTTH-Cu;646573;4000.0;Liège;Rue Lulay des Fèbvres;4;;;1.0;;40829.0;LIÃGE - FH01;646573;4 Rue Lulay-Des-Febvres 4000 LiÃ¨ge;0103;Rue Lulay des Febvres;4;;SDU;D;1;3;2;;BUILDING template
+176605;W02-D-Liege-FH01;FTTH-Cu;646612;4000.0;Liège;Rue du Pot d'Or;35;;;1.0;;40889.0;LIÃGE - FH01;646612;;0106;Rue du Pot dOr;35;;SDU;;;;;;BUILDING template
+176608;W02-D-Liege-FH01;FTTH-Cu;646615;4000.0;Liège;Pont d'Ile;57;;;1.0;;40827.0;LIÃGE - FH01;646615;57 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;57;;SDU;;1;;3;;BUILDING template
+176610;W02-D-Liege-FH01;FTTH-Cu;646617;4000.0;Liège;Pont d'Ile;1;;;1.0;;40789.0;LIÃGE - FH01;646617;1-4 Rue de l'universitÃ© 4000 LiÃ¨ge;0102;Pont dIle;1;;SDU;;1;;3;;BUILDING template
+176611;W02-D-Liege-FH01;FTTH-Cu;646618;4000.0;Liège;Pont d'Ile;25;;;1.0;;40814.0;LIÃGE - FH01;646618;25 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;25;;SDU;;1;;3;;BUILDING template
+176612;W02-D-Liege-FH01;FTTH-Cu;646619;4000.0;Liège;Rue de la Cathédrale;80;;;1.0;;40907.0;LIÃGE - FH01;646619;80 rue de la CathÃ©drale 4000 LiÃ¨ge;0101;Rue de la Cathedrale;80;;SDU;;1;;5;;BUILDING template
+176613;W02-D-Liege-FH01;FTTH-Cu;646620;4000.0;Liège;Rue de la Cathédrale;94;;;1.0;;40913.0;LIÃGE - FH01;646620;94 rue de la CathÃ©drale 4000 LiÃ¨ge;0101;Rue de la Cathedrale;94;;SDU;C;2;;5;;BUILDING template
+176614;W02-D-Liege-FH01;FTTH-Cu;646621;4000.0;Liège;Rue de la Cathédrale;96;;;1.0;;40848.0;LIÃGE - FH01;646621;96 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;96;;SDU;;1;;3;;BUILDING template
+176615;W02-D-Liege-FH01;FTTH-Cu;646631;4000.0;Liège;Rue de l'Université;22;;;1.0;;40905.0;LIÃGE - FH01;646631;22 rue de l'UniversitÃ© 4000 LiÃ¨ge;0101;Rue de lUniversite;22;;SDU;;1;;5;;BUILDING template
+176686;W02-D-Liege-FH02;FTTH-Cu;1324541;4000.0;Liège;Boulevard Piercot;9;;1.0;1.0;1.0;47193.0;LIÃGE - FH02;1324541;;0212;Boulevard Piercot;9;;SDU;;;;;;BUILDING template
+176728;W02-D-Liege-FH02;FTTH-Cu;2741247;4000.0;Liège;Rue Charles Magnette;23;;;1.0;;45377.0;LIÃGE - FH02;2741247;23 rue Charles Magnette;0203;Rue Charles Magnette;23;;SDU;D;1;1;2;;BUILDING template
+176729;W02-D-Liege-FH02;FTTH-Cu;2741250;4000.0;Liège;Rue Charles Magnette;24;;1.0;1.0;1.0;45411.0;LIÃGE - FH02;2741250;106;0202;Rue Charles Magnette;24;;SDU;;;;;;BUILDING template
+176789;W02-D-Liege-FH02;FTTH-Cu;2766772;4000.0;Liège;Rue des Prémontrés;12;;1.0;1.0;1.0;48902.0;LIÃGE - FH02;2766772;12 Rue des PrÃ©montrÃ©s 4000 LiÃ¨ge;0216;Rue des Premontres;12;;SDU;;1;0;2;3.0;BUILDING template
+176925;W02-D-Liege-FH02;FTTH-Cu;3124135;4000.0;Liège;Place des Carmes;8;;;1.0;;49335.0;LIÃGE - FH02;3124135;8 Place des Carmes 4000 LiÃ¨ge;0217;Place des Carmes;8;;SDU;;1;;1;;BUILDING template
+177009;W02-D-Liege-FH02;FTTH-Cu;3141692;4000.0;Liège;Rue Bonne Fortune;3;1.0;1.0;1.0;1.0;46723.0;LIÃGE - FH02;3141692;3 rue Bonne Fortune 4000 liege;0208;Rue Bonne Fortune;3;;SDU;;1;0;1;2.0;BUILDING template
+177084;W02-D-Liege-FH02;FTTH-Cu;5335990;4000.0;Liège;Rue des Croisiers;1;;;1.0;;49342.0;LIÃGE - FH02;5335990;1 rue des Croisiers 4000 LiÃ¨ge;0217;Rue des Croisiers;1;;SDU;;1;;1;;BUILDING template
+177087;W02-D-Liege-FH02;FTTH-Cu;5340638;4000.0;Liège;Rue des Croisiers;7;;;1.0;;49344.0;LIÃGE - FH02;5340638;7 rue des Croisiers 4000 LiÃ¨ge;0217;Rue des Croisiers;7;;SDU;;1;;1;;BUILDING template
+177103;W02-D-Liege-FH02;FTTH-Cu;5463583;4000.0;Liège;Rue Bonne Fortune;4;1.0;1.0;1.0;1.0;44892.0;LIÃGE - FH02;5463583;4 Rue Saint-Paul 4000 LiÃ¨ge;0205;Rue Bonne Fortune;4;;SDU;;1;0;2;3.0;BUILDING template
+177156;W02-D-Liege-FH02;FTTH-Cu;642236;4000.0;Liège;Boulevard Piercot;31,B;;1.0;1.0;1.0;50181.0;LIÃGE - FH02;642236;;0220;Boulevard Piercot;31;B;SDU;;;;;;BUILDING template
+177178;W02-D-Liege-FH02;FTTH-Cu;645620;4000.0;Liège;Rue de la Sirène;20;;1.0;1.0;1.0;45856.0;LIÃGE - FH02;645620;20 rue  de la SirÃ¨ne 4000 LiÃ¨ge;0202;Rue de la Sirene;20;;SDU;X;6;24;8;;BUILDING template
+177192;W02-D-Liege-FH02;FTTH-Cu;645643;4000.0;Liège;Rue Charles Magnette;22;;1.0;1.0;1.0;45410.0;LIÃGE - FH02;645643;106;0202;Rue Charles Magnette;22;;SDU;;;;;;BUILDING template
+177595;W02-D-Liege-FH03;FTTH-Cu;646636;4000.0;Liège;Rue de la Cathédrale;78;;;1.0;;98436.0;LIÃGE - FH03;646636;;BL0301;Rue de la CathÃ©drale;78;;SDU;D;1;0;0;1.0;BUILDING template
+222085;W03-C-Antwerpen-West-FH01;FTTH-Cu;108085;2000.0;Antwerpen;Amsterdamstraat;36;;;1.0;;114719.0;ANTWERPEN-WEST - FH01;108085;;BL0110;Amsterdamstraat;36;;SDU;;1;0;0;1.0;BUILDING template
+222094;W03-C-Antwerpen-West-FH01;FTTH-Cu;108284;2000.0;Antwerpen;Kempischdok-Westkaai;74;;;1.0;;115356.0;ANTWERPEN-WEST - FH01;108284;;BL0117;Kempischdok-Westkaai;74;;SDU;;1;0;0;1.0;BUILDING template
+222096;W03-C-Antwerpen-West-FH01;FTTH-Cu;108287;2000.0;Antwerpen;Kempischdok-Westkaai;38;;;1.0;;115355.0;ANTWERPEN-WEST - FH01;108287;;BL0124;Kempischdok-Westkaai;38;;SDU;;1;0;0;1.0;BUILDING template
+222114;W03-C-Antwerpen-West-FH01;FTTH-Cu;108331;2000.0;Antwerpen;Napelsstraat;37;;;1.0;;115919.0;ANTWERPEN-WEST - FH01;108331;;BL0119;Napelsstraat;37;;SDU;;1;0;0;1.0;BUILDING template
+222122;W03-C-Antwerpen-West-FH01;FTTH-Cu;108790;2000.0;Antwerpen;Napelsstraat;130;;;1.0;;115939.0;ANTWERPEN-WEST - FH01;108790;;BL0113;Napelsstraat;130;;SDU;;1;0;0;1.0;BUILDING template
+222176;W03-C-Antwerpen-West-FH01;FTTH-Cu;1128032;2000.0;Antwerpen;Londenstraat;30;;;1.0;;246681.0;ANTWERPEN-WEST - FH01;1128032;;BL0112;Londenstraat;30;;SDU;;1;0;0;1.0;BUILDING template
+222181;W03-C-Antwerpen-West-FH01;FTTH-Cu;1128037;2000.0;Antwerpen;Kattendijkdok-Westkaai;16;;;1.0;;115336.0;ANTWERPEN-WEST - FH01;1128037;;BL0115;Kattendijkdok-Westkaai;16;;SDU;;1;0;0;1.0;BUILDING template
+222188;W03-C-Antwerpen-West-FH01;FTTH-Cu;1265934;2000.0;Antwerpen;August Michielsstraat;34;;;1.0;;114739.0;ANTWERPEN-WEST - FH01;1265934;;BL0131;August Michielsstraat;34;;SDU;;0;1;0;1.0;BUILDING template
+222205;W03-C-Antwerpen-West-FH01;FTTH-Cu;1734631;2000.0;Antwerpen;Sint-Aldegondiskaai;44;;;1.0;;116500.0;ANTWERPEN-WEST - FH01;1734631;;BL0103;Sint-Aldegondiskaai;44;;SDU;;1;0;0;1.0;BUILDING template
+222208;W03-C-Antwerpen-West-FH01;FTTH-Cu;1734634;2000.0;Antwerpen;Sint-Aldegondiskaai;52;;;1.0;;116504.0;ANTWERPEN-WEST - FH01;1734634;;BL0103;Sint-Aldegondiskaai;52;;SDU;;1;0;0;1.0;BUILDING template
+222212;W03-C-Antwerpen-West-FH01;FTTH-Cu;1734638;2000.0;Antwerpen;Sint-Aldegondiskaai;60;;;1.0;;116507.0;ANTWERPEN-WEST - FH01;1734638;;BL0103;Sint-Aldegondiskaai;60;;SDU;;1;0;0;1.0;BUILDING template
+222220;W03-C-Antwerpen-West-FH01;FTTH-Cu;1735100;2000.0;Antwerpen;Amsterdamstraat;29;;;1.0;;116552.0;ANTWERPEN-WEST - FH01;1735100;;BL0115;Amsterdamstraat;29;;SDU;;1;0;0;1.0;BUILDING template
+222237;W03-C-Antwerpen-West-FH01;FTTH-Cu;1775195;2000.0;Antwerpen;Braziliestraat;17;;;1.0;;114758.0;ANTWERPEN-WEST - FH01;1775195;;BL0115;Braziliestraat;17;;SDU;;1;0;0;1.0;BUILDING template
+222268;W03-C-Antwerpen-West-FH01;FTTH-Cu;186519;2000.0;Antwerpen;Oudeleeuwenrui;29;;;1.0;;118642.0;ANTWERPEN-WEST - FH01;186519;;BL0104;Oudeleeuwenrui;29;;SDU;;1;0;0;1.0;BUILDING template
+222314;W03-C-Antwerpen-West-FH01;FTTH-Cu;1960882;2000.0;Antwerpen;Kempischdok-Westkaai;12;;;1.0;;115348.0;ANTWERPEN-WEST - FH01;1960882;;BL0125;Kempischdok-Westkaai;12;;SDU;;0;1;0;1.0;BUILDING template
+222339;W03-C-Antwerpen-West-FH01;FTTH-Cu;1986487;2000.0;Antwerpen;Oudeleeuwenrui;23;;;1.0;;118641.0;ANTWERPEN-WEST - FH01;1986487;;BL0104;Oudeleeuwenrui;23;;SDU;;1;0;0;1.0;BUILDING template
+222346;W03-C-Antwerpen-West-FH01;FTTH-Cu;1992485;2000.0;Antwerpen;Londenstraat;8;;;1.0;;115881.0;ANTWERPEN-WEST - FH01;1992485;;BL0111;Londenstraat;8;;SDU;;0;1;0;1.0;BUILDING template
+222349;W03-C-Antwerpen-West-FH01;FTTH-Cu;1992494;2000.0;Antwerpen;Londenstraat;13;;;1.0;;223232.0;ANTWERPEN-WEST - FH01;1992494;;BL0116;Londenstraat;13;;SDU;;1;0;0;1.0;BUILDING template
+222363;W03-C-Antwerpen-West-FH01;FTTH-Cu;1992564;2000.0;Antwerpen;Londenstraat;45;;;1.0;;118111.0;ANTWERPEN-WEST - FH01;1992564;;BL0131;Londenstraat;45;;SDU;;1;0;0;1.0;BUILDING template
+222377;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024620;2000.0;Antwerpen;Napelsstraat;21;;;1.0;;115910.0;ANTWERPEN-WEST - FH01;2024620;;BL0124;Napelsstraat;21;;SDU;;0;1;0;1.0;BUILDING template
+222384;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024662;2000.0;Antwerpen;Napelsstraat;57;;;1.0;;115924.0;ANTWERPEN-WEST - FH01;2024662;;BL0117;Napelsstraat;57;;SDU;;1;0;0;1.0;BUILDING template
+222388;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024713;2000.0;Antwerpen;Napelsstraat;116;;;1.0;;115934.0;ANTWERPEN-WEST - FH01;2024713;;BL0113;Napelsstraat;116;;SDU;;1;0;0;1.0;BUILDING template
+222392;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024728;2000.0;Antwerpen;Napelsstraat;126;;;1.0;;115937.0;ANTWERPEN-WEST - FH01;2024728;;BL0113;Napelsstraat;126;;SDU;;1;0;0;1.0;BUILDING template
+222393;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024731;2000.0;Antwerpen;Napelsstraat;128;;;1.0;;115938.0;ANTWERPEN-WEST - FH01;2024731;;BL0113;Napelsstraat;128;;SDU;;1;0;0;1.0;BUILDING template
+222414;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024910;2000.0;Antwerpen;Nassaustraat;19;;;1.0;;115957.0;ANTWERPEN-WEST - FH01;2024910;;BL0110;Nassaustraat;19;;SDU;;1;0;0;1.0;BUILDING template
+222419;W03-C-Antwerpen-West-FH01;FTTH-Cu;2024962;2000.0;Antwerpen;Nassaustraat;42;;;1.0;;222811.0;ANTWERPEN-WEST - FH01;2024962;;BL0108;Nassaustraat;42;;SDU;;1;0;0;1.0;BUILDING template
+222430;W03-C-Antwerpen-West-FH01;FTTH-Cu;2051445;2000.0;Antwerpen;Van Schoonbekeplein;3;;;1.0;;116522.0;ANTWERPEN-WEST - FH01;2051445;;BL0104;Van Schoonbekeplein;3;;SDU;;1;0;0;1.0;BUILDING template
+222435;W03-C-Antwerpen-West-FH01;FTTH-Cu;2051455;2000.0;Antwerpen;Van Schoonbekeplein;19;;;1.0;;116527.0;ANTWERPEN-WEST - FH01;2051455;;BL0104;Van Schoonbekeplein;19;;SDU;;1;0;0;1.0;BUILDING template
+222494;W03-C-Antwerpen-West-FH01;FTTH-Cu;4274709;2000.0;Antwerpen;Nassaustraat;12;;;1.0;;118133.0;ANTWERPEN-WEST - FH01;4274709;;BL0109;Nassaustraat;12;;SDU;;1;0;0;1.0;BUILDING template
+222511;W03-C-Antwerpen-West-FH01;FTTH-Cu;4506340;2000.0;Antwerpen;Londenstraat;41;;;1.0;;115900.0;ANTWERPEN-WEST - FH01;4506340;;BL0131;Londenstraat;41;;SDU;;1;0;0;1.0;BUILDING template
+222519;W03-C-Antwerpen-West-FH01;FTTH-Cu;4506382;2000.0;Antwerpen;August Michielsstraat;21;;;1.0;;223169.0;ANTWERPEN-WEST - FH01;4506382;;BL0117;August Michielsstraat;21;;SDU;;1;0;0;1.0;BUILDING template
+222546;W03-C-Antwerpen-West-FH01;FTTH-Cu;4511991;2000.0;Antwerpen;Braziliestraat;32;;;1.0;;116574.0;ANTWERPEN-WEST - FH01;4511991;;BL0114;Braziliestraat;32;;SDU;;0;1;0;1.0;BUILDING template
+222553;W03-C-Antwerpen-West-FH01;FTTH-Cu;52537;2000.0;Antwerpen;Amsterdamstraat;21;;;1.0;;114708.0;ANTWERPEN-WEST - FH01;52537;;BL0115;Amsterdamstraat;21;;SDU;;1;0;0;1.0;BUILDING template
+222598;W03-C-Antwerpen-West-FH01;FTTH-Cu;59299;2000.0;Antwerpen;Godefriduskaai;2;;;1.0;;117087.0;ANTWERPEN-WEST - FH01;59299;;BL0104;Godefriduskaai;2;;SDU;;1;0;0;1.0;BUILDING template
+222623;W03-C-Antwerpen-West-FH01;FTTH-Cu;62435;2000.0;Antwerpen;Zeevaartstraat;1;;;1.0;;118666.0;ANTWERPEN-WEST - FH01;62435;;BL0105;Zeevaartstraat;1;;SDU;;1;0;0;1.0;BUILDING template
+224309;W03-C-Antwerpen-West-FH04;FTTH-Cu;110178;2000.0;Antwerpen;Meir;58;;;1.0;;325424.0;ANTWERPEN-WEST - FH04;110178;;BL0429;Meir;58;;SDU;;1;0;0;1.0;BUILDING template
+224416;W03-C-Antwerpen-West-FH04;FTTH-Cu;1735980;2000.0;Antwerpen;Apostelstraat;4;;;1.0;;324669.0;ANTWERPEN-WEST - FH04;1735980;;BL0417;Apostelstraat;4;;SDU;;0;1;0;1.0;BUILDING template
+224712;W03-C-Antwerpen-West-FH04;FTTH-Cu;1962024;2000.0;Antwerpen;Kipdorpvest;20;;;1.0;;325075.0;ANTWERPEN-WEST - FH04;1962024;;BL0433;Kipdorpvest;20;;SDU;;1;0;0;1.0;BUILDING template
+224749;W03-C-Antwerpen-West-FH04;FTTH-Cu;1990404;2000.0;Antwerpen;Leysstraat;19;;;1.0;;325350.0;ANTWERPEN-WEST - FH04;1990404;;BL0433;Leysstraat;19;;SDU;;1;0;0;1.0;BUILDING template
+224859;W03-C-Antwerpen-West-FH04;FTTH-Cu;2045879;2000.0;Antwerpen;Prinsesstraat;11;;;1.0;;325568.0;ANTWERPEN-WEST - FH04;2045879;;BL0404;Prinsesstraat;11;;SDU;;0;1;0;1.0;BUILDING template
+225259;W03-C-Antwerpen-West-FH04;FTTH-Cu;59549;2000.0;Antwerpen;Wiegstraat;1;;;1.0;;325823.0;ANTWERPEN-WEST - FH04;59549;;BL0425;Wiegstraat;1;;SDU;;1;0;0;1.0;BUILDING template
+228077;W03-C-Antwerpen-West-FH07;FTTH-Cu;2030164;2000.0;Antwerpen;Oever;9;;;1.0;;232520.0;ANTWERPEN-WEST - FH07;2030164;;BL0708;Oever;9;;SDU;;1;0;0;1.0;BUILDING template
+228650;W03-C-Antwerpen-West-FH07;FTTH-Cu;973307;2000.0;Antwerpen;Willem Lepelstraat;14;;;1.0;;234746.0;ANTWERPEN-WEST - FH07;973307;;BL0722;Willem Lepelstraat;14;;SDU;;1;0;0;1.0;BUILDING template
+309788;W03-C-Knokke-Heist-FH01;FTTH-Cu;1448549;8300.0;Knokke-Heist;Lippenslaan;129;;;1.0;;368498.0;KNOKKE - FH01;1448549;;BL0125;Lippenslaan;129;;SDU;;0;1;0;1.0;BUILDING template
+310517;W03-C-Knokke-Heist-FH01;FTTH-Cu;4193810;8300.0;Knokke-Heist;Lippenslaan;137;;;1.0;;387192.0;KNOKKE - FH01;4193810;;BL0125;Lippenslaan;137;;SDU;;1;0;0;1.0;BUILDING template
+310647;W03-C-Knokke-Heist-FH01;FTTH-Cu;84567;8300.0;Knokke-Heist;Smedenstraat;88;;;1.0;;368879.0;KNOKKE - FH01;84567;;BL0102;Smedenstraat;88;;SDU;;1;0;0;1.0;BUILDING template
+325253;W03-C-Liege-FH04;FTTH-Cu;1200986;4000.0;Liège;Rue Hemricourt;18;;;1.0;;255482.0;LIÃGE - FH04;1200986;;BL0414;Rue Hemricourt;18;;SDU;;0;1;1;2.0;BUILDING template
+325319;W03-C-Liege-FH04;FTTH-Cu;1474768;4000.0;Liège;Rue Rennequin-Sualem;17;;;1.0;;255549.0;LIÃGE - FH04;1474768;;BL0415;Rue Rennequin-Sualem;17;;SDU;;1;0;3;4.0;BUILDING template
+325328;W03-C-Liege-FH04;FTTH-Cu;1487555;4000.0;Liège;Rue Edouard Wacken;29;;;1.0;;255558.0;LIÃGE - FH04;1487555;;BL0414;Rue Edouard Wacken;29;;SDU;;1;0;1;2.0;BUILDING template
+325335;W03-C-Liege-FH04;FTTH-Cu;1510618;4000.0;Liège;Rue Edouard Wacken;11;;;1.0;;255565.0;LIÃGE - FH04;1510618;;BL0414;Rue Edouard Wacken;11;;SDU;;0;1;1;2.0;BUILDING template
+325345;W03-C-Liege-FH04;FTTH-Cu;1682433;4000.0;Liège;Rue des Guillemins;123;;;1.0;;255575.0;LIÃGE - FH04;1682433;;BL0401;Rue des Guillemins;123;;SDU;;;;;;BUILDING template
+325365;W03-C-Liege-FH04;FTTH-Cu;2761827;4000.0;Liège;Rue Paradis;96;;;1.0;;255609.0;LIÃGE - FH04;2761827;;BL0404;Rue Paradis;96;;SDU;;;;;;BUILDING template
+325423;W03-C-Liege-FH04;FTTH-Cu;2772853;4000.0;Liège;Rue Rennequin-Sualem;9;;;1.0;;255665.0;LIÃGE - FH04;2772853;;BL0415;Rue Rennequin-Sualem;9;;SDU;;0;1;1;2.0;BUILDING template
+325430;W03-C-Liege-FH04;FTTH-Cu;2772877;4000.0;Liège;Rue Rennequin-Sualem;32;;;1.0;;255672.0;LIÃGE - FH04;2772877;;BL0414;Rue Rennequin-Sualem;32;;SDU;;0;1;1;2.0;BUILDING template
+325463;W03-C-Liege-FH04;FTTH-Cu;2778829;4000.0;Liège;Rue de Serbie;42;;;1.0;;255705.0;LIÃGE - FH04;2778829;;BL0406;Rue de Serbie;42;;SDU;;1;0;0;1.0;BUILDING template
+325520;W03-C-Liege-FH04;FTTH-Cu;2779347;4000.0;Liège;Rue de Serbie;123;;;1.0;;255762.0;LIÃGE - FH04;2779347;;BL0404;Rue de Serbie;123;;SDU;;;;;;BUILDING template
+325527;W03-C-Liege-FH04;FTTH-Cu;2779962;4000.0;Liège;Rue Simonon;7;;;1.0;;255769.0;LIÃGE - FH04;2779962;;BL0407;Rue Simonon;7;;SDU;;0;1;1;2.0;BUILDING template
+325530;W03-C-Liege-FH04;FTTH-Cu;2780003;4000.0;Liège;Rue Simonon;11;;;1.0;;255772.0;LIÃGE - FH04;2780003;;BL0407;Rue Simonon;11;;SDU;;0;1;1;2.0;BUILDING template
+325532;W03-C-Liege-FH04;FTTH-Cu;2780014;4000.0;Liège;Rue Simonon;13;;;1.0;;255774.0;LIÃGE - FH04;2780014;;BL0407;Rue Simonon;13;;SDU;;1;0;1;2.0;BUILDING template
+325534;W03-C-Liege-FH04;FTTH-Cu;2780025;4000.0;Liège;Rue Simonon;16;;;1.0;;255776.0;LIÃGE - FH04;2780025;;BL0410;Rue Simonon;16;;SDU;;0;1;1;2.0;BUILDING template
+325538;W03-C-Liege-FH04;FTTH-Cu;2780045;4000.0;Liège;Rue Simonon;20;;;1.0;;255780.0;LIÃGE - FH04;2780045;;BL0410;Rue Simonon;20;;SDU;;0;1;1;2.0;BUILDING template
+325571;W03-C-Liege-FH04;FTTH-Cu;2796538;4000.0;Liège;Place Sainte Véronique;6;;;1.0;;255813.0;LIÃGE - FH04;2796538;;BL0416;Place Sainte VÃ©ronique;6;;SDU;;1;0;1;2.0;BUILDING template
+325588;W03-C-Liege-FH04;FTTH-Cu;2796614;4000.0;Liège;Rue Sainte Véronique;27;;;1.0;;255830.0;LIÃGE - FH04;2796614;;BL0412;Rue Sainte VÃ©ronique;27;;SDU;;0;1;1;2.0;BUILDING template
+325614;W03-C-Liege-FH04;FTTH-Cu;2808345;4000.0;Liège;Rue des Vingt-Deux;33;;;1.0;;255855.0;LIÃGE - FH04;2808345;;BL0404;Rue des Vingt-Deux;33;;SDU;;;;;;BUILDING template
+325616;W03-C-Liege-FH04;FTTH-Cu;2808358;4000.0;Liège;Rue des Vingt-Deux;36;;;1.0;;255857.0;LIÃGE - FH04;2808358;;BL0405;Rue des Vingt-Deux;36;;SDU;;0;1;1;2.0;BUILDING template
+325637;W03-C-Liege-FH04;FTTH-Cu;2840163;4000.0;Liège;Rue de Rotterdam;11;;;1.0;;255878.0;LIÃGE - FH04;2840163;;BL0409;Rue de Rotterdam;11;;SDU;;0;1;1;2.0;BUILDING template
+325640;W03-C-Liege-FH04;FTTH-Cu;2840180;4000.0;Liège;Rue de Rotterdam;17;;;1.0;;255881.0;LIÃGE - FH04;2840180;;BL0409;Rue de Rotterdam;17;;SDU;;1;0;1;2.0;BUILDING template
+325643;W03-C-Liege-FH04;FTTH-Cu;2840187;4000.0;Liège;Rue de Rotterdam;21;;;1.0;;255884.0;LIÃGE - FH04;2840187;;BL0409;Rue de Rotterdam;21;;SDU;;0;1;1;2.0;BUILDING template
+325669;W03-C-Liege-FH04;FTTH-Cu;3099741;4000.0;Liège;Boulevard d'Avroy;280;;;1.0;;255908.0;LIÃGE - FH04;3099741;;BL0409;Boulevard dAvroy;280;;SDU;;1;0;2;3.0;BUILDING template
+325756;W03-C-Liege-FH04;FTTH-Cu;3135357;4000.0;Liège;Rue Dartois;24;;;1.0;;255990.0;LIÃGE - FH04;3135357;;BL0407;Rue Dartois;24;;SDU;;0;1;1;2.0;BUILDING template
+325762;W03-C-Liege-FH04;FTTH-Cu;3135371;4000.0;Liège;Rue Dartois;32;;;1.0;;255996.0;LIÃGE - FH04;3135371;;BL0407;Rue Dartois;32;;SDU;D;0;1;1;2.0;BUILDING template
+325821;W03-C-Liege-FH04;FTTH-Cu;3140269;4000.0;Liège;Rue Fabry;13;;;1.0;;256055.0;LIÃGE - FH04;3140269;;BL0412;Rue Fabry;13;;SDU;;1;0;1;2.0;BUILDING template
+325823;W03-C-Liege-FH04;FTTH-Cu;3140271;4000.0;Liège;Rue Fabry;15;;;1.0;;256057.0;LIÃGE - FH04;3140271;;BL0412;Rue Fabry;15;;SDU;;0;1;1;2.0;BUILDING template
+325830;W03-C-Liege-FH04;FTTH-Cu;3140280;4000.0;Liège;Rue Fabry;29;;;1.0;;256064.0;LIÃGE - FH04;3140280;;BL0412;Rue Fabry;29;;SDU;;0;1;1;2.0;BUILDING template
+325866;W03-C-Liege-FH04;FTTH-Cu;3143700;4000.0;Liège;Rue des Guillemins;7;;;1.0;;256102.0;LIÃGE - FH04;3143700;;BL0406;Rue des Guillemins;7;;SDU;;1;0;1;2.0;BUILDING template
+325870;W03-C-Liege-FH04;FTTH-Cu;3143704;4000.0;Liège;Rue des Guillemins;11;;;1.0;;256106.0;LIÃGE - FH04;3143704;;BL0406;Rue des Guillemins;11;;SDU;;1;0;2;3.0;BUILDING template
+325874;W03-C-Liege-FH04;FTTH-Cu;3143709;4000.0;Liège;Rue des Guillemins;15;;;1.0;;256110.0;LIÃGE - FH04;3143709;;BL0406;Rue des Guillemins;15;;SDU;;1;0;1;2.0;BUILDING template
+325878;W03-C-Liege-FH04;FTTH-Cu;3143723;4000.0;Liège;Rue des Guillemins;27;;;1.0;;256114.0;LIÃGE - FH04;3143723;;BL0406;Rue des Guillemins;27;;SDU;;1;0;1;2.0;BUILDING template
+325880;W03-C-Liege-FH04;FTTH-Cu;3143727;4000.0;Liège;Rue des Guillemins;31;;;1.0;;256116.0;LIÃGE - FH04;3143727;;BL0406;Rue des Guillemins;31;;SDU;;;;;;BUILDING template
+325890;W03-C-Liege-FH04;FTTH-Cu;3143739;4000.0;Liège;Rue des Guillemins;46;;;1.0;;256126.0;LIÃGE - FH04;3143739;;BL0408;Rue des Guillemins;46;;SDU;;1;0;2;3.0;BUILDING template
+325933;W03-C-Liege-FH04;FTTH-Cu;3143788;4000.0;Liège;Rue des Guillemins;104;;;1.0;;256168.0;LIÃGE - FH04;3143788;;BL0407;Rue des Guillemins;104;;SDU;;;;;;BUILDING template
+325942;W03-C-Liege-FH04;FTTH-Cu;3143797;4000.0;Liège;Rue des Guillemins;114;;;1.0;;256177.0;LIÃGE - FH04;3143797;;BL0407;Rue des Guillemins;114;;SDU;;1;0;1;2.0;BUILDING template
+325945;W03-C-Liege-FH04;FTTH-Cu;3143801;4000.0;Liège;Rue des Guillemins;121;;;1.0;;256180.0;LIÃGE - FH04;3143801;;BL0401;Rue des Guillemins;121;;SDU;;;;;;BUILDING template
+325950;W03-C-Liege-FH04;FTTH-Cu;3144133;4000.0;Liège;Rue Hemricourt;15;;;1.0;;256185.0;LIÃGE - FH04;3144133;;BL0413;Rue Hemricourt;15;;SDU;;1;0;0;1.0;BUILDING template
+325951;W03-C-Liege-FH04;FTTH-Cu;3144134;4000.0;Liège;Rue Hemricourt;16;;;1.0;;256186.0;LIÃGE - FH04;3144134;;BL0414;Rue Hemricourt;16;;SDU;;0;1;1;2.0;BUILDING template
+325985;W03-C-Liege-FH04;FTTH-Cu;3941987;4000.0;Liège;Rue des Guillemins;125,A;;1.0;1.0;1.0;256220.0;LIÃGE - FH04;3941987;;BL0401;Rue des Guillemins;125;A;SDU;;;;;;BUILDING template
+325991;W03-C-Liege-FH04;FTTH-Cu;3942235;4000.0;Liège;Rue Edouard Wacken;35;;;1.0;;256226.0;LIÃGE - FH04;3942235;;BL0414;Rue Edouard Wacken;35;;SDU;;1;0;1;2.0;BUILDING template
+326002;W03-C-Liege-FH04;FTTH-Cu;4088031;4000.0;Liège;Rue Rennequin-Sualem;13;;;1.0;;256239.0;LIÃGE - FH04;4088031;;BL0415;Rue Rennequin-Sualem;13;;SDU;;0;1;1;2.0;BUILDING template
+326008;W03-C-Liege-FH04;FTTH-Cu;4253989;4000.0;Liège;Rue des Guillemins;108;;;1.0;;256247.0;LIÃGE - FH04;4253989;;BL0407;Rue des Guillemins;108;;SDU;;1;0;1;2.0;BUILDING template
+326023;W03-C-Liege-FH04;FTTH-Cu;5182420;4000.0;Liège;Rue Simonon;15;;;1.0;;256265.0;LIÃGE - FH04;5182420;;BL0407;Rue Simonon;15;;SDU;;0;1;1;2.0;BUILDING template
+326050;W03-C-Liege-FH04;FTTH-Cu;5188850;4000.0;Liège;Rue de Serbie;74;;;1.0;;256287.0;LIÃGE - FH04;5188850;;BL0401;Rue de Serbie;74;;SDU;;;;;;BUILDING template
+326054;W03-C-Liege-FH04;FTTH-Cu;5188905;4000.0;Liège;Rue de Serbie;112;;;1.0;;256290.0;LIÃGE - FH04;5188905;;BL0401;Rue de Serbie;112;;SDU;;;;;;BUILDING template
+326089;W03-C-Liege-FH04;FTTH-Cu;540710;4000.0;Liège;Rue Hemricourt;14;;;1.0;;255404.0;LIÃGE - FH04;540710;;BL0414;Rue Hemricourt;14;;SDU;;0;1;1;2.0;BUILDING template
+326097;W03-C-Liege-FH04;FTTH-Cu;540721;4000.0;Liège;Rue Rennequin-Sualem;22;;1.0;1.0;1.0;255412.0;LIÃGE - FH04;540721;;BL0414;Rue Rennequin-Sualem;22;;SDU;;1;0;1;2.0;BUILDING template
+326100;W03-C-Liege-FH04;FTTH-Cu;540724;4000.0;Liège;Rue Fabry;25;;;1.0;;255415.0;LIÃGE - FH04;540724;Inami;BL0412;Rue Fabry;25;;SDU;;1;0;1;2.0;BUILDING template
+326149;W03-C-Liege-FH04;FTTH-Cu;541531;4000.0;Liège;Rue des Guillemins;116;;;1.0;;255463.0;LIÃGE - FH04;541531;;BL0407;Rue des Guillemins;116;;SDU;;1;0;3;4.0;BUILDING template
+326152;W03-C-Liege-FH04;FTTH-Cu;541534;4000.0;Liège;Rue Dartois;2;;;1.0;;255466.0;LIÃGE - FH04;541534;;BL0407;Rue Dartois;2;;SDU;;;;;;BUILDING template
+326163;W03-C-Liege-FH04;FTTH-Cu;642228;4000.0;Liège;Boulevard Frère Orban;11;;1.0;1.0;1.0;255474.0;LIÃGE - FH04;642228;;BL0419;Boulevard FrÃ¨re Orban;11;;SDU;;;;;;BUILDING template
+331212;W03-C-Liege-FH10;FTTH-Cu;663387;4020.0;Liège;Boulevard de Froidmont;2;;;1.0;1.0;770119.0;LIÃGE - FH10;663387;;;Boulevard de Froidmont;2;;SDU;;1;0;0;1.0;BUILDING template
+403213;W03-D-Hasselt-FH04;FTTH-Cu;2423699;3500.0;Hasselt;Oude Kuringerbaan;150;;;1.0;;313749.0;HASSELT - FH04;2423699;;BL0405;Oude Kuringerbaan;150;;SDU;;0;1;0;1.0;BUILDING template
+403276;W03-D-Hasselt-FH04;FTTH-Cu;2423868;3500.0;Hasselt;Kuringersteenweg;105;;;1.0;;313407.0;HASSELT - FH04;2423868;;BL0406;Kuringersteenweg;105;;SDU;;0;1;0;1.0;BUILDING template
+403282;W03-D-Hasselt-FH04;FTTH-Cu;2423897;3500.0;Hasselt;Kuringersteenweg;113;;;1.0;;313413.0;HASSELT - FH04;2423897;;BL0406;Kuringersteenweg;113;;SDU;;0;1;0;1.0;BUILDING template
+403351;W03-D-Hasselt-FH04;FTTH-Cu;2425161;3500.0;Hasselt;Lazarijstraat;22;;;1.0;;313541.0;HASSELT - FH04;2425161;;BL0409;Lazarijstraat;22;;SDU;;0;1;0;1.0;BUILDING template
+403367;W03-D-Hasselt-FH04;FTTH-Cu;2425222;3500.0;Hasselt;Lazarijstraat;52;;;1.0;;313564.0;HASSELT - FH04;2425222;;BL0411;Lazarijstraat;52;;SDU;;1;0;0;1.0;BUILDING template
+403377;W03-D-Hasselt-FH04;FTTH-Cu;2425253;3500.0;Hasselt;Lazarijstraat;64;;;1.0;;313576.0;HASSELT - FH04;2425253;;BL0411;Lazarijstraat;64;;SDU;;1;0;0;1.0;BUILDING template
+403413;W03-D-Hasselt-FH04;FTTH-Cu;2433761;3500.0;Hasselt;Palmstraat;8;;;1.0;;313766.0;HASSELT - FH04;2433761;;BL0409;Palmstraat;8;;SDU;;0;1;0;1.0;BUILDING template
+403422;W03-D-Hasselt-FH04;FTTH-Cu;2433786;3500.0;Hasselt;Palmstraat;32;;;1.0;;313788.0;HASSELT - FH04;2433786;;BL0409;Palmstraat;32;;SDU;;0;1;0;1.0;BUILDING template
+403439;W03-D-Hasselt-FH04;FTTH-Cu;2434222;3500.0;Hasselt;Plantenstraat;49;;;1.0;;313840.0;HASSELT - FH04;2434222;;BL0409;Plantenstraat;49;;SDU;;1;0;0;1.0;BUILDING template
+403598;W03-D-Hasselt-FH04;FTTH-Cu;4062353;3500.0;Hasselt;Blijde-Inkomststraat;36;;;1.0;;313120.0;HASSELT - FH04;4062353;;BL0412;Blijde-Inkomststraat;36;;SDU;;1;0;0;1.0;BUILDING template
+403608;W03-D-Hasselt-FH04;FTTH-Cu;4157483;3500.0;Hasselt;Lazarijstraat;111;;;1.0;;313613.0;HASSELT - FH04;4157483;;BL0412;Lazarijstraat;111;;SDU;;1;0;0;1.0;BUILDING template
+403645;W03-D-Hasselt-FH04;FTTH-Cu;4274274;3500.0;Hasselt;Rozenstraat;21;;;1.0;;313970.0;HASSELT - FH04;4274274;;BL0412;Rozenstraat;21;;SDU;;1;0;0;1.0;BUILDING template
+403706;W03-D-Hasselt-FH04;FTTH-Cu;4888774;3500.0;Hasselt;Ambachtsschoolstraat;33;;;1.0;;313060.0;HASSELT - FH04;4888774;;BL0404;Ambachtsschoolstraat;33;;SDU;;0;1;0;1.0;BUILDING template
+403723;W03-D-Hasselt-FH04;FTTH-Cu;4888941;3500.0;Hasselt;Prinsenstraat;27;;;1.0;;313926.0;HASSELT - FH04;4888941;;BL0413;Prinsenstraat;27;;SDU;;0;1;0;1.0;BUILDING template
+403981;W03-D-Hasselt-FH04;FTTH-Cu;701743;3500.0;Hasselt;Plantenstraat;6;;;1.0;;313815.0;HASSELT - FH04;701743;;BL0406;Plantenstraat;6;;SDU;;0;1;0;1.0;BUILDING template
+404487;W03-D-Hasselt-FH06;FTTH-Cu;2427291;3500.0;Hasselt;Maastrichtersteenweg;171,A;;;1.0;;360615.0;HASSELT - FH06;2427291;;BL0017;Maastrichtersteenweg;171;A;SDU;;0;1;0;1.0;BUILDING template
+404488;W03-D-Hasselt-FH06;FTTH-Cu;2427293;3500.0;Hasselt;Maastrichtersteenweg;173;;;1.0;;360616.0;HASSELT - FH06;2427293;;BL0017;Maastrichtersteenweg;173;;SDU;;0;1;0;1.0;BUILDING template
+404490;W03-D-Hasselt-FH06;FTTH-Cu;2427295;3500.0;Hasselt;Maastrichtersteenweg;175,A;;;1.0;;360619.0;HASSELT - FH06;2427295;;BL0017;Maastrichtersteenweg;175;A;SDU;;1;0;0;1.0;BUILDING template
+404721;W03-D-Hasselt-FH06;FTTH-Cu;4126800;3500.0;Hasselt;Maastrichtersteenweg;179;;;1.0;;360621.0;HASSELT - FH06;4126800;;BL0017;Maastrichtersteenweg;179;;SDU;;0;1;0;1.0;BUILDING template
+412050;W03-D-Mechelen-FH01;FTTH-Cu;3029545;2800.0;Mechelen;Arme-Clarenstraat;17;;;1.0;;222376.0;MECHELEN - FH01;3029545;;BL0112;Arme-Clarenstraat;17;;SDU;;1;0;0;1.0;BUILDING template
+412496;W03-D-Mechelen-FH01;FTTH-Cu;3051124;2800.0;Mechelen;Varkensstraat;6;;;1.0;;143252.0;MECHELEN - FH01;3051124;;BL0105;Varkensstraat;6;;SDU;;1;0;0;1.0;BUILDING template
+412530;W03-D-Mechelen-FH01;FTTH-Cu;3052841;2800.0;Mechelen;Wollemarkt;7;;;1.0;;143298.0;MECHELEN - FH01;3052841;;BL0109;Wollemarkt;7;;SDU;;1;0;0;1.0;BUILDING template
+412541;W03-D-Mechelen-FH01;FTTH-Cu;3052868;2800.0;Mechelen;Wollemarkt;36;;;1.0;;143315.0;MECHELEN - FH01;3052868;;BL0107;Wollemarkt;36;;SDU;;1;0;0;1.0;BUILDING template
+412829;W03-D-Mechelen-FH01;FTTH-Cu;901196;2800.0;Mechelen;Grote Markt;17;;;1.0;;142715.0;MECHELEN - FH01;901196;;BL0105;Grote Markt;17;;SDU;;1;0;0;1.0;BUILDING template
+412886;W03-D-Mechelen-FH01;FTTH-Cu;904293;2800.0;Mechelen;Lange Schipstraat;58;;;1.0;;142895.0;MECHELEN - FH01;904293;;BL0127;Lange Schipstraat;58;;SDU;;0;1;0;1.0;BUILDING template
+412956;W03-D-Mechelen-FH01;FTTH-Cu;905640;2800.0;Mechelen;Grootbrug;3;;;1.0;;142697.0;MECHELEN - FH01;905640;;BL0127;Grootbrug;3;;SDU;;1;0;0;1.0;BUILDING template
+412986;W03-D-Mechelen-FH01;FTTH-Cu;905713;2800.0;Mechelen;Melaan;16;;;1.0;;596799.0;MECHELEN - FH01;905713;;BL0112;Melaan;16;;SDU;;1;0;0;1.0;BUILDING template
+413005;W03-D-Mechelen-FH01;FTTH-Cu;929557;2800.0;Mechelen;Schoutetstraat;2;;;1.0;;143087.0;MECHELEN - FH01;929557;;BL0101;Schoutetstraat;2;;SDU;;1;0;0;1.0;BUILDING template
+413067;W03-D-Mechelen-FH02;FTTH-Cu;10970;2800.0;Mechelen;Korenmarkt;55;;;1.0;;145945.0;MECHELEN - FH02;10970;;BL0207;Korenmarkt;55;;SDU;;1;0;0;1.0;BUILDING template
+413117;W03-D-Mechelen-FH02;FTTH-Cu;3029550;2800.0;Mechelen;Arsenaalstraat;6;;;1.0;;145494.0;MECHELEN - FH02;3029550;;BL0231;Arsenaalstraat;6;;SDU;;0;1;0;1.0;BUILDING template
+413316;W03-D-Mechelen-FH02;FTTH-Cu;3036028;2800.0;Mechelen;Hanswijkstraat;16;;;1.0;;246535.0;MECHELEN - FH02;3036028;;BL0216;Hanswijkstraat;16;;SDU;;1;0;0;1.0;BUILDING template
+413339;W03-D-Mechelen-FH02;FTTH-Cu;3036074;2800.0;Mechelen;Hanswijkstraat;61;;;1.0;;145766.0;MECHELEN - FH02;3036074;;BL0205;Hanswijkstraat;61;;SDU;;1;0;0;1.0;BUILDING template
+413609;W03-D-Mechelen-FH02;FTTH-Cu;3046663;2800.0;Mechelen;Raghenoplein;5;;;1.0;;146348.0;MECHELEN - FH02;3046663;;BL0205;Raghenoplein;5;;SDU;;0;1;0;1.0;BUILDING template
+413653;W03-D-Mechelen-FH02;FTTH-Cu;3047959;2800.0;Mechelen;Schuttersvest;17;;;1.0;1.0;146402.0;MECHELEN - FH02;3047959;;BL0218;Schuttersvest;17;;SDU;;1;0;0;1.0;BUILDING template
+413669;W03-D-Mechelen-FH02;FTTH-Cu;3047987;2800.0;Mechelen;Schuttersvest;38;;;1.0;;146420.0;MECHELEN - FH02;3047987;;BL0227;Schuttersvest;38;;SDU;;0;1;0;1.0;BUILDING template
+413673;W03-D-Mechelen-FH02;FTTH-Cu;3047992;2800.0;Mechelen;Schuttersvest;42;;;1.0;1.0;146424.0;MECHELEN - FH02;3047992;;BL0227;Schuttersvest;42;;SDU;;0;1;0;1.0;BUILDING template
+413729;W03-D-Mechelen-FH02;FTTH-Cu;3048997;2800.0;Mechelen;Stationsstraat;10;;;1.0;;146502.0;MECHELEN - FH02;3048997;;BL0232;Stationsstraat;10;;SDU;;0;1;0;1.0;BUILDING template
+413745;W03-D-Mechelen-FH02;FTTH-Cu;3049027;2800.0;Mechelen;Stationsstraat;36;;;1.0;;146526.0;MECHELEN - FH02;3049027;;BL0231;Stationsstraat;36;;SDU;;0;1;0;1.0;BUILDING template
+413835;W03-D-Mechelen-FH02;FTTH-Cu;3050846;2800.0;Mechelen;Graaf van Egmontstraat;7;;;1.0;;145627.0;MECHELEN - FH02;3050846;;BL0216;Graaf van Egmontstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+413838;W03-D-Mechelen-FH02;FTTH-Cu;3050857;2800.0;Mechelen;Graaf van Egmontstraat;12;;;1.0;;145632.0;MECHELEN - FH02;3050857;;BL0215;Graaf van Egmontstraat;12;;SDU;;1;0;0;1.0;BUILDING template
+413877;W03-D-Mechelen-FH02;FTTH-Cu;3053911;2800.0;Mechelen;Zoutwerf;8;;;1.0;1.0;146851.0;MECHELEN - FH02;3053911;;BL0201;Zoutwerf;8;;SDU;;0;1;0;1.0;BUILDING template
+413905;W03-D-Mechelen-FH02;FTTH-Cu;333325;2800.0;Mechelen;Leopoldstraat;113;;;1.0;;146101.0;MECHELEN - FH02;333325;;BL0229;Leopoldstraat;113;;SDU;;0;1;0;3.0;BUILDING template
+413992;W03-D-Mechelen-FH02;FTTH-Cu;354746;2800.0;Mechelen;Graaf van Egmontstraat;13;;;1.0;;145633.0;MECHELEN - FH02;354746;;BL0216;Graaf van Egmontstraat;13;;SDU;;1;0;0;1.0;BUILDING template
+414078;W03-D-Mechelen-FH02;FTTH-Cu;383272;2800.0;Mechelen;Albert Geudensstraat;4;;;1.0;;145477.0;MECHELEN - FH02;383272;;BL0227;Albert Geudensstraat;4;;SDU;;1;0;0;1.0;BUILDING template
+414252;W03-D-Mechelen-FH02;FTTH-Cu;4025082;2800.0;Mechelen;Lieve-Heerstraat;3;;;1.0;;222789.0;MECHELEN - FH02;4025082;;BL0209;Lieve-Heerstraat;3;;SDU;;0;1;0;1.0;BUILDING template
+414306;W03-D-Mechelen-FH02;FTTH-Cu;4172850;2800.0;Mechelen;Schuttersvest;44;;;1.0;1.0;484776.0;MECHELEN - FH02;4172850;;BL0227;Schuttersvest;44;;SDU;;0;1;0;1.0;BUILDING template
+414490;W03-D-Mechelen-FH02;FTTH-Cu;4764808;2800.0;Mechelen;Hanswijkstraat;14;;;1.0;;145729.0;MECHELEN - FH02;4764808;;BL0216;Hanswijkstraat;14;;SDU;;1;0;0;1.0;BUILDING template
+414569;W03-D-Mechelen-FH02;FTTH-Cu;6374915;2800.0;Mechelen;Graaf van Egmontstraat;7,A;;;1.0;;503967.0;MECHELEN - FH02;6374915;;BL0216;Graaf van Egmontstraat;7;A;SDU;;0;1;0;1.0;BUILDING template
+414598;W03-D-Mechelen-FH03;FTTH-Cu;1345053;2800.0;Mechelen;Bruul;80;;1.0;1.0;;193513.0;MECHELEN - FH03;1345053;;BL0001;Bruul;80;;SDU;;1;0;0;1.0;BUILDING template
+414609;W03-D-Mechelen-FH03;FTTH-Cu;3031591;2800.0;Mechelen;Botermarkt;16;;;1.0;1.0;193450.0;MECHELEN - FH03;3031591;Botermarkt 14-16;BL0001;Botermarkt;16;;SDU;;1;0;0;1.0;BUILDING template
+414629;W03-D-Mechelen-FH03;FTTH-Cu;3032177;2800.0;Mechelen;Bruul;34;;1.0;1.0;;142520.0;MECHELEN - FH03;3032177;;BL0001;Bruul;34;;SDU;;1;0;0;1.0;BUILDING template
+414631;W03-D-Mechelen-FH03;FTTH-Cu;3032181;2800.0;Mechelen;Bruul;39;;;1.0;1.0;193486.0;MECHELEN - FH03;3032181;Nr39 en 41;BL0001;Bruul;39;;SDU;c;1;0;0;1.0;BUILDING template
+414632;W03-D-Mechelen-FH03;FTTH-Cu;3032182;2800.0;Mechelen;Bruul;41;;;1.0;1.0;222922.0;MECHELEN - FH03;3032182;Nr39 en 41;BL0001;Bruul;41;;SDU;c;1;0;0;1.0;BUILDING template
+414633;W03-D-Mechelen-FH03;FTTH-Cu;3032184;2800.0;Mechelen;Bruul;42;;;1.0;;142521.0;MECHELEN - FH03;3032184;;BL0001;Bruul;42;;SDU;;1;0;0;1.0;BUILDING template
+414666;W03-D-Mechelen-FH03;FTTH-Cu;3032245;2800.0;Mechelen;Bruul;117;;;1.0;1.0;193540.0;MECHELEN - FH03;3032245;Nr 115 en 117;BL0001;Bruul;117;;SDU;C;1;0;0;1.0;BUILDING template
+414671;W03-D-Mechelen-FH03;FTTH-Cu;3032252;2800.0;Mechelen;Bruul;124;;;1.0;1.0;193545.0;MECHELEN - FH03;3032252;Nr126 124 128 en 130;BL0001;Bruul;124;;SDU;C;1;0;0;1.0;BUILDING template
+414675;W03-D-Mechelen-FH03;FTTH-Cu;3032257;2800.0;Mechelen;Bruul;128;;;1.0;1.0;193549.0;MECHELEN - FH03;3032257;Nr126 124 128 en 130;BL0001;Bruul;128;;SDU;C;1;0;0;1.0;BUILDING template
+414727;W03-D-Mechelen-FH03;FTTH-Cu;905036;2800.0;Mechelen;Botermarkt;17;;;1.0;;193451.0;MECHELEN - FH03;905036;;BL0001;Botermarkt;17;;SDU;;1;0;0;1.0;BUILDING template
+418808;W03-D-Sint-Niklaas-FH01;FTTH-Cu;106566;9100.0;Sint-Niklaas;Hofstraat;61;;;1.0;1.0;173523.0;SINT-NIKLAAS - FH01;106566;;BL0102;Hofstraat;61;;SDU;;1;0;0;1.0;BUILDING template
+418824;W03-D-Sint-Niklaas-FH01;FTTH-Cu;106645;9100.0;Sint-Niklaas;Collegestraat;31;;;1.0;;173709.0;SINT-NIKLAAS - FH01;106645;;BL0106;Collegestraat;31;;SDU;;1;0;0;1.0;BUILDING template
+418826;W03-D-Sint-Niklaas-FH01;FTTH-Cu;106653;9100.0;Sint-Niklaas;Hofstraat;7;;;1.0;;295172.0;SINT-NIKLAAS - FH01;106653;;BL0110;Hofstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+418934;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3487259;9100.0;Sint-Niklaas;Casinostraat;6;;;1.0;1.0;173555.0;SINT-NIKLAAS - FH01;3487259;;BL0103;Casinostraat;6;;SDU;;1;0;0;1.0;BUILDING template
+419095;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3494278;9100.0;Sint-Niklaas;Hendrik Heymanplein;242;;;1.0;1.0;174472.0;SINT-NIKLAAS - FH01;3494278;;BL0120;Hendrik Heymanplein;242;;SDU;;1;0;0;1.0;BUILDING template
+419099;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3494312;9100.0;Sint-Niklaas;Hofstraat;27;;;1.0;;173669.0;SINT-NIKLAAS - FH01;3494312;;BL0105;Hofstraat;27;;SDU;;0;1;0;1.0;BUILDING template
+419228;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3500032;9100.0;Sint-Niklaas;Kleine Laan;12;;;1.0;;173535.0;SINT-NIKLAAS - FH01;3500032;;BL0102;Kleine Laan;12;;SDU;;0;1;0;1.0;BUILDING template
+419234;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3500041;9100.0;Sint-Niklaas;Kleine Laan;20;;;1.0;1.0;173561.0;SINT-NIKLAAS - FH01;3500041;;BL0103;Kleine Laan;20;;SDU;;0;1;0;1.0;BUILDING template
+419283;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3500779;9100.0;Sint-Niklaas;Collegestraat;8;;;1.0;;173931.0;SINT-NIKLAAS - FH01;3500779;;BL0110;Collegestraat;8;;SDU;;0;1;0;1.0;BUILDING template
+419303;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3500831;9100.0;Sint-Niklaas;Kongostraat;19;;;1.0;1.0;191195.0;SINT-NIKLAAS - FH01;3500831;;BL0122;Kongostraat;19;;SDU;;0;1;0;1.0;BUILDING template
+419354;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3503469;9100.0;Sint-Niklaas;Grote Markt;57;;;1.0;1.0;173714.0;SINT-NIKLAAS - FH01;3503469;;BL0106;Grote Markt;57;;SDU;;1;0;0;1.0;BUILDING template
+419451;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3511383;9100.0;Sint-Niklaas;Plezantstraat;6;;;1.0;;174176.0;SINT-NIKLAAS - FH01;3511383;;BL0115;Plezantstraat;6;;SDU;;1;0;0;1.0;BUILDING template
+419453;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3511389;9100.0;Sint-Niklaas;Plezantstraat;8;;;1.0;1.0;174177.0;SINT-NIKLAAS - FH01;3511389;;BL0115;Plezantstraat;8;;SDU;;1;0;0;1.0;BUILDING template
+419491;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3511545;9100.0;Sint-Niklaas;Plezantstraat;68;;;1.0;;174199.0;SINT-NIKLAAS - FH01;3511545;;BL0115;Plezantstraat;68;;SDU;;1;0;0;1.0;BUILDING template
+419519;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3511643;9100.0;Sint-Niklaas;Plezantstraat;135;;;1.0;1.0;173488.0;SINT-NIKLAAS - FH01;3511643;;BL0101;Plezantstraat;135;;SDU;;1;0;0;1.0;BUILDING template
+419570;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3515278;9100.0;Sint-Niklaas;Stationsstraat;7;;;1.0;;222617.0;SINT-NIKLAAS - FH01;3515278;;BL0109;Stationsstraat;7;;SDU;;1;0;0;1.0;BUILDING template
+419572;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3515282;9100.0;Sint-Niklaas;Stationsstraat;9,A;;;1.0;;222620.0;SINT-NIKLAAS - FH01;3515282;;BL0109;Stationsstraat;9;A;SDU;;1;0;0;1.0;BUILDING template
+419691;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3517974;9100.0;Sint-Niklaas;Dokter Verdurmenstraat;7;;;1.0;;173851.0;SINT-NIKLAAS - FH01;3517974;;BL0109;Dokter Verdurmenstraat;7;;SDU;;0;1;0;1.0;BUILDING template
+419692;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3517977;9100.0;Sint-Niklaas;Dokter Verdurmenstraat;9;;;1.0;1.0;173852.0;SINT-NIKLAAS - FH01;3517977;;BL0109;Dokter Verdurmenstraat;9;;SDU;;1;0;0;1.0;BUILDING template
+419695;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3517983;9100.0;Sint-Niklaas;Dokter Verdurmenstraat;13;;;1.0;;173853.0;SINT-NIKLAAS - FH01;3517983;;BL0109;Dokter Verdurmenstraat;13;;SDU;;1;0;0;1.0;BUILDING template
+419709;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3518022;9100.0;Sint-Niklaas;Dokter Verdurmenstraat;34;;;1.0;1.0;173795.0;SINT-NIKLAAS - FH01;3518022;;BL0107;Dokter Verdurmenstraat;34;;SDU;;1;0;0;1.0;BUILDING template
+419741;W03-D-Sint-Niklaas-FH01;FTTH-Cu;3948673;9100.0;Sint-Niklaas;Hendrik Heymanplein;116;;;1.0;1.0;174561.0;SINT-NIKLAAS - FH01;3948673;;BL0121;Hendrik Heymanplein;116;;SDU;;0;1;0;1.0;BUILDING template
+419880;W03-D-Sint-Niklaas-FH01;FTTH-Cu;4444537;9100.0;Sint-Niklaas;Stationsstraat;50;;;1.0;;222643.0;SINT-NIKLAAS - FH01;4444537;;BL0106;Stationsstraat;50;;SDU;;1;0;0;1.0;BUILDING template
+419896;W03-D-Sint-Niklaas-FH01;FTTH-Cu;4448141;9100.0;Sint-Niklaas;Kleine Laan;21;;;1.0;;173562.0;SINT-NIKLAAS - FH01;4448141;;BL0103;Kleine Laan;21;;SDU;;0;1;0;1.0;BUILDING template
+419914;W03-D-Sint-Niklaas-FH01;FTTH-Cu;4455735;9100.0;Sint-Niklaas;Richard Van Britsomstraat;17;;;1.0;;173682.0;SINT-NIKLAAS - FH01;4455735;;BL0105;Richard Van Britsomstraat;17;;SDU;;0;1;0;1.0;BUILDING template
+419922;W03-D-Sint-Niklaas-FH01;FTTH-Cu;4455761;9100.0;Sint-Niklaas;Richard Van Britsomstraat;8;;;1.0;;173726.0;SINT-NIKLAAS - FH01;4455761;;BL0106;Richard Van Britsomstraat;8;;SDU;;0;1;0;1.0;BUILDING template
+419947;W03-D-Sint-Niklaas-FH01;FTTH-Cu;4460321;9100.0;Sint-Niklaas;Stationsstraat;9;;;1.0;1.0;173875.0;SINT-NIKLAAS - FH01;4460321;;BL0109;Stationsstraat;9;;SDU;;0;1;0;1.0;BUILDING template
+420007;W03-D-Sint-Niklaas-FH01;FTTH-Cu;5401799;9100.0;Sint-Niklaas;Prins Albertstraat;39,D;;;1.0;1.0;173620.0;SINT-NIKLAAS - FH01;5401799;;BL0104;Prins Albertstraat;39;D;SDU;;1;0;0;1.0;BUILDING template
+420051;W03-D-Sint-Niklaas-FH01;FTTH-Cu;6182868;9100.0;Sint-Niklaas;Westerstraat;2,B;;;1.0;1.0;295253.0;SINT-NIKLAAS - FH01;6182868;;BL0115;Westerstraat;2;B;SDU;;0;1;0;1.0;BUILDING template
+420161;W03-D-Sint-Niklaas-FH01;FTTH-Cu;76233;9100.0;Sint-Niklaas;Sacramentsstraat;10;;;1.0;;174095.0;SINT-NIKLAAS - FH01;76233;;BL0114;Sacramentsstraat;10;;SDU;;1;0;0;1.0;BUILDING template
+420220;W03-D-Sint-Niklaas-FH01;FTTH-Cu;977872;9100.0;Sint-Niklaas;Grote Markt;45;;;1.0;1.0;174012.0;SINT-NIKLAAS - FH01;977872;;BL0113;Grote Markt;45;;SDU;;1;0;0;1.0;BUILDING template
+421765;W03-D-Sint-Niklaas-FH02;FTTH-Cu;91080;9100.0;Sint-Niklaas;August Nobelsstraat;13;;;1.0;;183274.0;SINT-NIKLAAS - FH02;91080;;BL0215;August Nobelsstraat;13;;SDU;;0;1;0;1.0;BUILDING template
