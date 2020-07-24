@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Starting virtual environment survey-env"
+
+#PATH_SURVEY      = "/home/filip/Tools/survey_proj/survey"
+#PATH_SURVEY_PROJ = "/home/filip/Tools/survey_proj"
+
+source /home/filip/Tools/survey_proj/survey-env/bin/activate
+
+python /home/filip/Tools/survey_proj/survey/mod_export_pr.py
