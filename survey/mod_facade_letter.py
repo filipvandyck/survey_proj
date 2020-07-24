@@ -95,7 +95,7 @@ def process_facade_letter(survey,facade_letter,outputfolder=OUTPUTFOLDER):
     answer = input("\n :: ")
     answer = answer.upper()
 
-    survey = pd.read_csv(survey, delimiter=';', encoding = "ISO-8859-1",dtype={'Zip': object})
+    survey = pd.read_csv(survey, delimiter=';', encoding = "ISO-8859-1",dtype={'Zip': object,'LAM MK': object})
     survey.columns = survey.columns.str.replace(' ','_')
 
     survey_obj = survey.select_dtypes(['object'])
