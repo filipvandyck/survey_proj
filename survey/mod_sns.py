@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env pythoni3
 #
 # mod_sns.py
 
@@ -13,12 +13,18 @@ import numpy as np
 import myoutput as out
 
 SNSFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/documents/SNS/' 
+EXPORTFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/backup/' 
 
 
 
 
-SNS_FILE = SNSFOLDER + 'SNS_report_v4.xlsx' 
-EXPORT_FILE_PR = SNSFOLDER + 'export.csv' 
+SNS_FILE           = SNSFOLDER + 'SNS_report_v4.xlsx' 
+EXPORT_FILE_PR     = EXPORTFOLDER + 'export_back.csv' 
+
+REPORT_FIS_SDU     = SNSFOLDER + 'report_fis_sdu.csv'
+REPORT_FIS_MISSING = SNSFOLDER + 'report_fis_mdu_missing.csv'
+REPORT             = SNSFOLDER + 'report.csv'
+
 
 def make_sns_report():
     out.menu_header('SNS REPORT')
@@ -35,17 +41,36 @@ def make_sns_report():
     df_report = pd.merge(df_sns, df_pr, how='left', left_on='MAINLAMKEY', right_on='Opdrachtnummer',suffixes=('', '_PR'))
 
 
+    df_report_sts_done = df_report[df_report['Surveyor']!='']
+    table_sts_done = pd.pivot_table(df_report_sts_done,values='Surveyor',index='ZONE_NAME',aggfunc=np.size)
+
 
     table_fis = pd.pivot_table(df_report,values='FIS',index='ZONE_NAME',columns='Buildingtype',aggfunc=np.sum)
     table_fis_needed = pd.pivot_table(df_report,values='FIS',index='ZONE_NAME',columns='Buildingtype',aggfunc=np.size)
 
+
+    #report sdu with fis 
     df_fis = df_report[df_report['FIS']==1]     
     df_fis_sdu = df_fis[df_fis['Buildingtype']=='SDU'] 
-
-    filename = SNSFOLDER + 'report_sdu.csv' 
-    out.info_file("Writing report SDU FIS file", filename)
-    csv = df_fis_sdu.to_csv(filename, sep=';')
+    #;ZONE_NAME;ZONING_TCHNLGY;MAINLAMKEY;POSTAL_CODE;CITY_NAME;STREET_NAME;HOUSE_NUMBER;DTP;FIC;FIS;FTS;OpdrachtID;Projectnummer;Opdrachtnummer;BG_Name;Blok;Straat;Huisnummer;Huisnummer_Toevoeging;Buildingtype;Quadrant;NR_BU;NR_LU;NR_SU;UNITS_TOTAL;Surveyor;Opdrachttemplate
     
+    df_fis_sdu = df_fis_sdu[['ZONE_NAME','MAINLAMKEY','CITY_NAME','DTP','FIC','FIS','FTS','Projectnummer','BG_Name','Blok','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant']]
+
+    out.info_file("Writing report SDU FIS file", REPORT_FIS_SDU)
+    csv = df_fis_sdu.to_csv(REPORT_FIS_SDU, sep=';')
+
+    #report mdu with missing fis 
+    df_fis_missing = df_report[df_report['FIS']!=1]
+    df_fis_missing = df_fis_missing[df_fis_missing['Buildingtype']=='MDU']
+    
+    df_fis_missing = df_fis_missing[['ZONE_NAME','MAINLAMKEY','CITY_NAME','DTP','FIC','FIS','FTS','Projectnummer','BG_Name','Blok','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant']]
+    
+    filename = SNSFOLDER + 'report_mdu_missing_fis.csv' 
+    out.info_file("Writing report MDU with missing FIS file", REPORT_FIS_MISSING)
+    csv = df_fis_missing.to_csv(REPORT_FIS_MISSING, sep=';')
+
+
+
 
     table_report = pd.merge(table_fis, table_fis_needed, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
 
@@ -77,25 +102,28 @@ def make_sns_report():
     table_quadrants = pd.pivot_table(df_pr_quadrants,values='Quadrant',index='ZONE_NAME',columns='Buildingtype',aggfunc=np.size)
 
 
-
     table_report = pd.merge(table_report, table_units, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
     table_report = pd.merge(table_report, table_report_fts, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
     table_report = pd.merge(table_report, table_quadrants, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_SSV'))
+    table_report = pd.merge(table_report, table_sts_done, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_STS'))
 
     table_report['SSV_PROCENT'] = table_report['MDU_SSV'] / table_report['MDU_TOTAL'] * 100
+    table_report['STS_PROCENT'] = table_report['Surveyor'] / (table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']) * 100
 
 
-    table_report = table_report.rename(columns={"MDU": "FIS_MDU", "SDU": "FIS_SDU"})
+    table_report = table_report.rename(columns={"MDU": "FIS_MDU", "SDU": "FIS_SDU", "Surveyor": "STS"})
 
-    filename = SNSFOLDER + 'report.csv'
-    out.info_file("Writing report file", filename)
+    print(table_report)
+
+
+    out.info_file("Writing report file", REPORT)
     
-    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SDU_SSV','SSV_PROCENT']]
+    #table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SDU_SSV','SSV_PROCENT']]
+    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SSV_PROCENT','STS','STS_PROCENT']]
 
 
-    csv = table_report.to_csv(filename, sep=';')
+    csv = table_report.to_csv(REPORT, sep=';')
 
     out.info_file("Report data", table_report)
 
-
-
+make_sns_report()
