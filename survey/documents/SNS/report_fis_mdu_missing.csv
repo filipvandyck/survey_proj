@@ -27331,13 +27331,11 @@
 363769;W03-C-Schaerbeek-FH04;24979;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0006;FranÃ§ois Bossaertsstraat;78;;D
 363770;W03-C-Schaerbeek-FH04;25010;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0005;Alexandre Markelbachstraat;114;;D
 363771;W03-C-Schaerbeek-FH04;25589;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0019;Auguste Lambiottestraat;141;;D
-363772;W03-C-Schaerbeek-FH04;25601;Schaerbeek;;;;;SCHAERBEEK - FH04;Auguste Lambiottestraat 79-81;BL0015;Auguste Lambiottestraat;79;;
 363773;W03-C-Schaerbeek-FH04;26223;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0018;Luzernestraat;6;;D
 363775;W03-C-Schaerbeek-FH04;3917333;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0004;Rogierlaan;225;;D
 363776;W03-C-Schaerbeek-FH04;3917334;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0007;Rogierlaan;327;;D
 363777;W03-C-Schaerbeek-FH04;3917379;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0009;Auguste Lambiottestraat;58;;D
 363778;W03-C-Schaerbeek-FH04;3954590;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0007;FranÃ§ois Bossaertsstraat;136;;D
-363779;W03-C-Schaerbeek-FH04;3976440;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0014;Jacques Jansenstraat;6;;
 363780;W03-C-Schaerbeek-FH04;3990489;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0011;Joseph Coosemansstraat;124;;D
 363782;W03-C-Schaerbeek-FH04;4013366;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0001;Daillylaan;20;;D
 363783;W03-C-Schaerbeek-FH04;4015071;Schaerbeek;;;;;SCHAERBEEK - FH04;;BL0013;Chazallaan;42;;D
@@ -33764,6 +33762,7 @@
 408999;W03-D-Leuven-FH05;3037413;Leuven;;;;;LEUVEN - FH05;;BL0003;Parkstraat;28;;
 409001;W03-D-Leuven-FH05;3037419;Leuven;;;;;LEUVEN - FH05;;BL0003;Parkstraat;32;;
 409007;W03-D-Leuven-FH05;3037440;Leuven;;;;;LEUVEN - FH05;;BL0003;Parkstraat;60;;
+409008;W03-D-Leuven-FH05;3037442;Leuven;;;;;LEUVEN - FH05;;BL0003;Parkstraat;62;;
 409010;W03-D-Leuven-FH05;3037451;Leuven;;;;;LEUVEN - FH05;;BL0003;Parkstraat;66;;
 409011;W03-D-Leuven-FH05;3037454;Leuven;;;;;LEUVEN - FH05;;BL0004;Parkstraat;70;;
 409015;W03-D-Leuven-FH05;3037471;Leuven;;;;;LEUVEN - FH05;;BL0015;Parkstraat;98;;
@@ -33823,9 +33822,9 @@
 409208;W03-D-Leuven-FH05;3052278;Leuven;;;;;LEUVEN - FH05;;BL0018;Weldadigheidsstraat;12;;
 409209;W03-D-Leuven-FH05;3052280;Leuven;;;;;LEUVEN - FH05;;BL0018;Weldadigheidsstraat;14;;
 409213;W03-D-Leuven-FH05;3052288;Leuven;;;;;LEUVEN - FH05;;BL0017;Weldadigheidsstraat;25;;
+409237;W03-D-Leuven-FH05;3052330;Leuven;;;;;LEUVEN - FH05;;BL0015;Weldadigheidsstraat;56;;
 409239;W03-D-Leuven-FH05;3052335;Leuven;;;;;LEUVEN - FH05;;BL0015;Weldadigheidsstraat;58;;
 409243;W03-D-Leuven-FH05;3052344;Leuven;;;;;LEUVEN - FH05;;BL0015;Weldadigheidsstraat;62;;
-409245;W03-D-Leuven-FH05;3052348;Leuven;;;;;LEUVEN - FH05;;BL0015;Weldadigheidsstraat;66;;
 409247;W03-D-Leuven-FH05;3052351;Leuven;;;;;LEUVEN - FH05;;BL0015;Weldadigheidsstraat;68;;
 409249;W03-D-Leuven-FH05;3052353;Leuven;;;;;LEUVEN - FH05;;BL0014;Weldadigheidsstraat;71;;
 409251;W03-D-Leuven-FH05;3052357;Leuven;;;;;LEUVEN - FH05;;BL0014;Weldadigheidsstraat;73;;
@@ -33844,6 +33843,7 @@
 409331;W03-D-Leuven-FH05;3923643;Leuven;;;;;LEUVEN - FH05;;BL0012;Constantin Meunierstraat;85;;
 409334;W03-D-Leuven-FH05;3941032;Leuven;;;;;LEUVEN - FH05;;BL0005;Ooiendonk;13;;
 409335;W03-D-Leuven-FH05;3941033;Leuven;;;;;LEUVEN - FH05;;BL0005;Ooiendonk;15;;
+409336;W03-D-Leuven-FH05;3941128;Leuven;;;;;LEUVEN - FH05;;BL0003;Hendrik Consciencestraat;21;;
 409338;W03-D-Leuven-FH05;3941325;Leuven;;;;;LEUVEN - FH05;;BL0008;Constantin Meunierstraat;32;;
 409339;W03-D-Leuven-FH05;3941326;Leuven;;;;;LEUVEN - FH05;;BL0011;Constantin Meunierstraat;66;;
 409341;W03-D-Leuven-FH05;3941328;Leuven;;;;;LEUVEN - FH05;;BL0016;Constantin Meunierstraat;101;;
@@ -33895,7 +33895,6 @@
 409545;W03-D-Leuven-FH05;4788708;Leuven;;;;;LEUVEN - FH05;;BL0003;Parkstraat;54;;
 409560;W03-D-Leuven-FH05;4790424;Leuven;;;;;LEUVEN - FH05;;BL0006;Naamsestraat;184;;
 409571;W03-D-Leuven-FH05;4790754;Leuven;;;;;LEUVEN - FH05;;BL0016;Naamsevest;46;;
-409576;W03-D-Leuven-FH05;4791895;Leuven;;;;;LEUVEN - FH05;;BL0020;Henri Regastraat;15;;
 409591;W03-D-Leuven-FH05;4798050;Leuven;;;;;LEUVEN - FH05;;BL0003;Naamsestraat;95;;
 409598;W03-D-Leuven-FH05;4798456;Leuven;;;;;LEUVEN - FH05;;BL0018;Naamsevest;180;;
 409599;W03-D-Leuven-FH05;4798458;Leuven;;;;;LEUVEN - FH05;;BL0018;Naamsevest;160;;

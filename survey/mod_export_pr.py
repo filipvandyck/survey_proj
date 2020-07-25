@@ -60,7 +60,7 @@ def get_export_pr():
     driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","_blank");''')
 
     #wait for export to finish
-    time.sleep(120)
+    time.sleep(200)
 
 
     files = glob.glob(OUTPUT_FOLDER + "*.csv")
@@ -68,10 +68,10 @@ def get_export_pr():
     if files:
         return files[0]
     else:
-        print("something went wrong...: " + files)
+        print("something went wrong...: " )
 
 
-f = get_export_pr()
-print("export written: " + f)
+#f = get_export_pr()
+#print("export written: " + f)
 
 

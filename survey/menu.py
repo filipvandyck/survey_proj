@@ -13,6 +13,7 @@ import mod_check_documents as check_documents
 import mod_dq as dq
 import mod_frost as frost
 import mod_sns as sns
+import mod_export_pr as exp
 import os
 import glob
 
@@ -148,6 +149,7 @@ def menu_from_dict(mydict, header='',footer=''):
 def main_menu():
     menu = {
             'A': {'name' : 'Data Quality', 'action' : dq_menu},
+            'E': {'name' : 'Export pr', 'action' : export_menu},
             'S': {'name' : 'SNS Report', 'action' : sns_menu},
             'F': {'name' : 'Frost', 'action' : frost_menu},
             'P': {'name' : 'Plannrrr Corrections', 'action' : corrections_menu},
@@ -160,6 +162,10 @@ def main_menu():
     action = menu_from_dict(menu,'MAIN MENU')
     if action:
         test = action()
+
+def export_menu():
+    exp.get_export_pr()    
+    main_menu()
 
 
 def documents_menu():

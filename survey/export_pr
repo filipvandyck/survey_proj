@@ -7,4 +7,4 @@ echo "Starting virtual environment survey-env"
 
 source /home/filip/Tools/survey_proj/survey-env/bin/activate
 
-python /home/filip/Tools/survey_proj/survey/mod_export_pr.py
+python /home/filip/Tools/survey_proj/survey/export_pr.py
