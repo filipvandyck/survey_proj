@@ -61,17 +61,7 @@ def make_sns_report():
     out.info_file("Writing report SDU FIS file", REPORT_FIS_SDU)
     csv = df_fis_sdu.to_csv(REPORT_FIS_SDU, sep=';')
 
-    #report mdu with missing fis 
-    df_fis_missing = df_report[df_report['FIS']!=1]
-    df_fis_missing = df_fis_missing[df_fis_missing['Buildingtype']=='MDU']
     
-    df_fis_missing = df_fis_missing[['ZONE_NAME','MAINLAMKEY','CITY_NAME','DTP','FIC','FIS','FTS','Projectnummer','BG_Name','Blok','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant']]
-    
-    filename = SNSFOLDER + 'report_mdu_missing_fis.csv' 
-    out.info_file("Writing report MDU with missing FIS file", REPORT_FIS_MISSING)
-    csv = df_fis_missing.to_csv(REPORT_FIS_MISSING, sep=';')
-
-
 
 
     table_report = pd.merge(table_fis, table_fis_needed, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
@@ -111,6 +101,20 @@ def make_sns_report():
 
     table_report['SSV_PROCENT'] = table_report['MDU_SSV'] / table_report['MDU_TOTAL'] * 100
     table_report['STS_PROCENT'] = table_report['Surveyor'] / (table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']) * 100
+
+    #report mdu with missing fis 
+    df_fis_missing = df_report[df_report['FIS']!=1]
+    df_fis_missing = df_fis_missing[df_fis_missing['Buildingtype']=='MDU']
+    
+    
+    df_fis_missing = pd.merge(df_fis_missing, table_report, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_REPORT'))
+    
+    df_fis_missing = df_fis_missing[df_fis_missing['FIS_PROCENT']>0]
+    df_fis_missing = df_fis_missing[['ZONE_NAME','MAINLAMKEY','CITY_NAME','DTP','FIC','FIS','FTS','Projectnummer','BG_Name','Blok','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant']]
+    
+
+    out.info_file("Writing report MDU with missing FIS file", REPORT_FIS_MISSING)
+    csv = df_fis_missing.to_csv(REPORT_FIS_MISSING, sep=';')
 
 
     table_report = table_report.rename(columns={"MDU": "FIS_MDU", "SDU": "FIS_SDU", "Surveyor": "STS"})
