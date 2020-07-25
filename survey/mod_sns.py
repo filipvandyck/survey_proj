@@ -11,6 +11,8 @@ import datetime
 import numpy as np
 
 import myoutput as out
+import mod_sns_chart as chart
+
 
 SNSFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/documents/SNS/' 
 EXPORTFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/backup/' 
@@ -126,4 +128,7 @@ def make_sns_report():
 
     out.info_file("Report data", table_report)
 
-make_sns_report()
+
+    chart.make_site()
+
+#make_sns_report()
