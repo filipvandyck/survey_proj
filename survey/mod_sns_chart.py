@@ -105,9 +105,9 @@ def make_site():
     for f in file_list:
         base = os.path.basename(f)
         the_file = os.path.splitext(base)[0]
-        site_file = SITEFOLDER+the_file + '.html'
+        site_file = the_file + '.html'
 
-        links = links + '[<a href="'+site_file+'">'+os.path.splitext(base)[0]+'</a>]'
+        links = links + '[<a href="'+site_file+'">'+the_file+'</a>]'
 
 
 
