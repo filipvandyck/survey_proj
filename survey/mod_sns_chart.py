@@ -15,6 +15,8 @@ EXPORT_FILE = SNSFOLDER + 'report.csv'
 
 REPORT_FIS_SDU     = SNSFOLDER + 'report_fis_sdu.csv'
 REPORT_FIS_MISSING = SNSFOLDER + 'report_fis_mdu_missing.csv'
+REPORT_FIS         = SNSFOLDER + 'report_fis.csv'
+
 
 TOP_HTML    = SITEFOLDER + 'top.html'
 NAV_HTML    = SITEFOLDER + 'navigation.html'
@@ -34,6 +36,8 @@ def make_site():
     df = df[df['ZONE_NAME'].str[0]=='W']
     df['ZONE_NAME'] = df['ZONE_NAME'].str[6:]
     df = df.sort_values(by=['ZONE_NAME'])
+    df = df.rename(columns={"BUILDINGS_TOTAL": "BUILDINGS", "MDU_TOTAL": "MDU", "SDU_TOTAL": "SDU", "UNITS_TOTAL": "UNITS", "MDU_SSV": "SSV"})
+
 
 
     def set_fig(df,title='',yaxis=''):
@@ -83,20 +87,41 @@ def make_site():
 
     print('report fis csv to html file')
     #reports fis csv to html file 
-    df = pd.read_csv(REPORT_FIS_MISSING, delimiter=';', encoding = "ISO-8859-1")
+    df_report_fis_missing = pd.read_csv(REPORT_FIS_MISSING, delimiter=';', encoding = "ISO-8859-1")
 
-    table = "<H1>MDU with missing fis</H1>" + df.to_html()
+    table = "<H1>MDU with missing fis</H1>" + df_report_fis_missing.to_html()
 
     with open(HTMLFOLDER + "fis_mdu_missing.html", "w") as text_file:
         text_file.write(table)
 
 
-    df = pd.read_csv(REPORT_FIS_SDU, delimiter=';', encoding = "ISO-8859-1")
-    table = "<H1>SDU with fis</H1>" + df.to_html()
+    df_report_fis_sdu = pd.read_csv(REPORT_FIS_SDU, delimiter=';', encoding = "ISO-8859-1")
+    table = "<H1>SDU with fis</H1>" + df_report_fis_sdu.to_html()
 
     with open(HTMLFOLDER + "fis_sdu.html", "w") as text_file:
         text_file.write(table)
-    #
+    
+    print(df)    
+    df_fis_report = df[['ZONE_NAME','BUILDINGS','MDU','SDU','FIS_MDU','FIS_SDU','FIS_PROCENT','FTS_TOTAL','FTS','FTS_PROCENT']]
+
+    fis_report_html = df_fis_report.to_html()
+
+    with open(HTMLFOLDER + "fis_report.html", "w") as text_file:
+        text_file.write(fis_report_html)
+  
+
+    df_survey_report = df[['ZONE_NAME','BUILDINGS','MDU','SDU','UNITS','STS','STS_TODO','STS_PROCENT','SSV','SSV_TODO','SSV_PROCENT']]
+
+    survey_report_html = df_survey_report.to_html()
+
+    with open(HTMLFOLDER + "survey_report.html", "w") as text_file:
+        text_file.write(survey_report_html)
+  
+
+
+
+
+
 
     print('export to site html')
     file_list = glob.glob(HTMLFOLDER + "*.html")
@@ -128,4 +153,4 @@ def make_site():
 
 
 
-
+make_site()

@@ -101,6 +101,8 @@ def make_sns_report():
 
     table_report['SSV_PROCENT'] = table_report['MDU_SSV'] / table_report['MDU_TOTAL'] * 100
     table_report['STS_PROCENT'] = table_report['Surveyor'] / (table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']) * 100
+    table_report['STS_TODO'] = (table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']) - table_report['Surveyor'] 
+    table_report['SSV_TODO'] = table_report['MDU_TOTAL'] - table_report['MDU_SSV'] 
 
     #report mdu with missing fis 
     df_fis_missing = df_report[df_report['FIS']!=1]
@@ -125,7 +127,25 @@ def make_sns_report():
     out.info_file("Writing report file", REPORT)
     
     #table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SDU_SSV','SSV_PROCENT']]
-    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SSV_PROCENT','STS','STS_PROCENT']]
+    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SSV_PROCENT','STS','STS_PROCENT','STS_TODO','SSV_TODO']]
+    table_report = table_report.fillna(0)
+    table_report['BUILDINGS_TOTAL'] = table_report['BUILDINGS_TOTAL'].astype(int)
+    table_report['MDU_TOTAL'] = table_report['MDU_TOTAL'].astype(int)
+    table_report['SDU_TOTAL'] = table_report['SDU_TOTAL'].astype(int)
+    table_report['FIS_MDU'] = table_report['FIS_MDU'].astype(int)
+    table_report['FIS_SDU'] = table_report['FIS_SDU'].astype(int)
+    table_report['FIS_PROCENT'] = table_report['FIS_PROCENT'].round(2)
+    table_report['FTS_PROCENT'] = table_report['FTS_PROCENT'].round(2)
+    table_report['SSV_PROCENT'] = table_report['SSV_PROCENT'].round(2)
+    table_report['STS_PROCENT'] = table_report['STS_PROCENT'].round(2)
+    table_report['UNITS_TOTAL'] = table_report['UNITS_TOTAL'].astype(int)
+
+    table_report['FTS'] = table_report['FTS'].astype(int)
+    table_report['FTS_TOTAL'] = table_report['FTS_TOTAL'].astype(int)
+    table_report['MDU_SSV'] = table_report['MDU_SSV'].astype(int)
+    table_report['STS'] = table_report['STS'].astype(int)
+    table_report['STS_TODO'] = table_report['STS_TODO'].astype(int)
+    table_report['SSV_TODO'] = table_report['SSV_TODO'].astype(int)
 
 
     csv = table_report.to_csv(REPORT, sep=';')
@@ -135,4 +155,4 @@ def make_sns_report():
 
     chart.make_site()
 
-#make_sns_report()
+make_sns_report()
