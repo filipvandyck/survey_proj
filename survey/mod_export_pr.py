@@ -11,8 +11,8 @@ import shutil
 
 geckodriver_autoinstaller.install() 
 
-OUTPUT_FOLDER      = os.getcwd() + '/selenium/download/'
-OUTPUT_BACK_FOLDER = os.getcwd() + '/selenium/download/backup/'
+OUTPUT_FOLDER      = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/'
+OUTPUT_BACK_FOLDER = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/backup/'
 
 
 
