@@ -28,7 +28,7 @@ def get_export_pr():
 
     # webdriver firefox options
     options = Options()
-    options.headless = True
+#    options.headless = True
 
 
     print('setting firefox profile download dir:')
@@ -50,8 +50,9 @@ def get_export_pr():
     #driver = webdriver.Firefox(options=options,executable_path='/home/filip/Tools/survey_proj/survey/selenium/geckodriver')
 
     print("loading opdrachten - get export")
-    driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php")
+    driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php?dhxr1595860703450=1")
 
+    time.sleep(20)
     URL_PR_EXPORT = "https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/connectors/grid2csv.php"
 
     #driver2.get(URL_PR_EXPORT)
@@ -60,7 +61,7 @@ def get_export_pr():
     driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","_blank");''')
 
     #wait for export to finish
-    time.sleep(200)
+    time.sleep(30)
 
 
     files = glob.glob(OUTPUT_FOLDER + "*.csv")
