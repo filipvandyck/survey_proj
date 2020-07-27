@@ -737,3 +737,21 @@ JavaScript error: moz-extension://b857ceef-c0bb-4ab6-8c53-8b79e38b122c/lib/pictu
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
 1595860936118	Marionette	INFO	Listening on port 36603
 1595860936193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861330035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewRCGC5"
+Error: no DISPLAY environment variable specified
+1595861373340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb7eoAL"
+*** You are running in headless mode.
+1595861374605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595861374607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595861374608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595861374608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://25d3582d-c028-4f37-b1dc-264a2923a2d2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1595861380120	Marionette	INFO	Listening on port 34321
+1595861380204	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:20179): GLib-GObject-CRITICAL **: 16:50:21.237: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

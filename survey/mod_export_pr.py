@@ -28,7 +28,7 @@ def get_export_pr():
 
     # webdriver firefox options
     options = Options()
-#    options.headless = True
+    options.headless = True
 
 
     print('setting firefox profile download dir:')

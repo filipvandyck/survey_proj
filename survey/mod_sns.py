@@ -1,4 +1,4 @@
-#!/usr/bin/env pythoni3
+#!/usr/bin/env python3
 #
 # mod_sns.py
 
@@ -39,7 +39,6 @@ def make_sns_report():
     out.info_file("Reading SNS data", SNS_FILE)
     xls = pd.ExcelFile(SNS_FILE)
     df_sns = pd.read_excel(xls, 'Data',dtype={'MAINLAMKEY': object})
-
     df_report = pd.merge(df_sns, df_pr, how='left', left_on='MAINLAMKEY', right_on='Opdrachtnummer',suffixes=('', '_PR'))
 
 

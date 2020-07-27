@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 import glob
 import fileinput
-
+import datetime
 
 SNSFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/documents/SNS/'
 HTMLFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/documents/SNS/html/'
@@ -126,6 +126,7 @@ def make_site():
     print('export to site html')
     file_list = glob.glob(HTMLFOLDER + "*.html")
 
+    the_time = str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
     links = ''
     for f in file_list:
         base = os.path.basename(f)
@@ -136,6 +137,7 @@ def make_site():
 
 
 
+    links = links + the_time + ')'
 
     for f in file_list:
         with open(f, 'r') as myfile:
@@ -152,5 +154,4 @@ def make_site():
             text_file.write(site_html)
 
 
-
-make_site()
+#make_site()
