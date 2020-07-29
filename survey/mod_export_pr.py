@@ -52,16 +52,16 @@ def get_export_pr():
     print("loading opdrachten - get export")
     driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php?dhxr1595860703450=1")
 
-    time.sleep(20)
+    time.sleep(10)
     URL_PR_EXPORT = "https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/connectors/grid2csv.php"
 
     #driver2.get(URL_PR_EXPORT)
 
 
-    driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","_blank");''')
+    driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","width=350,height=250");''')
 
     #wait for export to finish
-    time.sleep(30)
+    time.sleep(50)
 
 
     files = glob.glob(OUTPUT_FOLDER + "*.csv")
@@ -71,7 +71,7 @@ def get_export_pr():
     else:
         print("something went wrong...: " )
 
-
+    driver.quit()
 #f = get_export_pr()
 #print("export written: " + f)
 
