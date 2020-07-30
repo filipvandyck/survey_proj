@@ -2,7 +2,8 @@
 
 from selenium import webdriver
 import os
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 import geckodriver_autoinstaller
 import time
@@ -27,9 +28,12 @@ def get_export_pr():
 
 
     # webdriver firefox options
-    options = Options()
-    options.headless = True
-
+    options = FirefoxOptions()
+    options.add_argument("--headless")
+    options.binary = "/usr/bin/firefox-esr"
+    
+    caps = DesiredCapabilities.FIREFOX.copy()
+    caps['marionette'] = True
 
     print('setting firefox profile download dir:')
     print(OUTPUT_FOLDER)
@@ -46,22 +50,24 @@ def get_export_pr():
     USERNAME = "filip.vandyck@fifthnet.eu"
     PASSWORD = "Telenet1"
 
-    driver = webdriver.Firefox(options=options,firefox_profile=fp)
+    driver = webdriver.Firefox(options=options,capabilities=caps, firefox_profile=fp)
+    #driver = webdriver.Firefox(options=options,firefox_profile=fp)
     #driver = webdriver.Firefox(options=options,executable_path='/home/filip/Tools/survey_proj/survey/selenium/geckodriver')
 
     print("loading opdrachten - get export")
     driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php?dhxr1595860703450=1")
 
-    time.sleep(10)
+    time.sleep(15)
     URL_PR_EXPORT = "https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/connectors/grid2csv.php"
 
     #driver2.get(URL_PR_EXPORT)
 
 
     driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","width=350,height=250");''')
+    #driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","_blank");''')
 
     #wait for export to finish
-    time.sleep(50)
+    time.sleep(45)
 
 
     files = glob.glob(OUTPUT_FOLDER + "*.csv")

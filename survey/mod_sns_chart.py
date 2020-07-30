@@ -126,7 +126,6 @@ def make_site():
     print('export to site html')
     file_list = glob.glob(HTMLFOLDER + "*.html")
 
-    the_time = str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
     links = ''
     for f in file_list:
         base = os.path.basename(f)
@@ -135,14 +134,10 @@ def make_site():
 
         links = links + '[<a href="'+site_file+'">'+the_file+'</a>]'
 
-<<<<<<< HEAD
     the_time = str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
     links = links + '(' + the_time + ')'
-=======
 
 
-    links = links + the_time + ')'
->>>>>>> 6e9ee372a1ecf469b10a9e28d1c4a8bc3ec2a431
 
     for f in file_list:
         with open(f, 'r') as myfile:
@@ -159,8 +154,4 @@ def make_site():
             text_file.write(site_html)
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 6e9ee372a1ecf469b10a9e28d1c4a8bc3ec2a431
 #make_site()
