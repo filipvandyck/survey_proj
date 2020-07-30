@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Starting virtual environment survey-env"
+
+#PATH_SURVEY      = "/home/filip/Tools/survey_proj/survey"
+#PATH_SURVEY_PROJ = "/home/filip/Tools/survey_proj"
+
+source /home/filip/Tools/survey_proj/survey-env/bin/activate
+
+echo "Starting python http server on port 8000"
+python -m http.server 8000 --directory /home/filip/Tools/survey_proj/survey/documents/SNS/html/site/
