@@ -4959,3 +4959,69 @@ JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: 
 1596091303479	Marionette	INFO	Listening on port 34991
 1596091303513	Marionette	WARN	TLS certificate errors will be ignored for this session
 1596091365934	Marionette	INFO	Stopped listening on port 34991
+1596097802481	geckodriver	INFO	Listening on 127.0.0.1:49975
+1596097802502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD4SUgM"
+*** You are running in headless mode.
+1596097803083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596097803083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596097803084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596097803084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a45a9b02-916f-4b82-9266-48cf050b3db9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1596097806151	Marionette	INFO	Listening on port 34267
+1596097806218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596097868477	Marionette	INFO	Stopped listening on port 34267
+1596101503878	geckodriver	INFO	Listening on 127.0.0.1:52311
+1596101503891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekDmccd"
+*** You are running in headless mode.
+1596101504535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596101504535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596101504536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596101504536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://db2b55ca-d95a-46c1-ac44-f8be51bbf3a5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1596101507775	Marionette	INFO	Listening on port 36527
+1596101507813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596101569539	Marionette	INFO	Stopped listening on port 36527
+1596101584892	geckodriver	INFO	Listening on 127.0.0.1:60633
+1596101584903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileteorAQ"
+*** You are running in headless mode.
+1596101585470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596101585470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596101585471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596101585471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://26eb46d1-4350-4012-95b0-df997759f27e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1596101588669	Marionette	INFO	Listening on port 44377
+1596101588718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596101650360	Marionette	INFO	Stopped listening on port 44377
+1596101658631	geckodriver	INFO	Listening on 127.0.0.1:53091
+1596101658642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVNvU49"
+*** You are running in headless mode.
+1596101659256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596101659257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596101659258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596101659258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8355cb01-29ca-45d2-8ea7-ac4fd6c22d08/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1596101662051	Marionette	INFO	Listening on port 43213
+1596101662063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596101723749	Marionette	INFO	Stopped listening on port 43213
+1596101832951	geckodriver	INFO	Listening on 127.0.0.1:57315
+1596101832962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6vJo0P"
+*** You are running in headless mode.
+1596101833558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596101833559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596101833559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596101833559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://beda68e4-22db-4ed0-b67a-a4869257bb57/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1596101836676	Marionette	INFO	Listening on port 36449
+1596101836777	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:2656): GLib-GObject-CRITICAL **: 11:38:17.969: g_object_get: assertion 'G_IS_OBJECT (object)' failed
