@@ -12,7 +12,7 @@ import numpy as np
 
 import myoutput as out
 import mod_sns_chart as chart
-
+import mod_backup as back
 
 SNSFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/documents/SNS/' 
 EXPORTFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/backup/' 
@@ -150,6 +150,9 @@ def make_sns_report():
     csv = table_report.to_csv(REPORT, sep=';')
 
     out.info_file("Report data", table_report)
+
+    back.make_backup_report()
+
 
 
     chart.make_site()
