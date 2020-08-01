@@ -55,19 +55,19 @@ def get_export_pr():
     #driver = webdriver.Firefox(options=options,executable_path='/home/filip/Tools/survey_proj/survey/selenium/geckodriver')
 
     print("loading opdrachten - get export")
-    driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php?dhxr1595860703450=1")
+    driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php?profielid=791&dhxr1595860703450=1")
 
-    time.sleep(25)
+    time.sleep(15)
     URL_PR_EXPORT = "https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/connectors/grid2csv.php"
 
     #driver2.get(URL_PR_EXPORT)
 
 
-    driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","width=350,height=250");''')
-    #driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","_blank");''')
+    #driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","width=350,height=250");''')
+    driver.execute_script('''window.open("''' + URL_PR_EXPORT + '''","_blank");''')
 
     #wait for export to finish
-    time.sleep(55)
+    time.sleep(40)
 
 
     files = glob.glob(OUTPUT_FOLDER + "*.csv")
@@ -75,7 +75,7 @@ def get_export_pr():
     if files:
         return files[0]
     else:
-        print("something went wrong...: " )
+        return 0        
 
     driver.quit()
 #f = get_export_pr()
