@@ -1,0 +1,1054 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+MECHELEN - FH01;3032937;1;1;1;3;MDU;D;Y;NA;4;10;;;;;BUILDING template;Frederik de Merodestraat;4;;;157832,464;190947,891
+MECHELEN - FH01;904317;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;29;;;157830,337;190520,723
+MECHELEN - FH01;5383991;1;0;0;1;MDU;D;N;IRREG;3;9;;;;Buildinggroup;BUILDING template;Sint-Janstraat;16;;Goswin de Stassartstraat 16_Sint-Janstraat 16;157814,102;191195,918
+MECHELEN - FH01;3032938;1;1;0;2;MDU;D;Y;NA;3;10;;;;"Nr 5 &amp;amp;equals; BU";BUILDING template;Frederik de Merodestraat;5;;;157812,086;190951,823
+MECHELEN - FH01;904574;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Lange Schipstraat;1;;;157689,298;190635,883
+MECHELEN - FH01;5904577;5;0;1;6;MDU;XC;N;IRREG;3;10;;;;Sint Jansstraat 8B deel van Buldinggroep : Aanleg  via garage vanaf de bdfo via bestaande kabelladder naar beginpunt van nieuwe schacht  parallel aan liftkoker  naar 3e  verdieping .. 5 Lu  - 1 Su.;BUILDING template;Sint-Janstraat;8;B;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157894,426;191237,43
+MECHELEN - FH01;3944029;3;0;0;3;MDU;D;Y;NA;3;10;;;;_;BUILDING template;Dobbelhuizen;16;;;157326,345;190904,121
+MECHELEN - FH01;3047650;0;1;0;1;MDU;XC;N;IRREG;;;;;;;BUILDING template;Lange Schipstraat;72;;Lange Schipstraat 70-72-74-76-78;157831,442;190436,929
+MECHELEN - FH01;4191732;1;0;1;2;MDU;D;Y;NA;4;12;;;;BE - 6 en 6A zelfde gebouw 2 ingangen;BUILDING template;Frederik de Merodestraat;6;;Frederik De Merodestraat 6-6A;157840,563;190961,089
+MECHELEN - FH01;904579;2;1;0;3;MDU;D;Y;NA;5;4;;;;Lange schipstraat 2 : Mdu  1 bu  (leegstand ) 2Lu's mogelijk (niemand aanwezig ssv) ,   doorgaande ģevelbekabeling en individuele aansluitingen mogelijk via gevel.;BUILDING template;Lange Schipstraat;2;;;157663,021;190637,295
+MECHELEN - FH01;5507055;7;0;1;8;MDU;XC;N;IRREG;4;12;;;;Aanleg  naast de liftschacht  (via de traphal niet mogelijk.);BUILDING template;Sint-Janstraat;10;A;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157844,331;191193,695
+MECHELEN - FH01;4215182;1;0;0;1;SDU;;Y;NA;;;;;;;BUILDING template;Zakstraat;17;;;158015,933;190859,591
+MECHELEN - FH01;3032941;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;7;;;157814,91;190955,153
+MECHELEN - FH01;4194975;1;1;0;2;MDU;D;Y;NA;4;14;;;;Lange schipstraat 3: Mdu  1 bu  1 lu - doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Lange Schipstraat;3;;;157694,638;190634,057
+MECHELEN - FH01;3048595;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Sint-Katelijnestraat;1;;;157634,968;191054,646
+MECHELEN - FH01;901177;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Frederik de Merodestraat;8;;;157845,266;190964,007
+MECHELEN - FH01;3047584;0;1;0;1;SDU;;Y;NA;3;12;;;;BE -;BUILDING template;Lange Schipstraat;4;;;157665,444;190630,304
+MECHELEN - FH01;929577;0;1;0;1;SDU;;Y;NA;2;14;;;;BE -;BUILDING template;Sint-Katelijnestraat;2;;;157652,189;191054,83
+MECHELEN - FH01;3032943;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Frederik de Merodestraat;9;;;157817,718;190958,187
+MECHELEN - FH01;3047585;1;0;0;1;SDU;;Y;NA;4;14;;;;BE -;BUILDING template;Lange Schipstraat;5;;;157701,499;190632,217
+MECHELEN - FH01;4067640;1;1;0;2;MDU;D;Y;NA;3;16;;;;BE -;BUILDING template;Sint-Katelijnestraat;3;;;157632,331;191059,613
+MECHELEN - FH01;6447591;1;0;0;1;MDU;D;Y;NA;2;5;;;;;BUILDING template;Goswin de Stassartstraat;27;A;Goswin de Stassartstraat 27-27A-29-29A;157804,917;191257,641
+MECHELEN - FH01;3032945;0;1;0;1;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Frederik de Merodestraat;10;;Frederik de Merodestraat 10-12;157845,337;190968,27
+MECHELEN - FH01;3047586;3;1;0;4;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Lange Schipstraat;6;;;157670,883;190628,564
+MECHELEN - FH01;4042355;0;1;0;1;SDU;;Y;NA;3;16;;;;;BUILDING template;Sint-Katelijnestraat;4;;;157648,063;191058,341
+MECHELEN - FH01;905650;10;0;1;11;MDU;D;N;IRREG;4;12;;;;Drabstraat 12: Mdu  10Lu's, 1 Su Doorgaande gevelbekabeling en aansluiting bereikbaarheid  van de Lu's  mogelijk. Geen kelder geen bestaande technische schacht na overleg met verantwoordelijke beheerder van het kerkfabriek is dit zo uitvoerbaar.;BUILDING template;Drabstraat;12;;;157530,02;190836,917
+MECHELEN - FH01;4752018;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Frederik de Merodestraat;11;;;157819,534;190961,95
+MECHELEN - FH01;3047590;3;1;0;4;MDU;D;Y;NA;4;14;;;;"Lange schipstraat 7 :  mdu  3Lu&amp;amp;apos;s  1 bu  Aansluiting  via ?evelbekabeling  alle lu zijn  bereikbaar";BUILDING template;Lange Schipstraat;7;;;157706,547;190630,972
+MECHELEN - FH01;3048597;0;1;0;1;SDU;;Y;NA;3;18;;;;BE -;BUILDING template;Sint-Katelijnestraat;5;;;157630,762;191065,317
+MECHELEN - FH01;4103699;1;1;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Frederik de Merodestraat;13;;;157820,715;190967,216
+MECHELEN - FH01;3047592;2;0;0;2;MDU;D;Y;NA;3;12;;;;BE -;BUILDING template;Lange Schipstraat;8;;;157677,898;190626,231
+MECHELEN - FH01;4740627;0;1;0;1;SDU;;Y;NA;3;16;;;;;BUILDING template;Sint-Katelijnestraat;7;;;157625,809;191070,884
+MECHELEN - FH01;3032948;2;1;0;3;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;15;;;157822,398;190971,057
+MECHELEN - FH01;3047593;1;1;1;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Lange Schipstraat;9;;;157715,464;190627,856
+MECHELEN - FH01;3048599;0;1;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Sint-Katelijnestraat;8;;;157646,624;191065,788
+MECHELEN - FH01;3032951;1;0;0;1;SDU;;N;GLASS;4;12;;;;;BUILDING template;Frederik de Merodestraat;17;;;157821,48;190977,858
+MECHELEN - FH01;904315;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;10;;;157728,449;190604,959
+MECHELEN - FH01;3048602;1;1;0;2;MDU;D;Y;NA;4;20;;;;BE -;BUILDING template;Sint-Katelijnestraat;10;;;157645,339;191071,168
+MECHELEN - FH01;3032953;0;1;0;1;SDU;;N;MON;4;12;;;;MON - Kerk oud gebouw;BUILDING template;Frederik de Merodestraat;18;;;157909,087;190938,666
+MECHELEN - FH01;904575;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Lange Schipstraat;11;;;157726,761;190623,711
+MECHELEN - FH01;3048603;1;1;0;2;MDU;D;Y;NA;4;20;;;;Sint Katelijnestraat 12 : Mdu 1 lu , 1 bu , doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Sint-Katelijnestraat;12;;;157643,37;191076,633
+MECHELEN - FH01;5952822;3;0;0;3;MDU;D;Y;NA;4;4;;;;Geitestraat 11A: Mdu 3 Lu's  doorgaande gevelbekabeling en aansluiting  via gevel mogelijk;BUILDING template;Geitestraat;11;A;;157802;190789
+MECHELEN - FH01;3032954;2;0;0;2;MDU;D;N;IRREG;3;12;;;;Frederik De Merodestraat 19: Mdu  2 lu : GEEN  Doorgaande gevelbekabeling  mogelijk sierbepleistering , aansluiting via gevel wel mogelijk.;BUILDING template;Frederik de Merodestraat;19;;;157833,695;190990,943
+MECHELEN - FH01;3047595;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Lange Schipstraat;12;;;157733,118;190596,762
+MECHELEN - FH01;929571;0;1;0;1;SDU;;Y;NA;4;16;;;;BE - 13 en 15 in een gebouw;BUILDING template;Sint-Katelijnestraat;13;;;157621,072;191083,915
+MECHELEN - FH01;901182;0;1;1;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;20;;;157908,13;191076,838
+MECHELEN - FH01;904576;0;1;1;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;13;;;157735,624;190620,551
+MECHELEN - FH01;929576;2;0;0;2;MDU;D;Y;NA;4;4;;;;De ingang is bij de oude beggaardenstrast;BUILDING template;Sint-Katelijnestraat;14;;;157641,65;191082,668
+MECHELEN - FH01;3032955;1;0;0;1;MDU;D;N;MON;3;12;;;;"MON - Nr 23 en 21 zelfde gebouw&amp;amp;amp;amp;period; Nr 23 1LU";BUILDING template;Frederik de Merodestraat;21;;Frederik de Merodestraat 21-23;157838,158;190994,109
+MECHELEN - FH01;3047597;2;0;0;2;MDU;D;Y;NA;3;12;;;;Lange schipstraat  14: Mdu 2 Lu's  doorgaande gevelbekabeling en aansluiting mogelijk- Vermoedelijk gn  bewoning 2 bellen,  1 bus;BUILDING template;Lange Schipstraat;14;;;157744,102;190597,154
+MECHELEN - FH01;929578;0;1;0;1;SDU;;N;IRREG;4;18;;;;13 en 15 in het zelfde gebouw;BUILDING template;Sint-Katelijnestraat;15;;;157620,117;191089,482
+MECHELEN - FH01;4751963;2;0;0;2;MDU;D;N;MON;3;10;;;;MON - 24 en 22 zelfde gebouw met apparte ingangen;BUILDING template;Frederik de Merodestraat;22;;;157914,374;191086,068
+MECHELEN - FH01;3047599;1;0;0;1;SDU;;Y;NA;3;12;;;;BE -;BUILDING template;Lange Schipstraat;16;;;157754,167;190595,592
+MECHELEN - FH01;929575;0;1;1;2;MDU;D;Y;NA;3;4;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;16;;Sint-Katelijnestraat 16-18;157649,004;191100,624
+MECHELEN - FH01;4751965;2;0;0;2;MDU;D;N;MON;3;10;;;;MON -;BUILDING template;Frederik de Merodestraat;24;;;157920,164;191092,826
+MECHELEN - FH01;3047600;1;1;0;2;MDU;D;Y;NA;4;12;;;;Cat 5 bekabeling  wordt voorzien naar de kamers;BUILDING template;Lange Schipstraat;17;;;157746,435;190616,534
+MECHELEN - FH01;901189;1;0;0;1;SDU;;N;IRREG;4;12;;;;In aanbouw - En construction;BUILDING template;Frederik de Merodestraat;25;;;157843,274;191009,214
+MECHELEN - FH01;3047602;4;0;0;4;MDU;D;Y;NA;3;12;;;;2 Lu op 1ste verdiep;BUILDING template;Lange Schipstraat;19;;;157752,937;190613,87
+MECHELEN - FH01;3048609;1;0;0;1;SDU;;N;MON;3;4;;;;MON - Monument;BUILDING template;Sint-Katelijnestraat;20;;;157633,359;191127,704
+MECHELEN - FH01;3030770;2;2;0;4;MDU;D;Y;NA;3;15;;;;BE - Gebouw in constructies;BUILDING template;Befferstraat;20;;;157984,651;190910,395
+MECHELEN - FH01;3032958;0;1;0;1;SDU;;N;IRREG;4;12;;;;;BUILDING template;Frederik de Merodestraat;26;;;157925,188;191099,123
+MECHELEN - FH01;3047604;6;0;0;6;MDU;XC;Y;NA;3;12;;;;BE -;BUILDING template;Lange Schipstraat;20;;;157762,207;190590,216
+MECHELEN - FH01;929579;0;1;0;1;SDU;;N;MON;3;15;;;;MON -;BUILDING template;Sint-Katelijnestraat;21;;;157614,7;191112,931
+MECHELEN - FH01;4061904;1;0;0;1;MDU;D;Y;NA;4;4;;;Y;;BUILDING template;Frederik de Merodestraat;40;;Frederik de Merodestraat 38-40;157968;191143
+MECHELEN - FH01;901423;0;1;0;1;SDU;;Y;NA;3;12;;;;BE - Renovatie werk en bezig;BUILDING template;Befferstraat;22;;;157990,499;190911,539
+MECHELEN - FH01;901181;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Frederik de Merodestraat;27;;;157847,409;191018,413
+MECHELEN - FH01;4741904;1;0;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Lange Schipstraat;21;;;157759,304;190611,445
+MECHELEN - FH01;3048611;0;1;0;1;SDU;;N;MON;2;4;;;;MON - Monument;BUILDING template;Sint-Katelijnestraat;22;;;157628,304;191130,563
+MECHELEN - FH01;5930292;4;0;1;5;MDU;XC;N;IRREG;4;12;;;;_;BUILDING template;Drabstraat;8;C;;157543,114;190800,411
+MECHELEN - FH01;6339481;1;0;0;1;SDU;;N;MON;2;5;;;;_;BUILDING template;Grote Markt;17;A;;157874;190911
+MECHELEN - FH01;901424;0;1;0;1;SDU;;Y;NA;3;12;;;;Bestaande distributie bovengronds met spankabel;BUILDING template;Befferstraat;38;;;158038,888;190934,223
+MECHELEN - FH01;3032960;0;1;0;1;SDU;;N;MON;2;12;;;;MON - Stadsfeestzaal;BUILDING template;Frederik de Merodestraat;28;;;157934,508;191112,286
+MECHELEN - FH01;3047606;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;22;;;157766,193;190584,242
+MECHELEN - FH01;3048613;1;0;0;1;SDU;;N;IRREG;3;11;;;;;BUILDING template;Sint-Katelijnestraat;24;;;157624,161;191129,797
+MECHELEN - FH01;6668745;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Persoonshoek;13;A;;157512;190767
+MECHELEN - FH01;3032961;1;0;1;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;29;;;157850,785;191023,307
+MECHELEN - FH01;904577;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;23;;;157764,75;190609,186
+MECHELEN - FH01;935319;1;1;0;2;MDU;D;Y;NA;3;4;;;;;BUILDING template;Sint-Katelijnestraat;25;;;157590,87;191132,249
+MECHELEN - FH01;5926155;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Schaalstraat;8;B;;157741;190683
+MECHELEN - FH01;3032962;3;1;0;4;MDU;D;Y;NA;4;12;;;;Frederik de Merodestraat  30 Mdu: 1 Bu, 3 Lu doorgaande gevelbekabeling en aansluiting mogelijk  via de gevel;BUILDING template;Frederik de Merodestraat;30;;;157944,105;191123,395
+MECHELEN - FH01;3047607;0;2;0;2;MDU;D;Y;NA;3;12;;;;Lange schipstraat  24: mdu 2 Bu's  doorgaande gevelbekabeling en aansluiting  can de versckillende units mogelijk ,  vermmoedelijk geen bewoning meer vanaf 1e verdiep. Niemand aanwezig moment ssv;BUILDING template;Lange Schipstraat;24;;;157770,85;190581,295
+MECHELEN - FH01;4014968;1;0;0;1;SDU;;N;IRREG;3;10;;;;"Aangebeld aan parlofoon en gebouw is een priv&amp;amp;Atilde;&amp;amp;copy; woning volgens de informatie";BUILDING template;Sint-Katelijnestraat;26;;;157614,708;191140,464
+MECHELEN - FH01;3047268;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Schaalstraat;12;;;157731;190669
+MECHELEN - FH01;3032966;0;1;0;1;SDU;;N;IRREG;3;10;;;;Frederik De Merodestraat 31: mdu 1 bu  1 su  doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Frederik de Merodestraat;31;;;157855,004;191028,286
+MECHELEN - FH01;3047608;1;0;0;1;SDU;;N;MON;2;12;;;;MON - Ingang van openbare tuin;BUILDING template;Lange Schipstraat;25;;;157787,465;190592,568
+MECHELEN - FH01;3048614;0;1;0;1;SDU;;N;MON;3;16;;;;MON - 27 en 29 in een gebouw;BUILDING template;Sint-Katelijnestraat;27;;;157587,959;191134,85
+MECHELEN - FH01;904923;1;1;1;3;MDU;D;Y;NA;4;15;;;;BE - Huis boven op nummer 9 . Winkel beneden op nummer 11;BUILDING template;Ijzerenleen;11;;;157753,231;190782,189
+MECHELEN - FH01;3032940;1;0;0;1;MDU;D;Y;NA;3;12;;;;BE - _;BUILDING template;Frederik de Merodestraat;6;A;Frederik De Merodestraat 6-6A;157844,667;190958,967
+MECHELEN - FH01;901185;1;1;0;2;MDU;D;Y;NA;4;12;;;;Frederik de Merodestraat  32 Mdu: 1 Bu, 1 Lu doorgaande gevelbekabeling en aansluiting mogelijk  via de gevel;BUILDING template;Frederik de Merodestraat;32;;;157948,094;191127,614
+MECHELEN - FH01;3047609;2;0;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;26;;;157775,526;190576,796
+MECHELEN - FH01;3048619;0;1;0;1;SDU;;N;MON;3;14;;;;MON -;BUILDING template;Sint-Katelijnestraat;31;;;157579,547;191140,649
+MECHELEN - FH01;3032967;0;1;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Frederik de Merodestraat;33;;;157859,317;191037,936
+MECHELEN - FH01;3047611;2;0;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;28;;;157779,246;190572,849
+MECHELEN - FH01;3048620;0;1;0;1;SDU;;N;MON;3;16;;;;MON - Beschermd  monument;BUILDING template;Sint-Katelijnestraat;33;;;157574,234;191145,126
+MECHELEN - FH01;4746768;0;1;0;1;SDU;;Y;NA;3;10;;;;_;BUILDING template;Geitestraat;12;;;157791,184;190780,416
+MECHELEN - FH01;3036248;0;1;0;1;SDU;;Y;NA;3;9;;;Y;6 studentenkotten;BUILDING template;Hazestraat;4;;;157960,563;190494,219
+MECHELEN - FH01;901187;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Frederik de Merodestraat;34;;;157952,513;191131,996
+MECHELEN - FH01;3944180;9;0;1;10;MDU;XC;Y;NA;5;12;;;;Dit gebouw heeft geen kelder tech ruimte op gelijkvloers;BUILDING template;Lange Schipstraat;32;;;157786,942;190558,32
+MECHELEN - FH01;4740648;1;0;0;1;MDU;D;Y;NA;2;7;;;;Sint Katelijnestraat 36: Mdu 1 lu , 1 bu( 36B) , doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Sint-Katelijnestraat;36;;Sint-Katelijnestraat 36-36B;157590,898;191151,54
+MECHELEN - FH01;3993916;1;0;0;1;SDU;;Y;NA;2;7;;;Y;;BUILDING template;Hazestraat;6;;;157965,616;190495,539
+MECHELEN - FH01;3032969;4;0;0;4;MDU;D;Y;NA;4;12;;;;Frederik de Merodestraat 36 Mdu  1 + 3Lu   : 4 LU'S  doorgaande gevelbekabeling en aansluitingen mogelijk  via de gevel.;BUILDING template;Frederik de Merodestraat;36;;;157956,674;191136,275
+MECHELEN - FH01;903511;4;0;0;4;MDU;D;Y;NA;3;4;;;;;BUILDING template;Lange Schipstraat;33;;;157823,006;190518,903
+MECHELEN - FH01;935321;4;0;1;5;MDU;D;Y;NA;4;18;;;;37 en 39 in een gebouw;BUILDING template;Sint-Katelijnestraat;37;;;157566,855;191145,586
+MECHELEN - FH01;3032970;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;37;;;157882,113;191074,124
+MECHELEN - FH01;3047613;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;34;;;157790,315;190554,457
+MECHELEN - FH01;3048626;1;1;0;2;MDU;D;Y;NA;3;15;;;;;BUILDING template;Sint-Katelijnestraat;41;;;157561,492;191151,099
+MECHELEN - FH01;9583;4;1;1;6;MDU;D;Y;NA;4;14;;;Y;Lange schipstraat 99: mdu  4 lu  1 bu ( winkel 0 en 1) 1 su alm. Doorgaande ģevelbekabeling  en aansluiting via gevel mogelijk.;BUILDING template;Lange Schipstraat;99;;;157920,367;190364,833
+MECHELEN - FH01;3944014;3;0;1;4;MDU;D;N;IRREG;4;4;;;;38 en 40 zelfde gebouw;BUILDING template;Frederik de Merodestraat;38;;Frederik de Merodestraat 38-40;157961,679;191141,772
+MECHELEN - FH01;3047614;1;0;0;1;SDU;;Y;NA;3;12;;;;Momenteel onbewoond;BUILDING template;Lange Schipstraat;36;;;157793,725;190542,62
+MECHELEN - FH01;3048628;1;0;0;1;SDU;;Y;NA;2;10;;;;Het is in de hoek nast stadsheimellijkheid 1;BUILDING template;Sint-Katelijnestraat;43;;;157554,709;191144,723
+MECHELEN - FH01;3032972;2;0;0;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;39;;;157887,767;191082,558
+MECHELEN - FH01;3944181;3;0;0;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;37;;;157828,297;190508,679
+MECHELEN - FH01;3048630;1;0;0;1;SDU;;N;MON;3;11;;;;MON - Verlaten;BUILDING template;Sint-Katelijnestraat;44;;;157579,601;191164,343
+MECHELEN - FH01;905647;0;1;0;1;SDU;;N;IRREG;4;12;;;;BE -;BUILDING template;Begijnenstraat;28;;;157565,688;190820,067
+MECHELEN - FH01;901183;0;1;0;1;SDU;;N;MON;3;10;;;;MON -;BUILDING template;Frederik de Merodestraat;41;;;157892,894;191090,427
+MECHELEN - FH01;3047615;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;38;;;157798,397;190537,086
+MECHELEN - FH01;3032973;1;0;0;1;SDU;;Y;NA;4;10;;;;BE -;BUILDING template;Frederik de Merodestraat;42;;;157969,157;191149,52
+MECHELEN - FH01;4736279;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;39;;;157830,607;190502,23
+MECHELEN - FH01;4740656;0;1;0;1;SDU;;N;ORN;3;10;;;;BE -;BUILDING template;Sint-Katelijnestraat;46;;;157572,252;191168,001
+MECHELEN - FH01;3047617;2;0;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;40;;;157798,989;190529,236
+MECHELEN - FH01;3048634;3;0;0;3;MDU;D;Y;NA;3;17;;;;Sint-Katelijnestraat 47: Mdu 3lu's doorgaande en aansluiting mogelijk.;BUILDING template;Sint-Katelijnestraat;47;;;157537,763;191176,782
+MECHELEN - FH01;4153244;3;0;0;3;MDU;D;Y;NA;4;12;;;;Frederik De Merodestraat 44 : mdu 3 Lu's  Doorgaande ģevelbekabeling en aansluiting mogelijk;BUILDING template;Frederik de Merodestraat;44;;;157971,969;191153,239
+MECHELEN - FH01;3047618;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Lange Schipstraat;41;;;157832,312;190498,439
+MECHELEN - FH01;3048636;5;0;0;5;MDU;C;Y;NA;3;9;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;48;;;157564,413;191182,72
+MECHELEN - FH01;3032975;1;0;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Frederik de Merodestraat;45;;;157914,597;191126,263
+MECHELEN - FH01;903513;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;42;;;157795,397;190526,509
+MECHELEN - FH01;3944199;4;0;0;4;MDU;D;N;MON;5;20;;;;MON -;BUILDING template;Sint-Katelijnestraat;49;;;157534,916;191180,15
+MECHELEN - FH01;905274;0;1;1;2;MDU;D;Y;NA;5;4;;;;Ijzerleen 48  mdu 1 bu  1 su(alm) doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Ijzerenleen;48;;;157670,269;190709,924
+MECHELEN - FH01;3032976;0;1;0;1;SDU;;Y;NA;3;9;;;;"Biest 2A zelfde gebouw  priv&amp;amp;eacute; ingang slagerij op Biest 2A";BUILDING template;Frederik de Merodestraat;46;;;157976,034;191156,207
+MECHELEN - FH01;1276380;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;43;;;157833,882;190495,278
+MECHELEN - FH01;3048637;0;1;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Sint-Katelijnestraat;50;;;157560,943;191187,478
+MECHELEN - FH01;3037663;2;0;1;3;MDU;D;Y;NA;4;12;;;;Ijzerleen 52: mdu  2 Lu's  Doorgaande gevelbekabeling  en aansluiting  mogelijk.;BUILDING template;Ijzerenleen;52;;;157668,013;190700,851
+MECHELEN - FH01;3032978;2;0;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Frederik de Merodestraat;47;;;157919,149;191132,895
+MECHELEN - FH01;904196;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;44;;;157802,744;190519,222
+MECHELEN - FH01;3048639;0;1;0;1;SDU;;N;MON;5;20;;;;MON -;BUILDING template;Sint-Katelijnestraat;51;;;157531,517;191183,514
+MECHELEN - FH01;901191;0;1;0;1;SDU;;N;MON;3;4;;;;MON - _;BUILDING template;Grote Markt;6;;;157801,371;190929,531
+MECHELEN - FH01;3032979;2;0;1;3;MDU;D;Y;NA;3;4;;;;Frederik De Merodestraat 49: Mdu 1bu 1 lu  1 su, doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Frederik de Merodestraat;49;;;157927,425;191141,798
+MECHELEN - FH01;3047623;4;0;0;4;MDU;D;Y;NA;4;14;;;;;BUILDING template;Lange Schipstraat;45;;;157835,065;190492,988
+MECHELEN - FH01;3048640;2;1;1;4;MDU;D;Y;NA;3;9;;;;Sint Katelijnestraat 52: Mdu 1 bu 2 lu , 1 su , doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Sint-Katelijnestraat;52;;;157557,15;191191,702
+MECHELEN - FH01;3032980;0;1;1;2;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Frederik de Merodestraat;51;;;157931,016;191149,579
+MECHELEN - FH01;904197;3;0;0;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;46;;;157807,716;190506,516
+MECHELEN - FH01;3048641;0;1;0;1;SDU;;N;MON;4;4;;;;MON - MON;BUILDING template;Sint-Katelijnestraat;53;;;157526,543;191187,195
+MECHELEN - FH01;901186;0;1;0;1;SDU;;N;IRREG;4;12;;;;Gevel geronoveerd;BUILDING template;Frederik de Merodestraat;55;;;157939,246;191155,319
+MECHELEN - FH01;3047625;4;0;0;4;MDU;D;Y;NA;4;12;;;;"Lange schipstraat 47 Mdu  4lu&amp;apos;s : Doorgaande ?evelbekabeling en aansluiting via gevel  mogelijk. Momenteel 4  lu&amp;apos;s";BUILDING template;Lange Schipstraat;47;;;157838,672;190486,827
+MECHELEN - FH01;3048642;1;1;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Sint-Katelijnestraat;54;;;157553,649;191196,085
+MECHELEN - FH01;3032982;1;0;0;1;SDU;;Y;NA;4;13;;;;BE -;BUILDING template;Frederik de Merodestraat;57;;;157947,222;191158,377
+MECHELEN - FH01;3047627;3;0;0;3;MDU;D;Y;NA;3;12;;;;Lange schipstraat  4: Mdu 3lu's  - doorgaande gevelbekabeling en aansluitingen mogelijk  via gevel.;BUILDING template;Lange Schipstraat;48;;;157808,604;190496,609
+MECHELEN - FH01;4739270;0;1;0;1;SDU;;N;MON;3;15;;;;MON -;BUILDING template;Sint-Katelijnestraat;55;;;157524,959;191190,255
+MECHELEN - FH01;905042;0;1;0;1;SDU;;N;MON;3;4;;;;MON - Geen LU, geen SU en geen eigenaar;BUILDING template;Grote Markt;24;;;157878,615;190828,022
+MECHELEN - FH01;3047272;1;0;0;1;SDU;;Y;NA;2;4;;;Y;;BUILDING template;Schaalstraat;14;;;157744;190685
+MECHELEN - FH01;3032985;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Frederik de Merodestraat;59;;;157946,104;191163,286
+MECHELEN - FH01;4736378;3;0;0;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;50;;;157811,861;190493,148
+MECHELEN - FH01;3048643;1;0;0;1;SDU;;Y;NA;4;13;;;;;BUILDING template;Sint-Katelijnestraat;56;;;157550,713;191198,448
+MECHELEN - FH01;3042680;0;1;0;1;SDU;;N;MON;6;;;;;MON - Dit gebouw is het oude stadshuis. Nu enkel in gebruik als kantoren. Geen LU geen SU;BUILDING template;Grote markt;21;;;157938;190868
+MECHELEN - FH01;901188;1;0;1;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Frederik de Merodestraat;61;;;157952,293;191165,61
+MECHELEN - FH01;903512;0;1;1;2;MDU;D;Y;NA;3;10;;;;Dit gebouw heeft 10 studentenkamers en 1 brandalarm;BUILDING template;Lange Schipstraat;51;;;157844,949;190476,346
+MECHELEN - FH01;935322;0;1;0;1;SDU;;Y;NA;3;14;;;;BE -;BUILDING template;Sint-Katelijnestraat;57;;;157522,048;191193,551
+MECHELEN - FH01;901597;0;1;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Frederik de Merodestraat;63;;;157968,761;191181,51
+MECHELEN - FH01;3047629;3;0;0;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;52;;;157812,752;190488,627
+MECHELEN - FH01;3048645;1;1;1;3;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Sint-Katelijnestraat;58;;;157544,72;191201,647
+MECHELEN - FH01;5602863;5;1;1;7;MDU;C;N;ORN;3;;;;;;BUILDING template;Frederik De Merodestraat;3;;;157809,654;190948,347
+MECHELEN - FH01;3032990;0;1;0;1;SDU;;N;MON;3;12;;;;MON - Dit is een museum;BUILDING template;Frederik de Merodestraat;65;;;157981,426;191214,536
+MECHELEN - FH01;3047630;3;0;0;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Lange Schipstraat;54;;;157814,026;190482,932
+MECHELEN - FH01;3048647;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Sint-Katelijnestraat;59;;;157515,918;191197,122
+MECHELEN - FH01;4731645;1;0;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Frederik de Merodestraat;69;;;157996,437;191252,03
+MECHELEN - FH01;3047632;4;0;1;5;MDU;C;Y;NA;4;12;;;;Lange schipstraat 56: Mdu 4 Lu's 1 su : gevelintro doorvoer zelfde als telenet.  Vanin het introlokaal  SmartTUBE  naar de verschillende Lu's.;BUILDING template;Lange Schipstraat;56;;;157815,536;190474,163
+MECHELEN - FH01;3048649;1;1;1;3;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Sint-Katelijnestraat;60;;;157540,662;191204,26
+MECHELEN - FH01;5426070;0;1;0;1;MDU;D;N;ORN;3;;;;;BE - Geen BU en geen eigenaar;BUILDING template;Befferstraat;39;;Befferstraat 37-39;158010,481;190956,696
+MECHELEN - FH01;5602996;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;'t Veer;15;;;157260,003;190978,698
+MECHELEN - FH01;898126;3;0;0;3;MDU;D;Y;NA;3;9;;;;;BUILDING template;Frederik de Merodestraat;71;;;157997,587;191259,001
+MECHELEN - FH01;904293;1;0;0;1;SDU;;Y;NA;4;12;;;;Dit gebouw heeft op glv en 1ste verdiep 1LU garage box staat te huur. Hier geen BU aanwezig. 2de en 3de verdiep horen bij nr 60;BUILDING template;Lange Schipstraat;58;;;157821,652;190463,297
+MECHELEN - FH01;935323;2;1;1;4;MDU;D;Y;NA;4;18;;;;;BUILDING template;Sint-Katelijnestraat;61;;;157511,761;191202,162
+MECHELEN - FH01;1323395;29;0;2;31;MDU;XA;N;HEIGHT;7;18;;;;De gebouwen zijn onderkelderd   plaatsing van de Bdfo mogelijk in tellerlokaal blok 8 , aanleg van nieuwe schacht via de outdoor trappenhal mogelijk plaatsen van floorbox op elk verdieping.  Blok 10 kan via zelfde bdfo eventueel ook voorzien worden  via de garage is deze aansluitbaar extra schacht.;BUILDING template;Varkensstraat;8;;Varkensstraat 8-9-10-11-12-13-14-16;157954,343;190999,102
+MECHELEN - FH01;935316;4;1;0;5;MDU;D;Y;NA;4;22;;;;T veer 17 : mdu 4lu's (bovenste niet afgewerkt)  1 su : eindpunt  aansluiting via gevel mogelijk  . App 1 bereikbaar via de garage , 2 3 en 4 via gevel aansluitbaar;BUILDING template;'t Veer;17;;;157249,661;190976,235
+MECHELEN - FH01;3035204;0;1;0;1;SDU;;Y;NA;4;20;;;;;BUILDING template;Geitestraat;4;;;157772,652;190793,361
+MECHELEN - FH01;903464;4;0;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Lange Schipstraat;61;;;157859,338;190446,811
+MECHELEN - FH01;929573;0;1;0;1;MDU;C;Y;NA;3;10;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;62;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;157536,249;191207,119
+MECHELEN - FH01;3051131;10;0;2;12;MDU;XA;N;IRREG;6;;;;;Geen BU en geen Syndic;BUILDING template;Varkensstraat;10;;Varkensstraat 8-9-10-11-12-13-14-16;157945,919;190976,251
+MECHELEN - FH01;929555;2;1;0;3;MDU;D;N;MON;3;14;;;;AB-Straat 1: Mdu 2Lu's 1 Bu- aansluiting via gevel mogelijk  Alle lu komen voorzijde,  bu 2 ingangen;BUILDING template;A.B.-straat;1;;;157605,661;191125,051
+MECHELEN - FH01;4746724;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Geitestraat;5;;;157780,782;190806,901
+MECHELEN - FH01;3047636;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;62;;;157829,383;190454,394
+MECHELEN - FH01;3048651;4;2;0;6;MDU;C;Y;NA;2;7;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;64;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;157531,851;191210,009
+MECHELEN - FH01;3944217;10;0;2;12;MDU;XA;N;IRREG;5;;;;;Schacht is niet bruikbaar niet centraal  toegangkelijk(prive appartementen);BUILDING template;Varkensstraat;12;;Varkensstraat 8-9-10-11-12-13-14-16;157966;190958
+MECHELEN - FH01;941666;1;0;0;1;SDU;;N;IRREG;3;18;;;;;BUILDING template;A.B.-straat;2;;;157583,244;191120,827
+MECHELEN - FH01;3035206;0;1;0;1;SDU;;Y;NA;4;20;;;;;BUILDING template;Geitestraat;6;;;157778,311;190791,549
+MECHELEN - FH01;4731524;2;0;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Lange Schipstraat;63;;;157861,715;190441,572
+MECHELEN - FH01;5364604;1;0;0;1;SDU;;Y;NA;3;17;;;;Achtergelegen unit  geen zicht op voorgevel.;BUILDING template;Sint-Katelijnestraat;45;A;;157542,194;191174,218
+MECHELEN - FH01;3944218;29;0;2;31;MDU;XA;N;IRREG;7;;;;;De gebouwen zijn onderkelderd   plaatsing van de Bdfo mogelijk in tellerlokaal , aanleg van nieuwe schacht via de outdoor trappenhal mogelijk plaatsen van floorbox op elk verdieping.;BUILDING template;Varkensstraat;14;;Varkensstraat 8-9-10-11-12-13-14-16;157971,211;190975,62
+MECHELEN - FH01;941664;2;0;0;2;MDU;D;N;IRREG;3;14;;;;AB-Straat 3A - 3B: Mdu 2 Lu's  doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;A.B.-straat;3;;;157601,737;191121,458
+MECHELEN - FH01;3035207;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Geitestraat;7;;;157787,651;190803,139
+MECHELEN - FH01;3047637;1;0;0;1;SDU;;Y;NA;4;13;;;;;BUILDING template;Lange Schipstraat;64;;;157833,434;190452,069
+MECHELEN - FH01;929553;0;1;0;1;SDU;;N;IRREG;2;10;;;;;BUILDING template;Sint-Romboutskerkhof;2;;;157695,043;191071,163
+MECHELEN - FH01;3028796;1;0;0;1;SDU;;N;IRREG;3;18;;;;;BUILDING template;A.B.-straat;4;;;157575,2;191110,437
+MECHELEN - FH01;3035209;0;1;0;1;SDU;;Y;NA;3;4;;;;Winkel Rebelation geen alarm enkel winkel zonder leefruimte op verdiepen;BUILDING template;Geitestraat;8;;;157786,028;190787,414
+MECHELEN - FH01;3047639;3;0;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;65;;;157864,505;190436,791
+MECHELEN - FH01;5414780;0;1;0;1;SDU;;N;IRREG;4;12;;;;BE -;BUILDING template;Sint-Romboutskerkhof;3;;;157685,944;191068,952
+MECHELEN - FH01;5706656;3;0;1;4;MDU;XC;N;IRREG;3;;;;;BE - geen BU, geen syndicus. Nummer 19 2LU 17 1LU = zelfde gebouw;BUILDING template;Varkensstraat;19;;Varkensstraat 17-19;158032,114;190987,577
+MECHELEN - FH01;3028797;1;0;0;1;SDU;;Y;NA;3;14;;;;BE -;BUILDING template;A.B.-straat;5;;;157593,751;191111,124
+MECHELEN - FH01;3035211;0;1;0;1;SDU;;Y;NA;4;16;;;;;BUILDING template;Geitestraat;9;;;157794,653;190798,434
+MECHELEN - FH01;903466;1;0;0;1;SDU;;N;MON;3;12;;;;MON -;BUILDING template;Lange Schipstraat;66;;;157833,459;190445,161
+MECHELEN - FH01;929554;5;1;2;8;MDU;C;N;MON;4;12;;;;MON -;BUILDING template;Sint-Romboutskerkhof;4;;;157673,268;191064,793
+MECHELEN - FH01;1323394;35;0;2;37;MDU;XA;N;IRREG;6;;;;;"Verticale schacht is enkel bereikbaar(toegangkelijk) via prive  ruimte&amp;apos;s";BUILDING template;Varkensstraat;13;;Varkensstraat 8-9-10-11-12-13-14-16;158002,796;191013,716
+MECHELEN - FH01;3028798;5;0;1;6;MDU;XC;N;GLASS;4;13;;;;AB-Straat 7: Mdu 5 Lu's 1 Su ondergrondse intro via wachtbuis,  aanleg van een schacht;BUILDING template;A.B.-straat;7;;;157578,257;191075,208
+MECHELEN - FH01;3035212;0;1;1;2;MDU;D;Y;NA;3;10;;;;Winkel poulin carmin. Heel dit pand hoort bij winkel. Hier is een alarm;BUILDING template;Geitestraat;10;;;157790,628;190783,725
+MECHELEN - FH01;3047641;3;0;0;3;MDU;D;Y;NA;4;12;;;;;BUILDING template;Lange Schipstraat;67;;;157868,517;190430,543
+MECHELEN - FH01;929552;1;0;0;1;SDU;;N;MON;3;12;;;;MON -;BUILDING template;Sint-Romboutskerkhof;5;;;157659,301;191058,746
+MECHELEN - FH01;3943981;1;0;0;1;SDU;;Y;NA;3;4;;;;_;BUILDING template;Biest;2;A;;157982;191152
+MECHELEN - FH01;905710;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Arme-Clarenstraat;1;;;157476,273;191010,944
+MECHELEN - FH01;3035214;0;1;1;2;MDU;D;Y;NA;4;17;;;;;BUILDING template;Geitestraat;11;;;157797,998;190795,736
+MECHELEN - FH01;903467;0;1;0;1;SDU;;N;MON;4;10;;;;"Lange Schipstraat 78 (bu) intro  via gevel doorvoer via valse plafond naar huisnr 76(mdu :5 lu 1 su)  plaatsen van de bdfo in de het meterlokaal  1) doorvoer naar 78 doorvoer naar buiten aanleg via facade kabel  huisnr 70. Aanleg nieuwe schacht  langsheen de lift  , doorvoer naar, 76-001.
+Voor de appartementen huisnr  70(mdu :3 lu 1 su) aansluitbaar via de facadekabel. Aanleg via facade naar huisnr 72  en 74  ( aparte Lu's)
+68 bu  (mogelijk aansluitbaar  als sdu  via straatzijde )";BUILDING template;Lange Schipstraat;68;;;157841,341;190435,779
+MECHELEN - FH01;929548;0;1;0;1;SDU;;Y;NA;3;11;;;;BE -;BUILDING template;Sint-Romboutskerkhof;1;A;;157707,757;191066,431
+MECHELEN - FH01;930428;6;0;1;7;MDU;XC;N;IRREG;3;16;;;;Arme Claerenstraat 2 : MDU  6Lu's 1 su .Ondergrondse intro plaatsing  bdfo, aanleg via bestaande kabelgoot naar plafond  schacht uitgekast, niet toegangkelijk. Nieuwe aanleg van horizontale Dlp goot naar trappenhal . Aanleg  nieuwe schacht waarap alle Lu's  aansluitbaar;BUILDING template;Arme-Clarenstraat;2;;;157486,996;191023,861
+MECHELEN - FH01;3035215;0;1;0;1;SDU;;Y;NA;4;17;;;;BE -;BUILDING template;Geitestraat;13;;;157807,15;190789,925
+MECHELEN - FH01;3047645;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;69;;;157870,956;190423,296
+MECHELEN - FH01;935331;10;1;1;12;MDU;XC;N;IRREG;3;15;;;;;BUILDING template;Stadsheimelijkheid;1;;;157542,945;191127,792
+MECHELEN - FH01;6668747;1;0;0;1;MDU;D;Y;NA;2;4;;;;_;BUILDING template;Goswin de Stassartstraat;29;A;Goswin de Stassartstraat 27-27A-29-29A;157799;191262
+MECHELEN - FH01;3029535;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Arme-Clarenstraat;3;;;157471,246;191012,895
+MECHELEN - FH01;3035216;0;1;1;2;MDU;D;Y;NA;3;14;;;;Winkel Donuttella met 1 alarm;BUILDING template;Geitestraat;14;;;157796,882;190780,066
+MECHELEN - FH01;3047646;3;0;1;4;MDU;XC;N;IRREG;4;12;;;;"Lange Schipstraat 78 (bu) intro  via gevel doorvoer via valse plafond naar huisnr 76(mdu :5 lu 1 su)  plaatsen van de bdfo in de het meterlokaal  1) doorvoer naar 78 doorvoer naar buiten aanleg via facade kabel  huisnr 70. Aanleg nieuwe schacht  langsheen de lift  , doorvoer naar, 76-001.
+Voor de appartementen huisnr  70(mdu :3 lu 1 su) aansluitbaar via de facadekabel. Aanleg via facade naar huisnr 72  en 74  ( aparte Lu's)
+68 bu  (mogelijk aansluitbaar  als sdu  via straatzijde )";BUILDING template;Lange Schipstraat;70;;Lange Schipstraat 70-72-74-76-78;157837,917;190441,693
+MECHELEN - FH01;4971562;6;0;1;7;MDU;XC;N;IRREG;4;16;;;;Stadsheimelijkheid 3 Mdu deel van Bgroup : ondergrondse intro via Begaardenstraat 7 aanleg v/e schacht , plaatsing  van de Bdfo (kelder Stadheimelijkheid 3)  aanlegv/d horizontale schacht via kelder (plan) . Aanleg v/d verticale schacht via trappen hal  naar de verdiepingen.;BUILDING template;Stadsheimelijkheid;3;;Nieuwe Begaardenstraat 7-9_Stadsheimelijkheid 3-5;157505,835;191158,973
+MECHELEN - FH01;3029537;1;0;0;1;SDU;;Y;NA;2;15;;;;;BUILDING template;Arme-Clarenstraat;4;;;157479,043;191025,307
+MECHELEN - FH01;3035217;1;1;1;3;MDU;D;Y;NA;3;15;;;;Winkel staat leeg. Boven deze is leef ruimte dat hoort bij de winkel.;BUILDING template;Geitestraat;15;;;157810,582;190787,312
+MECHELEN - FH01;901167;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Standonckstraat;1;;;157862,302;190939,133
+MECHELEN - FH01;4736802;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Arme-Clarenstraat;5;;;157464,47;191015,597
+MECHELEN - FH01;3035219;0;1;0;1;SDU;;Y;NA;3;14;;;;;BUILDING template;Geitestraat;16;;;157800,477;190775,729
+MECHELEN - FH01;4731537;0;0;1;1;MDU;D;Y;NA;3;10;;;;71 en 73 1gebouw;BUILDING template;Lange Schipstraat;73;;Lange Schipstraat 71-73;157874,73;190416,186
+MECHELEN - FH01;4462632;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Standonckstraat;3;;;157862,005;190943,255
+MECHELEN - FH01;4731627;1;0;0;1;SDU;;N;IRREG;3;4;;;;;BUILDING template;Veemarkt;27;;;158063,94;191019,415
+MECHELEN - FH01;4185057;1;0;1;2;MDU;D;Y;NA;3;15;;;;Aangebeld  bevestiging verkregen 1 lu  met 1 alm lijn;BUILDING template;Arme-Clarenstraat;6;;;157468,518;191028,948
+MECHELEN - FH01;904905;0;1;0;1;SDU;;Y;NA;4;18;;;;;BUILDING template;Geitestraat;17;;;157814,876;190785,108
+MECHELEN - FH01;3047652;1;0;0;1;MDU;XC;N;IRREG;2;8;;;;"Lange Schipstraat 78 (bu) intro  via gevel doorvoer via valse plafond naar huisnr 76(mdu :5 lu 1 su)  plaatsen van de bdfo in de het meterlokaal  1) doorvoer naar 78 doorvoer naar buiten aanleg via facade kabel  huisnr 70. Aanleg nieuwe schacht  langsheen de lift  , doorvoer naar, 76-001.
+Voor de appartementen huisnr  70(mdu :3 lu 1 su) aansluitbaar via de facadekabel. Aanleg via facade naar huisnr 72  en 74  ( aparte Lu's)
+68 bu  (mogelijk aansluitbaar  als sdu  via straatzijde )";BUILDING template;Lange Schipstraat;74;;Lange Schipstraat 70-72-74-76-78;157821,179;190431,192
+MECHELEN - FH01;3048977;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Standonckstraat;5;;;157861,643;190948,224
+MECHELEN - FH01;3029538;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Arme-Clarenstraat;7;;;157460,168;191017,307
+MECHELEN - FH01;904906;0;1;0;1;SDU;;Y;NA;4;17;;;;;BUILDING template;Geitestraat;19;;;157819,083;190782,912
+MECHELEN - FH01;3047654;1;0;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Lange Schipstraat;75;;;157876,586;190413,481
+MECHELEN - FH01;3048979;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Standonckstraat;7;;;157860,474;190953,047
+MECHELEN - FH01;3029539;1;0;0;1;SDU;;Y;NA;3;15;;;;BE -;BUILDING template;Arme-Clarenstraat;8;;;157461,982;191032,489
+MECHELEN - FH01;904910;2;1;0;3;MDU;D;Y;NA;3;18;;;;Geitestraat 20: Mdu 1Bu  2Lu's (apparte ingang ) doorgaande gevelbekabeling  en aansluitingen  mogelijk  gebouw  in trenovatie;BUILDING template;Geitestraat;20;;;157807,633;190770,3
+MECHELEN - FH01;3047655;5;0;1;6;MDU;XC;N;IRREG;5;12;;;;Lange Schipstraat 78 (bu) intro  via gevel doorvoer via valse plafond naar huisnr 76(mdu :5 lu 1 su)  plaatsen van de bdfo in de het meterlokaal  1) doorvoer naar 78 doorvoer naar buiten aanleg via facade kabel  huisnr 70. Aanleg nieuwe schacht  langsheen de lift  , doorvoer naar, 76-001.;BUILDING template;Lange Schipstraat;76;;Lange Schipstraat 70-72-74-76-78;157844,291;190414,718
+MECHELEN - FH01;4751986;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Standonckstraat;9;;;157860,747;190956,458
+MECHELEN - FH01;905713;0;1;0;1;SDU;;N;MON;2;0;;;;Melaan 14-16 : ondergrondse intro via de Thaborstraat,  klant (Scheppersinstituut- Vl Gemeenschap) momenteel Telenet  wil indien mogelijk  overschakeling , tussenkomst van comerciele contact nodig.;BUILDING template;Melaan;16;;;157475,244;190929,206
+MECHELEN - FH01;4081944;1;0;0;1;SDU;;N;IRREG;2;;;;;Nr 22 ligt achteraan gebouw. Hier bereikbaar via facade.;BUILDING template;Leermarkt;22;;;157962,537;190657,864
+MECHELEN - FH01;3029540;3;0;0;3;MDU;D;Y;NA;3;18;;;;Arme Claerenstraat: Mdu  3 Lu's  doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Arme-Clarenstraat;9;;;157452,926;191019,931
+MECHELEN - FH01;3035220;0;1;1;2;MDU;D;Y;NA;3;15;;;;Leefruimte boven winkel is stokage ruimte van winkel.;BUILDING template;Geitestraat;21;;;157823,857;190779,541
+MECHELEN - FH01;3047659;5;0;0;5;MDU;D;Y;NA;3;10;;;;"Lange schipstraat 77 79 Mdu  4lu&amp;apos;s : Doorgaande ?evelbekabeling en aansluiting via gevel  mogelijk. Momenteel 5  lu  waarvan 1 on bewoonbaar verklaard";BUILDING template;Lange Schipstraat;77;;Lange Schipstraat 77-79;157882,295;190405,412
+MECHELEN - FH01;4751988;1;0;0;1;SDU;;N;MON;2;13;;;;MON -;BUILDING template;Standonckstraat;11;;;157861,37;190961,043
+MECHELEN - FH01;4748706;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;32;;;157570,691;190816,165
+MECHELEN - FH01;3029541;1;0;0;1;SDU;;Y;NA;3;15;;;;BE -;BUILDING template;Arme-Clarenstraat;10;;;157452,68;191036,007
+MECHELEN - FH01;3035222;0;1;1;2;MDU;D;Y;NA;3;16;;;;Pand wordt verkocht. Kans is groot dat dit pand wordt verbouwd. Klant niet kunnen bereiken voor meer info ivm pand eigenaar lien bosmans 0478666469 . Voorlopig 1Bu en 1Su voorzien;BUILDING template;Geitestraat;22;;;157817,224;190765,592
+MECHELEN - FH01;3047660;0;1;0;1;MDU;XC;N;IRREG;4;12;;;;"Lange Schipstraat 78 (bu) intro  via gevel doorvoer via valse plafond naar huisnr 76(mdu :5 lu 1 su)  plaatsen van de bdfo in de het meterlokaal
+1) doorvoer naar 78
+2) doorvoer naar buiten aanleg via facade kabel  huisnr 70. 
+3) Aanleg nieuwe schacht  langsheen de lift apparte meetstaat
+4) doorvoer naar, 76-001.
+Voor de appartementen huisnr  70(mdu :3 lu 1 su) aansluitbaar via de facadekabel. 
+5) Aanleg via facade naar huisnr 72  en 74  ( aparte Lu's)
+6) 68 bu  (mogelijk aansluitbaar  als sdu  via straatzijde )";BUILDING template;Lange Schipstraat;78;;Lange Schipstraat 70-72-74-76-78;157848,178;190418,711
+MECHELEN - FH01;3049065;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;2;;;157693,52;190915,83
+MECHELEN - FH01;3032946;0;1;0;1;MDU;D;Y;NA;3;4;;;;geen SU aanwezig;BUILDING template;Frederik de merodestraat;12;;Frederik de Merodestraat 10-12;157846,703;190972,965
+MECHELEN - FH01;5991411;1;0;1;2;MDU;D;N;IRREG;2;4;;;;Melaan 12  sdu  1 lu doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Melaan;12;;Melaan 10-12;157485,241;190955,75
+MECHELEN - FH01;3029542;1;0;0;1;SDU;;Y;NA;3;13;;;;;BUILDING template;Arme-Clarenstraat;11;;;157449,061;191020,552
+MECHELEN - FH01;4066751;0;1;0;1;SDU;;Y;NA;3;4;;;;Dit pand heeft geen leefruimte alles hoort bij winkel. Geen alarm;BUILDING template;Geitestraat;25;;;157828,972;190777,444
+MECHELEN - FH01;903468;4;0;0;4;MDU;XC;Y;NA;4;12;;;;In aanbouw - En construction;BUILDING template;Lange Schipstraat;80;;;157850,096;190410,64
+MECHELEN - FH01;3049066;2;1;0;3;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;4;;;157698,142;190912,875
+MECHELEN - FH01;4164871;7;0;1;8;MDU;XC;Y;NA;3;4;;;;Is geen BU en geen SU aanwezig;BUILDING template;Frederik de merodestraat;14;;;157851,1;190974,006
+MECHELEN - FH01;4038372;1;0;0;1;SDU;;Y;NA;3;15;;;;BE -;BUILDING template;Arme-Clarenstraat;12;;;157444,824;191039,477
+MECHELEN - FH01;4746751;2;1;1;4;MDU;D;Y;NA;4;4;;;;Geitestraat 27-29  mdu  1 bu, 2 Lu's renovatiewerken gepland volgens  huurder winken gegevens eigenaar opgevraagd  pand  veranderd  van eigenaar gn gegevens bekend.   Doorgaande gevelbekabeling en aansluiting mogelijk via de gevel .;BUILDING template;Geitestraat;27;;;157834,09;190773,127
+MECHELEN - FH01;1283600;7;0;0;7;MDU;XC;Y;NA;3;10;;;;Op gevel staat ook nr 86 maar de bussen geven enkel nr 82. Nr 86 is nog van vroeger.;BUILDING template;Lange Schipstraat;82;;;157857,593;190407,79
+MECHELEN - FH01;3049067;1;1;0;2;MDU;D;Y;NA;3;10;;;;Steenweg 6:Mdu  1bu aparte  ingang, 1 Lu  Doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Steenweg;6;;;157702,631;190909,674
+MECHELEN - FH01;3032950;1;0;0;1;SDU;;N;MON;3;;;;;MON - Monument gebouw, is geen BU en geen SU aanwezig;BUILDING template;Frederik de merodestraat;16;;;157852,963;190978,731
+MECHELEN - FH01;6622322;2;0;0;2;MDU;D;Y;NA;2;4;;;;A.B.-straat 3 a, b : Doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;A.B.-straat;3;A;;157598,14;191117,558
+MECHELEN - FH01;3029543;1;0;0;1;SDU;;Y;NA;2;14;;;;"Het huis woord gerenoveerd en te koop&amp;amp;period; Het huis is leg";BUILDING template;Arme-Clarenstraat;13;;;157443,196;191025,05
+MECHELEN - FH01;3035225;0;1;1;2;MDU;D;Y;NA;4;18;;;;dit is op glv winkel koopjeshal met 1 alarm panden hierboven hebben ingang langs blauwhondstraat of bruul;BUILDING template;Geitestraat;28;;;157824,043;190760,929
+MECHELEN - FH01;3047667;4;0;0;4;MDU;D;Y;NA;4;12;;;;"Lange schipstraat 83 Mdu  4lu&amp;apos;s : Doorgaande ?evelbekabeling en aansluiting via gevel  mogelijk.";BUILDING template;Lange Schipstraat;83;;;157892,82;190391,745
+MECHELEN - FH01;3049069;1;1;1;3;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;8;;;157706,166;190907,494
+MECHELEN - FH01;4733024;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Arme-Clarenstraat;14;;;157435,714;191051,178
+MECHELEN - FH01;3035226;0;1;0;1;SDU;;Y;NA;4;13;;;;BE -;BUILDING template;Geitestraat;29;;;157841,676;190769,05
+MECHELEN - FH01;3049070;1;1;1;3;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;10;;;157709,723;190905,883
+MECHELEN - FH01;3029544;1;0;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Arme-Clarenstraat;15;;;157436,804;191028,49
+MECHELEN - FH01;3035227;0;4;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Geitestraat;32;;;157828,694;190756,904
+MECHELEN - FH01;3049075;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;12;;;157714,384;190903,699
+MECHELEN - FH01;3031082;0;1;0;1;SDU;;Y;NA;2;4;;;;Biest 8: sdu : geen doorgaande gevelbekabeling;BUILDING template;Biest;8;;;157996,884;191131,481
+MECHELEN - FH01;3029547;1;0;0;1;SDU;;Y;NA;2;15;;;;;BUILDING template;Arme-Clarenstraat;23;;;157406,98;191037,949
+MECHELEN - FH01;3035229;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Geitestraat;34;;;157839,39;190754,743
+MECHELEN - FH01;3047668;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Lange Schipstraat;89;;;157899,885;190380,515
+MECHELEN - FH01;3049076;1;1;0;2;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;14;;;157717,936;190901,853
+MECHELEN - FH01;929560;1;0;0;1;SDU;;Y;NA;2;4;;;;BE - Stijglijn mogelijk maar dalen niet mogelijk naast de SDU;BUILDING template;Goswin de Stassartstraat;1;;;157774,795;191142,97
+MECHELEN - FH01;3047670;6;0;1;7;MDU;XC;N;IRREG;4;12;;;;Lange Schipstraat  88-90 mdu 11lu 2 su. SmartTUBE  in de kelder  van de buldinggroep, invoer via het meterlokaal  hier plaatsing van de bdfo mogelijk. Aanleg via bestaande kabelweg  naar beginpunten van de nieuwe schachten mogelijk.;BUILDING template;Lange Schipstraat;90;;Lange Schipstraat 88-90;157866,717;190388,249
+MECHELEN - FH01;3049078;3;1;0;4;MDU;D;Y;NA;4;12;;;;Steenweg 16:Mdu  1bu aparte  ingang, 3 Lu's  Doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Steenweg;16;;;157722,083;190899,758
+MECHELEN - FH01;4091142;1;0;0;1;SDU;;Y;NA;2;15;;;;;BUILDING template;Arme-Clarenstraat;25;;;157402,026;191038,868
+MECHELEN - FH01;929565;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Goswin de Stassartstraat;2;;;157793,331;191131,918
+MECHELEN - FH01;3047671;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Lange Schipstraat;91;;;157903,87;190375,929
+MECHELEN - FH01;3049080;3;1;0;4;MDU;XC;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;18;;;157724,848;190896,598
+MECHELEN - FH01;929567;1;0;0;1;SDU;;Y;NA;3;4;;;;BE - Stijglijn niet mogelijk;BUILDING template;Goswin de Stassartstraat;3;;;157776,306;191150,391
+MECHELEN - FH01;3049081;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Steenweg;20;;;157728,27;190893,416
+MECHELEN - FH01;6397326;0;1;0;1;SDU;;Y;NA;3;10;;;;Dit is een kantoor dat hoort bij gebouw van stadhuis mechelen. Hier is enkel beneden een garagebox met nr 7 van economaat 1 bedrijfje  en fietsenstalling. De rest van het gebouw zijn kantoren van het stadhuis.;BUILDING template;Zakstraat;7;;;157983,532;190855,216
+MECHELEN - FH01;1458492;1;0;0;1;SDU;;Y;NA;2;9;;;;;BUILDING template;Goswin de Stassartstraat;4;;;157797,167;191137,602
+MECHELEN - FH01;3047675;4;0;0;4;MDU;D;Y;NA;5;14;;;;;BUILDING template;Lange Schipstraat;95;;;157908,79;190373,306
+MECHELEN - FH01;3049083;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Steenweg;22;;;157730,902;190889,647
+MECHELEN - FH01;4736819;1;0;0;1;SDU;;Y;NA;2;15;;;;;BUILDING template;Arme-Clarenstraat;31;;;157386,45;191047,157
+MECHELEN - FH01;3033213;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Goswin de Stassartstraat;5;;;157778,161;191156,117
+MECHELEN - FH01;903463;4;0;0;4;MDU;D;Y;NA;5;4;;;;;BUILDING template;Lange Schipstraat;97;;;157914,263;190371,054
+MECHELEN - FH01;3049084;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Steenweg;24;;;157733,036;190886,13
+MECHELEN - FH01;905709;1;0;0;1;SDU;;Y;NA;2;15;;;;;BUILDING template;Arme-Clarenstraat;33;;;157383,338;191049,137
+MECHELEN - FH01;3033214;0;1;0;1;SDU;;N;MON;2;4;;;;MON -;BUILDING template;Goswin de Stassartstraat;6;;;157797,312;191147,814
+MECHELEN - FH01;3049085;1;1;1;3;MDU;D;Y;NA;4;12;;;;Steenweg 26: mdu  1 bu (niet in gebruik) 1 lu app en1 su alm  doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Steenweg;26;;;157734,11;190882,307
+MECHELEN - FH01;901199;1;0;0;1;SDU;;N;IRREG;3;12;;;;BE - Nummer 1 en 3 zijn in het zelfde gebouw ze hebben een van gemaakt;BUILDING template;Befferstraat;1;;;157903,853;190915,238
+MECHELEN - FH01;929561;1;0;0;1;SDU;;Y;NA;3;11;;;;;BUILDING template;Goswin de Stassartstraat;7;;;157784,929;191160,209
+MECHELEN - FH01;903510;1;0;0;1;SDU;;N;MON;4;16;;;;MON -;BUILDING template;Lange Schipstraat;27;;;157809,003;190557,603
+MECHELEN - FH01;3049086;3;1;0;4;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Steenweg;28;;;157733,613;190878,312
+MECHELEN - FH01;3030756;0;1;0;1;SDU;;N;IRREG;3;14;;;;BE - Nummer 1 en 3 in een gebouw;BUILDING template;Befferstraat;3;;;157911,132;190916,947
+MECHELEN - FH01;4267275;1;0;0;1;SDU;;N;MON;2;10;;;;MON -;BUILDING template;Goswin de Stassartstraat;8;;;157801,322;191158,92
+MECHELEN - FH01;903155;2;0;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Leermarkt;2;;;157967,066;190716,525
+MECHELEN - FH01;3049087;0;1;0;1;SDU;;Y;NA;4;13;;;;BE -;BUILDING template;Steenweg;30;;;157735,541;190872,857
+MECHELEN - FH01;3030757;1;1;0;2;MDU;D;N;MON;3;4;;;;MON -;BUILDING template;Befferstraat;5;;;157912,154;190918,183
+MECHELEN - FH01;929562;0;1;0;1;SDU;;Y;NA;3;9;;;;BE -;BUILDING template;Goswin de Stassartstraat;9;;;157784,287;191177,236
+MECHELEN - FH01;3040411;1;1;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Leermarkt;4;;;157967,678;190712,382
+MECHELEN - FH01;3030836;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;34;;;157573,977;190815,655
+MECHELEN - FH01;5876086;7;1;1;9;MDU;XC;N;IRREG;4;;;;;Stadsheimelijkheid 5 Mdu deel van Bgroup : ondergrondse intro via Begaardenstraat 7 aanleg v/e schacht , plaatsing  van de Bdfo (kelder Stadheimelijkheid 3)  aanlegv/d horizontale schacht via kelder (plan) . Aanleg v/d verticale schacht via trappen hal  naar de verdiepingen.;BUILDING template;Stadsheimelijkheid;5;;Nieuwe Begaardenstraat 7-9_Stadsheimelijkheid 3-5;157513,817;191154,594
+MECHELEN - FH01;3030758;2;1;0;3;MDU;D;N;IRREG;3;4;;;;BE -;BUILDING template;Befferstraat;7;;;157912,516;190909,737
+MECHELEN - FH01;3033215;1;0;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Goswin de Stassartstraat;10;;;157803,745;191169,158
+MECHELEN - FH01;3040414;3;1;0;4;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Leermarkt;6;;;157962,898;190706,302
+MECHELEN - FH01;3049089;4;1;0;5;MDU;D;Y;NA;5;4;;;;Steenweg 34 Mdu  1 bu winkel, 4 Lu's  doorgaande gevelbekabeling en aansluiting mogelijk  via gevel.;BUILDING template;Steenweg;34;;;157733,277;190864,135
+MECHELEN - FH01;3052907;0;1;0;1;SDU;;Y;NA;4;12;;;;Geen SU, geen BU en geen eigenaar;BUILDING template;Rik woutersstraat;22;B;;158057,859;190859,23
+MECHELEN - FH01;3030759;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Befferstraat;9;;;157915,874;190913,296
+MECHELEN - FH01;929563;2;5;0;7;MDU;C;N;MON;3;4;;;;17 studenten kamers (1 bu), 2 appartementen Lu's ,  3 Bu's studentenkotten:;BUILDING template;Goswin de Stassartstraat;11;;;157788,223;191192,119
+MECHELEN - FH01;903154;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Leermarkt;8;;;157968,011;190701,946
+MECHELEN - FH01;3049091;0;1;0;1;SDU;;Y;NA;4;12;;;;BE - Steenweg 36 en 38 zelfde gebouw 2 BUs met ieders brievenbus;BUILDING template;Steenweg;36;;;157734,377;190858,673
+MECHELEN - FH01;901432;0;1;0;1;SDU;;Y;NA;3;12;;;;BE -;BUILDING template;Veemarkt;19;;;158076,018;191005,903
+MECHELEN - FH01;3030761;1;1;0;2;MDU;D;Y;NA;4;12;;;;Dit gebouw heeft 1 BU op gelijkvloer en 1LU op 1ste, 2de en derde verdiep info gekregen van eigenaar pand. Huurder van bu huurt eveneens bovenste verdiepen.;BUILDING template;Befferstraat;10;;;157969,435;190880,84
+MECHELEN - FH01;4740683;1;0;0;1;SDU;;Y;NA;2;11;;;;BE -;BUILDING template;Goswin de Stassartstraat;12;;;157804,061;191175,04
+MECHELEN - FH01;3040419;5;1;2;8;MDU;XC;Y;NA;5;14;;;;Dit gebouw glv en 1ste heeft 1Bu+2Su (lift+alarm), 2de heeft 2Lu,3de heeft 1Lu, 4de heeft 1Lu.;BUILDING template;Leermarkt;14;;;157970,915;190685,841
+MECHELEN - FH01;3049093;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Steenweg;40;;;157733,94;190849,26
+MECHELEN - FH01;4751991;0;1;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Befferstraat;11;;;157920,91;190916,657
+MECHELEN - FH01;929568;3;0;0;3;MDU;D;N;IRREG;3;4;;;;Goswin de Stassartstraat 13: mdu 3 Lu's Doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Goswin de Stassartstraat;13;;;157791,689;191214,398
+MECHELEN - FH01;3040422;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Leermarkt;16;;;157974,388;190678,429
+MECHELEN - FH01;3049095;0;1;0;1;SDU;;Y;NA;3;10;;;;BE - Momenteel verbouwingen bezig;BUILDING template;Steenweg;42;;;157733,69;190844,83
+MECHELEN - FH01;3030840;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;36;;;157577,575;190816,156
+MECHELEN - FH01;3944173;2;0;0;2;MDU;D;Y;NA;2;4;;;;Schaalstraat 31-33: mdu  2 Lu's  doorgaande gevelbekabeling en aansluitingen  mogelijk;BUILDING template;Schaalstraat;31;;;157827,302;190676,345
+MECHELEN - FH01;6085045;3;2;0;5;MDU;D;Y;NA;3;18;;;;Klapgat 2 _ Goswin de stassaertstraat 4 _Sint janskerkhof  1 (wordt  2)Mdu : 2bu's en 3 Lu's : Doorgaande gevelbekabeling(bestaande coax) en aansluiting mogelijk,  alle (woon)units komen aan de  straatzijde;BUILDING template;Klapgat;2;;;157817,136;191133,507
+MECHELEN - FH01;3030762;0;1;0;1;SDU;;N;MON;3;9;;;;MON -;BUILDING template;Befferstraat;12;;;157973,146;190905,614
+MECHELEN - FH01;929566;1;0;0;1;SDU;;Y;NA;2;11;;;;BE -;BUILDING template;Goswin de Stassartstraat;14;;;157805,323;191181,605
+MECHELEN - FH01;3040425;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Leermarkt;18;;;157975,758;190673,665
+MECHELEN - FH01;3049096;0;1;1;2;MDU;D;Y;NA;4;12;;;;Steenweg 44: mdu 1 bu 1su (alm) doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Steenweg;44;;;157732,44;190840,781
+MECHELEN - FH01;4741876;1;0;0;1;SDU;;Y;NA;2;3;;;;;BUILDING template;Schaalstraat;23;;;157812,387;190675,488
+MECHELEN - FH01;901426;1;0;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Befferstraat;13;;;157928,359;190916,863
+MECHELEN - FH01;3033222;1;0;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Goswin de Stassartstraat;15;;;157792,842;191219,922
+MECHELEN - FH01;3040429;2;1;0;3;MDU;D;N;IRREG;4;12;;;;;BUILDING template;Leermarkt;24;;;157979,521;190661,635
+MECHELEN - FH01;3049098;0;1;0;1;SDU;;Y;NA;4;4;;;;BE -;BUILDING template;Steenweg;46;;;157731,011;190837,61
+MECHELEN - FH01;3051190;0;1;0;1;MDU;D;N;ORN;2;10;;;;Veemarkt 39-41: 1 gebouw  Go school;BUILDING template;Veemarkt;39;;Veemarkt 39-41;157997,211;191103,751
+MECHELEN - FH01;905661;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Nauwstraat;2;;;157635,6;190674,21
+MECHELEN - FH01;3030763;1;1;0;2;MDU;D;N;IRREG;3;9;;;;;BUILDING template;Befferstraat;14;;;157978,475;190902,279
+MECHELEN - FH01;901600;1;0;0;1;MDU;D;N;IRREG;3;9;;;;Gebouw heeft 2 ingangen;BUILDING template;Goswin de Stassartstraat;16;;Goswin de Stassartstraat 16_Sint-Janstraat 16;157809,629;191200,387
+MECHELEN - FH01;3049100;0;1;0;1;SDU;;Y;NA;4;4;;;;BE -;BUILDING template;Steenweg;48;;;157729,68;190834,098
+MECHELEN - FH01;3030765;1;1;0;2;MDU;D;N;MON;4;4;;;;MON -;BUILDING template;Befferstraat;15;;;157933,902;190918,291
+MECHELEN - FH01;3033223;1;1;0;2;MDU;D;Y;NA;3;11;;;;;BUILDING template;Goswin de Stassartstraat;17;;;157796,689;191226,019
+MECHELEN - FH01;4733926;1;0;0;1;SDU;;N;IRREG;4;12;;;;;BUILDING template;Leermarkt;30;;;157981,694;190640,06
+MECHELEN - FH01;941661;1;0;0;1;SDU;;N;IRREG;2;10;;;;BE -;BUILDING template;Straatje-zonder-einde;3;;;157506,699;191035,195
+MECHELEN - FH01;3030766;3;1;0;4;MDU;D;N;MON;3;4;;;;MON -;BUILDING template;Befferstraat;16;;;157981,806;190907,054
+MECHELEN - FH01;3033225;1;0;0;1;SDU;;N;MON;2;9;;;;MON - Bescherm monument;BUILDING template;Goswin de Stassartstraat;18;;;157813,677;191206,478
+MECHELEN - FH01;3944097;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Leermarkt;32;;;157984,968;190634,758
+MECHELEN - FH01;905708;3;0;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Thaborstraat;1;;;157484,512;190865,367
+MECHELEN - FH01;901200;1;1;0;2;MDU;D;Y;NA;3;4;;;;BE -;BUILDING template;Befferstraat;17;;;157938,25;190919,481
+MECHELEN - FH01;3033226;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Goswin de Stassartstraat;19;;;157794,813;191234,74
+MECHELEN - FH01;4733929;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Leermarkt;34;;;157989,43;190630,837
+MECHELEN - FH01;3055125;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;3;;;157481,311;190864,582
+MECHELEN - FH01;3030771;8;1;1;10;MDU;D;Y;NA;5;4;;;;;BUILDING template;Befferstraat;19;;Befferstraat 19-23;157944,786;190924,617
+MECHELEN - FH01;3033228;1;0;0;1;SDU;;N;MON;2;9;;;;MON - MON;BUILDING template;Goswin de Stassartstraat;20;;;157816,923;191217,925
+MECHELEN - FH01;3040438;4;0;0;4;MDU;D;Y;NA;4;12;;;;Leermarkt 36: mdu 4lu's,  doorgaande ģevelbekabeling en aansluiting mogelijk. Huisnr 38  is achtergelegen gebouw  1 bu  1 lu,  enkel toegangkelijk via binnenkoer;BUILDING template;Leermarkt;36;;;157991,18;190629,595
+MECHELEN - FH01;3055127;2;0;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;5;;;157475,875;190866,796
+MECHELEN - FH01;1350667;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;38;;;157580,701;190814,473
+MECHELEN - FH01;4740700;1;0;0;1;SDU;;Y;NA;2;7;;;;Verlaten;BUILDING template;Goswin de Stassartstraat;21;;;157776,914;191237,355
+MECHELEN - FH01;3040443;5;1;1;7;MDU;D;Y;NA;6;14;;;;;BUILDING template;Leermarkt;40;;;157993,375;190616,387
+MECHELEN - FH01;4091073;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Thaborstraat;7;;;157473,465;190867,857
+MECHELEN - FH01;3030842;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;40;;;157584,299;190814,916
+MECHELEN - FH01;3033229;3;0;0;3;MDU;D;Y;NA;3;9;;;;;BUILDING template;Goswin de Stassartstraat;23;;;157800,208;191246,261
+MECHELEN - FH01;903150;11;0;1;12;MDU;XC;Y;NA;6;12;;;;Leermarkt 42:  mdu  12 Lu's  1 su, ondergrondse intro via meterlokaal elekrticiteit , plaatsen bdfo, aanleg naar centrale hal, doorvoer naar de trappenhal beginpunt  nieuwe schacht;BUILDING template;Leermarkt;42;;;157994,932;190605,843
+MECHELEN - FH01;935312;1;0;0;1;SDU;;Y;NA;3;14;;;;;BUILDING template;Thaborstraat;10;;;157346,284;190983,766
+MECHELEN - FH01;901428;5;1;1;7;MDU;D;Y;NA;5;18;;;;Befferstraat 23: Mdu  1bu, 5 Lu's ( 4 app en 1 studio achtergelegen op het dak ) 1 su. Doorgaande gevelbekabeling en aansluiting mogelijk  via gevel  6 bouwlagen;BUILDING template;Befferstraat;23;;Befferstraat 19-23;157949,847;190927,969
+MECHELEN - FH01;898134;0;1;0;1;SDU;;N;MON;2;9;;;;MON - MON;BUILDING template;Goswin de Stassartstraat;24;;;157821,244;191233,99
+MECHELEN - FH01;3040448;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Leermarkt;48;;;157998,982;190589,982
+MECHELEN - FH01;4158429;1;0;0;1;SDU;;Y;NA;3;14;;;;;BUILDING template;Thaborstraat;12;;;157344,919;190988,696
+MECHELEN - FH01;3030777;1;1;1;3;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Befferstraat;24;;;157996,101;190914,471
+MECHELEN - FH01;929569;2;0;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Goswin de Stassartstraat;25;;;157803,429;191252,46
+MECHELEN - FH01;3040450;4;0;0;4;MDU;D;Y;NA;4;10;;;;;BUILDING template;Leermarkt;52;;;157998,56;190575,337
+MECHELEN - FH01;3055129;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Thaborstraat;14;;;157343,442;190993,085
+MECHELEN - FH01;6406560;1;0;0;1;MDU;D;Y;NA;1;4;;;;_;BUILDING template;Thaborstraat;29;;Thaborstraat 27-29;157422;190889
+MECHELEN - FH01;4736784;0;1;0;1;MDU;D;Y;NA;2;4;;;Y;Thaborstraat  55-57 1 huisnr  kinderopvang Scheppersinstituut;BUILDING template;Thaborstraat;55;;Thaborstraat 51-55-57;157371;190937
+MECHELEN - FH01;901429;0;1;0;1;SDU;;N;GLASS;5;15;;;;Stad Mechelen;BUILDING template;Befferstraat;25;;;157970,186;190938,722
+MECHELEN - FH01;4737412;0;1;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Goswin de Stassartstraat;26;;;157825,789;191246,509
+MECHELEN - FH01;3040451;1;0;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Leermarkt;54;;;158002,096;190567,154
+MECHELEN - FH01;3055130;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;15;;;157448,069;190872,686
+MECHELEN - FH01;6668749;0;1;0;1;MDU;D;Y;NA;2;4;;;Y;Thaborstraat  55-57 1 huisnr  kinderopvang Scheppersinstituut;BUILDING template;Thaborstraat;57;;Thaborstraat 51-55-57;157367;190940
+MECHELEN - FH01;3030779;2;1;0;3;MDU;D;Y;NA;3;9;;;;;BUILDING template;Befferstraat;26;;;158003,918;190917,275
+MECHELEN - FH01;4740712;1;0;0;1;MDU;D;Y;NA;3;4;;;;;BUILDING template;Goswin de Stassartstraat;27;;Goswin de Stassartstraat 27-27A-29-29A;157796,207;191258,598
+MECHELEN - FH01;3040453;0;1;1;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Leermarkt;56;;Leermarkt 56-58;158002,947;190560,424
+MECHELEN - FH01;4751186;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Thaborstraat;16;;;157340,591;190995,279
+MECHELEN - FH01;905511;1;0;0;1;MDU;D;Y;NA;4;4;;;;Vismarkt 3 lu boven de zaak eigendom van de brouwerij, toegang via de zaak;BUILDING template;Vismarkt;3;;Vismarkt 1-3;157541;190725
+MECHELEN - FH01;6382367;0;0;1;1;MDU;D;Y;NA;2;4;;;Y;;BUILDING template;Wollemarkt;13;;Wollemarkt 11-13;157718;191086
+MECHELEN - FH01;3030780;0;1;0;1;SDU;;N;IRREG;3;9;;;;BE -;BUILDING template;Befferstraat;28;;;158010,416;190919,455
+MECHELEN - FH01;901601;0;1;0;1;SDU;;Y;NA;5;4;;;;;BUILDING template;Goswin de Stassartstraat;28;;;157829,344;191263,218
+MECHELEN - FH01;3040454;0;1;0;1;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Leermarkt;58;;Leermarkt 56-58;158005,078;190554,547
+MECHELEN - FH01;4236745;1;0;0;1;SDU;;Y;NA;3;12;;;;Thaborstraat 17 Sdu 1 Lu-  Individuele  woning van dezelfde huisbaas geen interne verbindingen,  doorgaande gevelbekabeling en aansluiting via gevel mogelijk.;BUILDING template;Thaborstraat;17;;;157448,95;190882,384
+MECHELEN - FH01;6668746;1;0;0;1;MDU;D;Y;NA;2;4;;;Y;Zakstraat 13- 15- 17: mdu Geen toegang(mail) tot gebouw,  geen doorgaande gevelbekabeling mogelijk weigering van toegang in gebouw na contact met de syndicus .;BUILDING template;Zakstraat;17;A;Zakstraat 13-15-17A;158016;190857
+MECHELEN - FH01;3030782;0;1;0;1;SDU;;N;MON;4;4;;;;MON - MON;BUILDING template;Befferstraat;29;;;157978,804;190941,563
+MECHELEN - FH01;4740715;0;1;0;1;MDU;D;Y;NA;3;4;;;;;BUILDING template;Goswin de Stassartstraat;29;;Goswin de Stassartstraat 27-27A-29-29A;157802,142;191262,911
+MECHELEN - FH01;903152;3;0;0;3;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Leermarkt;60;;;158006,494;190549,632
+MECHELEN - FH01;4751193;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Thaborstraat;18;;;157338,628;190997,932
+MECHELEN - FH01;3030783;1;1;0;2;MDU;D;N;MON;3;18;;;;MON -;BUILDING template;Befferstraat;30;;;158016,17;190923,876
+MECHELEN - FH01;3040456;1;1;0;2;MDU;D;N;MON;3;10;;;;MON -;BUILDING template;Leermarkt;62;;;158008,387;190542,401
+MECHELEN - FH01;4736702;1;0;0;1;SDU;;Y;NA;3;12;;;;Thaborstraat 19 Sdu 1 Lu-  Individuele  woning van dezelfde huisbaas geen interne verbindingen,  doorgaande gevelbekabeling en aansluiting via gevel mogelijk.;BUILDING template;Thaborstraat;19;;;157445,172;190884,176
+MECHELEN - FH01;901425;0;1;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Befferstraat;31;;;157983,807;190944,913
+MECHELEN - FH01;3033234;0;1;0;1;SDU;;Y;NA;1;5;;;;;BUILDING template;Goswin de Stassartstraat;33;;;157799,316;191268,759
+MECHELEN - FH01;3054434;1;0;0;1;MDU;C;Y;NA;3;10;;;;Lekkernijstraatje 8  Sdu deel van Bu groep intro en bdfo in huisnr 10. Vanaf de bdfo is doorboring naar neven gelegen  lu ( huisnr 8 mogelijk).;BUILDING template;Lekkernijstraatje;8;;Lekkernijstraatje 8-10;157858,311;190493,264
+MECHELEN - FH01;935313;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Thaborstraat;20;;;157335,344;191001,664
+MECHELEN - FH01;4748726;0;1;0;1;SDU;;Y;MON;2;5;;;;MON -;BUILDING template;Nauwstraat;6;;;157626,142;190681,848
+MECHELEN - FH01;3030785;0;1;0;1;SDU;;Y;NA;4;18;;;;BE -;BUILDING template;Befferstraat;32;;;158022,38;190926,443
+MECHELEN - FH01;3033240;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Goswin de Stassartstraat;45;;;157801,655;191290,375
+MECHELEN - FH01;4246718;2;0;0;2;MDU;XC;Y;NA;3;10;;;;Lekkernijstraatje 8- 10 : Mdu 3 Lu's:Intro door bestaande wachtbuis in de gevel  tot de intro kast die zich  in de gemeenschapelijk inkomhal bevindt van hhieruit zij  zowel 2 Lu's  huisnr 8 als de lu huisnr 10 aansluitbaar..;BUILDING template;Lekkernijstraatje;10;;Lekkernijstraatje 8-10;157853,115;190485,193
+MECHELEN - FH01;4736704;1;0;0;1;SDU;;Y;NA;3;12;;;;Thaborstraat 21 Sdu 1 Lu-  Individuele  woning van dezelfde huisbaas geen interne verbindingen,  doorgaande gevelbekabeling en aansluiting via gevel mogelijk.;BUILDING template;Thaborstraat;21;;;157442,176;190887,152
+MECHELEN - FH01;3030786;0;1;0;1;SDU;;Y;NA;4;4;;;;BE - 35 en 33 in het zelfde gebouw 33 de winkel 35 de twee appartementen;BUILDING template;Befferstraat;33;;;157990,196;190944,909
+MECHELEN - FH01;929621;6;0;0;6;MDU;C;N;IRREG;2;7;;;;In aanbouw - En construction;BUILDING template;Goswin de Stassartstraat;47;;;157799,794;191299,388
+MECHELEN - FH01;3043006;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Melaan;2;;;157505,455;190999,378
+MECHELEN - FH01;4736706;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;23;;;157437,79;190888,573
+MECHELEN - FH01;904578;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Schaalstraat;5;;;157754,668;190696,509
+MECHELEN - FH01;3030788;0;1;0;1;SDU;;Y;NA;3;12;;;;BE - Geen voegen in gevel;BUILDING template;Befferstraat;34;;;158028,016;190931,262
+MECHELEN - FH01;905641;0;3;0;3;MDU;D;Y;NA;3;4;;;;Grootbrug 1 : mdu  3bu's  doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Grootbrug;1;;;157658,121;190643,658
+MECHELEN - FH01;5602939;0;1;0;1;SDU;;N;IRREG;3;10;;;;"Stedelijk conservatorium&amp;amp;period; Melaan Nummer 3-5&amp;amp;period;";BUILDING template;Melaan;3;;;157616,561;190967,002
+MECHELEN - FH01;905707;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;25;;;157434,881;190890,387
+MECHELEN - FH01;4746681;0;1;0;1;SDU;;N;IRREG;1;3;;;;BE - _;BUILDING template;Schoenmarkt;6;;;157750,393;190839,233
+MECHELEN - FH01;3030789;2;0;0;2;MDU;D;Y;NA;4;4;;;;Befferstraat 35: mdu 2 Lu's Doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Befferstraat;35;;;157994,134;190949,118
+MECHELEN - FH01;905639;2;1;0;3;MDU;D;N;MON;3;10;;;;MON - Nummers 2;BUILDING template;Grootbrug;2;;;157639,407;190659,723
+MECHELEN - FH01;905712;1;1;1;3;MDU;D;Y;NA;4;12;;;;Melaan 4: Mdu 1lu 1 bu 1 su ,  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Melaan;4;;;157503,238;190994,365
+MECHELEN - FH01;905706;1;0;0;1;MDU;D;Y;NA;3;4;;;;Thaborstraat 27-29 : mdu  2 individuele sdu  met apparte ingang, sdu 29 is achtergelegen.bereikbaar van dtpf;BUILDING template;Thaborstraat;27;;Thaborstraat 27-29;157430,988;190895,496
+MECHELEN - FH01;3030790;1;0;2;3;MDU;D;N;MON;3;10;;;;MON -;BUILDING template;Befferstraat;37;;Befferstraat 37-39;158001,176;190951,474
+MECHELEN - FH01;905640;0;1;0;1;SDU;;Y;NA;3;10;;;;Grootbrug 3: Sdu  1 bel 1 brievenbus , aansluiting mogelijk vanuit dtpf op gevelscheiding  1 - 3;BUILDING template;Grootbrug;3;;;157655,299;190636,225
+MECHELEN - FH01;4736837;1;0;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Melaan;6;;;157499,479;190987,232
+MECHELEN - FH01;4741830;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Schaalstraat;6;;;157736,621;190686,468
+MECHELEN - FH01;4748711;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;42;;;157587,947;190814,19
+MECHELEN - FH01;3035637;0;1;0;1;SDU;;Y;NA;3;10;;;;Grootbrug  2 4 6 : sdu  boven 4  leegstaand gn ingang;BUILDING template;Grootbrug;6;;;157634,356;190654,189
+MECHELEN - FH01;3043012;1;0;0;1;SDU;;N;IRREG;3;12;;;;BE -;BUILDING template;Melaan;8;;;157496,972;190981,641
+MECHELEN - FH01;5530639;5;0;1;6;MDU;XC;N;IRREG;3;;;;;Sint Jansstraat 8D  deel van Buldinggroep : Aanleg  via garage vanaf de bdfo via bestaande kabelladder naar beginpunt van nieuwe schacht  parallel aan liftkoker  naar 2e  verdieping .. 5 Lu  - 1 Su.;BUILDING template;Sint-Janstraat;8;D;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157906,192;191275,04
+MECHELEN - FH01;3047697;1;0;0;1;SDU;;Y;NA;2;3;;;;_;BUILDING template;Schoolstraat;8;;;157810;191015
+MECHELEN - FH01;3976050;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Begijnenstraat;3;;;157673,555;190887,088
+MECHELEN - FH01;905638;0;1;0;1;SDU;;Y;NA;4;12;;;;Grootbrug 8 sdu  kantoor op  0  en 1   lu  zou ingang hebben via nauwstraat 5;BUILDING template;Grootbrug;8;;;157629,122;190648,646
+MECHELEN - FH01;4736842;1;0;0;1;MDU;D;N;MON;3;4;;;;Deel van het gebouw: mdu  1 bu 1 lu doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Melaan;10;;Melaan 10-12;157490,225;190969,496
+MECHELEN - FH01;4736780;0;1;1;2;MDU;D;N;IRREG;3;20;;;;Thaborstraat 51: sdu  1 bu - deel van  scheppersinstituut (kleuterschool) ondergrondse intro met wachtbuizen voorzien.;BUILDING template;Thaborstraat;51;;Thaborstraat 51-55-57;157391,397;190922,701
+MECHELEN - FH01;5539175;5;0;1;6;MDU;XC;N;IRREG;3;;;;;Sint Jansstraat 8C  deel van Buldinggroep : Aanleg  via garage vanaf de bdfo via bestaande kabelladder naar beginpunt van nieuwe schacht  parallel aan liftkoker  naar 2e  verdieping .. 5 Lu  - 1 Su.;BUILDING template;Sint-Janstraat;8;C;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157903,96;191258,615
+MECHELEN - FH01;3030820;18;0;2;20;MDU;XC;N;GLASS;5;14;;;;Residentie Torenhof  Begijnenstraat 4-6: geen kelder apparte  inkomhal met gescheiden intro's;BUILDING template;Begijnenstraat;4;;;157664,868;190902,068
+MECHELEN - FH01;901190;1;0;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Grote Markt;1;;;157791,005;190911,414
+MECHELEN - FH01;5394338;0;1;0;1;SDU;;N;MON;3;12;;;;MON - 14;BUILDING template;Melaan;14;;;157422,456;190918,788
+MECHELEN - FH01;3055135;1;0;0;1;SDU;;Y;NA;3;12;;;;Geronoveerde gevel;BUILDING template;Thaborstraat;53;;;157373,521;190933,899
+MECHELEN - FH01;5900266;5;0;1;6;MDU;XC;N;IRREG;3;;;;;;BUILDING template;Sint-Janstraat;8;A;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157889,192;191222,007
+MECHELEN - FH01;3030822;1;0;0;1;SDU;;Y;NA;2;10;;;;;BUILDING template;Begijnenstraat;9;;;157663,302;190873,635
+MECHELEN - FH01;458;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Grote Markt;2;;;157774,997;190924,146
+MECHELEN - FH01;905714;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Melaan;26;;;157488,551;190858,413
+MECHELEN - FH01;4736793;2;0;0;2;MDU;D;Y;NA;4;14;;;;Thaborstraat 59: mdu 2 Lu's  Doorgaande gevelbekabeling en aansluiting mogelijk via de gevel.;BUILDING template;Thaborstraat;59;;;157353,194;190937,376
+MECHELEN - FH01;3030824;3;0;0;3;MDU;D;Y;NA;4;12;;;;Begijnenstraat  10 Mdu : 3 LU'S  stijgleiding op gevel 10 vanaf hier doorgaande gevelbekabeling en aansluitingen mogelijk .;BUILDING template;Begijnenstraat;10;;;157656,102;190885,481
+MECHELEN - FH01;3042659;0;1;0;1;SDU;;N;IRREG;3;10;;;;;BUILDING template;Grote Markt;3;;;157793,065;190916,069
+MECHELEN - FH01;3043015;1;1;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Melaan;28;;;157487,373;190852,876
+MECHELEN - FH01;3055137;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Thaborstraat;61;;;157354,589;190943,817
+MECHELEN - FH01;3048598;1;0;0;1;SDU;;Y;NA;3;4;;;;Sint Katelijnestraat 6 : sdu 1 lu  1 bel 1 brievenbus ,  huisnr 4  is de zaak , 6 ingang appartement.;BUILDING template;Sint-katelijnestraat;6;;;157646,096;191062,137
+MECHELEN - FH01;3042661;0;1;0;1;SDU;;N;MON;3;10;;;;MON -;BUILDING template;Grote Markt;4;;;157797,284;190919,81
+MECHELEN - FH01;3043016;3;0;0;3;MDU;D;Y;NA;3;11;;;;Melaan 30: Mdu 3lu's  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Melaan;30;;;157486,227;190848,06
+MECHELEN - FH01;3055139;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;63;;;157354,423;190951,441
+MECHELEN - FH01;3030826;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Begijnenstraat;12;;;157653,586;190881,012
+MECHELEN - FH01;3042662;0;1;0;1;SDU;;N;IRREG;4;12;;;;;BUILDING template;Grote Markt;5;;;157800,189;190924,531
+MECHELEN - FH01;3043018;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Melaan;32;;;157486,806;190842,765
+MECHELEN - FH01;905705;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;65;;;157351,662;190954,98
+MECHELEN - FH01;4238219;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Begijnenstraat;14;;;157650,867;190877,952
+MECHELEN - FH01;901194;0;1;0;1;SDU;;N;MON;3;12;;;;MON -;BUILDING template;Grote Markt;7;;;157823,96;190934,525
+MECHELEN - FH01;4736681;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Melaan;34;;;157489,834;190837,78
+MECHELEN - FH01;935310;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Thaborstraat;67;;;157349,404;190958,851
+MECHELEN - FH01;3042666;0;1;0;1;SDU;;N;MON;3;12;;;;MON -;BUILDING template;Grote Markt;8;;;157828,704;190933,873
+MECHELEN - FH01;3043020;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Melaan;36;;;157490,656;190833,056
+MECHELEN - FH01;4751168;1;0;0;1;SDU;;Y;NA;2;10;;;;In renovatie;BUILDING template;Thaborstraat;69;;;157346,212;190961,805
+MECHELEN - FH01;905283;3;0;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Begijnenstraat;16;;;157645,957;190875,092
+MECHELEN - FH01;4751967;0;1;0;1;SDU;;N;MON;4;15;;;;MON -;BUILDING template;Grote Markt;9;;;157833,5;190931,314
+MECHELEN - FH01;905715;3;0;0;3;MDU;D;Y;NA;4;12;;;;Melaan 38: Mdu 3lu's  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Melaan;38;;;157489,424;190828,435
+MECHELEN - FH01;4751169;2;0;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Thaborstraat;71;;;157338,979;190965,169
+MECHELEN - FH01;4731179;5;1;0;6;MDU;C;Y;NA;3;4;;;;In aanbouw - En construction;BUILDING template;Begijnenstraat;17;;;157645,943;190855,909
+MECHELEN - FH01;3042667;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Grote Markt;10;;;157840,347;190930,503
+MECHELEN - FH01;3043023;1;1;1;3;MDU;D;Y;NA;3;10;;;;Melaan 40 : mdu 1bu  1su  1lu vermoedelijk aangebeld niemand aanwezig  taverne te huur. Doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Melaan;40;;;157490,45;190821,041
+MECHELEN - FH01;4751171;2;0;0;2;MDU;D;Y;NA;3;12;;;;Thaborstraat 71  2 Lu's  1 en 2 verdieping doorgaande gevelbekabeling en aansluitingen mogelijk.  2 Lu's;BUILDING template;Thaborstraat;75;;;157335,132;190973,381
+MECHELEN - FH01;905287;2;1;0;3;MDU;XC;N;MON;3;4;;;;Bestaande glasvezelintro via drabstraat huisnr 16 interne verdeling op glasvezel voor gebouw Acv en gebouw Lindepoort;BUILDING template;Begijnenstraat;18;;;157636,221;190866,528
+MECHELEN - FH01;3042669;0;1;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Grote Markt;11;;;157844,359;190928,425
+MECHELEN - FH01;905289;0;1;0;1;SDU;;N;MON;2;6;;;;MON -;BUILDING template;Minderbroedersgang;1;;;157631,794;190976,637
+MECHELEN - FH01;4084645;1;0;0;1;MDU;D;Y;NA;3;12;;;;Thaborstraat 79 deel van 77  wel apparte ingang apparte  bel , momenteel onbewoond   doorgaande ģevelbekabeling en aansluiting mogelijk.;BUILDING template;Thaborstraat;79;;Thaborstraat 77-79;157330,587;190981,727
+MECHELEN - FH01;3030828;0;1;0;1;SDU;;N;MON;3;10;;;;MON -;BUILDING template;Begijnenstraat;19;;;157641,349;190849,079
+MECHELEN - FH01;3042671;0;1;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Grote Markt;12;;;157847,509;190928,442
+MECHELEN - FH01;5374205;0;1;0;1;SDU;;N;IRREG;3;10;;;;;BUILDING template;Minderbroedersgang;2;;;157594,107;190998,587
+MECHELEN - FH01;4751177;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Thaborstraat;81;;;157325,123;190985,391
+MECHELEN - FH01;3030829;4;0;0;4;MDU;D;N;IRREG;4;12;;;;;BUILDING template;Begijnenstraat;20;;;157630,97;190860,71
+MECHELEN - FH01;3042673;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Grote Markt;13;;;157851,208;190925,133
+MECHELEN - FH01;905290;0;1;0;1;SDU;;N;IRREG;3;12;;;;;BUILDING template;Minderbroedersgang;5;;;157605,214;190951,955
+MECHELEN - FH01;3055143;3;0;0;3;MDU;D;Y;NA;3;12;;;;Thaborstraat 83  3 Lu's  doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Thaborstraat;83;;;157320,333;190992,736
+MECHELEN - FH01;3030831;2;0;0;2;MDU;D;N;MON;3;10;;;;MON -;BUILDING template;Begijnenstraat;21;;;157637,909;190842,877
+MECHELEN - FH01;923250;2;1;1;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Grote Markt;14;;;157857,219;190921,853
+MECHELEN - FH01;3043171;0;1;0;1;SDU;;N;IRREG;3;10;;;;;BUILDING template;Minderbroedersgang;10;;;157579,702;190995,578
+MECHELEN - FH01;905288;0;1;0;1;SDU;;N;GLASS;4;14;;;;BE -;BUILDING template;Begijnenstraat;22;;;157618,609;190849,384
+MECHELEN - FH01;3042675;2;1;1;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Grote Markt;15;;;157862,22;190920,375
+MECHELEN - FH01;905291;1;2;1;4;MDU;C;N;MON;3;10;;;;MON -;BUILDING template;Minderbroedersgang;12;;;157556,833;191015,668
+MECHELEN - FH01;905716;2;1;1;4;MDU;C;N;MON;4;4;;;;Geen toegang  contact met beheerder gebouw omwille van dreiging  corona zie mail.;BUILDING template;Tichelrij;1;;Tichelrij 1-1A;157453,624;190808,235
+MECHELEN - FH01;4082899;3;0;0;3;MDU;D;N;MON;3;4;;;;MON -;BUILDING template;Begijnenstraat;23;;;157635,21;190838,784
+MECHELEN - FH01;901195;0;1;0;1;SDU;;Y;NA;4;15;;;;;BUILDING template;Grote Markt;16;;;157866,957;190918,926
+MECHELEN - FH01;3043719;1;1;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Nauwstraat;4;;;157631,514;190678,81
+MECHELEN - FH01;905717;3;0;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Tichelrij;2;;;157449,301;190812,324
+MECHELEN - FH01;3030832;1;0;0;1;SDU;;N;IRREG;3;10;;;;;BUILDING template;Begijnenstraat;25;;;157633,099;190832,59
+MECHELEN - FH01;901196;0;1;0;1;SDU;;N;MON;3;4;;;;Grote markt 17:  sdu  1 bu  aparte  ingang kantoor -  Grote markt 17A :  sdu  1 Lu  aparte  ingang .;BUILDING template;Grote Markt;17;;;157873,865;190914,432
+MECHELEN - FH01;3043720;5;1;1;7;MDU;C;N;MON;3;4;;;;MON -;BUILDING template;Nauwstraat;5;;;157616,557;190667,175
+MECHELEN - FH01;4241214;2;0;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Tichelrij;3;;;157443,787;190816,824
+MECHELEN - FH01;4748712;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE - Nr 44-46 zelfde gebouw met 2 brievenbussen;BUILDING template;Begijnenstraat;44;;;157592,06;190816,182
+MECHELEN - FH01;901198;1;1;1;3;MDU;D;Y;NA;3;4;;;;Grote markt 18  : mdu 1 bu 1 su  1 lu(concierge)  doorgaande gevelbekabeling en aansluitingen mogelijk .;BUILDING template;Grote Markt;18;;;157878,29;190914,33
+MECHELEN - FH01;3043721;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Nauwstraat;7;;;157611,148;190671,271
+MECHELEN - FH01;905648;1;0;0;1;SDU;;N;IRREG;3;4;;;;BE -;BUILDING template;Begijnenstraat;48;;;157599,31;190814,393
+MECHELEN - FH01;3030835;6;0;0;6;MDU;D;Y;NA;4;12;;;;;BUILDING template;Begijnenstraat;29;;;157626,679;190820,032
+MECHELEN - FH01;901197;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Grote Markt;19;;;157882,808;190913,358
+MECHELEN - FH01;905662;2;2;0;4;MDU;XC;N;MON;3;20;;;;Nauwstraat 9 mdu  1bu 2 Lu's : cat 5e bekabeling  in bestaande schacht aangelegd  naar de Lu's , aanleg via de afgewerkte traphal niet gewenst.  Geweigerd door eigenaar .;BUILDING template;Nauwstraat;9;;Nauwstaat 9-11;157605,197;190675,367
+MECHELEN - FH01;3050150;2;0;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Tichelrij;5;;;157429,73;190821,942
+MECHELEN - FH01;905644;2;0;0;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Begijnenstraat;31;;;157620,369;190810,664
+MECHELEN - FH01;5431501;0;1;0;1;SDU;;N;MON;4;4;;;;MON -;BUILDING template;Grote Markt;20;;;157891,592;190910,175
+MECHELEN - FH01;3043722;1;1;0;2;MDU;D;Y;NA;3;8;;;;In aanbouw - En construction  mdu 1 bu  vermoedelijk 2 lu  doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Nauwstraat;10;;;157621,922;190684,63
+MECHELEN - FH01;3050151;7;0;1;8;MDU;D;Y;NA;5;14;;;;;BUILDING template;Tichelrij;6;;;157419,191;190827,143
+MECHELEN - FH01;3051136;20;0;2;22;MDU;XA;N;IRREG;5;17;;;;Appart mdu op zelfde kelder samen met Varkenstraat 12 en 14, zelfde intro via huisnr 16. Plaatsen Bdfo in tellerlokaal blok 16 aanleg van nieuwe schacht via;BUILDING template;Varkensstraat;16;;Varkensstraat 8-9-10-11-12-13-14-16;158012,15;190981,577
+MECHELEN - FH01;4748713;1;0;0;1;SDU;;N;IRREG;2;7;;;;BE - _;BUILDING template;Begijnenstraat;46;;;157596,499;190815,286
+MECHELEN - FH01;905043;0;1;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Grote Markt;23;;;157886,653;190827,828
+MECHELEN - FH01;3043723;0;1;0;1;MDU;C;N;MON;3;20;;;;Mdu samen met 9  apparte ingang,  ondergrondse intro enlel cat 5e bekabeling naar Lu's   zie ssv Nauwstaat 9;BUILDING template;Nauwstraat;11;;Nauwstaat 9-11;157599,478;190679,154
+MECHELEN - FH01;3050152;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Tichelrij;7;;;157410,815;190831,639
+MECHELEN - FH01;4205021;6;0;1;7;MDU;XC;Y;NA;4;12;;;;Begijnenstraat 33: Mdu 6Lu's, 1Su  blok links vooraan naast de ingang ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (vuilnis  onder trappenhuis) doorboring naar gelijkvloerse verdieping . Aanleg in bestaande  doorgaande dlpgoot  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;33;;Begijnenstraat 33-35-37-39-41-43-43A;157611,299;190798,71
+MECHELEN - FH01;3031638;1;1;1;3;MDU;D;Y;NA;4;12;;;;18 en 20 zelfde gebouw -  nr 20 bestaat niet meer;BUILDING template;Desire Boucherystraat;18;;;157953,935;190772,727
+MECHELEN - FH01;4748736;0;1;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Nauwstraat;12;;;157614,219;190689,363
+MECHELEN - FH01;3050154;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Tichelrij;8;;;157403,111;190836,977
+MECHELEN - FH01;3031640;1;1;0;2;MDU;D;Y;NA;3;18;;;;;BUILDING template;Desire Boucherystraat;22;;;157954,275;190768,78
+MECHELEN - FH01;3031641;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Désiré Boucherystraat;24;;;157952,237;190765,489
+MECHELEN - FH01;905660;0;2;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Nauwstraat;14;;;157607,117;190693,213
+MECHELEN - FH01;3050156;4;0;0;4;MDU;D;Y;NA;3;12;;;;Tichelrij 9: mdu  4 Lu's-   4 bussen( 2 zelfde naam)  4 bellen   Doorgaande gevelbekabeling en aansluiting mogelijk .;BUILDING template;Tichelrij;9;;;157396,315;190840,925
+MECHELEN - FH01;1459413;6;0;1;7;MDU;XC;Y;NA;4;10;;;;Begijnenstraat 35: Mdu 6Lu's, 1Su  blok links vooraan,  ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (vuilnis  onder trappenhuis) doorboring naar gelijkvloerse verdieping . Aanleg in bestaande  doorgaande dlpgoot  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;35;;Begijnenstraat 33-35-37-39-41-43-43A;157606,07;190789,881
+MECHELEN - FH01;3042690;0;1;0;1;SDU;;N;MON;4;4;;;;"MON - MON &amp;amp;amp;period; Her is geen LU";BUILDING template;Grote Markt;29;;;157824,43;190835,058
+MECHELEN - FH01;935327;6;0;0;6;MDU;D;Y;NA;4;4;;;;;BUILDING template;Nieuwe Beggaardenstraat;1;;;157500,774;191195,006
+MECHELEN - FH01;919855;0;1;0;1;SDU;;Y;NA;3;9;;;Y;;BUILDING template;Désiré Boucherystraat;26;;;157952,49;190762,157
+MECHELEN - FH01;3943991;3;0;0;3;MDU;D;Y;NA;4;4;;;;_;BUILDING template;Désiré Boucherystraat;28;;;157957;190759
+MECHELEN - FH01;4053796;7;0;2;9;MDU;XC;Y;NA;4;4;;;;Nieuwe Begaardenstraat 7 : Mdu 7Lu's 1 su.  Deel van Bgroup : ondergrondse intro via Begaardenstraat 7 aanleg v/e schacht , plaatsing  van de Bdfo (kelder Stadheimelijkheid 3)  aanlegv/d horizontale schacht via kelder (plan) . Aanleg v/d verticale schacht via trappenhal (zelfde weg als de brandleiding)  naar de verdiepingen.;BUILDING template;Nieuwe Beggaardenstraat;7;;Nieuwe Begaardenstraat 7-9_Stadsheimelijkheid 3-5;157491,209;191185,825
+MECHELEN - FH01;1461368;6;0;1;7;MDU;XC;Y;NA;3;10;;;;Begijnenstraat 37: Mdu 6Lu's, 1Su  blok links achteraan,  ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (vuilnis  onder trappenhuis) doorboring naar gelijkvloerse verdieping . Aanleg in bestaande  doorgaande dlpgoot  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;37;;Begijnenstraat 33-35-37-39-41-43-43A;157602,958;190783,985
+MECHELEN - FH01;1283309;3;0;0;3;MDU;D;Y;NA;3;4;;;;Dobbelhuizen 52: mdu 3 Lu's Doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Dobbelhuizen;52;;;157289,989;190982,826
+MECHELEN - FH01;4739222;0;1;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Nieuwe Beggaardenstraat;13;;;157466,802;191174,269
+MECHELEN - FH01;901168;1;0;0;1;SDU;;N;MON;2;;;;;MON -;BUILDING template;Standonckstraat;13;;;157858,905;190967,792
+MECHELEN - FH01;6463529;3;0;0;3;MDU;C;Y;NA;4;12;;;;_;BUILDING template;Drabstraat;8;B;Drabstraat 6A-8-8A-8B;157547,04;190792,914
+MECHELEN - FH01;3042695;0;1;0;1;SDU;;N;MON;4;4;;;;MON - MON;BUILDING template;Grote Markt;32;;;157801,541;190834,457
+MECHELEN - FH01;935328;3;2;1;6;MDU;D;Y;NA;3;22;;;;;BUILDING template;Nieuwe Beggaardenstraat;15;;;157460,583;191165,876
+MECHELEN - FH01;905718;4;0;0;4;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Tichelrij;15;;;157351,487;190869,869
+MECHELEN - FH01;3030841;6;0;1;7;MDU;XC;Y;NA;3;10;;;;Begijnenstraat 39: Mdu 6Lu's, 1Su  blok midden achteraan, ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (vuilnis  onder trappenhuis) doorboring naar gelijkvloerse verdieping . Aanleg in bestaande  doorgaande dlpgoot  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;39;;Begijnenstraat 33-35-37-39-41-43-43A;157600,654;190778,879
+MECHELEN - FH01;3042699;0;1;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Grote Markt;34;;;157800,67;190844,773
+MECHELEN - FH01;930551;3;0;0;3;MDU;D;Y;NA;4;22;;;;;BUILDING template;Nieuwe Beggaardenstraat;17;;;157452,084;191159,964
+MECHELEN - FH01;3050146;5;0;1;6;MDU;C;N;MON;4;12;;;;Tichelrij 1- 1A;BUILDING template;Tichelrij;1;A;Tichelrij 1-1A;157464,453;190829,783
+MECHELEN - FH01;5776141;6;0;2;8;MDU;C;Y;NA;3;9;;;;;BUILDING template;Drabstraat;6;A;Drabstraat 6A-8-8A-8B;157549,724;190774,691
+MECHELEN - FH01;3042700;0;1;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Grote Markt;35;;;157796,979;190847,796
+MECHELEN - FH01;4247635;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Nieuwe Beggaardenstraat;19;;;157449,63;191156,544
+MECHELEN - FH01;4737549;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Van Hoeystraat;5;;;157983,165;191265,516
+MECHELEN - FH01;903518;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Korte schipstraat;4;;;157883,856;190564,704
+MECHELEN - FH01;3943977;6;0;1;7;MDU;XC;Y;NA;3;10;;;;Begijnenstraat 41: Mdu 6Lu's, 1Su  blok rechts achteraan,  ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (vuilnis  onder trappenhuis) doorboring naar gelijkvloerse verdieping . Aanleg in bestaande  doorgaande dlpgoot  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;41;;Begijnenstraat 33-35-37-39-41-43-43A;157597,488;190773,506
+MECHELEN - FH01;3042701;0;1;0;1;SDU;;N;MON;4;12;;;;MON -;BUILDING template;Grote Markt;36;;;157793,127;190850,923
+MECHELEN - FH01;4733077;0;1;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Nieuwe Beggaardenstraat;21;;;157446,09;191153,295
+MECHELEN - FH01;898130;1;1;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Van Hoeystraat;7;;;157973,535;191270,972
+MECHELEN - FH01;905651;1;0;0;1;MDU;C;Y;NA;3;10;;;;"8&amp;amp;equals;1LU";BUILDING template;Drabstraat;8;;Drabstraat 6A-8-8A-8B;157539,256;190809,967
+MECHELEN - FH01;5904645;1;0;0;1;MDU;C;Y;NA;3;10;;;;"8&amp;amp;equals;1LU";BUILDING template;Drabstraat;8;A;Drabstraat 6A-8-8A-8B;157549,377;190783,941
+MECHELEN - FH01;4733080;0;1;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Nieuwe Beggaardenstraat;23;;;157441,484;191150,27
+MECHELEN - FH01;3042686;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Grote Markt;27;;;157839,916;190832,779
+MECHELEN - FH01;3047556;5;0;0;5;MDU;D;Y;NA;4;12;;;;;BUILDING template;Korte schipstraat;6;;;157880,99;190562,089
+MECHELEN - FH01;1351370;3;0;1;4;MDU;XC;Y;NA;3;10;;;;Begijnenstraat 43: Mdu 3Lu's, 1Su  blok rechts vooraan,  ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (rechts in inkomhal ) doorboring naar gelijkvloerse verdieping . Aanleg nieuwe dlpgoot naar trappenhal  doorgaande dlpgoot,  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;43;;Begijnenstraat 33-35-37-39-41-43-43A;157594,156;190768,135
+MECHELEN - FH01;3042688;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Grote Markt;28;;;157832,952;190833,692
+MECHELEN - FH01;930422;0;1;0;1;SDU;;N;MON;4;18;;;;MON - MON;BUILDING template;Nieuwe Beggaardenstraat;29;;;157393,133;191096,483
+MECHELEN - FH01;4731662;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Van Hoeystraat;19;;;157907,54;191301,257
+MECHELEN - FH01;3042692;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Grote Markt;30;;;157819,022;190835,968
+MECHELEN - FH01;904902;0;1;0;1;SDU;;N;MON;4;4;;;;MON -;BUILDING template;Grote Markt;39;;;157781,453;190854,749
+MECHELEN - FH01;3030800;2;0;0;2;MDU;D;Y;NA;3;18;;;;Nieuwe Beggaardenstraat 31: Mdu  2 Lu's  doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Nieuwe Beggaardenstraat;31;;;157387,663;191086,999
+MECHELEN - FH01;4731664;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Van Hoeystraat;21;;;157893,17;191296,443
+MECHELEN - FH01;901180;1;0;0;1;MDU;D;N;MON;2;10;;;;MON - Gebouwengroep 21 en 23 vermoedelijk;BUILDING template;Frederik de Merodestraat;23;;Frederik de Merodestraat 21-23;157838,982;191001,398
+MECHELEN - FH01;4748677;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Begijnenstraat;45;;;157578,695;190746,718
+MECHELEN - FH01;905040;0;1;0;1;SDU;;N;MON;2;4;;;;MON -;BUILDING template;Hallestraat;2;;;157895,031;190831,652
+MECHELEN - FH01;3030803;1;0;0;1;SDU;;Y;NA;3;18;;;;BE -;BUILDING template;Nieuwe Beggaardenstraat;33;;;157380,206;191080,206
+MECHELEN - FH01;4731666;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Van Hoeystraat;23;;;157886,788;191293,829
+MECHELEN - FH01;3042694;0;1;0;1;SDU;;Y;NA;5;4;;;;BE -;BUILDING template;Grote Markt;31;;;157810,691;190837,052
+MECHELEN - FH01;3042702;0;1;0;1;MDU;D;Y;NA;4;14;;;;Grote markt 37-38  mdu  1 bu 1 lu  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Grote Markt;37;;Grote Markt 37-38;157790,779;190853,199
+MECHELEN - FH01;930421;0;1;0;1;SDU;;Y;NA;3;22;;;;BE -;BUILDING template;Nieuwe Beggaardenstraat;35;;;157373,354;191071,927
+MECHELEN - FH01;5838515;1;0;0;1;SDU;;N;IRREG;3;9;;;;"Buildinggroup 25&amp;amp;lowbar;27";BUILDING template;Van Hoeystraat;25;;;157875,746;191288,703
+MECHELEN - FH01;3047664;2;0;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Lange schipstraat;81;;;157887,174;190399,735
+MECHELEN - FH01;905645;10;2;1;13;MDU;XC;N;ORN;5;14;;;;BE - 50A is zelfde gebouw en een appartementsblok van 8LUs;BUILDING template;Begijnenstraat;50;;Begijnenstraat 50-50A;157579,145;190778,803
+MECHELEN - FH01;3944054;3;1;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Hallestraat;16;;;157937,263;190824,049
+MECHELEN - FH01;930420;0;1;1;2;MDU;C;Y;NA;2;12;;;;37 en 39;BUILDING template;Nieuwe Beggaardenstraat;37;;Nieuwe Beggaardenstraat 37-39;157364,34;191058,433
+MECHELEN - FH01;5838514;10;0;1;11;MDU;XC;Y;NA;3;9;;;;Van Hoeystraat 27 : mdu  11Lu's, 1 su - Ondergrondse intro via smartube, doorvoer naar centrale traphal  , aanleg van nieuwe schacht mogelijk.;BUILDING template;Van Hoeystraat;27;;;157862,442;191281,009
+MECHELEN - FH01;3944182;5;0;0;5;MDU;D;Y;NA;3;10;;;;;BUILDING template;Lange schipstraat;87;;;157895,97;190388,474
+MECHELEN - FH01;905643;5;0;0;5;MDU;D;Y;NA;4;12;;;;;BUILDING template;Begijnenstraat;52;;;157569,951;190754,584
+MECHELEN - FH01;3030808;0;1;1;2;MDU;D;Y;NA;3;25;;;;In aanbouw - En construction;BUILDING template;Nieuwe Beggaardenstraat;41;;;157345,852;191033,389
+MECHELEN - FH01;5838513;1;0;0;1;SDU;;Y;NA;3;8;;;;;BUILDING template;Van Hoeystraat;29;;;157852,665;191277,483
+MECHELEN - FH01;3030844;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Begijnenstraat;56;;;157566,322;190747,551
+MECHELEN - FH01;3036250;1;0;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Hazestraat;5;;;157979,515;190517,053
+MECHELEN - FH01;930419;0;1;0;1;SDU;;N;ORN;3;18;;;;;BUILDING template;Nieuwe Beggaardenstraat;43;;;157338,706;191019,61
+MECHELEN - FH01;4731669;1;0;0;1;SDU;;Y;NA;2;7;;;;;BUILDING template;Van Hoeystraat;31;;;157846,815;191275,079
+MECHELEN - FH01;3047649;1;0;0;1;MDU;D;Y;NA;3;9;;;;_;BUILDING template;Lange Schipstraat;71;;Lange Schipstraat 71-73;157873,358;190417,931
+MECHELEN - FH01;905642;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Begijnenstraat;58;;;157564,545;190744,459
+MECHELEN - FH01;3036251;1;0;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Hazestraat;7;;;157985,208;190519,208
+MECHELEN - FH01;5394328;0;1;0;1;SDU;;N;IRREG;1;3;;;;;BUILDING template;Nieuwe Beggaardenstraat;45;;;157357,956;191002,784
+MECHELEN - FH01;905322;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Varkensstraat;1;;;157930,376;191053,441
+MECHELEN - FH01;905285;1;0;0;1;SDU;;N;IRREG;4;12;;;;Huis in opbouw;BUILDING template;Begijnenstraat;27;A;;157630,442;190827,877
+MECHELEN - FH01;4751397;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Hazestraat;8;;;157969,801;190496,607
+MECHELEN - FH01;901204;0;1;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Nieuwwerk;1;;;157785,009;190952,514
+MECHELEN - FH01;4073865;3;0;0;3;MDU;D;Y;NA;3;15;;;;BE -;BUILDING template;Varkensstraat;3;;;157933,432;191051,308
+MECHELEN - FH01;3047662;1;0;0;1;MDU;D;Y;NA;5;9;;;;_;BUILDING template;Lange Schipstraat;79;;Lange Schipstraat 77-79;157886,232;190407,594
+MECHELEN - FH01;3048616;1;0;0;1;SDU;;N;MON;3;4;;;;MON - _;BUILDING template;Sint-Katelijnestraat;29;;;157585,829;191136,129
+MECHELEN - FH01;3943978;6;0;1;7;MDU;XC;N;IRREG;4;12;;;;Begijnenstraat 43A: Mdu 6Lu's, 1Su  blok rechts  vooraan naast de ingang ondergrondse intro plaatsen bdfo in technische kelder(watermeters). Via bestaande kabelladder  kunnen de individuele blokken aangesloten worden  doorboring naar  berging (vuilnis  onder trappenhuis) doorboring naar gelijkvloerse verdieping . Aanleg in bestaande  doorgaande dlpgoot  via trappenhuis naar de Lu's  op de verdiepingen mogelijk.;BUILDING template;Begijnenstraat;43;A;Begijnenstraat 33-35-37-39-41-43-43A;157587,766;190760,201
+MECHELEN - FH01;3036253;1;0;0;1;SDU;;Y;NA;3;12;;;;BE -;BUILDING template;Hazestraat;9;;;157990,477;190521,163
+MECHELEN - FH01;3044665;3;1;1;5;MDU;D;Y;NA;3;12;;;;Nieuwwerk 2 : Mdu 1bu ,3lu's (2 app 1 studio onder dak) 1 su,  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Nieuwwerk;2;;;157789,732;190958,718
+MECHELEN - FH01;4745458;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Varkensstraat;5;;;157940,206;191046,712
+MECHELEN - FH01;3033487;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Dobbelhuizen;27;;;157289,395;190940,435
+MECHELEN - FH01;3055141;3;0;0;3;MDU;D;Y;NA;3;3;;;;Thaborstraat 77  3 Lu's  doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Thaborstraat;77;;Thaborstraat 77-79;157330,686;190979,49
+MECHELEN - FH01;901609;1;0;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Biest;2;;;157987,915;191143,798
+MECHELEN - FH01;3036255;1;0;0;1;SDU;;N;MON;3;4;;;;MON - Herenhuis;BUILDING template;Hazestraat;10;;;157982,096;190500,423
+MECHELEN - FH01;5403847;0;1;0;1;SDU;;Y;NA;2;4;;;;BE - Te koop en verlaten;BUILDING template;Nieuwwerk;6;;;157792,205;191005,615
+MECHELEN - FH01;3051124;0;1;0;1;SDU;;N;MON;4;14;;;;Intro van de backuplijn;BUILDING template;Varkensstraat;6;;;157931,536;191030,568
+MECHELEN - FH01;5515790;1;1;0;2;MDU;D;Y;NA;2;12;;;;Klapgat 2 _ Goswin de stassaertstraat 4 _Sint janskerkhof  1 (wordt  2)Mdu : 2bu's en 3 Lu's : Doorgaande gevelbekabeling(bestaande coax) en aansluiting mogelijk,  alle (woon)units komen aan de  straatzijde;BUILDING template;Sint-Janskerkhof;1;;;157854;191121
+MECHELEN - FH01;3031078;1;0;0;1;SDU;;Y;NA;3;9;;;;BE -;BUILDING template;Biest;4;;;157993,015;191138,647
+MECHELEN - FH01;3036256;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Hazestraat;11;;;157996,186;190522,299
+MECHELEN - FH01;3044667;0;1;0;1;SDU;;Y;NA;2;8;;;;"BE - Te koop&amp;amp;amp;amp;period; Gebouw komt uit in de schoolstraat&amp;amp;amp;amp;period;";BUILDING template;Nieuwwerk;7;;;157802,965;191013,35
+MECHELEN - FH01;905321;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Varkensstraat;7;;;157945,923;191043,098
+MECHELEN - FH01;6192370;6;0;0;6;MDU;C;N;IRREG;4;10;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;40;;Sint-Katelijnestraat 40-42;157574,993;191162,611
+MECHELEN - FH01;4731741;1;0;0;1;SDU;;N;IRREG;3;10;;;;BE - Gevel geronoveerd;BUILDING template;Biest;6;;;157995,971;191135,26
+MECHELEN - FH01;3036258;1;0;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Hazestraat;12;;;157995,972;190506,099
+MECHELEN - FH01;5374207;0;1;0;1;SDU;;N;MON;2;8;;;;"MON - Verlaten en te koop&amp;amp;amp;period; Gebouw komt uit in de schoolstraat";BUILDING template;Nieuwwerk;8;;;157790,187;190995,4
+MECHELEN - FH01;3051129;32;1;2;35;MDU;XA;N;HEIGHT;6;21;;;;De gebouwen zijn onderkelderd   plaatsing van de Bdfo mogelijk in tellerlokaal , aanleg van nieuwe schacht via de lifthal mogelijk plaatsen van floorbox op elk verdieping.;BUILDING template;Varkensstraat;9;;Varkensstraat 8-9-10-11-12-13-14-16;157964,59;191036,6
+MECHELEN - FH01;901612;1;1;1;3;MDU;D;Y;NA;4;12;;;;Biest 10 : Mdu 1 bu 1 lu (zelfde toegangsdeur  2 units) doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Biest;10;;;158001,285;191128,375
+MECHELEN - FH01;905239;1;0;0;1;SDU;;Y;NA;3;11;;;;BE -;BUILDING template;Hazestraat;13;;;158000,559;190523,119
+MECHELEN - FH01;5414784;1;0;0;1;SDU;;Y;NA;2;6;;;;Gebouw komt uit in de schoolstraat;BUILDING template;Nieuwwerk;9;;;157823,189;191002,041
+MECHELEN - FH01;3051134;27;0;2;29;MDU;XA;N;HEIGHT;6;20;;;;Varkensstraat 11: Mdu    21Lu ,  3Bu,  1 Su-  ondergrondse intro via huisnr9 . (Bld groep)  horizontale kabelgoot via  kelder naar tellerlokaal .;BUILDING template;Varkensstraat;11;;Varkensstraat 8-9-10-11-12-13-14-16;157987,197;191051,013
+MECHELEN - FH01;4731497;5;0;1;6;MDU;XC;N;IRREG;3;10;;;;Lange schipstraat 88- 90;BUILDING template;Lange Schipstraat;88;;Lange Schipstraat 88-90;157864,945;190391,668
+MECHELEN - FH01;904912;2;1;1;4;MDU;D;Y;NA;4;15;;;;"Blauwhondstaat 1 : Mdu 1Bu, 2 Lu's  ; doorgaande gevelbekabeling en aansluitingen mogelijk(  momenteel  ombouw van bestaande  Lu  naar 2 units)";BUILDING template;Blauwhondstraat;1;;;157765,55;190780,24
+MECHELEN - FH01;3036260;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Hazestraat;14;;;158002,485;190508,25
+MECHELEN - FH01;3044668;0;1;1;2;MDU;D;Y;NA;2;10;;;;Doorgaande gevelbekabeling;BUILDING template;Nieuwwerk;10;;;157810,277;191004,319
+MECHELEN - FH01;5543967;4;0;1;5;MDU;XC;N;IRREG;4;16;;;;;BUILDING template;Varkensstraat;15;;;158016,961;190998,504
+MECHELEN - FH01;3031270;3;1;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Blauwhondstraat;3;;;157770,821;190774,984
+MECHELEN - FH01;3036262;3;0;0;3;MDU;D;Y;NA;4;12;;;;Hazestraat 16: mdu  3lu  doorgaande gevelbekabeling mogelijk en aansluotingen mogelijk .;BUILDING template;Hazestraat;16;;;158006,836;190510,37
+MECHELEN - FH01;3044669;0;1;1;2;MDU;D;Y;NA;2;10;;;;BE - Buildinggroup;BUILDING template;Nieuwwerk;11;;;157810,61;190993,118
+MECHELEN - FH01;3051139;0;1;0;1;SDU;;N;ORN;5;15;;;;Verzekeringskantoor;BUILDING template;Veemarkt;1;;;158028,179;190968,817
+MECHELEN - FH01;3031272;3;1;0;4;MDU;D;Y;NA;4;12;;;;;BUILDING template;Blauwhondstraat;5;;;157776,481;190772,204
+MECHELEN - FH01;905241;3;1;0;4;MDU;D;Y;NA;3;10;;;;Gevel word binnenkort geronoveerd;BUILDING template;Hazestraat;20;;;158014,559;190513,425
+MECHELEN - FH01;905278;1;1;0;2;MDU;D;N;MON;4;18;;;;MON - MON;BUILDING template;Onder-den-Toren;1;;;157686,6;190923,076
+MECHELEN - FH01;901430;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Veemarkt;2;;;158045,023;190941,26
+MECHELEN - FH01;3031273;0;1;0;1;MDU;D;Y;NA;4;14;;;;Nummer 7 en 9 samen 7 is beneden de kantoor  9 zijn boven de huis;BUILDING template;Blauwhondstraat;7;;Blauwhondstraat 7-9;157781,459;190765,096
+MECHELEN - FH01;904922;0;1;0;1;SDU;;Y;NA;4;15;;;;BE -;BUILDING template;Ijzerenleen;1;;;157767,554;190799,86
+MECHELEN - FH01;3045165;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Onder-den-Toren;2;;;157681,988;190922,47
+MECHELEN - FH01;901431;0;1;0;1;SDU;;Y;NA;3;9;;;;BE - Gebouw op de hoek;BUILDING template;Veemarkt;3;;;158042,806;190978,159
+MECHELEN - FH01;901202;1;0;0;1;SDU;;Y;NA;2;4;;;;Ingang langs doorgang achteraan;BUILDING template;Wollemarkt;14;;;157784,29;191051,873
+MECHELEN - FH01;3031275;3;1;0;4;MDU;D;Y;NA;4;14;;;;;BUILDING template;Blauwhondstraat;11;;;157789,151;190766,328
+MECHELEN - FH01;3037607;3;1;0;4;MDU;D;Y;NA;4;12;;;;"Ijzerleen 2: mdu 1 Bu 3 Lu&amp;apos;s Doorgaande gevelbekabeling en aansluiting via gevel mogelijk.";BUILDING template;Ijzerenleen;2;;;157728,814;190828,759
+MECHELEN - FH01;3051142;0;1;0;1;SDU;;Y;NA;3;9;;;;BE -;BUILDING template;Veemarkt;5;;;158045,923;190983,306
+MECHELEN - FH01;3031278;0;1;0;1;SDU;;Y;NA;3;15;;;;BE - 15 is de winkel beneden 17 zijn de appartementen boven;BUILDING template;Blauwhondstraat;15;;;157792,595;190759,795
+MECHELEN - FH01;3037608;0;1;0;1;SDU;;Y;NA;4;15;;;;BE -;BUILDING template;Ijzerenleen;3;;;157762,735;190797,115
+MECHELEN - FH01;3045166;0;1;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Onder-den-Toren;4;;;157676,004;190929,214
+MECHELEN - FH01;3051143;2;1;1;4;MDU;D;Y;NA;3;4;;;;BE -;BUILDING template;Veemarkt;7;;;158050,147;190988,78
+MECHELEN - FH01;5547298;0;1;0;1;SDU;;N;HEIGHT;2;;;;;_;BUILDING template;Sint-Romboutskerkhof;6;;;157674;191028
+MECHELEN - FH01;904913;0;1;0;1;SDU;;Y;NA;2;10;;;;De winkel beneden nummer 23 huis boven op nummer 21;BUILDING template;Blauwhondstraat;21;;;157797,723;190753,538
+MECHELEN - FH01;905273;5;1;0;6;MDU;D;Y;NA;3;16;;;;In aanbouw - En construction;BUILDING template;Ijzerenleen;4;;;157726,453;190823,415
+MECHELEN - FH01;3045168;0;1;0;1;SDU;;Y;NA;3;4;;;;Nummer 3 4 en 5 in het zelfde gebouw  Christelijk Mutualiteit;BUILDING template;Onder-den-Toren;5;;;157577,527;190848,167
+MECHELEN - FH01;3051149;1;1;1;3;MDU;D;Y;NA;3;4;;;;BE -;BUILDING template;Veemarkt;13;;;158059,958;190996,85
+MECHELEN - FH01;3040449;4;0;6;10;MDU;D;Y;NA;5;4;;;;Leermarkt 50:  mdu  4lu's  11 Bu   5 gebruikt  niet gecheckt gn toegang winkels.;BUILDING template;Leermarkt;50;;;157995,353;190583,907
+MECHELEN - FH01;904914;0;1;0;1;SDU;;Y;NA;3;15;;;;BE -;BUILDING template;Blauwhondstraat;25;;;157804,66;190751,627
+MECHELEN - FH01;3037611;1;1;0;2;MDU;D;Y;NA;4;15;;;;Ijzerleen 5: mdu 1 bu , mogelijk 1 lu  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Ijzerenleen;5;;;157760,909;190793,612
+MECHELEN - FH01;3045170;1;1;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Onder-den-Toren;6;;;157673,738;190934,536
+MECHELEN - FH01;3051152;0;1;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Veemarkt;15;;;158063,3;191002,002
+MECHELEN - FH01;6518670;0;1;0;1;SDU;;N;IRREG;3;4;;;;_;BUILDING template;Sint-Romboutskerkhof;2;A;;157700,967;191071,688
+MECHELEN - FH01;5403850;0;1;0;1;SDU;;Y;NA;3;14;;;;BE -;BUILDING template;Blauwhondstraat;27;;;157811,252;190749,239
+MECHELEN - FH01;3037612;1;1;0;2;MDU;D;Y;NA;4;12;;;;"Ijzerleen 4-6 : ombouw naar  1 bu  5 Lu&amp;apos;s,   doorgaande ?evelbekabeling  en aansluiting via gevel mogelijk.";BUILDING template;Ijzerenleen;6;;;157723,172;190816,605
+MECHELEN - FH01;3045171;0;1;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Onder-den-Toren;7;;;157670,06;190936,83
+MECHELEN - FH01;3051155;2;1;0;3;MDU;D;Y;NA;3;12;;;;BE -;BUILDING template;Veemarkt;17;;;158069,772;191002,225
+MECHELEN - FH01;3029549;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Arme-Clarenstraat;27;;;157398,446;191043,837
+MECHELEN - FH01;3031540;1;1;0;2;MDU;D;N;IRREG;3;10;;;;;BUILDING template;Borzestraat;1;;;157751,192;190740,41
+MECHELEN - FH01;3037613;0;1;1;2;MDU;D;Y;NA;4;12;;;;Winkelpand staat te huur Delestré immo;BUILDING template;Ijzerenleen;7;;;157758,491;190789,944
+MECHELEN - FH01;3045175;0;1;1;2;MDU;D;Y;NA;2;18;;;;;BUILDING template;Onder-den-Toren;9;;;157662,189;190943,649
+MECHELEN - FH01;4101347;3;0;1;4;MDU;D;Y;NA;4;12;;;;Broze;BUILDING template;Borzestraat;2;;Borzestraat 2_Ijzerenleen 25;157749,214;190725,266
+MECHELEN - FH01;3037615;1;1;0;2;MDU;D;Y;NA;4;14;;;;Ijzerleen 8: mdu 1 Bu 1 Lu Doorgaande gevelbekabeling en aansluiting via gevel mogelijk.;BUILDING template;Ijzerenleen;8;;;157720,921;190810,082
+MECHELEN - FH01;905281;0;1;1;2;MDU;D;Y;NA;4;16;;;;;BUILDING template;Onder-den-Toren;10;;;157657,376;190949,31
+MECHELEN - FH01;3051162;1;0;0;1;SDU;;Y;NA;3;11;;;;"BE - Reclamespandoek voor de ingang van de SDU&amp;amp;amp;period; Mogelijks in gebruik van immo Leysen&amp;amp;amp;period;";BUILDING template;Veemarkt;21;;;158073,491;191008,951
+MECHELEN - FH01;3031543;1;1;0;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Borzestraat;4;;;157755,125;190719,552
+MECHELEN - FH01;3037617;1;0;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Ijzerenleen;9;;;157756,465;190786,362
+MECHELEN - FH01;4705325;0;1;0;1;SDU;;Y;NA;2;16;;;;BE - 11 en 12  sam in het gebouw enkel BU smalle en medium;BUILDING template;Onder-den-Toren;11;;;157652,757;190954,988
+MECHELEN - FH01;3051163;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Veemarkt;23;;;158070,698;191012,226
+MECHELEN - FH01;4745562;0;1;0;1;SDU;;Y;NA;4;12;;;;BE - _;BUILDING template;Steenweg;38;;;157734,526;190854,608
+MECHELEN - FH01;3031545;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Borzestraat;6;;;157760,655;190717,161
+MECHELEN - FH01;3037618;0;1;0;1;SDU;;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;10;;;157716,74;190806,86
+MECHELEN - FH01;4700780;0;1;0;1;SDU;;Y;NA;2;18;;;;BE -;BUILDING template;Onder-den-Toren;12;;;157644,559;190965,011
+MECHELEN - FH01;3051165;2;1;1;4;MDU;D;N;IRREG;3;12;;;;Veemarkt 25 : mdu  2lu  1 bu en 1 su(alm) ,  aangebeld voor bevestiging. Doorgaande gevelbekabeling en aansluiting mogelijk. Aan;BUILDING template;Veemarkt;25;;;158068,076;191017,844
+MECHELEN - FH01;3031546;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Borzestraat;8;;;157764,13;190715,644
+MECHELEN - FH01;3037619;1;1;0;2;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;12;;;157714,001;190802,009
+MECHELEN - FH01;905280;0;1;0;1;SDU;;N;IRREG;2;16;;;;BE - De ander kant van het gebouw is in minderbroedersgang;BUILDING template;Onder-den-Toren;14;;;157620,363;191014,581
+MECHELEN - FH01;3051168;1;0;0;1;SDU;;N;IRREG;3;12;;;;BE -;BUILDING template;Veemarkt;29;;;158061,829;191025,658
+MECHELEN - FH01;3031548;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Borzestraat;10;;;157767,56;190713,532
+MECHELEN - FH01;904924;0;1;1;2;MDU;D;Y;NA;4;15;;;;Step Dresses glv en 1ste 2de en 3de zijn app ingang van deze bij blauwehondstraat 2;BUILDING template;Ijzerenleen;13;;;157750,299;190766,216
+MECHELEN - FH01;3051172;1;0;0;1;SDU;;N;IRREG;3;12;;;;"Mogelijks geen handelsman maar woning&amp;amp;period; Niet duidelijk";BUILDING template;Veemarkt;31;;;158056,898;191021,485
+MECHELEN - FH01;4741917;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Borzestraat;12;;;157771,108;190710,008
+MECHELEN - FH01;3037620;1;1;0;2;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;14;;;157711,803;190796,641
+MECHELEN - FH01;3054428;0;1;0;1;SDU;;Y;NA;3;16;;;;;BUILDING template;Oude Beggaardenstraat;3;;;157651,287;191082,829
+MECHELEN - FH01;1339643;6;2;2;10;MDU;D;N;IRREG;4;12;;;;Ondergrondse distributie;BUILDING template;Veemarkt;33;;;158053,603;191031,216
+MECHELEN - FH01;3031549;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Borzestraat;14;;;157775,636;190707,855
+MECHELEN - FH01;3037621;0;1;0;1;SDU;;Y;NA;4;15;;;;BE -;BUILDING template;Ijzerenleen;15;;;157747,765;190762,262
+MECHELEN - FH01;9591;3;0;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Persoonshoek;2;;;157488,856;190810,227
+MECHELEN - FH01;3051179;0;1;0;1;SDU;;N;MON;2;15;;;;MON -;BUILDING template;Veemarkt;35;;;158044,081;191040,246
+MECHELEN - FH01;3029545;0;1;0;1;SDU;;N;GLASS;2;;;;;Deel van Scheppers instituut;BUILDING template;Arme-Clarenstraat;17;;;157409,997;191037,187
+MECHELEN - FH01;4031215;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Borzestraat;16;;;157780,563;190705,793
+MECHELEN - FH01;905271;1;1;0;2;MDU;D;Y;NA;4;12;;;;Ijzerleen 16: mdu 1 Bu 1 Lu Doorgaande gevelbekabeling en aansluiting via gevel mogelijk.;BUILDING template;Ijzerenleen;16;;;157711,451;190790,181
+MECHELEN - FH01;4748668;3;1;1;5;MDU;XC;N;GLASS;4;12;;;;;BUILDING template;Persoonshoek;3;;;157503,653;190801,425
+MECHELEN - FH01;3051180;0;3;2;5;MDU;D;N;IRREG;4;16;;;;Mdu 4 bu 2 su  , geen intene schacht volgens grondplan aansluiting mogelijk via ģevelbekabeling;BUILDING template;Veemarkt;37;;;158035,842;191052,895
+MECHELEN - FH01;3033126;2;0;0;2;MDU;C;Y;NA;3;4;;;;;BUILDING template;Jef Denynplein;6;;Jef Denynplein 4-6;157538,894;191046,031
+MECHELEN - FH01;3031550;2;1;0;3;MDU;D;Y;NA;4;12;;;;Brozestraat 18: Mdu  1 bu  2 Lu's- doorgaande gevelbekabeling via bestaande overspanning aanluiting  van de units is mogelijk.;BUILDING template;Borzestraat;18;;;157784,152;190703,484
+MECHELEN - FH01;3037622;0;1;0;1;SDU;;Y;NA;4;15;;;;BE -;BUILDING template;Ijzerenleen;17;;;157743,726;190759,513
+MECHELEN - FH01;3046126;3;0;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Persoonshoek;4;;;157480,815;190799,881
+MECHELEN - FH01;5374208;0;1;1;2;MDU;D;N;MON;2;18;;;;Veemarkt 39-41: 1 gebouw  Go school;BUILDING template;Veemarkt;41;;Veemarkt 39-41;157991,018;191118,984
+MECHELEN - FH01;905286;8;0;1;9;MDU;XC;Y;NA;4;4;;;Y;;BUILDING template;Begijnenstraat;11;;;157689;190842
+MECHELEN - FH01;3031551;2;1;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Borzestraat;20;;;157788,908;190700,629
+MECHELEN - FH01;905272;1;1;0;2;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;18;;;157707,43;190787,85
+MECHELEN - FH01;3046128;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Persoonshoek;5;;;157501,428;190795,642
+MECHELEN - FH01;3051183;0;1;0;1;SDU;;N;IRREG;4;16;;;;;BUILDING template;Veemarkt;37;B;;158023,973;191059,704
+MECHELEN - FH01;3031553;1;1;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Borzestraat;22;;;157792,449;190697,246
+MECHELEN - FH01;3037624;0;2;1;3;MDU;D;Y;NA;4;15;;;;1 winkel op glv 1 alarm en kantoor op 2de verdiep klant wil dezelfde situatie als nu bij proximus;BUILDING template;Ijzerenleen;19;;;157743,594;190754,969
+MECHELEN - FH01;905711;6;0;0;6;MDU;D;Y;NA;3;10;;;;;BUILDING template;Persoonshoek;6;;;157469,04;190802,725
+MECHELEN - FH01;3051185;0;1;0;1;SDU;;N;IRREG;5;20;;;;;BUILDING template;Veemarkt;37;C;;158008,219;191085,447
+MECHELEN - FH01;3031556;0;1;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Borzestraat;24;;;157796,516;190695,037
+MECHELEN - FH01;3037625;0;1;0;1;SDU;;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;20;;;157704,424;190782,88
+MECHELEN - FH01;905653;3;1;1;5;MDU;C;N;MON;5;13;;;;MON -;BUILDING template;Persoonshoek;7;;;157496,098;190788,634
+MECHELEN - FH01;3051770;0;1;0;1;MDU;D;Y;NA;3;10;;;;Vismarkt 1-3: mdu 1 bu  1 lu ( uitbater zaak, brouwerij eigenaar beide panden) doorgaande gevelbekabeling en aansluiting  beide panden mogelijk .;BUILDING template;Vismarkt;1;;Vismarkt 1-3;157542,309;190728,045
+MECHELEN - FH01;5970490;0;1;0;1;SDU;;Y;NA;2;10;;;;_;BUILDING template;Melaan;5;;;157527,701;190870,296
+MECHELEN - FH01;3037627;0;1;0;1;SDU;;Y;NA;4;15;;;;BE -;BUILDING template;Ijzerenleen;21;;;157742,381;190751,746
+MECHELEN - FH01;3046132;20;1;3;24;MDU;C;N;MON;3;10;;;;MON -;BUILDING template;Persoonshoek;9;;Persoonshoek 9-11-13;157520,744;190769,285
+MECHELEN - FH01;905659;0;1;1;2;MDU;D;Y;NA;3;12;;;;;BUILDING template;Vismarkt;2;;Vismarkt 2-4;157603,883;190695,202
+MECHELEN - FH01;904599;4;1;1;6;MDU;D;Y;NA;3;10;;;;Brozestraat 28 : Mdu  1bu  4 Lu's - Doorgaande gevelbekabeling en aansluitingen  mogelijk;BUILDING template;Borzestraat;28;;;157801,987;190689,383
+MECHELEN - FH01;3037628;0;1;0;1;SDU;;Y;NA;4;4;;;;"BE - Nr 22 en 24 zelfde gebouw&amp;amp;amp;period; Allebei BU winkel en bank";BUILDING template;Ijzerenleen;22;;;157700,317;190774,344
+MECHELEN - FH01;3046136;33;0;1;34;MDU;C;Y;NA;3;10;;;;Indoor ofp alle Lu's  zijn in  ssv veslag persoonshoek 9 opgenomen( schacht 1 en 2) schacht 3   uitgetekend in verslag 13;BUILDING template;Persoonshoek;11;;Persoonshoek 9-11-13;157515,353;190763,329
+MECHELEN - FH01;3051775;0;1;0;1;SDU;;Y;NA;3;12;;;;In aanbouw - En construction;BUILDING template;Vismarkt;6;;;157593,955;190704,236
+MECHELEN - FH01;904600;0;1;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Borzestraat;30;;;157810,622;190686,586
+MECHELEN - FH01;904925;1;1;1;3;MDU;D;Y;NA;4;15;;;;Ijzerleen 23 : mdu 1 bu 1 lu;BUILDING template;Ijzerenleen;23;;;157739,135;190748,603
+MECHELEN - FH01;3046140;42;0;0;42;MDU;XC;Y;NA;3;12;;;;BE -;BUILDING template;Persoonshoek;13;;Persoonshoek 9-11-13;157510,424;190757,578
+MECHELEN - FH01;3051776;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Vismarkt;8;;;157589,086;190707,327
+MECHELEN - FH01;3031559;1;1;1;3;MDU;D;Y;NA;3;10;;;;Brozestraat 32 : mdu 1 bu 1 su mogelijkheid tot 1lu , doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Borzestraat;32;;;157818,33;190686,308
+MECHELEN - FH01;904597;0;1;0;1;MDU;D;Y;NA;4;22;;;;Ijzeleen 25: sdu doorgaande gevelbekabeling en aansluiting mogelijk, toegang van lu's via Brozestraat 2;BUILDING template;Ijzerenleen;25;;Borzestraat 2_Ijzerenleen 25;157728,234;190738,126
+MECHELEN - FH01;903156;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Pitzemburgstraat;2;;;158015,33;190506,97
+MECHELEN - FH01;3051778;0;1;0;1;SDU;;Y;NA;4;12;;;;Vismarkt 10 Sdu  Bu  geen verblijf bovenruimte is stockage . Microcell en panelantenna op gevel.;BUILDING template;Vismarkt;10;;;157584,835;190711,037
+MECHELEN - FH01;4741889;1;0;0;1;MDU;D;Y;NA;3;10;;;;34 en 36 1 gebouw en 1 brievenbus bg bu + lu verdeeld;BUILDING template;Borzestraat;34;;Borzestraat 34-36;157825,33;190685,854
+MECHELEN - FH01;905269;2;0;1;3;MDU;D;Y;NA;4;4;;;;Ijzerleen 26 mdu mogelijkheid tor  2 Lu's   Doorgaande gevelbekabeling  en aansluiting  mogelijk.;BUILDING template;Ijzerenleen;26;;;157695,932;190765,908
+MECHELEN - FH01;3046218;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Pitzemburgstraat;4;;;158017,255;190502,664
+MECHELEN - FH01;4748761;0;0;1;1;MDU;D;Y;NA;3;4;;;;;BUILDING template;Vismarkt;12;;Vismarkt 12-14;157576,45;190717,625
+MECHELEN - FH01;3031562;3;1;0;4;MDU;D;Y;NA;3;10;;;;;BUILDING template;Borzestraat;38;;;157836,238;190685,046
+MECHELEN - FH01;3037631;0;1;0;1;SDU;;Y;NA;4;20;;;;BE -;BUILDING template;Ijzerenleen;27;;;157725,486;190733,643
+MECHELEN - FH01;3046219;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Pitzemburgstraat;6;;;158018,407;190499,164
+MECHELEN - FH01;3051779;0;1;0;1;SDU;;Y;MON;3;4;;;;MON -;BUILDING template;Vismarkt;16;;;157567,601;190726,557
+MECHELEN - FH01;3037632;1;1;0;2;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;28;;;157692,576;190760,795
+MECHELEN - FH01;903157;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Pitzemburgstraat;8;;;158019,42;190495,168
+MECHELEN - FH01;905658;0;1;0;1;MDU;D;Y;NA;3;12;;;;BE -;BUILDING template;Vismarkt;18;;Begijnenstraat 51_Vismarkt 18;157564,07;190730,49
+MECHELEN - FH01;3037634;0;1;1;2;MDU;D;Y;NA;4;4;;;;Ijzerleen  29: mdu 1 bu(winkel)  1 su(alm) doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Ijzerenleen;29;;;157725,595;190729,177
+MECHELEN - FH01;901415;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Rik Woutersstraat;2;;;158050,934;190917,487
+MECHELEN - FH01;905657;0;1;0;1;SDU;;N;MON;3;13;;;;MON -;BUILDING template;Vismarkt;20;;;157557,366;190738,406
+MECHELEN - FH01;901175;1;0;0;1;SDU;;Y;NA;3;5;;;;;BUILDING template;Sint-Janstraat;1;;;157941,285;191167,453
+MECHELEN - FH01;3037636;2;1;1;4;MDU;D;Y;NA;4;4;;;;"Ijzerleen 30: mdu 1 Bu 3 Lu&amp;apos;s Doorgaande gevelbekabeling en aansluiting via gevel mogelijk.";BUILDING template;Ijzerenleen;30;;;157690,13;190754,123
+MECHELEN - FH01;3052896;1;0;0;1;SDU;;Y;NA;3;9;;;;Dit gebouw is 1 woning gevraagd bij bewooner.;BUILDING template;Rik Woutersstraat;4;;;158052,56;190914,089
+MECHELEN - FH01;3051781;1;1;0;2;MDU;D;Y;NA;3;12;;;;"Vismarkt 22: (vermoedelijk sdu geen zekerheid) .Mdu  2 Lu&amp;apos;s  doorgaande gevelbekabeling  en aansluiting mogelijk";BUILDING template;Vismarkt;22;;;157552,772;190741,372
+MECHELEN - FH01;930423;0;1;0;1;SDU;;N;MON;3;12;;;;MON - _;BUILDING template;Nieuwe Beggaardenstraat;27;;;157416,521;191127,107
+MECHELEN - FH01;3037637;1;1;1;3;MDU;D;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;31;;;157723,613;190723,974
+MECHELEN - FH01;3052899;1;0;0;1;SDU;;Y;NA;3;9;;;;Dit gebouw is 1 woning gevraagd bij bewooner.;BUILDING template;Rik Woutersstraat;6;;;158053,429;190910,078
+MECHELEN - FH01;3051783;1;1;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Vismarkt;24;;;157550,628;190743,183
+MECHELEN - FH01;5838075;1;0;0;1;SDU;;N;IRREG;2;6;;;;_;BUILDING template;Straatje-zonder-einde;2;;;157520;191045
+MECHELEN - FH01;3037639;4;1;1;6;MDU;XC;Y;NA;4;12;;;;BE -;BUILDING template;Ijzerenleen;32;;;157686,865;190745,936
+MECHELEN - FH01;4744531;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Rik Woutersstraat;8;;;158055,753;190905,789
+MECHELEN - FH01;905656;1;1;0;2;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Vismarkt;26;;;157544,363;190749,667
+MECHELEN - FH01;4733038;1;0;0;1;SDU;;Y;NA;2;4;;;;Arme Claerenstraat 28: sdu   1 lu (1 bel 1 bus ) meerdere malen aangebeld verschillende momenten geen toegang  , geen  zichtbare su.;BUILDING template;Arme-Clarenstraat;28;;;157400,551;191063,498
+MECHELEN - FH01;4037885;1;0;0;1;SDU;;N;IRREG;4;12;;;;_;BUILDING template;Nieuwe Beggaardenstraat;47;;;157358,632;191007,673
+MECHELEN - FH01;3037640;0;1;0;1;SDU;;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;33;;;157721,16;190717,878
+MECHELEN - FH01;3052900;1;0;0;1;SDU;;Y;NA;2;10;;;;;BUILDING template;Rik Woutersstraat;10;;;158057,007;190900,688
+MECHELEN - FH01;3051846;3;3;1;7;MDU;D;Y;NA;5;4;;;;Vleeshouwerstraat 1: Mdu: 3 Bu's 3Lu's 1Su- Doorgaande gevelbekabeling en aansluitingen mogelijk;BUILDING template;Vleeshouwersstraat;1;;;157773,748;190831,417
+MECHELEN - FH01;3037642;0;1;0;1;SDU;;Y;NA;4;4;;;;BE -;BUILDING template;Ijzerenleen;35;;;157718,788;190713,04
+MECHELEN - FH01;3052903;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Rik Woutersstraat;12;;;158055,364;190896,401
+MECHELEN - FH01;3051848;1;1;1;3;MDU;D;Y;NA;4;4;;;;bollen en jaeken vastgoed klant gaat in toekomst boven zaak een 1 app voorzien. 0496107108;BUILDING template;Vleeshouwersstraat;2;;;157770,489;190819,856
+MECHELEN - FH01;6489892;1;0;0;1;SDU;;Y;NA;3;9;;;;BE - _;BUILDING template;Nieuwwerk;4;;;157795;190961
+MECHELEN - FH01;3037643;0;1;0;1;SDU;;Y;NA;4;4;;;;BE - Gelijkvloer aan te renoveren;BUILDING template;Ijzerenleen;36;;;157682,385;190743,037
+MECHELEN - FH01;901416;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Rik Woutersstraat;14;;;158057,495;190890,862
+MECHELEN - FH01;904583;1;1;0;2;MDU;D;Y;NA;4;18;;;;BE -;BUILDING template;Ijzerenleen;37;;;157716,794;190709,789
+MECHELEN - FH01;905301;3;0;0;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Rik Woutersstraat;16;;;158057,802;190886,101
+MECHELEN - FH01;6328835;3;1;0;4;MDU;D;Y;NA;3;9;;;;BE - _;BUILDING template;Onder-den-Toren;8;;;157666,395;190940,438
+MECHELEN - FH01;3037645;1;1;1;3;MDU;D;Y;NA;3;4;;;;Ijzerleen 38:mdu  1bu 1 su  1 lu doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Ijzerenleen;38;;;157680,077;190737,627
+MECHELEN - FH01;929549;0;1;0;1;SDU;;Y;NA;4;4;;;;;BUILDING template;Wollemarkt;1;;;157719,218;191050,15
+MECHELEN - FH01;904582;3;1;0;4;MDU;D;Y;NA;4;4;;;;"Ijzerleen 39: mdu 1 bu(ijzerleen ) 3 Lu&amp;apos;s  ingang en aansluiting mogelijk  via  schaalstraat hoek gebouw .( overspanning gebouw aangewezen)";BUILDING template;Ijzerenleen;39;;;157709,192;190705,498
+MECHELEN - FH01;3052905;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Rik Woutersstraat;20;;;158059,005;190872,136
+MECHELEN - FH01;901201;0;1;0;1;SDU;;Y;NA;2;7;;;;Verlaten;BUILDING template;Wollemarkt;2;;;157763,369;191011,379
+MECHELEN - FH01;4729770;0;1;0;1;SDU;;N;MON;4;4;;;;MON - Nr 40 en Nr 42 zijn 2 verschillende gebouwen 1 geworden;BUILDING template;Ijzerenleen;40;;;157678,383;190732,536
+MECHELEN - FH01;4749182;1;0;0;1;SDU;;Y;NA;4;15;;;;;BUILDING template;Rik Woutersstraat;22;;;158057,593;190865,171
+MECHELEN - FH01;3052837;0;1;0;1;SDU;;Y;NA;2;4;;;;BE - Verlaten;BUILDING template;Wollemarkt;4;;;157758,187;191016,014
+MECHELEN - FH01;3037647;2;1;1;4;MDU;D;N;MON;3;4;;;;MON -;BUILDING template;Ijzerenleen;41;;;157706,028;190700,854
+MECHELEN - FH01;905300;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Rik Woutersstraat;24;;;158059,609;190854,32
+MECHELEN - FH01;3052838;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Wollemarkt;5;;;157716,823;191065,295
+MECHELEN - FH01;5838132;1;0;0;1;SDU;;Y;NA;3;9;;;;_;BUILDING template;Oude Beggaardenstraat;5;;;157665,053;191083,625
+MECHELEN - FH01;3037650;0;1;0;1;SDU;;Y;NA;3;4;;;;BE -;BUILDING template;Ijzerenleen;43;;;157705,236;190696,819
+MECHELEN - FH01;904571;0;1;0;1;SDU;;Y;NA;2;15;;;;;BUILDING template;Schaalstraat;1;;;157745,282;190701,397
+MECHELEN - FH01;3052840;0;1;0;1;SDU;;Y;NA;3;4;;;;BE - Verlaten;BUILDING template;Wollemarkt;6;;;157754,811;191020,89
+MECHELEN - FH01;3037651;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Ijzerenleen;44;;;157672,661;190722,084
+MECHELEN - FH01;904601;0;1;0;1;SDU;;Y;NA;2;4;;;;2 en 4 in het zelfde gebouw;BUILDING template;Schaalstraat;2;;;157726,133;190695,587
+MECHELEN - FH01;3052841;0;1;0;1;SDU;;Y;NA;3;8;;;;BE -;BUILDING template;Wollemarkt;7;;;157716,093;191070,779
+MECHELEN - FH01;935302;1;0;0;1;SDU;;Y;NA;3;16;;;;DOBBELHUIZEN 1  Sdu : 1 lu ondergrondse intro,   geen doorgaande gevelbekabeling.;BUILDING template;Dobbelhuizen;1;;;157327,478;190870,391
+MECHELEN - FH01;3037653;1;1;0;2;MDU;D;Y;NA;3;4;;;;BE - Gelijkvloer aan het renoveren;BUILDING template;Ijzerenleen;45;;;157702,911;190692,94
+MECHELEN - FH01;4741854;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Schaalstraat;7;;;157765,001;190692,737
+MECHELEN - FH01;3052845;0;1;1;2;MDU;D;Y;NA;3;4;;;;BE -;BUILDING template;Wollemarkt;8;;;157752,214;191027,917
+MECHELEN - FH01;6527842;0;1;0;1;SDU;;N;IRREG;3;4;;;;Oude Begaardenstraatsttraat 15 wollemarkt 15  : zelfde gebouw;BUILDING template;Oude Beggaardenstraat;15;;;157704,992;191106,741
+MECHELEN - FH01;3033469;2;0;0;2;MDU;D;Y;NA;3;20;;;;Dobbehuizen 2: Mdu  2Lu's  Doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Dobbelhuizen;2;;;157345,478;190878,66
+MECHELEN - FH01;3037655;8;0;2;10;MDU;D;Y;NA;5;4;;;;"Ijzerleen  46 - 48 (Mdu 1Bu - 8 Lu&amp;apos;s) :   Doorgaande gevelbekabeling en aansluiting via gevel mogelijk.";BUILDING template;Ijzerenleen;46;;;157671,99;190714,969
+MECHELEN - FH01;3047267;1;0;1;2;MDU;D;Y;NA;3;16;;;;;BUILDING template;Schaalstraat;8;;;157741,586;190689,625
+MECHELEN - FH01;3052847;0;1;1;2;MDU;D;Y;NA;3;20;;;;BE - Groups praktijk;BUILDING template;Wollemarkt;9;;;157714,478;191076,282
+MECHELEN - FH01;6518663;6;0;0;6;MDU;C;N;IRREG;1;6;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;42;;Sint-Katelijnestraat 40-42;157582,309;191168,7
+MECHELEN - FH01;4062645;1;0;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;3;;;157324,055;190875,279
+MECHELEN - FH01;3037658;2;1;0;3;MDU;D;Y;NA;3;20;;;;Nummer 47 49 en 51 is een gebouw gewoord;BUILDING template;Ijzerenleen;47;;Ijzerenleen 47-51;157700,9;190685,67
+MECHELEN - FH01;4752011;0;1;0;1;SDU;;Y;NA;3;9;;;;Te koop;BUILDING template;Wollemarkt;10;;;157749,093;191034,734
+MECHELEN - FH01;4739215;4;1;1;6;MDU;XC;Y;NA;3;4;;;;Nieuwe Begaardenstraat 9 : Mdu 5Lu's 1 su.  Deel van Bgroup : ondergrondse intro via Begaardenstraat 7 aanleg v/e schacht , plaatsing  van de Bdfo (kelder Stadheimelijkheid 3)  aanlegv/d horizontale schacht via kelder (plan) . Aanleg v/d verticale schacht via trappen hal  naar de verdiepingen.;BUILDING template;Nieuwe Beggaardenstraat;9;;Nieuwe Begaardenstraat 7-9_Stadsheimelijkheid 3-5;157481,29;191179,951
+MECHELEN - FH01;4746694;1;0;0;1;MDU;D;Y;NA;5;14;;;;Grote markt 37-38  mdu  1 bu 1 lu  doorgaande gevelbekabeling en aansluitingen mogelijk.;BUILDING template;Grote Markt;38;;Grote Markt 37-38;157786,984;190855,999
+MECHELEN - FH01;3033470;2;0;0;2;MDU;D;Y;NA;3;20;;;;;BUILDING template;Dobbelhuizen;4;;;157339,703;190881,523
+MECHELEN - FH01;905275;0;1;1;2;MDU;D;Y;NA;5;14;;;;;BUILDING template;Ijzerenleen;50;;;157669,294;190704,606
+MECHELEN - FH01;3047270;10;0;0;10;MDU;D;Y;NA;3;15;;;;Doorgaande gevelbekabeling  alle  Lu's komen straatzijde.;BUILDING template;Schaalstraat;13;;;157773,633;190690,351
+MECHELEN - FH01;3052849;10;0;0;10;MDU;D;Y;NA;5;4;;;;Building group;BUILDING template;Wollemarkt;11;;Wollemarkt 11-13;157710,78;191087,636
+MECHELEN - FH01;3032851;4;2;0;6;MDU;C;Y;NA;2;5;;;;In aanbouw - En construction;BUILDING template;Kanunnik de Deckerstraat;41;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;157536,584;191213,872
+MECHELEN - FH01;4746661;3;0;0;3;MDU;D;Y;NA;4;6;;;;;BUILDING template;Blauwhondstraat;9;;Blauwhondstraat 7-9;157782,949;190768,391
+MECHELEN - FH01;3033472;1;0;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;5;;;157319,83;190879,618
+MECHELEN - FH01;3037661;2;1;2;5;MDU;D;Y;NA;3;4;;;;BE -;BUILDING template;Ijzerenleen;51;;Ijzerenleen 47-51;157696,913;190679,698
+MECHELEN - FH01;929559;0;1;0;1;SDU;;N;MON;3;10;;;;Wollemarkt 15 : aardsbisdom paleis , gevelbekabeling mogelijk.  Sdu   is een bu;BUILDING template;Wollemarkt;15;;;157697,732;191104,005
+MECHELEN - FH01;5318115;8;0;1;9;MDU;XC;N;MON;3;;;;;BE - _;BUILDING template;Begijnenstraat;50;A;Begijnenstraat 50-50A;157588,539;190790,977
+MECHELEN - FH01;935306;1;0;0;1;SDU;;Y;NA;3;20;;;;;BUILDING template;Dobbelhuizen;6;;;157335,58;190886,094
+MECHELEN - FH01;3037665;2;1;1;4;MDU;D;Y;NA;3;4;;;;BE -;BUILDING template;Ijzerenleen;53;;;157694,261;190674,951
+MECHELEN - FH01;3047274;0;1;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Schaalstraat;15;;;157787,051;190682,07
+MECHELEN - FH01;901203;0;1;0;1;SDU;;N;MON;3;4;;;;MON -;BUILDING template;Wollemarkt;16;;;157742,737;191051,798
+MECHELEN - FH01;3051774;0;1;0;1;MDU;D;Y;NA;3;12;;;;;BUILDING template;Vismarkt;4;;Vismarkt 2-4;157598,524;190700,007
+MECHELEN - FH01;3031542;0;1;0;1;SDU;;N;IRREG;5;30;;;;;BUILDING template;Borzestraat;3;;;157796,519;190713,305
+MECHELEN - FH01;3033473;1;0;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;7;;;157316,624;190884,746
+MECHELEN - FH01;3037667;3;1;0;4;MDU;D;Y;NA;5;14;;;;"Ijzerleen 54 (Mdu 1Bu - 3 Lu&amp;apos;s) :   Doorgaande gevelbekabeling en aansluiting via gevel mogelijk.";BUILDING template;Ijzerenleen;54;;;157665,145;190698,717
+MECHELEN - FH01;3047275;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Schaalstraat;16;;;157746,965;190687,719
+MECHELEN - FH01;3052852;2;1;1;4;MDU;D;Y;NA;3;10;;;;BE -;BUILDING template;Wollemarkt;17;;;157749,3;191121,456
+MECHELEN - FH01;3033474;1;0;1;2;MDU;D;Y;NA;3;20;;;;BE -;BUILDING template;Dobbelhuizen;8;;;157333,95;190894,661
+MECHELEN - FH01;3037669;3;1;1;5;MDU;D;Y;NA;4;4;;;;;BUILDING template;Ijzerenleen;55;;;157690,822;190668,807
+MECHELEN - FH01;4037201;0;1;0;1;SDU;;Y;NA;2;15;;;;Ze zijn 5 of 7 studenten kamers;BUILDING template;Schaalstraat;17;;;157797,117;190678,844
+MECHELEN - FH01;3052854;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Wollemarkt;18;;;157737,349;191063,266
+MECHELEN - FH01;4010572;0;1;0;1;MDU;D;Y;NA;4;4;;;;;BUILDING template;Vismarkt;14;;Vismarkt 12-14;157572,98;190721,934
+MECHELEN - FH01;3035734;1;1;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Hallestraat;8;;;157901,345;190830,138
+MECHELEN - FH01;3033476;3;0;0;3;MDU;D;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;9;;;157312,253;190891,243
+MECHELEN - FH01;3037670;0;1;0;1;MDU;D;Y;NA;3;4;;;;Ijzerleen 56 -58  sdu doorgaande gevelbekabeling en aansluiting mogelijk. 1e verdieping stockage;BUILDING template;Ijzerenleen;56;;Ijzerleen 56-58;157663,96;190695,511
+MECHELEN - FH01;4741839;1;0;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Schaalstraat;18;;;157750,856;190686,845
+MECHELEN - FH01;3052855;1;0;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Wollemarkt;19;;;157757,084;191124,725
+MECHELEN - FH01;929597;0;1;0;1;SDU;;N;MON;4;;;;;MON -;BUILDING template;Kanunnik de Deckerstraat;19;;;157660,454;191264,915
+MECHELEN - FH01;4751086;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Dobbelhuizen;10;;;157329,598;190895,565
+MECHELEN - FH01;3037671;1;1;0;2;MDU;D;Y;NA;3;15;;;;;BUILDING template;Ijzerenleen;57;;;157688,363;190663,306
+MECHELEN - FH01;3047276;1;0;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Schaalstraat;20;;;157753,454;190685,529
+MECHELEN - FH01;3052857;0;1;0;1;SDU;;Y;NA;3;11;;;;;BUILDING template;Wollemarkt;20;;;157737,28;191070,145
+MECHELEN - FH01;3033477;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Dobbelhuizen;12;;;157327,263;190897,816
+MECHELEN - FH01;3037673;0;1;0;1;MDU;D;Y;NA;3;4;;;;;BUILDING template;Ijzerenleen;58;;Ijzerleen 56-58;157654,349;190695,299
+MECHELEN - FH01;3047277;3;0;0;3;MDU;D;Y;NA;3;15;;;;;BUILDING template;Schaalstraat;21;;;157806,726;190675,36
+MECHELEN - FH01;929558;0;1;0;1;SDU;;Y;NA;4;12;;;;BE -;BUILDING template;Wollemarkt;21;;;157760,127;191128,109
+MECHELEN - FH01;3037674;0;1;1;2;MDU;D;Y;NA;3;12;;;;Ijzerleen  59: mdu 1 bu(winkel)  1 su(alm) doorgaande gevelbekabeling en aansluiting mogelijk  59: mdu  1bu, 1 su;BUILDING template;Ijzerenleen;59;;;157684,992;190659,265
+MECHELEN - FH01;3047279;1;0;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Schaalstraat;22;;;157756,29;190684,11
+MECHELEN - FH01;3052860;0;1;1;2;MDU;D;Y;NA;3;11;;;;;BUILDING template;Wollemarkt;22;;;157739,383;191080,248
+MECHELEN - FH01;3943985;2;0;0;2;MDU;D;Y;NA;2;6;;;;_;BUILDING template;Blauwhondstraat;17;;;157795,502;190763,711
+MECHELEN - FH01;3033478;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Dobbelhuizen;15;;;157307,253;190903,463
+MECHELEN - FH01;3037675;3;1;1;5;MDU;D;Y;NA;5;4;;;;;BUILDING template;Ijzerenleen;61;;;157681,368;190655,93
+MECHELEN - FH01;3047281;1;0;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Schaalstraat;24;;;157759,337;190682,978
+MECHELEN - FH01;4014924;0;1;1;2;MDU;D;Y;NA;4;16;;;;;BUILDING template;Wollemarkt;26;;;157745,182;191089,5
+MECHELEN - FH01;3033479;3;0;1;4;MDU;XC;Y;NA;4;4;;;;Dobbelhuizen 17: mdu 3Lu's 1 su, doorgaande gevelbekabeling via bestaande wachtbuis,  aansluiting  via gevel  van unit  via de garage. Aanleg van schacht via traphal.;BUILDING template;Dobbelhuizen;17;;;157297,134;190915,552
+MECHELEN - FH01;3037677;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Ijzerenleen;62;;;157653,345;190684,1
+MECHELEN - FH01;4741877;0;1;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Schaalstraat;25;;;157817,143;190675,509
+MECHELEN - FH01;3052862;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Wollemarkt;28;;;157750,731;191094,67
+MECHELEN - FH01;929572;1;0;0;1;SDU;;Y;NA;3;15;;;;Beneden is een Garagem;BUILDING template;Sint-Katelijnestraat;11;;;157627,129;191079,628
+MECHELEN - FH01;935303;2;0;1;3;MDU;XC;Y;NA;4;4;;;;Bestaande cat 5e bekabeling vanaf de intro in de kelder naar alle units , aanleg van nieuwe schacht naar achtergelegen unit op gelijkvloers bestaande klant.   2de lu  modem telenet  op 3de verdieping  geen toegangkelijke doorgaande schacht.;BUILDING template;Dobbelhuizen;19;;;157294,885;190922,265
+MECHELEN - FH01;3037678;3;1;1;5;MDU;D;Y;NA;4;4;;;;;BUILDING template;Ijzerenleen;63;;;157678,647;190651,39
+MECHELEN - FH01;3047282;3;0;0;3;MDU;D;Y;NA;3;18;;;;;BUILDING template;Schaalstraat;26;;;157761,966;190680,814
+MECHELEN - FH01;929581;1;0;0;1;SDU;;Y;NA;3;11;;;;BE -;BUILDING template;Wollemarkt;32;;;157760,478;191099,018
+MECHELEN - FH01;929570;0;1;0;1;SDU;;N;MON;4;;;;;;BUILDING template;Sint-katelijnestraat;23;;;157610,503;191118,57
+MECHELEN - FH01;3033480;1;0;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;20;;;157324,64;190907,664
+MECHELEN - FH01;3037679;1;1;0;2;MDU;D;Y;NA;3;12;;;;Ijzerleen 64:  mdu 1bu 1lu  App boven de zaak apparte ingang,  doorgaande gevelbekabeling en aansluiting via gevel mogelijk.;BUILDING template;Ijzerenleen;64;;;157650,176;190678,767
+MECHELEN - FH01;3047284;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Schaalstraat;27;;;157820,803;190675,279
+MECHELEN - FH01;5603016;2;0;0;2;MDU;D;Y;NA;3;11;;;;;BUILDING template;Wollemarkt;34;;;157764,56;191103,542
+MECHELEN - FH01;935304;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Dobbelhuizen;21;;;157294,89;190926,687
+MECHELEN - FH01;3037681;0;1;1;2;MDU;D;Y;NA;3;4;;;;Ijzerleen 65:: mdu 1 bu(winkel)  1 su(alm) doorgaande gevelbekabeling en aansluiting mogelijk;BUILDING template;Ijzerenleen;65;;;157674,378;190649,605
+MECHELEN - FH01;904877;6;0;0;6;MDU;XC;Y;NA;3;20;;;;Schaalstraat 28: Mdu 6Lu's  (Tsa nog doorsturen ) ondergrondse intro via meterlokaal elekrticiteit , plaatsen bdfo, aanleg naar centrale hal, doorvoer naar de verdiepingen. 2 lu' s per verdiep;BUILDING template;Schaalstraat;28;;;157766,029;190678,481
+MECHELEN - FH01;3052868;0;1;0;1;SDU;;Y;NA;4;18;;;;BE -;BUILDING template;Wollemarkt;36;;;157784,054;191120,498
+MECHELEN - FH01;4744463;0;1;0;1;SDU;;Y;NA;2;4;;;;BE -;BUILDING template;Veemarkt;11;;;158055,621;190991,973
+MECHELEN - FH01;3033482;1;0;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;22;;;157324,746;190913,414
+MECHELEN - FH01;905268;1;1;0;2;MDU;D;Y;NA;4;12;;;;BE -;BUILDING template;Ijzerenleen;66;;;157647,162;190674,053
+MECHELEN - FH01;3047285;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Schaalstraat;29;;;157823,305;190675,539
+MECHELEN - FH01;4744471;0;1;0;1;SDU;;Y;NA;3;12;;;;BE - Behoort tot reuzestraat 1;BUILDING template;Zakstraat;3;;;157969,23;190851,382
+MECHELEN - FH01;3036246;3;0;0;3;MDU;XC;Y;NA;3;9;;;;Afspraak  maken  ter plaatse als de coronacrisis gedaan is geen toegang tot gebouw  philip vanloon projest ontwikelaar.;BUILDING template;Hazestraat;3;;;157973,299;190514,487
+MECHELEN - FH01;3033483;1;0;0;1;SDU;;Y;NA;2;12;;;;;BUILDING template;Dobbelhuizen;23;;;157292,849;190931,772
+MECHELEN - FH01;904581;1;1;0;2;MDU;D;Y;NA;3;4;;;;Ijzerenleen 67: mdu  1 Lu 1 Bu  , zelfde eigenaar gevelbekabeling  en gevelaansluiting mogelijk.;BUILDING template;Ijzerenleen;67;;;157673,756;190645,523
+MECHELEN - FH01;904878;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;30;;;157771,549;190673,287
+MECHELEN - FH01;901434;5;1;1;7;MDU;D;Y;NA;4;15;;;;Zakstraat 13- 15- 17: mdu Geen toegang tot gebouw,  geen doorgaande gevelbekabeling mogelijk weigering van toegang in gebouw na contact met de syndicus .;BUILDING template;Zakstraat;13;;Zakstraat 13-15-17A;157996,861;190856,433
+MECHELEN - FH01;3033485;1;0;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Dobbelhuizen;24;;;157321,034;190917,896
+MECHELEN - FH01;905655;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Ijzerenleen;68;;;157645,23;190669,88
+MECHELEN - FH01;4741944;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;32;;;157775,953;190671,421
+MECHELEN - FH01;3944228;3;0;0;3;MDU;D;Y;NA;3;12;;;;Zakstraat 13- 15- 17: mdu Geen toegang(mail) tot gebouw,  geen doorgaande gevelbekabeling mogelijk weigering van toegang in gebouw na contact met de syndicus .;BUILDING template;Zakstraat;15;;Zakstraat 13-15-17A;158009,886;190859,416
+MECHELEN - FH01;4741899;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Lange Schipstraat;15;;;157743,182;190616,595
+MECHELEN - FH01;4751106;1;0;0;1;SDU;;Y;NA;3;4;;;;2527  in het zelfde de gebouw;BUILDING template;Dobbelhuizen;25;;;157291,068;190936,138
+MECHELEN - FH01;4741946;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;34;;;157780,322;190669,504
+MECHELEN - FH01;905314;1;0;0;1;SDU;;Y;NA;4;15;;;;;BUILDING template;Zakstraat;23;;;158017,77;190861,503
+MECHELEN - FH01;3033486;0;1;0;1;SDU;;Y;NA;2;15;;;;DOBBELHUIZEN 26 Sdu : 1 lu  doorgaande gevelbekabeling,  aansluiting mogelijk .;BUILDING template;Dobbelhuizen;26;;;157318,472;190923,486
+MECHELEN - FH01;941663;4;0;0;4;MDU;C;Y;NA;3;23;;;;Jef Denynplein 4-6 :mdu  4 Lu's - Ondergrondse intro  via huisnr 6 voor lu 4;BUILDING template;Jef Denynplein;4;;Jef Denynplein 4-6;157545,555;191055,575
+MECHELEN - FH01;4741882;0;1;0;1;SDU;;Y;NA;2;14;;;;;BUILDING template;Schaalstraat;35;;;157832,578;190676,007
+MECHELEN - FH01;3053010;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Zakstraat;25;;;158024,919;190860,085
+MECHELEN - FH01;903465;5;1;1;7;MDU;D;Y;NA;4;12;;;;Hier zijn 5Lu+1Bu+1Su lift. De 2Lu's zijn boven nr 58 op 2de en 3de verdiep;BUILDING template;Lange Schipstraat;60;;;157827,293;190459,466
+MECHELEN - FH01;935307;1;0;0;1;SDU;;Y;NA;2;15;;;;BE -;BUILDING template;Dobbelhuizen;28;;;157316,122;190927,761
+MECHELEN - FH01;4746347;0;1;0;1;SDU;;Y;NA;3;20;;;;BE -;BUILDING template;Jef Denynplein;8;;;157535,281;191049,777
+MECHELEN - FH01;3047286;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;36;;;157784,944;190667,82
+MECHELEN - FH01;905308;2;0;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Zakstraat;27;;;158027,623;190864,733
+MECHELEN - FH01;4751109;1;0;0;1;SDU;;Y;NA;3;20;;;;;BUILDING template;Dobbelhuizen;29;;;157288,372;190944,765
+MECHELEN - FH01;3033128;1;0;0;1;SDU;;Y;NA;3;20;;;;Ondergrondse intro , geen doorgaande gevelbekabeling mogelijk.;BUILDING template;Jef Denynplein;10;;;157534,759;191039,188
+MECHELEN - FH01;4741885;0;1;0;1;SDU;;Y;NA;2;4;;;;37 en 39 in het zelfde gebouw;BUILDING template;Schaalstraat;37;;;157835,687;190676,661
+MECHELEN - FH01;5603020;2;0;0;2;MDU;D;Y;NA;3;9;;;;;BUILDING template;Zakstraat;29;;;158036,389;190864,736
+MECHELEN - FH01;3048562;0;1;0;1;SDU;;N;IRREG;2;4;;;;;BUILDING template;Sint-Janstraat;4;;;157903,19;191192,359
+MECHELEN - FH01;935308;1;0;0;1;SDU;;Y;NA;2;15;;;;BE -;BUILDING template;Dobbelhuizen;30;;;157313,237;190931,156
+MECHELEN - FH01;3033129;0;1;1;2;MDU;D;Y;NA;2;20;;;;Bu + su  beiden  via kelder aansluitbaar  serverrack op gelijkvloerse verdieping  gemeenschappelijk  voor alle vzw die op deze locatie bevinden.;BUILDING template;Jef Denynplein;14;;;157521,36;191024,825
+MECHELEN - FH01;4741951;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;38;;;157789,365;190665,541
+MECHELEN - FH01;905309;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Zakstraat;31;;;158052,066;190858,307
+MECHELEN - FH01;3033489;1;0;0;1;SDU;;Y;NA;3;20;;;;;BUILDING template;Dobbelhuizen;31;;;157286,398;190949,232
+MECHELEN - FH01;3033131;0;1;0;1;SDU;;N;IRREG;3;20;;;;BE -;BUILDING template;Jef Denynplein;16;;;157512,395;191012,969
+MECHELEN - FH01;904572;0;1;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Schaalstraat;39;;;157840,754;190673,663
+MECHELEN - FH01;3033490;1;0;0;1;SDU;;Y;NA;2;15;;;;BE -;BUILDING template;Dobbelhuizen;32;;;157312,233;190935,003
+MECHELEN - FH01;4741955;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;40;;;157793,759;190664,037
+MECHELEN - FH01;903148;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Leermarkt;10;;;157969,216;190695,385
+MECHELEN - FH01;3033491;3;0;0;3;MDU;D;Y;NA;3;20;;;;BE -;BUILDING template;Dobbelhuizen;33;;;157282,531;190957,554
+MECHELEN - FH01;3032828;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Kanunnik De Deckerstraat;3;;;157781,196;191296,778
+MECHELEN - FH01;904598;1;0;0;1;SDU;;Y;NA;2;12;;;;BE -;BUILDING template;Schaalstraat;42;;;157798,104;190661,983
+MECHELEN - FH01;5693998;1;0;0;1;SDU;;N;IRREG;3;;;;;;BUILDING template;Van Hoeystraat;13;;;157946,374;191283,922
+MECHELEN - FH01;4751123;1;0;0;1;SDU;;Y;NA;2;15;;;;BE -;BUILDING template;Dobbelhuizen;34;;;157309,953;190940,702
+MECHELEN - FH01;3032830;2;0;0;2;MDU;D;N;MON;3;10;;;;MON -;BUILDING template;Kanunnik De Deckerstraat;7;;;157762,857;191294,133
+MECHELEN - FH01;5697979;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Scheerstraat;8;;;157804,677;190946,787
+MECHELEN - FH01;905663;2;1;1;4;MDU;D;Y;NA;2;5;;;;"Nauwstraat 3 Mdu 1 bu ingang Grootstaat 2 , 2 Lu's: Doorgaande gevelbekabeling en 
+aansluiting mogelijk via gevel.";BUILDING template;Nauwstraat;3;;;157633;190677
+MECHELEN - FH01;3040426;0;1;0;1;SDU;;Y;NA;3;12;;;;Dit is een ondergrondse parking. App boven horen bij winkel ingang langs bruul.;BUILDING template;Leermarkt;20;;;157977,136;190668,518
+MECHELEN - FH01;4751112;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;35;;;157280,001;190965,442
+MECHELEN - FH01;3032833;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Kanunnik De Deckerstraat;9;;;157756,564;191292,125
+MECHELEN - FH01;3047333;6;1;0;7;MDU;D;Y;NA;3;9;;;;"Buildinggroup&amp;amp;period; BU Medusa Lounge op huisnummer 1";BUILDING template;Scheerstraat;10;;;157797,812;190948,57
+MECHELEN - FH01;4240777;1;0;0;1;SDU;;Y;NA;2;15;;;;BE -;BUILDING template;Dobbelhuizen;36;;;157320,294;190950,209
+MECHELEN - FH01;3032835;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Kanunnik De Deckerstraat;11;;;157749,492;191290,525
+MECHELEN - FH01;904926;0;1;0;1;SDU;;N;IRREG;4;20;;;;BE -;BUILDING template;Schoenmarkt;1;;;157782,204;190852,782
+MECHELEN - FH01;3033492;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;37;;;157276,176;190972,916
+MECHELEN - FH01;4732814;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Kanunnik De Deckerstraat;13;;;157742,11;191288,813
+MECHELEN - FH01;3047685;0;1;0;1;SDU;;N;IRREG;4;20;;;;BE -;BUILDING template;Schoenmarkt;2;;;157780,174;190848,83
+MECHELEN - FH01;5898870;1;1;0;2;MDU;D;Y;NA;3;4;;;;Vismarkt 18- Begijnenstraat 51: mdu  1  Bu  - 1 Lu  - Bestaande coax  in wachtbuis vermoedelijk  in de crepi  vismarkt 18. Gevelbekabeling mogelijk onder kroonlijst;BUILDING template;Begijnenstraat;51;;Begijnenstraat 51_Vismarkt 18;157568,621;190735,724
+MECHELEN - FH01;6445949;1;0;0;1;SDU;;Y;NA;2;3;;;;_;BUILDING template;Rik Woutersstraat;2;A;;158051,311;190923,722
+MECHELEN - FH01;929547;1;0;0;1;SDU;;Y;NA;2;6;;;;BE -;BUILDING template;Oude Beggaardenstraat;7;;;157677,661;191084,499
+MECHELEN - FH01;3033493;1;0;0;1;SDU;;Y;NA;2;15;;;;38 os niet samen met nummer 40;BUILDING template;Dobbelhuizen;38;;;157306,951;190950,138
+MECHELEN - FH01;5838665;0;1;0;1;SDU;;Y;NA;3;10;;;;BE -;BUILDING template;Kanunnik De Deckerstraat;15;;;157732,713;191286,264
+MECHELEN - FH01;3047687;1;1;0;2;MDU;D;N;IRREG;4;19;;;;BE -;BUILDING template;Schoenmarkt;3;;;157778,234;190844,355
+MECHELEN - FH01;4751114;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;39;;;157275,046;190977,598
+MECHELEN - FH01;4746678;1;1;1;3;MDU;D;N;IRREG;4;16;;;;Schoenmarkt 4: Mdu 1 Bu 1 Lu  doorgaande gevelbekabeling en gevelaansluiting mogelijk.;BUILDING template;Schoenmarkt;4;;;157777,664;190840,055
+MECHELEN - FH01;3030806;1;1;0;2;MDU;C;Y;NA;2;0;;;;Nieuwe Beggaardenstraat 37 39: mdu  1 bu 1 lu -Ondergrondse Intro  via Arme Claerenstraat alle unit zijn vanuit de kelder serverrack bereikbaar;BUILDING template;Nieuwe Beggaardenstraat;39;;Nieuwe Beggaardenstraat 37-39;157356,258;191048,557
+MECHELEN - FH01;3033495;1;0;0;1;SDU;;Y;NA;2;4;;;;Nummer 40 is niet samen met nummer 38;BUILDING template;Dobbelhuizen;40;;;157301,934;190955,267
+MECHELEN - FH01;3032839;1;0;0;1;SDU;;N;MON;2;4;;;;MON - Monument;BUILDING template;Kanunnik De Deckerstraat;21;;;157654,473;191263,055
+MECHELEN - FH01;3047689;0;1;0;1;SDU;;N;IRREG;4;25;;;;"BE - De bar beneden is schoenmarkt 5 &amp;amp;amp;period; Maar de gebouw van achter moet nog  vragen";BUILDING template;Schoenmarkt;5;;;157757,248;190846,668
+MECHELEN - FH01;3033499;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;41;;;157271,543;190984,537
+MECHELEN - FH01;3032840;1;0;0;1;SDU;;Y;NA;3;9;;;;"Gevel gerenoveerd en ge&amp;amp;Atilde;&amp;amp;macr;soleertd";BUILDING template;Kanunnik De Deckerstraat;23;;;157647,597;191260,752
+MECHELEN - FH01;901171;1;0;1;2;MDU;D;N;IRREG;2;7;;;;Schoolstraat 7 : mdu  1lu  1 su  ondergrondse aansluiting   su( alm  op zijgevel);BUILDING template;Schoolstraat;7;;;157785,181;191022,998
+MECHELEN - FH01;4208745;1;0;0;1;MDU;D;Y;NA;1;3;;;;In aanbouw - En construction;BUILDING template;Sint-Katelijnestraat;18;;Sint-Katelijnestraat 16-18;157633;191112
+MECHELEN - FH01;3033500;1;0;0;1;SDU;;Y;NA;2;4;;;;;BUILDING template;Dobbelhuizen;42;;;157300,345;190959,593
+MECHELEN - FH01;929596;1;0;0;1;SDU;;Y;NA;3;9;;;;BE -;BUILDING template;Kanunnik De Deckerstraat;25;;;157639,905;191259,15
+MECHELEN - FH01;3047699;0;1;0;1;SDU;;N;MON;3;9;;;;MON -;BUILDING template;Schoolstraat;9;;;157803,067;191025,507
+MECHELEN - FH01;4751128;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;44;;;157298,332;190964,948
+MECHELEN - FH01;929595;1;0;0;1;SDU;;Y;NA;3;4;;;;Kannunick De Deckerstraat 27  Sdu : doorgaande bekabeling via wachtbuis mogelijk;BUILDING template;Kanunnik De Deckerstraat;27;;;157631,786;191255,207
+MECHELEN - FH01;3047703;1;0;0;1;SDU;;Y;NA;2;6;;;;Te koop;BUILDING template;Schoolstraat;10;;;157816,775;191013,94
+MECHELEN - FH01;3048621;0;1;0;1;MDU;D;Y;NA;2;6;;;;Sint-katelijnestraat  36A - B  Mdu 1 bu 1lu  doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Sint-Katelijnestraat;36;B;Sint-Katelijnestraat 36-36B;157594,171;191154,788
+MECHELEN - FH01;3033501;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;46;;;157296,048;190970,556
+MECHELEN - FH01;3032842;1;0;0;1;SDU;;Y;NA;3;4;;;;BE - Geen bestaande bekabeling op de gevel;BUILDING template;Kanunnik De Deckerstraat;29;;;157622,438;191251,532
+MECHELEN - FH01;3047705;1;0;0;1;SDU;;N;IRREG;2;5;;;;BE -;BUILDING template;Schoolstraat;11;;;157814,888;191023,398
+MECHELEN - FH01;3033502;3;0;0;3;MDU;D;Y;NA;3;4;;;;;BUILDING template;Dobbelhuizen;48;;;157294,065;190977,689
+MECHELEN - FH01;3032843;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Kanunnik De Deckerstraat;31;;;157616,162;191248,227
+MECHELEN - FH01;3048624;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Sint-Katelijnestraat;39;;;157570,312;191147,651
+MECHELEN - FH01;3033824;0;1;0;1;MDU;XC;N;ORN;;;;;;;BUILDING template;Drabstraat;16;;Drabstraat 14-16;157555,491;190845,466
+MECHELEN - FH01;4140194;1;0;0;1;SDU;;N;IRREG;2;5;;;;;BUILDING template;Schoolstraat;15;;;157824,054;191019,909
+MECHELEN - FH01;3032844;1;1;0;2;MDU;D;Y;NA;2;8;;;;Kannunick De Deckerstraat  33 mdu 1 bu 1 lu: Doorgaande gevelbekabeling en aansluiting mogelijk.;BUILDING template;Kanunnik De Deckerstraat;33;;;157606,476;191244,326
+MECHELEN - FH01;5403845;1;0;0;1;SDU;;N;IRREG;2;5;;;;;BUILDING template;Schoolstraat;17;;;157829,279;191021,967
+MECHELEN - FH01;6726600;0;1;0;1;SDU;;N;IRREG;2;4;;;;;BUILDING template;Hallestraat;10;;;157911,059;190826,615
+MECHELEN - FH01;935309;1;0;0;1;SDU;;Y;NA;3;18;;;;;BUILDING template;Dobbelhuizen;54;;;157285,194;190990,27
+MECHELEN - FH01;4732800;1;0;0;1;SDU;;Y;NA;2;8;;;;;BUILDING template;Kanunnik De Deckerstraat;35;;;157602,651;191240,771
+MECHELEN - FH01;5839399;1;0;0;1;SDU;;N;IRREG;1;3;;;;;BUILDING template;Sint-Janstraat;11;;;157816,99;191176,223
+MECHELEN - FH01;3030821;20;0;2;22;MDU;C;N;IRREG;5;;;;;Residentie Torenhof  Begijnenstraat 4-6: geen kelder apparte  inkomhal met gescheiden intro's;BUILDING template;Begijnenstraat;6;;;157659,063;190894,183
+MECHELEN - FH01;6380419;0;1;0;1;SDU;;N;MON;2;6;;;;MON -;BUILDING template;Steenweg;1;;;157757,671;190831,456
+MECHELEN - FH01;905652;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Drabstraat;2;;;157545,681;190756,06
+MECHELEN - FH01;3032847;4;2;0;6;MDU;C;N;IRREG;3;8;;;;In aanbouw - En construction;BUILDING template;Kanunnik De Deckerstraat;37;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;157552,183;191218,466
+MECHELEN - FH01;5749434;3;0;1;4;MDU;XC;N;IRREG;4;12;;;;BE -;BUILDING template;Varkensstraat;17;;Varkensstraat 17-19;158024,119;190992,764
+MECHELEN - FH01;3033822;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Drabstraat;4;;;157546,073;190760,233
+MECHELEN - FH01;929594;4;2;0;6;MDU;C;Y;NA;4;10;;;;In aanbouw - En construction;BUILDING template;Kanunnik De Deckerstraat;39;;Sint-Katelijnestraat 62-64_Kanunnik De Deckerstraat 37-39-41;157541,915;191215,839
+MECHELEN - FH01;929556;1;0;0;1;SDU;;N;IRREG;3;9;;;;;BUILDING template;Schoutetstraat;1;;;157765,987;191165,113
+MECHELEN - FH01;3033823;3;0;0;3;MDU;D;Y;NA;3;12;;;;"Drabstraat 6: Mdu, 3 bellen  1 bus  2 Lu&amp;amp;apos;s  bewoond. Ondergrondse aanleg intro mogelijk via gevel(bestaand coax).";BUILDING template;Drabstraat;6;;;157547,16;190765,165
+MECHELEN - FH01;904218;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Korte Schipstraat;1;;;157889,685;190551,681
+MECHELEN - FH01;929557;0;1;0;1;SDU;;N;IRREG;3;12;;;;Under construction;BUILDING template;Schoutetstraat;2;;;157734,617;191222,118
+MECHELEN - FH01;901606;1;0;0;1;SDU;;N;IRREG;2;11;;;;;BUILDING template;Sint-Janstraat;13;;;157812,591;191179,925
+MECHELEN - FH01;3047553;2;0;0;2;MDU;D;Y;NA;3;10;;;;;BUILDING template;Korte Schipstraat;3;;;157883,814;190550,8
+MECHELEN - FH01;4740708;0;1;0;1;SDU;;N;MON;5;18;;;;MON -;BUILDING template;Schoutetstraat;3;;;157757,052;191170,847
+MECHELEN - FH01;3035224;0;1;0;1;SDU;;Y;NA;3;4;;;;geen leefruimte op bovenste verdiepen dit hoort nog bij winkel. geen alarm;BUILDING template;Geitestraat;23;;;157826,79;190785,078
+MECHELEN - FH01;4748692;1;2;1;4;MDU;C;N;MON;5;14;;;;Drabstraat 10 ondergrondse intro plaatsen bdfo aaleg via bestaande wachtbuizen naar achtergelegen deel mogelijk. Zowel  het serverlokaal van  Mahala(advocatenkantoor)  als het architectenbureau dmvA zouden volgens de architecten  aansluiting geven op de schacht.;BUILDING template;Drabstraat;10;;;157535,943;190822,684
+MECHELEN - FH01;904239;6;0;1;7;MDU;D;Y;NA;3;10;;;;Korte schipstraat 5 (3lu's) - 5A (3lu's): ondergrondse intro via kelder  aanleg naar het binnenplein  beide gebouwen kunnen via gevelbekabeling aangesloten worden .;BUILDING template;Korte Schipstraat;5;;;157878,406;190547,837
+MECHELEN - FH01;3047870;0;1;0;1;SDU;;N;MON;3;11;;;;MON -;BUILDING template;Schoutetstraat;4;;;157729,709;191233,332
+MECHELEN - FH01;3035202;3;1;1;5;MDU;D;Y;NA;4;4;;;;;BUILDING template;Geitestraat;3;;Geitestraat 1-3;157778,246;190813,868
+MECHELEN - FH01;4748739;0;6;1;7;MDU;XC;N;ORN;4;12;;;;Drabstraat 14-16 Bestaande intro Hoofdgebouw Acv (gebouw A )   aanleg d.m.v. graafwerk 25lm(vliet) over de parking(beheer De Lindepoort) naar gebouw B  intro maken via grote zaal  aanleg  (nieuwe schacht 22m 1 doorboring serverlokaal )naar server lokaal op 1e verdieping  plaatsen Bdfo . Vanuit serverlokaal De Lindepoort zijn de 8 units aansluitbaar via  valse plafond.;BUILDING template;Drabstraat;14;;Drabstraat 14-16;157529,687;190845,342
+MECHELEN - FH01;904260;1;0;0;1;SDU;;N;IRREG;3;10;;;;;BUILDING template;Korte Schipstraat;7;;;157875,834;190542,386
+MECHELEN - FH01;4732895;1;0;0;1;SDU;;N;IRREG;3;11;;;;BE -;BUILDING template;Schoutetstraat;6;;;157723,2;191250,652
+MECHELEN - FH01;904904;0;1;1;2;MDU;D;Y;NA;4;4;;;;;BUILDING template;Geitestraat;1;;Geitestraat 1-3;157775,02;190809,478
+MECHELEN - FH01;3052863;0;1;0;1;SDU;;Y;NA;4;12;;;;_;BUILDING template;Wollemarkt;30;;;157754,894;191097,083
+MECHELEN - FH01;905649;1;1;0;2;MDU;D;Y;NA;3;12;;;;Drabstraat 18: Mdu  1Bu  1Lu. Doorgaande gevelbekabeling  en aansluitingen  mogelijk.;BUILDING template;Drabstraat;18;;;157528,629;190859,317
+MECHELEN - FH01;903516;1;0;0;1;SDU;;N;IRREG;3;10;;;;;BUILDING template;Korte Schipstraat;8;;;157875,218;190563,26
+MECHELEN - FH01;3047872;0;1;0;1;SDU;;N;IRREG;5;18;;;;Geen huisnummer;BUILDING template;Schoutetstraat;7;;;157684,977;191260,666
+MECHELEN - FH01;904915;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Blauwhondstraat;29;;;157818;190740
+MECHELEN - FH01;3049088;0;1;0;1;SDU;;Y;MON;4;12;;;;MON -;BUILDING template;Steenweg;32;;;157735,414;190868,444
+MECHELEN - FH01;3047559;1;0;0;1;SDU;;Y;NA;3;10;;;;;BUILDING template;Korte Schipstraat;9;;;157871,658;190538,837
+MECHELEN - FH01;929622;7;0;1;8;MDU;D;N;IRREG;3;9;;;;;BUILDING template;Schoutetstraat;8;;;157718,097;191260,296
+MECHELEN - FH01;904908;0;1;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Geitestraat;2;;;157772,428;190796,627
+MECHELEN - FH01;919858;0;1;0;1;SDU;;Y;NA;3;15;;;;;BUILDING template;Desire Boucherystraat;2;;;157943,787;190823,397
+MECHELEN - FH01;903515;2;0;0;2;MDU;D;Y;NA;4;12;;;;;BUILDING template;Korte Schipstraat;10;;;157870,905;190560,994
+MECHELEN - FH01;4260111;2;1;3;6;MDU;D;N;IRREG;2;9;;;;BE -;BUILDING template;Schoutetstraat;10;;;157711,132;191282,045
+MECHELEN - FH01;3031625;0;1;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Desire Boucherystraat;4;;;157944,874;190815,278
+MECHELEN - FH01;3047561;2;1;0;3;MDU;D;Y;NA;3;10;;;;;BUILDING template;Korte Schipstraat;11;;;157865,098;190535,357
+MECHELEN - FH01;901602;1;0;0;1;SDU;;N;IRREG;2;8;;;;;BUILDING template;Sint-Janskerkhof;3;;;157833,273;191161,582
+MECHELEN - FH01;905282;1;0;0;1;SDU;;N;IRREG;3;10;;;;Eigenaar onbekend;BUILDING template;Begijnenstraat;2;;;157673,86;190906,944
+MECHELEN - FH01;3031628;0;1;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Desire Boucherystraat;6;;;157945,019;190809,914
+MECHELEN - FH01;3047563;1;0;0;1;SDU;;Y;NA;4;12;;;;;BUILDING template;Korte Schipstraat;13;;;157860,395;190532,077
+MECHELEN - FH01;901603;3;0;0;3;MDU;D;Y;NA;4;12;;;;;BUILDING template;Sint-Janskerkhof;5;;;157835,636;191174,748
+MECHELEN - FH01;3031630;3;1;0;4;MDU;D;Y;NA;4;4;;;;;BUILDING template;Desire Boucherystraat;8;;;157944,584;190805,202
+MECHELEN - FH01;9585;27;0;1;28;MDU;C;N;IRREG;4;14;;;;Residentie  Clement van Perck : Mdu 27Lu's  1 Su. Bestaande doorgaande schacht alle appartement en zijn bereikbaar via de centrale traphal zie plan.;BUILDING template;Korte Schipstraat;14;;;157855,708;190558,55
+MECHELEN - FH01;3048561;0;1;0;1;SDU;;Y;NA;3;14;;;;BE -;BUILDING template;Sint-Janstraat;3;;;157935,55;191168,571
+MECHELEN - FH01;3031632;6;1;1;8;MDU;D;Y;NA;4;4;;;;;BUILDING template;Desire Boucherystraat;10;;;157947,049;190797,156
+MECHELEN - FH01;3047569;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;15;;;157856,189;190530,482
+MECHELEN - FH01;901620;3;0;1;4;MDU;C;N;GLASS;3;8;;;;;BUILDING template;Sint-Janstraat;6;;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157889,963;191191,532
+MECHELEN - FH01;3047572;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;17;;;157852,2;190528,726
+MECHELEN - FH01;901174;1;0;0;1;SDU;;Y;NA;4;14;;;;BE - Beschermd erfgoed;BUILDING template;Sint-Janstraat;7;;;157932,67;191168,917
+MECHELEN - FH01;919857;1;1;0;2;MDU;D;Y;NA;3;20;;;;;BUILDING template;Desire Boucherystraat;14;;;157950,093;190785,413
+MECHELEN - FH01;3047574;1;0;0;1;SDU;;Y;NA;4;14;;;;;BUILDING template;Korte Schipstraat;19;;;157848,255;190527,201
+MECHELEN - FH01;5508105;6;0;1;7;MDU;XC;N;MON;4;14;;;;Sint Jansstraat 8 deel van Buldinggroep : Aanleg via garage vanaf de bdfo via bestaande kabelladder naar beginpunt van nieuwe schacht  parallel aan liftkoker  naar 3e verdieping .. 6Lu  - 1 Su.;BUILDING template;Sint-Janstraat;8;;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157879,203;191192,183
+MECHELEN - FH01;4733917;1;0;0;1;SDU;;N;IRREG;1;;;;;;BUILDING template;Leermarkt;26;;;157949,825;190656,172
+MECHELEN - FH01;919856;1;1;1;3;MDU;D;Y;NA;3;12;;;;;BUILDING template;Desire Boucherystraat;16;;;157951,978;190778,889
+MECHELEN - FH01;3047575;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;21;;;157844,577;190525,588
+MECHELEN - FH01;901607;0;1;0;1;SDU;;N;MON;3;12;;;;MON -;BUILDING template;Sint-Janstraat;9;;;157825,893;191178,004
+MECHELEN - FH01;5602992;1;0;0;1;SDU;;Y;MON;3;4;;;;MON -;BUILDING template;Tichelrij;4;;;157437,715;190819,867
+MECHELEN - FH01;3047577;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;23;;;157840,888;190524,839
+MECHELEN - FH01;5524627;7;0;1;8;MDU;XC;Y;NA;4;12;;;;Sint Jansstraat 10 deel van Buldinggroep : Aanleg via garage vanaf de bdfo via bestaande kabelladder naar beginpunt van nieuwe schacht  parallel aan liftkoker  naar 3e  verdieping .. 7Lu  - 1 Su.;BUILDING template;Sint-Janstraat;10;;Sint-Janstraat 6-8-8A-8B-8C-8D-10-10A;157860,272;191193,26
+MECHELEN - FH01;3031561;0;1;0;1;MDU;D;Y;NA;3;9;;;;_;BUILDING template;Borzestraat;36;;Borzestraat 34-36;157829,343;190682,498
+MECHELEN - FH01;898131;1;0;0;1;SDU;;Y;NA;3;9;;;;;BUILDING template;Van Hoeystraat;15;;;157920,042;191299,867
+MECHELEN - FH01;3047578;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;25;;;157837,128;190523,599
+MECHELEN - FH01;3048565;4;0;0;4;MDU;D;Y;NA;3;4;;;;Sint Jansstraat 12: mdu 4lu's  ģevelbekabeling mogelijk;BUILDING template;Sint-Janstraat;12;;;157828,476;191195,547
+MECHELEN - FH01;901179;3;0;0;3;MDU;D;Y;NA;4;12;;;;;BUILDING template;Frederik de Merodestraat;2;;;157830,516;190942,902
+MECHELEN - FH01;3047580;1;0;0;1;SDU;;Y;NA;3;12;;;;;BUILDING template;Korte Schipstraat;27;;;157833,723;190522,117
+MECHELEN - FH01;901605;1;0;0;1;SDU;;Y;NA;3;4;;;;;BUILDING template;Van Hoeystraat;17;;;157914,81;191301,851

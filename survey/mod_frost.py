@@ -111,17 +111,20 @@ def make_gct():
     df_pr = pd.read_csv(EXPORT_FILE_PR, delimiter=',', encoding = "ISO-8859-1", parse_dates=['TSA SIGNED'],keep_default_na=False,dtype={'Opdrachtnummer': str})
     df_pr.columns = df_pr.columns.str.replace(' ','_')
 
-
+    
     df_pr=df_pr[df_pr['Projectnummer']==projectnummer]
 
-
+    
     df_pr['TSA_SIGNED_TEST'] = df_pr['TSA_SIGNED'].astype(object)
+
     df_pr['VCA'] = df_pr.apply(
         lambda row: 'OK' if (pd.isna(row['TSA_SIGNED_TEST'])==False)&(row['VCA_Status']!='NOK') else row['VCA_Status'] ,
         axis=1
     )
+
+
     df_pr['PENDING'] = df_pr.apply(
-        lambda row: 'PENDING' if (((row['Quadrant'])=='C')|(row['Quadrant']=='XC')|(row['Quadrant']=='A')|(row['Quadrant']=='XA')|(row['Quadrant']=='E')|(row['Quadrant']=='F'))&(row['VCA']=='') else '' ,
+        lambda row: 'PENDING' if (((row['Quadrant'])=='C')|(row['Quadrant']=='XC')|(row['Quadrant']=='A')|(row['Quadrant']=='XA')|(row['Quadrant']=='E')|(row['Quadrant']=='F')|(row['Quadrant']=='B'))&(row['VCA']=='') else '' ,
         axis=1
     )
     df_pr['VCA_Status'] = df_pr['VCA'] + df_pr['PENDING'] 
@@ -224,4 +227,6 @@ def make_gct():
     csv = pbi_vca_todo.to_csv(filename,sep=';',index=False,columns=['Zoning_FID','Area', 'Zoning_ID','Lamkey_FINAL','Lu_Key','E','Area','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','VCA_Status','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','B1_FINAL','B2_FINAL'])
 
     out.info_file('gct csv written',filename)
-#make_gct()
+
+
+make_gct()

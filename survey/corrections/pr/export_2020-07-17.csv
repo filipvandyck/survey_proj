@@ -1,0 +1,1105 @@
+OpdrachtID,Projectnummer,Opdrachttemplate,Opdrachtnummer,"Opdrachtnummer extern","BUILDING KEY",Straat,Huisnummer,"Huisnummer Toevoeging","SSV Action","SSV Action LU",Nature,"Building exists"
+861758,"EVERE - FH05","BUILDING template",1325304,,1325304,"Francois Villonlaan - Avenue Francois Villon",29,,,,,Y
+861759,"EVERE - FH05","BUILDING template",1437988,,1437988,"Galgelaan - Avenue du Gibet",16,,,,,Y
+861760,"EVERE - FH05","BUILDING template",1475527,,1475527,"Platolaan - Avenue Platon",16,,,,,Y
+861761,"EVERE - FH05","BUILDING template",1621278,,1621278,"Platolaan - Avenue Platon",2,,,,,Y
+861762,"EVERE - FH05","BUILDING template",1621279,,1621279,"Platolaan - Avenue Platon",3,,,,,Y
+861763,"EVERE - FH05","BUILDING template",1621280,,1621280,"Platolaan - Avenue Platon",4,,,,,Y
+861764,"EVERE - FH05","BUILDING template",1621281,,1621281,"Platolaan - Avenue Platon",5,,,,,Y
+861765,"EVERE - FH05","BUILDING template",1621282,,1621282,"Platolaan - Avenue Platon",6,,,,,Y
+861766,"EVERE - FH05","BUILDING template",1621283,,1621283,"Platolaan - Avenue Platon",7,,,,,Y
+861767,"EVERE - FH05","BUILDING template",1621284,,1621284,"Platolaan - Avenue Platon",8,,,,,Y
+861768,"EVERE - FH05","BUILDING template",1621285,,1621285,"Platolaan - Avenue Platon",9,,,,,Y
+861769,"EVERE - FH05","BUILDING template",1621286,,1621286,"Platolaan - Avenue Platon",10,,,,,Y
+861770,"EVERE - FH05","BUILDING template",1621287,,1621287,"Platolaan - Avenue Platon",11,,,,,Y
+861771,"EVERE - FH05","BUILDING template",1621288,,1621288,"Platolaan - Avenue Platon",14,,,,,Y
+861772,"EVERE - FH05","BUILDING template",1621289,,1621289,"Platolaan - Avenue Platon",15,,,,,Y
+861773,"EVERE - FH05","BUILDING template",1621290,,1621290,"Platolaan - Avenue Platon",19,,,,,Y
+861774,"EVERE - FH05","BUILDING template",1621291,,1621291,"Platolaan - Avenue Platon",21,,,,,Y
+861775,"EVERE - FH05","BUILDING template",1621554,,1621554,Zaventemstraat,60,,,,,Y
+861776,"EVERE - FH05","BUILDING template",1622424,,1622424,"Duiveltjesgaarde - Clos des Diablotins",2,,,,,Y
+861777,"EVERE - FH05","BUILDING template",1622425,,1622425,"Duiveltjesgaarde - Clos des Diablotins",3,,,,,Y
+861778,"EVERE - FH05","BUILDING template",1622426,,1622426,"Duiveltjesgaarde - Clos des Diablotins",4,,,,,Y
+861779,"EVERE - FH05","BUILDING template",1622427,,1622427,"Duiveltjesgaarde - Clos des Diablotins",6,,,,,Y
+861780,"EVERE - FH05","BUILDING template",1622428,,1622428,"Duiveltjesgaarde - Clos des Diablotins",7,,,,,Y
+861781,"EVERE - FH05","BUILDING template",1622429,,1622429,"Duiveltjesgaarde - Clos des Diablotins",8,,,,,Y
+861782,"EVERE - FH05","BUILDING template",1622430,,1622430,"Duiveltjesgaarde - Clos des Diablotins",9,,,,,Y
+861783,"EVERE - FH05","BUILDING template",1622431,,1622431,"Duiveltjesgaarde - Clos des Diablotins",10,,,,,Y
+861784,"EVERE - FH05","BUILDING template",1622432,,1622432,"Duiveltjesgaarde - Clos des Diablotins",11,,,,,Y
+861785,"EVERE - FH05","BUILDING template",1622433,,1622433,"Duiveltjesgaarde - Clos des Diablotins",14,,,,,Y
+861786,"EVERE - FH05","BUILDING template",1622434,,1622434,"Duiveltjesgaarde - Clos des Diablotins",16,,,,,Y
+861787,"EVERE - FH05","BUILDING template",1622435,,1622435,"Duiveltjesgaarde - Clos des Diablotins",20,,,,,Y
+861788,"EVERE - FH05","BUILDING template",1622436,,1622436,"Duiveltjesgaarde - Clos des Diablotins",21,,,,,Y
+861789,"EVERE - FH05","BUILDING template",1622437,,1622437,"Duiveltjesgaarde - Clos des Diablotins",22,,,,,Y
+861790,"EVERE - FH05","BUILDING template",1622438,,1622438,"Duiveltjesgaarde - Clos des Diablotins",23,,,,,Y
+861791,"EVERE - FH05","BUILDING template",1622439,,1622439,"Duiveltjesgaarde - Clos des Diablotins",24,,,,,Y
+861792,"EVERE - FH05","BUILDING template",1622440,,1622440,"Duiveltjesgaarde - Clos des Diablotins",25,,,,,Y
+861793,"EVERE - FH05","BUILDING template",1622441,,1622441,"Duiveltjesgaarde - Clos des Diablotins",28,,,,,Y
+861794,"EVERE - FH05","BUILDING template",1622442,,1622442,"Duiveltjesgaarde - Clos des Diablotins",32,,,,,Y
+861795,"EVERE - FH05","BUILDING template",1622443,,1622443,"Duiveltjesgaarde - Clos des Diablotins",33,,,,,Y
+861796,"EVERE - FH05","BUILDING template",1622444,,1622444,"Duiveltjesgaarde - Clos des Diablotins",34,,,,,Y
+861797,"EVERE - FH05","BUILDING template",1622445,,1622445,"Duiveltjesgaarde - Clos des Diablotins",37,,,,,Y
+861798,"EVERE - FH05","BUILDING template",1622446,,1622446,"Duiveltjesgaarde - Clos des Diablotins",38,,,,,Y
+861799,"EVERE - FH05","BUILDING template",1622447,,1622447,"Duiveltjesgaarde - Clos des Diablotins",39,,,,,Y
+861800,"EVERE - FH05","BUILDING template",1623001,,1623001,"Clos des Lauriers Roses - Oleandergaard",2,,,,,Y
+861801,"EVERE - FH05","BUILDING template",1623002,,1623002,"Clos des Lauriers Roses - Oleandergaard",3,,,,,Y
+861802,"EVERE - FH05","BUILDING template",1623003,,1623003,"Clos des Lauriers Roses - Oleandergaard",4,,,,,Y
+861803,"EVERE - FH05","BUILDING template",1623004,,1623004,"Clos des Lauriers Roses - Oleandergaard",5,,,,,Y
+861804,"EVERE - FH05","BUILDING template",1623005,,1623005,"Clos des Lauriers Roses - Oleandergaard",6,,,,,Y
+861805,"EVERE - FH05","BUILDING template",1623007,,1623007,"Clos des Lauriers Roses - Oleandergaard",9,,,,,Y
+861806,"EVERE - FH05","BUILDING template",1623008,,1623008,"Clos des Lauriers Roses - Oleandergaard",10,,,,,Y
+861807,"EVERE - FH05","BUILDING template",1623009,,1623009,"Clos des Lauriers Roses - Oleandergaard",11,,,,,Y
+861808,"EVERE - FH05","BUILDING template",1623010,,1623010,"Clos des Lauriers Roses - Oleandergaard",12,,,,,Y
+861809,"EVERE - FH05","BUILDING template",1623011,,1623011,"Clos des Lauriers Roses - Oleandergaard",13,,,,,Y
+861810,"EVERE - FH05","BUILDING template",1623013,,1623013,"Clos des Lauriers Roses - Oleandergaard",16,,,,,Y
+861811,"EVERE - FH05","BUILDING template",1623014,,1623014,"Clos des Lauriers Roses - Oleandergaard",17,,,,,Y
+861812,"EVERE - FH05","BUILDING template",1623015,,1623015,"Clos des Lauriers Roses - Oleandergaard",18,,,,,Y
+861813,"EVERE - FH05","BUILDING template",1623018,,1623018,"Clos des Lauriers Roses - Oleandergaard",21,,,,,Y
+861814,"EVERE - FH05","BUILDING template",1623019,,1623019,"Clos des Lauriers Roses - Oleandergaard",22,,,,,Y
+861815,"EVERE - FH05","BUILDING template",1623022,,1623022,"Clos des Lauriers Roses - Oleandergaard",26,,,,,Y
+861816,"EVERE - FH05","BUILDING template",1623023,,1623023,"Clos des Lauriers Roses - Oleandergaard",27,,,,,Y
+861817,"EVERE - FH05","BUILDING template",1623024,,1623024,"Clos des Lauriers Roses - Oleandergaard",28,,,,,Y
+861818,"EVERE - FH05","BUILDING template",1623025,,1623025,"Clos des Lauriers Roses - Oleandergaard",29,,,,,Y
+861819,"EVERE - FH05","BUILDING template",1623029,,1623029,"Clos des Lauriers Roses - Oleandergaard",33,,,,,Y
+861820,"EVERE - FH05","BUILDING template",1623030,,1623030,"Clos des Lauriers Roses - Oleandergaard",34,,,,,Y
+861821,"EVERE - FH05","BUILDING template",1623031,,1623031,"Clos des Lauriers Roses - Oleandergaard",35,,,,,Y
+861822,"EVERE - FH05","BUILDING template",1623033,,1623033,"Clos des Lauriers Roses - Oleandergaard",38,,,,,Y
+861823,"EVERE - FH05","BUILDING template",1623034,,1623034,"Clos des Lauriers Roses - Oleandergaard",40,,,,,Y
+861824,"EVERE - FH05","BUILDING template",1623035,,1623035,"Clos des Lauriers Roses - Oleandergaard",41,,,,,Y
+861825,"EVERE - FH05","BUILDING template",1623036,,1623036,"Clos des Lauriers Roses - Oleandergaard",42,,,,,Y
+861826,"EVERE - FH05","BUILDING template",1623039,,1623039,"Clos des Lauriers Roses - Oleandergaard",45,,,,,Y
+861827,"EVERE - FH05","BUILDING template",1623040,,1623040,"Clos des Lauriers Roses - Oleandergaard",47,,,,,Y
+861828,"EVERE - FH05","BUILDING template",1623041,,1623041,"Clos des Lauriers Roses - Oleandergaard",48,,,,,Y
+861829,"EVERE - FH05","BUILDING template",1623042,,1623042,"Clos des Lauriers Roses - Oleandergaard",49,,,,,Y
+861830,"EVERE - FH05","BUILDING template",1623045,,1623045,"Clos des Lauriers Roses - Oleandergaard",52,,,,,Y
+861831,"EVERE - FH05","BUILDING template",1623046,,1623046,"Clos des Lauriers Roses - Oleandergaard",54,,,,,Y
+861832,"EVERE - FH05","BUILDING template",1623048,,1623048,"Clos des Lauriers Roses - Oleandergaard",58,,,,,Y
+861833,"EVERE - FH05","BUILDING template",1623049,,1623049,"Clos des Lauriers Roses - Oleandergaard",59,,,,,Y
+861834,"EVERE - FH05","BUILDING template",1623051,,1623051,"Clos des Lauriers Roses - Oleandergaard",62,,,,,Y
+861835,"EVERE - FH05","BUILDING template",1623052,,1623052,"Clos des Lauriers Roses - Oleandergaard",63,,,,,Y
+861836,"EVERE - FH05","BUILDING template",1623054,,1623054,"Clos des Lauriers Roses - Oleandergaard",66,,,,,Y
+861837,"EVERE - FH05","BUILDING template",1623055,,1623055,"Clos des Lauriers Roses - Oleandergaard",67,,,,,Y
+861838,"EVERE - FH05","BUILDING template",1623056,,1623056,"Clos des Lauriers Roses - Oleandergaard",68,,,,,Y
+861839,"EVERE - FH05","BUILDING template",1623058,,1623058,"Clos des Lauriers Roses - Oleandergaard",72,,,,,Y
+861840,"EVERE - FH05","BUILDING template",1623061,,1623061,"Clos des Lauriers Roses - Oleandergaard",76,,,,,Y
+861841,"EVERE - FH05","BUILDING template",1623062,,1623062,"Clos des Lauriers Roses - Oleandergaard",77,,,,,Y
+861842,"EVERE - FH05","BUILDING template",1623065,,1623065,"Clos des Lauriers Roses - Oleandergaard",81,,,,,Y
+861843,"EVERE - FH05","BUILDING template",1623066,,1623066,"Clos des Lauriers Roses - Oleandergaard",82,,,,,Y
+861844,"EVERE - FH05","BUILDING template",1623067,,1623067,"Clos des Lauriers Roses - Oleandergaard",83,,,,,Y
+861845,"EVERE - FH05","BUILDING template",1623068,,1623068,"Clos des Lauriers Roses - Oleandergaard",84,,,,,Y
+861846,"EVERE - FH05","BUILDING template",1623071,,1623071,"Clos des Lauriers Roses - Oleandergaard",87,,,,,Y
+861847,"EVERE - FH05","BUILDING template",1623072,,1623072,"Clos des Lauriers Roses - Oleandergaard",88,,,,,Y
+861848,"EVERE - FH05","BUILDING template",1623073,,1623073,"Clos des Lauriers Roses - Oleandergaard",89,,,,,Y
+861849,"EVERE - FH05","BUILDING template",1623074,,1623074,"Clos des Lauriers Roses - Oleandergaard",90,,,,,Y
+861850,"EVERE - FH05","BUILDING template",1623075,,1623075,"Clos des Lauriers Roses - Oleandergaard",91,,,,,Y
+861851,"EVERE - FH05","BUILDING template",1623078,,1623078,"Clos des Lauriers Roses - Oleandergaard",94,,,,,Y
+861852,"EVERE - FH05","BUILDING template",1623079,,1623079,"Clos des Lauriers Roses - Oleandergaard",95,,,,,Y
+861853,"EVERE - FH05","BUILDING template",1623081,,1623081,"Clos des Lauriers Roses - Oleandergaard",98,,,,,Y
+861854,"EVERE - FH05","BUILDING template",1623082,,1623082,"Clos des Lauriers Roses - Oleandergaard",99,,,,,Y
+861855,"EVERE - FH05","BUILDING template",1623266,,1623266,"A. Vermeylenlaan - Avenue Auguste Vermeylen",3,,,,,Y
+861856,"EVERE - FH05","BUILDING template",1623267,,1623267,"A. Vermeylenlaan - Avenue Auguste Vermeylen",4,,,,,Y
+861857,"EVERE - FH05","BUILDING template",1623268,,1623268,"A. Vermeylenlaan - Avenue Auguste Vermeylen",5,,,,,Y
+861858,"EVERE - FH05","BUILDING template",1623269,,1623269,"A. Vermeylenlaan - Avenue Auguste Vermeylen",7,,,,,Y
+861859,"EVERE - FH05","BUILDING template",1623270,,1623270,"A. Vermeylenlaan - Avenue Auguste Vermeylen",8,,,,,Y
+861860,"EVERE - FH05","BUILDING template",1623271,,1623271,"A. Vermeylenlaan - Avenue Auguste Vermeylen",10,,,,,Y
+861861,"EVERE - FH05","BUILDING template",1623272,,1623272,"A. Vermeylenlaan - Avenue Auguste Vermeylen",11,,,,,Y
+861862,"EVERE - FH05","BUILDING template",1623273,,1623273,"A. Vermeylenlaan - Avenue Auguste Vermeylen",12,,,,,Y
+861863,"EVERE - FH05","BUILDING template",1623274,,1623274,"A. Vermeylenlaan - Avenue Auguste Vermeylen",13,,,,,Y
+861864,"EVERE - FH05","BUILDING template",1623275,,1623275,"A. Vermeylenlaan - Avenue Auguste Vermeylen",14,,,,,Y
+861865,"EVERE - FH05","BUILDING template",1623276,,1623276,"A. Vermeylenlaan - Avenue Auguste Vermeylen",15,,,,,Y
+861866,"EVERE - FH05","BUILDING template",1623277,,1623277,"A. Vermeylenlaan - Avenue Auguste Vermeylen",17,,,,,Y
+861867,"EVERE - FH05","BUILDING template",1623278,,1623278,"A. Vermeylenlaan - Avenue Auguste Vermeylen",18,,,,,Y
+861868,"EVERE - FH05","BUILDING template",1623279,,1623279,"A. Vermeylenlaan - Avenue Auguste Vermeylen",25,,,,,Y
+861869,"EVERE - FH05","BUILDING template",1623280,,1623280,"A. Vermeylenlaan - Avenue Auguste Vermeylen",28,,,,,Y
+861870,"EVERE - FH05","BUILDING template",1623281,,1623281,"A. Vermeylenlaan - Avenue Auguste Vermeylen",30,,,,,Y
+861871,"EVERE - FH05","BUILDING template",1623282,,1623282,"A. Vermeylenlaan - Avenue Auguste Vermeylen",31,,,,,Y
+861872,"EVERE - FH05","BUILDING template",1623283,,1623283,"A. Vermeylenlaan - Avenue Auguste Vermeylen",33,,,,,Y
+861873,"EVERE - FH05","BUILDING template",1623284,,1623284,"A. Vermeylenlaan - Avenue Auguste Vermeylen",34,,,,,Y
+861874,"EVERE - FH05","BUILDING template",1623285,,1623285,"A. Vermeylenlaan - Avenue Auguste Vermeylen",35,,,,,Y
+861875,"EVERE - FH05","BUILDING template",1623286,,1623286,"A. Vermeylenlaan - Avenue Auguste Vermeylen",36,,,,,Y
+861876,"EVERE - FH05","BUILDING template",1623287,,1623287,"A. Vermeylenlaan - Avenue Auguste Vermeylen",37,,,,,Y
+861877,"EVERE - FH05","BUILDING template",1623288,,1623288,"A. Vermeylenlaan - Avenue Auguste Vermeylen",39,,,,,Y
+861878,"EVERE - FH05","BUILDING template",1623289,,1623289,"A. Vermeylenlaan - Avenue Auguste Vermeylen",41,,,,,Y
+861879,"EVERE - FH05","BUILDING template",1623290,,1623290,"A. Vermeylenlaan - Avenue Auguste Vermeylen",42,,,,,Y
+861880,"EVERE - FH05","BUILDING template",1623291,,1623291,"A. Vermeylenlaan - Avenue Auguste Vermeylen",43,,,,,Y
+861881,"EVERE - FH05","BUILDING template",1623292,,1623292,"A. Vermeylenlaan - Avenue Auguste Vermeylen",44,,,,,Y
+861882,"EVERE - FH05","BUILDING template",1623293,,1623293,"A. Vermeylenlaan - Avenue Auguste Vermeylen",45,,,,,Y
+861883,"EVERE - FH05","BUILDING template",1623294,,1623294,"A. Vermeylenlaan - Avenue Auguste Vermeylen",47,,,,,Y
+861884,"EVERE - FH05","BUILDING template",1623295,,1623295,"A. Vermeylenlaan - Avenue Auguste Vermeylen",48,,,,,Y
+861885,"EVERE - FH05","BUILDING template",1623296,,1623296,"A. Vermeylenlaan - Avenue Auguste Vermeylen",50,,,,,Y
+861886,"EVERE - FH05","BUILDING template",1623297,,1623297,"A. Vermeylenlaan - Avenue Auguste Vermeylen",51,,,,,Y
+861887,"EVERE - FH05","BUILDING template",1623298,,1623298,"A. Vermeylenlaan - Avenue Auguste Vermeylen",52,,,,,Y
+861888,"EVERE - FH05","BUILDING template",1623299,,1623299,"A. Vermeylenlaan - Avenue Auguste Vermeylen",53,,,,,Y
+861889,"EVERE - FH05","BUILDING template",1623300,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,,Y
+861890,"EVERE - FH05","BUILDING template",1623302,,1623302,"Francois Villonlaan - Avenue Francois Villon",3,,,,,Y
+861891,"EVERE - FH05","BUILDING template",1623303,,1623303,"Francois Villonlaan - Avenue Francois Villon",4,,,,,Y
+861892,"EVERE - FH05","BUILDING template",1623304,,1623304,"Francois Villonlaan - Avenue Francois Villon",5,,,,,Y
+861893,"EVERE - FH05","BUILDING template",1623305,,1623305,"Francois Villonlaan - Avenue Francois Villon",6,,,,,Y
+861894,"EVERE - FH05","BUILDING template",1623306,,1623306,"Francois Villonlaan - Avenue Francois Villon",8,,,,,Y
+861895,"EVERE - FH05","BUILDING template",1623307,,1623307,"Francois Villonlaan - Avenue Francois Villon",11,,,,,Y
+861896,"EVERE - FH05","BUILDING template",1623308,,1623308,"Francois Villonlaan - Avenue Francois Villon",13,,,,,Y
+861897,"EVERE - FH05","BUILDING template",1623309,,1623309,"Francois Villonlaan - Avenue Francois Villon",16,,,,,Y
+861898,"EVERE - FH05","BUILDING template",1623310,,1623310,"Francois Villonlaan - Avenue Francois Villon",18,,,,,Y
+861899,"EVERE - FH05","BUILDING template",1623311,,1623311,"Francois Villonlaan - Avenue Francois Villon",19,,,,,Y
+861900,"EVERE - FH05","BUILDING template",1623312,,1623312,"Francois Villonlaan - Avenue Francois Villon",21,,,,,Y
+861901,"EVERE - FH05","BUILDING template",1623313,,1623313,"Francois Villonlaan - Avenue Francois Villon",22,,,,,Y
+861902,"EVERE - FH05","BUILDING template",1623314,,1623314,"Francois Villonlaan - Avenue Francois Villon",26,,,,,Y
+861903,"EVERE - FH05","BUILDING template",1623315,,1623315,"Francois Villonlaan - Avenue Francois Villon",27,,,,,Y
+861904,"EVERE - FH05","BUILDING template",1623316,,1623316,"Francois Villonlaan - Avenue Francois Villon",33,,,,,Y
+861905,"EVERE - FH05","BUILDING template",1623317,,1623317,"Francois Villonlaan - Avenue Francois Villon",34,,,,,Y
+861906,"EVERE - FH05","BUILDING template",1623318,,1623318,"Francois Villonlaan - Avenue Francois Villon",35,,,,,Y
+861907,"EVERE - FH05","BUILDING template",1623319,,1623319,"Francois Villonlaan - Avenue Francois Villon",36,,,,,Y
+861908,"EVERE - FH05","BUILDING template",1623320,,1623320,"Francois Villonlaan - Avenue Francois Villon",40,,,,,Y
+861909,"EVERE - FH05","BUILDING template",1623321,,1623321,"Francois Villonlaan - Avenue Francois Villon",42,,,,,Y
+861910,"EVERE - FH05","BUILDING template",1623322,,1623322,"Francois Villonlaan - Avenue Francois Villon",44,,,,,Y
+861911,"EVERE - FH05","BUILDING template",1623323,,1623323,"Francois Villonlaan - Avenue Francois Villon",46,,,,,Y
+861912,"EVERE - FH05","BUILDING template",1623324,,1623324,"Francois Villonlaan - Avenue Francois Villon",48,,,,,Y
+861913,"EVERE - FH05","BUILDING template",1623325,,1623325,"Francois Villonlaan - Avenue Francois Villon",50,,,,,Y
+861914,"EVERE - FH05","BUILDING template",1623326,,1623326,"Francois Villonlaan - Avenue Francois Villon",54,,,,,Y
+861915,"EVERE - FH05","BUILDING template",1623327,,1623327,"Francois Villonlaan - Avenue Francois Villon",56,,,,,Y
+861916,"EVERE - FH05","BUILDING template",1623328,,1623328,"Francois Villonlaan - Avenue Francois Villon",58,,,,,Y
+861917,"EVERE - FH05","BUILDING template",25439,,25439,"A. Vermeylenlaan - Avenue Auguste Vermeylen",56,,,,,Y
+861918,"EVERE - FH05","BUILDING template",25443,,25443,"Galgelaan - Avenue du Gibet",1,,,,,Y
+861919,"EVERE - FH05","BUILDING template",3916101,,3916101,"Galgelaan - Avenue du Gibet",5,,,,,Y
+861920,"EVERE - FH05","BUILDING template",3916138,,3916138,"Francois Villonlaan - Avenue Francois Villon",20,,,,,Y
+861921,"EVERE - FH05","BUILDING template",3997166,,3997166,"Francois Villonlaan - Avenue Francois Villon",38,,,,,Y
+861922,"EVERE - FH05","BUILDING template",4045399,,4045399,"A. Vermeylenlaan - Avenue Auguste Vermeylen",23,,,,,Y
+861923,"EVERE - FH05","BUILDING template",4103547,,4103547,"A. Vermeylenlaan - Avenue Auguste Vermeylen",54,,,,,Y
+861924,"EVERE - FH05","BUILDING template",4106862,,4106862,"Duiveltjesgaarde - Clos des Diablotins",15,,,,,Y
+861925,"EVERE - FH05","BUILDING template",4107583,,4107583,"Francois Villonlaan - Avenue Francois Villon",10,,,,,Y
+861926,"EVERE - FH05","BUILDING template",4107720,,4107720,"Francois Villonlaan - Avenue Francois Villon",24,,,,,Y
+861927,"EVERE - FH05","BUILDING template",4108023,,4108023,"Clos des Lauriers Roses - Oleandergaard",23,,,,,Y
+861928,"EVERE - FH05","BUILDING template",4108153,,4108153,"Duiveltjesgaarde - Clos des Diablotins",29,,,,,Y
+861929,"EVERE - FH05","BUILDING template",4108997,,4108997,"Clos des Lauriers Roses - Oleandergaard",39,,,,,Y
+861930,"EVERE - FH05","BUILDING template",4108998,,4108998,"Clos des Lauriers Roses - Oleandergaard",46,,,,,Y
+861931,"EVERE - FH05","BUILDING template",4110760,,4110760,"Duiveltjesgaarde - Clos des Diablotins",5,,,,,Y
+861932,"EVERE - FH05","BUILDING template",4111295,,4111295,"Clos des Lauriers Roses - Oleandergaard",32,,,,,Y
+861933,"EVERE - FH05","BUILDING template",4112747,,4112747,"Clos des Lauriers Roses - Oleandergaard",71,,,,,Y
+861934,"EVERE - FH05","BUILDING template",4112748,,4112748,"Clos des Lauriers Roses - Oleandergaard",75,,,,,Y
+861935,"EVERE - FH05","BUILDING template",4112754,,4112754,"Francois Villonlaan - Avenue Francois Villon",52,,,,,Y
+861936,"EVERE - FH05","BUILDING template",4112904,,4112904,"A. Vermeylenlaan - Avenue Auguste Vermeylen",9,,,,,Y
+861937,"EVERE - FH05","BUILDING template",4113214,,4113214,"A. Vermeylenlaan - Avenue Auguste Vermeylen",40,,,,,Y
+861938,"EVERE - FH05","BUILDING template",4113812,,4113812,"A. Vermeylenlaan - Avenue Auguste Vermeylen",6,,,,,Y
+861939,"EVERE - FH05","BUILDING template",4114701,,4114701,"A. Vermeylenlaan - Avenue Auguste Vermeylen",19,,,,,Y
+861940,"EVERE - FH05","BUILDING template",4114755,,4114755,"A. Vermeylenlaan - Avenue Auguste Vermeylen",49,,,,,Y
+861941,"EVERE - FH05","BUILDING template",4117619,,4117619,"Clos des Lauriers Roses - Oleandergaard",57,,,,,Y
+861942,"EVERE - FH05","BUILDING template",4117622,,4117622,"Clos des Lauriers Roses - Oleandergaard",53,,,,,Y
+861943,"EVERE - FH05","BUILDING template",4119304,,4119304,"Clos des Lauriers Roses - Oleandergaard",80,,,,,Y
+861944,"EVERE - FH05","BUILDING template",4119581,,4119581,"A. Vermeylenlaan - Avenue Auguste Vermeylen",21,,,,,Y
+861945,"EVERE - FH05","BUILDING template",4119601,,4119601,"Francois Villonlaan - Avenue Francois Villon",28,,,,,Y
+861946,"EVERE - FH05","BUILDING template",4119604,,4119604,"A. Vermeylenlaan - Avenue Auguste Vermeylen",32,,,,,Y
+861947,"EVERE - FH05","BUILDING template",4119614,,4119614,"Duiveltjesgaarde - Clos des Diablotins",35,,,,,Y
+861948,"EVERE - FH05","BUILDING template",4119616,,4119616,"Duiveltjesgaarde - Clos des Diablotins",17,,,,,Y
+861949,"EVERE - FH05","BUILDING template",4119628,,4119628,"A. Vermeylenlaan - Avenue Auguste Vermeylen",46,,,,,Y
+861950,"EVERE - FH05","BUILDING template",4124523,,4124523,"A. Vermeylenlaan - Avenue Auguste Vermeylen",38,,,,,Y
+861951,"EVERE - FH05","BUILDING template",4187816,,4187816,"Galgelaan - Avenue du Gibet",3,,,,,Y
+861952,"EVERE - FH05","BUILDING template",5583150,,5583150,Leuvensesteenweg,955,,,,,Y
+861953,"EVERE - FH05","BUILDING template",5583209,,5583209,"Clos des Lauriers Roses - Oleandergaard",8,,,,,Y
+861954,"EVERE - FH05","BUILDING template",5583210,,5583210,"Clos des Lauriers Roses - Oleandergaard",14,,,,,Y
+861955,"EVERE - FH05","BUILDING template",5583211,,5583211,"Clos des Lauriers Roses - Oleandergaard",20,,,,,Y
+861956,"EVERE - FH05","BUILDING template",5583212,,5583212,"Clos des Lauriers Roses - Oleandergaard",24,,,,,Y
+861957,"EVERE - FH05","BUILDING template",5583213,,5583213,"Clos des Lauriers Roses - Oleandergaard",31,,,,,Y
+861958,"EVERE - FH05","BUILDING template",5583214,,5583214,"Clos des Lauriers Roses - Oleandergaard",36,,,,,Y
+861959,"EVERE - FH05","BUILDING template",5583215,,5583215,"Clos des Lauriers Roses - Oleandergaard",44,,,,,Y
+861960,"EVERE - FH05","BUILDING template",5583216,,5583216,"Clos des Lauriers Roses - Oleandergaard",50,,,,,Y
+861961,"EVERE - FH05","BUILDING template",5583217,,5583217,"Clos des Lauriers Roses - Oleandergaard",56,,,,,Y
+861962,"EVERE - FH05","BUILDING template",5583218,,5583218,"Clos des Lauriers Roses - Oleandergaard",60,,,,,Y
+861963,"EVERE - FH05","BUILDING template",5583219,,5583219,"Clos des Lauriers Roses - Oleandergaard",70,,,,,Y
+861964,"EVERE - FH05","BUILDING template",5583220,,5583220,"Clos des Lauriers Roses - Oleandergaard",73,,,,,Y
+861965,"EVERE - FH05","BUILDING template",5583221,,5583221,"Clos des Lauriers Roses - Oleandergaard",74,,,,,Y
+861966,"EVERE - FH05","BUILDING template",5583222,,5583222,"Clos des Lauriers Roses - Oleandergaard",78,,,,,Y
+861967,"EVERE - FH05","BUILDING template",5583223,,5583223,"Clos des Lauriers Roses - Oleandergaard",86,,,,,Y
+861968,"EVERE - FH05","BUILDING template",5583224,,5583224,"Clos des Lauriers Roses - Oleandergaard",92,,,,,Y
+861969,"EVERE - FH05","BUILDING template",5583225,,5583225,"Clos des Lauriers Roses - Oleandergaard",97,,,,,Y
+861970,"EVERE - FH05","BUILDING template",5583226,,5583226,"Clos des Lauriers Roses - Oleandergaard",100,,,,,Y
+861971,"EVERE - FH05","BUILDING template",5583227,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,,Y
+861972,"EVERE - FH05","BUILDING template",5583228,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,,Y
+861973,"EVERE - FH05","BUILDING template",725731,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,,Y
+861974,"EVERE - FH05","BUILDING template",725732,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,,Y
+861975,"EVERE - FH05","BUILDING template",725733,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,,Y
+861976,"EVERE - FH05","BUILDING template",725754,,725754,"Clos des Lauriers Roses - Oleandergaard",7,,,,,Y
+861977,"EVERE - FH05","BUILDING template",725756,,725756,"Clos des Lauriers Roses - Oleandergaard",1,,,,,Y
+861978,"EVERE - FH05","BUILDING template",725806,,725806,"Clos des Lauriers Roses - Oleandergaard",19,,,,,Y
+861979,"EVERE - FH05","BUILDING template",725807,,725807,"Clos des Lauriers Roses - Oleandergaard",15,,,,,Y
+861980,"EVERE - FH05","BUILDING template",725808,,725808,"Clos des Lauriers Roses - Oleandergaard",30,,,,,Y
+861981,"EVERE - FH05","BUILDING template",725809,,725809,"Clos des Lauriers Roses - Oleandergaard",25,,,,,Y
+861982,"EVERE - FH05","BUILDING template",725810,,725810,"Clos des Lauriers Roses - Oleandergaard",43,,,,,Y
+861983,"EVERE - FH05","BUILDING template",725811,,725811,"Clos des Lauriers Roses - Oleandergaard",37,,,,,Y
+861984,"EVERE - FH05","BUILDING template",725816,,725816,"Clos des Lauriers Roses - Oleandergaard",61,,,,,Y
+861985,"EVERE - FH05","BUILDING template",725817,,725817,"Clos des Lauriers Roses - Oleandergaard",64,,,,,Y
+861986,"EVERE - FH05","BUILDING template",725818,,725818,"Clos des Lauriers Roses - Oleandergaard",65,,,,,Y
+861987,"EVERE - FH05","BUILDING template",725819,,725819,"Clos des Lauriers Roses - Oleandergaard",69,,,,,Y
+861988,"EVERE - FH05","BUILDING template",725820,,725820,"Clos des Lauriers Roses - Oleandergaard",79,,,,,Y
+861989,"EVERE - FH05","BUILDING template",725821,,725821,"Clos des Lauriers Roses - Oleandergaard",85,,,,,Y
+861990,"EVERE - FH05","BUILDING template",725822,,725822,"Clos des Lauriers Roses - Oleandergaard",93,,,,,Y
+861991,"EVERE - FH05","BUILDING template",725823,,725823,"Clos des Lauriers Roses - Oleandergaard",96,,,,,Y
+861992,"EVERE - FH05","BUILDING template",725824,,725824,"A. Vermeylenlaan - Avenue Auguste Vermeylen",26,,,,,Y
+861993,"EVERE - FH05","BUILDING template",725825,,725825,"A. Vermeylenlaan - Avenue Auguste Vermeylen",24,,,,,Y
+861994,"EVERE - FH05","BUILDING template",725826,,725826,"A. Vermeylenlaan - Avenue Auguste Vermeylen",20,,,,,Y
+861995,"EVERE - FH05","BUILDING template",725827,,725827,"A. Vermeylenlaan - Avenue Auguste Vermeylen",2,,,,,Y
+861996,"EVERE - FH05","BUILDING template",725828,,725828,"A. Vermeylenlaan - Avenue Auguste Vermeylen",22,,,,,Y
+861997,"EVERE - FH05","BUILDING template",725829,,725829,"Galgelaan - Avenue du Gibet",22,,,,,Y
+861998,"EVERE - FH05","BUILDING template",725830,,725830,"Galgelaan - Avenue du Gibet",20,,,,,Y
+861999,"EVERE - FH05","BUILDING template",725831,,725831,"Galgelaan - Avenue du Gibet",18,,,,,Y
+862000,"EVERE - FH05","BUILDING template",725832,,725832,"Clos des Lauriers Roses - Oleandergaard",51,,,,,Y
+862001,"EVERE - FH05","BUILDING template",725833,,725833,"Clos des Lauriers Roses - Oleandergaard",55,,,,,Y
+862002,"EVERE - FH05","BUILDING template",725878,,725878,Leuvensesteenweg,979,,,,,Y
+862003,"EVERE - FH05","BUILDING template",725879,,725879,Leuvensesteenweg,977,,,,,Y
+862004,"EVERE - FH05","BUILDING template",725880,,725880,Leuvensesteenweg,975,,,,,Y
+862005,"EVERE - FH05","BUILDING template",725881,,725881,Leuvensesteenweg,973,,,,,Y
+862006,"EVERE - FH05","BUILDING template",725882,,725882,Leuvensesteenweg,971,,,,,Y
+862007,"EVERE - FH05","BUILDING template",725883,,725883,Leuvensesteenweg,969,,,,,Y
+862008,"EVERE - FH05","BUILDING template",725884,,725884,Leuvensesteenweg,967,,,,,Y
+862009,"EVERE - FH05","BUILDING template",725885,,725885,Leuvensesteenweg,965,,,,,Y
+862010,"EVERE - FH05","BUILDING template",725886,,725886,Leuvensesteenweg,963,,,,,Y
+862011,"EVERE - FH05","BUILDING template",725887,,725887,Leuvensesteenweg,961,,,,,Y
+862012,"EVERE - FH05","BUILDING template",725888,,725888,Leuvensesteenweg,959,,,,,Y
+862013,"EVERE - FH05","BUILDING template",725889,,725889,Leuvensesteenweg,957,,,,,Y
+862014,"EVERE - FH05","BUILDING template",725890,,725890,Leuvensesteenweg,953,,,,,Y
+862015,"EVERE - FH05","BUILDING template",725891,,725891,"Platolaan - Avenue Platon",17,,,,,Y
+862016,"EVERE - FH05","BUILDING template",725892,,725892,"Platolaan - Avenue Platon",18,,,,,Y
+862017,"EVERE - FH05","BUILDING template",725893,,725893,"Platolaan - Avenue Platon",13,,,,,Y
+862018,"EVERE - FH05","BUILDING template",725894,,725894,"Platolaan - Avenue Platon",20,,,,,Y
+862019,"EVERE - FH05","BUILDING template",725895,,725895,"Platolaan - Avenue Platon",12,,,,,Y
+862020,"EVERE - FH05","BUILDING template",725896,,725896,"Platolaan - Avenue Platon",1,,,,,Y
+862021,"EVERE - FH05","BUILDING template",725897,,725897,"A. Vermeylenlaan - Avenue Auguste Vermeylen",55,,,,,Y
+862022,"EVERE - FH05","BUILDING template",725898,,725898,"A. Vermeylenlaan - Avenue Auguste Vermeylen",27,,,,,Y
+862023,"EVERE - FH05","BUILDING template",725899,,725899,"A. Vermeylenlaan - Avenue Auguste Vermeylen",1,,,,,Y
+862024,"EVERE - FH05","BUILDING template",725900,,725900,"A. Vermeylenlaan - Avenue Auguste Vermeylen",16,,,,,Y
+862025,"EVERE - FH05","BUILDING template",725901,,725901,"A. Vermeylenlaan - Avenue Auguste Vermeylen",29,,,,,Y
+862026,"EVERE - FH05","BUILDING template",725902,,725902,"Galgelaan - Avenue du Gibet",14,,,,,Y
+862027,"EVERE - FH05","BUILDING template",725903,,725903,"Galgelaan - Avenue du Gibet",12,,,,,Y
+862028,"EVERE - FH05","BUILDING template",725904,,725904,"Galgelaan - Avenue du Gibet",10,,,,,Y
+862029,"EVERE - FH05","BUILDING template",725907,,725907,"Galgelaan - Avenue du Gibet",7,,,,,Y
+862030,"EVERE - FH05","BUILDING template",725908,,725908,"Francois Villonlaan - Avenue Francois Villon",60,,,,,Y
+862031,"EVERE - FH05","BUILDING template",725909,,725909,"Francois Villonlaan - Avenue Francois Villon",32,,,,,Y
+862032,"EVERE - FH05","BUILDING template",725910,,725910,"Francois Villonlaan - Avenue Francois Villon",30,,,,,Y
+862033,"EVERE - FH05","BUILDING template",725911,,725911,"Francois Villonlaan - Avenue Francois Villon",14,,,,,Y
+862034,"EVERE - FH05","BUILDING template",725912,,725912,"Francois Villonlaan - Avenue Francois Villon",12,,,,,Y
+862035,"EVERE - FH05","BUILDING template",725913,,725913,"Francois Villonlaan - Avenue Francois Villon",2,,,,,Y
+862036,"EVERE - FH05","BUILDING template",725914,,725914,"Francois Villonlaan - Avenue Francois Villon",9,,,,,Y
+862037,"EVERE - FH05","BUILDING template",725915,,725915,"Francois Villonlaan - Avenue Francois Villon",15,,,,,Y
+862038,"EVERE - FH05","BUILDING template",725916,,725916,"Francois Villonlaan - Avenue Francois Villon",1,,,,,Y
+862039,"EVERE - FH05","BUILDING template",725917,,725917,"Francois Villonlaan - Avenue Francois Villon",7,,,,,Y
+862040,"EVERE - FH05","BUILDING template",725918,,725918,"Francois Villonlaan - Avenue Francois Villon",25,,,,,Y
+862041,"EVERE - FH05","BUILDING template",725919,,725919,"Francois Villonlaan - Avenue Francois Villon",31,,,,,Y
+862042,"EVERE - FH05","BUILDING template",725920,,725920,"Francois Villonlaan - Avenue Francois Villon",17,,,,,Y
+862043,"EVERE - FH05","BUILDING template",725921,,725921,"Francois Villonlaan - Avenue Francois Villon",23,,,,,Y
+862044,"EVERE - FH05","BUILDING template",862903,,862903,Cicerolaan,20,,,,,Y
+862045,"EVERE - FH05","BUILDING template",862904,,862904,"Duiveltjesgaarde - Clos des Diablotins",40,,,,,Y
+862046,"EVERE - FH05","BUILDING template",862905,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,,Y
+862047,"EVERE - FH05","BUILDING template",862906,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,,Y
+862048,"EVERE - FH05","BUILDING template",862907,,862907,"Duiveltjesgaarde - Clos des Diablotins",27,,,,,Y
+862049,"EVERE - FH05","BUILDING template",862908,,862908,"Duiveltjesgaarde - Clos des Diablotins",30,,,,,Y
+862050,"EVERE - FH05","BUILDING template",862909,,862909,"Duiveltjesgaarde - Clos des Diablotins",36,,,,,Y
+862051,"EVERE - FH05","BUILDING template",862910,,862910,"Duiveltjesgaarde - Clos des Diablotins",31,,,,,Y
+862052,"EVERE - FH05","BUILDING template",862911,,862911,"Duiveltjesgaarde - Clos des Diablotins",1,,,,,Y
+862053,"EVERE - FH05","BUILDING template",862912,,862912,"Duiveltjesgaarde - Clos des Diablotins",12,,,,,Y
+862054,"EVERE - FH05","BUILDING template",862913,,862913,"Duiveltjesgaarde - Clos des Diablotins",13,,,,,Y
+862055,"EVERE - FH05","BUILDING template",862914,,862914,"Duiveltjesgaarde - Clos des Diablotins",18,,,,,Y
+862056,"EVERE - FH05","BUILDING template",862915,,862915,"Duiveltjesgaarde - Clos des Diablotins",19,,,,,Y
+862057,"EVERE - FH05","BUILDING template",862916,,862916,"Duiveltjesgaarde - Clos des Diablotins",26,,,,,Y
+862058,"EVERE - FH05","(L/B/S)U template",2582568,,1325304,"Francois Villonlaan - Avenue Francois Villon",29,,,,LU,
+862059,"EVERE - FH05","(L/B/S)U template",2572755,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862060,"EVERE - FH05","(L/B/S)U template",2572756,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862061,"EVERE - FH05","(L/B/S)U template",2572757,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862062,"EVERE - FH05","(L/B/S)U template",2572758,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862063,"EVERE - FH05","(L/B/S)U template",2572759,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862064,"EVERE - FH05","(L/B/S)U template",2572760,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862065,"EVERE - FH05","(L/B/S)U template",2572761,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862066,"EVERE - FH05","(L/B/S)U template",2572762,,1437988,"Galgelaan - Avenue du Gibet",16,,,,LU,
+862067,"EVERE - FH05","(L/B/S)U template",2575343,,1475527,"Platolaan - Avenue Platon",16,,,,LU,
+862068,"EVERE - FH05","(L/B/S)U template",2575347,,1621278,"Platolaan - Avenue Platon",2,,,,BU,
+862069,"EVERE - FH05","(L/B/S)U template",2575453,,1621279,"Platolaan - Avenue Platon",3,,,,BU,
+862070,"EVERE - FH05","(L/B/S)U template",2575454,,1621280,"Platolaan - Avenue Platon",4,,,,BU,
+862071,"EVERE - FH05","(L/B/S)U template",2575455,,1621281,"Platolaan - Avenue Platon",5,,,,BU,
+862072,"EVERE - FH05","(L/B/S)U template",2575456,,1621282,"Platolaan - Avenue Platon",6,,,,BU,
+862073,"EVERE - FH05","(L/B/S)U template",2575457,,1621283,"Platolaan - Avenue Platon",7,,,,BU,
+862074,"EVERE - FH05","(L/B/S)U template",2575458,,1621284,"Platolaan - Avenue Platon",8,,,,BU,
+862075,"EVERE - FH05","(L/B/S)U template",2575459,,1621285,"Platolaan - Avenue Platon",9,,,,BU,
+862076,"EVERE - FH05","(L/B/S)U template",2575337,,1621286,"Platolaan - Avenue Platon",10,,,,BU,
+862077,"EVERE - FH05","(L/B/S)U template",2575338,,1621287,"Platolaan - Avenue Platon",11,,,,BU,
+862078,"EVERE - FH05","(L/B/S)U template",2575341,,1621288,"Platolaan - Avenue Platon",14,,,,LU,
+862079,"EVERE - FH05","(L/B/S)U template",2575342,,1621289,"Platolaan - Avenue Platon",15,,,,LU,
+862080,"EVERE - FH05","(L/B/S)U template",2575346,,1621290,"Platolaan - Avenue Platon",19,,,,LU,
+862081,"EVERE - FH05","(L/B/S)U template",2575349,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862082,"EVERE - FH05","(L/B/S)U template",2575350,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862083,"EVERE - FH05","(L/B/S)U template",2575351,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862084,"EVERE - FH05","(L/B/S)U template",2575352,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862085,"EVERE - FH05","(L/B/S)U template",2575353,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862086,"EVERE - FH05","(L/B/S)U template",2575354,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862087,"EVERE - FH05","(L/B/S)U template",2575355,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862088,"EVERE - FH05","(L/B/S)U template",2575356,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862089,"EVERE - FH05","(L/B/S)U template",2575357,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862090,"EVERE - FH05","(L/B/S)U template",2575358,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862091,"EVERE - FH05","(L/B/S)U template",2575359,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862092,"EVERE - FH05","(L/B/S)U template",2575360,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862093,"EVERE - FH05","(L/B/S)U template",2575361,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862094,"EVERE - FH05","(L/B/S)U template",2575362,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862095,"EVERE - FH05","(L/B/S)U template",2575363,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862096,"EVERE - FH05","(L/B/S)U template",2575364,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862097,"EVERE - FH05","(L/B/S)U template",2575365,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862098,"EVERE - FH05","(L/B/S)U template",2575366,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862099,"EVERE - FH05","(L/B/S)U template",2575367,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862100,"EVERE - FH05","(L/B/S)U template",2575368,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862101,"EVERE - FH05","(L/B/S)U template",2575369,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862102,"EVERE - FH05","(L/B/S)U template",2575370,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862103,"EVERE - FH05","(L/B/S)U template",2575371,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862104,"EVERE - FH05","(L/B/S)U template",2575372,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862105,"EVERE - FH05","(L/B/S)U template",2575373,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862106,"EVERE - FH05","(L/B/S)U template",2575374,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862107,"EVERE - FH05","(L/B/S)U template",2575375,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862108,"EVERE - FH05","(L/B/S)U template",2575376,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862109,"EVERE - FH05","(L/B/S)U template",2575377,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862110,"EVERE - FH05","(L/B/S)U template",2575378,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862111,"EVERE - FH05","(L/B/S)U template",2575379,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862112,"EVERE - FH05","(L/B/S)U template",2575380,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862113,"EVERE - FH05","(L/B/S)U template",2575381,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862114,"EVERE - FH05","(L/B/S)U template",2575382,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862115,"EVERE - FH05","(L/B/S)U template",2575383,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862116,"EVERE - FH05","(L/B/S)U template",2575384,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862117,"EVERE - FH05","(L/B/S)U template",2575385,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862118,"EVERE - FH05","(L/B/S)U template",2575386,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862119,"EVERE - FH05","(L/B/S)U template",2575387,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862120,"EVERE - FH05","(L/B/S)U template",2575388,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862121,"EVERE - FH05","(L/B/S)U template",2575389,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862122,"EVERE - FH05","(L/B/S)U template",2575390,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862123,"EVERE - FH05","(L/B/S)U template",2575391,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862124,"EVERE - FH05","(L/B/S)U template",2575392,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862125,"EVERE - FH05","(L/B/S)U template",2575393,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862126,"EVERE - FH05","(L/B/S)U template",2575394,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862127,"EVERE - FH05","(L/B/S)U template",2575395,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862128,"EVERE - FH05","(L/B/S)U template",2575396,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862129,"EVERE - FH05","(L/B/S)U template",2575397,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862130,"EVERE - FH05","(L/B/S)U template",2575398,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862131,"EVERE - FH05","(L/B/S)U template",2575399,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862132,"EVERE - FH05","(L/B/S)U template",2575400,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862133,"EVERE - FH05","(L/B/S)U template",2575401,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862134,"EVERE - FH05","(L/B/S)U template",2575402,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862135,"EVERE - FH05","(L/B/S)U template",2575403,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862136,"EVERE - FH05","(L/B/S)U template",2575404,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862137,"EVERE - FH05","(L/B/S)U template",2575405,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862138,"EVERE - FH05","(L/B/S)U template",2575406,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862139,"EVERE - FH05","(L/B/S)U template",2575407,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862140,"EVERE - FH05","(L/B/S)U template",2575408,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862141,"EVERE - FH05","(L/B/S)U template",2575409,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862142,"EVERE - FH05","(L/B/S)U template",2575410,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862143,"EVERE - FH05","(L/B/S)U template",2575411,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862144,"EVERE - FH05","(L/B/S)U template",2575412,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862145,"EVERE - FH05","(L/B/S)U template",2575413,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862146,"EVERE - FH05","(L/B/S)U template",2575414,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862147,"EVERE - FH05","(L/B/S)U template",2575415,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862148,"EVERE - FH05","(L/B/S)U template",2575416,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862149,"EVERE - FH05","(L/B/S)U template",2575417,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862150,"EVERE - FH05","(L/B/S)U template",2575418,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862151,"EVERE - FH05","(L/B/S)U template",2575419,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862152,"EVERE - FH05","(L/B/S)U template",2575420,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862153,"EVERE - FH05","(L/B/S)U template",2575421,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862154,"EVERE - FH05","(L/B/S)U template",2575422,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862155,"EVERE - FH05","(L/B/S)U template",2575423,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862156,"EVERE - FH05","(L/B/S)U template",2575424,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862157,"EVERE - FH05","(L/B/S)U template",2575425,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862158,"EVERE - FH05","(L/B/S)U template",2575426,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862159,"EVERE - FH05","(L/B/S)U template",2575427,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862160,"EVERE - FH05","(L/B/S)U template",2575428,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862161,"EVERE - FH05","(L/B/S)U template",2575429,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862162,"EVERE - FH05","(L/B/S)U template",2575430,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862163,"EVERE - FH05","(L/B/S)U template",2575431,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862164,"EVERE - FH05","(L/B/S)U template",2575432,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862165,"EVERE - FH05","(L/B/S)U template",2575433,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862166,"EVERE - FH05","(L/B/S)U template",2575434,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862167,"EVERE - FH05","(L/B/S)U template",2575435,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862168,"EVERE - FH05","(L/B/S)U template",2575436,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862169,"EVERE - FH05","(L/B/S)U template",2575437,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862170,"EVERE - FH05","(L/B/S)U template",2575438,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862171,"EVERE - FH05","(L/B/S)U template",2575439,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862172,"EVERE - FH05","(L/B/S)U template",2575440,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862173,"EVERE - FH05","(L/B/S)U template",2575441,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862174,"EVERE - FH05","(L/B/S)U template",2575442,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862175,"EVERE - FH05","(L/B/S)U template",2575443,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862176,"EVERE - FH05","(L/B/S)U template",2575444,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862177,"EVERE - FH05","(L/B/S)U template",2575445,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862178,"EVERE - FH05","(L/B/S)U template",2575446,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862179,"EVERE - FH05","(L/B/S)U template",2575447,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862180,"EVERE - FH05","(L/B/S)U template",2575448,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862181,"EVERE - FH05","(L/B/S)U template",2575449,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862182,"EVERE - FH05","(L/B/S)U template",2575450,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862183,"EVERE - FH05","(L/B/S)U template",2575451,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862184,"EVERE - FH05","(L/B/S)U template",2575452,,1621291,"Platolaan - Avenue Platon",21,,,,LU,
+862185,"EVERE - FH05","(L/B/S)U template",2576264,,1621554,Zaventemstraat,60,,,,BU,
+862186,"EVERE - FH05","(L/B/S)U template",2579317,,1622424,"Duiveltjesgaarde - Clos des Diablotins",2,,,,LU,
+862187,"EVERE - FH05","(L/B/S)U template",2579328,,1622425,"Duiveltjesgaarde - Clos des Diablotins",3,,,,LU,
+862188,"EVERE - FH05","(L/B/S)U template",2579339,,1622426,"Duiveltjesgaarde - Clos des Diablotins",4,,,,LU,
+862189,"EVERE - FH05","(L/B/S)U template",2579372,,1622427,"Duiveltjesgaarde - Clos des Diablotins",6,,,,LU,
+862190,"EVERE - FH05","(L/B/S)U template",2579373,,1622428,"Duiveltjesgaarde - Clos des Diablotins",7,,,,LU,
+862191,"EVERE - FH05","(L/B/S)U template",2579374,,1622429,"Duiveltjesgaarde - Clos des Diablotins",8,,,,LU,
+862192,"EVERE - FH05","(L/B/S)U template",2579375,,1622430,"Duiveltjesgaarde - Clos des Diablotins",9,,,,LU,
+862193,"EVERE - FH05","(L/B/S)U template",2579307,,1622431,"Duiveltjesgaarde - Clos des Diablotins",10,,,,LU,
+862194,"EVERE - FH05","(L/B/S)U template",2579308,,1622432,"Duiveltjesgaarde - Clos des Diablotins",11,,,,LU,
+862195,"EVERE - FH05","(L/B/S)U template",2579311,,1622433,"Duiveltjesgaarde - Clos des Diablotins",14,,,,LU,
+862196,"EVERE - FH05","(L/B/S)U template",2579313,,1622434,"Duiveltjesgaarde - Clos des Diablotins",16,,,,LU,
+862197,"EVERE - FH05","(L/B/S)U template",2579318,,1622435,"Duiveltjesgaarde - Clos des Diablotins",20,,,,LU,
+862198,"EVERE - FH05","(L/B/S)U template",2579319,,1622436,"Duiveltjesgaarde - Clos des Diablotins",21,,,,LU,
+862199,"EVERE - FH05","(L/B/S)U template",2579320,,1622437,"Duiveltjesgaarde - Clos des Diablotins",22,,,,LU,
+862200,"EVERE - FH05","(L/B/S)U template",2579321,,1622438,"Duiveltjesgaarde - Clos des Diablotins",23,,,,LU,
+862201,"EVERE - FH05","(L/B/S)U template",2579322,,1622439,"Duiveltjesgaarde - Clos des Diablotins",24,,,,LU,
+862202,"EVERE - FH05","(L/B/S)U template",2579323,,1622440,"Duiveltjesgaarde - Clos des Diablotins",25,,,,LU,
+862203,"EVERE - FH05","(L/B/S)U template",2579326,,1622441,"Duiveltjesgaarde - Clos des Diablotins",28,,,,LU,
+862204,"EVERE - FH05","(L/B/S)U template",2579331,,1622442,"Duiveltjesgaarde - Clos des Diablotins",32,,,,LU,
+862205,"EVERE - FH05","(L/B/S)U template",2579332,,1622443,"Duiveltjesgaarde - Clos des Diablotins",33,,,,LU,
+862206,"EVERE - FH05","(L/B/S)U template",2579333,,1622444,"Duiveltjesgaarde - Clos des Diablotins",34,,,,LU,
+862207,"EVERE - FH05","(L/B/S)U template",2579336,,1622445,"Duiveltjesgaarde - Clos des Diablotins",37,,,,LU,
+862208,"EVERE - FH05","(L/B/S)U template",2579337,,1622446,"Duiveltjesgaarde - Clos des Diablotins",38,,,,LU,
+862209,"EVERE - FH05","(L/B/S)U template",2579338,,1622447,"Duiveltjesgaarde - Clos des Diablotins",39,,,,LU,
+862210,"EVERE - FH05","(L/B/S)U template",2581387,,1623001,"Clos des Lauriers Roses - Oleandergaard",2,,,,LU,
+862211,"EVERE - FH05","(L/B/S)U template",2581398,,1623002,"Clos des Lauriers Roses - Oleandergaard",3,,,,LU,
+862212,"EVERE - FH05","(L/B/S)U template",2581409,,1623003,"Clos des Lauriers Roses - Oleandergaard",4,,,,LU,
+862213,"EVERE - FH05","(L/B/S)U template",2581420,,1623004,"Clos des Lauriers Roses - Oleandergaard",5,,,,LU,
+862214,"EVERE - FH05","(L/B/S)U template",2581431,,1623005,"Clos des Lauriers Roses - Oleandergaard",6,,,,LU,
+862215,"EVERE - FH05","(L/B/S)U template",2581464,,1623007,"Clos des Lauriers Roses - Oleandergaard",9,,,,LU,
+862216,"EVERE - FH05","(L/B/S)U template",2581336,,1623008,"Clos des Lauriers Roses - Oleandergaard",10,,,,LU,
+862217,"EVERE - FH05","(L/B/S)U template",2581378,,1623009,"Clos des Lauriers Roses - Oleandergaard",11,,,,LU,
+862218,"EVERE - FH05","(L/B/S)U template",2581379,,1623010,"Clos des Lauriers Roses - Oleandergaard",12,,,,LU,
+862219,"EVERE - FH05","(L/B/S)U template",2581380,,1623011,"Clos des Lauriers Roses - Oleandergaard",13,,,,LU,
+862220,"EVERE - FH05","(L/B/S)U template",2581383,,1623013,"Clos des Lauriers Roses - Oleandergaard",16,,,,LU,
+862221,"EVERE - FH05","(L/B/S)U template",2581384,,1623014,"Clos des Lauriers Roses - Oleandergaard",17,,,,LU,
+862222,"EVERE - FH05","(L/B/S)U template",2581385,,1623015,"Clos des Lauriers Roses - Oleandergaard",18,,,,LU,
+862223,"EVERE - FH05","(L/B/S)U template",2581389,,1623018,"Clos des Lauriers Roses - Oleandergaard",21,,,,LU,
+862224,"EVERE - FH05","(L/B/S)U template",2581390,,1623019,"Clos des Lauriers Roses - Oleandergaard",22,,,,LU,
+862225,"EVERE - FH05","(L/B/S)U template",2581394,,1623022,"Clos des Lauriers Roses - Oleandergaard",26,,,,LU,
+862226,"EVERE - FH05","(L/B/S)U template",2581395,,1623023,"Clos des Lauriers Roses - Oleandergaard",27,,,,LU,
+862227,"EVERE - FH05","(L/B/S)U template",2581396,,1623024,"Clos des Lauriers Roses - Oleandergaard",28,,,,LU,
+862228,"EVERE - FH05","(L/B/S)U template",2581397,,1623025,"Clos des Lauriers Roses - Oleandergaard",29,,,,LU,
+862229,"EVERE - FH05","(L/B/S)U template",2581402,,1623029,"Clos des Lauriers Roses - Oleandergaard",33,,,,LU,
+862230,"EVERE - FH05","(L/B/S)U template",2581403,,1623030,"Clos des Lauriers Roses - Oleandergaard",34,,,,LU,
+862231,"EVERE - FH05","(L/B/S)U template",2581404,,1623031,"Clos des Lauriers Roses - Oleandergaard",35,,,,LU,
+862232,"EVERE - FH05","(L/B/S)U template",2581407,,1623033,"Clos des Lauriers Roses - Oleandergaard",38,,,,LU,
+862233,"EVERE - FH05","(L/B/S)U template",2581410,,1623034,"Clos des Lauriers Roses - Oleandergaard",40,,,,LU,
+862234,"EVERE - FH05","(L/B/S)U template",2581411,,1623035,"Clos des Lauriers Roses - Oleandergaard",41,,,,LU,
+862235,"EVERE - FH05","(L/B/S)U template",2581412,,1623036,"Clos des Lauriers Roses - Oleandergaard",42,,,,LU,
+862236,"EVERE - FH05","(L/B/S)U template",2581415,,1623039,"Clos des Lauriers Roses - Oleandergaard",45,,,,LU,
+862237,"EVERE - FH05","(L/B/S)U template",2581417,,1623040,"Clos des Lauriers Roses - Oleandergaard",47,,,,LU,
+862238,"EVERE - FH05","(L/B/S)U template",2581418,,1623041,"Clos des Lauriers Roses - Oleandergaard",48,,,,LU,
+862239,"EVERE - FH05","(L/B/S)U template",2581419,,1623042,"Clos des Lauriers Roses - Oleandergaard",49,,,,LU,
+862240,"EVERE - FH05","(L/B/S)U template",2581423,,1623045,"Clos des Lauriers Roses - Oleandergaard",52,,,,LU,
+862241,"EVERE - FH05","(L/B/S)U template",2581425,,1623046,"Clos des Lauriers Roses - Oleandergaard",54,,,,LU,
+862242,"EVERE - FH05","(L/B/S)U template",2581429,,1623048,"Clos des Lauriers Roses - Oleandergaard",58,,,,LU,
+862243,"EVERE - FH05","(L/B/S)U template",2581430,,1623049,"Clos des Lauriers Roses - Oleandergaard",59,,,,LU,
+862244,"EVERE - FH05","(L/B/S)U template",2581434,,1623051,"Clos des Lauriers Roses - Oleandergaard",62,,,,LU,
+862245,"EVERE - FH05","(L/B/S)U template",2581435,,1623052,"Clos des Lauriers Roses - Oleandergaard",63,,,,LU,
+862246,"EVERE - FH05","(L/B/S)U template",2581438,,1623054,"Clos des Lauriers Roses - Oleandergaard",66,,,,LU,
+862247,"EVERE - FH05","(L/B/S)U template",2581439,,1623055,"Clos des Lauriers Roses - Oleandergaard",67,,,,LU,
+862248,"EVERE - FH05","(L/B/S)U template",2581440,,1623056,"Clos des Lauriers Roses - Oleandergaard",68,,,,LU,
+862249,"EVERE - FH05","(L/B/S)U template",2581445,,1623058,"Clos des Lauriers Roses - Oleandergaard",72,,,,LU,
+862250,"EVERE - FH05","(L/B/S)U template",2581449,,1623061,"Clos des Lauriers Roses - Oleandergaard",76,,,,LU,
+862251,"EVERE - FH05","(L/B/S)U template",2581450,,1623062,"Clos des Lauriers Roses - Oleandergaard",77,,,,LU,
+862252,"EVERE - FH05","(L/B/S)U template",2581455,,1623065,"Clos des Lauriers Roses - Oleandergaard",81,,,,LU,
+862253,"EVERE - FH05","(L/B/S)U template",2581456,,1623066,"Clos des Lauriers Roses - Oleandergaard",82,,,,LU,
+862254,"EVERE - FH05","(L/B/S)U template",2581457,,1623067,"Clos des Lauriers Roses - Oleandergaard",83,,,,LU,
+862255,"EVERE - FH05","(L/B/S)U template",2581458,,1623068,"Clos des Lauriers Roses - Oleandergaard",84,,,,LU,
+862256,"EVERE - FH05","(L/B/S)U template",2581461,,1623071,"Clos des Lauriers Roses - Oleandergaard",87,,,,LU,
+862257,"EVERE - FH05","(L/B/S)U template",2581462,,1623072,"Clos des Lauriers Roses - Oleandergaard",88,,,,LU,
+862258,"EVERE - FH05","(L/B/S)U template",2581463,,1623073,"Clos des Lauriers Roses - Oleandergaard",89,,,,LU,
+862259,"EVERE - FH05","(L/B/S)U template",2581465,,1623074,"Clos des Lauriers Roses - Oleandergaard",90,,,,LU,
+862260,"EVERE - FH05","(L/B/S)U template",2581466,,1623075,"Clos des Lauriers Roses - Oleandergaard",91,,,,LU,
+862261,"EVERE - FH05","(L/B/S)U template",2581469,,1623078,"Clos des Lauriers Roses - Oleandergaard",94,,,,LU,
+862262,"EVERE - FH05","(L/B/S)U template",2581470,,1623079,"Clos des Lauriers Roses - Oleandergaard",95,,,,LU,
+862263,"EVERE - FH05","(L/B/S)U template",2581473,,1623081,"Clos des Lauriers Roses - Oleandergaard",98,,,,LU,
+862264,"EVERE - FH05","(L/B/S)U template",2581474,,1623082,"Clos des Lauriers Roses - Oleandergaard",99,,,,LU,
+862265,"EVERE - FH05","(L/B/S)U template",2582445,,1623266,"A. Vermeylenlaan - Avenue Auguste Vermeylen",3,,,,LU,
+862266,"EVERE - FH05","(L/B/S)U template",2582456,,1623267,"A. Vermeylenlaan - Avenue Auguste Vermeylen",4,,,,LU,
+862267,"EVERE - FH05","(L/B/S)U template",2582467,,1623268,"A. Vermeylenlaan - Avenue Auguste Vermeylen",5,,,,LU,
+862268,"EVERE - FH05","(L/B/S)U template",2582544,,1623269,"A. Vermeylenlaan - Avenue Auguste Vermeylen",7,,,,LU,
+862269,"EVERE - FH05","(L/B/S)U template",2582545,,1623270,"A. Vermeylenlaan - Avenue Auguste Vermeylen",8,,,,LU,
+862270,"EVERE - FH05","(L/B/S)U template",2582424,,1623271,"A. Vermeylenlaan - Avenue Auguste Vermeylen",10,,,,LU,
+862271,"EVERE - FH05","(L/B/S)U template",2582425,,1623272,"A. Vermeylenlaan - Avenue Auguste Vermeylen",11,,,,LU,
+862272,"EVERE - FH05","(L/B/S)U template",2582426,,1623273,"A. Vermeylenlaan - Avenue Auguste Vermeylen",12,,,,LU,
+862273,"EVERE - FH05","(L/B/S)U template",2582427,,1623274,"A. Vermeylenlaan - Avenue Auguste Vermeylen",13,,,,LU,
+862274,"EVERE - FH05","(L/B/S)U template",2582428,,1623275,"A. Vermeylenlaan - Avenue Auguste Vermeylen",14,,,,LU,
+862275,"EVERE - FH05","(L/B/S)U template",2582429,,1623276,"A. Vermeylenlaan - Avenue Auguste Vermeylen",15,,,,LU,
+862276,"EVERE - FH05","(L/B/S)U template",2582431,,1623277,"A. Vermeylenlaan - Avenue Auguste Vermeylen",17,,,,LU,
+862277,"EVERE - FH05","(L/B/S)U template",2582432,,1623278,"A. Vermeylenlaan - Avenue Auguste Vermeylen",18,,,,LU,
+862278,"EVERE - FH05","(L/B/S)U template",2582440,,1623279,"A. Vermeylenlaan - Avenue Auguste Vermeylen",25,,,,LU,
+862279,"EVERE - FH05","(L/B/S)U template",2582443,,1623280,"A. Vermeylenlaan - Avenue Auguste Vermeylen",28,,,,LU,
+862280,"EVERE - FH05","(L/B/S)U template",2582446,,1623281,"A. Vermeylenlaan - Avenue Auguste Vermeylen",30,,,,LU,
+862281,"EVERE - FH05","(L/B/S)U template",2582447,,1623282,"A. Vermeylenlaan - Avenue Auguste Vermeylen",31,,,,LU,
+862282,"EVERE - FH05","(L/B/S)U template",2582449,,1623283,"A. Vermeylenlaan - Avenue Auguste Vermeylen",33,,,,LU,
+862283,"EVERE - FH05","(L/B/S)U template",2582450,,1623284,"A. Vermeylenlaan - Avenue Auguste Vermeylen",34,,,,LU,
+862284,"EVERE - FH05","(L/B/S)U template",2582451,,1623285,"A. Vermeylenlaan - Avenue Auguste Vermeylen",35,,,,LU,
+862285,"EVERE - FH05","(L/B/S)U template",2582452,,1623286,"A. Vermeylenlaan - Avenue Auguste Vermeylen",36,,,,LU,
+862286,"EVERE - FH05","(L/B/S)U template",2582453,,1623287,"A. Vermeylenlaan - Avenue Auguste Vermeylen",37,,,,LU,
+862287,"EVERE - FH05","(L/B/S)U template",2582455,,1623288,"A. Vermeylenlaan - Avenue Auguste Vermeylen",39,,,,LU,
+862288,"EVERE - FH05","(L/B/S)U template",2582458,,1623289,"A. Vermeylenlaan - Avenue Auguste Vermeylen",41,,,,LU,
+862289,"EVERE - FH05","(L/B/S)U template",2582459,,1623290,"A. Vermeylenlaan - Avenue Auguste Vermeylen",42,,,,LU,
+862290,"EVERE - FH05","(L/B/S)U template",2582460,,1623291,"A. Vermeylenlaan - Avenue Auguste Vermeylen",43,,,,LU,
+862291,"EVERE - FH05","(L/B/S)U template",2582461,,1623292,"A. Vermeylenlaan - Avenue Auguste Vermeylen",44,,,,LU,
+862292,"EVERE - FH05","(L/B/S)U template",2582462,,1623293,"A. Vermeylenlaan - Avenue Auguste Vermeylen",45,,,,LU,
+862293,"EVERE - FH05","(L/B/S)U template",2582464,,1623294,"A. Vermeylenlaan - Avenue Auguste Vermeylen",47,,,,LU,
+862294,"EVERE - FH05","(L/B/S)U template",2582465,,1623295,"A. Vermeylenlaan - Avenue Auguste Vermeylen",48,,,,LU,
+862295,"EVERE - FH05","(L/B/S)U template",2582468,,1623296,"A. Vermeylenlaan - Avenue Auguste Vermeylen",50,,,,LU,
+862296,"EVERE - FH05","(L/B/S)U template",2582469,,1623297,"A. Vermeylenlaan - Avenue Auguste Vermeylen",51,,,,LU,
+862297,"EVERE - FH05","(L/B/S)U template",2582470,,1623298,"A. Vermeylenlaan - Avenue Auguste Vermeylen",52,,,,LU,
+862298,"EVERE - FH05","(L/B/S)U template",2582471,,1623299,"A. Vermeylenlaan - Avenue Auguste Vermeylen",53,,,,LU,
+862299,"EVERE - FH05","(L/B/S)U template",2582475,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862300,"EVERE - FH05","(L/B/S)U template",2582476,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862301,"EVERE - FH05","(L/B/S)U template",2582477,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862302,"EVERE - FH05","(L/B/S)U template",2582478,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862303,"EVERE - FH05","(L/B/S)U template",2582479,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862304,"EVERE - FH05","(L/B/S)U template",2582480,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862305,"EVERE - FH05","(L/B/S)U template",2582481,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862306,"EVERE - FH05","(L/B/S)U template",2582482,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862307,"EVERE - FH05","(L/B/S)U template",2582483,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862308,"EVERE - FH05","(L/B/S)U template",2582484,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862309,"EVERE - FH05","(L/B/S)U template",2582485,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862310,"EVERE - FH05","(L/B/S)U template",2582486,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862311,"EVERE - FH05","(L/B/S)U template",2582487,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862312,"EVERE - FH05","(L/B/S)U template",2582488,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862313,"EVERE - FH05","(L/B/S)U template",2582489,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862314,"EVERE - FH05","(L/B/S)U template",2582490,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862315,"EVERE - FH05","(L/B/S)U template",2582491,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862316,"EVERE - FH05","(L/B/S)U template",2582492,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862317,"EVERE - FH05","(L/B/S)U template",2582493,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862318,"EVERE - FH05","(L/B/S)U template",2582494,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862319,"EVERE - FH05","(L/B/S)U template",2582495,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862320,"EVERE - FH05","(L/B/S)U template",2582496,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862321,"EVERE - FH05","(L/B/S)U template",2582497,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862322,"EVERE - FH05","(L/B/S)U template",2582498,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862323,"EVERE - FH05","(L/B/S)U template",2582499,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862324,"EVERE - FH05","(L/B/S)U template",2582500,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862325,"EVERE - FH05","(L/B/S)U template",2582501,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862326,"EVERE - FH05","(L/B/S)U template",2582502,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862327,"EVERE - FH05","(L/B/S)U template",2582503,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862328,"EVERE - FH05","(L/B/S)U template",2582504,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862329,"EVERE - FH05","(L/B/S)U template",2582505,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862330,"EVERE - FH05","(L/B/S)U template",2582506,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862331,"EVERE - FH05","(L/B/S)U template",2582507,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862332,"EVERE - FH05","(L/B/S)U template",2582508,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862333,"EVERE - FH05","(L/B/S)U template",2582509,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862334,"EVERE - FH05","(L/B/S)U template",2582510,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862335,"EVERE - FH05","(L/B/S)U template",2582511,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862336,"EVERE - FH05","(L/B/S)U template",2582512,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862337,"EVERE - FH05","(L/B/S)U template",2582513,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862338,"EVERE - FH05","(L/B/S)U template",2582514,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862339,"EVERE - FH05","(L/B/S)U template",2582515,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862340,"EVERE - FH05","(L/B/S)U template",2582516,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862341,"EVERE - FH05","(L/B/S)U template",2582517,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862342,"EVERE - FH05","(L/B/S)U template",2582518,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862343,"EVERE - FH05","(L/B/S)U template",2582519,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862344,"EVERE - FH05","(L/B/S)U template",2582520,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862345,"EVERE - FH05","(L/B/S)U template",2582521,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862346,"EVERE - FH05","(L/B/S)U template",2582522,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862347,"EVERE - FH05","(L/B/S)U template",2582523,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862348,"EVERE - FH05","(L/B/S)U template",2582524,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862349,"EVERE - FH05","(L/B/S)U template",2582525,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862350,"EVERE - FH05","(L/B/S)U template",2582526,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862351,"EVERE - FH05","(L/B/S)U template",2582527,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862352,"EVERE - FH05","(L/B/S)U template",2582528,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862353,"EVERE - FH05","(L/B/S)U template",2582529,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862354,"EVERE - FH05","(L/B/S)U template",2582530,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862355,"EVERE - FH05","(L/B/S)U template",2582531,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862356,"EVERE - FH05","(L/B/S)U template",2582532,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862357,"EVERE - FH05","(L/B/S)U template",2582533,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862358,"EVERE - FH05","(L/B/S)U template",2582534,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862359,"EVERE - FH05","(L/B/S)U template",2582535,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862360,"EVERE - FH05","(L/B/S)U template",2582536,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862361,"EVERE - FH05","(L/B/S)U template",2582537,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862362,"EVERE - FH05","(L/B/S)U template",2582538,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862363,"EVERE - FH05","(L/B/S)U template",2582539,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862364,"EVERE - FH05","(L/B/S)U template",2582540,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862365,"EVERE - FH05","(L/B/S)U template",2582541,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862366,"EVERE - FH05","(L/B/S)U template",2582542,,1623300,"A. Vermeylenlaan - Avenue Auguste Vermeylen",58,,,,LU,
+862367,"EVERE - FH05","(L/B/S)U template",2582569,,1623302,"Francois Villonlaan - Avenue Francois Villon",3,,,,LU,
+862368,"EVERE - FH05","(L/B/S)U template",2582578,,1623303,"Francois Villonlaan - Avenue Francois Villon",4,,,,LU,
+862369,"EVERE - FH05","(L/B/S)U template",2582584,,1623304,"Francois Villonlaan - Avenue Francois Villon",5,,,,LU,
+862370,"EVERE - FH05","(L/B/S)U template",2582590,,1623305,"Francois Villonlaan - Avenue Francois Villon",6,,,,LU,
+862371,"EVERE - FH05","(L/B/S)U template",2582593,,1623306,"Francois Villonlaan - Avenue Francois Villon",8,,,,LU,
+862372,"EVERE - FH05","(L/B/S)U template",2582549,,1623307,"Francois Villonlaan - Avenue Francois Villon",11,,,,LU,
+862373,"EVERE - FH05","(L/B/S)U template",2582551,,1623308,"Francois Villonlaan - Avenue Francois Villon",13,,,,LU,
+862374,"EVERE - FH05","(L/B/S)U template",2582554,,1623309,"Francois Villonlaan - Avenue Francois Villon",16,,,,LU,
+862375,"EVERE - FH05","(L/B/S)U template",2582556,,1623310,"Francois Villonlaan - Avenue Francois Villon",18,,,,LU,
+862376,"EVERE - FH05","(L/B/S)U template",2582557,,1623311,"Francois Villonlaan - Avenue Francois Villon",19,,,,LU,
+862377,"EVERE - FH05","(L/B/S)U template",2582560,,1623312,"Francois Villonlaan - Avenue Francois Villon",21,,,,LU,
+862378,"EVERE - FH05","(L/B/S)U template",2582561,,1623313,"Francois Villonlaan - Avenue Francois Villon",22,,,,LU,
+862379,"EVERE - FH05","(L/B/S)U template",2582565,,1623314,"Francois Villonlaan - Avenue Francois Villon",26,,,,LU,
+862380,"EVERE - FH05","(L/B/S)U template",2582566,,1623315,"Francois Villonlaan - Avenue Francois Villon",27,,,,LU,
+862381,"EVERE - FH05","(L/B/S)U template",2582573,,1623316,"Francois Villonlaan - Avenue Francois Villon",33,,,,LU,
+862382,"EVERE - FH05","(L/B/S)U template",2582574,,1623317,"Francois Villonlaan - Avenue Francois Villon",34,,,,LU,
+862383,"EVERE - FH05","(L/B/S)U template",2582575,,1623318,"Francois Villonlaan - Avenue Francois Villon",35,,,,LU,
+862384,"EVERE - FH05","(L/B/S)U template",2582576,,1623319,"Francois Villonlaan - Avenue Francois Villon",36,,,,LU,
+862385,"EVERE - FH05","(L/B/S)U template",2582579,,1623320,"Francois Villonlaan - Avenue Francois Villon",40,,,,LU,
+862386,"EVERE - FH05","(L/B/S)U template",2582580,,1623321,"Francois Villonlaan - Avenue Francois Villon",42,,,,LU,
+862387,"EVERE - FH05","(L/B/S)U template",2582581,,1623322,"Francois Villonlaan - Avenue Francois Villon",44,,,,LU,
+862388,"EVERE - FH05","(L/B/S)U template",2582582,,1623323,"Francois Villonlaan - Avenue Francois Villon",46,,,,LU,
+862389,"EVERE - FH05","(L/B/S)U template",2582583,,1623324,"Francois Villonlaan - Avenue Francois Villon",48,,,,LU,
+862390,"EVERE - FH05","(L/B/S)U template",2582585,,1623325,"Francois Villonlaan - Avenue Francois Villon",50,,,,LU,
+862391,"EVERE - FH05","(L/B/S)U template",2582587,,1623326,"Francois Villonlaan - Avenue Francois Villon",54,,,,LU,
+862392,"EVERE - FH05","(L/B/S)U template",2582588,,1623327,"Francois Villonlaan - Avenue Francois Villon",56,,,,LU,
+862393,"EVERE - FH05","(L/B/S)U template",2582589,,1623328,"Francois Villonlaan - Avenue Francois Villon",58,,,,LU,
+862394,"EVERE - FH05","(L/B/S)U template",2582474,,25439,"A. Vermeylenlaan - Avenue Auguste Vermeylen",56,,,,LU,
+862395,"EVERE - FH05","(L/B/S)U template",2572730,,25443,"Galgelaan - Avenue du Gibet",1,,,,LU,
+862396,"EVERE - FH05","(L/B/S)U template",2572851,,3916101,"Galgelaan - Avenue du Gibet",5,,,,LU,
+862397,"EVERE - FH05","(L/B/S)U template",2582559,,3916138,"Francois Villonlaan - Avenue Francois Villon",20,,,,LU,
+862398,"EVERE - FH05","(L/B/S)U template",2582577,,3997166,"Francois Villonlaan - Avenue Francois Villon",38,,,,LU,
+862399,"EVERE - FH05","(L/B/S)U template",2582438,,4045399,"A. Vermeylenlaan - Avenue Auguste Vermeylen",23,,,,LU,
+862400,"EVERE - FH05","(L/B/S)U template",2582472,,4103547,"A. Vermeylenlaan - Avenue Auguste Vermeylen",54,,,,LU,
+862401,"EVERE - FH05","(L/B/S)U template",2579312,,4106862,"Duiveltjesgaarde - Clos des Diablotins",15,,,,LU,
+862402,"EVERE - FH05","(L/B/S)U template",2582548,,4107583,"Francois Villonlaan - Avenue Francois Villon",10,,,,LU,
+862403,"EVERE - FH05","(L/B/S)U template",2582563,,4107720,"Francois Villonlaan - Avenue Francois Villon",24,,,,LU,
+862404,"EVERE - FH05","(L/B/S)U template",2581391,,4108023,"Clos des Lauriers Roses - Oleandergaard",23,,,,LU,
+862405,"EVERE - FH05","(L/B/S)U template",2579327,,4108153,"Duiveltjesgaarde - Clos des Diablotins",29,,,,LU,
+862406,"EVERE - FH05","(L/B/S)U template",2581408,,4108997,"Clos des Lauriers Roses - Oleandergaard",39,,,,LU,
+862407,"EVERE - FH05","(L/B/S)U template",2581416,,4108998,"Clos des Lauriers Roses - Oleandergaard",46,,,,LU,
+862408,"EVERE - FH05","(L/B/S)U template",2579371,,4110760,"Duiveltjesgaarde - Clos des Diablotins",5,,,,LU,
+862409,"EVERE - FH05","(L/B/S)U template",2581401,,4111295,"Clos des Lauriers Roses - Oleandergaard",32,,,,LU,
+862410,"EVERE - FH05","(L/B/S)U template",2581444,,4112747,"Clos des Lauriers Roses - Oleandergaard",71,,,,LU,
+862411,"EVERE - FH05","(L/B/S)U template",2581448,,4112748,"Clos des Lauriers Roses - Oleandergaard",75,,,,LU,
+862412,"EVERE - FH05","(L/B/S)U template",2582586,,4112754,"Francois Villonlaan - Avenue Francois Villon",52,,,,LU,
+862413,"EVERE - FH05","(L/B/S)U template",2582546,,4112904,"A. Vermeylenlaan - Avenue Auguste Vermeylen",9,,,,LU,
+862414,"EVERE - FH05","(L/B/S)U template",2582457,,4113214,"A. Vermeylenlaan - Avenue Auguste Vermeylen",40,,,,LU,
+862415,"EVERE - FH05","(L/B/S)U template",2582543,,4113812,"A. Vermeylenlaan - Avenue Auguste Vermeylen",6,,,,LU,
+862416,"EVERE - FH05","(L/B/S)U template",2582433,,4114701,"A. Vermeylenlaan - Avenue Auguste Vermeylen",19,,,,LU,
+862417,"EVERE - FH05","(L/B/S)U template",2582466,,4114755,"A. Vermeylenlaan - Avenue Auguste Vermeylen",49,,,,LU,
+862418,"EVERE - FH05","(L/B/S)U template",2581428,,4117619,"Clos des Lauriers Roses - Oleandergaard",57,,,,LU,
+862419,"EVERE - FH05","(L/B/S)U template",2581424,,4117622,"Clos des Lauriers Roses - Oleandergaard",53,,,,LU,
+862420,"EVERE - FH05","(L/B/S)U template",2581454,,4119304,"Clos des Lauriers Roses - Oleandergaard",80,,,,LU,
+862421,"EVERE - FH05","(L/B/S)U template",2582436,,4119581,"A. Vermeylenlaan - Avenue Auguste Vermeylen",21,,,,LU,
+862422,"EVERE - FH05","(L/B/S)U template",2582567,,4119601,"Francois Villonlaan - Avenue Francois Villon",28,,,,LU,
+862423,"EVERE - FH05","(L/B/S)U template",2582448,,4119604,"A. Vermeylenlaan - Avenue Auguste Vermeylen",32,,,,LU,
+862424,"EVERE - FH05","(L/B/S)U template",2579334,,4119614,"Duiveltjesgaarde - Clos des Diablotins",35,,,,LU,
+862425,"EVERE - FH05","(L/B/S)U template",2579314,,4119616,"Duiveltjesgaarde - Clos des Diablotins",17,,,,LU,
+862426,"EVERE - FH05","(L/B/S)U template",2582463,,4119628,"A. Vermeylenlaan - Avenue Auguste Vermeylen",46,,,,LU,
+862427,"EVERE - FH05","(L/B/S)U template",2582454,,4124523,"A. Vermeylenlaan - Avenue Auguste Vermeylen",38,,,,LU,
+862428,"EVERE - FH05","(L/B/S)U template",2572850,,4187816,"Galgelaan - Avenue du Gibet",3,,,,LU,
+862429,"EVERE - FH05","(L/B/S)U template",10333427,,5583150,Leuvensesteenweg,955,,,,LU,
+862430,"EVERE - FH05","(L/B/S)U template",10333428,,5583150,Leuvensesteenweg,955,,,,LU,
+862431,"EVERE - FH05","(L/B/S)U template",10333429,,5583150,Leuvensesteenweg,955,,,,LU,
+862432,"EVERE - FH05","(L/B/S)U template",10333430,,5583150,Leuvensesteenweg,955,,,,LU,
+862433,"EVERE - FH05","(L/B/S)U template",10333431,,5583150,Leuvensesteenweg,955,,,,LU,
+862434,"EVERE - FH05","(L/B/S)U template",10333432,,5583150,Leuvensesteenweg,955,,,,LU,
+862435,"EVERE - FH05","(L/B/S)U template",10333433,,5583150,Leuvensesteenweg,955,,,,LU,
+862436,"EVERE - FH05","(L/B/S)U template",10333434,,5583150,Leuvensesteenweg,955,,,,LU,
+862437,"EVERE - FH05","(L/B/S)U template",10479102,,5583209,"Clos des Lauriers Roses - Oleandergaard",8,,,,LU,
+862438,"EVERE - FH05","(L/B/S)U template",10479101,,5583210,"Clos des Lauriers Roses - Oleandergaard",14,,,,LU,
+862439,"EVERE - FH05","(L/B/S)U template",10479100,,5583211,"Clos des Lauriers Roses - Oleandergaard",20,,,,LU,
+862440,"EVERE - FH05","(L/B/S)U template",10479099,,5583212,"Clos des Lauriers Roses - Oleandergaard",24,,,,LU,
+862441,"EVERE - FH05","(L/B/S)U template",10479096,,5583213,"Clos des Lauriers Roses - Oleandergaard",31,,,,LU,
+862442,"EVERE - FH05","(L/B/S)U template",10479095,,5583214,"Clos des Lauriers Roses - Oleandergaard",36,,,,LU,
+862443,"EVERE - FH05","(L/B/S)U template",10479098,,5583215,"Clos des Lauriers Roses - Oleandergaard",44,,,,LU,
+862444,"EVERE - FH05","(L/B/S)U template",10479097,,5583216,"Clos des Lauriers Roses - Oleandergaard",50,,,,LU,
+862445,"EVERE - FH05","(L/B/S)U template",2581427,,5583217,"Clos des Lauriers Roses - Oleandergaard",56,,,,LU,
+862446,"EVERE - FH05","(L/B/S)U template",2581432,,5583218,"Clos des Lauriers Roses - Oleandergaard",60,,,,LU,
+862447,"EVERE - FH05","(L/B/S)U template",2581443,,5583219,"Clos des Lauriers Roses - Oleandergaard",70,,,,LU,
+862448,"EVERE - FH05","(L/B/S)U template",2581446,,5583220,"Clos des Lauriers Roses - Oleandergaard",73,,,,LU,
+862449,"EVERE - FH05","(L/B/S)U template",2581447,,5583221,"Clos des Lauriers Roses - Oleandergaard",74,,,,LU,
+862450,"EVERE - FH05","(L/B/S)U template",2581451,,5583222,"Clos des Lauriers Roses - Oleandergaard",78,,,,LU,
+862451,"EVERE - FH05","(L/B/S)U template",2581460,,5583223,"Clos des Lauriers Roses - Oleandergaard",86,,,,LU,
+862452,"EVERE - FH05","(L/B/S)U template",2581467,,5583224,"Clos des Lauriers Roses - Oleandergaard",92,,,,LU,
+862453,"EVERE - FH05","(L/B/S)U template",2581472,,5583225,"Clos des Lauriers Roses - Oleandergaard",97,,,,LU,
+862454,"EVERE - FH05","(L/B/S)U template",2581337,,5583226,"Clos des Lauriers Roses - Oleandergaard",100,,,,LU,
+862455,"EVERE - FH05","(L/B/S)U template",2581346,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862456,"EVERE - FH05","(L/B/S)U template",2581347,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862457,"EVERE - FH05","(L/B/S)U template",2581348,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862458,"EVERE - FH05","(L/B/S)U template",2581349,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862459,"EVERE - FH05","(L/B/S)U template",2581350,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862460,"EVERE - FH05","(L/B/S)U template",2581351,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862461,"EVERE - FH05","(L/B/S)U template",2581352,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862462,"EVERE - FH05","(L/B/S)U template",2581353,,5583227,"Clos des Lauriers Roses - Oleandergaard",102,,,,LU,
+862463,"EVERE - FH05","(L/B/S)U template",2581370,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862464,"EVERE - FH05","(L/B/S)U template",2581371,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862465,"EVERE - FH05","(L/B/S)U template",2581372,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862466,"EVERE - FH05","(L/B/S)U template",2581373,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862467,"EVERE - FH05","(L/B/S)U template",2581374,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862468,"EVERE - FH05","(L/B/S)U template",2581375,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862469,"EVERE - FH05","(L/B/S)U template",2581376,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862470,"EVERE - FH05","(L/B/S)U template",2581377,,5583228,"Clos des Lauriers Roses - Oleandergaard",106,,,,LU,
+862471,"EVERE - FH05","(L/B/S)U template",2581362,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862472,"EVERE - FH05","(L/B/S)U template",2581363,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862473,"EVERE - FH05","(L/B/S)U template",2581364,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862474,"EVERE - FH05","(L/B/S)U template",2581365,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862475,"EVERE - FH05","(L/B/S)U template",2581366,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862476,"EVERE - FH05","(L/B/S)U template",2581367,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862477,"EVERE - FH05","(L/B/S)U template",2581368,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862478,"EVERE - FH05","(L/B/S)U template",2581369,,725731,"Clos des Lauriers Roses - Oleandergaard",105,,,,LU,
+862479,"EVERE - FH05","(L/B/S)U template",10333419,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862480,"EVERE - FH05","(L/B/S)U template",10333420,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862481,"EVERE - FH05","(L/B/S)U template",10333421,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862482,"EVERE - FH05","(L/B/S)U template",10333422,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862483,"EVERE - FH05","(L/B/S)U template",10333423,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862484,"EVERE - FH05","(L/B/S)U template",10333424,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862485,"EVERE - FH05","(L/B/S)U template",10333425,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862486,"EVERE - FH05","(L/B/S)U template",10333426,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862487,"EVERE - FH05","(L/B/S)U template",10479064,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862488,"EVERE - FH05","(L/B/S)U template",10479065,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862489,"EVERE - FH05","(L/B/S)U template",10479066,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862490,"EVERE - FH05","(L/B/S)U template",10479067,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862491,"EVERE - FH05","(L/B/S)U template",10479068,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862492,"EVERE - FH05","(L/B/S)U template",10479069,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862493,"EVERE - FH05","(L/B/S)U template",10479070,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862494,"EVERE - FH05","(L/B/S)U template",10479071,,725732,"Clos des Lauriers Roses - Oleandergaard",103,,,,LU,
+862495,"EVERE - FH05","(L/B/S)U template",2581338,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862496,"EVERE - FH05","(L/B/S)U template",2581339,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862497,"EVERE - FH05","(L/B/S)U template",2581340,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862498,"EVERE - FH05","(L/B/S)U template",2581341,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862499,"EVERE - FH05","(L/B/S)U template",2581342,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862500,"EVERE - FH05","(L/B/S)U template",2581343,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862501,"EVERE - FH05","(L/B/S)U template",2581344,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862502,"EVERE - FH05","(L/B/S)U template",2581345,,725733,"Clos des Lauriers Roses - Oleandergaard",101,,,,LU,
+862503,"EVERE - FH05","(L/B/S)U template",2581442,,725754,"Clos des Lauriers Roses - Oleandergaard",7,,,,LU,
+862504,"EVERE - FH05","(L/B/S)U template",2581335,,725756,"Clos des Lauriers Roses - Oleandergaard",1,,,,LU,
+862505,"EVERE - FH05","(L/B/S)U template",2581386,,725806,"Clos des Lauriers Roses - Oleandergaard",19,,,,LU,
+862506,"EVERE - FH05","(L/B/S)U template",2581382,,725807,"Clos des Lauriers Roses - Oleandergaard",15,,,,LU,
+862507,"EVERE - FH05","(L/B/S)U template",2581399,,725808,"Clos des Lauriers Roses - Oleandergaard",30,,,,LU,
+862508,"EVERE - FH05","(L/B/S)U template",2581393,,725809,"Clos des Lauriers Roses - Oleandergaard",25,,,,LU,
+862509,"EVERE - FH05","(L/B/S)U template",2581413,,725810,"Clos des Lauriers Roses - Oleandergaard",43,,,,LU,
+862510,"EVERE - FH05","(L/B/S)U template",2581406,,725811,"Clos des Lauriers Roses - Oleandergaard",37,,,,LU,
+862511,"EVERE - FH05","(L/B/S)U template",2581433,,725816,"Clos des Lauriers Roses - Oleandergaard",61,,,,LU,
+862512,"EVERE - FH05","(L/B/S)U template",2581436,,725817,"Clos des Lauriers Roses - Oleandergaard",64,,,,LU,
+862513,"EVERE - FH05","(L/B/S)U template",2581437,,725818,"Clos des Lauriers Roses - Oleandergaard",65,,,,LU,
+862514,"EVERE - FH05","(L/B/S)U template",2581441,,725819,"Clos des Lauriers Roses - Oleandergaard",69,,,,LU,
+862515,"EVERE - FH05","(L/B/S)U template",2581452,,725820,"Clos des Lauriers Roses - Oleandergaard",79,,,,LU,
+862516,"EVERE - FH05","(L/B/S)U template",2581459,,725821,"Clos des Lauriers Roses - Oleandergaard",85,,,,LU,
+862517,"EVERE - FH05","(L/B/S)U template",2581468,,725822,"Clos des Lauriers Roses - Oleandergaard",93,,,,LU,
+862518,"EVERE - FH05","(L/B/S)U template",2581471,,725823,"Clos des Lauriers Roses - Oleandergaard",96,,,,LU,
+862519,"EVERE - FH05","(L/B/S)U template",2582441,,725824,"A. Vermeylenlaan - Avenue Auguste Vermeylen",26,,,,LU,
+862520,"EVERE - FH05","(L/B/S)U template",2582439,,725825,"A. Vermeylenlaan - Avenue Auguste Vermeylen",24,,,,LU,
+862521,"EVERE - FH05","(L/B/S)U template",2582435,,725826,"A. Vermeylenlaan - Avenue Auguste Vermeylen",20,,,,LU,
+862522,"EVERE - FH05","(L/B/S)U template",2582434,,725827,"A. Vermeylenlaan - Avenue Auguste Vermeylen",2,,,,LU,
+862523,"EVERE - FH05","(L/B/S)U template",2582437,,725828,"A. Vermeylenlaan - Avenue Auguste Vermeylen",22,,,,LU,
+862524,"EVERE - FH05","(L/B/S)U template",2572821,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862525,"EVERE - FH05","(L/B/S)U template",2572822,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862526,"EVERE - FH05","(L/B/S)U template",2572823,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862527,"EVERE - FH05","(L/B/S)U template",2572824,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862528,"EVERE - FH05","(L/B/S)U template",2572825,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862529,"EVERE - FH05","(L/B/S)U template",2572826,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862530,"EVERE - FH05","(L/B/S)U template",2572827,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862531,"EVERE - FH05","(L/B/S)U template",2572828,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862532,"EVERE - FH05","(L/B/S)U template",2572829,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862533,"EVERE - FH05","(L/B/S)U template",2572830,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862534,"EVERE - FH05","(L/B/S)U template",2572831,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862535,"EVERE - FH05","(L/B/S)U template",2572832,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862536,"EVERE - FH05","(L/B/S)U template",2572833,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862537,"EVERE - FH05","(L/B/S)U template",2572834,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862538,"EVERE - FH05","(L/B/S)U template",2572835,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862539,"EVERE - FH05","(L/B/S)U template",2572836,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862540,"EVERE - FH05","(L/B/S)U template",2572837,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862541,"EVERE - FH05","(L/B/S)U template",2572838,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862542,"EVERE - FH05","(L/B/S)U template",2572839,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862543,"EVERE - FH05","(L/B/S)U template",2572840,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862544,"EVERE - FH05","(L/B/S)U template",2572841,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862545,"EVERE - FH05","(L/B/S)U template",2572842,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862546,"EVERE - FH05","(L/B/S)U template",2572843,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862547,"EVERE - FH05","(L/B/S)U template",2572844,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862548,"EVERE - FH05","(L/B/S)U template",2572845,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862549,"EVERE - FH05","(L/B/S)U template",2572846,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862550,"EVERE - FH05","(L/B/S)U template",2572847,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862551,"EVERE - FH05","(L/B/S)U template",2572848,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862552,"EVERE - FH05","(L/B/S)U template",2572849,,725829,"Galgelaan - Avenue du Gibet",22,,,,LU,
+862553,"EVERE - FH05","(L/B/S)U template",2572792,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862554,"EVERE - FH05","(L/B/S)U template",2572793,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862555,"EVERE - FH05","(L/B/S)U template",2572794,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862556,"EVERE - FH05","(L/B/S)U template",2572795,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862557,"EVERE - FH05","(L/B/S)U template",2572796,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862558,"EVERE - FH05","(L/B/S)U template",2572797,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862559,"EVERE - FH05","(L/B/S)U template",2572798,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862560,"EVERE - FH05","(L/B/S)U template",2572799,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862561,"EVERE - FH05","(L/B/S)U template",2572800,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862562,"EVERE - FH05","(L/B/S)U template",2572801,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862563,"EVERE - FH05","(L/B/S)U template",2572802,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862564,"EVERE - FH05","(L/B/S)U template",2572803,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862565,"EVERE - FH05","(L/B/S)U template",2572804,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862566,"EVERE - FH05","(L/B/S)U template",2572805,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862567,"EVERE - FH05","(L/B/S)U template",2572806,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862568,"EVERE - FH05","(L/B/S)U template",2572807,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862569,"EVERE - FH05","(L/B/S)U template",2572808,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862570,"EVERE - FH05","(L/B/S)U template",2572809,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862571,"EVERE - FH05","(L/B/S)U template",2572810,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862572,"EVERE - FH05","(L/B/S)U template",2572811,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862573,"EVERE - FH05","(L/B/S)U template",2572812,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862574,"EVERE - FH05","(L/B/S)U template",2572813,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862575,"EVERE - FH05","(L/B/S)U template",2572814,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862576,"EVERE - FH05","(L/B/S)U template",2572815,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862577,"EVERE - FH05","(L/B/S)U template",2572816,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862578,"EVERE - FH05","(L/B/S)U template",2572817,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862579,"EVERE - FH05","(L/B/S)U template",2572818,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862580,"EVERE - FH05","(L/B/S)U template",2572819,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862581,"EVERE - FH05","(L/B/S)U template",2572820,,725830,"Galgelaan - Avenue du Gibet",20,,,,LU,
+862582,"EVERE - FH05","(L/B/S)U template",2572763,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862583,"EVERE - FH05","(L/B/S)U template",2572764,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862584,"EVERE - FH05","(L/B/S)U template",2572765,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862585,"EVERE - FH05","(L/B/S)U template",2572766,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862586,"EVERE - FH05","(L/B/S)U template",2572767,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862587,"EVERE - FH05","(L/B/S)U template",2572768,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862588,"EVERE - FH05","(L/B/S)U template",2572769,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862589,"EVERE - FH05","(L/B/S)U template",2572770,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862590,"EVERE - FH05","(L/B/S)U template",2572771,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862591,"EVERE - FH05","(L/B/S)U template",2572772,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862592,"EVERE - FH05","(L/B/S)U template",2572773,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862593,"EVERE - FH05","(L/B/S)U template",2572774,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862594,"EVERE - FH05","(L/B/S)U template",2572775,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862595,"EVERE - FH05","(L/B/S)U template",2572776,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862596,"EVERE - FH05","(L/B/S)U template",2572777,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862597,"EVERE - FH05","(L/B/S)U template",2572778,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862598,"EVERE - FH05","(L/B/S)U template",2572779,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862599,"EVERE - FH05","(L/B/S)U template",2572780,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862600,"EVERE - FH05","(L/B/S)U template",2572781,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862601,"EVERE - FH05","(L/B/S)U template",2572782,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862602,"EVERE - FH05","(L/B/S)U template",2572783,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862603,"EVERE - FH05","(L/B/S)U template",2572784,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862604,"EVERE - FH05","(L/B/S)U template",2572785,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862605,"EVERE - FH05","(L/B/S)U template",2572786,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862606,"EVERE - FH05","(L/B/S)U template",2572787,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862607,"EVERE - FH05","(L/B/S)U template",2572788,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862608,"EVERE - FH05","(L/B/S)U template",2572789,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862609,"EVERE - FH05","(L/B/S)U template",2572790,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862610,"EVERE - FH05","(L/B/S)U template",2572791,,725831,"Galgelaan - Avenue du Gibet",18,,,,LU,
+862611,"EVERE - FH05","(L/B/S)U template",2581422,,725832,"Clos des Lauriers Roses - Oleandergaard",51,,,,LU,
+862612,"EVERE - FH05","(L/B/S)U template",2581426,,725833,"Clos des Lauriers Roses - Oleandergaard",55,,,,LU,
+862613,"EVERE - FH05","(L/B/S)U template",2573914,,725878,Leuvensesteenweg,979,,,,LU,
+862614,"EVERE - FH05","(L/B/S)U template",2573915,,725878,Leuvensesteenweg,979,,,,LU,
+862615,"EVERE - FH05","(L/B/S)U template",2573916,,725878,Leuvensesteenweg,979,,,,LU,
+862616,"EVERE - FH05","(L/B/S)U template",2573917,,725878,Leuvensesteenweg,979,,,,LU,
+862617,"EVERE - FH05","(L/B/S)U template",2573918,,725878,Leuvensesteenweg,979,,,,LU,
+862618,"EVERE - FH05","(L/B/S)U template",2573919,,725878,Leuvensesteenweg,979,,,,LU,
+862619,"EVERE - FH05","(L/B/S)U template",2573920,,725878,Leuvensesteenweg,979,,,,LU,
+862620,"EVERE - FH05","(L/B/S)U template",2573921,,725878,Leuvensesteenweg,979,,,,LU,
+862621,"EVERE - FH05","(L/B/S)U template",2573906,,725879,Leuvensesteenweg,977,,,,LU,
+862622,"EVERE - FH05","(L/B/S)U template",2573907,,725879,Leuvensesteenweg,977,,,,LU,
+862623,"EVERE - FH05","(L/B/S)U template",2573908,,725879,Leuvensesteenweg,977,,,,LU,
+862624,"EVERE - FH05","(L/B/S)U template",2573909,,725879,Leuvensesteenweg,977,,,,LU,
+862625,"EVERE - FH05","(L/B/S)U template",2573910,,725879,Leuvensesteenweg,977,,,,LU,
+862626,"EVERE - FH05","(L/B/S)U template",2573911,,725879,Leuvensesteenweg,977,,,,LU,
+862627,"EVERE - FH05","(L/B/S)U template",2573912,,725879,Leuvensesteenweg,977,,,,LU,
+862628,"EVERE - FH05","(L/B/S)U template",2573913,,725879,Leuvensesteenweg,977,,,,LU,
+862629,"EVERE - FH05","(L/B/S)U template",2573898,,725880,Leuvensesteenweg,975,,,,LU,
+862630,"EVERE - FH05","(L/B/S)U template",2573899,,725880,Leuvensesteenweg,975,,,,LU,
+862631,"EVERE - FH05","(L/B/S)U template",2573900,,725880,Leuvensesteenweg,975,,,,LU,
+862632,"EVERE - FH05","(L/B/S)U template",2573901,,725880,Leuvensesteenweg,975,,,,LU,
+862633,"EVERE - FH05","(L/B/S)U template",2573902,,725880,Leuvensesteenweg,975,,,,LU,
+862634,"EVERE - FH05","(L/B/S)U template",2573903,,725880,Leuvensesteenweg,975,,,,LU,
+862635,"EVERE - FH05","(L/B/S)U template",2573904,,725880,Leuvensesteenweg,975,,,,LU,
+862636,"EVERE - FH05","(L/B/S)U template",2573905,,725880,Leuvensesteenweg,975,,,,LU,
+862637,"EVERE - FH05","(L/B/S)U template",2573890,,725881,Leuvensesteenweg,973,,,,LU,
+862638,"EVERE - FH05","(L/B/S)U template",2573891,,725881,Leuvensesteenweg,973,,,,LU,
+862639,"EVERE - FH05","(L/B/S)U template",2573892,,725881,Leuvensesteenweg,973,,,,LU,
+862640,"EVERE - FH05","(L/B/S)U template",2573893,,725881,Leuvensesteenweg,973,,,,LU,
+862641,"EVERE - FH05","(L/B/S)U template",2573894,,725881,Leuvensesteenweg,973,,,,LU,
+862642,"EVERE - FH05","(L/B/S)U template",2573895,,725881,Leuvensesteenweg,973,,,,LU,
+862643,"EVERE - FH05","(L/B/S)U template",2573896,,725881,Leuvensesteenweg,973,,,,LU,
+862644,"EVERE - FH05","(L/B/S)U template",2573897,,725881,Leuvensesteenweg,973,,,,LU,
+862645,"EVERE - FH05","(L/B/S)U template",2573881,,725882,Leuvensesteenweg,971,,,,LU,
+862646,"EVERE - FH05","(L/B/S)U template",2573882,,725882,Leuvensesteenweg,971,,,,LU,
+862647,"EVERE - FH05","(L/B/S)U template",2573883,,725882,Leuvensesteenweg,971,,,,LU,
+862648,"EVERE - FH05","(L/B/S)U template",2573884,,725882,Leuvensesteenweg,971,,,,LU,
+862649,"EVERE - FH05","(L/B/S)U template",2573885,,725882,Leuvensesteenweg,971,,,,LU,
+862650,"EVERE - FH05","(L/B/S)U template",2573886,,725882,Leuvensesteenweg,971,,,,LU,
+862651,"EVERE - FH05","(L/B/S)U template",2573887,,725882,Leuvensesteenweg,971,,,,LU,
+862652,"EVERE - FH05","(L/B/S)U template",2573888,,725882,Leuvensesteenweg,971,,,,LU,
+862653,"EVERE - FH05","(L/B/S)U template",2573872,,725883,Leuvensesteenweg,969,,,,LU,
+862654,"EVERE - FH05","(L/B/S)U template",2573873,,725883,Leuvensesteenweg,969,,,,LU,
+862655,"EVERE - FH05","(L/B/S)U template",2573874,,725883,Leuvensesteenweg,969,,,,LU,
+862656,"EVERE - FH05","(L/B/S)U template",2573875,,725883,Leuvensesteenweg,969,,,,LU,
+862657,"EVERE - FH05","(L/B/S)U template",2573876,,725883,Leuvensesteenweg,969,,,,LU,
+862658,"EVERE - FH05","(L/B/S)U template",2573877,,725883,Leuvensesteenweg,969,,,,LU,
+862659,"EVERE - FH05","(L/B/S)U template",2573878,,725883,Leuvensesteenweg,969,,,,LU,
+862660,"EVERE - FH05","(L/B/S)U template",2573879,,725883,Leuvensesteenweg,969,,,,LU,
+862661,"EVERE - FH05","(L/B/S)U template",2573861,,725884,Leuvensesteenweg,967,,,,LU,
+862662,"EVERE - FH05","(L/B/S)U template",2573862,,725884,Leuvensesteenweg,967,,,,LU,
+862663,"EVERE - FH05","(L/B/S)U template",2573863,,725884,Leuvensesteenweg,967,,,,LU,
+862664,"EVERE - FH05","(L/B/S)U template",2573864,,725884,Leuvensesteenweg,967,,,,LU,
+862665,"EVERE - FH05","(L/B/S)U template",2573865,,725884,Leuvensesteenweg,967,,,,LU,
+862666,"EVERE - FH05","(L/B/S)U template",2573866,,725884,Leuvensesteenweg,967,,,,LU,
+862667,"EVERE - FH05","(L/B/S)U template",2573867,,725884,Leuvensesteenweg,967,,,,LU,
+862668,"EVERE - FH05","(L/B/S)U template",2573868,,725884,Leuvensesteenweg,967,,,,LU,
+862669,"EVERE - FH05","(L/B/S)U template",2573850,,725885,Leuvensesteenweg,965,,,,LU,
+862670,"EVERE - FH05","(L/B/S)U template",2573851,,725885,Leuvensesteenweg,965,,,,LU,
+862671,"EVERE - FH05","(L/B/S)U template",2573852,,725885,Leuvensesteenweg,965,,,,LU,
+862672,"EVERE - FH05","(L/B/S)U template",2573853,,725885,Leuvensesteenweg,965,,,,LU,
+862673,"EVERE - FH05","(L/B/S)U template",2573854,,725885,Leuvensesteenweg,965,,,,LU,
+862674,"EVERE - FH05","(L/B/S)U template",2573855,,725885,Leuvensesteenweg,965,,,,LU,
+862675,"EVERE - FH05","(L/B/S)U template",2573856,,725885,Leuvensesteenweg,965,,,,LU,
+862676,"EVERE - FH05","(L/B/S)U template",2573857,,725885,Leuvensesteenweg,965,,,,LU,
+862677,"EVERE - FH05","(L/B/S)U template",2573839,,725886,Leuvensesteenweg,963,,,,LU,
+862678,"EVERE - FH05","(L/B/S)U template",2573840,,725886,Leuvensesteenweg,963,,,,LU,
+862679,"EVERE - FH05","(L/B/S)U template",2573841,,725886,Leuvensesteenweg,963,,,,LU,
+862680,"EVERE - FH05","(L/B/S)U template",2573842,,725886,Leuvensesteenweg,963,,,,LU,
+862681,"EVERE - FH05","(L/B/S)U template",2573843,,725886,Leuvensesteenweg,963,,,,LU,
+862682,"EVERE - FH05","(L/B/S)U template",2573844,,725886,Leuvensesteenweg,963,,,,LU,
+862683,"EVERE - FH05","(L/B/S)U template",2573845,,725886,Leuvensesteenweg,963,,,,LU,
+862684,"EVERE - FH05","(L/B/S)U template",2573846,,725886,Leuvensesteenweg,963,,,,LU,
+862685,"EVERE - FH05","(L/B/S)U template",2573830,,725887,Leuvensesteenweg,961,,,,LU,
+862686,"EVERE - FH05","(L/B/S)U template",2573831,,725887,Leuvensesteenweg,961,,,,LU,
+862687,"EVERE - FH05","(L/B/S)U template",2573832,,725887,Leuvensesteenweg,961,,,,LU,
+862688,"EVERE - FH05","(L/B/S)U template",2573833,,725887,Leuvensesteenweg,961,,,,LU,
+862689,"EVERE - FH05","(L/B/S)U template",2573834,,725887,Leuvensesteenweg,961,,,,LU,
+862690,"EVERE - FH05","(L/B/S)U template",2573835,,725887,Leuvensesteenweg,961,,,,LU,
+862691,"EVERE - FH05","(L/B/S)U template",2573836,,725887,Leuvensesteenweg,961,,,,LU,
+862692,"EVERE - FH05","(L/B/S)U template",2573837,,725887,Leuvensesteenweg,961,,,,LU,
+862693,"EVERE - FH05","(L/B/S)U template",2573819,,725888,Leuvensesteenweg,959,,,,LU,
+862694,"EVERE - FH05","(L/B/S)U template",2573820,,725888,Leuvensesteenweg,959,,,,LU,
+862695,"EVERE - FH05","(L/B/S)U template",2573821,,725888,Leuvensesteenweg,959,,,,LU,
+862696,"EVERE - FH05","(L/B/S)U template",2573822,,725888,Leuvensesteenweg,959,,,,LU,
+862697,"EVERE - FH05","(L/B/S)U template",2573823,,725888,Leuvensesteenweg,959,,,,LU,
+862698,"EVERE - FH05","(L/B/S)U template",2573824,,725888,Leuvensesteenweg,959,,,,LU,
+862699,"EVERE - FH05","(L/B/S)U template",2573825,,725888,Leuvensesteenweg,959,,,,LU,
+862700,"EVERE - FH05","(L/B/S)U template",2573826,,725888,Leuvensesteenweg,959,,,,LU,
+862701,"EVERE - FH05","(L/B/S)U template",2573810,,725889,Leuvensesteenweg,957,,,,LU,
+862702,"EVERE - FH05","(L/B/S)U template",2573811,,725889,Leuvensesteenweg,957,,,,LU,
+862703,"EVERE - FH05","(L/B/S)U template",2573812,,725889,Leuvensesteenweg,957,,,,LU,
+862704,"EVERE - FH05","(L/B/S)U template",2573813,,725889,Leuvensesteenweg,957,,,,LU,
+862705,"EVERE - FH05","(L/B/S)U template",2573814,,725889,Leuvensesteenweg,957,,,,LU,
+862706,"EVERE - FH05","(L/B/S)U template",2573815,,725889,Leuvensesteenweg,957,,,,LU,
+862707,"EVERE - FH05","(L/B/S)U template",2573816,,725889,Leuvensesteenweg,957,,,,LU,
+862708,"EVERE - FH05","(L/B/S)U template",2573817,,725889,Leuvensesteenweg,957,,,,LU,
+862709,"EVERE - FH05","(L/B/S)U template",2573789,,725890,Leuvensesteenweg,953,,,,LU,
+862710,"EVERE - FH05","(L/B/S)U template",2573790,,725890,Leuvensesteenweg,953,,,,LU,
+862711,"EVERE - FH05","(L/B/S)U template",2573791,,725890,Leuvensesteenweg,953,,,,LU,
+862712,"EVERE - FH05","(L/B/S)U template",2573792,,725890,Leuvensesteenweg,953,,,,LU,
+862713,"EVERE - FH05","(L/B/S)U template",2573793,,725890,Leuvensesteenweg,953,,,,LU,
+862714,"EVERE - FH05","(L/B/S)U template",2573794,,725890,Leuvensesteenweg,953,,,,LU,
+862715,"EVERE - FH05","(L/B/S)U template",2573795,,725890,Leuvensesteenweg,953,,,,LU,
+862716,"EVERE - FH05","(L/B/S)U template",2573796,,725890,Leuvensesteenweg,953,,,,LU,
+862717,"EVERE - FH05","(L/B/S)U template",2575344,,725891,"Platolaan - Avenue Platon",17,,,,LU,
+862718,"EVERE - FH05","(L/B/S)U template",2575345,,725892,"Platolaan - Avenue Platon",18,,,,LU,
+862719,"EVERE - FH05","(L/B/S)U template",2575340,,725893,"Platolaan - Avenue Platon",13,,,,LU,
+862720,"EVERE - FH05","(L/B/S)U template",2575348,,725894,"Platolaan - Avenue Platon",20,,,,LU,
+862721,"EVERE - FH05","(L/B/S)U template",2575339,,725895,"Platolaan - Avenue Platon",12,,,,BU,
+862722,"EVERE - FH05","(L/B/S)U template",2575336,,725896,"Platolaan - Avenue Platon",1,,,,BU,
+862723,"EVERE - FH05","(L/B/S)U template",2582473,,725897,"A. Vermeylenlaan - Avenue Auguste Vermeylen",55,,,,LU,
+862724,"EVERE - FH05","(L/B/S)U template",2582442,,725898,"A. Vermeylenlaan - Avenue Auguste Vermeylen",27,,,,LU,
+862725,"EVERE - FH05","(L/B/S)U template",2582423,,725899,"A. Vermeylenlaan - Avenue Auguste Vermeylen",1,,,,LU,
+862726,"EVERE - FH05","(L/B/S)U template",2582430,,725900,"A. Vermeylenlaan - Avenue Auguste Vermeylen",16,,,,LU,
+862727,"EVERE - FH05","(L/B/S)U template",2582444,,725901,"A. Vermeylenlaan - Avenue Auguste Vermeylen",29,,,,LU,
+862728,"EVERE - FH05","(L/B/S)U template",2572747,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862729,"EVERE - FH05","(L/B/S)U template",2572748,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862730,"EVERE - FH05","(L/B/S)U template",2572749,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862731,"EVERE - FH05","(L/B/S)U template",2572750,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862732,"EVERE - FH05","(L/B/S)U template",2572751,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862733,"EVERE - FH05","(L/B/S)U template",2572752,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862734,"EVERE - FH05","(L/B/S)U template",2572753,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862735,"EVERE - FH05","(L/B/S)U template",2572754,,725902,"Galgelaan - Avenue du Gibet",14,,,,LU,
+862736,"EVERE - FH05","(L/B/S)U template",2572739,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862737,"EVERE - FH05","(L/B/S)U template",2572740,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862738,"EVERE - FH05","(L/B/S)U template",2572741,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862739,"EVERE - FH05","(L/B/S)U template",2572742,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862740,"EVERE - FH05","(L/B/S)U template",2572743,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862741,"EVERE - FH05","(L/B/S)U template",2572744,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862742,"EVERE - FH05","(L/B/S)U template",2572745,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862743,"EVERE - FH05","(L/B/S)U template",2572746,,725903,"Galgelaan - Avenue du Gibet",12,,,,LU,
+862744,"EVERE - FH05","(L/B/S)U template",2572731,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862745,"EVERE - FH05","(L/B/S)U template",2572732,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862746,"EVERE - FH05","(L/B/S)U template",2572733,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862747,"EVERE - FH05","(L/B/S)U template",2572734,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862748,"EVERE - FH05","(L/B/S)U template",2572735,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862749,"EVERE - FH05","(L/B/S)U template",2572736,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862750,"EVERE - FH05","(L/B/S)U template",2572737,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862751,"EVERE - FH05","(L/B/S)U template",2572738,,725904,"Galgelaan - Avenue du Gibet",10,,,,LU,
+862752,"EVERE - FH05","(L/B/S)U template",2572852,,725907,"Galgelaan - Avenue du Gibet",7,,,,LU,
+862753,"EVERE - FH05","(L/B/S)U template",2582591,,725908,"Francois Villonlaan - Avenue Francois Villon",60,,,,LU,
+862754,"EVERE - FH05","(L/B/S)U template",2582572,,725909,"Francois Villonlaan - Avenue Francois Villon",32,,,,LU,
+862755,"EVERE - FH05","(L/B/S)U template",2582570,,725910,"Francois Villonlaan - Avenue Francois Villon",30,,,,LU,
+862756,"EVERE - FH05","(L/B/S)U template",2582552,,725911,"Francois Villonlaan - Avenue Francois Villon",14,,,,LU,
+862757,"EVERE - FH05","(L/B/S)U template",2582550,,725912,"Francois Villonlaan - Avenue Francois Villon",12,,,,LU,
+862758,"EVERE - FH05","(L/B/S)U template",2582558,,725913,"Francois Villonlaan - Avenue Francois Villon",2,,,,LU,
+862759,"EVERE - FH05","(L/B/S)U template",2582594,,725914,"Francois Villonlaan - Avenue Francois Villon",9,,,,LU,
+862760,"EVERE - FH05","(L/B/S)U template",2582553,,725915,"Francois Villonlaan - Avenue Francois Villon",15,,,,LU,
+862761,"EVERE - FH05","(L/B/S)U template",2582547,,725916,"Francois Villonlaan - Avenue Francois Villon",1,,,,LU,
+862762,"EVERE - FH05","(L/B/S)U template",2582592,,725917,"Francois Villonlaan - Avenue Francois Villon",7,,,,LU,
+862763,"EVERE - FH05","(L/B/S)U template",2582564,,725918,"Francois Villonlaan - Avenue Francois Villon",25,,,,LU,
+862764,"EVERE - FH05","(L/B/S)U template",2582571,,725919,"Francois Villonlaan - Avenue Francois Villon",31,,,,LU,
+862765,"EVERE - FH05","(L/B/S)U template",2582555,,725920,"Francois Villonlaan - Avenue Francois Villon",17,,,,LU,
+862766,"EVERE - FH05","(L/B/S)U template",2582562,,725921,"Francois Villonlaan - Avenue Francois Villon",23,,,,LU,
+862767,"EVERE - FH05","(L/B/S)U template",2571456,,862903,Cicerolaan,20,,,,BU,
+862768,"EVERE - FH05","(L/B/S)U template",2579340,,862904,"Duiveltjesgaarde - Clos des Diablotins",40,,,,LU,
+862769,"EVERE - FH05","(L/B/S)U template",2579341,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862770,"EVERE - FH05","(L/B/S)U template",2579342,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862771,"EVERE - FH05","(L/B/S)U template",2579343,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862772,"EVERE - FH05","(L/B/S)U template",2579344,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862773,"EVERE - FH05","(L/B/S)U template",2579345,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862774,"EVERE - FH05","(L/B/S)U template",2579346,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862775,"EVERE - FH05","(L/B/S)U template",2579347,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862776,"EVERE - FH05","(L/B/S)U template",2579348,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862777,"EVERE - FH05","(L/B/S)U template",2579349,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862778,"EVERE - FH05","(L/B/S)U template",2579350,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862779,"EVERE - FH05","(L/B/S)U template",2579351,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862780,"EVERE - FH05","(L/B/S)U template",2579352,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862781,"EVERE - FH05","(L/B/S)U template",2579353,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862782,"EVERE - FH05","(L/B/S)U template",2579354,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862783,"EVERE - FH05","(L/B/S)U template",2579355,,862905,"Duiveltjesgaarde - Clos des Diablotins",41,,,,LU,
+862784,"EVERE - FH05","(L/B/S)U template",2579356,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862785,"EVERE - FH05","(L/B/S)U template",2579357,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862786,"EVERE - FH05","(L/B/S)U template",2579358,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862787,"EVERE - FH05","(L/B/S)U template",2579359,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862788,"EVERE - FH05","(L/B/S)U template",2579360,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862789,"EVERE - FH05","(L/B/S)U template",2579361,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862790,"EVERE - FH05","(L/B/S)U template",2579362,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862791,"EVERE - FH05","(L/B/S)U template",2579363,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862792,"EVERE - FH05","(L/B/S)U template",2579364,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862793,"EVERE - FH05","(L/B/S)U template",2579365,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862794,"EVERE - FH05","(L/B/S)U template",2579366,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862795,"EVERE - FH05","(L/B/S)U template",2579367,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862796,"EVERE - FH05","(L/B/S)U template",2579368,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862797,"EVERE - FH05","(L/B/S)U template",2579369,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862798,"EVERE - FH05","(L/B/S)U template",2579370,,862906,"Duiveltjesgaarde - Clos des Diablotins",42,,,,LU,
+862799,"EVERE - FH05","(L/B/S)U template",2579325,,862907,"Duiveltjesgaarde - Clos des Diablotins",27,,,,LU,
+862800,"EVERE - FH05","(L/B/S)U template",2579329,,862908,"Duiveltjesgaarde - Clos des Diablotins",30,,,,LU,
+862801,"EVERE - FH05","(L/B/S)U template",2579335,,862909,"Duiveltjesgaarde - Clos des Diablotins",36,,,,LU,
+862802,"EVERE - FH05","(L/B/S)U template",2579330,,862910,"Duiveltjesgaarde - Clos des Diablotins",31,,,,LU,
+862803,"EVERE - FH05","(L/B/S)U template",2579306,,862911,"Duiveltjesgaarde - Clos des Diablotins",1,,,,LU,
+862804,"EVERE - FH05","(L/B/S)U template",2579309,,862912,"Duiveltjesgaarde - Clos des Diablotins",12,,,,LU,
+862805,"EVERE - FH05","(L/B/S)U template",2579310,,862913,"Duiveltjesgaarde - Clos des Diablotins",13,,,,LU,
+862806,"EVERE - FH05","(L/B/S)U template",2579315,,862914,"Duiveltjesgaarde - Clos des Diablotins",18,,,,LU,
+862807,"EVERE - FH05","(L/B/S)U template",2579316,,862915,"Duiveltjesgaarde - Clos des Diablotins",19,,,,LU,
+862808,"EVERE - FH05","(L/B/S)U template",2579324,,862916,"Duiveltjesgaarde - Clos des Diablotins",26,,,,LU,
+894577,"EVERE - FH05","BUILDING template",1623301,,1623301,"A. Vermeylenlaan - Avenue Auguste Vermeylen",60,,,,,Y
+894578,"EVERE - FH05","BUILDING template",4117835,,4117835,Cicerolaan,40,,,,,N
+894579,"EVERE - FH05","BUILDING template",6524488,,6524488,"Clos des Lauriers Roses - Oleandergaard",104,,,,,Y
+894580,"EVERE - FH05","(L/B/S)U template",11388950,,1623301,"A. Vermeylenlaan - Avenue Auguste Vermeylen",60,,,,LU,
+894581,"EVERE - FH05","(L/B/S)U template",11388951,,4117835,Cicerolaan,40,,,,LU,
+894582,"EVERE - FH05","(L/B/S)U template",11388949,,6524488,"Clos des Lauriers Roses - Oleandergaard",104,,,,LU,
+1050878,"EVERE - FH05","BUILDING template",NB-11402238595,NB-11402238595,NB-11402238595,"Cicerolaan - Avenue Cicéron",22,,NEW,,,Y
+1050879,"EVERE - FH05","BUILDING template",NB-11402484170,NB-11402484170,NB-11402484170,"Cicerolaan - Avenue Cicéron",24,,NEW,,,Y
+1052516,"EVERE - FH05","BUILDING template",1621810,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,,
+1052517,"EVERE - FH05","(L/B/S)U template",11460376,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052518,"EVERE - FH05","(L/B/S)U template",11460377,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052519,"EVERE - FH05","(L/B/S)U template",11460378,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052520,"EVERE - FH05","(L/B/S)U template",11460379,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052521,"EVERE - FH05","(L/B/S)U template",11460380,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052522,"EVERE - FH05","(L/B/S)U template",11460381,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052523,"EVERE - FH05","(L/B/S)U template",11460382,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052524,"EVERE - FH05","(L/B/S)U template",11460383,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052525,"EVERE - FH05","(L/B/S)U template",11460384,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052526,"EVERE - FH05","(L/B/S)U template",11460385,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052527,"EVERE - FH05","(L/B/S)U template",11460386,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052528,"EVERE - FH05","(L/B/S)U template",11460387,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052529,"EVERE - FH05","(L/B/S)U template",11460388,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052530,"EVERE - FH05","(L/B/S)U template",11460389,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052531,"EVERE - FH05","(L/B/S)U template",11460390,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052532,"EVERE - FH05","(L/B/S)U template",11460391,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052533,"EVERE - FH05","(L/B/S)U template",11460392,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052534,"EVERE - FH05","(L/B/S)U template",11460393,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052535,"EVERE - FH05","(L/B/S)U template",11460394,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052536,"EVERE - FH05","(L/B/S)U template",11460395,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052537,"EVERE - FH05","(L/B/S)U template",11460396,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052538,"EVERE - FH05","(L/B/S)U template",11460397,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052539,"EVERE - FH05","(L/B/S)U template",11460398,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052540,"EVERE - FH05","(L/B/S)U template",11460399,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052541,"EVERE - FH05","(L/B/S)U template",11460400,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052542,"EVERE - FH05","(L/B/S)U template",11460401,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052543,"EVERE - FH05","(L/B/S)U template",11460402,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052544,"EVERE - FH05","(L/B/S)U template",11460403,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052545,"EVERE - FH05","(L/B/S)U template",11460404,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052546,"EVERE - FH05","(L/B/S)U template",11460405,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052547,"EVERE - FH05","(L/B/S)U template",11460406,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052548,"EVERE - FH05","(L/B/S)U template",11460407,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052549,"EVERE - FH05","(L/B/S)U template",11460408,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052550,"EVERE - FH05","(L/B/S)U template",11460409,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052551,"EVERE - FH05","(L/B/S)U template",11460410,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052552,"EVERE - FH05","(L/B/S)U template",11460411,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052553,"EVERE - FH05","(L/B/S)U template",11460412,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052554,"EVERE - FH05","(L/B/S)U template",11460413,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052555,"EVERE - FH05","(L/B/S)U template",11460414,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052556,"EVERE - FH05","(L/B/S)U template",11460415,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052557,"EVERE - FH05","(L/B/S)U template",11460416,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052558,"EVERE - FH05","(L/B/S)U template",11460417,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,LU,
+1052559,"EVERE - FH05","(L/B/S)U template",11460418,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,SU,
+1052560,"EVERE - FH05","(L/B/S)U template",11460419,,1621810,"Avenue Franz Guillaume - Franz Guillaumelaan",120,,,,SU,
