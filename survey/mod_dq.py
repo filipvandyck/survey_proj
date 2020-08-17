@@ -7,6 +7,7 @@
 import myoutput as out
 import os
 import pandas as pd
+import numpy as np
 
 import mod_import_pr as imp
 
@@ -143,17 +144,51 @@ def make_diff_pr_ifh(f,f_pr):
 
     df_q = pd.merge(df_q, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
 
+    #wall mount
+
+    pr['test_WM'] = pr['Opdrachtnummer'] + '_' + pr['Wall_Mount']
+    survey['WM'] = survey['LAM_MK'] + '_' + survey['Wall_Mount']
+    df_WM = pr[~pr['test_WM'].isin(survey['WM'])]
+    df_WM['errors'] = 'Wall Mount diff'
 
 
+    df_WM = pd.merge(df_WM, survey, how='left', left_on='Opdrachtnummer', right_on='LAM_MK',suffixes=('', '_IFH'))
 
-    df_dif=pd.concat([df_cluster, df_blok,df_buildingfid,df_bg,df_bt,df_units_total,df_bu,df_lu,df_su,df_q], join='outer', axis=0)
+
+    # blok diff in bg
+    table_bg_blok = pd.pivot_table(pr,index='BG_Name',values='Blok',aggfunc=lambda x: len(x.unique()))
+    df_bg_blok = table_bg_blok[table_bg_blok['Blok']>1] 
+    df_bg_blok['BG_Name_test'] = df_bg_blok.index
+    df_bg_blok = df_bg_blok[df_bg_blok['BG_Name_test']!=''] 
+
+    df_bg_blok = df_bg_blok.rename(columns={"Blok": "blok_diff"})
+    df_bg_blok = pd.merge(df_bg_blok, pr, how='inner', left_on='BG_Name', right_on='BG_Name',suffixes=('', '_PR'))
+    df_bg_blok['errors'] = 'BG Blok diff'
+    
+    # cluster diff in bg
+    table_bg_cluster = pd.pivot_table(pr,index='BG_Name',values='Cluster_NR',aggfunc=lambda x: len(x.unique()))
+    df_bg_cluster = table_bg_cluster[table_bg_cluster['Cluster_NR']>1] 
+    df_bg_cluster['BG_Name_test'] = df_bg_cluster.index
+    df_bg_cluster = df_bg_cluster[df_bg_cluster['BG_Name_test']!=''] 
+
+    df_bg_cluster = df_bg_cluster.rename(columns={"Cluster_NR": "cluster_diff"})
+    df_bg_cluster = pd.merge(df_bg_cluster, pr, how='inner', left_on='BG_Name', right_on='BG_Name',suffixes=('', '_PR'))
+    df_bg_cluster['errors'] = 'BG Cluster diff'
+
+    print('BG Blok')
+    print(df_bg_blok)
+    print('BG Cluster')
+    print(df_bg_cluster)
+
+
+    df_dif=pd.concat([df_cluster, df_blok,df_buildingfid,df_bg,df_bt,df_units_total,df_bu,df_lu,df_su,df_q,df_WM, df_bg_blok,df_bg_cluster], join='outer', axis=0)
     df_dif=df_dif.sort_values(by=['Opdrachtnummer'])
 
     out.print_df(df_dif)
 
 
 
-    df_dif=df_dif[['Projectnummer','errors','Opdrachtnummer','Blok','Cluster_NR','Building_FID','LAM_MK','BG_Id','BG_Name','BG_Name_IFH','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant','Q_IFH', 'SSV_Date','Surveyor','Buildingtype','NR_BU','NR_LU','NR_SU','UNITS_TOTAL','BU','LU','SU','TOTAAL','Opdrachttemplate']]
+    df_dif=df_dif[['Projectnummer','errors','Opdrachtnummer','Blok','Cluster_NR','Building_FID','LAM_MK','BG_Id','BG_Name','BG_Name_IFH','Straat','Huisnummer','Huisnummer_Toevoeging','Quadrant','Q_IFH', 'SSV_Date','Surveyor','Buildingtype','NR_BU','NR_LU','NR_SU','UNITS_TOTAL','BU','LU','SU','TOTAAL','Wall_Mount','Wall_Mount_IFH','Opdrachttemplate']]
 
 
     df_dif.columns = df_dif.columns.str.replace('_',' ')
