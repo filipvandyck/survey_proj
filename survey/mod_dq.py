@@ -172,14 +172,17 @@ def make_diff_pr_ifh(f,f_pr):
     df_bg_cluster = df_bg_cluster[df_bg_cluster['BG_Name_test']!=''] 
 
     df_bg_cluster = df_bg_cluster.rename(columns={"Cluster_NR": "cluster_diff"})
-    df_bg_cluster = pd.merge(df_bg_cluster, pr, how='inner', left_on='BG_Name', right_on='BG_Name',suffixes=('', '_PR'))
-    df_bg_cluster['errors'] = 'BG Cluster diff'
+    print("df cluster")
+    print(df_bg_cluster)
+    if df_bg_cluster.empty == False:
+        df_bg_cluster = pd.merge(df_bg_cluster, pr, how='inner', left_on='BG_Name', right_on='BG_Name',suffixes=('', '_PR'))
+        df_bg_cluster['errors'] = 'BG Cluster diff'
+        print('BG Cluster')
+        print(df_bg_cluster)
 
     print('BG Blok')
     print(df_bg_blok)
-    print('BG Cluster')
-    print(df_bg_cluster)
-
+    
 
     df_dif=pd.concat([df_cluster, df_blok,df_buildingfid,df_bg,df_bt,df_units_total,df_bu,df_lu,df_su,df_q,df_WM, df_bg_blok,df_bg_cluster], join='outer', axis=0)
     df_dif=df_dif.sort_values(by=['Opdrachtnummer'])

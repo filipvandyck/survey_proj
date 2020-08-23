@@ -1,3 +1,9 @@
-﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
-SINT-NIKLAAS - FH01;96772;BL0119;3;817472;96772;;Hendrik Heymanplein 1_Grote Markt 34;Hendrik Heymanplein;1;;D;2020-05-28 15:15:15;Maayken Vanfleteren;MDU;0;7;1;8;BUILDING template
-SINT-NIKLAAS - FH01;1291139;BL0119;3;790857;1291139;;Hendrik Heymanplein 1_Grote Markt 34;Grote Markt;34;;D;2020-05-28 15:15:14;Maayken Vanfleteren;MDU;1;0;0;1;BUILDING template
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;Opdrachttemplate
+SINT-NIKLAAS - FH01;3511679;BL0101;4;11475974;3511679;33434381;Plezantstraat 145-147-149;Plezantstraat;149;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;1;0;0;1;N;BUILDING template
+SINT-NIKLAAS - FH01;3511682;BL0101;4;11475971;3511682;33434381;Plezantstraat 151-153-155;Plezantstraat;151;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;1;0;0;1;N;BUILDING template
+SINT-NIKLAAS - FH01;3948774;BL0101;4;11475965;3948774;33434381;Plezantstraat 151-153-155;Plezantstraat;153;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;0;10;1;11;N;BUILDING template
+SINT-NIKLAAS - FH01;3511691;BL0101;4;11475960;3511691;33434381;Plezantstraat 151-153-155;Plezantstraat;155;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;0;1;0;1;N;BUILDING template
+SINT-NIKLAAS - FH01;3511672;BL0101;4;11475977;3511672;33434381;Plezantstraat 145-147-149;Plezantstraat;147;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;0;9;1;10;N;BUILDING template
+SINT-NIKLAAS - FH01;3511665;BL0101;4;11475979;3511665;33434381;Plezantstraat 145-147-149;Plezantstraat;145;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;1;0;0;1;N;BUILDING template
+SINT-NIKLAAS - FH01;3511652;BL0101;4;802385;3511652;33434381;Plezantstraat 141-143;Plezantstraat;141;;XA;2019-09-06 11:40:14;Andreas Versteeven;MDU;1;0;0;1;N;BUILDING template
+SINT-NIKLAAS - FH01;3511657;BL0101;4;11475982;3511657;33434381;Plezantstraat 141-143;Plezantstraat;143;;XA;2019-09-06 11:50:13;Wim Lambrechts;MDU;0;8;1;9;N;BUILDING template
