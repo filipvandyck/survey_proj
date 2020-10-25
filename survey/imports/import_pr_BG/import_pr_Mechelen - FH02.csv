@@ -1,0 +1,77 @@
+Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;BG Primair adres;Opdrachttemplate;TSA SIGNED;Meetstaat
+MECHELEN - FH02;402665;BL0232;6;7092747;402665;;;Arsenaalstraat;7;;;2019-12-17 09:35:14;Andreas Versteeven;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756744;BL0232;6;446555;4756744;;;Arsenaalstraat;9;;;2019-12-17 14:20:24;Yannick_ Lambrechts;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756747;BL0232;6;446556;4756747;;;Arsenaalstraat;11;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3029552;BL0232;6;427008;3029552;;;Arsenaalstraat;13;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3943960;BL0232;6;441059;3943960;;;Arsenaalstraat;15;;D;2019-03-15 19:40:57;Andreas Versteeven;MDU;0;3;0;3;Y;;BUILDING template;;
+MECHELEN - FH02;3029556;BL0232;6;427011;3029556;;;Arsenaalstraat;17;;D;2019-12-17 14:15:31;Yannick_ Lambrechts;MDU;0;4;0;4;Y;;BUILDING template;;
+MECHELEN - FH02;402670;BL0232;6;441530;402670;;;Arsenaalstraat;19;;D;2019-03-15 19:27:14;Yannick Lambrechts;MDU;0;4;0;4;Y;;BUILDING template;;
+MECHELEN - FH02;3029559;BL0232;6;427013;3029559;;;Arsenaalstraat;21;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3029561;BL0232;6;427015;3029561;;;Arsenaalstraat;23;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;402666;BL0232;6;441527;402666;;;Arsenaalstraat;25;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;402669;BL0232;6;441529;402669;;;Arsenaalstraat;27;;D;2018-09-05;Hidde Kiekens;MDU;0;3;0;3;Y;;BUILDING template;;
+MECHELEN - FH02;3029566;BL0232;6;427019;3029566;;;Arsenaalstraat;29;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3029568;BL0232;6;427021;3029568;;;Arsenaalstraat;31;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3029569;BL0232;6;427022;3029569;;;Arsenaalstraat;33;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3029572;BL0232;6;427024;3029572;;;Arsenaalstraat;35;;D;2018-09-05;Hidde Kiekens;MDU;1;1;0;2;Y;;BUILDING template;;
+MECHELEN - FH02;3029574;BL0232;6;427026;3029574;;;Arsenaalstraat;37;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3029576;BL0232;6;427028;3029576;;;Arsenaalstraat;39;;D;2018-09-05;Hidde Kiekens;MDU;0;2;0;2;Y;;BUILDING template;;
+MECHELEN - FH02;3029577;BL0232;6;427029;3029577;;;Arsenaalstraat;41;;D;2018-09-05;Hidde Kiekens;MDU;0;3;0;3;Y;;BUILDING template;;
+MECHELEN - FH02;402668;BL0232;6;441528;402668;;;Arsenaalstraat;43;;D;2019-03-15 19:26:31;Wim Lambrechts;MDU;0;5;0;5;Y;;BUILDING template;;
+MECHELEN - FH02;5434918;BL0232;6;449222;5434918;;;Arsenaalstraat;45;;;;Youssef Abdellaoui;SDU;1;0;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;10986;BL0232;6;425239;10986;;;Hendrik Speecqvest;2;;C;2020-08-04;Andreas Versteeven;MDU;1;6;1;8;N;;BUILDING template;;
+MECHELEN - FH02;402660;BL0232;6;441523;402660;;;Hendrik Speecqvest;4;;;2019-12-17 14:15:33;Yannick_ Lambrechts;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048203;BL0232;6;437288;3048203;;;Hendrik Speecqvest;6;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048206;BL0232;6;437290;3048206;;;Hendrik Speecqvest;8;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048208;BL0232;6;437291;3048208;;;Hendrik Speecqvest;10;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3997280;BL0232;6;441383;3997280;;;Hendrik Speecqvest;12;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756690;BL0232;6;446550;4756690;;;Hendrik Speecqvest;14;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048212;BL0232;6;11439715;3048212;;;Hendrik Speecqvest;18;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048214;BL0232;6;437293;3048214;;;Hendrik Speecqvest;20;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048215;BL0232;6;437294;3048215;;;Hendrik Speecqvest;22;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756699;BL0232;6;446552;4756699;;;Hendrik Speecqvest;24;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4186920;BL0232;6;442373;4186920;;;Hendrik Speecqvest;26;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756701;BL0232;6;446553;4756701;;;Hendrik Speecqvest;28;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048217;BL0232;6;437295;3048217;;;Hendrik Speecqvest;30;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;402661;BL0232;6;441524;402661;;;Hendrik Speecqvest;32;;D;2019-12-17 14:55:21;Andreas Versteeven;MDU;1;1;0;2;Y;;BUILDING template;;
+MECHELEN - FH02;402663;BL0232;6;441525;402663;;;Hendrik Speecqvest;34;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048219;BL0232;6;437296;3048219;;;Hendrik Speecqvest;36;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048221;BL0232;6;437297;3048221;;;Hendrik Speecqvest;38;;XA;2019-03-11 16:35:45;Yannick Lambrechts;MDU;0;10;0;10;Y;;BUILDING template;;Y
+MECHELEN - FH02;3048223;BL0232;6;7092719;3048223;;;Hendrik Speecqvest;42;;A;2019-12-17 22:30:19;Andreas Versteeven;MDU;0;16;1;17;Y;;BUILDING template;;
+MECHELEN - FH02;3048225;BL0232;6;437299;3048225;;;Hendrik Speecqvest;46;;D;2018-09-12;Bernardo Kana da Rosa;MDU;0;3;0;3;Y;;BUILDING template;;
+MECHELEN - FH02;3048226;BL0232;6;437300;3048226;;;Hendrik Speecqvest;48;;D;2020-08-12;Andreas Versteeven;MDU;0;4;0;4;Y;;BUILDING template;;
+MECHELEN - FH02;3048228;BL0232;6;437301;3048228;;;Hendrik Speecqvest;50;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4149031;BL0232;6;441957;4149031;;;Hendrik Speecqvest;52;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048230;BL0232;6;437302;3048230;;;Hendrik Speecqvest;54;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756728;BL0232;6;446554;4756728;11447162;Hendrik Speecqvest 56-58;Hendrik Speecqvest;56;;D;2020-09-01;Andreas Versteeven;MDU;0;2;0;2;Y;Y;BUILDING template;;
+MECHELEN - FH02;3048231;BL0232;6;11440019;3048231;11447162;Hendrik Speecqvest 56-58;Hendrik Speecqvest;58;;D;2020-09-01;Andreas Versteeven;MDU;1;1;0;2;Y;N;BUILDING template;;
+MECHELEN - FH02;1279994;BL0232;6;425367;1279994;;;Hendrik Speecqvest;60;;XA;2020-08-04;Andreas Versteeven;MDU;0;5;1;6;Y;;BUILDING template;;Y
+MECHELEN - FH02;3048233;BL0232;6;21681362;3048233;;Hendrik Speecqvest 62-64;Hendrik Speecqvest;62;;XC;2019-12-17;Yannick_ Lambrechts;MDU;2;0;1;3;Y;;BUILDING template;;Y
+MECHELEN - FH02;NB-28006471513;BL0232;6;NB-28006471513;NB-28006471513;;Hendrik Speecqvest 62-64;Hendrik Speecqvest;64;;XC;;Filip Van Dyck;MDU;0;6;0;6;Y;;BUILDING template;;
+MECHELEN - FH02;3048236;BL0232;6;7092721;3048236;;;Hendrik Speecqvest;68;;D;2018-09-12;Bernardo Kana da Rosa;MDU;0;8;0;8;N;;BUILDING template;;
+MECHELEN - FH02;3048238;BL0232;6;437305;3048238;;;Hendrik Speecqvest;70;;;2018-09-12;Bernardo Kana da Rosa;SDU;1;0;0;1;N;;BUILDING template;;
+MECHELEN - FH02;4203584;BL0232;6;442567;4203584;;;Hendrik Speecqvest;72;;D;2018-09-12;Bernardo Kana da Rosa;MDU;0;2;0;2;N;;BUILDING template;;
+MECHELEN - FH02;3046659;BL0232;6;436591;3046659;;;Raghenoplein;2;;D;2019-03-15 19:22:16;Yannick Lambrechts;MDU;0;4;0;4;N;;BUILDING template;;
+MECHELEN - FH02;3944164;BL0232;6;441174;3944164;;;Raghenoplein;4;;XC;2020-08-06;Andreas Versteeven;MDU;0;6;1;7;N;;BUILDING template;;Y
+MECHELEN - FH02;402676;BL0232;6;441535;402676;;;Stationsstraat;1;;;;Kevin Dekens;SDU;0;1;0;1;N;;BUILDING template;;
+MECHELEN - FH02;402675;BL0232;6;441534;402675;;;Stationsstraat;2;;;;Kevin Dekens;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048993;BL0232;6;437679;3048993;;;Stationsstraat;3;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756681;BL0232;6;446548;4756681;;;Stationsstraat;4;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756684;BL0232;6;446549;4756684;;;Stationsstraat;5;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048994;BL0232;6;437680;3048994;;;Stationsstraat;6;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;402674;BL0232;6;441533;402674;;;Stationsstraat;7;;D;2018-09-05;Hidde Kiekens;MDU;0;3;0;3;Y;;BUILDING template;;
+MECHELEN - FH02;402673;BL0232;6;7092748;402673;;;Stationsstraat;8;;D;2019-03-15 19:27:06;Wim Lambrechts;MDU;1;4;0;5;Y;;BUILDING template;;
+MECHELEN - FH02;402672;BL0232;6;441532;402672;;;Stationsstraat;9;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048997;BL0232;6;437681;3048997;;;Stationsstraat;10;;;2019-03-22 13:00:22;Wim Lambrechts;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3048998;BL0232;6;437682;3048998;;;Stationsstraat;11;;XC;2019-03-12;Andreas Versteeven;MDU;1;2;0;3;N;;BUILDING template;;Y
+MECHELEN - FH02;3049000;BL0232;6;437683;3049000;;;Stationsstraat;12;;D;2018-09-05;Hidde Kiekens;MDU;0;3;0;3;Y;;BUILDING template;;
+MECHELEN - FH02;3049003;BL0232;6;437684;3049003;;;Stationsstraat;13;;D;2019-03-14;Yannick_ Lambrechts;MDU;0;5;0;5;Y;;BUILDING template;;
+MECHELEN - FH02;3049004;BL0232;6;437685;3049004;;;Stationsstraat;14;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;4756662;BL0232;6;446547;4756662;;;Stationsstraat;15;;D;2018-09-17;Hidde Kiekens;MDU;1;0;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;3049005;BL0232;6;437686;3049005;;;Stationsstraat;16;;D;2019-03-14;Wim Lambrechts;MDU;0;4;0;4;Y;;BUILDING template;;
+MECHELEN - FH02;3944203;BL0232;6;441195;3944203;;;Stationsstraat;17;;XC;2020-07-23;Andreas Versteeven;MDU;0;5;0;5;Y;;BUILDING template;;N
+MECHELEN - FH02;3049007;BL0232;6;437687;3049007;;;Stationsstraat;18;;D;2018-09-05;Hidde Kiekens;MDU;1;1;0;2;Y;;BUILDING template;;
+MECHELEN - FH02;3992281;BL0232;6;7092743;3992281;;;Stationsstraat;19;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;N;;BUILDING template;;
+MECHELEN - FH02;3049008;BL0232;6;437688;3049008;;;Stationsstraat;20;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;402671;BL0232;6;441531;402671;;;Stationsstraat;21;;;;Youssef Abdellaoui;SDU;0;1;0;1;Y;;BUILDING template;;
+MECHELEN - FH02;402677;BL0232;6;11439546;402677;;;Stationsstraat;22;;;2018-07-09;Youssef Abdellaoui;SDU;1;0;0;1;Y;;BUILDING template;;

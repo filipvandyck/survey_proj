@@ -87,6 +87,14 @@ def make_sns_report():
     table_report_fts['FTS_TOTAL'] = table_report_fts_needed 
     table_report_fts['FTS_PROCENT'] = table_report_fts['FTS'] / table_report_fts['FTS_TOTAL'] * 100
 
+
+    table_tsa_signed = pd.pivot_table(df_report[df_report['TSA_SIGNED']!=''],values='TSA_SIGNED',index='ZONE_NAME',aggfunc=np.size)
+    table_tsa_rejected = pd.pivot_table(df_report[df_report['VCA_Status']=='NOK'],values='VCA_Status',index='ZONE_NAME',aggfunc=np.size)
+    table_tsa_report = pd.merge(table_tsa_signed, table_tsa_rejected, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_'))
+    table_tsa_report = table_tsa_report.fillna(0)
+    print(table_tsa_report)
+
+
     table_units = pd.pivot_table(df_report,values='UNITS_TOTAL',index='ZONE_NAME',aggfunc=np.sum)
 
     df_pr_quadrants = df_report[df_report['Quadrant']!='']
@@ -97,11 +105,13 @@ def make_sns_report():
     table_report = pd.merge(table_report, table_report_fts, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TOTAL'))
     table_report = pd.merge(table_report, table_quadrants, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_SSV'))
     table_report = pd.merge(table_report, table_sts_done, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_STS'))
+    table_report = pd.merge(table_report, table_tsa_report, how='left', left_on='ZONE_NAME', right_on='ZONE_NAME',suffixes=('', '_TSA'))
 
     table_report['SSV_PROCENT'] = table_report['MDU_SSV'] / table_report['MDU_TOTAL'] * 100
     table_report['STS_PROCENT'] = table_report['Surveyor'] / (table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']) * 100
     table_report['STS_TODO'] = (table_report['MDU_TOTAL'] + table_report['SDU_TOTAL']) - table_report['Surveyor'] 
-    table_report['SSV_TODO'] = table_report['MDU_TOTAL'] - table_report['MDU_SSV'] 
+    table_report['SSV_TODO'] = table_report['MDU_TOTAL'] - table_report['MDU_SSV']
+    table_report['TSA_PROCENT'] = ((table_report['TSA_SIGNED'] + table_report['VCA_Status']) / table_report['FTS_TOTAL']) * 100
 
     #report mdu with missing fis 
     df_fis_missing = df_report[df_report['FIS']!=1]
@@ -117,29 +127,34 @@ def make_sns_report():
     out.info_file("Writing report MDU with missing FIS file", REPORT_FIS_MISSING)
     csv = df_fis_missing.to_csv(REPORT_FIS_MISSING, sep=';')
 
+    #print(table_report.columns)
+    table_report = table_report.rename(columns={"MDU": "FIS_MDU", "SDU": "FIS_SDU", "Surveyor": "STS", "VCA_Status" : "TSA_REJECTED", "FTS" : "FTS_TODO"})
 
-    table_report = table_report.rename(columns={"MDU": "FIS_MDU", "SDU": "FIS_SDU", "Surveyor": "STS"})
-
-    print(table_report)
-
+    #print(table_report)
+    
 
     out.info_file("Writing report file", REPORT)
     
     #table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SDU_SSV','SSV_PROCENT']]
-    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SSV_PROCENT','STS','STS_PROCENT','STS_TODO','SSV_TODO']]
+    table_report = table_report[['FIS_MDU','FIS_SDU','MDU_TOTAL','SDU_TOTAL','BUILDINGS_TOTAL','FIS_PROCENT','UNITS_TOTAL','FTS_TODO','FTS_TOTAL','FTS_PROCENT','MDU_SSV','SSV_PROCENT','STS','STS_PROCENT','STS_TODO','SSV_TODO','TSA_SIGNED','TSA_REJECTED','TSA_PROCENT']]
     table_report = table_report.fillna(0)
     table_report['BUILDINGS_TOTAL'] = table_report['BUILDINGS_TOTAL'].astype(int)
     table_report['MDU_TOTAL'] = table_report['MDU_TOTAL'].astype(int)
     table_report['SDU_TOTAL'] = table_report['SDU_TOTAL'].astype(int)
     table_report['FIS_MDU'] = table_report['FIS_MDU'].astype(int)
     table_report['FIS_SDU'] = table_report['FIS_SDU'].astype(int)
+    table_report['TSA_SIGNED'] = table_report['TSA_SIGNED'].astype(int)
+    table_report['TSA_REJECTED'] = table_report['TSA_REJECTED'].astype(int)
+    
     table_report['FIS_PROCENT'] = table_report['FIS_PROCENT'].round(2)
+
     table_report['FTS_PROCENT'] = table_report['FTS_PROCENT'].round(2)
     table_report['SSV_PROCENT'] = table_report['SSV_PROCENT'].round(2)
     table_report['STS_PROCENT'] = table_report['STS_PROCENT'].round(2)
+    table_report['TSA_PROCENT'] = table_report['TSA_PROCENT'].round(2)
     table_report['UNITS_TOTAL'] = table_report['UNITS_TOTAL'].astype(int)
 
-    table_report['FTS'] = table_report['FTS'].astype(int)
+    table_report['FTS_TODO'] = table_report['FTS_TODO'].astype(int)
     table_report['FTS_TOTAL'] = table_report['FTS_TOTAL'].astype(int)
     table_report['MDU_SSV'] = table_report['MDU_SSV'].astype(int)
     table_report['STS'] = table_report['STS'].astype(int)

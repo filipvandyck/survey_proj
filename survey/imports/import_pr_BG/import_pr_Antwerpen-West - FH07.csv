@@ -1,11 +1,5 @@
-Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Opdrachttemplate
-ANTWERPEN-WEST - FH07;3928777;BL0723;4;691437;3928777;11382571;;Pastoor Visschersplein;1;;;25/05/2020;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;2069202;BL0723;4;689820;2069202;11382565;;Pastoor Visschersplein;5;;;25/05/2020 11:25;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;5414460;BL0723;4;7093561;5414460;11382566;;Pastoor Visschersplein;10;;;25/05/2020 11:35;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;2069201;BL0723;4;11378632;2069201;11382571;;Pastoor Visschersplein;3;;;25/05/2020 10:55;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;2069203;BL0723;4;11378639;2069203;11382565;;Pastoor Visschersplein;6;;;25/05/2020;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;2069204;BL0723;4;11378641;2069204;11382565;;Pastoor Visschersplein;7;;;25/05/2020 11:25;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;2069205;BL0723;4;11378645;2069205;11382566;;Pastoor Visschersplein;9;;;25/05/2020;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;3928778;BL0723;4;11378631;3928778;11382571;;Pastoor Visschersplein;2;;;25/05/2020 10:50;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;4212946;BL0723;4;11378638;4212946;11382571;;Pastoor Visschersplein;4;;;25/05/2020 10:55;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
-ANTWERPEN-WEST - FH07;5487862;BL0723;4;11378643;5487862;11382566;;Pastoor Visschersplein;8;;;25/05/2020 11:40;Peter Van Leeuwen;SDU;0;1;0;1;BUILDING template
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;BG Primair adres;Opdrachttemplate
+ANTWERPEN-WEST - FH07;5576031;BL0704;6;712460;5576031;;Nationalestraat 2-4-6-10;Nationalestraat;2;;A;2019-12-17 17:20:13;Peter Van Leeuwen;MDU;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH07;2024986;BL0704;6;664301;2024986;11382581;Nationalestraat 2-4-6-10;Nationalestraat;4;;A;2019-12-17 17:20:13;Peter Van Leeuwen;MDU;0;28;1;29;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;2025007;BL0704;6;11378768;2025007;;Nationalestraat 2-4-6-10;Nationalestraat;6;;A;2019-12-17 17:20:13;Peter Van Leeuwen;MDU;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH07;182832;BL0704;6;637725;182832;11382581;Nationalestraat 2-4-6-10;Nationalestraat;10;;A;2019-12-17 17:20:13;Peter Van Leeuwen;MDU;0;12;1;13;Y;N;BUILDING template

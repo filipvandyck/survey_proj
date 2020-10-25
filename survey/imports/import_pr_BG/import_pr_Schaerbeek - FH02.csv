@@ -1,0 +1,33 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;BG Primair adres;Opdrachttemplate
+SCHAERBEEK - FH02;948177;BL0001;;;948177;;Brabanconnelaan 100_Leuvensesteenweg 392;Leuvensesteenweg;392;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;1668060;BL0001;;6965834;1668060;;Brabanconnelaan 100_Leuvensesteenweg 392;Brabanconnelaan;100;;;;Maayken Vanfleteren;MDU;1;2;0;3;Y;;BUILDING template
+SCHAERBEEK - FH02;5584941;BL0007;;;5584941;;Charbolaan 24-26-28_ Leon Mahillonstraat 4;Charbolaan;26;;;;Maayken Vanfleteren;MDU;0;36;1;37;Y;;BUILDING template
+SCHAERBEEK - FH02;1668296;BL0007;;;1668296;;Charbolaan 24-26-28_ Leon Mahillonstraat 4;Charbolaan;28;;;;Maayken Vanfleteren;MDU;0;1;0;1;Y;;BUILDING template
+SCHAERBEEK - FH02;837953;BL0007;;6965924;837953;;Charbolaan 24-26-28_ Leon Mahillonstraat 4;Charbolaan;24;;;;Maayken Vanfleteren;MDU;2;30;2;34;Y;;BUILDING template
+SCHAERBEEK - FH02;951053;BL0006;;31152280;951053;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Félix Marchallaan;62;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;4113914;BL0006;;;4113914;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Félix Marchallaan;32;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;951052;BL0006;;;951052;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Félix Marchallaan;38;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;4117433;BL0006;;;4117433;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Félix Marchallaan;50;;;;Maayken Vanfleteren;MDU;0;1;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;951041;BL0006;;;951041;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Léon Mahillonlaan;28;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;951039;BL0006;;1166402;951039;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Radiumstraat;5;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;6524877;BL0006;;;6524877;;Felix Marchalstraat 32-38-50-62_ Leon Mahillonstraat 28_Radiumstraat 5-7;Radiumstraat;7;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;1677505;BL0007;;6965909;1677505;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;G;;;Maayken Vanfleteren;MDU;0;1;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;1677506;BL0007;;6965910;1677506;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;H;;;Maayken Vanfleteren;MDU;0;11;2;13;N;;BUILDING template
+SCHAERBEEK - FH02;1677507;BL0007;;6965911;1677507;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;I;;;Maayken Vanfleteren;MDU;0;1;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;837941;BL0007;;;837941;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;A;;;Maayken Vanfleteren;MDU;0;1;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;3917400;BL0007;;;3917400;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;B;;;Maayken Vanfleteren;MDU;0;10;1;11;N;;BUILDING template
+SCHAERBEEK - FH02;4042409;BL0007;;;4042409;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;C;;;Maayken Vanfleteren;MDU;0;1;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;1677503;BL0007;;;1677503;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;D;;;Maayken Vanfleteren;MDU;0;1;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;1677504;BL0007;;;1677504;;Felix Marchalstraat 3A-3B-3C-3D-3E-3G-3H-3I;Félix Marchallaan;3;E;;;Maayken Vanfleteren;MDU;0;14;1;15;N;;BUILDING template
+SCHAERBEEK - FH02;837942;BL0007;;31152104;837942;;Louis Scutenairestraat 12_Marcel Marienstraat 2-4-6;Marcel Mariënstraat;2;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;NB-1030636903;;;;NB-1030636903;;Louis Scutenairestraat 12_Marcel Marienstraat 2-4-6;Marcel Mariënstraat;6;;;;Maayken Vanfleteren;MDU;0;10;0;10;N;;BUILDING template
+SCHAERBEEK - FH02;5584913;BL0007;;;5584913;;Louis Scutenairestraat 12_Marcel Marienstraat 2-4-6;Marcel Mariënstraat;4;;;;Maayken Vanfleteren;MDU;0;18;1;19;N;;BUILDING template
+SCHAERBEEK - FH02;837938;BL0007;;;837938;;Louis Scutenairestraat 12_Marcel Marienstraat 2-4-6;Louis Scutenairestraat;12;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH02;837940;BL0007;;;837940;;Louis Scutenairestraat 13-14;Louis Scutenairestraat;14;;;;Maayken Vanfleteren;MDU;0;3;0;3;N;;BUILDING template
+SCHAERBEEK - FH02;837939;BL0007;;31152103;837939;;Louis Scutenairestraat 13-14;Louis Scutenairestraat;13;;;;Maayken Vanfleteren;MDU;0;9;1;10;N;;BUILDING template
+SCHAERBEEK - FH02;6524678;BL0008;;;6524678;;Marcel Marienstraat 1-3;Marcel Mariënstraat;3;;;;Hidde Kiekens;MDU;0;9;0;9;Y;;BUILDING template
+SCHAERBEEK - FH02;837946;BL0008;;1164372;837946;;Marcel Marienstraat 1-3;Marcel Mariënstraat;1;;;;Hidde Kiekens;MDU;0;9;0;9;Y;;BUILDING template
+SCHAERBEEK - FH02;1667656;BL0007;;6965828;1667656;;Marcel Marienstraat 18-20-22-24;Marcel Mariënstraat;18;;;;Maayken Vanfleteren;MDU;0;14;1;15;N;;BUILDING template
+SCHAERBEEK - FH02;1667661;BL0007;;6965829;1667661;;Marcel Marienstraat 18-20-22-24;Marcel Mariënstraat;22;;;;Maayken Vanfleteren;MDU;1;28;1;30;N;;BUILDING template
+SCHAERBEEK - FH02;1667659;BL0007;;;1667659;;Marcel Marienstraat 18-20-22-24;Marcel Mariënstraat;20;;;;Maayken Vanfleteren;MDU;0;14;1;15;N;;BUILDING template
+SCHAERBEEK - FH02;4958035;BL0007;;;4958035;;Marcel Marienstraat 18-20-22-24;Marcel Mariënstraat;24;;;;Maayken Vanfleteren;MDU;1;0;0;1;N;;BUILDING template

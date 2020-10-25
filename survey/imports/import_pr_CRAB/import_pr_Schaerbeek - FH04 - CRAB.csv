@@ -1,0 +1,12 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;BG Primair adres;Opdrachttemplate
+SCHAERBEEK - FH04;4964357;BL0005;;33489200;4964357;35572660;François Bossaertsstraat 60-62;François Bossaertsstraat;60;;C;;Hidde Kiekens;MDU;1;4;0;5;N;;BUILDING template
+SCHAERBEEK - FH04;4964358;BL0005;;33489201;4964358;35572660;François Bossaertsstraat 60-62;François Bossaertsstraat;62;;C;;Hidde Kiekens;MDU;1;0;0;1;N;;BUILDING template
+SCHAERBEEK - FH04;947354;BL0018;;31153761;947354;35572665;;Rogierlaan;353;;A;;Hidde Kiekens;MDU;0;7;0;7;Y;;BUILDING template
+SCHAERBEEK - FH04;1671000;BL0016;;31152985;1671000;;;Leuvensesteenweg;341;;A;;Geert Stockman;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH04;947966;BL0019;;31153792;947966;;;Leuvensesteenweg;413;;;;Geert Stockman;MDU;0;12;2;14;N;;BUILDING template
+SCHAERBEEK - FH04;1678640;BL0002;;31153281;1678640;;;Eugène Smitsstraat;10;;;;Maayken Vanfleteren;SDU;0;0;0;0;Y;;BUILDING template
+SCHAERBEEK - FH04;1667927;BL0002;;31152854;1667927;;;Artanstraat;53;;A;;Maayken Vanfleteren;MDU;1;6;0;7;Y;;BUILDING template
+SCHAERBEEK - FH04;4119312;BL0017;;35572585;4119312;;;Jacques Jansenstraat;26;;C;2020-05-11;Maayken Vanfleteren;MDU;0;7;1;8;Y;;BUILDING template
+SCHAERBEEK - FH04;6136992;BL0002;;33489221;6136992;35572663;;Daillylaan;90;A;C;;Maayken Vanfleteren;MDU;0;10;0;10;Y;;BUILDING template
+SCHAERBEEK - FH04;1675547;BL0006;;35572517;1675547;;;Auguste Lambiottestraat;30;;C;2020-05-01;Geert Stockman;MDU;0;6;0;6;N;;BUILDING template
+SCHAERBEEK - FH04;4947480;BL0015;;33489175;4947480;;;Emile Wittmannstraat;40;;C;;Maayken Vanfleteren;MDU;0;5;1;6;Y;;BUILDING template

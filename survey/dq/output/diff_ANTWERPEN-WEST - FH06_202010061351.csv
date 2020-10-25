@@ -1,0 +1,12 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+ANTWERPEN-WEST - FH06;BG Name diff;1297943;BL0614;2.0;13335034;1297943;33634123;;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;Groenplaats;36;;;;;Steve De Weerdt;SDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1297943;BL0614;2.0;13335034;1297943;33634123;;;Groenplaats;36;;;;;Steve De Weerdt;SDU;1;0;0;1;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1297943;BL0614;2.0;13335034;1297943;33634123;;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;Groenplaats;36;;;C;;Steve De Weerdt;SDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;1739128;BL0614;2.0;21105207;1739128;33634123;Beddenstraat 2_Schoenmarkt 21;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;Beddenstraat;2;;C;;;Steve De Weerdt;MDU;50;0;2;52;50;0;2;52;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1921194;BL0616;2.0;645930;1921194;33634121;Groenplaats 9-10;Groenplaats 9-10;Groenplaats;10;;D;;2020-05-11 08:50:06;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1921194;BL0616;2.0;645930;1921194;33634121;Groenplaats 9-10;Groenplaats 9-10;Groenplaats;10;;D;;2020-05-11 08:50:06;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;2051259;BL0614;2.0;13335355;2051259;33634123;Beddenstraat 2_Schoenmarkt 21;Beddenstraat 2_Groenplaats 36_Schoenmarkt 21;Schoenmarkt;21;;C;;;Steve De Weerdt;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60705;BL0613;2.0;714423;60705;;;;Groenkerkhofstraat;1;;D;;2020-05-18 18:00:12;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;60705;BL0613;2.0;714423;60705;;;;Groenkerkhofstraat;1;;D;;2020-05-18 18:00:12;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;9;1;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;9;1;12;Y;Y;BUILDING template

@@ -1,0 +1,56 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+MECHELEN - FH02;Wall Mount diff;3035690;BL0201;5.0;430680;3035690;;;;Guldenstraat;3;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3035693;BL0201;5.0;430682;3035693;;;;Guldenstraat;5;;D;D;2019-03-21 15:02:20;Wim Lambrechts;MDU;1;3;0;4;1;3;0;4;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3035705;BL0201;5.0;430687;3035705;;;;Guldenstraat;13;;;;;Abdelmalek Lamkoref;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3035706;BL0201;5.0;430688;3035706;;;;Guldenstraat;15;;XC;C;2020-07-27;Andreas Versteeven;MDU;1;4;0;5;1;4;0;5;Y;N;BUILDING template
+MECHELEN - FH02;Units su diff;3035719;BL0201;5.0;430696;3035719;;;;Guldenstraat;27;;D;;2019-02-25 14:00:31;Yannick Lambrechts;MDU;1;2;;3;1;2;0;3;N;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3035721;BL0201;5.0;7092703;3035721;;;;Guldenstraat;29;;XC;C;2020-07-31;Andreas Versteeven;MDU;1;4;1;6;1;4;1;6;Y;N;BUILDING template
+MECHELEN - FH02;Units total diff;3047990;BL0218;4.0;437198;3047990;;;;Schuttersvest;41;;XA;;2019-02-28 11:31:02;Yannick_ Lambrechts;MDU;2;9;1;12;1;11;3;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3047990;BL0218;4.0;437198;3047990;;;;Schuttersvest;41;;XA;;2019-02-28 11:31:02;Yannick_ Lambrechts;MDU;2;9;1;12;1;11;3;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3047990;BL0218;4.0;437198;3047990;;;;Schuttersvest;41;;XA;;2019-02-28 11:31:02;Yannick_ Lambrechts;MDU;2;9;1;12;1;11;3;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3047990;BL0218;4.0;437198;3047990;;;;Schuttersvest;41;;XA;;2019-02-28 11:31:02;Yannick_ Lambrechts;MDU;2;9;1;12;1;11;3;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3049007;BL0232;6.0;437687;3049007;;;;Stationsstraat;18;;D;;2018-09-05;Hidde Kiekens;MDU;1;1;0;2;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3049007;BL0232;6.0;437687;3049007;;;;Stationsstraat;18;;D;;2018-09-05;Hidde Kiekens;MDU;1;1;0;2;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3049015;BL0231;6.0;437692;3049015;;;;Stationsstraat;28;;D;;2018-09-05;Hidde Kiekens;MDU;1;1;0;2;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3049015;BL0231;6.0;437692;3049015;;;;Stationsstraat;28;;D;;2018-09-05;Hidde Kiekens;MDU;1;1;0;2;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3049030;BL0230;3.0;437697;3049030;;;;Stationsstraat;38;;D;;2019-03-15 19:41:51;Yannick Lambrechts;MDU;1;3;0;4;3;2;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3049030;BL0230;3.0;437697;3049030;;;;Stationsstraat;38;;D;;2019-03-15 19:41:51;Yannick Lambrechts;MDU;1;3;0;4;3;2;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3049030;BL0230;3.0;437697;3049030;;;;Stationsstraat;38;;D;;2019-03-15 19:41:51;Yannick Lambrechts;MDU;1;3;0;4;3;2;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3053904;BL0201;5.0;440042;3053904;;;;Zoutwerf;2;;;;;Bernardo Kana da Rosa;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3053917;BL0201;5.0;440048;3053917;;;;Zoutwerf;12;;;;;Abdelmalek Lamkoref;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;3053918;BL0201;5.0;440049;3053918;;;;Zoutwerf;13;;D;D;2019-03-21 14:59:55;Andreas Versteeven;MDU;0;2;0;2;0;2;0;2;Y;N;BUILDING template
+MECHELEN - FH02;Units total diff;335249;BL0228;1.0;440761;335249;;;;Leopoldstraat;51;;D;;;Youssef Abdellaoui;MDU;0;1;2;2;0;1;2;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;354044;BL0230;3.0;440799;354044;;;;Koning Albertplein;1;;D;;;Youssef Abdellaoui;MDU;1;0;1;1;1;0;1;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;354049;BL0230;3.0;440803;354049;;;;Stationsstraat;42;;D;;2018-09-06;Hidde Kiekens;MDU;0;3;0;3;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;354049;BL0230;3.0;440803;354049;;;;Stationsstraat;42;;D;;2018-09-06;Hidde Kiekens;MDU;0;3;0;3;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;354325;BL0231;6.0;440822;354325;;;;Stationsstraat;37;;XC;;2020-07-23;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;354325;BL0231;6.0;440822;354325;;;;Stationsstraat;37;;XC;;2020-07-23;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Wall Mount diff;398333;BL0201;5.0;7092742;398333;;;;Korenmarkt;1;;;;;Bernardo Kana da Rosa;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Units lu diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;1;11;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;1;11;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;1;11;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;1;11;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;BG Name diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Buildingtype diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units su diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Wall Mount diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Building Missing in IFH;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units bu diff;4754808;BL0229;3.0;7092754;4754808;11447185;Hendrik Consciencestraat 18-20;;Hendrik Consciencestraat;20;;D;;2019-03-07 18:25:07;Wim Lambrechts;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;4756662;BL0232;6.0;446547;4756662;;;;Stationsstraat;15;;D;;2018-09-17;Hidde Kiekens;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4756662;BL0232;6.0;446547;4756662;;;;Stationsstraat;15;;D;;2018-09-17;Hidde Kiekens;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Wall Mount diff;5717880;BL0201;5.0;11439519;5717880;;;;Guldenstraat;31;;D;D;2019-03-21 14:59:47;Wim Lambrechts;MDU;1;3;1;5;1;3;1;5;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;898145;BL0201;5.0;11439510;898145;;;;Zoutwerf;1;;;;2018-06-25;Bernardo Kana da Rosa;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;MISSING BUILDING FID;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units su diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units bu diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Buildingtype diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;BG Name diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MECHELEN - FH02;Building Missing in IFH;NB-28006471513;BL0232;6.0;;NB-28006471513;;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;XC;;;Filip Van Dyck;MDU;0;6;0;6;;;;;Y;;BUILDING template
+;Building Missing in PR;;;;39341221;3048234;39341538;Hendrik Speecqvest 62-64;;Hendrik Speecqvest;64;;;C;;;;;;;;0;6;0;6;Y;;

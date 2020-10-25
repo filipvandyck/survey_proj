@@ -14,11 +14,13 @@ geckodriver_autoinstaller.install()
 
 OUTPUT_FOLDER      = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/'
 OUTPUT_BACK_FOLDER = os.path.dirname(os.path.realpath(__file__)) + '/selenium/download/backup/'
+GECKODRIVER_FOLDER = os.path.dirname(os.path.realpath(__file__)) + '/selenium/geckodriver/geckodriver.exe'
 
+OUTPUT_FOLDER2      = os.path.dirname(os.path.realpath(__file__)) + '\\selenium\\download\\'
 
+# PREFERENCE DRIVER FOR WINDOWS :: THIS SETS A MANUAL GECKODRIVER IN THE SELENIUM FOLDER
 
-
-def get_export_pr():
+def get_export_pr(HEADLESS=True,PREFERENCE_DRIVER = False):
 
     files = glob.glob(OUTPUT_FOLDER + "*.csv")
 
@@ -29,9 +31,11 @@ def get_export_pr():
 
     # webdriver firefox options
     options = FirefoxOptions()
-    options.add_argument("--headless")
-    options.binary = "/usr/bin/firefox-esr"
-    
+
+    if HEADLESS == True:
+        options.add_argument("--headless")
+        options.binary = "/usr/bin/firefox-esr"
+
     caps = DesiredCapabilities.FIREFOX.copy()
     caps['marionette'] = True
 
@@ -42,7 +46,7 @@ def get_export_pr():
     fp = webdriver.FirefoxProfile()
     fp.set_preference('browser.download.folderList', 2)
     fp.set_preference('browser.download.manager.showWhenStarting', False)
-    fp.set_preference('browser.download.dir', OUTPUT_FOLDER)
+    fp.set_preference('browser.download.dir', OUTPUT_FOLDER2)
     fp.set_preference('browser.helperApps.neverAsk.saveToDisk', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document, text/plain, application/pdf, application/vnd.ms-excel, text/csv, text/comma-separated-values, application/octet-stream, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
      #----
     print("starting webdriver")
@@ -50,10 +54,13 @@ def get_export_pr():
     USERNAME = "filip.vandyck@fifthnet.eu"
     PASSWORD = "Telenet1"
 
-    driver = webdriver.Firefox(options=options,capabilities=caps, firefox_profile=fp)
     #driver = webdriver.Firefox(options=options,firefox_profile=fp)
-    #driver = webdriver.Firefox(options=options,executable_path='/home/filip/Tools/survey_proj/survey/selenium/geckodriver')
 
+    if PREFERENCE_DRIVER == True:
+        driver = webdriver.Firefox(options=options,executable_path=GECKODRIVER_FOLDER,capabilities=caps, firefox_profile=fp)
+    else:
+        driver = webdriver.Firefox(options=options,capabilities=caps, firefox_profile=fp)
+        
     print("loading opdrachten - get export")
     driver.get("https://"+USERNAME+":"+PASSWORD + "@fifthnet.connectsoftware.nl/tfc/views/opdrachten/opdrachten.php?profielid=791&dhxr1595860703450=1")
 
@@ -78,7 +85,11 @@ def get_export_pr():
         return 0        
 
     driver.quit()
-#f = get_export_pr()
-#print("export written: " + f)
+
+#f = get_export_pr(HEADLESS = False, PREFERENCE_DRIVER = True)
+#if f != 0:
+#    print("export written: " + f)
+#else :
+#    print("error export")
 
 

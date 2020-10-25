@@ -1,0 +1,54 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+KNOKKE - FH01 - Back;Quadrant diff;1358379;BL0107;;8502664;1358379;;;;Smedenstraat;10;;;D;;;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;1358379;BL0107;;8502664;1358379;;;;Smedenstraat;10;;;;;;MDU;0;2;0;2;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763917;BL0104;;8503459;2763917;;;;Nati?nlaan;19;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2763917;BL0104;;8503459;2763917;;;;Nati?nlaan;19;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763919;BL0104;;8503461;2763919;;;;Nati?nlaan;21;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2763919;BL0104;;8503461;2763919;;;;Nati?nlaan;21;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763920;BL0104;;8503462;2763920;;;;Nati?nlaan;23;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2763920;BL0104;;8503462;2763920;;;;Nati?nlaan;23;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763922;BL0104;;8503463;2763922;;;;Nati?nlaan;25;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2763922;BL0104;;8503463;2763922;;;;Nati?nlaan;25;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763923;BL0104;;8503464;2763923;;;;Nati?nlaan;27;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2763923;BL0104;;8503464;2763923;;;;Nati?nlaan;27;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Units lu diff;2763941;BL0104;;8503472;2763941;;;;Nati?nlaan;47;;;;;;MDU;1;2;0;3;1;0;0;1;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Buildingtype diff;2763941;BL0104;;8503472;2763941;;;;Nati?nlaan;47;;;;;;MDU;1;2;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Units total diff;2763941;BL0104;;8503472;2763941;;;;Nati?nlaan;47;;;;;;MDU;1;2;0;3;1;0;0;1;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763941;BL0104;;8503472;2763941;;;;Nati?nlaan;47;;;;;;MDU;1;2;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2763949;BL0101;;8503477;2763949;;;;Nati?nlaan;59;;;D;;;MDU;1;2;0;3;1;2;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2763949;BL0101;;8503477;2763949;;;;Nati?nlaan;59;;;;;;MDU;1;2;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2764346;BL0101;;8503484;2764346;;;;Nieuwstraat;5;;;;;;MDU;1;2;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2764346;BL0101;;8503484;2764346;;;;Nieuwstraat;5;;;D;;;MDU;1;2;0;3;1;2;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Units lu diff;2764348;BL0104;;8503485;2764348;;;;Nieuwstraat;6;;;;;;MDU;0;6;0;6;0;5;0;5;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Units total diff;2764348;BL0104;;8503485;2764348;;;;Nieuwstraat;6;;;;;;MDU;0;6;0;6;0;5;0;5;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2764348;BL0104;;8503485;2764348;;;;Nieuwstraat;6;;;D;;;MDU;0;6;0;6;0;5;0;5;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2764348;BL0104;;8503485;2764348;;;;Nieuwstraat;6;;;;;;MDU;0;6;0;6;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Units su diff;2766229;BL0106;;8503633;2766229;;;;Smedenstraat;7;;;;;;MDU;1;4;0;5;1;3;1;5;Y;N;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;2766229;BL0106;;8503633;2766229;;;;Smedenstraat;7;;;C;;;MDU;1;4;0;5;1;3;1;5;Y;N;BUILDING template
+KNOKKE - FH01 - Back;Units lu diff;2766229;BL0106;;8503633;2766229;;;;Smedenstraat;7;;;;;;MDU;1;4;0;5;1;3;1;5;Y;N;BUILDING template
+KNOKKE - FH01 - Back;Wall Mount diff;2766229;BL0106;;8503633;2766229;;;;Smedenstraat;7;;;C;;;MDU;1;4;0;5;1;3;1;5;Y;N;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;2766229;BL0106;;8503633;2766229;;;;Smedenstraat;7;;;;;;MDU;1;4;0;5;;;;;Y;;BUILDING template
+KNOKKE - FH01;BG Name diff;320677;BL0124;3;8502393;320677;26077620;Nestor de TiŠrestraat 4-6;Nestor de Tièrestraat 4-6;Nestor de Tierestraat;6;;C;;2019-09-06;Geert Stockman;MDU;0;7;1;8;0;7;1;8;N;N;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;333504;BL0104;;8504332;333504;;;;Nati?nlaan;17;;;;;;MDU;0;2;0;2;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;333504;BL0104;;8504332;333504;;;;Nati?nlaan;17;;;D;;;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;5579521;BL0102;;8504721;5579521;;;;Nyckeesstraat;4;;;D;;;MDU;0;5;0;5;0;4;0;4;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Units lu diff;5579521;BL0102;;8504721;5579521;;;;Nyckeesstraat;4;;;;;;MDU;0;5;0;5;0;4;0;4;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;5579521;BL0102;;8504721;5579521;;;;Nyckeesstraat;4;;;;;;MDU;0;5;0;5;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Units total diff;5579521;BL0102;;8504721;5579521;;;;Nyckeesstraat;4;;;;;;MDU;0;5;0;5;0;4;0;4;Y;Y;BUILDING template
+KNOKKE - FH01;BG Name diff;6326539;BL0124;3;13436982;6326539;20800930;Nieuwstraat 12_Nati‰nlaan 53;Nieuwstraat 12_Natiënlaan 53;Nieuwstraat;12;;B;;2019-12-02;olivier collignon;MDU;0;6;2;8;0;6;2;8;N;N;BUILDING template
+KNOKKE - FH01;BG Name diff;6378694;BL0124;3;13436947;6378694;26077620;Nestor de TiŠrestraat 4-6;Nestor de Tièrestraat 4-6;Nestor de Tierestraat;4;;C;;2019-09-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+KNOKKE - FH01;BG Name diff;84475;BL0124;3;8504733;84475;20800930;Nieuwstraat 12_Nati‰nlaan 53;Nieuwstraat 12_Natiënlaan 53;Natienlaan;53;;B;;2019-12-02;olivier collignon;MDU;3;3;2;8;3;3;2;8;N;N;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;84487;BL0104;;8504739;84487;;;;Nati?nlaan;31;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;84487;BL0104;;8504739;84487;;;;Nati?nlaan;31;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;84740;BL0101;;8504759;84740;;;;Nieuwstraat;13;;;D;;;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;84740;BL0101;;8504759;84740;;;;Nieuwstraat;13;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;84742;BL0104;;8504761;84742;;;;Nieuwstraat;4;;;D;;;MDU;0;3;3;6;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Units su diff;84742;BL0104;;8504761;84742;;;;Nieuwstraat;4;;;;;;MDU;0;3;3;6;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;84742;BL0104;;8504761;84742;;;;Nieuwstraat;4;;;;;;MDU;0;3;3;6;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Units total diff;84742;BL0104;;8504761;84742;;;;Nieuwstraat;4;;;;;;MDU;0;3;3;6;0;3;0;3;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;84743;BL0101;;8504762;84743;;;;Nieuwstraat;3;;;D;;;MDU;0;3;0;3;0;2;0;2;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;84743;BL0101;;8504762;84743;;;;Nieuwstraat;3;;;;;;MDU;0;3;0;3;;;;;Y;;BUILDING template
+KNOKKE - FH01 - Back;Units total diff;84743;BL0101;;8504762;84743;;;;Nieuwstraat;3;;;;;;MDU;0;3;0;3;0;2;0;2;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Units lu diff;84743;BL0101;;8504762;84743;;;;Nieuwstraat;3;;;;;;MDU;0;3;0;3;0;2;0;2;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;Quadrant diff;84744;BL0104;;8504763;84744;;;;Nieuwstraat;2;;;D;;;MDU;0;6;0;6;0;6;0;6;Y;Y;BUILDING template
+KNOKKE - FH01 - Back;MISSING CLUSTER;84744;BL0104;;8504763;84744;;;;Nieuwstraat;2;;;;;;MDU;0;6;0;6;;;;;Y;;BUILDING template

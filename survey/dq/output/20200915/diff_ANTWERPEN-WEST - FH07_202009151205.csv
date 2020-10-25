@@ -1,0 +1,42 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+ANTWERPEN-WEST - FH07;Wall Mount diff;111553;BL0722;2.0;7093498;111553;;;;Willem Lepelstraat;2;;D;D;2020-05-28;Peter Van Leeuwen;MDU;0;4;0;4;0;4;0;4;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;1735130;BL0723;4.0;7093502;1735130;;;;Sint-Andriesstraat;3;A;;;;Emilie Vanfleteren;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;1736868;BL0723;4.0;624159;1736868;;;;Augustijnenstraat;2;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;1736870;BL0723;4.0;624161;1736870;;;;Augustijnenstraat;4;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;1737843;BL0722;2.0;11378576;1737843;;;;Kloosterstraat;161;;D;D;2019-12-23 11:45:24;Peter Cremers;MDU;1;2;0;3;1;2;0;3;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Quadrant diff;2025007;BL0704;6.0;11378768;2025007;;Nationalestraat 2-4-6-10;Nationalestraat 2-4-6-10;Nationalestraat;6;;A;;2019-12-17 17:20:13;Peter Van Leeuwen;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047296;BL0723;4.0;671182;2047296;;;;Lange Riddersstraat;3;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047298;BL0723;4.0;671184;2047298;;;;Lange Riddersstraat;7;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047299;BL0711;4.0;20912142;2047299;;;;Lange Riddersstraat;8;;;;;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047300;BL0723;4.0;11377546;2047300;;;;Lange Riddersstraat;9;;;;;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047301;BL0711;4.0;671185;2047301;;;;Lange Riddersstraat;10;;;;2019-10-17 09:50:31;Dave Ruelens;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047302;BL0723;4.0;11377548;2047302;;;;Lange Riddersstraat;11;;;;2020-05-24 13:00:05;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047304;BL0723;4.0;11377547;2047304;11382551;;;Lange Riddersstraat;17;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047306;BL0723;4.0;671188;2047306;;;;Lange Riddersstraat;21;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2047326;BL0715;4.0;671205;2047326;;;;Lange Riddersstraat;69;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2061609;BL0725;1.0;8423663;2061609;;;;Volkstraat;38;;XA;A;2019-12-09 12:10:18;Geert Stockman;MDU;1;5;0;6;1;5;0;6;Y;N;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2069201;BL0723;4.0;11378632;2069201;11382571;;;Pastoor Visschersplein;3;;;;2020-05-25 10:55:06;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2069202;BL0723;4.0;689820;2069202;11382565;;;Pastoor Visschersplein;5;;;;2020-05-25 11:25:16;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2069203;BL0723;4.0;11378639;2069203;11382565;;;Pastoor Visschersplein;6;;;;2020-05-25;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2069204;BL0723;4.0;11378641;2069204;11382565;;;Pastoor Visschersplein;7;;;;2020-05-25 11:25:45;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;2069205;BL0723;4.0;11378645;2069205;11382566;;;Pastoor Visschersplein;9;;;;2020-05-25;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;3928248;BL0715;4.0;691186;3928248;;;;Lange Riddersstraat;65;;D;D;2019-09-13 12:05:20;Peter Van Leeuwen;MDU;0;3;0;3;0;3;0;3;Y;N;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;3928777;BL0723;4.0;691437;3928777;11382571;;;Pastoor Visschersplein;1;;;;2020-05-25;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;3928778;BL0723;4.0;11378631;3928778;11382571;;;Pastoor Visschersplein;2;;;;2020-05-25 10:50:07;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;4059803;BL0723;4.0;7093541;4059803;11382551;;;Lange Riddersstraat;13;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;4193803;BL0723;4.0;7093543;4193803;;;;Sint-Andriesstraat;3;;;;;Emilie Vanfleteren;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;4212946;BL0723;4.0;11378638;4212946;11382571;;;Pastoor Visschersplein;4;;;;2020-05-25 10:55:21;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;44177;BL0711;4.0;11508590;44177;;;;Kloosterstraat;19;;D;D;2019-10-04 10:20:15;Dave Ruelens;MDU;1;3;1;5;1;3;1;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;4505189;BL0711;4.0;706095;4505189;;;;Lange Riddersstraat;6;;D;D;2019-10-14 14:25:14;Dave Ruelens;MDU;0;3;0;3;0;3;0;3;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;48923;BL0723;4.0;710484;48923;;;;Sint-Andriesstraat;1;;;;;Emilie Vanfleteren;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;5394004;BL0723;4.0;7093560;5394004;11382551;;;Lange Riddersstraat;15;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;5414458;BL0723;4.0;711380;5414458;;;;Lange Riddersstraat;5;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;5414460;BL0723;4.0;7093561;5414460;11382566;;;Pastoor Visschersplein;10;;;;2020-05-25 11:35:31;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;5429490;BL0723;4.0;7093562;5429490;;;;Lange Riddersstraat;19;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;5487862;BL0723;4.0;11378643;5487862;11382566;;;Pastoor Visschersplein;8;;;;2020-05-25 11:40:40;Peter Van Leeuwen;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Quadrant diff;5576031;BL0704;6.0;712460;5576031;;Nationalestraat 2-4-6-10;Nationalestraat 2-4-6-10;Nationalestraat;2;;A;;2019-12-17 17:20:13;Peter Van Leeuwen;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;718814;BL0723;4.0;720555;718814;;;;Lange Riddersstraat;1;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;718875;BL0723;4.0;11378647;718875;;;;Waaistraat;2;;;;;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;718917;BL0711;4.0;720563;718917;;;;Lange Riddersstraat;2;;;;2019-10-17 09:50:29;Dave Ruelens;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;972775;BL0719;3.0;11508597;972775;33601529;Kloosterstraat 139-141;Kloosterstraat 139-141;Kloosterstraat;139;;C;C;2019-10-29 09:10:18;Peter Cremers;MDU;0;16;2;18;0;16;2;18;N;Y;BUILDING template
+ANTWERPEN-WEST - FH07;Wall Mount diff;973306;BL0722;2.0;726097;973306;;;;Kloosterstraat;159;;;;;Nicholas De Mol;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template

@@ -1,0 +1,6 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;BG Primair adres;Opdrachttemplate
+HASSELT - FH01;2415012;BL0101;3;384102;2415012;7072276;Fonteinstraat 2-4-6;Fonteinstraat;2;;D;2020-06-16;Jo De Clippel;MDU;1;0;0;1;N;;BUILDING template
+HASSELT - FH01;2415014;BL0101;3;37221228;2415014;;Fonteinstraat 2-4-6;Fonteinstraat;4;;D;2020-07-02 10:00:13;Jo De Clippel;MDU;0;1;0;1;N;;BUILDING template
+HASSELT - FH01;3937311;BL0101;3;37221229;3937311;;Fonteinstraat 2-4-6;Fonteinstraat;6;;D;;;MDU;0;1;0;1;N;;BUILDING template
+HASSELT - FH01;707207;BL0102;3;5158089;707207;;;Boomkensstraat;117;;D;2019-05-09;Dieu Jocelin;MDU;1;1;0;2;Y;;BUILDING template
+HASSELT - FH01;653662;BL0114;2;399968;653662;;;de Schiervellaan;7;;;2018-10-03;Geert Stockman;SDU;1;0;0;1;N;;BUILDING template

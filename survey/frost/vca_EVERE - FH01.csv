@@ -1,11 +1,11 @@
 Lamkey;Straat;Huisnummer;Huisnummer_Toevoeging;Quadrant;Quadrant_PR;BG_Name;VCA_Status;VCA
 1120023;Avenue du CimetiÃ¨re de Bruxelles - Kerkhof van Brussellaan;135;;;;;;PENDING
-1620909;ChaussÃ©e de Louvain - Leuvensesteenweg;927;;D - Facade Box;D;;;PENDING
 1624256;Avenue du V-Day - V-Daylaan;12;;D - Facade Box;D;;;NOK
-1624258;Avenue du V-Day - V-Daylaan;14;;D - Facade Box;D;;;OK
 1624263;Avenue du V-Day - V-Daylaan;20;;D - Facade Box;D;V-Daylaan 20-20A;;NOK
+1624264;Avenue du V-Day - V-Daylaan;20;A;D - Facade Box;D;V-Daylaan 20-20A;;PENDING
+1624307;Rue Pierre Dupont - Pieter Dupontstraat;184;;D - Facade Box;D;;;PENDING
+1624308;Rue Pierre Dupont - Pieter Dupontstraat;186;;D - Facade Box;D;;;PENDING
 3916107;ChaussÃ©e de Louvain - Leuvensesteenweg;925;;D - Facade Box;D;;;OK
-725253;Avenue Franz Guillaume - Franz Guillaumelaan;56;;D - Facade Box;D;;;PENDING
 726101;Avenue LÃ©on Grosjean - LÃ©on Grosjeanlaan;45;;D - Facade Box;D;;;PENDING
 726860;Optimismelaan - Avenue de l'Optimisme;23;;D - Facade Box;D;;;PENDING
 726863;Optimismelaan - Avenue de l'Optimisme;21;;;;;;PENDING

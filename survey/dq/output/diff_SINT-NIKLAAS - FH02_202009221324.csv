@@ -1,0 +1,21 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+SINT-NIKLAAS - FH02;Quadrant diff;3504998;BL0216;3.0;11486448;3504998;;;;Moerlandstraat;3;A;F;C;2020-02-19 10:15:21;Marouane Zoubir;MDU;0;3;2;5;0;3;2;5;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units su diff;3508919;BL0216;3.0;801762;3508919;;;;August Nobelsstraat;4;;D;;2020-09-10;Geert Stockman;MDU;0;7;0;7;0;8;1;9;Y;Y;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;3508919;BL0216;3.0;801762;3508919;;;;August Nobelsstraat;4;;D;;2020-09-10;Geert Stockman;MDU;0;7;0;7;0;8;1;9;Y;Y;BUILDING template
+SINT-NIKLAAS - FH02;Units lu diff;3508919;BL0216;3.0;801762;3508919;;;;August Nobelsstraat;4;;D;;2020-09-10;Geert Stockman;MDU;0;7;0;7;0;8;1;9;Y;Y;BUILDING template
+SINT-NIKLAAS - FH02;Quadrant diff;3510039;BL0216;3.0;801996;3510039;;;;Parklaan;61;;F;C;2020-06-30 17:30:10;Maayken Vanfleteren;MDU;1;3;2;6;1;3;2;6;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units bu diff;5705661;BL0218;3.0;7092942;5705661;;;;Azalealaan;6;;XC;;2020-09-10;Geert Stockman;MDU;1;60;2;63;0;60;2;62;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;5705661;BL0218;3.0;7092942;5705661;;;;Azalealaan;6;;XC;;2020-09-10;Geert Stockman;MDU;1;60;2;63;0;60;2;62;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;75758;BL0218;3.0;11486367;75758;;;;Hospitaalstraat;12;;;;2020-08-27 12:40:12;Geert Stockman;SDU;1;0;0;1;2;0;2;4;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units bu diff;75758;BL0218;3.0;11486367;75758;;;;Hospitaalstraat;12;;;;2020-08-27 12:40:12;Geert Stockman;SDU;1;0;0;1;2;0;2;4;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units su diff;75758;BL0218;3.0;11486367;75758;;;;Hospitaalstraat;12;;;;2020-08-27 12:40:12;Geert Stockman;SDU;1;0;0;1;2;0;2;4;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Quadrant diff;75758;BL0218;3.0;11486367;75758;;;;Hospitaalstraat;12;;;C;2020-08-27 12:40:12;Geert Stockman;SDU;1;0;0;1;2;0;2;4;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Buildingtype diff;75758;BL0218;3.0;11486367;75758;;;;Hospitaalstraat;12;;;;2020-08-27 12:40:12;Geert Stockman;SDU;1;0;0;1;;;;;N;;BUILDING template
+SINT-NIKLAAS - FH02;Units su diff;96642;BL0216;3.0;817425;96642;;;;Parklaan;45;;D;;2020-09-16;Geert Stockman;MDU;0;8;0;8;0;8;1;9;Y;Y;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;96642;BL0216;3.0;817425;96642;;;;Parklaan;45;;D;;2020-09-16;Geert Stockman;MDU;0;8;0;8;0;8;1;9;Y;Y;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;96643;BL0216;3.0;817426;96643;;;;Parklaan;67;;D;;2020-09-16;Geert Stockman;MDU;1;3;1;5;1;3;0;4;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units su diff;96643;BL0216;3.0;817426;96643;;;;Parklaan;67;;D;;2020-09-16;Geert Stockman;MDU;1;3;1;5;1;3;0;4;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;96644;BL0216;3.0;817427;96644;;;;Parklaan;69;;XC;;2020-09-03;Geert Stockman;MDU;2;12;1;15;2;11;1;14;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units lu diff;96644;BL0216;3.0;817427;96644;;;;Parklaan;69;;XC;;2020-09-03;Geert Stockman;MDU;2;12;1;15;2;11;1;14;N;N;BUILDING template
+SINT-NIKLAAS - FH02;Units bu diff;96648;BL0216;3.0;817431;96648;;;;August Nobelsstraat;2;;D;;2020-09-16;Geert Stockman;MDU;1;7;0;8;0;7;0;7;Y;Y;BUILDING template
+SINT-NIKLAAS - FH02;Units total diff;96648;BL0216;3.0;817431;96648;;;;August Nobelsstraat;2;;D;;2020-09-16;Geert Stockman;MDU;1;7;0;8;0;7;0;7;Y;Y;BUILDING template

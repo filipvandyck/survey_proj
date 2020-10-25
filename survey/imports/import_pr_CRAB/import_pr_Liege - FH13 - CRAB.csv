@@ -1,0 +1,442 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos;Distribution
+LIÈGE - FH13;5351549;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Rue des Chrysanthèmes;27;;;237407,225;147999,523;Underground
+LIÈGE - FH13;667259;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;1;;;237239,294;148032,108;Underground
+LIÈGE - FH13;3132050;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Cornillon;88;;;236844,078;148225,277;Underground
+LIÈGE - FH13;5355301;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue des Eglantines;1;A;;237249,291;148034,911;Underground
+LIÈGE - FH13;3101520;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Bastion;15;;;237037,897;147980,289;Underground
+LIÈGE - FH13;5191882;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Cornillon;90;;;236848,751;148226,478;Underground
+LIÈGE - FH13;5191889;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Cornillon;92;;;236855,709;148227,578;Underground
+LIÈGE - FH13;3139579;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;3;;;237234,401;148020,111;Underground
+LIÈGE - FH13;3139580;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;4;;;237227,952;148058,611;Underground
+LIÈGE - FH13;667453;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Rue Joseph Dejardin;7;;;236851,045;148012,365;Underground
+LIÈGE - FH13;3139581;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;5;;;237229,2;148018,744;Underground
+LIÈGE - FH13;5199013;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;6;;;237219,207;148055,635;Underground
+LIÈGE - FH13;3139582;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;7;;;237224,03;148018,654;Underground
+LIÈGE - FH13;3128947;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Winston-Churchill;99;;;237017,798;148402,7;Underground
+LIÈGE - FH13;3139583;2;0;0;2;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;8;;;237213,39;148056,362;Underground
+LIÈGE - FH13;3139584;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;9;;;237218,558;148016,006;Underground
+LIÈGE - FH13;11306;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;12;;;236859,331;148054,284;Underground
+LIÈGE - FH13;1286442;6;0;0;6;MDU;;N;IRREG;4;6;;;Y;_;BUILDING template;Avenue Joseph-Merlot;196;;;237386,451;147926,468;Underground
+LIÈGE - FH13;3139585;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;10;;;237208,473;148052,76;Underground
+LIÈGE - FH13;3139586;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;11;;;237213,666;148014,049;Underground
+LIÈGE - FH13;3137079;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;14;;;236854,048;148049,808;Underground
+LIÈGE - FH13;3139587;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;12;;;237203,362;148051,88;Underground
+LIÈGE - FH13;3139588;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;13;;;237207,995;148006,267;Underground
+LIÈGE - FH13;3139589;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;14;;;237197,291;148051,53;Underground
+LIÈGE - FH13;3137084;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;18;;;236845,966;148041,199;Underground
+LIÈGE - FH13;5199023;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;15;;;237202,826;148011,773;Underground
+LIÈGE - FH13;3139590;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;16;;;237188,54;148056,434;Underground
+LIÈGE - FH13;667451;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Joseph Dejardin;23;;;236798,659;147960,945;Underground
+LIÈGE - FH13;1505628;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;17;;;237198,016;148008,954;Underground
+LIÈGE - FH13;670798;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Rue Saumery;9;;;236496,841;147768,732;Underground
+LIÈGE - FH13;3139591;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;18;;;237183,063;148055,999;Underground
+LIÈGE - FH13;3139592;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;19;;;237192,74;148008,911;Underground
+LIÈGE - FH13;3139593;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;20;;;237177,453;148056,494;Underground
+LIÈGE - FH13;3137094;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;28;;;236814,301;148005,078;Underground
+LIÈGE - FH13;3139594;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;21;;;237188,114;148006,949;Underground
+LIÈGE - FH13;3090162;6;0;0;6;MDU;;N;IRREG;5;12;;;Y;_;BUILDING template;Rue d'Amercoeur;17;;;236299,164;148156,078;Underground
+LIÈGE - FH13;4070283;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;22;;;237172,335;148044,271;Underground
+LIÈGE - FH13;3137096;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;30;;;236808,211;148000,286;Underground
+LIÈGE - FH13;3090178;0;2;0;2;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Rue d'Amercoeur;19;;;236307,056;148153,524;Underground
+LIÈGE - FH13;3139595;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;23;;;237182,674;148007,281;Underground
+LIÈGE - FH13;3139596;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;24;;;237166,995;148041,469;Underground
+LIÈGE - FH13;3137099;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;32;;;236802,883;147994,504;Underground
+LIÈGE - FH13;3139597;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;25;;;237178,037;148004,444;Underground
+LIÈGE - FH13;3139598;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;26;;;237161,51;148042,446;Underground
+LIÈGE - FH13;667431;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Joseph Dejardin;35;;;236775,312;147932,744;Underground
+LIÈGE - FH13;3139599;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;27;;;237173,304;148002,381;Underground
+LIÈGE - FH13;3139600;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;28;;;237157,057;148039,157;Underground
+LIÈGE - FH13;3139601;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;29;;;237168,167;148001,802;Underground
+LIÈGE - FH13;3139602;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;30;;;237152,233;148037,81;Underground
+LIÈGE - FH13;3139603;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;31;;;237162,454;148001,791;Underground
+LIÈGE - FH13;3090375;8;0;0;8;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Rue d'Amercoeur;79;;;236440,235;147961,502;Underground
+LIÈGE - FH13;3139604;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;32;;;237146,522;148037,782;Underground
+LIÈGE - FH13;3139605;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;33;;;237157,912;147999,179;Underground
+LIÈGE - FH13;667260;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;34;;;237142,222;148026,47;Underground
+LIÈGE - FH13;3139606;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;35;;;237147,123;148007,916;Underground
+LIÈGE - FH13;667430;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;53;;;236838,844;147851,774;Underground
+LIÈGE - FH13;662990;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de la Boulangerie;10;;;237091,599;148476,761;Underground
+LIÈGE - FH13;3139607;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Rue des Eglantines;35;B;;237139,489;148004,472;Underground
+LIÈGE - FH13;6711649;0;1;0;1;SDU;;N;IRREG;2;6;;;;_;BUILDING template;Avenue Brigade-Piron;1;A;;;;Underground
+LIÈGE - FH13;670795;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue de la Charité;6;;;236571,26;147727,328;Underground
+LIÈGE - FH13;667429;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Joseph Dejardin;57;;;236867,602;147822,237;Underground
+LIÈGE - FH13;3126557;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue de la Charité;8;;;236576,015;147726,309;Underground
+LIÈGE - FH13;3139608;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;37;;;237133,077;148002,463;Underground
+LIÈGE - FH13;3126560;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue de la Charité;10;;;236581,324;147726,784;Underground
+LIÈGE - FH13;670796;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue de la Charité;14;;;236592,203;147723,915;Underground
+LIÈGE - FH13;11304;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;39;;;237127,223;147999,818;Underground
+LIÈGE - FH13;3101925;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Bastion;61;;;237124,013;147882,367;Underground
+LIÈGE - FH13;3101934;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue du Bastion;63;;;237127,578;147877,487;Underground
+LIÈGE - FH13;663108;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Plateau du Bouhay;2;;;237540,997;148621,308;Underground
+LIÈGE - FH13;664346;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue du Bastion;65;;;237131,238;147871,424;Underground
+LIÈGE - FH13;3118591;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;4;;;237544,168;148616,938;Underground
+LIÈGE - FH13;3118601;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;6;;;237544,33;148611,197;Underground
+LIÈGE - FH13;663005;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Thier du Bouhay;2;;;236866,658;148220,129;Underground
+LIÈGE - FH13;4181012;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;8;;;237547,45;148606,658;Underground
+LIÈGE - FH13;667274;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;56;;;237103,652;148042,435;Underground
+LIÈGE - FH13;3124110;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;24;;;236825,158;148092,133;Underground
+LIÈGE - FH13;667275;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Eglantines;58;;;237112,406;148017,731;Underground
+LIÈGE - FH13;3124111;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;25;;;236821,641;148090,039;Underground
+LIÈGE - FH13;4214224;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;10;;;237549,171;148601,793;Underground
+LIÈGE - FH13;664322;1;0;0;1;SDU;;N;IRREG;4;5;;;Y;_;BUILDING template;Rue des Fauvettes;1;;;236975,527;148129,38;Underground
+LIÈGE - FH13;1327292;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;26;;;236819,777;148086,003;Underground
+LIÈGE - FH13;667464;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;28;;;236809,725;148081,804;Underground
+LIÈGE - FH13;3118614;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;12;;;237549,835;148596,462;Underground
+LIÈGE - FH13;667428;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Rue Joseph Dejardin;77;;;236909,196;147777,78;Underground
+LIÈGE - FH13;3118621;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;14;;;237554,235;148592,645;Underground
+LIÈGE - FH13;664326;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue de Robermont;126;;;237017,596;148217,917;Underground
+LIÈGE - FH13;3118627;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;16;;;237555,935;148587,964;Underground
+LIÈGE - FH13;3140378;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue des Fauvettes;10;;;236943,527;148130,456;Underground
+LIÈGE - FH13;667432;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Joseph Dejardin;90;;;236854,525;147804,955;Underground
+LIÈGE - FH13;3118636;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;18;;;237554,588;148582,35;Underground
+LIÈGE - FH13;667442;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Elise Grandprez;2;;;236817,27;147953,758;Underground
+LIÈGE - FH13;3137164;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Joseph Dejardin;94;;;236861,452;147792,248;Underground
+LIÈGE - FH13;3118646;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;20;;;237559,577;148578,375;Underground
+LIÈGE - FH13;667439;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Elise Grandprez;3;;;236834,283;147974,74;Underground
+LIÈGE - FH13;3143338;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Elise Grandprez;4;;;236820,968;147947,642;Underground
+LIÈGE - FH13;3118656;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;22;;;237561,292;148573,735;Underground
+LIÈGE - FH13;3143339;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Elise Grandprez;8;;;236838,025;147928,342;Underground
+LIÈGE - FH13;3143340;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Elise Grandprez;10;;;236843,72;147919,842;Underground
+LIÈGE - FH13;6585831;1;1;0;2;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Avenue Brigade-Piron;1;;;237341,632;148211,06;Underground
+LIÈGE - FH13;3118662;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Plateau du Bouhay;24;;;237561,56;148568,626;Underground
+LIÈGE - FH13;3143341;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Elise Grandprez;12;;;236851,157;147914,68;Underground
+LIÈGE - FH13;667436;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Joseph Dejardin;108;;;236893,835;147758,449;Underground
+LIÈGE - FH13;4054209;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Plateau du Bouhay;26;;;237561,832;148562,712;Underground
+LIÈGE - FH13;3143345;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Elise Grandprez;23;;;236880,457;147927,685;Underground
+LIÈGE - FH13;3118670;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Plateau du Bouhay;28;;;237566,574;148559,181;Underground
+LIÈGE - FH13;667441;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Elise Grandprez;24;;;236899,38;147859,359;Underground
+LIÈGE - FH13;679705;2;0;0;2;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Quai Bonaparte;2;;;236269,98;148197,323;Underground
+LIÈGE - FH13;5203799;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Plateau du Bouhay;30;;;237566,165;148553,847;Underground
+LIÈGE - FH13;3143347;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Elise Grandprez;26;;;236907,138;147853,092;Underground
+LIÈGE - FH13;667437;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Elise Grandprez;27;;;236923,265;147881,78;Underground
+LIÈGE - FH13;663109;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Plateau du Bouhay;32;;;237570,179;148549,774;Underground
+LIÈGE - FH13;3143348;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Elise Grandprez;29;;;236926,736;147876,119;Underground
+LIÈGE - FH13;3118840;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Thier du Bouhay;35;;;236947,674;148265,043;Underground
+LIÈGE - FH13;3143350;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Elise Grandprez;31;;;236930,103;147870,682;Underground
+LIÈGE - FH13;2775261;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue de Robermont;209;;;237359,855;147900,807;Underground
+LIÈGE - FH13;3143351;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Elise Grandprez;32;;;236917,478;147840,548;Underground
+LIÈGE - FH13;670783;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;1;;;236549,629;147755,726;Underground
+LIÈGE - FH13;3143352;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Elise Grandprez;33;;;236934,572;147866,331;Underground
+LIÈGE - FH13;34023;0;2;0;2;MDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;2;;;236501,367;147892,914;Underground
+LIÈGE - FH13;3143353;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Elise Grandprez;34;;;236923,787;147836,138;Underground
+LIÈGE - FH13;667774;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Joseph-Lambremont;26;;;237427,132;148310,41;Underground
+LIÈGE - FH13;662986;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue des Frères-Philippart;14;;;236992,754;148383,558;Underground
+LIÈGE - FH13;3143354;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Rue Elise Grandprez;36;;;236928,057;147827,457;Underground
+LIÈGE - FH13;667776;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Joseph-Lambremont;28;;;237419,108;148327,24;Underground
+LIÈGE - FH13;3143355;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Elise Grandprez;39;;;236949,647;147849,975;Underground
+LIÈGE - FH13;3143356;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Elise Grandprez;46;;;236940,223;147814,525;Underground
+LIÈGE - FH13;2799169;3;0;0;3;MDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;6;A;;236505,979;147870,208;Underground
+LIÈGE - FH13;664162;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;1;;;237296,23;148329,53;Underground
+LIÈGE - FH13;667817;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;2;;;237423,979;148368,789;Underground
+LIÈGE - FH13;670781;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;8;;;236526,138;147814,816;Underground
+LIÈGE - FH13;2742317;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;3;;;237301,01;148333,461;Underground
+LIÈGE - FH13;667778;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Joseph-Lambremont;40;;;237404,814;148357,684;Underground
+LIÈGE - FH13;4087522;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;4;;;237428,739;148371,343;Underground
+LIÈGE - FH13;3153284;2;0;0;2;MDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;13;;;236733,353;147724,908;Underground
+LIÈGE - FH13;2742320;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;5;;;237306,58;148335,28;Underground
+LIÈGE - FH13;667480;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Rue Justin Lenders;15;;;236736,398;147728,67;Underground
+LIÈGE - FH13;2799175;4;0;0;4;MDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;11;;;236548,507;147726,056;Underground
+LIÈGE - FH13;2742324;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;6;;;237433,347;148373,828;Underground
+LIÈGE - FH13;3153286;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;17;;;236741,254;147734,123;Underground
+LIÈGE - FH13;664227;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;7;;;237311,734;148338,114;Underground
+LIÈGE - FH13;3153288;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Justin Lenders;19;;;236746,127;147739,766;Underground
+LIÈGE - FH13;670784;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;13;;;236548,865;147720,017;Underground
+LIÈGE - FH13;5206466;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Robermont;111;;;236880,822;148196,436;Underground
+LIÈGE - FH13;2742329;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;8;;;237438,228;148376,461;Underground
+LIÈGE - FH13;3153289;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;21;;;236750,715;147744,799;Underground
+LIÈGE - FH13;3142421;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Fusillés;28;;;237260,903;147877,336;Underground
+LIÈGE - FH13;2742332;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;9;;;237316,759;148340,838;Underground
+LIÈGE - FH13;4190673;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Rue Justin Lenders;24;;;236768,095;147719,418;Underground
+LIÈGE - FH13;670792;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;15;;;236550,505;147713,42;Underground
+LIÈGE - FH13;3142422;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;Review Required;BUILDING template;Rue des Fusillés;30;;;237254,879;147875,671;Underground
+LIÈGE - FH13;2742337;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;10;;;237443,162;148379,139;Underground
+LIÈGE - FH13;3153294;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;25;;;236757,129;147755,339;Underground
+LIÈGE - FH13;667262;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Fusillés;32;;;237248;147870,232;Underground
+LIÈGE - FH13;664229;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;11;;;237320,602;148345,437;Underground
+LIÈGE - FH13;3153298;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;28;;;236778,78;147733,516;Underground
+LIÈGE - FH13;664231;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;12;;;237447,942;148381,746;Underground
+LIÈGE - FH13;3153301;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;30;;;236783,945;147739,362;Underground
+LIÈGE - FH13;2742338;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;13;;;237332,888;148352,459;Underground
+LIÈGE - FH13;3153302;5;0;0;5;MDU;;N;IRREG;4;7;;;Y;_;BUILDING template;Rue Justin Lenders;31;;;236770,65;147769,075;Underground
+LIÈGE - FH13;2742340;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;14;;;237457,746;148387,014;Underground
+LIÈGE - FH13;3153303;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Justin Lenders;32;;;236787,424;147745,531;Underground
+LIÈGE - FH13;2742342;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;15;;;237338,121;148355,324;Underground
+LIÈGE - FH13;3153304;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;33;;;236773,738;147774,61;Underground
+LIÈGE - FH13;2742346;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;16;;;237462,937;148389,884;Underground
+LIÈGE - FH13;667472;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;34;;;236810,185;147774,838;Underground
+LIÈGE - FH13;2742348;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;17;;;237343,264;148358,142;Underground
+LIÈGE - FH13;3153308;1;0;0;1;SDU;;N;IRREG;2;9;;;Y;_;BUILDING template;Rue Justin Lenders;35;;;236779,062;147779,59;Underground
+LIÈGE - FH13;2775096;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue de Robermont;124;;;237010,641;148218,453;Underground
+LIÈGE - FH13;2742355;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;18;;;237467,736;148392,525;Underground
+LIÈGE - FH13;667473;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Justin Lenders;36;;;236816,297;147778,984;Underground
+LIÈGE - FH13;2742356;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;19;;;237348,324;148360,904;Underground
+LIÈGE - FH13;3153309;1;0;0;1;SDU;;N;IRREG;2;9;;;Y;_;BUILDING template;Rue Justin Lenders;37;;;236783,223;147784,646;Underground
+LIÈGE - FH13;2742363;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;20;;;237472,373;148394,574;Underground
+LIÈGE - FH13;3153310;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;38;;;236819,535;147785,242;Underground
+LIÈGE - FH13;664233;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;21;;;237362,109;148365,975;Underground
+LIÈGE - FH13;3153311;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;39;;;236787,255;147790,272;Underground
+LIÈGE - FH13;5203709;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;22;;;237477,283;148397,801;Underground
+LIÈGE - FH13;3153313;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;40;;;236824,282;147790,248;Underground
+LIÈGE - FH13;4006092;2;0;0;2;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue de Robermont;135;;;236938,186;148225,698;Underground
+LIÈGE - FH13;2742370;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;23;;;237367,268;148368,838;Underground
+LIÈGE - FH13;3153314;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Rue Justin Lenders;41;;;236792,526;147794,741;Underground
+LIÈGE - FH13;5198066;6;0;0;6;MDU;;N;IRREG;5;8;;;Y;_;BUILDING template;Rue d'Amercoeur;21;;;236312,489;148154,426;Underground
+LIÈGE - FH13;2742374;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;24;;;237482,027;148400,008;Underground
+LIÈGE - FH13;3153315;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Justin Lenders;42;;;236828,087;147795,089;Underground
+LIÈGE - FH13;2742376;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;25;;;237372,319;148371,628;Underground
+LIÈGE - FH13;3153317;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;43;;;236797,308;147800,679;Underground
+LIÈGE - FH13;667818;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;26;;;237495,066;148404,887;Underground
+LIÈGE - FH13;3153318;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Rue Justin Lenders;44;;;236832,302;147800,202;Underground
+LIÈGE - FH13;2742381;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;27;;;237376,521;148375,79;Underground
+LIÈGE - FH13;3153320;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Justin Lenders;45;;;236807,406;147814,415;Underground
+LIÈGE - FH13;664225;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;28;;;237521,014;148422,297;Underground
+LIÈGE - FH13;2742383;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;29;;;237382,368;148377,231;Underground
+LIÈGE - FH13;3153323;3;0;0;3;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Rue Justin Lenders;47;;;236812,921;147820,551;Underground
+LIÈGE - FH13;2742385;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;30;;;237539,713;148433,244;Underground
+LIÈGE - FH13;664163;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;31;;;237387,563;148380,12;Underground
+LIÈGE - FH13;3153325;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Justin Lenders;49;;;236816,559;147826,087;Underground
+LIÈGE - FH13;2742391;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;32;;;237544,512;148435,914;Underground
+LIÈGE - FH13;667475;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;50;;;236860,964;147836,786;Underground
+LIÈGE - FH13;2742393;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;33;;;237399,118;148389,052;Underground
+LIÈGE - FH13;3153327;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Rue Justin Lenders;51;;;236822,126;147830,315;Underground
+LIÈGE - FH13;3132035;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Cornillon;76;;;236818,247;148207,108;Underground
+LIÈGE - FH13;4099753;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;34;;;237549,074;148438,442;Underground
+LIÈGE - FH13;3153328;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Justin Lenders;52;;;236867,149;147840,433;Underground
+LIÈGE - FH13;2742394;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;35;;;237403,79;148393,06;Underground
+LIÈGE - FH13;1511965;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;54;;;236870,328;147845,441;Underground
+LIÈGE - FH13;1298945;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;36;;;237553,689;148441,004;Underground
+LIÈGE - FH13;3153329;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Justin Lenders;56;;;236874,341;147850,094;Underground
+LIÈGE - FH13;2742400;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;37;;;237409,366;148394,858;Underground
+LIÈGE - FH13;3153330;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;58;;;236877,589;147855,823;Underground
+LIÈGE - FH13;2742402;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;38;;;237558,552;148443,73;Underground
+LIÈGE - FH13;3153333;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;60;;;236882,38;147861,024;Underground
+LIÈGE - FH13;1501284;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;39;;;237414,423;148397,681;Underground
+LIÈGE - FH13;667476;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;62;;;236887,591;147866,05;Underground
+LIÈGE - FH13;2742407;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;40;;;237563,407;148446,401;Underground
+LIÈGE - FH13;667477;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Rue Justin Lenders;66;;;236925,41;147903,406;Underground
+LIÈGE - FH13;2742409;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;41;;;237428,594;148402,887;Underground
+LIÈGE - FH13;3153336;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Justin Lenders;68;;;236927,571;147910,901;Underground
+LIÈGE - FH13;2742413;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;42;;;237573,633;148452,015;Underground
+LIÈGE - FH13;667482;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;71;;;236851,187;147868,78;Underground
+LIÈGE - FH13;4085083;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;43;;;237432,644;148406,702;Underground
+LIÈGE - FH13;667478;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Justin Lenders;72;;;236933,284;147922,586;Underground
+LIÈGE - FH13;2742418;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;44;;;237578,608;148454,848;Underground
+LIÈGE - FH13;5190824;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Rue Justin Lenders;73;;;236855,441;147873,706;Underground
+LIÈGE - FH13;2799232;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;67;;;236818,959;147678,838;Underground
+LIÈGE - FH13;3148923;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Auguste Javaux;1;A;;236893,398;148019,798;Underground
+LIÈGE - FH13;2742424;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;45;;;237438,475;148408,353;Underground
+LIÈGE - FH13;3153340;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Justin Lenders;74;;;236956,758;147950,118;Underground
+LIÈGE - FH13;2777809;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Saumery;1;;;236519,842;147763,854;Underground
+LIÈGE - FH13;2799234;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;69;;;236824,705;147683,521;Underground
+LIÈGE - FH13;667445;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Auguste Javaux;1;C;;236903,316;148010,032;Underground
+LIÈGE - FH13;667821;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;46;;;237583,284;148457,539;Underground
+LIÈGE - FH13;3153342;2;0;0;2;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Rue Justin Lenders;75;;;236858,571;147878,985;Underground
+LIÈGE - FH13;670799;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Saumery;15;;;236466,665;147752,395;Underground
+LIÈGE - FH13;667426;1;1;0;2;MDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;71;;;236833,879;147690,137;Underground
+LIÈGE - FH13;664312;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;14;;;236880,009;148141,033;Underground
+LIÈGE - FH13;2742430;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;47;;;237442,707;148411,211;Underground
+LIÈGE - FH13;3153343;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Justin Lenders;76;;;236964,086;147955,369;Underground
+LIÈGE - FH13;664147;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Simon-Burnet;4;;;237332,906;148219,447;Underground
+LIÈGE - FH13;667427;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;81;;;236873,232;147724,326;Underground
+LIÈGE - FH13;2742436;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;48;;;237587,981;148460,226;Underground
+LIÈGE - FH13;3153344;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Rue Justin Lenders;77;;;236861,267;147885,158;Underground
+LIÈGE - FH13;3121612;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Simon-Burnet;6;;;237340,317;148220,714;Underground
+LIÈGE - FH13;2799236;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;83;;;236878,629;147729,202;Underground
+LIÈGE - FH13;2742439;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Ernest-Malvoz;49;;;237448,561;148413,748;Underground
+LIÈGE - FH13;3153345;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Justin Lenders;78;;;236965,447;147962,973;Underground
+LIÈGE - FH13;5185255;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Simon-Burnet;8;;;237345,817;148221,547;Underground
+LIÈGE - FH13;4172606;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;87;;;236890,797;147737,573;Underground
+LIÈGE - FH13;2742442;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;50;;;237592,792;148462,988;Underground
+LIÈGE - FH13;667483;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Rue Justin Lenders;79;;;236865,716;147889,543;Underground
+LIÈGE - FH13;667418;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;89;;;236895,662;147742,663;Underground
+LIÈGE - FH13;667462;4;0;0;4;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;21;;;236835,351;148105,863;Underground
+LIÈGE - FH13;667484;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;87;;;236899,672;147928,473;Underground
+LIÈGE - FH13;4032688;2;0;0;2;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Carmel;27;;;236815,591;148085,562;Underground
+LIÈGE - FH13;2742451;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;52;;;237597,476;148465,664;Underground
+LIÈGE - FH13;3153351;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Rue Justin Lenders;89;;;236904,143;147934,244;Underground
+LIÈGE - FH13;2742453;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Ernest-Malvoz;54;;;237608,14;148472,337;Underground
+LIÈGE - FH13;4238476;1;0;0;1;SDU;;N;IRREG;3;10;;;Y;_;BUILDING template;Rue Justin Lenders;91;;;236905,948;147940,739;Underground
+LIÈGE - FH13;2742459;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;56;;;237613,308;148475,129;Underground
+LIÈGE - FH13;3153352;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Justin Lenders;93;;;236911,486;147943,298;Underground
+LIÈGE - FH13;667450;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Auguste Javaux;13;;;236927,007;147984,283;Underground
+LIÈGE - FH13;1519722;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;58;;;237618,211;148477,896;Underground
+LIÈGE - FH13;667485;0;1;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Justin Lenders;95;;;236920,224;147954,171;Underground
+LIÈGE - FH13;2742465;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;60;;;237623,264;148480,689;Underground
+LIÈGE - FH13;3153353;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Justin Lenders;99;;;236934,311;147971,822;Underground
+LIÈGE - FH13;667825;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Ernest-Malvoz;62;;;237651,488;148495,781;Underground
+LIÈGE - FH13;3153354;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Justin Lenders;101;;;236938,54;147976,807;Underground
+LIÈGE - FH13;2799252;2;0;0;2;MDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;121;;;236983,624;147809,842;Underground
+LIÈGE - FH13;5203845;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;65;;;237519,223;148453,622;Underground
+LIÈGE - FH13;3153356;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Justin Lenders;103;;;236942,578;147981,907;Underground
+LIÈGE - FH13;6665743;1;0;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Rue des Chrysanthèmes;20;;;237384,497;147970,247;Underground
+LIÈGE - FH13;667448;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Auguste Javaux;20;;;236913,475;147965,258;Underground
+LIÈGE - FH13;5203850;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;67;;;237524,353;148456,495;Underground
+LIÈGE - FH13;5203851;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;69;;;237529,264;148459,223;Underground
+LIÈGE - FH13;2742473;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;71;;;237534,258;148461,998;Underground
+LIÈGE - FH13;2742476;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;73;;;237544,761;148467,658;Underground
+LIÈGE - FH13;662970;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue des Maraîchers;97;;;236794,974;148282,954;Underground
+LIÈGE - FH13;2742478;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;75;;;237549,867;148470,422;Underground
+LIÈGE - FH13;667444;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Auguste Javaux;27;;;236963,352;147939,9;Underground
+LIÈGE - FH13;4233491;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;77;;;237554,737;148473,023;Underground
+LIÈGE - FH13;667819;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue Ernest-Malvoz;79;;;237559,819;148475,697;Underground
+LIÈGE - FH13;3121655;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Simon-Burnet;40;;;237426,578;148239,173;Underground
+LIÈGE - FH13;664146;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Simon-Burnet;42;;;237432,44;148238,892;Underground
+LIÈGE - FH13;667424;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Thier-de-la-Chartreuse;145;;;237061,207;147874,117;Underground
+LIÈGE - FH13;3143343;4;0;0;4;MDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Elise Grandprez;19;;;236873,181;147936,935;Underground
+LIÈGE - FH13;2827170;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Avenue Brigade-Piron;6;;;237293,436;148216,336;Underground
+LIÈGE - FH13;3143344;2;0;0;2;MDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Elise Grandprez;21;;;236875,649;147930,811;Underground
+LIÈGE - FH13;667438;2;0;0;2;MDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Elise Grandprez;25;;;236884,628;147922,722;Underground
+LIÈGE - FH13;3143349;2;0;0;2;MDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Elise Grandprez;30;;;236912,561;147845,745;Underground
+LIÈGE - FH13;3151063;2;0;0;2;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Lamarche;22;;;236992,581;148111,334;Underground
+LIÈGE - FH13;3139369;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Sous l'Eau;21;;;236354,053;148310,735;Underground
+LIÈGE - FH13;2742514;0;1;0;1;SDU;;N;IRREG;5;9;;;Y;_;BUILDING template;Rue Ernest-Malvoz;111;;;237714,262;148636,72;Underground
+LIÈGE - FH13;2743077;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue des Maraîchers;126;;;236811,078;148226,953;Underground
+LIÈGE - FH13;6650847;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Elise Grandprez;25;B;;236907,865;147895,552;Underground
+LIÈGE - FH13;11302;4;0;0;4;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Lamarche;36;;;237018,24;148076,924;Underground
+LIÈGE - FH13;3141272;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Fond-du-Bois;15;;;237188,204;148269,923;Underground
+LIÈGE - FH13;3141273;1;0;0;1;SDU;;N;IRREG;3;2;;;Y;_;BUILDING template;Rue Fond-du-Bois;17;;;237194,154;148268,6;Underground
+LIÈGE - FH13;3141274;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Fond-du-Bois;19;;;237197,042;148275,009;Underground
+LIÈGE - FH13;3141275;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Fond-du-Bois;21;;;237201,941;148278,116;Underground
+LIÈGE - FH13;4011772;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Louise Derache;5;;;236825,103;147758,706;Underground
+LIÈGE - FH13;2759199;6;0;0;6;MDU;;N;IRREG;4;4;;;Y;_;BUILDING template;Rue Frédéric Nyst;30;;;236507,526;148052,234;Underground
+LIÈGE - FH13;3138306;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Louise Derache;11;;;236842,102;147739,345;Underground
+LIÈGE - FH13;667807;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Avenue Joseph-Merlot;35;;;237703,589;148502,849;Underground
+LIÈGE - FH13;2746559;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;37;;;237699,485;148498,036;Underground
+LIÈGE - FH13;667455;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Louise Derache;13;;;236855,486;147726,68;Underground
+LIÈGE - FH13;2746564;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;39;;;237691,388;148488,595;Underground
+LIÈGE - FH13;2746571;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;41;;;237687,226;148483,631;Underground
+LIÈGE - FH13;667456;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Rue Louise Derache;16;;;236836,876;147713,485;Underground
+LIÈGE - FH13;2746573;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;43;;;237679,371;148474,444;Underground
+LIÈGE - FH13;679809;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Moulan;2;;;236608,957;148078,218;Underground
+LIÈGE - FH13;1293829;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;45;;;237675,245;148469,651;Underground
+LIÈGE - FH13;2746582;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;47;;;237667,081;148459,998;Underground
+LIÈGE - FH13;3090268;1;1;0;2;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue d'Amercoeur;53;;;236389,453;148100,133;Underground
+LIÈGE - FH13;2746585;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;49;;;237663,044;148455,28;Underground
+LIÈGE - FH13;2746591;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;51;;;237655,087;148446,294;Underground
+LIÈGE - FH13;667805;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;52;;;237655,26;148491,068;Underground
+LIÈGE - FH13;2746600;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;53;;;237651,211;148441,634;Underground
+LIÈGE - FH13;1304320;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;54;;;237641,562;148473,218;Underground
+LIÈGE - FH13;2746609;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;55;;;237641,468;148432,271;Underground
+LIÈGE - FH13;2746611;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;56;;;237637,708;148468,761;Underground
+LIÈGE - FH13;5203793;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;57;;;237639,502;148426,531;Underground
+LIÈGE - FH13;664338;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Belle-Vue;11;;;236913,265;148109,757;Underground
+LIÈGE - FH13;2746618;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;58;;;237629,799;148459,668;Underground
+LIÈGE - FH13;3153307;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Justin Lenders;34;B;;236815,718;147769,651;Underground
+LIÈGE - FH13;2746624;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;59;;;237629,592;148417,705;Underground
+LIÈGE - FH13;664329;0;1;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Rue Lamarche;2;;;236943,505;148178,531;Underground
+LIÈGE - FH13;1209840;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;60;;;237625,805;148455,058;Underground
+LIÈGE - FH13;2746641;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;61;;;237626,17;148412,344;Underground
+LIÈGE - FH13;2746643;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;62;;;237618,101;148446,193;Underground
+LIÈGE - FH13;2746648;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;63;;;237617,239;148403,392;Underground
+LIÈGE - FH13;5203769;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Avenue Joseph-Merlot;64;;;237614,058;148441,449;Underground
+LIÈGE - FH13;2746655;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;65;;;237613,751;148397,998;Underground
+LIÈGE - FH13;2746657;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;66;;;237603,555;148433,827;Underground
+LIÈGE - FH13;667803;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;67;;;237605,389;148389,029;Underground
+LIÈGE - FH13;4070676;2;0;0;2;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Auguste Javaux;1;B;;236898,93;148015,236;Underground
+LIÈGE - FH13;1512097;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;68;;;237598,515;148430,009;Underground
+LIÈGE - FH13;2746672;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;69;;;237601,962;148383,701;Underground
+LIÈGE - FH13;2746678;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;70;;;237591,489;148419,598;Underground
+LIÈGE - FH13;2746682;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;71;;;237593,26;148374,365;Underground
+LIÈGE - FH13;2746685;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;72;;;237587,298;148414,589;Underground
+LIÈGE - FH13;2746687;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;73;;;237589,996;148369,293;Underground
+LIÈGE - FH13;2746689;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;74;;;237579,324;148405,083;Underground
+LIÈGE - FH13;2746691;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;75;;;237580,866;148360,186;Underground
+LIÈGE - FH13;2746697;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;76;;;237575,182;148400,336;Underground
+LIÈGE - FH13;3121608;1;1;0;2;MDU;;N;IRREG;1;5;;;Y;_;BUILDING template;Rue Simon-Burnet;1;;;237369,82;148258,429;Underground
+LIÈGE - FH13;2746704;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;77;;;237577,672;148354,956;Underground
+LIÈGE - FH13;2810644;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Belle-Vue;60;;;236951,459;148036,128;Underground
+LIÈGE - FH13;2746709;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Avenue Joseph-Merlot;78;;;237567,137;148390,983;Underground
+LIÈGE - FH13;2746713;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Avenue Joseph-Merlot;79;;;237568,781;148345,817;Underground
+LIÈGE - FH13;2746721;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Avenue Joseph-Merlot;80;;;237563,261;148386,422;Underground
+LIÈGE - FH13;2746726;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Avenue Joseph-Merlot;81;;;237565,606;148340,88;Underground
+LIÈGE - FH13;3148103;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Paul-Janson;10;;;237090,641;147990,223;Underground
+LIÈGE - FH13;6665758;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Winston-Churchill;54;;;236966,242;148324,617;Underground
+LIÈGE - FH13;667809;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;1;;;237435,064;148337,697;Underground
+LIÈGE - FH13;670788;6;0;0;6;MDU;;N;IRREG;4;5;;;Y;_;BUILDING template;Rue Gramme;1;;;236498,301;147882,083;Underground
+LIÈGE - FH13;667812;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;2;;;237445,114;148316,855;Underground
+LIÈGE - FH13;3143291;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Rue Gramme;7;;;236494,116;147861,594;Underground
+LIÈGE - FH13;3148107;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Paul-Janson;12;;;237096,154;147987,6;Underground
+LIÈGE - FH13;2827901;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;3;;;237439,903;148339,984;Underground
+LIÈGE - FH13;3148110;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Paul-Janson;12;A;;237098,44;147983,956;Underground
+LIÈGE - FH13;2827917;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;4;;;237449,991;148319,473;Underground
+LIÈGE - FH13;2827934;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;5;;;237444,741;148342,085;Underground
+LIÈGE - FH13;3148114;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Paul-Janson;14;;;237102,318;147979,975;Underground
+LIÈGE - FH13;2827940;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;6;;;237454,449;148321,372;Underground
+LIÈGE - FH13;6584325;0;1;0;1;SDU;;N;IRREG;1;4;;;Y;_;BUILDING template;Rue Winston-Churchill;159;;;237220,554;148550,965;Underground
+LIÈGE - FH13;2827942;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;7;;;237447,877;148346,427;Underground
+LIÈGE - FH13;3148116;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Paul-Janson;16;;;237106,939;147976,027;Underground
+LIÈGE - FH13;2810651;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Belle-Vue;68;;;236966,981;148020,874;Underground
+LIÈGE - FH13;2827943;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;8;;;237459,521;148322,654;Underground
+LIÈGE - FH13;3148118;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Paul-Janson;18;;;237111,666;147972,276;Underground
+LIÈGE - FH13;667248;3;0;0;3;MDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Cardinal-Cardijn;3;;;237139,161;148174,817;Underground
+LIÈGE - FH13;2827944;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;9;;;237453,915;148346,45;Underground
+LIÈGE - FH13;5191447;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Winston-Churchill;193;;;237323,261;148613,367;Underground
+LIÈGE - FH13;5198980;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Cardinal-Cardijn;5;;;237137,88;148169,155;Underground
+LIÈGE - FH13;2827945;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;10;;;237463,757;148325,893;Underground
+LIÈGE - FH13;3137082;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Rue Joseph Dejardin;16;;;236850,403;148045,3;Underground
+LIÈGE - FH13;5198983;1;0;0;1;SDU;;N;IRREG;2;3;;;Y;_;BUILDING template;Rue Cardinal-Cardijn;7;;;237136,479;148163,79;Underground
+LIÈGE - FH13;4232878;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;11;;;237458,357;148348,546;Underground
+LIÈGE - FH13;667265;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Paul-Janson;23;;;237103,63;148011,656;Underground
+LIÈGE - FH13;667266;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Paul-Janson;25;;;237122,806;147993,177;Underground
+LIÈGE - FH13;664150;0;1;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Chrysanthèmes;1;;;237329,909;147977,073;Underground
+LIÈGE - FH13;3153293;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Rue Justin Lenders;23;;;236753,875;147749,714;Underground
+LIÈGE - FH13;667486;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Rue Justin Lenders;26;;;236774,059;147726,728;Underground
+LIÈGE - FH13;2746843;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Avenue Joseph-Merlot;118;;;237438,301;148227,697;Underground
+LIÈGE - FH13;3153296;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;27;;;236762,114;147759,852;Underground
+LIÈGE - FH13;3153300;3;0;0;3;MDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;29;;;236766,084;147764,929;Underground
+LIÈGE - FH13;667481;3;0;0;3;MDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Rue Justin Lenders;53;;Rue joseph-dejardin 88 - rue justin lenders 53;236825,271;147837,067;Underground
+LIÈGE - FH13;2828091;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;21;;;237480,974;148361,484;Underground
+LIÈGE - FH13;3153347;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Justin Lenders;80;;;236971,593;147970,049;Underground
+LIÈGE - FH13;2828094;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;22;;;237491,998;148339,421;Underground
+LIÈGE - FH13;2828107;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;23;;;237485,814;148362,659;Underground
+LIÈGE - FH13;2828126;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;24;;;237497,297;148339,938;Underground
+LIÈGE - FH13;2828143;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;25;;;237490,878;148364,004;Underground
+LIÈGE - FH13;5204081;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue Lamarche;20;;;236991,707;148115,945;Underground
+LIÈGE - FH13;4205748;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Cornillon;62;;;236808,105;148179,98;Underground
+LIÈGE - FH13;2828150;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;26;;;237500,802;148343,322;Underground
+LIÈGE - FH13;2828166;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;27;;;237494,687;148367,787;Underground
+LIÈGE - FH13;3132026;2;0;0;2;MDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue de Cornillon;64;;;236810,487;148184,957;Underground
+LIÈGE - FH13;2828174;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;28;;;237505,368;148345,739;Underground
+LIÈGE - FH13;667458;2;0;0;2;MDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Rue Louise Derache;7;;;236833,257;147754,738;Underground
+LIÈGE - FH13;667813;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Rue des Primeroses;29;;;237500,013;148368,261;Underground
+LIÈGE - FH13;667815;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue des Primeroses;30;;;237509,868;148347,455;Underground
+LIÈGE - FH13;664343;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Rue du Bastion;9;;;237019,165;147994,269;Underground
+LIÈGE - FH13;3148177;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue Paul-Janson;55;;;237173,782;147940,481;Underground
+LIÈGE - FH13;1327291;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Rue du Bastion;11;;;237027,376;147986,753;Underground
+LIÈGE - FH13;5191827;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Winston-Churchill;112;;;237102,625;148406,176;Façade
+LIÈGE - FH13;5504868;0;1;0;1;SDU;;Y;NA;1;;;;;_;BUILDING template;Avenue Cardinal-Mercier;19;B;;;;Façade
+LIÈGE - FH13;6024424;0;1;0;1;SDU;;Y;NA;2;;;;;_;BUILDING template;Rue des Maraîchers;76;;;;;Façade
+LIÈGE - FH13;679707;0;1;0;1;SDU;;Y;NA;1;;;;Y;_;BUILDING template;Rue Charles Bartholomez;52;;;236388,131;148163,639;Façade
+LIÈGE - FH13;1169213;0;1;0;1;SDU;;Y;NA;1;;;;Y;_;BUILDING template;Rue Winston-Churchill;326;;;237767,127;148674,957;Façade
+LIÈGE - FH13;663144;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Winston-Churchill;328;;;237784,886;148714,395;Façade
+LIÈGE - FH13;5191441;0;1;0;1;SDU;;Y;NA;1;;;;Y;_;BUILDING template;Rue Winston-Churchill;189;;;237317,664;148593,996;Façade
+LIÈGE - FH13;6583528;1;0;0;1;SDU;;Y;NA;1;;;;Y;_;BUILDING template;Rue Charles Bartholomez;48;;;236382,472;148183,521;Façade
+LIÈGE - FH13;1509609;1;0;0;1;SDU;;Y;NA;4;;;;Y;_;BUILDING template;Quai Bonaparte;22;;;236351,448;148328,162;Façade
+LIÈGE - FH13;6711635;1;0;0;1;SDU;;Y;NA;2;;;;;_;BUILDING template;Rue Denis Sotiau;45;;;;;Façade
+LIÈGE - FH13;664171;0;1;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue de Robermont;179;;;237324,654;147985,623;Façade
+LIÈGE - FH13;4266033;0;1;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue de Robermont;192;B;;237203,093;148151,39;Façade
+LIÈGE - FH13;2775263;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue de Robermont;210;;;237228,89;148117,247;Façade
+LIÈGE - FH13;3139363;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Sous l'Eau;15;;;236339,585;148302,86;Façade
+LIÈGE - FH13;667449;3;0;0;3;MDU;;Y;NA;3;;;;;_;BUILDING template;Rue Auguste Javaux;2;;;;;Façade
+LIÈGE - FH13;3139367;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Sous l'Eau;19;;;236350,411;148305,953;Façade
+LIÈGE - FH13;3141267;2;0;0;2;MDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Fond-du-Bois;7;;;237161,144;148244,399;Façade
+LIÈGE - FH13;11300;21;0;0;21;MDU;;Y;NA;7;;;;Y;_;BUILDING template;Avenue Cardinal-Mercier;21;;;237373,136;148164,701;Façade
+LIÈGE - FH13;664129;8;0;0;8;MDU;;Y;NA;4;;;;Y;_;BUILDING template;Avenue Cardinal-Mercier;23;;;237387,858;148162,868;Façade
+LIÈGE - FH13;6496849;2;0;0;2;MDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Fond-du-Bois;5;A;;237149,502;148245,21;Façade
+LIÈGE - FH13;2746889;3;0;0;3;MDU;;Y;NA;3;;;;Y;_;BUILDING template;Avenue Joseph-Merlot;142;;;237399,946;148176,092;Façade
+LIÈGE - FH13;5210577;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Denis Sotiau;44;;;236547,155;148475,799;Façade
+LIÈGE - FH13;2784896;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Denis Sotiau;46;;;236542,804;148472,91;Façade
+LIÈGE - FH13;3128819;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Winston-Churchill;26;;;236924,999;148264,21;Façade
+LIÈGE - FH13;2784904;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Denis Sotiau;50;;;236546,614;148468,754;Façade
+LIÈGE - FH13;5210723;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Denis Sotiau;52;;;236551,096;148471,875;Façade
+LIÈGE - FH13;5210523;1;0;0;1;SDU;;Y;NA;4;;;;Y;_;BUILDING template;Rue Sous l'Eau;5;;;236322,792;148279,618;Façade
+LIÈGE - FH13;2774130;0;1;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Herman Reuleaux;42;;;236477,344;148160,008;Façade
+LIÈGE - FH13;5191759;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Winston-Churchill;8;;;236870,573;148249;Façade
+LIÈGE - FH13;352741;2;0;0;2;MDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Winston-Churchill;10;;;236875,562;148251,463;Façade
+LIÈGE - FH13;3128916;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Winston-Churchill;78;;;237015,14;148360,715;Façade
+LIÈGE - FH13;5191964;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Winston-Churchill;227;;;237416,831;148650,044;Façade
+LIÈGE - FH13;1266063;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Rue Herman Reuleaux;10;;;236426,38;148261,888;Façade
+LIÈGE - FH13;3148146;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Paul-Janson;31;;;237135,77;147979,136;Façade
+LIÈGE - FH13;3132021;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue de Cornillon;56;;;236806,629;148168,988;Façade
+LIÈGE - FH13;5202521;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue de Cornillon;58;;;236806,603;148176,245;Façade
+LIÈGE - FH13;3148174;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Rue Paul-Janson;51;;;237166,459;147950,512;Façade

@@ -7,6 +7,7 @@ import mod_map as mymap
 import mod_import_coordinates as coor
 import mod_validate as val
 import mod_import_pr as imp
+import mod_import_pr_fr as imp_fr
 import mod_correction_import as cor
 import mod_units as units
 import mod_check_documents as check_documents
@@ -16,6 +17,7 @@ import mod_sns as sns
 import mod_export_pr as exp
 import os
 import glob
+
 
 
 MENU_WIDTH      = 80
@@ -157,6 +159,7 @@ def main_menu():
             'V': {'name' : 'Validate Survey', 'action' : validate_menu},
             'U': {'name' : 'Site Survey Survey Units', 'action' : units_menu},
             'D': {'name' : 'Documents', 'action' : documents_menu},
+            'O': {'name' : 'Make Import Versions / Survey / FR', 'action' : import_menu_fr},
             'I': {'name' : 'Make Import Versions / Survey', 'action' : import_menu}
     }
     action = menu_from_dict(menu,'MAIN MENU')
@@ -254,6 +257,20 @@ def import_menu():
         #coor.geocode(coorfile,coor.COORDINATESFOLDER)
         
     main_menu()
+
+
+def import_menu_fr():
+    impfile = select_file_from_folder_menu(imp_fr.INPUTFOLDER,'csv','IMPORT SURVEY', imp_fr.INPUTFOLDER)
+    if impfile:
+      
+        imp_fr.make_import_streets_cities_file(impfile, imp_fr.INPUT_STREET_FILE_FR, imp_fr.INPUT_CITY_FILE_FR)
+ 
+        imp_fr.make_import_pr_file(impfile,imp_fr.OUTPUTFOLDER, imp_fr.INPUT_STREET_FILE_FR, imp_fr.INPUT_CITY_FILE_FR, True, True)
+        
+        #coor.geocode(coorfile,coor.COORDINATESFOLDER)
+        
+    main_menu()
+
 
 
 def corrections_menu():

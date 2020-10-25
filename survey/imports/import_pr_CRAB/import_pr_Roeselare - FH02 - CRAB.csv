@@ -1,0 +1,13 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+ROESELARE - FH02;6056472;0;0;0;0;SDU;;N;MON;3;3;Beschermd Erfgoed;;N;BE _;BUILDING template;Arme-Klarenstraat;17;B;;62429;182295
+ROESELARE - FH02;4358425;0;0;0;0;SDU;;N;IRREG;1;0;;;N;_;BUILDING template;Blekerijstraat;49;;;62113,58;182305,98
+ROESELARE - FH02;5573066;0;0;0;0;SDU;;N;IRREG;1;0;;;N;_;BUILDING template;Blekerijstraat;49;B;;62113,58;182305,98
+ROESELARE - FH02;3414083;0;0;0;0;SDU;;N;IRREG;1;3;;;N;_;BUILDING template;Blekerijstraat;57;;;62127,42;182282,96
+ROESELARE - FH02;4358428;0;0;0;0;SDU;;N;IRREG;1;3;;;N;_;BUILDING template;Blekerijstraat;59;;;62127,42;182282,96
+ROESELARE - FH02;4358429;0;0;0;0;SDU;;N;IRREG;1;3;;;N;_;BUILDING template;Blekerijstraat;61;;;62127,42;182282,96
+ROESELARE - FH02;3414085;0;0;0;0;SDU;;N;IRREG;1;3;;;N;_;BUILDING template;Blekerijstraat;63;;;62127,42;182282,96
+ROESELARE - FH02;4358430;0;0;0;0;SDU;;N;IRREG;1;3;;;N;_;BUILDING template;Blekerijstraat;65;;;62127,42;182282,96
+ROESELARE - FH02;4358431;0;0;0;0;SDU;;Y;NA;1;3;;;N;N.v.t.;BUILDING template;Blekerijstraat;67;;;62135,224;182276,947
+ROESELARE - FH02;4371468;0;0;0;0;SDU;;Y;NA;4;5;;;N;Huisnummer bestaat niet meer;BUILDING template;Iepersestraat;46;;;62392,71;182081,78
+ROESELARE - FH02;6459859;0;0;0;0;SDU;;Y;NA;4;4;;;N;_;BUILDING template;Noordstraat;43;A;;62440,05;182496,11
+ROESELARE - FH02;5713827;0;0;0;0;SDU;;Y;NA;3;5;;;N;_;BUILDING template;Noordstraat;155;A;;62295,48;182856,51

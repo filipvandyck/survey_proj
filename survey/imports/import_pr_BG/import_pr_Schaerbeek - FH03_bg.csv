@@ -1,0 +1,92 @@
+﻿Projectnummer;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;Straat;Huisnummer;Huisnummer Toevoeging;;OPMERKINGEN;Quadrant;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;Wall Mount;BG Primair adres;Opdrachttemplate
+SCHAERBEEK - FH03;1675494;BL0010;;31152463;1675494;;Adolphe Lacomblélaan 14-16;Adolphe Lacomblélaan;14;;;;;;Yunus Emre;MDU;0;11;1;12;Y;;BUILDING template
+SCHAERBEEK - FH03;950442;BL0010;;38006415;950442;;Adolphe Lacomblélaan 14-16;Adolphe Lacomblélaan;16;;;;;;Yunus Emre;MDU;0;11;1;12;Y;;BUILDING template
+SCHAERBEEK - FH03;5585177;BL0010;;31152638;5585177;;Adolphe Lacomblélaan 18-20;Adolphe Lacomblélaan;18;;;;;;Yunus Emre;MDU;0;10;1;11;Y;;BUILDING template
+SCHAERBEEK - FH03;950432;BL0010;;38006416;950432;;Adolphe Lacomblélaan 18-20;Adolphe Lacomblélaan;20;;;;;;Yunus Emre;MDU;0;10;1;11;Y;;BUILDING template
+SCHAERBEEK - FH03;4117089;BL0010;;31152627;4117089;;Adolphe Lacomblélaan 22-24;Adolphe Lacomblélaan;22;;;;;;Yunus Emre;MDU;0;11;1;12;Y;;BUILDING template
+SCHAERBEEK - FH03;950431;BL0010;;38006417;950431;;Adolphe Lacomblélaan 22-24;Adolphe Lacomblélaan;24;;;;;;Yunus Emre;MDU;0;11;1;12;Y;;BUILDING template
+SCHAERBEEK - FH03;950434;BL0010;;31152739;950434;;Adolphe Lacomblélaan 4-6;Adolphe Lacomblélaan;4;;;;;;Yunus Emre;MDU;0;12;1;13;Y;;BUILDING template
+SCHAERBEEK - FH03;1675489;BL0010;;38006411;1675489;;Adolphe Lacomblélaan 4-6;Adolphe Lacomblélaan;6;;;;;;Yunus Emre;MDU;0;12;1;13;Y;;BUILDING template
+SCHAERBEEK - FH03;950433;BL0010;;38006412;950433;;Adolphe Lacomblélaan 8-10;Adolphe Lacomblélaan;10;;;;;;Yunus Emre;MDU;0;10;1;11;Y;;BUILDING template
+SCHAERBEEK - FH03;5585175;BL0010;;31152637;5585175;;Adolphe Lacomblélaan 8-10;Adolphe Lacomblélaan;8;;;;;;Yunus Emre;MDU;0;10;1;11;Y;;BUILDING template
+SCHAERBEEK - FH03;949582;BL0002;;31152702;949582;;Auguste Reyerslaan 15-17;Auguste Reyerslaan;15;;;;;;Yunus Emre;MDU;0;12;1;13;Y;;BUILDING template
+SCHAERBEEK - FH03;1678050;BL0002;;38006430;1678050;;Auguste Reyerslaan 15-17;Auguste Reyerslaan;17;;;;;;Yunus Emre;MDU;0;12;1;13;Y;;BUILDING template
+SCHAERBEEK - FH03;1678056;BL0008;;31152551;1678056;;Auguste Reyerslaan 41-43;Auguste Reyerslaan;41;;;;;;Yunus Emre;MDU;0;20;1;21;Y;;BUILDING template
+SCHAERBEEK - FH03;951310;BL0008;;31152740;951310;;Auguste Reyerslaan 41-43;Auguste Reyerslaan;43;;;;;;Yunus Emre;MDU;0;20;1;21;Y;;BUILDING template
+SCHAERBEEK - FH03;1678059;BL0008;;31152552;1678059;;Auguste Reyerslaan 45-47;Auguste Reyerslaan;45;;;;;;Yunus Emre;MDU;1;16;1;18;Y;;BUILDING template
+SCHAERBEEK - FH03;1678060;BL0008;;38006431;1678060;;Auguste Reyerslaan 45-47;Auguste Reyerslaan;47;;;;;;Yunus Emre;MDU;1;16;1;18;Y;;BUILDING template
+SCHAERBEEK - FH03;5585257;BL0009;;31152641;5585257;;Auguste Reyerslaan 67-69;Auguste Reyerslaan;67;;;;;;Yunus Emre;MDU;0;16;1;17;Y;;BUILDING template
+SCHAERBEEK - FH03;951339;BL0009;;31152754;951339;;Auguste Reyerslaan 67-69;Auguste Reyerslaan;69;;;;;;Yunus Emre;MDU;0;16;1;17;Y;;BUILDING template
+SCHAERBEEK - FH03;4119457;BL0005;;31152629;4119457;;Diamantlaan 12-14;Diamantlaan;12;;;;;;Yunus Emre;MDU;1;0;0;1;Y;;BUILDING template
+SCHAERBEEK - FH03;1681470;BL0005;;38006435;1681470;;Diamantlaan 12-14;Diamantlaan;14;;;;;;Yunus Emre;MDU;1;0;0;1;Y;;BUILDING template
+SCHAERBEEK - FH03;5585369;BL0009;;31152644;5585369;;Diamantlaan 144-146;Diamantlaan;144;;;;;;Yunus Emre;MDU;1;0;0;1;Y;;BUILDING template
+SCHAERBEEK - FH03;951340;BL0009;;38006442;951340;;Diamantlaan 144-146;Diamantlaan;146;;;;;;Yunus Emre;MDU;0;7;2;9;Y;;BUILDING template
+SCHAERBEEK - FH03;1681561;BL0009;;31152593;1681561;;Diamantlaan 158-160;Diamantlaan;158;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1504945;BL0009;;38006443;1504945;;Diamantlaan 158-160;Diamantlaan;160;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;947981;BL0005;;31152645;947981;;Diamantlaan 2-4;Diamantlaan;2;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1681462;BL0005;;38006434;1681462;;Diamantlaan 2-4;Diamantlaan;4;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1332839;BL0005;;31152316;1332839;;Diamantlaan 26-28;Diamantlaan;26;;;;;;Yunus Emre;MDU;1;10;1;12;Y;;BUILDING template
+SCHAERBEEK - FH03;1681480;BL0005;;31152566;1681480;;Diamantlaan 26-28;Diamantlaan;28;;;;;;Yunus Emre;MDU;1;10;1;12;Y;;BUILDING template
+SCHAERBEEK - FH03;5585366;BL0005;;31152642;5585366;;Diamantlaan 30-32;Diamantlaan;30;;;;;;Yunus Emre;MDU;0;10;2;12;Y;;BUILDING template
+SCHAERBEEK - FH03;947983;BL0005;;38006436;947983;;Diamantlaan 30-32;Diamantlaan;32;;;;;;Yunus Emre;MDU;0;10;2;12;Y;;BUILDING template
+SCHAERBEEK - FH03;5585367;BL0005;;31152643;5585367;;Diamantlaan 34-36;Diamantlaan;34;;;;;;Yunus Emre;MDU;0;12;1;13;Y;;BUILDING template
+SCHAERBEEK - FH03;947984;BL0005;;38006437;947984;;Diamantlaan 34-36;Diamantlaan;36;;;;;;Yunus Emre;MDU;0;12;1;13;Y;;BUILDING template
+SCHAERBEEK - FH03;947985;BL0005;;38006439;947985;;Diamantlaan 60_Léon Mahillonlaan 62;Diamantlaan;60;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;947993;BL0005;;31152649;947993;;Diamantlaan 60_Léon Mahillonlaan 62;Léon Mahillonlaan;62;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;5569115;BL0006;;31152636;5569115;;Diamantlaan 84-86;Diamantlaan;84;;;;;;Yunus Emre;MDU;1;2;0;3;Y;;BUILDING template
+SCHAERBEEK - FH03;6525428;BL0006;;38006440;6525428;;Diamantlaan 84-86;Diamantlaan;86;;;;;;Yunus Emre;MDU;1;2;0;3;Y;;BUILDING template
+SCHAERBEEK - FH03;1681518;BL0006;;38006441;1681518;;Diamantlaan 88_Milcampslaan 118;Diamantlaan;88;;;;;;Yunus Emre;MDU;1;2;0;3;Y;;BUILDING template
+SCHAERBEEK - FH03;5585060;BL0006;;38006463;5585060;;Diamantlaan 88_Milcampslaan 118;Milcampslaan;118;;;;;;Yunus Emre;MDU;1;2;0;3;Y;;BUILDING template
+SCHAERBEEK - FH03;1321631;BL0007;;31152311;1321631;;Diamantlaan 94_Milcampslaan 145;Diamantlaan;94;;;;;;Yunus Emre;MDU;0;29;2;31;Y;;BUILDING template
+SCHAERBEEK - FH03;26240;BL0007;;31152604;26240;;Diamantlaan 94_Milcampslaan 145;Milcampslaan;145;;;;;;Yunus Emre;MDU;0;29;2;31;Y;;BUILDING template
+SCHAERBEEK - FH03;949642;BL0008;;31152708;949642;;Emile Maxlaan 110-112;Emile Maxlaan;110;;;;;;Yunus Emre;MDU;1;1;0;2;Y;;BUILDING template
+SCHAERBEEK - FH03;1677603;BL0008;;38006419;1677603;;Emile Maxlaan 110-112;Emile Maxlaan;112;;;;;;Yunus Emre;MDU;1;1;0;2;Y;;BUILDING template
+SCHAERBEEK - FH03;949651;BL0008;;31152715;949651;;Emile Maxlaan 160-162;Emile Maxlaan;160;;;;;;Yunus Emre;MDU;0;14;2;16;Y;;BUILDING template
+SCHAERBEEK - FH03;5585238;BL0008;;38006423;5585238;;Emile Maxlaan 160-162;Emile Maxlaan;162;;;;;;Yunus Emre;MDU;0;14;2;16;Y;;BUILDING template
+SCHAERBEEK - FH03;949686;BL0008;;31152725;949686;;Eugène Plaskylaan 121-123-125;Eugène Plaskylaan;121;;;;;;Yunus Emre;MDU;2;26;1;29;Y;;BUILDING template
+SCHAERBEEK - FH03;1321743;BL0008;;38006424;1321743;;Eugène Plaskylaan 121-123-125;Eugène Plaskylaan;123;;;;;;Yunus Emre;MDU;2;26;1;29;Y;;BUILDING template
+SCHAERBEEK - FH03;5585243;BL0008;;38006425;5585243;;Eugène Plaskylaan 121-123-125;Eugène Plaskylaan;125;;;;;;Yunus Emre;MDU;2;26;1;29;Y;;BUILDING template
+SCHAERBEEK - FH03;949657;BL0008;;31152720;949657;;Eugène Plaskylaan 133-135;Eugène Plaskylaan;133;;;;;;Yunus Emre;MDU;0;21;1;22;Y;;BUILDING template
+SCHAERBEEK - FH03;5585244;BL0008;;38006426;5585244;;Eugène Plaskylaan 133-135;Eugène Plaskylaan;135;;;;;;Yunus Emre;MDU;0;21;1;22;Y;;BUILDING template
+SCHAERBEEK - FH03;949591;BL0002;;31152707;949591;;Eugène Plaskylaan 189-191;Eugène Plaskylaan;189;;;;;;Yunus Emre;MDU;1;24;2;27;Y;;BUILDING template
+SCHAERBEEK - FH03;949592;BL0002;;38006428;949592;;Eugène Plaskylaan 189-191;Eugène Plaskylaan;191;;;;;;Yunus Emre;MDU;1;24;2;27;Y;;BUILDING template
+SCHAERBEEK - FH03;1671068;BL0001;;31152359;1671068;;Leuvensesteenweg 498-500;Leuvensesteenweg;498;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1671070;BL0001;;38006456;1671070;;Leuvensesteenweg 498-500;Leuvensesteenweg;500;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1671074;BL0001;;31152360;1671074;;Leuvensesteenweg 506-508;Leuvensesteenweg;506;;;;;;Yunus Emre;MDU;0;9;1;10;Y;;BUILDING template
+SCHAERBEEK - FH03;1671076;BL0001;;38006457;1671076;;Leuvensesteenweg 506-508;Leuvensesteenweg;508;;;;;;Yunus Emre;MDU;0;9;1;10;Y;;BUILDING template
+SCHAERBEEK - FH03;NB-103055205817;BL0001;;;NB-103055205817;;Leuvensesteenweg 546-550-552;Leuvensesteenweg;552;;;;;;;MDU;1;0;0;1;Y;;
+SCHAERBEEK - FH03;1671088;BL0001;;31152363;1671088;;Leuvensesteenweg 546-550-552;Leuvensesteenweg;546;;;;;;Yunus Emre;MDU;5;43;3;51;Y;;BUILDING template
+SCHAERBEEK - FH03;1671090;BL0001;;38006462;1671090;;Leuvensesteenweg 546-550-552;Leuvensesteenweg;550;;;;;;Yunus Emre;MDU;5;43;3;51;Y;;BUILDING template
+SCHAERBEEK - FH03;947999;BL0006;;31152655;947999;;Milcampslaan 156-158;Milcampslaan;156;;;;;;Yunus Emre;MDU;1;3;0;4;Y;;BUILDING template
+SCHAERBEEK - FH03;5585061;BL0006;;38006465;5585061;;Milcampslaan 156-158;Milcampslaan;158;;;;;;Yunus Emre;MDU;1;3;0;4;Y;;BUILDING template
+SCHAERBEEK - FH03;4109893;BL0007;;38006466;4109893;;Milcampslaan 159-161;Milcampslaan;159;;;;;;Yunus Emre;MDU;1;1;0;2;Y;;BUILDING template
+SCHAERBEEK - FH03;949274;BL0007;;31152682;949274;;Milcampslaan 159-161;Milcampslaan;161;;;;;;Yunus Emre;MDU;1;1;0;2;Y;;BUILDING template
+SCHAERBEEK - FH03;303949;BL0004;;31152609;303949;;Milcampslaan 195_Smaragdlaan 2;Milcampslaan;195;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;303958;BL0004;;38006444;303958;;Milcampslaan 195_Smaragdlaan 2;Smaragdlaan;2;;;;;;Yunus Emre;MDU;1;4;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1671564;BL0004;;31152401;1671564;;Milcampslaan 207-209;Milcampslaan;207;;;;;;Yunus Emre;MDU;0;8;1;9;Y;;BUILDING template
+SCHAERBEEK - FH03;1671565;BL0004;;38006467;1671565;;Milcampslaan 207-209;Milcampslaan;209;;;;;;Yunus Emre;MDU;0;8;1;9;Y;;BUILDING template
+SCHAERBEEK - FH03;1671569;BL0004;;31152405;1671569;;Milcampslaan 217-217A;Milcampslaan;217;;;;;;Yunus Emre;MDU;0;4;0;4;Y;;BUILDING template
+SCHAERBEEK - FH03;3917317;BL0004;;38006468;3917317;;Milcampslaan 217-217A;Milcampslaan;217;A;;;;;Yunus Emre;MDU;0;4;0;4;Y;;BUILDING template
+SCHAERBEEK - FH03;303952;BL0004;;31152611;303952;;Saffierstraat 1-3;Saffierstraat;1;;;;;;Yunus Emre;MDU;1;7;0;8;Y;;BUILDING template
+SCHAERBEEK - FH03;NB-1030303942;;;;NB-1030303942;;Saffierstraat 1-3;Saffierstraat;3;;;;;;Yunus Emre;MDU;1;7;0;8;Y;;BUILDING template
+SCHAERBEEK - FH03;26244;BL0003;;38006470;26244;;Saffierstraat 27-29;Saffierstraat;27;;;;;;Yunus Emre;MDU;0;92;2;94;Y;;BUILDING template
+SCHAERBEEK - FH03;4110751;BL0003;;38006471;4110751;;Saffierstraat 27-29;Saffierstraat;29;;;;;;Yunus Emre;MDU;0;92;2;94;Y;;BUILDING template
+SCHAERBEEK - FH03;949322;BL0007;;31152688;949322;;Smaragdlaan 1-3-5;Smaragdlaan;1;;;;;;Yunus Emre;MDU;0;9;1;10;Y;;BUILDING template
+SCHAERBEEK - FH03;4119320;BL0004;;38006445;4119320;;Smaragdlaan 1-3-5;Smaragdlaan;3;;;;;;Yunus Emre;MDU;0;9;1;10;Y;;BUILDING template
+SCHAERBEEK - FH03;5840110;BL0004;;;5840110;;Smaragdlaan 1-3-5;Smaragdlaan;5;;;;;;Yunus Emre;MDU;0;9;1;10;Y;;BUILDING template
+SCHAERBEEK - FH03;1669242;BL0008;;31152339;1669242;;Smaragdlaan 41-43;Smaragdlaan;41;;;;;;Yunus Emre;MDU;0;3;1;4;Y;;BUILDING template
+SCHAERBEEK - FH03;1669243;BL0008;;38006449;1669243;;Smaragdlaan 41-43;Smaragdlaan;43;;;;;;Yunus Emre;MDU;0;3;1;4;Y;;BUILDING template
+SCHAERBEEK - FH03;951313;BL0008;;31152743;951313;;Smaragdlaan 61-63;Smaragdlaan;61;;;;;;Yunus Emre;MDU;0;15;1;16;Y;;BUILDING template
+SCHAERBEEK - FH03;5584974;BL0008;;38006451;5584974;;Smaragdlaan 61-63;Smaragdlaan;63;;;;;;Yunus Emre;MDU;0;15;1;16;Y;;BUILDING template
+SCHAERBEEK - FH03;951315;BL0008;;38006452;951315;;Smaragdlaan 65-67;Smaragdlaan;65;;;;;;Yunus Emre;MDU;0;15;1;16;Y;;BUILDING template
+SCHAERBEEK - FH03;5584975;BL0008;;38006453;5584975;;Smaragdlaan 65-67;Smaragdlaan;67;;;;;;Yunus Emre;MDU;0;15;1;16;Y;;BUILDING template
+SCHAERBEEK - FH03;951316;BL0008;;31152745;951316;;Smaragdlaan 69-71;Smaragdlaan;69;;;;;;Yunus Emre;MDU;0;15;1;16;Y;;BUILDING template
+SCHAERBEEK - FH03;5584976;BL0008;;38006454;5584976;;Smaragdlaan 69-71;Smaragdlaan;71;;;;;;Yunus Emre;MDU;0;15;1;16;Y;;BUILDING template
+SCHAERBEEK - FH03;1669225;BL0007;;31152326;1669225;;Smaragdlaan 7-9;Smaragdlaan;7;;;;;;Yunus Emre;MDU;2;0;0;2;Y;;BUILDING template
+SCHAERBEEK - FH03;1669227;BL0007;;38006447;1669227;;Smaragdlaan 7-9;Smaragdlaan;9;;;;;;Yunus Emre;MDU;2;0;0;2;Y;;BUILDING template
+SCHAERBEEK - FH03;1673611;BL0005;;31152452;1673611;;Topaaslaan 41-43;Topaaslaan;41;;;;;;Yunus Emre;MDU;0;3;0;3;Y;;BUILDING template
+SCHAERBEEK - FH03;4119395;BL0005;;38006409;4119395;;Topaaslaan 41-43;Topaaslaan;43;;;;;;Yunus Emre;MDU;0;3;0;3;Y;;BUILDING template
+SCHAERBEEK - FH03;1673584;BL0005;;31152427;1673584;;Topaaslaan 7-7A;Topaaslaan;7;;;;;;Yunus Emre;MDU;0;5;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;4119549;BL0005;;38006406;4119549;;Topaaslaan 7-7A;Topaaslaan;7;A;;;;;Yunus Emre;MDU;0;5;0;5;Y;;BUILDING template
+SCHAERBEEK - FH03;1673586;BL0001;;38006407;1673586;;Topaaslaan 8-10;Topaaslaan;10;;;;;;Yunus Emre;MDU;0;4;0;4;Y;;BUILDING template
+SCHAERBEEK - FH03;4119545;BL0001;;31152632;4119545;;Topaaslaan 8-10;Topaaslaan;8;;;;;;Yunus Emre;MDU;0;4;0;4;Y;;BUILDING template

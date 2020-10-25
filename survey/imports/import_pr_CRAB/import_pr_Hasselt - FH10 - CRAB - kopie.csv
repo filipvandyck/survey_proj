@@ -1,0 +1,75 @@
+﻿Projectnummer;LAM MK;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Kolom1;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+HASSELT - FH10;NB-350010047681;1;0;0;1;SDU;Thonissenlaan100;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Thonissenlaan;100;;;218184;180904
+HASSELT - FH10;NB-3500100A10319;1;0;0;1;SDU;Kempische steenweg100A;;Y;NA;2;4;;23 Units in CRAB.;Y;;BUILDING template;Kempische steenweg;100;A;;218296;181229
+HASSELT - FH10;NB-3500100B51293;1;0;0;1;SDU;Kempische steenweg100B;;Y;NA;2;4;;4 Units in CRAB.;Y;;BUILDING template;Kempische steenweg;100;B;;218275;181232
+HASSELT - FH10;NB-3500100C96322;1;0;0;1;SDU;Kempische steenweg100C;;Y;NA;2;4;;18 Units in CRAB.;Y;;BUILDING template;Kempische steenweg;100;C;;218259;181251
+HASSELT - FH10;NB-35001055290;1;0;0;1;SDU;Breughellaan10;;N;HEIGHT;2;4;Bouwgrond;Leeg perceel in GM. (2019);Y;;BUILDING template;Breughellaan;10;;;217553;181136
+HASSELT - FH10;NB-35001112127;1;0;0;1;SDU;Schildknapenstraat11;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Schildknapenstraat;11;;;217433;181508
+HASSELT - FH10;NB-350011873884;1;0;0;1;SDU;Thonissenlaan118;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Thonissenlaan;118;;;218225;180887
+HASSELT - FH10;NB-350012054728;1;0;0;1;SDU;Lazarijstraat120;;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Lazarijstraat;120;;;217662;181066
+HASSELT - FH10;NB-350012324777;1;0;0;1;SDU;Oude Kuringerbaan123;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Oude Kuringerbaan;123;;;216905;181128
+HASSELT - FH10;NB-3500125074;1;0;0;1;SDU;Oeverstraat1;;Y;NA;2;4;;14 Units in CRAB, 8 bussen in GM.;Y;;BUILDING template;Oeverstraat;1;;;218206;181382
+HASSELT - FH10;NB-35001346995;1;0;0;1;SDU;Tenierslaan13;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Tenierslaan;13;;;217474;181311
+HASSELT - FH10;NB-350013798107;1;0;0;1;SDU;Korte Breestraat137;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Korte Breestraat;137;;;217369;181528
+HASSELT - FH10;NB-350014169471;1;0;0;1;SDU;Korte Breestraat141;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Korte Breestraat;141;;;217368;181545
+HASSELT - FH10;NB-35001421571;1;0;0;1;SDU;Kempische steenweg14;;Y;NA;2;4;;9 Units in CRAB, volgens Lara nieuwbouw.;Y;;BUILDING template;Kempische steenweg;14;;;218241;180929
+HASSELT - FH10;NB-350014529411;1;0;0;1;SDU;Korte Breestraat145;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Korte Breestraat;145;;;217362;181560
+HASSELT - FH10;NB-35001488374;1;0;0;1;SDU;van Dijcklaan14;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;van Dijcklaan;14;;;217604;181409
+HASSELT - FH10;NB-350014961292;1;0;0;1;SDU;Korte Breestraat149;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Korte Breestraat;149;;;217351;181573
+HASSELT - FH10;NB-350015370089;1;0;0;1;SDU;Korte Breestraat153;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Korte Breestraat;153;;;217345;181588
+HASSELT - FH10;NB-35001599511;1;0;0;1;SDU;Herkenrodesingel15;;Y;NA;2;4;;1 Unit in CRAB, zal BU op  GLV zijn.;Y;;BUILDING template;Herkenrodesingel;15;;;216790;181272
+HASSELT - FH10;NB-35001687668;1;0;0;1;SDU;Tenierslaan16;;Y;NA;2;4;;1 Unit in CRAB, MDU in GM.;Y;;BUILDING template;Tenierslaan;16;;;217464;181233
+HASSELT - FH10;NB-35001695972;1;0;0;1;SDU;Kempische steenweg16;;Y;NA;2;4;;1 Unit in CRAB, volgens Lara nieuwbouw.;Y;;BUILDING template;Kempische steenweg;16;;;218243;180936
+HASSELT - FH10;NB-35001797003;1;0;0;1;SDU;Goudsbloemstraat17;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Goudsbloemstraat;17;;;217167;181505
+HASSELT - FH10;NB-35001965620;1;0;0;1;SDU;Elfde-Liniestraat19;;Y;NA;2;4;;1 Unit in CRAB, appartements gebouw in GM.;Y;;BUILDING template;Elfde-Liniestraat;19;;;218887;180970
+HASSELT - FH10;NB-35002059137;1;0;0;1;SDU;Tenierslaan20;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Tenierslaan;20;;;217453;181220
+HASSELT - FH10;NB-35002141237;1;0;0;1;SDU;Armand Hertzstraat21;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Armand Hertzstraat;21;;;217893;181254
+HASSELT - FH10;NB-350021A22862;1;0;0;1;SDU;Kempische steenweg21A;;Y;NA;2;4;;1 Unit in CRAB, kan BU in GM zijn.;Y;;BUILDING template;Kempische steenweg;21;A;;218263;180937
+HASSELT - FH10;NB-35002224758;1;0;0;1;SDU;Panoramastraat22;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Panoramastraat;22;;;217287;181476
+HASSELT - FH10;NB-35002227110;1;0;0;1;SDU;Koning Boudewijnlaan22;;Y;NA;2;4;;stedelijk zwembad;Y;;BUILDING template;Koning Boudewijnlaan;22;;;218944;180933
+HASSELT - FH10;NB-35002353782;1;0;0;1;SDU;Gouverneur Verwilghensingel23;;Y;NA;2;4;;1 Unit in CRAB en GM. Japanse tuin Hasselt;Y;;BUILDING template;Gouverneur Verwilghensingel;23;;;219584;180897
+HASSELT - FH10;NB-35002478813;1;0;0;1;SDU;Elfde-Liniestraat24;;Y;NA;2;4;;2 Units in CRAB, 2 BU's in GM.;Y;;BUILDING template;Elfde-Liniestraat;24;;;218891;181333
+HASSELT - FH10;NB-35002561920;1;0;0;1;SDU;Armand Hertzstraat25;;Y;NA;2;4;Beschermd Erfgoed;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Armand Hertzstraat;25;;;217853;181316
+HASSELT - FH10;NB-35002615716;1;0;0;1;SDU;Kempische steenweg26;;Y;NA;2;4;;1 Unit in CRAB, 3 in GM. (26 A en B kunnen hier ook zitten);Y;;BUILDING template;Kempische steenweg;26;;;218255;181009
+HASSELT - FH10;NB-350026A97903;1;0;0;1;SDU;Kempische steenweg26A;;Y;NA;2;4;;1 Unit in CRAB, niet geheel duidelijk in GM.;Y;;BUILDING template;Kempische steenweg;26;A;;218258;181012
+HASSELT - FH10;NB-350026B16012;1;0;0;1;SDU;Kempische steenweg26B;;Y;NA;2;4;;1 Unit in CRAB, niet geheel duidelijk in GM.;Y;;BUILDING template;Kempische steenweg;26;B;;218258;181017
+HASSELT - FH10;NB-350028A55059;1;0;0;1;SDU;Martelarenlaan28A;;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Martelarenlaan;28;A;;218347;180849
+HASSELT - FH10;NB-3500305116;1;0;0;1;SDU;Tenierslaan3;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Tenierslaan;3;;;217584;181342
+HASSELT - FH10;NB-3500327669;1;0;0;1;SDU;Alverbergstraat3;;Y;NA;2;4;;Leeg perceel in GM. (2019);Y;;BUILDING template;Alverbergstraat;3;;;217025;181040
+HASSELT - FH10;NB-35003359725;1;0;0;1;SDU;Tenierslaan33;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Tenierslaan;33;;;217424;181244
+HASSELT - FH10;NB-3500342374;1;0;0;1;SDU;Gouverneur Verwilghensingel3;;Y;NA;2;4;;1 Unit in CRAB en GM. BU.;Y;;BUILDING template;Gouverneur Verwilghensingel;3;;;219062;181290
+HASSELT - FH10;NB-35003537774;1;0;0;1;SDU;Haarbemdenstraat35;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;35;;;217374;181598
+HASSELT - FH10;NB-3500356824;1;0;0;1;SDU;Oeverstraat3;;Y;NA;2;4;;18 Units in CRAB, 10 bellen in GM.;Y;;BUILDING template;Oeverstraat;3;;;218206;181409
+HASSELT - FH10;NB-35003616364;1;0;0;1;SDU;Panoramastraat36;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Panoramastraat;36;;;217307;181427
+HASSELT - FH10;NB-35003896579;1;0;0;1;SDU;Martelarenlaan38;;Y;NA;2;4;;1 Unit in CRAB, niet in GM.;Y;;BUILDING template;Martelarenlaan;38;;;218374;180826
+HASSELT - FH10;NB-35003902539;1;0;0;1;SDU;Kempische Kaai39;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Kempische Kaai;39;;;218122;181097
+HASSELT - FH10;NB-35003915800;1;0;0;1;SDU;Haarbemdenstraat39;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;39;;;217391;181594
+HASSELT - FH10;NB-35003B74596;1;0;0;1;SDU;Vildersstraat3B;;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Vildersstraat;3;B;;218564;181003
+HASSELT - FH10;NB-35004034903;1;0;0;1;SDU;Martelarenlaan40;;Y;NA;2;4;;1 Unit in CRAB, niet in GM.;Y;;BUILDING template;Martelarenlaan;40;;;218382;180829
+HASSELT - FH10;NB-35004082507;1;0;0;1;SDU;Havenstraat40;;Y;NA;2;4;;1 Unit Volgens CRAB, onduidelijk in GM.;Y;;BUILDING template;Havenstraat;40;;;218160;181350
+HASSELT - FH10;NB-35004328365;1;0;0;1;SDU;Haarbemdenstraat43;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;43;;;217408;181596
+HASSELT - FH10;NB-35004542998;1;0;0;1;SDU;Kempische Kaai45;;N;HEIGHT;2;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Kempische Kaai;45;;;218103;181144
+HASSELT - FH10;NB-35004746068;1;0;0;1;SDU;Haarbemdenstraat47;;Y;NA;2;4;;3 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;47;;;217421;181606
+HASSELT - FH10;NB-35004795086;1;0;0;1;SDU;Kempische Kaai47;;N;HEIGHT;2;4;Bouwgrond;Bouwgrond;Y;;BUILDING template;Kempische Kaai;47;;;218100;181160
+HASSELT - FH10;NB-3500494600;1;0;0;1;SDU;Martelarenlaan4;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Martelarenlaan;4;;;218276;180868
+HASSELT - FH10;NB-35005585628;1;0;0;1;SDU;Haarbemdenstraat55;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;55;;;217471;181602
+HASSELT - FH10;NB-35005B88892;1;0;0;1;SDU;Herkenrodesingel5B;;Y;NA;2;4;;7 Units in CRAB, onduidelijk in GM.;Y;;BUILDING template;Herkenrodesingel;5;B;;216792;181166
+HASSELT - FH10;NB-35005C87134;1;0;0;1;SDU;Herkenrodesingel5C;;Y;NA;2;4;;7 Units in CRAB, onduidelijk in GM.;Y;;BUILDING template;Herkenrodesingel;5;C;;216779;181172
+HASSELT - FH10;NB-35005D67099;1;0;0;1;SDU;Herkenrodesingel5D;;Y;NA;2;4;;12 Units in CRAB, onduidelijk in GM.;Y;;BUILDING template;Herkenrodesingel;5;D;;216766;181179
+HASSELT - FH10;NB-3500600827;1;0;0;1;SDU;Kempische steenweg6;;Y;NA;2;4;;1 Unit in CRAB, BU op GLV in GM.;Y;;BUILDING template;Kempische steenweg;6;;;218234;180907
+HASSELT - FH10;NB-35006487411;1;0;0;1;SDU;Armand Hertzstraat64;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Armand Hertzstraat;64;;;217816;181320
+HASSELT - FH10;NB-35007105487;1;0;0;1;SDU;Haarbemdenstraat71;;Y;NA;2;4;;3 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;71;;;217551;181614
+HASSELT - FH10;NB-3500716998;1;0;0;1;SDU;Vildersstraat7;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Vildersstraat;7;;;218684;180953
+HASSELT - FH10;NB-35007498280;1;0;0;1;SDU;Alverbergstraat74;;Y;NA;2;4;;1 Unit in CRAB, bestaat niet in GM.;Y;;BUILDING template;Alverbergstraat;74;;;217155;181418
+HASSELT - FH10;NB-35007539410;1;0;0;1;SDU;Gouverneur Verwilghensingel75;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Gouverneur Verwilghensingel;75;;;219615;180539
+HASSELT - FH10;NB-35007543719;1;0;0;1;SDU;Haarbemdenstraat75;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;75;;;217567;181607
+HASSELT - FH10;NB-35007939115;1;0;0;1;SDU;Haarbemdenstraat79;;Y;NA;2;4;;2 Units in CRAB en GM.;Y;;BUILDING template;Haarbemdenstraat;79;;;217583;181609
+HASSELT - FH10;NB-35007A38115;1;0;0;1;SDU;Alverbergstraat7A;;Y;NA;2;4;;1 Unit in CRAB, bestaat niet in GM.;Y;;BUILDING template;Alverbergstraat;7;A;;217091;181085
+HASSELT - FH10;NB-35007A41832;1;0;0;1;SDU;Herkenrodesingel7A;;Y;NA;2;4;;2 Units in CRAB, geen street view;Y;;BUILDING template;Herkenrodesingel;7;A;;216787;181212
+HASSELT - FH10;NB-35007B20172;1;0;0;1;SDU;Herkenrodesingel7B;;Y;NA;2;4;;6 Units in CRAB, geen street view;Y;;BUILDING template;Herkenrodesingel;7;B;;216800;181205
+HASSELT - FH10;NB-35007C79202;1;0;0;1;SDU;Herkenrodesingel7C;;Y;NA;2;4;;12 Units in CRAB, geen street view;Y;;BUILDING template;Herkenrodesingel;7;C;;216812;181198
+HASSELT - FH10;NB-35007D66491;1;0;0;1;SDU;Herkenrodesingel7D;;Y;NA;2;4;;10 Units in CRAB, geen street view;Y;;BUILDING template;Herkenrodesingel;7;D;;216825;181190
+HASSELT - FH10;NB-3500845742;1;0;0;1;SDU;Jordaenslaan8;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Jordaenslaan;8;;;217629;181481
+HASSELT - FH10;NB-3500869474;1;0;0;1;SDU;Breughellaan8;;Y;NA;2;4;;Leeg perceel in GM. (2019);Y;;BUILDING template;Breughellaan;8;;;217574;181146
+HASSELT - FH10;NB-35009511175;1;0;0;1;SDU;Gouverneur Verwilghensingel95;;Y;NA;2;4;;9 Units in CRAB, aantal onduidelijk in GM.;Y;;BUILDING template;Gouverneur Verwilghensingel;95;;;219616;180332
+HASSELT - FH10;NB-35009A07511;1;0;0;1;SDU;Rubenslaan9A;;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Rubenslaan;9;A;;217684;181329

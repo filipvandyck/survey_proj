@@ -1,0 +1,509 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+MECHELEN - FH02;Units lu diff;10964;BL0222;2.0;29278273;10964;;;;Van Benedenlaan;10;;;;2020-07-15;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;10964;BL0222;2.0;29278273;10964;;;;Van Benedenlaan;10;;;;2020-07-15;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;10964;BL0222;2.0;29278273;10964;;;;Van Benedenlaan;10;;;;2020-07-15;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;10964;BL0222;2.0;29278273;10964;;;;Van Benedenlaan;10;;;;2020-07-15;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;10970;BL0207;2.0;425234;10970;37766636;Korenmarkt 55_Moensstraat 1;Korenmarkt 55_Moensstraat 1;Korenmarkt;55;;D;;2019-12-10 18:10:11;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;10986;BL0232;6.0;425239;10986;;;;Hendrik Speecqvest;2;;C;B;2020-08-04;Andreas Versteeven;MDU;1;6;1;8;2;5;1;8;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;10986;BL0232;6.0;425239;10986;;;;Hendrik Speecqvest;2;;C;;2020-08-04;Andreas Versteeven;MDU;1;6;1;8;2;5;1;8;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;10986;BL0232;6.0;425239;10986;;;;Hendrik Speecqvest;2;;C;;2020-08-04;Andreas Versteeven;MDU;1;6;1;8;2;5;1;8;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;1279994;BL0232;6.0;425367;1279994;;;;Hendrik Speecqvest;60;;XA;;2020-08-04;Andreas Versteeven;MDU;0;5;1;6;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;1279994;BL0232;6.0;425367;1279994;;;;Hendrik Speecqvest;60;;XA;;2020-08-04;Andreas Versteeven;MDU;0;5;1;6;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;1279994;BL0232;6.0;425367;1279994;;;;Hendrik Speecqvest;60;;XA;B;2020-08-04;Andreas Versteeven;MDU;0;5;1;6;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;1279994;BL0232;6.0;425367;1279994;;;;Hendrik Speecqvest;60;;XA;;2020-08-04;Andreas Versteeven;MDU;0;5;1;6;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;1319767;BL0201;5.0;425443;1319767;;;;Zoutwerf;9;;D;B;2020-08-13;Andreas Versteeven;MDU;0;3;1;4;0;3;1;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;1322034;BL0205;3.0;425449;1322034;11447130;Hanswijkstraat 37-37A;Hanswijkstraat 37-37A;Hanswijkstraat;37;;XA;;2020-08-10;Andreas Versteeven;MDU;0;7;1;8;0;8;1;9;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;1322034;BL0205;3.0;425449;1322034;11447130;Hanswijkstraat 37-37A;Hanswijkstraat 37-37A;Hanswijkstraat;37;;XA;B;2020-08-10;Andreas Versteeven;MDU;0;7;1;8;0;8;1;9;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;1322034;BL0205;3.0;425449;1322034;11447130;Hanswijkstraat 37-37A;Hanswijkstraat 37-37A;Hanswijkstraat;37;;XA;;2020-08-10;Andreas Versteeven;MDU;0;7;1;8;0;8;1;9;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;1492144;BL0225;1.0;7092697;1492144;35331825;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;91;;XA;;2020-08-14;Wim Lambrechts;MDU;0;15;1;16;0;36;1;37;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;1492144;BL0225;1.0;7092697;1492144;35331825;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;91;;XA;;2020-08-14;Wim Lambrechts;MDU;0;15;1;16;0;36;1;37;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;1492144;BL0225;1.0;7092697;1492144;35331825;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;91;;XA;B;2020-08-14;Wim Lambrechts;MDU;0;15;1;16;0;36;1;37;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;1492145;BL0225;1.0;7092698;1492145;35331836;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;95;;XA;B;2020-08-14;Wim Lambrechts;MDU;0;10;1;11;0;12;1;13;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;1492145;BL0225;1.0;7092698;1492145;35331836;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;95;;XA;;2020-08-14;Wim Lambrechts;MDU;0;10;1;11;0;12;1;13;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;1492145;BL0225;1.0;7092698;1492145;35331836;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;95;;XA;;2020-08-14;Wim Lambrechts;MDU;0;10;1;11;0;12;1;13;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;173456;BL0211;4.0;425941;173456;;;;Louizastraat;2;;XC;;2020-07-22;Andreas Versteeven;MDU;1;3;1;5;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;173456;BL0211;4.0;425941;173456;;;;Louizastraat;2;;XC;;2020-07-22;Andreas Versteeven;MDU;1;3;1;5;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;174161;BL0202;5.0;425950;174161;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;20;;XC;;2020-08-27;Andreas Versteeven;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;174161;BL0202;5.0;425950;174161;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;20;;XC;;2020-08-27;Andreas Versteeven;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;174162;BL0202;5.0;425951;174162;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;18;;XC;;2020-08-27;Andreas Versteeven;MDU;0;7;0;7;0;14;1;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;174162;BL0202;5.0;425951;174162;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;18;;XC;;2020-08-27;Andreas Versteeven;MDU;0;7;0;7;0;14;1;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;174162;BL0202;5.0;425951;174162;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;18;;XC;;2020-08-27;Andreas Versteeven;MDU;0;7;0;7;0;14;1;15;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3028987;BL0226;1.0;426616;3028987;;;;Koning Albertplein;7;;XC;;2020-08-06;Andreas Versteeven;MDU;0;5;1;6;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3028987;BL0226;1.0;426616;3028987;;;;Koning Albertplein;7;;XC;;2020-08-06;Andreas Versteeven;MDU;0;5;1;6;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3028987;BL0226;1.0;426616;3028987;;;;Koning Albertplein;7;;XC;;2020-08-06;Andreas Versteeven;MDU;0;5;1;6;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3028987;BL0226;1.0;426616;3028987;;;;Koning Albertplein;7;;XC;B;2020-08-06;Andreas Versteeven;MDU;0;5;1;6;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3028991;BL0229;3.0;426617;3028991;11447161;Koning Albertplein 12-12A;Koning Albertplein 12-12A;Koning Albertplein;12;;XC;;2020-08-11;Andreas Versteeven;MDU;2;3;1;6;2;5;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3028991;BL0229;3.0;426617;3028991;11447161;Koning Albertplein 12-12A;Koning Albertplein 12-12A;Koning Albertplein;12;;XC;B;2020-08-11;Andreas Versteeven;MDU;2;3;1;6;2;5;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3028991;BL0229;3.0;426617;3028991;11447161;Koning Albertplein 12-12A;Koning Albertplein 12-12A;Koning Albertplein;12;;XC;;2020-08-11;Andreas Versteeven;MDU;2;3;1;6;2;5;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3028991;BL0229;3.0;426617;3028991;11447161;Koning Albertplein 12-12A;Koning Albertplein 12-12A;Koning Albertplein;12;;XC;;2020-08-11;Andreas Versteeven;MDU;2;3;1;6;2;5;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3028992;BL0229;3.0;11440004;3028992;11447161;Koning Albertplein 12-12A;Koning Albertplein 12-12A;Koning Albertplein;12;A;XC;B;2020-09-02;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3031760;BL0222;2.0;428404;3031760;;;;Brusselsepoortstraat;5;;XC;;2020-07-29;Andreas Versteeven;MDU;1;4;1;6;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3031760;BL0222;2.0;428404;3031760;;;;Brusselsepoortstraat;5;;XC;;2020-07-29;Andreas Versteeven;MDU;1;4;1;6;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3031822;BL0218;4.0;7092701;3031822;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat;50;;XA;;2020-08-14 10:55:05;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3032450;BL0229;3.0;428768;3032450;;;;Colomastraat;5;;;;2020-08-03;Andreas Versteeven;SDU;0;1;0;1;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3032450;BL0229;3.0;428768;3032450;;;;Colomastraat;5;;;B;2020-08-03;Andreas Versteeven;SDU;0;1;0;1;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3032450;BL0229;3.0;428768;3032450;;;;Colomastraat;5;;;;2020-08-03;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;3032450;BL0229;3.0;428768;3032450;;;;Colomastraat;5;;;;2020-08-03;Andreas Versteeven;SDU;0;1;0;1;0;7;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3032485;BL0229;3.0;428790;3032485;;;;Colomastraat;47;;XC;;2020-07-28;Andreas Versteeven;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3032485;BL0229;3.0;428790;3032485;;;;Colomastraat;47;;XC;;2020-07-28;Andreas Versteeven;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3032495;BL0230;3.0;428795;3032495;;;;Hendrik Consciencestraat;19;;;;2020-08-04;Andreas Versteeven;SDU;1;0;0;1;1;17;0;18;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3032495;BL0230;3.0;428795;3032495;;;;Hendrik Consciencestraat;19;;;;2020-08-04;Andreas Versteeven;SDU;1;0;0;1;1;17;0;18;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3032495;BL0230;3.0;428795;3032495;;;;Hendrik Consciencestraat;19;;;B;2020-08-04;Andreas Versteeven;SDU;1;0;0;1;1;17;0;18;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3032495;BL0230;3.0;428795;3032495;;;;Hendrik Consciencestraat;19;;;;2020-08-04;Andreas Versteeven;SDU;1;0;0;1;;;;;N;;BUILDING template
+MECHELEN - FH02;Quadrant diff;3035721;BL0201;5.0;7092703;3035721;;;;Guldenstraat;29;;XC;X;2020-07-31;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3035721;BL0201;5.0;7092703;3035721;;;;Guldenstraat;29;;XC;;2020-07-31;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3035721;BL0201;5.0;7092703;3035721;;;;Guldenstraat;29;;XC;;2020-07-31;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3035721;BL0201;5.0;7092703;3035721;;;;Guldenstraat;29;;XC;;2020-07-31;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3035721;BL0201;5.0;7092703;3035721;;;;Guldenstraat;29;;XC;;2020-07-31;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3036017;BL0205;3.0;430878;3036017;11447171;Hanswijkstraat 1-3-5;Hanswijkstraat 1-3-5;Hanswijkstraat;3;;XC;;2020-08-10;Andreas Versteeven;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3036017;BL0205;3.0;430878;3036017;11447171;Hanswijkstraat 1-3-5;Hanswijkstraat 1-3-5;Hanswijkstraat;3;;XC;B;2020-08-10;Andreas Versteeven;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3036017;BL0205;3.0;430878;3036017;11447171;Hanswijkstraat 1-3-5;Hanswijkstraat 1-3-5;Hanswijkstraat;3;;XC;;2020-08-10;Andreas Versteeven;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3036018;BL0216;3.0;7092704;3036018;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;4;;D;;2020-08-21;Andreas Versteeven;MDU;1;0;0;1;3;9;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3036018;BL0216;3.0;7092704;3036018;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;4;;D;;2020-08-21;Andreas Versteeven;MDU;1;0;0;1;3;9;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036018;BL0216;3.0;7092704;3036018;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;4;;D;;2020-08-21;Andreas Versteeven;MDU;1;0;0;1;3;9;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3036018;BL0216;3.0;7092704;3036018;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;4;;D;;2020-08-21;Andreas Versteeven;MDU;1;0;0;1;3;9;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036026;BL0205;3.0;430884;3036026;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;15;;A;;2020-08-11;Andreas Versteeven;MDU;0;11;1;12;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3036026;BL0205;3.0;430884;3036026;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;15;;A;;2020-08-11;Andreas Versteeven;MDU;0;11;1;12;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3036026;BL0205;3.0;430884;3036026;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;15;;A;;2020-08-11;Andreas Versteeven;MDU;0;11;1;12;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3036026;BL0205;3.0;430884;3036026;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;15;;A;;2020-08-11;Andreas Versteeven;MDU;0;11;1;12;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3036026;BL0205;3.0;430884;3036026;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;15;;A;B;2020-08-11;Andreas Versteeven;MDU;0;11;1;12;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3036030;BL0205;3.0;430885;3036030;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;17;;A;;2020-08-11;Andreas Versteeven;MDU;4;0;0;4;0;12;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3036030;BL0205;3.0;430885;3036030;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;17;;A;;2020-08-11;Andreas Versteeven;MDU;4;0;0;4;0;12;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3036030;BL0205;3.0;430885;3036030;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;17;;A;B;2020-08-11;Andreas Versteeven;MDU;4;0;0;4;0;12;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3036030;BL0205;3.0;430885;3036030;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;17;;A;;2020-08-11;Andreas Versteeven;MDU;4;0;0;4;0;12;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036030;BL0205;3.0;430885;3036030;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;17;;A;;2020-08-11;Andreas Versteeven;MDU;4;0;0;4;0;12;1;13;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3036035;BL0205;3.0;11440066;3036035;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;19;;A;;2020-08-11;Andreas Versteeven;MDU;1;0;0;1;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3036035;BL0205;3.0;11440066;3036035;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;19;;A;B;2020-08-11;Andreas Versteeven;MDU;1;0;0;1;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3036035;BL0205;3.0;11440066;3036035;11447166;Hanswijkstraat 15-17-19;Hanswijkstraat 15-17-19;Hanswijkstraat;19;;A;;2020-08-11;Andreas Versteeven;MDU;1;0;0;1;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036054;BL0216;3.0;430896;3036054;;;;Hanswijkstraat;42;;;;2020-07-15 11:40:09;Andreas Versteeven;SDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3036054;BL0216;3.0;430896;3036054;;;;Hanswijkstraat;42;;;;2020-07-15 11:40:09;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;3036054;BL0216;3.0;430896;3036054;;;;Hanswijkstraat;42;;;;2020-07-15 11:40:09;Andreas Versteeven;SDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036055;BL0216;3.0;430897;3036055;;;;Hanswijkstraat;44;;;;2020-07-15 11:45:07;Andreas Versteeven;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3036055;BL0216;3.0;430897;3036055;;;;Hanswijkstraat;44;;;;2020-07-15 11:45:07;Andreas Versteeven;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036066;BL0216;3.0;430902;3036066;;;;Hanswijkstraat;56;;XA;;2020-07-16;Andreas Versteeven;MDU;1;5;1;7;0;6;1;7;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3036066;BL0216;3.0;430902;3036066;;;;Hanswijkstraat;56;;XA;;2020-07-16;Andreas Versteeven;MDU;1;5;1;7;0;6;1;7;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3036066;BL0216;3.0;430902;3036066;;;;Hanswijkstraat;56;;XA;;2020-07-16;Andreas Versteeven;MDU;1;5;1;7;0;6;1;7;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3036075;BL0216;3.0;430906;3036075;;;;Hanswijkstraat;62;;;;2020-07-15 11:50:06;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units bu diff;3036075;BL0216;3.0;430906;3036075;;;;Hanswijkstraat;62;;;;2020-07-15 11:50:06;Andreas Versteeven;SDU;1;0;0;1;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3036075;BL0216;3.0;430906;3036075;;;;Hanswijkstraat;62;;;;2020-07-15 11:50:06;Andreas Versteeven;SDU;1;0;0;1;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3036075;BL0216;3.0;430906;3036075;;;;Hanswijkstraat;62;;;;2020-07-15 11:50:06;Andreas Versteeven;SDU;1;0;0;1;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3036088;BL0216;3.0;430913;3036088;;;;Hanswijkstraat;80;;XC;X;2020-07-24;Andreas Versteeven;MDU;4;0;0;4;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3037252;BL0208;2.0;431542;3037252;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;;D;;2020-08-07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3037252;BL0208;2.0;431542;3037252;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;;D;;2020-08-07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3037252;BL0208;2.0;431542;3037252;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;;D;;2020-08-07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3037252;BL0208;2.0;431542;3037252;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;;D;;2020-08-07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3037260;BL0208;2.0;431547;3037260;;;;Hoogstraat;13;;D;B;2020-08-12;Andreas Versteeven;MDU;1;2;0;3;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3037269;BL0208;2.0;431552;3037269;;;;Hoogstraat;19;;D;;2020-07-16 11:35:06;Andreas Versteeven;MDU;1;1;1;3;;;;;N;;BUILDING template
+MECHELEN - FH02;Quadrant diff;3037269;BL0208;2.0;431552;3037269;;;;Hoogstraat;19;;D;;2020-07-16 11:35:06;Andreas Versteeven;MDU;1;1;1;3;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3037269;BL0208;2.0;431552;3037269;;;;Hoogstraat;19;;D;;2020-07-16 11:35:06;Andreas Versteeven;MDU;1;1;1;3;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3037269;BL0208;2.0;431552;3037269;;;;Hoogstraat;19;;D;;2020-07-16 11:35:06;Andreas Versteeven;MDU;1;1;1;3;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3037269;BL0208;2.0;431552;3037269;;;;Hoogstraat;19;;D;;2020-07-16 11:35:06;Andreas Versteeven;MDU;1;1;1;3;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3037279;BL0220;2.0;431559;3037279;;;;Hoogstraat;31;;XC;;2020-07-27;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3037279;BL0220;2.0;431559;3037279;;;;Hoogstraat;31;;XC;;2020-07-27;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3037279;BL0220;2.0;431559;3037279;;;;Hoogstraat;31;;XC;;2020-07-27;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3037279;BL0220;2.0;431559;3037279;;;;Hoogstraat;31;;XC;;2020-07-27;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3037284;BL0220;2.0;431563;3037284;;;;Hoogstraat;37;;XC;;2020-07-27;Andreas Versteeven;MDU;1;4;1;6;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3037284;BL0220;2.0;431563;3037284;;;;Hoogstraat;37;;XC;;2020-07-27;Andreas Versteeven;MDU;1;4;1;6;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3037286;BL0220;2.0;431564;3037286;;;;Hoogstraat;43;;D;B;2020-08-05;Andreas Versteeven;MDU;1;3;1;5;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3037286;BL0220;2.0;431564;3037286;;;;Hoogstraat;43;;D;;2020-08-05;Andreas Versteeven;MDU;1;3;1;5;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3037286;BL0220;2.0;431564;3037286;;;;Hoogstraat;43;;D;;2020-08-05;Andreas Versteeven;MDU;1;3;1;5;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3037286;BL0220;2.0;431564;3037286;;;;Hoogstraat;43;;D;;2020-08-05;Andreas Versteeven;MDU;1;3;1;5;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3037302;BL0220;2.0;7092708;3037302;;;;Hoogstraat;61;;XC;;2020-07-27;Andreas Versteeven;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3037302;BL0220;2.0;7092708;3037302;;;;Hoogstraat;61;;XC;;2020-07-27;Andreas Versteeven;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3039430;BL0206;5.0;432736;3039430;;;;Korenmarkt;15;;D;;2020-07-13 16:40:04;Andreas Versteeven;MDU;1;3;0;4;2;3;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3039430;BL0206;5.0;432736;3039430;;;;Korenmarkt;15;;D;;2020-07-13 16:40:04;Andreas Versteeven;MDU;1;3;0;4;2;3;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3039430;BL0206;5.0;432736;3039430;;;;Korenmarkt;15;;D;;2020-07-13 16:40:04;Andreas Versteeven;MDU;1;3;0;4;2;3;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3040843;BL0227;1.0;433570;3040843;;;;Leopoldstraat;3;;XC;;2020-08-03;Andreas Versteeven;MDU;0;3;0;3;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3040843;BL0227;1.0;433570;3040843;;;;Leopoldstraat;3;;XC;;2020-08-03;Andreas Versteeven;MDU;0;3;0;3;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3040843;BL0227;1.0;433570;3040843;;;;Leopoldstraat;3;;XC;B;2020-08-03;Andreas Versteeven;MDU;0;3;0;3;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3040923;BL0226;1.0;433607;3040923;;;;Leopoldstraat;82;;XA;;2020-08-03;Andreas Versteeven;MDU;0;14;1;15;0;14;0;14;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3040923;BL0226;1.0;433607;3040923;;;;Leopoldstraat;82;;XA;B;2020-08-03;Andreas Versteeven;MDU;0;14;1;15;0;14;0;14;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3040923;BL0226;1.0;433607;3040923;;;;Leopoldstraat;82;;XA;;2020-08-03;Andreas Versteeven;MDU;0;14;1;15;0;14;0;14;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3040930;BL0226;1.0;433610;3040930;;;;Leopoldstraat;88;;X;D;2020-07-13;Andreas Versteeven;MDU;1;3;0;4;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3042462;BL0219;2.0;7092713;3042462;;;;Louizastraat;14;;XC;;2020-08-05;Andreas Versteeven;MDU;1;3;0;4;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3042462;BL0219;2.0;7092713;3042462;;;;Louizastraat;14;;XC;;2020-08-05;Andreas Versteeven;MDU;1;3;0;4;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3042462;BL0219;2.0;7092713;3042462;;;;Louizastraat;14;;XC;B;2020-08-05;Andreas Versteeven;MDU;1;3;0;4;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3042478;BL0218;4.0;434436;3042478;;Louizastraat 27-29;Louizastraat 27-29;Louizastraat;27;;D;;2020-08-17 09:20:10;Andreas Versteeven;MDU;1;1;0;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3042478;BL0218;4.0;434436;3042478;;Louizastraat 27-29;Louizastraat 27-29;Louizastraat;27;;D;;2020-08-17 09:20:10;Andreas Versteeven;MDU;1;1;0;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3042478;BL0218;4.0;434436;3042478;;Louizastraat 27-29;Louizastraat 27-29;Louizastraat;27;;D;;2020-08-17 09:20:10;Andreas Versteeven;MDU;1;1;0;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3042481;BL0218;4.0;434438;3042481;;Louizastraat 27-29;Louizastraat 27-29;Louizastraat;29;;D;;2020-08-17;Andreas Versteeven;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3042485;BL0218;4.0;434440;3042485;;;;Louizastraat;33;;XC;;2020-07-22;Andreas Versteeven;MDU;1;9;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3042485;BL0218;4.0;434440;3042485;;;;Louizastraat;33;;XC;;2020-07-22;Andreas Versteeven;MDU;1;9;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3042485;BL0218;4.0;434440;3042485;;;;Louizastraat;33;;XC;;2020-07-22;Andreas Versteeven;MDU;1;9;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3042485;BL0218;4.0;434440;3042485;;;;Louizastraat;33;;XC;;2020-07-22;Andreas Versteeven;MDU;1;9;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3043143;BL0208;2.0;7092714;3043143;;Milsenstraat 11-13;Milsenstraat 11-13;Milsenstraat;13;;D;;2020-08-13;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3044627;BL0218;4.0;21681386;3044627;;;;Lange Nieuwstraat;9;;D;B;2020-08-05;Andreas Versteeven;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3045054;BL0201;5.0;435740;3045054;35324445;;;Onze-Lieve-Vrouwestraat;21;;;C;2019-12-10 13:20:23;Wim Lambrechts;SDU;0;0;0;0;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3045054;BL0201;5.0;435740;3045054;35324445;;;Onze-Lieve-Vrouwestraat;21;;;;2019-12-10 13:20:23;Wim Lambrechts;SDU;0;0;0;0;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3045054;BL0201;5.0;435740;3045054;35324445;;;Onze-Lieve-Vrouwestraat;21;;;;2019-12-10 13:20:23;Wim Lambrechts;SDU;0;0;0;0;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3045055;BL0201;5.0;21681429;3045055;35324445;;;Onze-Lieve-Vrouwestraat;23;;;;2019-12-10 13:20:23;Wim Lambrechts;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3045055;BL0201;5.0;21681429;3045055;35324445;;;Onze-Lieve-Vrouwestraat;23;;;C;2019-12-10 13:20:23;Wim Lambrechts;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3045055;BL0201;5.0;21681429;3045055;35324445;;;Onze-Lieve-Vrouwestraat;23;;;;2019-12-10 13:20:23;Wim Lambrechts;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3045087;BL0203;5.0;21681431;3045087;35324446;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat;61;;XC;;2020-08-27;Andreas Versteeven;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3045087;BL0203;5.0;21681431;3045087;35324446;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat;61;;XC;;2020-08-27;Andreas Versteeven;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3045087;BL0203;5.0;21681431;3045087;35324446;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat;61;;XC;;2020-08-27;Andreas Versteeven;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3045113;BL0204;5.0;435765;3045113;;;;Onze-Lieve-Vrouwestraat;83;;D;;2020-08-05;Andreas Versteeven;MDU;0;4;1;5;4;1;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3045113;BL0204;5.0;435765;3045113;;;;Onze-Lieve-Vrouwestraat;83;;D;;2020-08-05;Andreas Versteeven;MDU;0;4;1;5;4;1;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3045113;BL0204;5.0;435765;3045113;;;;Onze-Lieve-Vrouwestraat;83;;D;;2020-08-05;Andreas Versteeven;MDU;0;4;1;5;4;1;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3045113;BL0204;5.0;435765;3045113;;;;Onze-Lieve-Vrouwestraat;83;;D;B;2020-08-05;Andreas Versteeven;MDU;0;4;1;5;4;1;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3045120;BL0204;5.0;435768;3045120;;;;Onze-Lieve-Vrouwestraat;89;;;;2020-07-30 10:35:04;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3045120;BL0204;5.0;435768;3045120;;;;Onze-Lieve-Vrouwestraat;89;;;;2020-07-30 10:35:04;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units bu diff;3045120;BL0204;5.0;435768;3045120;;;;Onze-Lieve-Vrouwestraat;89;;;;2020-07-30 10:35:04;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3045129;BL0204;5.0;435773;3045129;;;;Onze-Lieve-Vrouwestraat;103;;;D;2020-07-15 11:30:30;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3045129;BL0204;5.0;435773;3045129;;;;Onze-Lieve-Vrouwestraat;103;;;;2020-07-15 11:30:30;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3045129;BL0204;5.0;435773;3045129;;;;Onze-Lieve-Vrouwestraat;103;;;;2020-07-15 11:30:30;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3045129;BL0204;5.0;435773;3045129;;;;Onze-Lieve-Vrouwestraat;103;;;;2020-07-15 11:30:30;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;3045135;BL0204;5.0;11439771;3045135;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;107;;XC;B;2020-08-26 15:25:05;Andreas Versteeven;MDU;0;3;1;4;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3045135;BL0204;5.0;11439771;3045135;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;107;;XC;;2020-08-26 15:25:05;Andreas Versteeven;MDU;0;3;1;4;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3045135;BL0204;5.0;11439771;3045135;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;107;;XC;;2020-08-26 15:25:05;Andreas Versteeven;MDU;0;3;1;4;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3045135;BL0204;5.0;11439771;3045135;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;107;;XC;;2020-08-26 15:25:05;Andreas Versteeven;MDU;0;3;1;4;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3046674;BL0205;3.0;436596;3046674;35329010;Raghenoplein 17-19;Raghenoplein 17-19;Raghenoplein;17;;C;B;2020-08-11;Andreas Versteeven;MDU;1;0;1;2;2;6;1;9;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3046674;BL0205;3.0;436596;3046674;35329010;Raghenoplein 17-19;Raghenoplein 17-19;Raghenoplein;17;;C;;2020-08-11;Andreas Versteeven;MDU;1;0;1;2;2;6;1;9;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3046674;BL0205;3.0;436596;3046674;35329010;Raghenoplein 17-19;Raghenoplein 17-19;Raghenoplein;17;;C;;2020-08-11;Andreas Versteeven;MDU;1;0;1;2;2;6;1;9;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3046674;BL0205;3.0;436596;3046674;35329010;Raghenoplein 17-19;Raghenoplein 17-19;Raghenoplein;17;;C;;2020-08-11;Andreas Versteeven;MDU;1;0;1;2;2;6;1;9;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3047930;BL0227;1.0;437170;3047930;37768146;Schuttersvest 2-4;Schuttersvest 2-4;Schuttersvest;2;;XA;;2020-07-14;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3047931;BL0218;4.0;7092716;3047931;;Schuttersvest 3-5;;Schuttersvest;3;;XA;;2020-09-01;Andreas Versteeven;MDU;0;12;1;13;0;18;0;18;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3047931;BL0218;4.0;7092716;3047931;;Schuttersvest 3-5;;Schuttersvest;3;;XA;;2020-09-01;Andreas Versteeven;MDU;0;12;1;13;0;18;0;18;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3047931;BL0218;4.0;7092716;3047931;;Schuttersvest 3-5;;Schuttersvest;3;;XA;;2020-09-01;Andreas Versteeven;MDU;0;12;1;13;0;18;0;18;Y;Y;BUILDING template
+MECHELEN - FH02;BG Name diff;3047931;BL0218;4.0;7092716;3047931;;Schuttersvest 3-5;;Schuttersvest;3;;XA;;2020-09-01;Andreas Versteeven;MDU;0;12;1;13;0;18;0;18;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3047941;BL0218;4.0;11439785;3047941;;Schuttersvest 3-5;;Schuttersvest;5;;XA;;2020-09-01;Andreas Versteeven;MDU;0;6;0;6;0;6;1;7;Y;Y;BUILDING template
+MECHELEN - FH02;BG Name diff;3047941;BL0218;4.0;11439785;3047941;;Schuttersvest 3-5;;Schuttersvest;5;;XA;;2020-09-01;Andreas Versteeven;MDU;0;6;0;6;0;6;1;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3047941;BL0218;4.0;11439785;3047941;;Schuttersvest 3-5;;Schuttersvest;5;;XA;;2020-09-01;Andreas Versteeven;MDU;0;6;0;6;0;6;1;7;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3047964;BL0227;1.0;437182;3047964;;;;Schuttersvest;22;;XC;;2020-07-31;Andreas Versteeven;MDU;4;1;0;5;4;1;1;6;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3047964;BL0227;1.0;437182;3047964;;;;Schuttersvest;22;;XC;;2020-07-31;Andreas Versteeven;MDU;4;1;0;5;4;1;1;6;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3047973;BL0218;4.0;437187;3047973;;;;Schuttersvest;27;;;;2020-07-30 17:27:02;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3047973;BL0218;4.0;437187;3047973;;;;Schuttersvest;27;;;;2020-07-30 17:27:02;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;3047973;BL0218;4.0;437187;3047973;;;;Schuttersvest;27;;;D;2020-07-30 17:27:02;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3047973;BL0218;4.0;437187;3047973;;;;Schuttersvest;27;;;;2020-07-30 17:27:02;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3047983;BL0227;1.0;437193;3047983;;;;Schuttersvest;34;;XC;;2020-07-29;Andreas Versteeven;MDU;0;5;1;6;0;4;1;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3047983;BL0227;1.0;437193;3047983;;;;Schuttersvest;34;;XC;;2020-07-29;Andreas Versteeven;MDU;0;5;1;6;0;4;1;5;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3047983;BL0227;1.0;437193;3047983;;;;Schuttersvest;34;;XC;D;2020-07-29;Andreas Versteeven;MDU;0;5;1;6;0;4;1;5;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3048005;BL0228;1.0;437203;3048005;;;;Schuttersvest;50;;;;2020-08-12;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units bu diff;3048005;BL0228;1.0;437203;3048005;;;;Schuttersvest;50;;;;2020-08-12;Andreas Versteeven;SDU;0;1;0;1;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3048005;BL0228;1.0;437203;3048005;;;;Schuttersvest;50;;;;2020-08-12;Andreas Versteeven;SDU;0;1;0;1;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3048005;BL0228;1.0;437203;3048005;;;;Schuttersvest;50;;;D;2020-08-12;Andreas Versteeven;SDU;0;1;0;1;2;1;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3048013;BL0218;4.0;437206;3048013;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;55;;XA;;2020-08-14;Andreas Versteeven;MDU;0;47;2;49;0;50;2;52;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3048013;BL0218;4.0;437206;3048013;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;55;;XA;;2020-08-14;Andreas Versteeven;MDU;0;47;2;49;0;50;2;52;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3048013;BL0218;4.0;437206;3048013;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;55;;XA;;2020-08-14;Andreas Versteeven;MDU;0;47;2;49;0;50;2;52;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3048018;BL0218;4.0;11440067;3048018;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;57;;XA;;2020-08-14 10:32:25;Andreas Versteeven;MDU;1;0;0;1;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3048018;BL0218;4.0;11440067;3048018;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;57;;XA;;2020-08-14 10:32:25;Andreas Versteeven;MDU;1;0;0;1;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3048018;BL0218;4.0;11440067;3048018;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;57;;XA;;2020-08-14 10:32:25;Andreas Versteeven;MDU;1;0;0;1;4;0;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3048021;BL0218;4.0;7092717;3048021;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;61;;XA;;2020-08-14;Andreas Versteeven;MDU;0;39;2;41;1;40;2;43;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3048021;BL0218;4.0;7092717;3048021;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;61;;XA;;2020-08-14;Andreas Versteeven;MDU;0;39;2;41;1;40;2;43;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3048021;BL0218;4.0;7092717;3048021;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;61;;XA;;2020-08-14;Andreas Versteeven;MDU;0;39;2;41;1;40;2;43;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3048021;BL0218;4.0;7092717;3048021;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;61;;XA;;2020-08-14;Andreas Versteeven;MDU;0;39;2;41;1;40;2;43;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3048212;BL0232;6.0;11439715;3048212;;;;Hendrik Speecqvest;18;;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;3048212;BL0232;6.0;11439715;3048212;;;;Hendrik Speecqvest;18;;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3048212;BL0232;6.0;11439715;3048212;;;;Hendrik Speecqvest;18;;;B;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3048212;BL0232;6.0;11439715;3048212;;;;Hendrik Speecqvest;18;;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3048226;BL0232;6.0;437300;3048226;;;;Hendrik Speecqvest;48;;D;B;2020-08-12;Andreas Versteeven;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3049022;BL0231;6.0;11439569;3049022;35331368;Stationsstraat 32-33;Stationsstraat 32-33;Stationsstraat;33;;D;;2020-09-01;Andreas Versteeven;MDU;0;2;0;2;0;6;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3049022;BL0231;6.0;11439569;3049022;35331368;Stationsstraat 32-33;Stationsstraat 32-33;Stationsstraat;33;;D;;2020-09-01;Andreas Versteeven;MDU;0;2;0;2;0;6;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3050667;BL0222;2.0;438525;3050667;;;;Vaartdijk;12;;D;C;2020-07-14;Andreas Versteeven;MDU;1;1;1;3;1;1;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3050674;BL0222;2.0;438529;3050674;;;;Vaartdijk;22;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3050674;BL0222;2.0;438529;3050674;;;;Vaartdijk;22;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3050674;BL0222;2.0;438529;3050674;;;;Vaartdijk;22;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;3050674;BL0222;2.0;438529;3050674;;;;Vaartdijk;22;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3050681;BL0222;2.0;7092722;3050681;;;;Vaartdijk;27;;XC;;2020-07-20;Andreas Versteeven;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3050681;BL0222;2.0;7092722;3050681;;;;Vaartdijk;27;;XC;;2020-07-20;Andreas Versteeven;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;3050737;BL0222;2.0;438559;3050737;11447181;;;Van Benedenlaan;14;;;;;;MDU;0;0;0;0;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3050737;BL0222;2.0;438559;3050737;11447181;;;Van Benedenlaan;14;;;;;;MDU;0;0;0;0;;;;;N;;BUILDING template
+MECHELEN - FH02;Quadrant diff;3050737;BL0222;2.0;438559;3050737;11447181;;;Van Benedenlaan;14;;;A;;;MDU;0;0;0;0;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3050737;BL0222;2.0;438559;3050737;11447181;;;Van Benedenlaan;14;;;;;;MDU;0;0;0;0;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3050739;BL0221;2.0;11439705;3050739;;;;Van Benedenlaan;15;;;;2020-07-15 09:25:45;Andreas Versteeven;SDU;1;0;0;1;3;0;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3050739;BL0221;2.0;11439705;3050739;;;;Van Benedenlaan;15;;;;2020-07-15 09:25:45;Andreas Versteeven;SDU;1;0;0;1;3;0;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3050739;BL0221;2.0;11439705;3050739;;;;Van Benedenlaan;15;;;;2020-07-15 09:25:45;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units bu diff;3050741;BL0222;2.0;438560;3050741;11447181;;;Van Benedenlaan;16;;A;;2020-08-28;Andreas Versteeven;MDU;1;12;1;14;0;12;1;13;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3050741;BL0222;2.0;438560;3050741;11447181;;;Van Benedenlaan;16;;A;;2020-08-28;Andreas Versteeven;MDU;1;12;1;14;0;12;1;13;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3050745;BL0221;2.0;438562;3050745;;;;Van Benedenlaan;19;;XC;;2020-07-28;Andreas Versteeven;MDU;2;4;1;7;1;7;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3050745;BL0221;2.0;438562;3050745;;;;Van Benedenlaan;19;;XC;;2020-07-28;Andreas Versteeven;MDU;2;4;1;7;1;7;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3050745;BL0221;2.0;438562;3050745;;;;Van Benedenlaan;19;;XC;;2020-07-28;Andreas Versteeven;MDU;2;4;1;7;1;7;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3050745;BL0221;2.0;438562;3050745;;;;Van Benedenlaan;19;;XC;;2020-07-28;Andreas Versteeven;MDU;2;4;1;7;1;7;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3050758;BL0222;2.0;438570;3050758;35332136;Van Benedenlaan 26-28;Van Benedenlaan 26-28;Van Benedenlaan;28;;A;;2020-08-28;Andreas Versteeven;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3050758;BL0222;2.0;438570;3050758;35332136;Van Benedenlaan 26-28;Van Benedenlaan 26-28;Van Benedenlaan;28;;A;;2020-08-28;Andreas Versteeven;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3050759;BL0221;2.0;438571;3050759;;;;Van Benedenlaan;31;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3050759;BL0221;2.0;438571;3050759;;;;Van Benedenlaan;31;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;3050759;BL0221;2.0;438571;3050759;;;;Van Benedenlaan;31;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3050759;BL0221;2.0;438571;3050759;;;;Van Benedenlaan;31;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3050766;BL0222;2.0;7092725;3050766;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;38;;D;;2020-08-10;Andreas Versteeven;MDU;0;3;1;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3050766;BL0222;2.0;7092725;3050766;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;38;;D;;2020-08-10;Andreas Versteeven;MDU;0;3;1;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3050766;BL0222;2.0;7092725;3050766;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;38;;D;B;2020-08-10;Andreas Versteeven;MDU;0;3;1;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3050786;BL0219;2.0;438587;3050786;;;;Van Benedenlaan;57;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3050786;BL0219;2.0;438587;3050786;;;;Van Benedenlaan;57;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;3050786;BL0219;2.0;438587;3050786;;;;Van Benedenlaan;57;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3050786;BL0219;2.0;438587;3050786;;;;Van Benedenlaan;57;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3050867;BL0216;3.0;438628;3050867;;;;Graaf van Egmontstraat;21;;XC;;2020-07-24;Andreas Versteeven;MDU;1;2;1;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3050867;BL0216;3.0;438628;3050867;;;;Graaf van Egmontstraat;21;;XC;;2020-07-24;Andreas Versteeven;MDU;1;2;1;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3053810;BL0207;2.0;440001;3053810;;;;Ziekeliedenstraat;22;;XC;A;2020-07-29;Andreas Versteeven;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3053934;BL0203;5.0;440051;3053934;35333436;;;Zoutwerf;25;;XC;;2020-08-28;Andreas Versteeven;MDU;0;8;1;9;0;11;0;11;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;3053934;BL0203;5.0;440051;3053934;35333436;;;Zoutwerf;25;;XC;;2020-08-28;Andreas Versteeven;MDU;0;8;1;9;0;11;0;11;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3053934;BL0203;5.0;440051;3053934;35333436;;;Zoutwerf;25;;XC;;2020-08-28;Andreas Versteeven;MDU;0;8;1;9;0;11;0;11;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3053935;BL0203;5.0;440052;3053935;35333436;;;Zoutwerf;26;;XC;;2020-08-28;Andreas Versteeven;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3053935;BL0203;5.0;440052;3053935;35333436;;;Zoutwerf;26;;XC;;2020-08-28;Andreas Versteeven;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;3053938;BL0203;5.0;440053;3053938;35333436;;;Zoutwerf;28;;XC;;2020-08-28;Andreas Versteeven;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3053938;BL0203;5.0;440053;3053938;35333436;;;Zoutwerf;28;;XC;;2020-08-28;Andreas Versteeven;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;333309;BL0229;3.0;440736;333309;11447163;Hendrik Consciencestraat 46-48;Hendrik Consciencestraat 46-48;Hendrik Consciencestraat;46;;XC;B;2020-08-11;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;333310;BL0229;3.0;35572674;333310;35318942;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat;42;;XC;;2020-09-01 12:15:09;Andreas Versteeven;MDU;0;2;0;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;333310;BL0229;3.0;35572674;333310;35318942;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat;42;;XC;;2020-09-01 12:15:09;Andreas Versteeven;MDU;0;2;0;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;333314;BL0229;3.0;440740;333314;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;14;;D;;2020-09-01 13:05:07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;BG Name diff;333314;BL0229;3.0;440740;333314;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;14;;D;;2020-09-01 13:05:07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;333314;BL0229;3.0;440740;333314;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;14;;D;;2020-09-01 13:05:07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;333314;BL0229;3.0;440740;333314;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;14;;D;;2020-09-01 13:05:07;Andreas Versteeven;MDU;0;2;0;2;;;;;N;;BUILDING template
+MECHELEN - FH02;Units total diff;333314;BL0229;3.0;440740;333314;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;14;;D;;2020-09-01 13:05:07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;333314;BL0229;3.0;440740;333314;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;14;;D;;2020-09-01 13:05:07;Andreas Versteeven;MDU;0;2;0;2;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;BG Name diff;333315;BL0229;3.0;440741;333315;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;12;;D;;2020-09-01 13:00:08;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;333315;BL0229;3.0;440741;333315;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;12;;D;;2020-09-01 13:00:08;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;333315;BL0229;3.0;440741;333315;;Hendrik Consciencestraat 12-14;;Hendrik Consciencestraat;12;;D;;2020-09-01 13:00:08;Andreas Versteeven;MDU;1;0;0;1;;;;;N;;BUILDING template
+MECHELEN - FH02;Units total diff;333325;BL0229;3.0;440751;333325;;;;Leopoldstraat;113;;;;2019-03-25 13:10:12;Wim Lambrechts;SDU;0;1;0;3;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;335237;BL0228;1.0;440754;335237;;;;Leopoldstraat;39;;D;B;2020-08-12;Andreas Versteeven;MDU;3;0;1;4;3;0;1;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;335238;BL0228;1.0;440755;335238;;;;Leopoldstraat;45;;D;;2020-07-15;Andreas Versteeven;MDU;1;1;0;2;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;335238;BL0228;1.0;440755;335238;;;;Leopoldstraat;45;;D;;2020-07-15;Andreas Versteeven;MDU;1;1;0;2;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;335242;BL0228;1.0;440757;335242;;;;Leopoldstraat;79;;;;2020-08-12;Andreas Versteeven;SDU;1;0;0;1;2;0;0;2;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;335242;BL0228;1.0;440757;335242;;;;Leopoldstraat;79;;;D;2020-08-12;Andreas Versteeven;SDU;1;0;0;1;2;0;0;2;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;335242;BL0228;1.0;440757;335242;;;;Leopoldstraat;79;;;;2020-08-12;Andreas Versteeven;SDU;1;0;0;1;;;;;N;;BUILDING template
+MECHELEN - FH02;Units bu diff;335242;BL0228;1.0;440757;335242;;;;Leopoldstraat;79;;;;2020-08-12;Andreas Versteeven;SDU;1;0;0;1;2;0;0;2;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;335257;BL0228;1.0;440765;335257;;;;Colomastraat;30;;XC;;2020-07-28;Andreas Versteeven;MDU;0;9;1;10;0;9;0;9;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;335257;BL0228;1.0;440765;335257;;;;Colomastraat;30;;XC;;2020-07-28;Andreas Versteeven;MDU;0;9;1;10;0;9;0;9;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;335263;BL0228;1.0;440767;335263;;;;Colomastraat;14;;D;;2020-08-12;Andreas Versteeven;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;335263;BL0228;1.0;440767;335263;;;;Colomastraat;14;;D;;2020-08-12;Andreas Versteeven;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;335263;BL0228;1.0;440767;335263;;;;Colomastraat;14;;D;C;2020-08-12;Andreas Versteeven;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;335349;BL0228;1.0;440772;335349;;;;Schuttersvest;94;;;;2020-07-30;Andreas Versteeven;SDU;0;1;0;1;0;3;1;4;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;335349;BL0228;1.0;440772;335349;;;;Schuttersvest;94;;;;2020-07-30;Andreas Versteeven;SDU;0;1;0;1;0;3;1;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;335349;BL0228;1.0;440772;335349;;;;Schuttersvest;94;;;;2020-07-30;Andreas Versteeven;SDU;0;1;0;1;0;3;1;4;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;335349;BL0228;1.0;440772;335349;;;;Schuttersvest;94;;;;2020-07-30;Andreas Versteeven;SDU;0;1;0;1;;;;;N;;BUILDING template
+MECHELEN - FH02;Quadrant diff;336411;BL0226;1.0;7092728;336411;;;;Van Kerckhovenstraat;13;;;B;2020-08-03;Andreas Versteeven;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;336411;BL0226;1.0;7092728;336411;;;;Van Kerckhovenstraat;13;;;;2020-08-03;Andreas Versteeven;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;336411;BL0226;1.0;7092728;336411;;;;Van Kerckhovenstraat;13;;;;2020-08-03;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;336411;BL0226;1.0;7092728;336411;;;;Van Kerckhovenstraat;13;;;;2020-08-03;Andreas Versteeven;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;336411;BL0226;1.0;7092728;336411;;;;Van Kerckhovenstraat;13;;;;2020-08-03;Andreas Versteeven;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;336413;BL0226;1.0;440777;336413;;;;Van Kerckhovenstraat;11;;D;;2020-07-16;Andreas Versteeven;MDU;0;9;0;9;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;336413;BL0226;1.0;440777;336413;;;;Van Kerckhovenstraat;11;;D;A;2020-07-16;Andreas Versteeven;MDU;0;9;0;9;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;336413;BL0226;1.0;440777;336413;;;;Van Kerckhovenstraat;11;;D;;2020-07-16;Andreas Versteeven;MDU;0;9;0;9;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;336421;BL0226;1.0;440783;336421;;;;Leopoldstraat;102;;D;B;2020-08-03;Andreas Versteeven;MDU;2;0;0;2;2;0;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;336873;BL0224;1.0;440786;336873;;;;Willem Geetsstraat;32;;XC;;2020-07-20;Andreas Versteeven;MDU;0;4;1;5;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;336873;BL0224;1.0;440786;336873;;;;Willem Geetsstraat;32;;XC;;2020-07-20;Andreas Versteeven;MDU;0;4;1;5;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;354060;BL0230;3.0;440813;354060;;;;Hendrik Consciencestraat;17;;XC;;2020-08-04;Andreas Versteeven;MDU;1;10;0;11;2;10;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;354060;BL0230;3.0;440813;354060;;;;Hendrik Consciencestraat;17;;XC;B;2020-08-04;Andreas Versteeven;MDU;1;10;0;11;2;10;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;354060;BL0230;3.0;440813;354060;;;;Hendrik Consciencestraat;17;;XC;;2020-08-04;Andreas Versteeven;MDU;1;10;0;11;2;10;0;12;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;354061;BL0230;3.0;440814;354061;;;;Hendrik Consciencestraat;13;;XC;;2020-08-04;Andreas Versteeven;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;354061;BL0230;3.0;440814;354061;;;;Hendrik Consciencestraat;13;;XC;;2020-08-04;Andreas Versteeven;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;354061;BL0230;3.0;440814;354061;;;;Hendrik Consciencestraat;13;;XC;B;2020-08-04;Andreas Versteeven;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;354064;BL0230;3.0;440816;354064;35318288;Hendrik Consciencestraat 3-5-7;Hendrik Consciencestraat 3-5-7;Hendrik Consciencestraat;3;;XC;;2020-08-07 13:35:04;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;354065;BL0230;3.0;21681352;354065;35318288;Hendrik Consciencestraat 3-5-7;Hendrik Consciencestraat 3-5-7;Hendrik Consciencestraat;5;;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;354066;BL0230;3.0;21681353;354066;35318288;Hendrik Consciencestraat 3-5-7;Hendrik Consciencestraat 3-5-7;Hendrik Consciencestraat;7;;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;354325;BL0231;6.0;440822;354325;;;;Stationsstraat;37;;XC;;2020-07-23;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;354325;BL0231;6.0;440822;354325;;;;Stationsstraat;37;;XC;;2020-07-23;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;356504;BL0222;2.0;440855;356504;;;;Vaartdijk;1;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;356504;BL0222;2.0;440855;356504;;;;Vaartdijk;1;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;356504;BL0222;2.0;440855;356504;;;;Vaartdijk;1;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;356504;BL0222;2.0;440855;356504;;;;Vaartdijk;1;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;356509;BL0222;2.0;440859;356509;;;;Vaartdijk;13;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;356509;BL0222;2.0;440859;356509;;;;Vaartdijk;13;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;356509;BL0222;2.0;440859;356509;;;;Vaartdijk;13;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;356509;BL0222;2.0;440859;356509;;;;Vaartdijk;13;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;373847;BL0208;2.0;7092733;373847;;;;Moensstraat;14;;XC;;2020-08-27;Andreas Versteeven;MDU;0;10;1;11;0;17;2;19;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;373847;BL0208;2.0;7092733;373847;;;;Moensstraat;14;;XC;;2020-08-27;Andreas Versteeven;MDU;0;10;1;11;0;17;2;19;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;373847;BL0208;2.0;7092733;373847;;;;Moensstraat;14;;XC;;2020-08-27;Andreas Versteeven;MDU;0;10;1;11;0;17;2;19;N;N;BUILDING template
+MECHELEN - FH02;Buildingtype diff;386394;BL0219;2.0;10473694;386394;;;;Van Benedenlaan;61;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units lu diff;386394;BL0219;2.0;10473694;386394;;;;Van Benedenlaan;61;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;386394;BL0219;2.0;10473694;386394;;;;Van Benedenlaan;61;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;386394;BL0219;2.0;10473694;386394;;;;Van Benedenlaan;61;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;386450;BL0218;4.0;440970;386450;;;;Louizastraat;31;;XC;;2020-07-22;Andreas Versteeven;MDU;0;10;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;386450;BL0218;4.0;440970;386450;;;;Louizastraat;31;;XC;A;2020-07-22;Andreas Versteeven;MDU;0;10;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;386450;BL0218;4.0;440970;386450;;;;Louizastraat;31;;XC;;2020-07-22;Andreas Versteeven;MDU;0;10;1;11;0;10;0;10;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;386459;BL0218;4.0;11439576;386459;;Louizastraat 35-37;Louizastraat 35-37;Louizastraat;35;;XC;;2020-07-15 16:35:06;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;386631;BL0219;2.0;11439791;386631;;;;Van Benedenlaan;73;;;;;;MDU;1;0;0;1;;;;;N;;BUILDING template
+MECHELEN - FH02;Units total diff;387448;BL0218;4.0;440978;387448;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;63;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;387448;BL0218;4.0;440978;387448;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;63;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;387448;BL0218;4.0;440978;387448;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;63;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;387452;BL0218;4.0;440982;387452;;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;53;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;15;2;18;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;387452;BL0218;4.0;440982;387452;;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;53;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;15;2;18;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;387452;BL0218;4.0;440982;387452;;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;53;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;15;2;18;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;387452;BL0218;4.0;440982;387452;;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;53;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;1;15;2;18;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;387462;BL0218;4.0;29278282;387462;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat;52;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;387462;BL0218;4.0;29278282;387462;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat;52;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;387462;BL0218;4.0;29278282;387462;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat;52;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;387462;BL0218;4.0;29278282;387462;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat;52;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;388434;BL0217;4.0;440994;388434;;;;Oude Brusselsestraat;7;;XC;;2020-07-24;Andreas Versteeven;MDU;4;0;1;5;4;0;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;388434;BL0217;4.0;440994;388434;;;;Oude Brusselsestraat;7;;XC;;2020-07-24;Andreas Versteeven;MDU;4;0;1;5;4;0;0;4;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;388451;BL0214;4.0;441007;388451;;;;Lange Nieuwstraat;4;;D;C;2020-08-07;Andreas Versteeven;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;388489;BL0213;4.0;441009;388489;37767741;Onze-Lieve-Vrouwestraat 84_Ravenbergstraat 1;Onze-Lieve-Vrouwestraat 84_Ravenbergstraat 1;Onze-Lieve-Vrouwestraat;84;;XC;;2020-08-18 12:17:30;Bernardo Kana da Rosa;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;388504;BL0215;3.0;10473699;388504;;;;Oude Brusselsestraat;1;;D;;2020-07-15;Andreas Versteeven;MDU;0;3;0;3;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;388504;BL0215;3.0;10473699;388504;;;;Oude Brusselsestraat;1;;D;;2020-07-15;Andreas Versteeven;MDU;0;3;0;3;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;388929;BL0204;5.0;441012;388929;;;;Onze-Lieve-Vrouwestraat;87;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;388929;BL0204;5.0;441012;388929;;;;Onze-Lieve-Vrouwestraat;87;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;388929;BL0204;5.0;441012;388929;;;;Onze-Lieve-Vrouwestraat;87;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;388936;BL0204;5.0;441017;388936;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;105;;XC;B;2020-08-26;Andreas Versteeven;MDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;388936;BL0204;5.0;441017;388936;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;105;;XC;;2020-08-26;Andreas Versteeven;MDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;388936;BL0204;5.0;441017;388936;35324443;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat 105-107;Onze-Lieve-Vrouwestraat;105;;XC;;2020-08-26;Andreas Versteeven;MDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3924463;BL0203;5.0;441033;3924463;35333436;;;Zoutwerf;27;;XC;;2020-08-28;Andreas Versteeven;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3924463;BL0203;5.0;441033;3924463;35333436;;;Zoutwerf;27;;XC;;2020-08-28;Andreas Versteeven;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;393900;BL0212;4.0;441047;393900;;;;Ravenbergstraat;28;;;;2020-08-17;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;393900;BL0212;4.0;441047;393900;;;;Ravenbergstraat;28;;;;2020-08-17;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;393900;BL0212;4.0;441047;393900;;;;Ravenbergstraat;28;;;B;2020-08-17;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;393900;BL0212;4.0;441047;393900;;;;Ravenbergstraat;28;;;;2020-08-17;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;393900;BL0212;4.0;441047;393900;;;;Ravenbergstraat;28;;;;2020-08-17;Andreas Versteeven;SDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;393904;BL0212;4.0;441049;393904;;;;Ravenbergstraat;32;;D;;2020-07-16;Andreas Versteeven;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;393904;BL0212;4.0;441049;393904;;;;Ravenbergstraat;32;;D;;2020-07-16;Andreas Versteeven;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;393904;BL0212;4.0;441049;393904;;;;Ravenbergstraat;32;;D;;2020-07-16;Andreas Versteeven;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3944058;BL0216;3.0;441105;3944058;;;;Hanswijkstraat;78;;XC;;2020-07-30;Andreas Versteeven;MDU;0;4;0;4;1;5;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3944058;BL0216;3.0;441105;3944058;;;;Hanswijkstraat;78;;XC;;2020-07-30;Andreas Versteeven;MDU;0;4;0;4;1;5;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3944058;BL0216;3.0;441105;3944058;;;;Hanswijkstraat;78;;XC;;2020-07-30;Andreas Versteeven;MDU;0;4;0;4;1;5;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944124;BL0207;2.0;441147;3944124;;;;Moensstraat;17;;C;B;2020-08-13;Wim Lambrechts;MDU;0;4;0;4;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944148;BL0218;4.0;441164;3944148;;;;Lange Nieuwstraat;61;;C;B;2020-08-13;Andreas Versteeven;MDU;0;8;1;9;0;8;1;9;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944155;BL0206;5.0;441169;3944155;;;;Onze-Lieve-Vrouwestraat;22;;B - G.Fast;;;;MDU;1;6;0;7;1;6;0;7;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944164;BL0232;6.0;441174;3944164;;;;Raghenoplein;4;;XC;B;2020-08-06;Andreas Versteeven;MDU;0;6;1;7;0;6;1;7;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944167;BL0213;4.0;11439552;3944167;37767741;Onze-Lieve-Vrouwestraat 84_Ravenbergstraat 1;Onze-Lieve-Vrouwestraat 84_Ravenbergstraat 1;Ravenbergstraat;1;;XC;;2020-07-16 14:15:09;Andreas Versteeven;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3944185;BL0228;1.0;441183;3944185;;;;Schuttersvest;88;;XC;;2020-08-06;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3944185;BL0228;1.0;441183;3944185;;;;Schuttersvest;88;;XC;;2020-08-06;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944185;BL0228;1.0;441183;3944185;;;;Schuttersvest;88;;XC;B;2020-08-06;Andreas Versteeven;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;3944195;BL0220;2.0;441189;3944195;;;;Sint-Jacobstraat;1;;XC;;2020-08-06;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;3944195;BL0220;2.0;441189;3944195;;;;Sint-Jacobstraat;1;;XC;;2020-08-06;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;3944195;BL0220;2.0;441189;3944195;;;;Sint-Jacobstraat;1;;XC;;2020-08-06;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;3944195;BL0220;2.0;441189;3944195;;;;Sint-Jacobstraat;1;;XC;B;2020-08-06;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;3944195;BL0220;2.0;441189;3944195;;;;Sint-Jacobstraat;1;;XC;;2020-08-06;Andreas Versteeven;MDU;1;4;1;6;0;5;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;398344;BL0206;5.0;441339;398344;;;;Onze-Lieve-Vrouwestraat;36;;;;2020-08-28 14:10:05;Andreas Versteeven;SDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;398344;BL0206;5.0;441339;398344;;;;Onze-Lieve-Vrouwestraat;36;;;;2020-08-28 14:10:05;Andreas Versteeven;SDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;398344;BL0206;5.0;441339;398344;;;;Onze-Lieve-Vrouwestraat;36;;;;2020-08-28 14:10:05;Andreas Versteeven;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Buildingtype diff;3992281;BL0232;6.0;7092743;3992281;;;;Stationsstraat;19;;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;;;;;N;;BUILDING template
+MECHELEN - FH02;Units lu diff;3992281;BL0232;6.0;7092743;3992281;;;;Stationsstraat;19;;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;3992281;BL0232;6.0;7092743;3992281;;;;Stationsstraat;19;;;;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3992281;BL0232;6.0;7092743;3992281;;;;Stationsstraat;19;;;B;2020-08-04;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;3995779;BL0208;2.0;441378;3995779;;Milsenstraat 11-13;Milsenstraat 11-13;Milsenstraat;11;;D;;2020-08-13;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;401964;BL0206;5.0;441495;401964;;;;Korenmarkt;31;;X;B;2019-03-04 18:05:06;Yannick_ Lambrechts;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4027942;BL0208;2.0;7092749;4027942;37300404;;;Milsenstraat;15;;;C;2019-12-26 17:10:11;Andreas Versteeven;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;403233;BL0205;3.0;441556;403233;;;;Hanswijkstraat;35;;XC;;2020-07-24;Andreas Versteeven;MDU;1;4;1;6;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;403233;BL0205;3.0;441556;403233;;;;Hanswijkstraat;35;;XC;;2020-07-24;Andreas Versteeven;MDU;1;4;1;6;1;4;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;403235;BL0205;3.0;441558;403235;;;;Hanswijkstraat;43;;XC;;2020-07-24;Andreas Versteeven;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;403235;BL0205;3.0;441558;403235;;;;Hanswijkstraat;43;;XC;;2020-07-24;Andreas Versteeven;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;403237;BL0205;3.0;441560;403237;11447170;;;Hanswijkstraat;57;;XC;;2020-08-14;Andreas Versteeven;MDU;2;9;1;12;0;11;1;12;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;403237;BL0205;3.0;441560;403237;11447170;;;Hanswijkstraat;57;;XC;A;2020-08-14;Andreas Versteeven;MDU;2;9;1;12;0;11;1;12;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;403237;BL0205;3.0;441560;403237;11447170;;;Hanswijkstraat;57;;XC;;2020-08-14;Andreas Versteeven;MDU;2;9;1;12;0;11;1;12;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;403242;BL0205;3.0;21681480;403242;35329010;Raghenoplein 17-19;Raghenoplein 17-19;Raghenoplein;19;;C;B;2020-08-11;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4041737;BL0205;3.0;11439777;4041737;11447130;Hanswijkstraat 37-37A;Hanswijkstraat 37-37A;Hanswijkstraat;37;A;XA;;2020-08-10 15:20:05;Andreas Versteeven;MDU;5;0;0;5;6;0;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4041737;BL0205;3.0;11439777;4041737;11447130;Hanswijkstraat 37-37A;Hanswijkstraat 37-37A;Hanswijkstraat;37;A;XA;B;2020-08-10 15:20:05;Andreas Versteeven;MDU;5;0;0;5;6;0;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4041737;BL0205;3.0;11439777;4041737;11447130;Hanswijkstraat 37-37A;Hanswijkstraat 37-37A;Hanswijkstraat;37;A;XA;;2020-08-10 15:20:05;Andreas Versteeven;MDU;5;0;0;5;6;0;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;405390;BL0205;3.0;441665;405390;11447171;Hanswijkstraat 1-3-5;Hanswijkstraat 1-3-5;Hanswijkstraat;1;;XC;B;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;2;12;0;14;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;B;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;2;12;0;14;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;2;12;0;14;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;2;12;0;14;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;405392;BL0205;3.0;7092752;405392;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;;XA;;2020-08-10;Andreas Versteeven;MDU;0;10;1;11;2;12;0;14;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4086494;BL0225;1.0;441805;4086494;35331825;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;92;;XA;B;2020-08-14;Wim Lambrechts;MDU;0;10;1;11;0;10;1;11;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4215413;BL0225;1.0;11439577;4215413;35331769;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat;60;;XA;;2020-08-14;Wim Lambrechts;MDU;5;0;1;6;6;0;2;8;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;4215413;BL0225;1.0;11439577;4215413;35331769;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat;60;;XA;;2020-08-14;Wim Lambrechts;MDU;5;0;1;6;6;0;2;8;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4215413;BL0225;1.0;11439577;4215413;35331769;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat;60;;XA;C;2020-08-14;Wim Lambrechts;MDU;5;0;1;6;6;0;2;8;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;4215413;BL0225;1.0;11439577;4215413;35331769;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat;60;;XA;;2020-08-14;Wim Lambrechts;MDU;5;0;1;6;6;0;2;8;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4257263;BL0225;1.0;7092753;4257263;35331825;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;93;;XA;B;2020-08-14;Wim Lambrechts;MDU;0;9;1;10;0;9;1;10;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4754728;BL0222;2.0;29278274;4754728;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;36;;D;B;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4754728;BL0222;2.0;29278274;4754728;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;36;;D;;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4754728;BL0222;2.0;29278274;4754728;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;36;;D;;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4754728;BL0222;2.0;29278274;4754728;35332182;Van Benedenlaan 36-38;Van Benedenlaan 36-38;Van Benedenlaan;36;;D;;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;4754754;BL0222;2.0;446320;4754754;;;;Vaartdijk;31;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;4754754;BL0222;2.0;446320;4754754;;;;Vaartdijk;31;;;D;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4754754;BL0222;2.0;446320;4754754;;;;Vaartdijk;31;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4754754;BL0222;2.0;446320;4754754;;;;Vaartdijk;31;;;;2020-07-15;Andreas Versteeven;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4754791;BL0229;3.0;11440032;4754791;11447163;Hendrik Consciencestraat 46-48;Hendrik Consciencestraat 46-48;Hendrik Consciencestraat;48;;XC;B;2020-08-11;Andreas Versteeven;MDU;0;20;1;21;0;20;1;21;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4754799;BL0229;3.0;11439572;4754799;35318942;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat;40;;XC;;2020-09-01;Andreas Versteeven;MDU;2;0;1;3;4;0;1;5;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;4754799;BL0229;3.0;11439572;4754799;35318942;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat 40-42;Hendrik Consciencestraat;40;;XC;;2020-09-01;Andreas Versteeven;MDU;2;0;1;3;4;0;1;5;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4756728;BL0232;6.0;446554;4756728;11447162;Hendrik Speecqvest 56-58;Hendrik Speecqvest 56-58;Hendrik Speecqvest;56;;D;;2020-09-01;Andreas Versteeven;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4756728;BL0232;6.0;446554;4756728;11447162;Hendrik Speecqvest 56-58;Hendrik Speecqvest 56-58;Hendrik Speecqvest;56;;D;;2020-09-01;Andreas Versteeven;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4758914;BL0226;1.0;446770;4758914;35322028;Koning Albertplein 3-5;Koning Albertplein 3-5;Koning Albertplein;5;;XC;B;2020-09-02;Andreas Versteeven;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;4758914;BL0226;1.0;446770;4758914;35322028;Koning Albertplein 3-5;Koning Albertplein 3-5;Koning Albertplein;5;;XC;;2020-09-02;Andreas Versteeven;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;4758914;BL0226;1.0;446770;4758914;35322028;Koning Albertplein 3-5;Koning Albertplein 3-5;Koning Albertplein;5;;XC;;2020-09-02;Andreas Versteeven;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;4759381;BL0205;3.0;446826;4759381;;;;Hanswijkstraat;47;;C;;2020-08-13;Andreas Versteeven;MDU;1;1;0;2;0;7;0;7;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4759381;BL0205;3.0;446826;4759381;;;;Hanswijkstraat;47;;C;B;2020-08-13;Andreas Versteeven;MDU;1;1;0;2;0;7;0;7;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4759381;BL0205;3.0;446826;4759381;;;;Hanswijkstraat;47;;C;;2020-08-13;Andreas Versteeven;MDU;1;1;0;2;0;7;0;7;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;4759381;BL0205;3.0;446826;4759381;;;;Hanswijkstraat;47;;C;;2020-08-13;Andreas Versteeven;MDU;1;1;0;2;0;7;0;7;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;4761071;BL0206;5.0;447072;4761071;;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;4;;D;;2020-08-27;Andreas Versteeven;MDU;0;1;0;1;1;1;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4761071;BL0206;5.0;447072;4761071;;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;4;;D;;2020-08-27;Andreas Versteeven;MDU;0;1;0;1;1;1;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4761071;BL0206;5.0;447072;4761071;;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;4;;D;;2020-08-27;Andreas Versteeven;MDU;0;1;0;1;1;1;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;4761072;BL0206;5.0;21681427;4761072;35328724;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;6;;D;;2020-08-27;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4761072;BL0206;5.0;21681427;4761072;35328724;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;6;;D;;2020-08-27;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4761072;BL0206;5.0;21681427;4761072;35328724;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;6;;D;;2020-08-27;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4761072;BL0206;5.0;21681427;4761072;35328724;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;6;;D;;2020-08-27;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4761072;BL0206;5.0;21681427;4761072;35328724;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat 4-6;Onze-Lieve-Vrouwestraat;6;;D;;2020-08-27;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;4761119;BL0203;5.0;447090;4761119;35324446;;;Onze-Lieve-Vrouwestraat;59;;;;;;SDU;0;0;0;0;;;;;N;;BUILDING template
+MECHELEN - FH02;Units bu diff;4761119;BL0203;5.0;447090;4761119;35324446;;;Onze-Lieve-Vrouwestraat;59;;;;;;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;4761119;BL0203;5.0;447090;4761119;35324446;;;Onze-Lieve-Vrouwestraat;59;;;;;;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4761119;BL0203;5.0;447090;4761119;35324446;;;Onze-Lieve-Vrouwestraat;59;;;;;;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4761124;BL0203;5.0;21681432;4761124;35324446;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat 61-65;Onze-Lieve-Vrouwestraat;65;;XC;;2020-08-27;Andreas Versteeven;MDU;0;2;0;2;0;2;0;2;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;4761558;BL0204;5.0;7092764;4761558;;;;Onze-Lieve-Vrouwestraat;125;;;;2020-07-15 11:35:12;Andreas Versteeven;SDU;0;1;0;1;0;2;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4761558;BL0204;5.0;7092764;4761558;;;;Onze-Lieve-Vrouwestraat;125;;;;2020-07-15 11:35:12;Andreas Versteeven;SDU;0;1;0;1;0;2;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;4761558;BL0204;5.0;7092764;4761558;;;;Onze-Lieve-Vrouwestraat;125;;;;2020-07-15 11:35:12;Andreas Versteeven;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Units total diff;4761558;BL0204;5.0;7092764;4761558;;;;Onze-Lieve-Vrouwestraat;125;;;;2020-07-15 11:35:12;Andreas Versteeven;SDU;0;1;0;1;0;2;1;3;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4763064;BL0208;2.0;447303;4763064;;;;Milsenstraat;3;;XC;;2020-08-05;Andreas Versteeven;MDU;0;6;1;7;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;4763064;BL0208;2.0;447303;4763064;;;;Milsenstraat;3;;XC;;2020-08-05;Andreas Versteeven;MDU;0;6;1;7;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4763064;BL0208;2.0;447303;4763064;;;;Milsenstraat;3;;XC;B;2020-08-05;Andreas Versteeven;MDU;0;6;1;7;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4763064;BL0208;2.0;447303;4763064;;;;Milsenstraat;3;;XC;;2020-08-05;Andreas Versteeven;MDU;0;6;1;7;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;4763064;BL0208;2.0;447303;4763064;;;;Milsenstraat;3;;XC;;2020-08-05;Andreas Versteeven;MDU;0;6;1;7;1;3;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;4763080;BL0208;2.0;11440073;4763080;37300404;;;Milsenstraat;17;;;;2019-12-26 17:10:11;Andreas Versteeven;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4763080;BL0208;2.0;11440073;4763080;37300404;;;Milsenstraat;17;;;C;2019-12-26 17:10:11;Andreas Versteeven;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4763080;BL0208;2.0;11440073;4763080;37300404;;;Milsenstraat;17;;;;2019-12-26 17:10:11;Andreas Versteeven;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4763082;BL0208;2.0;29278263;4763082;37300404;;;Milsenstraat;19;;;C;2019-12-26 17:10:11;Andreas Versteeven;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4763082;BL0208;2.0;29278263;4763082;37300404;;;Milsenstraat;19;;;;2019-12-26 17:10:11;Andreas Versteeven;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4763082;BL0208;2.0;29278263;4763082;37300404;;;Milsenstraat;19;;;;2019-12-26 17:10:11;Andreas Versteeven;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;4764029;BL0218;4.0;447407;4764029;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;59;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;4;20;2;26;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4764029;BL0218;4.0;447407;4764029;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;59;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;4;20;2;26;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4764029;BL0218;4.0;447407;4764029;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;59;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;4;20;2;26;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4764029;BL0218;4.0;447407;4764029;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;59;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;4;20;2;26;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4764029;BL0218;4.0;447407;4764029;11447167;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Oude Brusselsestraat 50-52_Schuttersvest 53-55-57-59-61-63;Schuttersvest;59;;XA;;2020-08-14;Andreas Versteeven;MDU;1;0;0;1;4;20;2;26;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4764791;BL0205;3.0;11440089;4764791;11447171;Hanswijkstraat 1-3-5;Hanswijkstraat 1-3-5;Hanswijkstraat;5;;XC;B;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;4764791;BL0205;3.0;11440089;4764791;11447171;Hanswijkstraat 1-3-5;Hanswijkstraat 1-3-5;Hanswijkstraat;5;;XC;B;2020-08-10;Andreas Versteeven;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;4764803;BL0216;3.0;7092768;4764803;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;6;;D;B;2020-08-21;Andreas Versteeven;MDU;0;3;0;3;2;3;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4764803;BL0216;3.0;7092768;4764803;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;6;;D;;2020-08-21;Andreas Versteeven;MDU;0;3;0;3;2;3;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4764803;BL0216;3.0;7092768;4764803;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;6;;D;;2020-08-21;Andreas Versteeven;MDU;0;3;0;3;2;3;0;5;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4764804;BL0216;3.0;7092769;4764804;;;;Hanswijkstraat;8;;;;2019-03-21 14:51:42;Wim Lambrechts;MDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4764804;BL0216;3.0;7092769;4764804;;;;Hanswijkstraat;8;;;;2019-03-21 14:51:42;Wim Lambrechts;MDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units bu diff;4764804;BL0216;3.0;7092769;4764804;;;;Hanswijkstraat;8;;;;2019-03-21 14:51:42;Wim Lambrechts;MDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4764804;BL0216;3.0;7092769;4764804;;;;Hanswijkstraat;8;;;D;2019-03-21 14:51:42;Wim Lambrechts;MDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;4767163;BL0231;6.0;447736;4767163;35331368;Stationsstraat 32-33;Stationsstraat 32-33;Stationsstraat;32;;D;;2020-09-01;Andreas Versteeven;MDU;0;4;0;4;0;6;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;4767163;BL0231;6.0;447736;4767163;35331368;Stationsstraat 32-33;Stationsstraat 32-33;Stationsstraat;32;;D;;2020-09-01;Andreas Versteeven;MDU;0;4;0;4;0;6;0;6;Y;Y;BUILDING template
+MECHELEN - FH02;BG Name diff;4767831;BL0214;4.0;21681425;4767831;;Tessestraat 17-19;;Tessestraat;19;;D;;2020-09-01;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;4767831;BL0214;4.0;21681425;4767831;;Tessestraat 17-19;;Tessestraat;19;;D;;2020-09-01;Andreas Versteeven;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;4767831;BL0214;4.0;21681425;4767831;;Tessestraat 17-19;;Tessestraat;19;;D;;2020-09-01;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;4767833;BL0214;4.0;447812;4767833;;Tessestraat 17-19;;Tessestraat;17;;D;;2020-09-01 14:45:07;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;BG Name diff;4767833;BL0214;4.0;447812;4767833;;Tessestraat 17-19;;Tessestraat;17;;D;;2020-09-01 14:45:07;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Buildingtype diff;4767833;BL0214;4.0;447812;4767833;;Tessestraat 17-19;;Tessestraat;17;;D;;2020-09-01 14:45:07;Andreas Versteeven;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MECHELEN - FH02;Quadrant diff;5313221;BL0225;1.0;7092772;5313221;35331836;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Stationsstraat 60_Vaartdijk 91-92-93-94-95;Vaartdijk;94;;XA;B;2020-08-14;Wim Lambrechts;MDU;0;8;1;9;0;8;1;9;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;5457568;BL0225;1.0;11439578;5457568;35331769;;;Stationsstraat;61;;C;;2020-09-04;Andreas Versteeven;MDU;3;0;0;3;3;0;3;6;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;5457568;BL0225;1.0;11439578;5457568;35331769;;;Stationsstraat;61;;C;;2020-09-04;Andreas Versteeven;MDU;3;0;0;3;3;0;3;6;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;5555838;BL0231;6.0;8355588;5555838;;;;Coxiestraat;15;;XC;B;2020-08-04;Andreas Versteeven;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;5602921;BL0227;1.0;8355589;5602921;;;;Leopoldstraat;37;;XC;B;2020-08-03;Andreas Versteeven;MDU;1;1;1;3;1;2;1;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;5602921;BL0227;1.0;8355589;5602921;;;;Leopoldstraat;37;;XC;;2020-08-03;Andreas Versteeven;MDU;1;1;1;3;1;2;1;4;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;5602921;BL0227;1.0;8355589;5602921;;;;Leopoldstraat;37;;XC;;2020-08-03;Andreas Versteeven;MDU;1;1;1;3;1;2;1;4;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;5602934;BL0218;4.0;7092776;5602934;;Louizastraat 35-37;Louizastraat 35-37;Louizastraat;37;;D;C;2020-07-22;Andreas Versteeven;MDU;0;9;1;10;0;9;1;10;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;5603025;BL0202;5.0;8355596;5603025;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;19;;XC;;2020-08-27;Andreas Versteeven;MDU;0;6;0;6;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;5603025;BL0202;5.0;8355596;5603025;35333219;Zoutwerf 17-18-19-20;Zoutwerf 17-18-19-20;Zoutwerf;19;;XC;;2020-08-27;Andreas Versteeven;MDU;0;6;0;6;0;8;0;8;Y;Y;BUILDING template
+MECHELEN - FH02;Units su diff;5708830;BL0231;6.0;11439570;5708830;;;;Stationsstraat;24;A;XC;;2020-08-04;Andreas Versteeven;MDU;0;6;1;7;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;5708830;BL0231;6.0;11439570;5708830;;;;Stationsstraat;24;A;XC;;2020-08-04;Andreas Versteeven;MDU;0;6;1;7;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;5708830;BL0231;6.0;11439570;5708830;;;;Stationsstraat;24;A;XC;;2020-08-04;Andreas Versteeven;MDU;0;6;1;7;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;5708830;BL0231;6.0;11439570;5708830;;;;Stationsstraat;24;A;XC;B;2020-08-04;Andreas Versteeven;MDU;0;6;1;7;0;4;0;4;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;5720579;BL0205;3.0;21681351;5720579;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;A;XA;;2020-08-10;Andreas Versteeven;MDU;4;0;0;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;5720579;BL0205;3.0;21681351;5720579;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;A;XA;;2020-08-10;Andreas Versteeven;MDU;4;0;0;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;5720579;BL0205;3.0;21681351;5720579;35317903;Hanswijkstraat 33-33A;Hanswijkstraat 33-33A;Hanswijkstraat;33;A;XA;B;2020-08-10;Andreas Versteeven;MDU;4;0;0;4;1;3;0;4;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;5822717;BL0226;1.0;35572675;5822717;35322028;Koning Albertplein 3-5;Koning Albertplein 3-5;Koning Albertplein;3;;XC;B;2020-09-02;Andreas Versteeven;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;5822717;BL0226;1.0;35572675;5822717;35322028;Koning Albertplein 3-5;Koning Albertplein 3-5;Koning Albertplein;3;;XC;;2020-09-02;Andreas Versteeven;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;5822717;BL0226;1.0;35572675;5822717;35322028;Koning Albertplein 3-5;Koning Albertplein 3-5;Koning Albertplein;3;;XC;;2020-09-02;Andreas Versteeven;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Wall Mount diff;5839547;BL0216;3.0;7092783;5839547;;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat;8;C;XC;;2020-08-21;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;5839547;BL0216;3.0;7092783;5839547;;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat;8;C;XC;;2020-08-21;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;5904518;BL0216;3.0;7092784;5904518;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;8;A;D;;2020-08-21;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;5904519;BL0216;3.0;7092785;5904519;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;8;B;D;;2020-08-21;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;6451830;BL0219;2.0;29278266;6451830;;;;Louizastraat;40;B;;;;;SDU;0;1;0;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;6524296;BL0203;5.0;29278259;6524296;;Onze-Lieve-Vrouwestraat 53-55;Onze-Lieve-Vrouwestraat 53-55;Onze-Lieve-Vrouwestraat;55;;XC;X;2020-07-29;Andreas Versteeven;MDU;0;7;1;8;0;7;1;8;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;6545210;BL0216;3.0;38103302;6545210;38103749;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat;8;D;XC;;2020-08-21 16:00:11;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units su diff;6581988;BL0208;2.0;21681366;6581988;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;A;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;6581988;BL0208;2.0;21681366;6581988;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;A;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units bu diff;6581988;BL0208;2.0;21681366;6581988;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;A;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units lu diff;6581988;BL0208;2.0;21681366;6581988;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;A;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;6581988;BL0208;2.0;21681366;6581988;35319157;Hoogstraat 7-7A;Hoogstraat 7-7A;Hoogstraat;7;A;XC;;2020-08-07;Andreas Versteeven;MDU;1;0;1;2;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Units total diff;6720656;BL0206;5.0;35572677;6720656;35328724;;;Onze-Lieve-Vrouwestraat;6;A;;;;;SDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;6720656;BL0206;5.0;35572677;6720656;35328724;;;Onze-Lieve-Vrouwestraat;6;A;;;;;SDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units lu diff;6720657;BL0206;5.0;35572678;6720657;35328724;;;Onze-Lieve-Vrouwestraat;6;B;;;;;SDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Units total diff;6720657;BL0206;5.0;35572678;6720657;35328724;;;Onze-Lieve-Vrouwestraat;6;B;;;;;SDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;6733075;BL0216;3.0;38099637;6733075;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;6;1;D;;;;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;6733076;BL0216;3.0;38099755;6733076;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;6;2;D;;;;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;6733077;BL0216;3.0;38099813;6733077;;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat 4-6-8A-8B-10;Hanswijkstraat;6;3;D;;;;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MECHELEN - FH02;Quadrant diff;6733172;BL0216;3.0;38103424;6733172;38103749;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat;8;E;C;;;;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;6733173;BL0216;3.0;38103566;6733173;38103749;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat 8C-8D-8E-8F;Hanswijkstraat;8;F;XC;;2020-08-21 16:10:04;Andreas Versteeven;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+MECHELEN - FH02;Quadrant diff;7497;BL0201;5.0;449369;7497;;;;Korenmarkt;3;;D;;2020-08-11;Andreas Versteeven;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template

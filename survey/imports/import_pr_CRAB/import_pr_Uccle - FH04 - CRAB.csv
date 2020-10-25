@@ -1,0 +1,122 @@
+﻿Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos;Distribution
+UCCLE - FH04;1684929;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;49;;;149784,608;166338,092;Underground
+UCCLE - FH04;1684931;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;51;;;149786,228;166329,944;Underground
+UCCLE - FH04;1684933;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;53;;;149788,412;166322,079;Underground
+UCCLE - FH04;1686257;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;148;;;150008,935;166254,062;Underground
+UCCLE - FH04;1010398;3;0;0;3;MDU;D;N;IRREG;3;5;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;149;;;150021,716;166227,732;Underground
+UCCLE - FH04;1686260;1;0;0;1;SDU;;N;IRREG;2;8;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;152;;;150023,073;166269,029;Underground
+UCCLE - FH04;1686261;2;0;0;2;MDU;D;N;IRREG;3;6;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;154;;;150030,471;166271,755;Underground
+UCCLE - FH04;16290;11;1;1;13;MDU;XC;N;IRREG;6;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;77;;;149808,031;166215,489;Underground
+UCCLE - FH04;1010475;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;177;;;150080,436;166274,187;Underground
+UCCLE - FH04;1686264;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;179;;;150083,552;166279,354;Underground
+UCCLE - FH04;1686266;4;0;0;4;MDU;D;N;IRREG;4;5;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;181;;;150089,689;166281,447;Underground
+UCCLE - FH04;1009949;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;91;;;149796,701;166151,194;Underground
+UCCLE - FH04;16298;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;183;;;150093,506;166287,533;Underground
+UCCLE - FH04;1683433;1;0;0;1;SDU;;N;IRREG;2;2;;;Y;_;BUILDING template;Brunardlaan - Avenue Brunard;34;;;149298,213;166456,853;Underground
+UCCLE - FH04;1683434;1;0;0;1;SDU;;N;IRREG;3;2;;;Y;_;BUILDING template;Brunardlaan - Avenue Brunard;36;;;149305,379;166460,655;Underground
+UCCLE - FH04;1684961;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;93;;;149788,999;166143,588;Underground
+UCCLE - FH04;1683435;1;0;0;1;SDU;;N;IRREG;3;2;;;Y;_;BUILDING template;Brunardlaan - Avenue Brunard;38;;;149311,922;166465,095;Underground
+UCCLE - FH04;1684962;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;95;;;149783,996;166136,205;Underground
+UCCLE - FH04;1689637;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;18;;;148984,341;166704,027;Underground
+UCCLE - FH04;1689638;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;20;;;148988,144;166697,765;Underground
+UCCLE - FH04;1683437;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Brunardlaan - Avenue Brunard;45;;;149328,965;166423,722;Underground
+UCCLE - FH04;1683439;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Brunardlaan - Avenue Brunard;47;;;149339,676;166429,611;Underground
+UCCLE - FH04;1689648;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;42;;;148996,815;166595,459;Underground
+UCCLE - FH04;1689649;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;46;;;148998,83;166574,726;Underground
+UCCLE - FH04;1689652;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;50;;;149000,74;166555,721;Underground
+UCCLE - FH04;1684983;1;0;0;1;SDU;;N;IRREG;4;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;132;;;149735,851;166057,741;Underground
+UCCLE - FH04;4124223;0;1;1;2;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;34;;;149919,685;166583,461;Underground
+UCCLE - FH04;1686893;4;2;0;6;MDU;D;N;IRREG;2;4;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;36;;;149906,11;166636,777;Underground
+UCCLE - FH04;5585439;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Frambozenstruikstraat - Rue du Framboisier;16;;;150022,108;166459,969;Underground
+UCCLE - FH04;1010953;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Frambozenstruikstraat - Rue du Framboisier;17;;;150009,86;166436,118;Underground
+UCCLE - FH04;1682937;1;0;0;1;SDU;;N;IRREG;2;4;;;;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;4;;;148357;165959;Underground
+UCCLE - FH04;1682639;2;0;1;3;MDU;D;N;IRREG;3;3;;;Y;_;BUILDING template;Schoon Verblijflaan - Avenue du Beau-Séjour;73;;;149844,295;166479,872;Underground
+UCCLE - FH04;1689370;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;De Frélaan - Avenue De Fré;132;;;149529,019;165942,802;Underground
+UCCLE - FH04;1682641;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Schoon Verblijflaan - Avenue du Beau-Séjour;77;;;149846,755;166465,081;Underground
+UCCLE - FH04;1011045;9;0;1;10;MDU;C;N;IRREG;5;6;;;Y;_;BUILDING template;De Frélaan - Avenue De Fré;134;;;149546,805;165944,88;Underground
+UCCLE - FH04;1685056;3;0;0;3;MDU;D;N;IRREG;3;5;;;Y;_;BUILDING template;Frambozenstruikstraat - Rue du Framboisier;46;;;150077,374;166374,162;Underground
+UCCLE - FH04;1685057;3;0;1;4;MDU;D;N;IRREG;4;6;;;Y;_;BUILDING template;Frambozenstruikstraat - Rue du Framboisier;46;A;;150084,302;166371,682;Underground
+UCCLE - FH04;1685059;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;Frambozenstruikstraat - Rue du Framboisier;48;;;150085,738;166353,097;Underground
+UCCLE - FH04;1325123;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;114;;;149311,529;166519,598;Underground
+UCCLE - FH04;1685061;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Frambozenstruikstraat - Rue du Framboisier;50;;;150091,839;166348,855;Underground
+UCCLE - FH04;1686938;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;116;;;149305,109;166521,168;Underground
+UCCLE - FH04;1014168;0;1;0;1;SDU;;N;IRREG;4;6;;;Y;_;BUILDING template;Heldensquare - Square des Héros;1;;;148131,7;165925,361;Underground
+UCCLE - FH04;1049241;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;188;;;149137,42;166620,466;Underground
+UCCLE - FH04;1049238;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;200;;;149079,307;166654,353;Underground
+UCCLE - FH04;1010942;3;1;1;5;MDU;D;N;IRREG;4;5;;;Y;_;BUILDING template;Waterloosesteenweg - Chaussée de Waterloo;857;;;150051,335;166540,868;Underground
+UCCLE - FH04;1688621;1;1;1;3;MDU;D;N;IRREG;3;5;;;Y;_;BUILDING template;Waterloosesteenweg - Chaussée de Waterloo;859;;;150053,775;166536,098;Underground
+UCCLE - FH04;1689568;2;0;0;2;MDU;D;N;IRREG;4;10;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;42;;;149961,536;166346,013;Underground
+UCCLE - FH04;1689570;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;44;;;149954,36;166340,907;Underground
+UCCLE - FH04;1689571;2;0;0;2;MDU;D;N;IRREG;3;6;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;45;;;149925,284;166362,48;Underground
+UCCLE - FH04;1689572;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;46;;;149948,053;166333,26;Underground
+UCCLE - FH04;1692555;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;139;;;149169,835;166312,091;Underground
+UCCLE - FH04;1522323;2;0;0;2;MDU;D;N;IRREG;3;5;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;47;;;149918,144;166357,867;Underground
+UCCLE - FH04;1689573;1;0;0;1;SDU;;N;IRREG;3;8;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;48;;;149941,436;166327,597;Underground
+UCCLE - FH04;1689574;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;49;;;149909,179;166347,466;Underground
+UCCLE - FH04;1689577;1;0;0;1;SDU;;N;IRREG;3;7;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;52;;;149934,228;166315,225;Underground
+UCCLE - FH04;1010419;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;60;;;149930,253;166309,751;Underground
+UCCLE - FH04;1689579;2;0;0;2;MDU;D;N;IRREG;3;8;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;62;;;149926,232;166303,992;Underground
+UCCLE - FH04;1686179;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;10;;;149274,583;166224,637;Underground
+UCCLE - FH04;1009807;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;150;;;149198,49;166381,881;Underground
+UCCLE - FH04;1014120;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;7;;;148388,619;165953,503;Underground
+UCCLE - FH04;1686181;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;12;;;149281,24;166224,633;Underground
+UCCLE - FH04;1014121;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;9;;;148384,26;165963,289;Underground
+UCCLE - FH04;1014122;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;11;;;148385,535;165971,878;Underground
+UCCLE - FH04;1682939;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;15;;;148379,145;165997,128;Underground
+UCCLE - FH04;1682941;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;17;;;148375,538;166004,518;Underground
+UCCLE - FH04;1689587;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;83;;;149890,942;166321,102;Underground
+UCCLE - FH04;1689149;3;0;0;3;MDU;D;N;IRREG;4;6;;;Y;_;BUILDING template;Zeecrabbestraat - Rue Zeecrabbe;19;A;;149027,45;166076,15;Underground
+UCCLE - FH04;1689150;4;0;0;4;MDU;D;N;IRREG;4;4;;;Y;_;BUILDING template;Zeecrabbestraat - Rue Zeecrabbe;21;;;149032,756;166077,538;Underground
+UCCLE - FH04;1682943;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;19;;;148373,785;166012,316;Underground
+UCCLE - FH04;1689589;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;René Gobertlaan - Avenue René Gobert;85;;;149886,584;166313,2;Underground
+UCCLE - FH04;1689151;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Zeecrabbestraat - Rue Zeecrabbe;23;;;149038,47;166079,032;Underground
+UCCLE - FH04;1009984;11;0;1;12;MDU;XC;N;IRREG;6;3;;;;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;232;;Rue Édith Cavell, 228-232;;;Underground
+UCCLE - FH04;1682945;1;0;0;1;SDU;;N;IRREG;2;2;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;21;;;148372,142;166020,116;Underground
+UCCLE - FH04;1682947;1;0;0;1;SDU;;N;IRREG;2;2;;;Y;_;BUILDING template;Boetendaellaan - Avenue de Boetendael;23;;;148372,466;166028,181;Underground
+UCCLE - FH04;1690230;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Roberts-Jonesstraat - Rue Roberts-Jones;17;;;149124,173;166371,695;Underground
+UCCLE - FH04;1690234;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Roberts-Jonesstraat - Rue Roberts-Jones;21;;;149109,894;166368,502;Underground
+UCCLE - FH04;1049230;3;0;1;4;MDU;D;N;IRREG;3;5;;;Y;Bâtiment mis en vente.;BUILDING template;Roberts-Jonesstraat - Rue Roberts-Jones;23;;;149102,94;166369,029;Underground
+UCCLE - FH04;1692596;0;1;1;2;SDU;;N;IRREG;6;3;;;;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;230;A;;;;Underground
+UCCLE - FH04;1692592;0;1;0;1;SDU;;N;IRREG;1;5;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;218;;;149238,151;166205,733;Underground
+UCCLE - FH04;1689177;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Zeecrabbestraat - Rue Zeecrabbe;71;;;149186,839;166133,005;Underground
+UCCLE - FH04;1690243;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Roberts-Jonesstraat - Rue Roberts-Jones;33;;;149036,721;166366,499;Underground
+UCCLE - FH04;1692228;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Bosveldweg;29;;;149262,176;166344,849;Underground
+UCCLE - FH04;1690245;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Roberts-Jonesstraat - Rue Roberts-Jones;35;;;149031,182;166369,569;Underground
+UCCLE - FH04;1683432;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Brunardlaan - Avenue Brunard;32;;;149316;166447;Underground
+UCCLE - FH04;1692230;1;0;0;1;SDU;;N;IRREG;2;4;;;Y;_;BUILDING template;Bosveldweg;31;A;;149285,966;166345,403;Underground
+UCCLE - FH04;1049227;1;0;0;1;SDU;;N;IRREG;2;5;;;Y;_;BUILDING template;Roberts-Jonesstraat - Rue Roberts-Jones;37;;;149024,226;166363,109;Underground
+UCCLE - FH04;1692603;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;252;;;149295,291;166027,336;Underground
+UCCLE - FH04;1692604;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;254;;;149297,64;166022,673;Underground
+UCCLE - FH04;1009772;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;256;;;149290,684;165997,088;Underground
+UCCLE - FH04;1692607;1;0;0;1;SDU;;N;IRREG;3;4;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;258;;;149291,405;165992,739;Underground
+UCCLE - FH04;1686227;1;0;0;1;SDU;;N;IRREG;3;9;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;98;;;149898,01;166184,504;Underground
+UCCLE - FH04;1684906;1;0;0;1;SDU;;N;IRREG;4;6;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;14;;;149775,212;166575,707;Underground
+UCCLE - FH04;1684908;2;0;1;3;MDU;D;N;IRREG;3;6;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;16;;;149776,391;166559,611;Underground
+UCCLE - FH04;1684909;1;1;1;3;MDU;XC;N;IRREG;3;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;18;;;149780,915;166551,987;Underground
+UCCLE - FH04;1010407;1;0;0;1;SDU;;N;IRREG;2;7;;;Y;_;BUILDING template;Langeveldstraat - Rue Langeveld;108;;;149905,768;166197,85;Underground
+UCCLE - FH04;1684913;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;24;;;149783,742;166525,342;Underground
+UCCLE - FH04;1684914;1;0;0;1;SDU;;N;IRREG;3;5;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;25;;;149753,896;166470,563;Underground
+UCCLE - FH04;1684916;1;0;0;1;SDU;;N;IRREG;3;6;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;27;;;149752,214;166461,169;Underground
+UCCLE - FH04;1009960;1;0;0;1;SDU;;N;IRREG;2;6;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;29;;;149759,014;166452,904;Underground
+UCCLE - FH04;1684522;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Schepenijlaan - Avenue de l'Echevinage;15;;;148252,205;165929,925;Façade
+UCCLE - FH04;1684960;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Floridalaan - Avenue de la Floride;90;;;149843,248;166256,69;Façade
+UCCLE - FH04;1049235;12;0;1;13;MDU;C;Y;NA;5;;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;30;;;148991,958;166654,143;Façade
+UCCLE - FH04;4110022;4;0;1;5;MDU;C;Y;NA;5;;;;Y;Review Required;BUILDING template;Schoon Verblijflaan - Avenue du Beau-Séjour;24;;;150011,958;166498,19;Façade
+UCCLE - FH04;1014153;12;0;1;13;MDU;A;Y;NA;6;;;;Y;_;BUILDING template;Schepenijlaan - Avenue de l'Echevinage;11;;Avenue de L'Echevinage 11_13;148215,417;165935,862;Façade
+UCCLE - FH04;5585429;14;0;2;16;MDU;A;Y;NA;6;;;;Y;_;BUILDING template;Schepenijlaan - Avenue de l'Echevinage;13;;Avenue de L'Echevinage 11_13;148235,857;165932,922;Façade
+UCCLE - FH04;1682613;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Schoon Verblijflaan - Avenue du Beau-Séjour;39;;;149938,465;166562,016;Façade
+UCCLE - FH04;1689361;8;0;1;9;MDU;XC;Y;NA;4;;;;;_;BUILDING template;De Frélaan - Avenue De Fré;96;A;Avenue de Fré 96a-96;;;Façade
+UCCLE - FH04;1689663;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;66;;;149001,946;166501,312;Façade
+UCCLE - FH04;1689664;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Léo Erreralaan - Avenue Léo Errera;68;;;149002,317;166488,784;Façade
+UCCLE - FH04;1010309;3;0;0;3;MDU;D;Y;NA;3;;;;Y;_;BUILDING template;De Frélaan - Avenue De Fré;68;;;149029,827;166006,132;Façade
+UCCLE - FH04;1682625;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Schoon Verblijflaan - Avenue du Beau-Séjour;57;;;149892,785;166523,327;Façade
+UCCLE - FH04;1049239;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;194;;;149108,915;166636,467;Façade
+UCCLE - FH04;19009;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Montjoielaan - Avenue Montjoie;198;;;149088,914;166648,554;Façade
+UCCLE - FH04;1049249;6;0;1;7;MDU;A;Y;NA;6;;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;103;;;149163,063;166483,389;Façade
+UCCLE - FH04;1685734;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Hoeflaan - Avenue du Hoef;16;;;149336,245;166121,755;Façade
+UCCLE - FH04;1692543;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;119;;;149156,214;166402,154;Façade
+UCCLE - FH04;1688653;2;1;0;3;MDU;;Y;NA;3;;;;Y;_;BUILDING template;Waterloosesteenweg - Chaussée de Waterloo;931;;;150150,9;166337,051;Façade
+UCCLE - FH04;1689145;1;0;0;1;SDU;;Y;NA;1;;;;Y;_;BUILDING template;Zeecrabbestraat - Rue Zeecrabbe;13;;;149035,276;166050,333;Façade
+UCCLE - FH04;1689146;1;0;0;1;SDU;;Y;NA;1;;;;Y;_;BUILDING template;Zeecrabbestraat - Rue Zeecrabbe;15;;;149033,566;166056,421;Façade
+UCCLE - FH04;1009973;1;0;0;1;SDU;;Y;NA;2;;;;Y;_;BUILDING template;Bosveldweg;25;;;149248,17;166342,928;Façade
+UCCLE - FH04;3957852;1;0;0;1;SDU;;Y;NA;3;;;;Y;_;BUILDING template;Edith Cavellstraat - Rue Edith Cavell;240;;;149323,488;166070,668;Façade

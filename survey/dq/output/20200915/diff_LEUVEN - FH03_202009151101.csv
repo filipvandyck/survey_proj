@@ -1,0 +1,106 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+LEUVEN - FH03;Wall Mount diff;1023639;BL0326;1.0;20863080;1023639;;;;Diestsevest;92;;;;2019-11-18;Dieu Jocelin;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1097863;BL0310;2.0;5157269;1097863;;;;Diestsestraat;74;;;;2019-09-30;Marouane Zoubir;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1097864;BL0310;2.0;737086;1097864;;;;Diestsestraat;78;;;;2019-10-03 07:40:14;Marouane Zoubir;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1097865;BL0310;2.0;737087;1097865;;;;Diestsestraat;76;;D;D;2019-11-07;Hidde Kiekens;MDU;2;0;1;3;2;0;1;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1098104;BL0310;2.0;5157274;1098104;11607554;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat;11;;D;D;2019-10-08 18:31:22;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1186732;BL0313;6.0;737596;1186732;;;;Koning Leopold I-straat;26;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1186734;BL0313;6.0;737598;1186734;;;;Koning Leopold I-straat;18;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1186735;BL0306;6.0;737599;1186735;;;;Koning Leopold I-straat;10;;D;D;2018-03-09 11:35:14;Andreas Versteeven;MDU;1;1;1;3;1;1;1;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1186823;BL0304;6.0;737637;1186823;;;;Vital Decosterstraat;8;;D;D;2018-01-11 15:50:46;;MDU;0;3;0;3;0;3;0;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1186852;BL0322;8.0;737660;1186852;;;;Justus Lipsiusstraat;63;;XA;A;2020-06-08;Marouane Zoubir;MDU;0;11;1;12;0;11;1;12;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1186853;BL0315;7.0;737661;1186853;12731337;Justus Lipsiusstraat 18-20-24-26-28-30-32-34_Maria Theresiastraat 63A-63B-65_Ravenstraat 98-98A-100-102-104;Justus Lipsiusstraat 18-20-24-26-28-30-32-34_Maria Theresiastraat 63A-63B-65_Ravenstraat 98-98A-100-102-104;Justus Lipsiusstraat;34;;A;A;2020-06-08 09:40:06;Marouane Zoubir;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1353155;BL0310;2.0;738406;1353155;11607554;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat;7;;D;D;2019-10-29;Maayken Vanfleteren;MDU;0;8;1;9;0;8;1;9;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;1503045;BL0310;2.0;739026;1503045;;;;Diestsestraat;116;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Units su diff;1505075;BL0326;1.0;739073;1505075;29421522;Diestsepoort 1-3-5-7;Diestsepoort 1-3-5-7;Diestsepoort;1;;A;;2020-09-09;Marouane Zoubir;MDU;18;0;12;30;12;0;3;15;N;N;BUILDING template
+LEUVEN - FH03;Units bu diff;1505075;BL0326;1.0;739073;1505075;29421522;Diestsepoort 1-3-5-7;Diestsepoort 1-3-5-7;Diestsepoort;1;;A;;2020-09-09;Marouane Zoubir;MDU;18;0;12;30;12;0;3;15;N;N;BUILDING template
+LEUVEN - FH03;Units total diff;1505075;BL0326;1.0;739073;1505075;29421522;Diestsepoort 1-3-5-7;Diestsepoort 1-3-5-7;Diestsepoort;1;;A;;2020-09-09;Marouane Zoubir;MDU;18;0;12;30;12;0;3;15;N;N;BUILDING template
+LEUVEN - FH03;BG Name diff;1507101;BL0317;5.0;6674202;1507101;10197532;Nervi‰rsstraat 33-35-37;Nerviërsstraat 33-35-37;Nervi‰rsstraat;33;;XC;;2019-10-09 13:55:15;Marouane Zoubir;MDU;0;5;1;6;0;5;1;6;Y;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;172652;BL0326;1.0;739250;172652;;;;Diestsevest;74;;D;D;2019-10-08;Dieu Jocelin;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;172653;BL0326;1.0;739251;172653;;;;Diestsevest;72;;D;D;2019-10-08;Dieu Jocelin;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;172658;BL0326;1.0;20863093;172658;;;;Diestsevest;94;;;;2019-11-18;Dieu Jocelin;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;172662;BL0326;1.0;5157292;172662;;;;Diestsevest;96;;;;2018-01-26 13:10:23;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;173022;BL0325;3.0;739271;173022;31525498;Vanden Tymplestraat 58-60;Vanden Tymplestraat 58-60;Vanden Tymplestraat;60;;D;D;2019-10-08 09:25:13;Maayken Vanfleteren;MDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;184149;BL0325;3.0;739365;184149;;;;Diestsevest;23;;D;D;2020-02-11;Joni Noe;MDU;1;2;0;3;1;2;0;3;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010871;BL0321;8.0;741850;3010871;;;;Bondgenotenlaan;110;;D;D;2019-10-03;Dieu Jocelin;MDU;2;0;1;3;2;0;1;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010879;BL0321;8.0;741853;3010879;;;;Bondgenotenlaan;116;;;;2019-09-18;Dieu Jocelin;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010883;BL0321;8.0;741855;3010883;;;;Bondgenotenlaan;118;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010891;BL0321;8.0;741858;3010891;;;;Bondgenotenlaan;122;;D;D;2018-02-08 14:30:56;Jan Knegtel;MDU;2;2;0;4;2;2;0;4;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010901;BL0321;8.0;741861;3010901;;;;Bondgenotenlaan;126;;XC;C;2020-06-12;Marouane Zoubir;MDU;1;13;1;15;1;13;1;15;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010906;BL0321;8.0;741864;3010906;;;;Bondgenotenlaan;130;;C;C;2019-09-26;Marouane Zoubir;MDU;1;4;0;5;1;4;0;5;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010915;BL0321;8.0;741869;3010915;;;;Bondgenotenlaan;140;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010934;BL0320;3.0;741878;3010934;;;;Bondgenotenlaan;155;;D;D;2018-02-26 16:26:03;Jan Knegtel;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010936;BL0320;3.0;741879;3010936;;;;Bondgenotenlaan;155;A;;;2019-10-14;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3010942;BL0320;3.0;741880;3010942;;;;Bondgenotenlaan;157;;XA;A;2020-08-27;Marouane Zoubir;MDU;0;6;1;7;0;6;1;7;Y;N;BUILDING template
+LEUVEN - FH03;Quadrant diff;3014365;BL0304;6.0;743128;3014365;;;;Vital Decosterstraat;6;;C;A;2020-09-14;Marouane Zoubir;MDU;1;5;1;7;1;5;1;7;Y;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3014911;BL0310;2.0;743358;3014911;;;;Diestsestraat;80;;;;2019-10-03 07:35:16;Marouane Zoubir;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3014922;BL0310;2.0;743364;3014922;;;;Diestsestraat;86;;;;2019-10-14 14:15:25;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3014923;BL0310;2.0;5157343;3014923;;;;Diestsestraat;88;;D;D;2018-01-24 15:21:11;;MDU;1;1;1;3;1;1;1;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015000;BL0319;2.0;6488057;3015000;;;;Diestsestraat;168;;D;D;2019-10-29;Maayken Vanfleteren;MDU;0;3;0;3;0;3;0;3;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015070;BL0318;2.0;5157353;3015070;;;;Diestsestraat;219;;D;D;2018-05-11 15:43:25;;MDU;1;4;1;6;1;4;1;6;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015071;BL0320;3.0;743436;3015071;;;;Diestsestraat;220;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015074;BL0320;3.0;743438;3015074;;;;Diestsestraat;222;;D;D;2018-04-12 23:29:13;Jan Knegtel;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015076;BL0320;3.0;743439;3015076;;;;Diestsestraat;224;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015078;BL0320;3.0;12712248;3015078;;;;Diestsestraat;226;;XC;C;2019-10-25 13:20:14;Dieu Jocelin;MDU;1;11;1;13;1;11;1;13;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015952;BL0325;3.0;743850;3015952;;;;Diestsevest;19;;C;C;2020-02-07 14:50:29;Joni Noe;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3015954;BL0325;3.0;743851;3015954;;;;Diestsevest;21;;;;2020-02-07;Joni Noe;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3016008;BL0326;1.0;743861;3016008;;;;Diestsevest;64;;D;D;2018-05-11 15:46:20;;MDU;0;2;0;2;0;2;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3016012;BL0326;1.0;743863;3016012;;;;Diestsevest;70;;D;D;2019-09-19;Dieu Jocelin;MDU;0;2;0;2;0;2;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3016019;BL0326;1.0;743866;3016019;;;;Diestsevest;76;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3016022;BL0326;1.0;743868;3016022;;;;Diestsevest;78;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3016039;BL0326;1.0;743874;3016039;;;;Diestsevest;90;;D;D;2019-09-20;Marouane Zoubir;MDU;1;2;0;3;1;2;0;3;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3028070;BL0321;8.0;748886;3028070;;;;Justus Lipsiusstraat;29;;;;2019-09-19 09:40:33;Dieu Jocelin;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3028077;BL0315;7.0;748889;3028077;35476486;Justus Lipsiusstraat 36-38-40;Justus Lipsiusstraat 36-38-40;Justus Lipsiusstraat;36;;A;A;2019-11-18 12:40:13;Hidde Kiekens;MDU;1;8;0;9;1;8;0;9;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3028082;BL0315;7.0;6488188;3028082;35476486;Justus Lipsiusstraat 36-38-40;Justus Lipsiusstraat 36-38-40;Justus Lipsiusstraat;38;;A;A;2019-11-18;Hidde Kiekens;MDU;0;41;1;42;0;41;1;42;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3028114;BL0321;8.0;748894;3028114;;;;Justus Lipsiusstraat;49;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3029314;BL0315;7.0;749167;3029314;;Justus Lipsiusstraat 18-20-24-26-28-30-32-34_Maria Theresiastraat 63A-63B-65_Ravenstraat 98-98A-100-102-104;Justus Lipsiusstraat 18-20-24-26-28-30-32-34_Maria Theresiastraat 63A-63B-65_Ravenstraat 98-98A-100-102-104;Maria-Theresiastraat;65;;A;A;2020-06-08 09:40:06;Marouane Zoubir;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3033032;BL0315;7.0;750121;3033032;;;;Mussenstraat;27;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3033073;BL0315;7.0;750138;3033073;;;;Mussenstraat;57;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+LEUVEN - FH03;BG Name diff;3035128;BL0317;5.0;10197481;3035128;10197532;Nervi‰rsstraat 33-35-37;Nerviërsstraat 33-35-37;Nervi‰rsstraat;37;;XC;;2019-10-09 11:41:16;Marouane Zoubir;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3047731;BL0322;8.0;755535;3047731;;;;Tiensevest;32;;;;2019-10-03;Dieu Jocelin;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3047764;BL0322;8.0;755558;3047764;;;;Tiensevest;84;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3049006;BL0310;2.0;6488443;3049006;;;;P.J. Van Benedenstraat;3;;D;D;2018-07-18 18:36:09;Paul Use;MDU;1;1;0;2;1;1;0;2;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3049009;BL0310;2.0;756041;3049009;11607554;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat;5;;D;D;2019-10-08 18:31:21;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3049126;BL0318;2.0;756079;3049126;;;;Vanden Tymplestraat;43;;C;C;2018-08-01 17:18:40;Jan Knegtel;MDU;0;55;2;57;0;55;2;57;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3049421;BL0316;1.0;756188;3049421;;;;Jean-Baptiste Van Monsstraat;23;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3049496;BL0327;1.0;756219;3049496;;;;Jean-Baptiste Van Monsstraat;115;;D;D;;;MDU;0;1;1;2;0;1;1;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3062574;BL0306;6.0;759705;3062574;;;;Koning Leopold I-straat;8;;D;D;2018-03-09 10:50:21;Andreas Versteeven;MDU;0;3;1;4;0;3;1;4;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3062598;BL0313;6.0;759709;3062598;;;;Koning Leopold I-straat;20;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3062613;BL0313;6.0;759712;3062613;;;;Koning Leopold I-straat;28;;D;D;2018-03-09 11:22:11;Jan Knegtel;MDU;3;0;0;3;3;0;0;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3062619;BL0313;6.0;759714;3062619;;;;Koning Leopold I-straat;30;;D;D;2018-01-11 14:45:33;;MDU;1;2;0;3;1;2;0;3;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3062626;BL0313;6.0;759716;3062626;;;;Koning Leopold I-straat;32;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;377701;BL0306;6.0;760230;377701;;;;Koning Leopold I-straat;12;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;377818;BL0306;6.0;760236;377818;;;;Arendstraat;1;;C;C;2018-02-09 15:20:38;Rudi Caes;MDU;1;4;0;5;1;4;0;5;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;378465;BL0311;2.0;760257;378465;;;;Louis Melsensstraat;20;;XC;C;2019-10-14;Maayken Vanfleteren;MDU;0;15;2;17;0;15;2;17;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;378998;BL0321;8.0;760267;378998;;;;Justus Lipsiusstraat;45;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;378999;BL0321;8.0;760268;378999;;;;Justus Lipsiusstraat;43;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379003;BL0321;8.0;760272;379003;;;;Justus Lipsiusstraat;15;;D;D;2019-10-03;Dieu Jocelin;MDU;2;0;0;2;2;0;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379014;BL0314;6.0;760280;379014;;;;Willemsstraat;94;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379018;BL0313;6.0;760282;379018;;;;Koning Leopold I-straat;24;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379133;BL0321;8.0;760289;379133;;;;Bondgenotenlaan;106;;D;D;2019-10-03;Dieu Jocelin;MDU;2;0;0;2;2;0;0;2;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379137;BL0321;8.0;760290;379137;;;;Bondgenotenlaan;108;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379138;BL0321;8.0;760291;379138;;;;Bondgenotenlaan;114;;D;D;2019-10-03;Dieu Jocelin;MDU;2;0;0;2;2;0;0;2;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379144;BL0321;8.0;760292;379144;;;;Bondgenotenlaan;120;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379155;BL0320;3.0;760295;379155;;;;Bondgenotenlaan;153;;D;D;2018-01-10 14:25:21;;MDU;1;3;0;4;1;3;0;4;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379184;BL0321;8.0;760298;379184;;;;Bondgenotenlaan;132;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379211;BL0321;8.0;760301;379211;;;;Bondgenotenlaan;128;;D;D;2018-01-10 15:25:51;;MDU;1;1;0;2;1;1;0;2;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379722;BL0313;6.0;760302;379722;;;;Koning Leopold I-straat;14;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379725;BL0313;6.0;760305;379725;;;;Koning Leopold I-straat;22;;D;D;2019-10-02;Marouane Zoubir;MDU;0;4;1;5;0;4;1;5;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;379739;BL0306;6.0;760317;379739;;;;Bogaardenstraat;22;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3941614;BL0314;6.0;760866;3941614;;;;Willemsstraat;92;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;3941665;BL0306;6.0;760895;3941665;;;;Koning Leopold I-straat;6;;XC;C;2019-10-07;Marouane Zoubir;MDU;0;6;1;7;0;6;1;7;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;4041116;BL0321;8.0;761936;4041116;;;;Justus Lipsiusstraat;47;;;;2018-09-13;Andreas Versteeven;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;4085367;BL0315;7.0;762116;4085367;;;;Maria-Theresiastraat;43;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;BG Name diff;4789242;BL0317;5.0;10197479;4789242;10197532;Nervi‰rsstraat 33-35-37;Nerviërsstraat 33-35-37;Nervi‰rsstraat;35;;XC;;2019-10-09 11:41:29;Marouane Zoubir;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;4790660;BL0315;7.0;20863571;4790660;;;;Mussenstraat;69;;;;2019-09-26;Marouane Zoubir;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;4792366;BL0321;8.0;764135;4792366;;;;Bondgenotenlaan;112;;D;D;2019-10-03;Dieu Jocelin;MDU;2;0;0;2;2;0;0;2;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;4793003;BL0314;6.0;764186;4793003;;;;Willemsstraat;38;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;4795387;BL0319;2.0;7695096;4795387;;;;Diestsestraat;166;;;;2019-10-14 16:05:13;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5390;BL0321;8.0;5157499;5390;;;;Bondgenotenlaan;124;;D;D;2019-10-03;Dieu Jocelin;MDU;2;0;0;2;2;0;0;2;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5394;BL0321;8.0;767071;5394;;;;Maria-Theresiastraat;119;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5404;BL0313;6.0;767110;5404;;;;Koning Leopold I-straat;16;;;;14-sep-17;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5448;BL0315;7.0;767288;5448;;;;Bogaardenstraat;33;;D;D;2018-05-11 15:42:01;;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5602509;BL0315;7.0;767364;5602509;;;;Maria-Theresiastraat;63;;;;;;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5602622;BL0310;2.0;767373;5602622;11607554;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat 5-7-9-11;P.J. Van Benedenstraat;9;;D;D;2019-10-08 18:31:20;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;5602690;BL0306;6.0;767383;5602690;;;;Koning Leopold I-straat;4;;;;14-sep-17;;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+LEUVEN - FH03;Wall Mount diff;6525123;BL0327;1.0;20863031;6525123;;;;Jean-Baptiste Van Monsstraat;91;;;;2019-09-23;Marouane Zoubir;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template

@@ -91,30 +91,30 @@ def make_site():
 
     table = "<H1>MDU with missing fis</H1>" + df_report_fis_missing.to_html()
 
-    with open(HTMLFOLDER + "fis_mdu_missing.html", "w") as text_file:
+    with open(HTMLFOLDER + "fis_mdu_missing.html", "w", encoding="utf-8") as text_file:
         text_file.write(table)
 
 
     df_report_fis_sdu = pd.read_csv(REPORT_FIS_SDU, delimiter=';', encoding = "ISO-8859-1")
     table = "<H1>SDU with fis</H1>" + df_report_fis_sdu.to_html()
 
-    with open(HTMLFOLDER + "fis_sdu.html", "w") as text_file:
+    with open(HTMLFOLDER + "fis_sdu.html", "w", encoding="utf-8") as text_file:
         text_file.write(table)
     
     print(df)    
-    df_fis_report = df[['ZONE_NAME','BUILDINGS','MDU','SDU','FIS_MDU','FIS_SDU','FIS_PROCENT','FTS_TOTAL','FTS','FTS_PROCENT']]
+    df_fis_report = df[['ZONE_NAME','BUILDINGS','MDU','SDU','FIS_MDU','FIS_SDU','FIS_PROCENT','FTS_TOTAL','FTS_TODO','FTS_PROCENT']]
 
     fis_report_html = df_fis_report.to_html()
 
-    with open(HTMLFOLDER + "fis_report.html", "w") as text_file:
+    with open(HTMLFOLDER + "fis_report.html", "w", encoding="utf-8") as text_file:
         text_file.write(fis_report_html)
   
 
-    df_survey_report = df[['ZONE_NAME','BUILDINGS','MDU','SDU','UNITS','STS','STS_TODO','STS_PROCENT','SSV','SSV_TODO','SSV_PROCENT']]
+    df_survey_report = df[['ZONE_NAME','BUILDINGS','MDU','SDU','UNITS','STS','STS_TODO','STS_PROCENT','SSV','SSV_TODO','SSV_PROCENT','TSA_SIGNED','TSA_REJECTED','FTS_TOTAL','FTS_TODO','TSA_PROCENT']]
 
     survey_report_html = df_survey_report.to_html()
 
-    with open(HTMLFOLDER + "survey_report.html", "w") as text_file:
+    with open(HTMLFOLDER + "survey_report.html", "w", encoding="utf-8") as text_file:
         text_file.write(survey_report_html)
   
 

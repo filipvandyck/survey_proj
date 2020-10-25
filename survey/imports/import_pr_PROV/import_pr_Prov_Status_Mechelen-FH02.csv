@@ -1,0 +1,5 @@
+﻿Projectnummer;Building FID;BG Name;LAM MK;LU Key;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;Prov Status;Prov Reason;Prov Status LU;Prov Reason LU;Quadrant;Wall Mount;Height Cable;SS Reason
+MECHELEN - FH02;441495;;401964;401964;BUILDING template;Korenmarkt;31;;;;;;D;Y;10;NA
+MECHELEN - FH02;433610;;3040930;3040930;BUILDING template;Leopoldstraat;88;;;;;;D;N;9;IRREG
+MECHELEN - FH02;438624;Graaf van Egmontstraat 9-11;3050849;3050849;BUILDING template;Graaf van Egmontstraat;9;;B;BOWN;;;C;N;9;IRREG
+MECHELEN - FH02;441669;Graaf van Egmontstraat 9-11;405398;405398;BUILDING template;Graaf van Egmontstraat;11;;B;BOWN;;;C;Y;9;NA

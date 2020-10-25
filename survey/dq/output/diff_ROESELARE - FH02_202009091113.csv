@@ -1,0 +1,805 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+ROESELARE - FH02;Quadrant diff;1188437;BL0033;1.0;4707739;1188437;;;;Zwarte-Leeuwstraat;60;;XC;;2020-07-03 12:20:40;Maayken Vanfleteren;MDU;0;9;1;10;0;16;0;16;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1188437;BL0033;1.0;4707739;1188437;;;;Zwarte-Leeuwstraat;60;;XC;;2020-07-03 12:20:40;Maayken Vanfleteren;MDU;0;9;1;10;0;16;0;16;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1188437;BL0033;1.0;4707739;1188437;;;;Zwarte-Leeuwstraat;60;;XC;;2020-07-03 12:20:40;Maayken Vanfleteren;MDU;0;9;1;10;0;16;0;16;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1188437;BL0033;1.0;4707739;1188437;;;;Zwarte-Leeuwstraat;60;;XC;;2020-07-03 12:20:40;Maayken Vanfleteren;MDU;0;9;1;10;0;16;0;16;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1202813;BL0006;4.0;4569193;1202813;;;;Westlaan;216;;;;2020-06-30 13:35:05;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1202813;BL0006;4.0;4569193;1202813;;;;Westlaan;216;;;;2020-06-30 13:35:05;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;1202813;BL0006;4.0;4569193;1202813;;;;Westlaan;216;;;;2020-06-30 13:35:05;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1243686;BL0016;3.0;98783;1243686;;;;Diksmuidsesteenweg;122;;;;2020-04-20 10:35:17;Geert Stockman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;1243686;BL0016;3.0;98783;1243686;;;;Diksmuidsesteenweg;122;;;;2020-04-20 10:35:17;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1243686;BL0016;3.0;98783;1243686;;;;Diksmuidsesteenweg;122;;;;2020-04-20 10:35:17;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1243696;BL0014;4.0;98790;1243696;;;;Diksmuidsesteenweg;145;;;;2020-04-20 10:35:13;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;1243696;BL0014;4.0;98790;1243696;;;;Diksmuidsesteenweg;145;;;;2020-04-20 10:35:13;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1243696;BL0014;4.0;98790;1243696;;;;Diksmuidsesteenweg;145;;;;2020-04-20 10:35:13;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1245523;BL0032;1.0;4569194;1245523;4782139;Hoogleedsesteenweg 54-56;Hoogleedsesteenweg 54-56;Hoogleedsesteenweg;54;;XC;;;Harry Melis;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1245529;BL0028;1.0;4569195;1245529;;;;Hoogleedsesteenweg;3;;;;2020-04-22 18:30:13;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;1245529;BL0028;1.0;4569195;1245529;;;;Hoogleedsesteenweg;3;;;;2020-04-22 18:30:13;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1245529;BL0028;1.0;4569195;1245529;;;;Hoogleedsesteenweg;3;;;;2020-04-22 18:30:13;Maayken Vanfleteren;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1245531;BL0028;1.0;99306;1245531;;;;Noordstraat;217;;;;2020-04-22 18:50:07;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;1245531;BL0028;1.0;99306;1245531;;;;Noordstraat;217;;;;2020-04-22 18:50:07;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1245531;BL0028;1.0;99306;1245531;;;;Noordstraat;217;;;;2020-04-22 18:50:07;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;1245761;BL0033;1.0;99531;1245761;;;;Westlaan;504;;X;;2020-04-22 15:05:10;Maayken Vanfleteren;MDU;6;0;1;7;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1245761;BL0033;1.0;99531;1245761;;;;Westlaan;504;;X;;2020-04-22 15:05:10;Maayken Vanfleteren;MDU;6;0;1;7;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1245761;BL0033;1.0;99531;1245761;;;;Westlaan;504;;X;;2020-04-22 15:05:10;Maayken Vanfleteren;MDU;6;0;1;7;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1245761;BL0033;1.0;99531;1245761;;;;Westlaan;504;;X;;2020-04-22 15:05:10;Maayken Vanfleteren;MDU;6;0;1;7;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1245761;BL0033;1.0;99531;1245761;;;;Westlaan;504;;X;;2020-04-22 15:05:10;Maayken Vanfleteren;MDU;6;0;1;7;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1245763;BL0034;1.0;99533;1245763;;;;Westlaan;530;;D;;2020-06-18 17:55:04;Maayken Vanfleteren;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;1245767;BL0025;2.0;99537;1245767;;;;Westlaan;482;;;;2020-04-22 13:50:09;Hidde Kiekens;SDU;1;0;0;1;2;1;0;3;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1245767;BL0025;2.0;99537;1245767;;;;Westlaan;482;;;;2020-04-22 13:50:09;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;1245767;BL0025;2.0;99537;1245767;;;;Westlaan;482;;;;2020-04-22 13:50:09;Hidde Kiekens;SDU;1;0;0;1;2;1;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;1245767;BL0025;2.0;99537;1245767;;;;Westlaan;482;;;;2020-04-22 13:50:09;Hidde Kiekens;SDU;1;0;0;1;2;1;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1250501;BL0032;1.0;99572;1250501;4782140;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg;72;;D;;2020-07-03 12:20:39;Maayken Vanfleteren;MDU;1;0;1;2;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1250501;BL0032;1.0;99572;1250501;4782140;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg;72;;D;;2020-07-03 12:20:39;Maayken Vanfleteren;MDU;1;0;1;2;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1250501;BL0032;1.0;99572;1250501;4782140;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg;72;;D;;2020-07-03 12:20:39;Maayken Vanfleteren;MDU;1;0;1;2;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1250502;BL0032;1.0;26014245;1250502;4782140;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg;74;;D;;2020-07-03;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1250502;BL0032;1.0;26014245;1250502;4782140;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg;74;;D;;2020-07-03;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;1250502;BL0032;1.0;26014245;1250502;4782140;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg 72-74;Hoogleedsesteenweg;74;;D;;2020-07-03;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1250506;BL0035;1.0;99576;1250506;;;;Hoogleedsesteenweg;154;;D;;2020-09-07 09:35:05;Maayken Vanfleteren;MDU;0;3;0;3;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1250511;BL0025;2.0;4779200;1250511;;;;Westlaan;468;;XC;;;Harry Melis;MDU;1;2;0;3;1;2;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1250523;BL0035;1.0;4779058;1250523;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;11;;X;;2020-04-22 17:55:08;Maayken Vanfleteren;MDU;0;0;0;0;0;6;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1250523;BL0035;1.0;4779058;1250523;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;11;;X;;2020-04-22 17:55:08;Maayken Vanfleteren;MDU;0;0;0;0;0;6;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1250523;BL0035;1.0;4779058;1250523;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;11;;X;;2020-04-22 17:55:08;Maayken Vanfleteren;MDU;0;0;0;0;0;6;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1250533;BL0035;1.0;99597;1250533;;;;Noordlaan;61;;D;;2020-04-22 18:10:08;Maayken Vanfleteren;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255570;BL0013;4.0;103904;1255570;;;;Westlaan;266;;D;;2020-07-07 13:10:20;Geert Stockman;MDU;0;3;1;4;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1255570;BL0013;4.0;103904;1255570;;;;Westlaan;266;;D;;2020-07-07 13:10:20;Geert Stockman;MDU;0;3;1;4;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1255570;BL0013;4.0;103904;1255570;;;;Westlaan;266;;D;;2020-07-07 13:10:20;Geert Stockman;MDU;0;3;1;4;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255608;BL0014;4.0;103938;1255608;;;;Pilkemstraat;6;;;;2020-04-20 11:50:22;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1255608;BL0014;4.0;103938;1255608;;;;Pilkemstraat;6;;;;2020-04-20 11:50:22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;1255608;BL0014;4.0;103938;1255608;;;;Pilkemstraat;6;;;;2020-04-20 11:50:22;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;BG Name diff;1255614;BL0014;4.0;4779195;1255614;;;Pilkemstraat 68_Westlaan 270-272;Westlaan;270;;;;;Geert Stockman;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1255614;BL0014;4.0;4779195;1255614;;;;Westlaan;270;;;;;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units su diff;1255630;BL0006;4.0;103957;1255630;;;;Molenstraat;102;;D;;2020-06-30 13:30:24;Hidde Kiekens;MDU;1;2;1;4;1;4;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1255630;BL0006;4.0;103957;1255630;;;;Molenstraat;102;;D;;2020-06-30 13:30:24;Hidde Kiekens;MDU;1;2;1;4;1;4;0;5;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1255630;BL0006;4.0;103957;1255630;;;;Molenstraat;102;;D;;2020-06-30 13:30:24;Hidde Kiekens;MDU;1;2;1;4;1;4;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1255630;BL0006;4.0;103957;1255630;;;;Molenstraat;102;;D;;2020-06-30 13:30:24;Hidde Kiekens;MDU;1;2;1;4;1;4;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;1255651;BL0007;5.0;103976;1255651;;;;Arme-Klarenstraat;55;;;;2020-04-22 14:00:14;Hidde Kiekens;SDU;1;0;0;1;3;0;0;3;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1255651;BL0007;5.0;103976;1255651;;;;Arme-Klarenstraat;55;;;;2020-04-22 14:00:14;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;1255651;BL0007;5.0;103976;1255651;;;;Arme-Klarenstraat;55;;;;2020-04-22 14:00:14;Hidde Kiekens;SDU;1;0;0;1;3;0;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;1255679;BL0007;5.0;104000;1255679;;;;Kermisstraat;50;;D;;2020-06-25 08:40:50;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1255679;BL0007;5.0;104000;1255679;;;;Kermisstraat;50;;D;;2020-06-25 08:40:50;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255679;BL0007;5.0;104000;1255679;;;;Kermisstraat;50;;D;;2020-06-25 08:40:50;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1255680;BL0007;5.0;4569200;1255680;;;;Arme-Klarenstraat;21;;XC;;2020-06-26 16:40:05;Hidde Kiekens;MDU;0;13;1;14;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1255680;BL0007;5.0;4569200;1255680;;;;Arme-Klarenstraat;21;;XC;;2020-06-26 16:40:05;Hidde Kiekens;MDU;0;13;1;14;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255680;BL0007;5.0;4569200;1255680;;;;Arme-Klarenstraat;21;;XC;;2020-06-26 16:40:05;Hidde Kiekens;MDU;0;13;1;14;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255681;BL0007;5.0;104002;1255681;;;;Arme-Klarenstraat;25;;XC;;2020-06-26 16:55:10;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1255681;BL0007;5.0;104002;1255681;;;;Arme-Klarenstraat;25;;XC;;2020-06-26 16:55:10;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1255681;BL0007;5.0;104002;1255681;;;;Arme-Klarenstraat;25;;XC;;2020-06-26 16:55:10;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1255686;BL0010;5.0;104006;1255686;;;;Arme-Klarenstraat;12;;XC;;2020-07-04 14:25:05;Maayken Vanfleteren;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1255686;BL0010;5.0;104006;1255686;;;;Arme-Klarenstraat;12;;XC;;2020-07-04 14:25:05;Maayken Vanfleteren;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1255686;BL0010;5.0;104006;1255686;;;;Arme-Klarenstraat;12;;XC;;2020-07-04 14:25:05;Maayken Vanfleteren;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1255703;BL0006;4.0;104021;1255703;;;;Blekerijstraat;70;;;;2020-04-21 10:30:19;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1255703;BL0006;4.0;104021;1255703;;;;Blekerijstraat;70;;;;2020-04-21 10:30:19;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;1255703;BL0006;4.0;104021;1255703;;;;Blekerijstraat;70;;;;2020-04-21 10:30:19;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255703;BL0006;4.0;104021;1255703;;;;Blekerijstraat;70;;;;2020-04-21 10:30:19;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1255704;BL0006;4.0;104022;1255704;;;;Blekerijstraat;76;;;;2020-04-21 10:30:16;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1255704;BL0006;4.0;104022;1255704;;;;Blekerijstraat;76;;;;2020-04-21 10:30:16;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;1255704;BL0006;4.0;104022;1255704;;;;Blekerijstraat;76;;;;2020-04-21 10:30:16;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;1256223;BL0022;2.0;104108;1256223;;;;Noordstraat;151;;D;;2020-04-24 12:20:13;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256223;BL0022;2.0;104108;1256223;;;;Noordstraat;151;;D;;2020-04-24 12:20:13;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256225;BL0022;2.0;4569201;1256225;;;;Noordstraat;155;;XC;;2020-07-04 13:35:05;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256228;BL0022;2.0;4778841;1256228;;;;Noordstraat;161;;XC;;2020-08-26 15:30:10;Hidde Kiekens;MDU;1;6;0;7;1;6;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1256231;BL0027;2.0;4778861;1256231;4782156;;;Noordstraat;187;;;;2020-07-26 15:00:07;Hidde Kiekens;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;1256231;BL0027;2.0;4778861;1256231;4782156;;;Noordstraat;187;;;;2020-07-26 15:00:07;Hidde Kiekens;SDU;0;1;0;1;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256231;BL0027;2.0;4778861;1256231;4782156;;;Noordstraat;187;;;;2020-07-26 15:00:07;Hidde Kiekens;SDU;0;1;0;1;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;1256232;BL0027;2.0;5652060;1256232;4782156;;;Noordstraat;189;;XC;;2020-07-26 15:00:06;Hidde Kiekens;MDU;0;6;1;7;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256232;BL0027;2.0;5652060;1256232;4782156;;;Noordstraat;189;;XC;;2020-07-26 15:00:06;Hidde Kiekens;MDU;0;6;1;7;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1256232;BL0027;2.0;5652060;1256232;4782156;;;Noordstraat;189;;XC;;2020-07-26 15:00:06;Hidde Kiekens;MDU;0;6;1;7;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256232;BL0027;2.0;5652060;1256232;4782156;;;Noordstraat;189;;XC;;2020-07-26 15:00:06;Hidde Kiekens;MDU;0;6;1;7;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1256233;BL0027;2.0;104116;1256233;;;;Noordstraat;169;;XC;;2020-08-26 15:50:07;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256233;BL0027;2.0;104116;1256233;;;;Noordstraat;169;;XC;;2020-08-26 15:50:07;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256233;BL0027;2.0;104116;1256233;;;;Noordstraat;169;;XC;;2020-08-26 15:50:07;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1256240;BL0021;3.0;4569203;1256240;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;43;;XC;;2020-07-03 16:45:10;Maayken Vanfleteren;MDU;0;2;1;3;0;2;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256240;BL0021;3.0;4569203;1256240;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;43;;XC;;2020-07-03 16:45:10;Maayken Vanfleteren;MDU;0;2;1;3;0;2;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1256240;BL0021;3.0;4569203;1256240;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;43;;XC;;2020-07-03 16:45:10;Maayken Vanfleteren;MDU;0;2;1;3;0;2;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256241;BL0021;3.0;26014248;1256241;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;45;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;6;1;7;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1256241;BL0021;3.0;26014248;1256241;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;45;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;6;1;7;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1256241;BL0021;3.0;26014248;1256241;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;45;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;6;1;7;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256242;BL0021;3.0;5652061;1256242;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;47;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1256242;BL0021;3.0;5652061;1256242;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;47;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1256242;BL0021;3.0;5652061;1256242;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;47;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1256242;BL0021;3.0;5652061;1256242;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;47;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1256247;BL0021;3.0;104123;1256247;;;;Kattenstraat;59;;;;2020-04-24 11:10:12;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256247;BL0021;3.0;104123;1256247;;;;Kattenstraat;59;;;;2020-04-24 11:10:12;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1256247;BL0021;3.0;104123;1256247;;;;Kattenstraat;59;;;;2020-04-24 11:10:12;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256253;BL0021;3.0;104128;1256253;;;;Kattenstraat;117;;D;;2020-04-24 11:30:18;Maayken Vanfleteren;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256257;BL0027;2.0;104132;1256257;;;;Noordstraat;195;;D;;2020-07-26 15:45:05;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256257;BL0027;2.0;104132;1256257;;;;Noordstraat;195;;D;;2020-07-26 15:45:05;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;1256257;BL0027;2.0;104132;1256257;;;;Noordstraat;195;;D;;2020-07-26 15:45:05;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256289;BL0012;6.0;26014246;1256289;4782148;Karnemelkstraat 40-42;Karnemelkstraat 40-42;Karnemelkstraat;42;;D;;2020-04-22;Hidde Kiekens;MDU;0;5;0;5;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;1256291;BL0012;6.0;104160;1256291;;;;Albrecht Rodenbachstraat;9;;;;2020-07-11 12:20:04;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1256291;BL0012;6.0;104160;1256291;;;;Albrecht Rodenbachstraat;9;;;;2020-07-11 12:20:04;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;1256291;BL0012;6.0;104160;1256291;;;;Albrecht Rodenbachstraat;9;;;;2020-07-11 12:20:04;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;1256291;BL0012;6.0;104160;1256291;;;;Albrecht Rodenbachstraat;9;;;;2020-07-11 12:20:04;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256297;BL0019;3.0;4775422;1256297;;;;Albrecht Rodenbachstraat;2;;XC;;2020-07-29 19:05:05;Hidde Kiekens;MDU;0;3;1;4;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1256297;BL0019;3.0;4775422;1256297;;;;Albrecht Rodenbachstraat;2;;XC;;2020-07-29 19:05:05;Hidde Kiekens;MDU;0;3;1;4;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256297;BL0019;3.0;4775422;1256297;;;;Albrecht Rodenbachstraat;2;;XC;;2020-07-29 19:05:05;Hidde Kiekens;MDU;0;3;1;4;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;1256298;BL0012;6.0;104166;1256298;;Manestraat 2-4-4A;Manestraat 2-4-4A;Manestraat;4;;D;;2020-07-26 13:00:05;Hidde Kiekens;MDU;0;5;0;5;0;5;0;5;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256298;BL0012;6.0;104166;1256298;;Manestraat 2-4-4A;Manestraat 2-4-4A;Manestraat;4;;D;;2020-07-26 13:00:05;Hidde Kiekens;MDU;0;5;0;5;0;5;0;5;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256301;BL0012;6.0;4778213;1256301;;;;Noordstraat;23;;D;;2020-04-21 09:15:15;Hidde Kiekens;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256302;BL0012;6.0;104169;1256302;;;;Noordstraat;25;;D;;2020-07-26 12:55:04;Hidde Kiekens;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1256303;BL0012;6.0;104170;1256303;;;;Noordstraat;3;;XA;;2020-08-20 17:16:05;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;N;BUILDING template
+ROESELARE - FH02;Units total diff;1256303;BL0012;6.0;104170;1256303;;;;Noordstraat;3;;XA;;2020-08-20 17:16:05;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256303;BL0012;6.0;104170;1256303;;;;Noordstraat;3;;XA;;2020-08-20 17:16:05;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;1256303;BL0012;6.0;104170;1256303;;;;Noordstraat;3;;XA;;2020-08-20 17:16:05;Hidde Kiekens;MDU;0;5;1;6;0;5;0;5;Y;N;BUILDING template
+ROESELARE - FH02;Units lu diff;1256304;BL0012;6.0;26014053;1256304;;;;Noordstraat;33;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;1256304;BL0012;6.0;26014053;1256304;;;;Noordstraat;33;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1256304;BL0012;6.0;26014053;1256304;;;;Noordstraat;33;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256306;BL0012;6.0;104172;1256306;;;;Noordstraat;43;;D;;2020-04-21 08:40:07;Hidde Kiekens;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256314;BL0019;3.0;104179;1256314;;;;Noordstraat;69;;D;;2020-04-22 13:30:14;Hidde Kiekens;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1256317;BL0019;3.0;104182;1256317;;;;Noordstraat;75;;D;;2020-07-15 10:55:05;Hidde Kiekens;MDU;1;8;0;9;1;8;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1320859;BL0024;2.0;105016;1320859;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;40;;XC;;2020-06-14 13:40:09;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;1320859;BL0024;2.0;105016;1320859;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;40;;XC;;2020-06-14 13:40:09;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;1320859;BL0024;2.0;105016;1320859;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;40;;XC;;2020-06-14 13:40:09;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;1339339;BL0021;3.0;105498;1339339;;;;Kattenstraat;91;;D;;2020-04-24 11:20:11;Maayken Vanfleteren;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;1364025;BL0012;6.0;106000;1364025;;Manestraat 2-4-4A;Manestraat 2-4-4A;Manestraat;4;A;D;;;Harry Melis;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;1364025;BL0012;6.0;106000;1364025;;Manestraat 2-4-4A;Manestraat 2-4-4A;Manestraat;4;A;D;;;Harry Melis;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;1364316;BL0032;1.0;4776678;1364316;4782138;Gitsestraat 1-1A;Gitsestraat 1-1A;Gitsestraat;1;A;D;;2020-04-22 17:10:12;Maayken Vanfleteren;MDU;0;8;1;9;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;1364316;BL0032;1.0;4776678;1364316;4782138;Gitsestraat 1-1A;Gitsestraat 1-1A;Gitsestraat;1;A;D;;2020-04-22 17:10:12;Maayken Vanfleteren;MDU;0;8;1;9;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;1496916;BL0007;5.0;5652063;1496916;;;;Kermisstraat;2;;;;2020-04-21 10:30:23;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;1496916;BL0007;5.0;5652063;1496916;;;;Kermisstraat;2;;;;2020-04-21 10:30:23;Hidde Kiekens;SDU;1;0;0;1;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;1496916;BL0007;5.0;5652063;1496916;;;;Kermisstraat;2;;;;2020-04-21 10:30:23;Hidde Kiekens;SDU;1;0;0;1;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;1496916;BL0007;5.0;5652063;1496916;;;;Kermisstraat;2;;;;2020-04-21 10:30:23;Hidde Kiekens;SDU;1;0;0;1;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3413315;BL0016;3.0;161783;3413315;;;;Juffrouw Lamotestraat;14;;;;2020-04-22 09:55:09;Geert Stockman;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;3413315;BL0016;3.0;161783;3413315;;;;Juffrouw Lamotestraat;14;;;;2020-04-22 09:55:09;Geert Stockman;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413315;BL0016;3.0;161783;3413315;;;;Juffrouw Lamotestraat;14;;;;2020-04-22 09:55:09;Geert Stockman;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3413325;BL0017;3.0;4569204;3413325;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;34;;XA;;2020-06-05 16:05:15;Geert Stockman;MDU;0;17;1;18;0;17;0;17;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413325;BL0017;3.0;4569204;3413325;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;34;;XA;;2020-06-05 16:05:15;Geert Stockman;MDU;0;17;1;18;0;17;0;17;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3413325;BL0017;3.0;4569204;3413325;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;34;;XA;;2020-06-05 16:05:15;Geert Stockman;MDU;0;17;1;18;0;17;0;17;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3413326;BL0017;3.0;4569205;3413326;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;36;;XC;;2020-06-05 16:00:18;Geert Stockman;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413326;BL0017;3.0;4569205;3413326;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;36;;XC;;2020-06-05 16:00:18;Geert Stockman;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3413326;BL0017;3.0;4569205;3413326;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;36;;XC;;2020-06-05 16:00:18;Geert Stockman;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3413327;BL0017;3.0;4569206;3413327;4782145;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;42;;XA;;2020-06-06 09:00:05;Geert Stockman;MDU;0;13;1;14;0;13;0;13;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3413327;BL0017;3.0;4569206;3413327;4782145;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;42;;XA;;2020-06-06 09:00:05;Geert Stockman;MDU;0;13;1;14;0;13;0;13;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413327;BL0017;3.0;4569206;3413327;4782145;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;42;;XA;;2020-06-06 09:00:05;Geert Stockman;MDU;0;13;1;14;0;13;0;13;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3413328;BL0017;3.0;161796;3413328;4782145;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;44;;XC;;2020-06-06 09:05:04;Geert Stockman;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413328;BL0017;3.0;161796;3413328;4782145;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;44;;XC;;2020-06-06 09:05:04;Geert Stockman;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3413328;BL0017;3.0;161796;3413328;4782145;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;44;;XC;;2020-06-06 09:05:04;Geert Stockman;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413329;BL0017;3.0;4569207;3413329;4782146;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;46;;XA;;2020-06-06 08:55:04;Geert Stockman;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3413329;BL0017;3.0;4569207;3413329;4782146;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;46;;XA;;2020-06-06 08:55:04;Geert Stockman;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3413329;BL0017;3.0;4569207;3413329;4782146;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;46;;XA;;2020-06-06 08:55:04;Geert Stockman;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3413330;BL0017;3.0;161798;3413330;4782146;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;48;;XC;;2020-06-06 09:10:05;Geert Stockman;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3413330;BL0017;3.0;161798;3413330;4782146;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;48;;XC;;2020-06-06 09:10:05;Geert Stockman;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3413330;BL0017;3.0;161798;3413330;4782146;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;48;;XC;;2020-06-06 09:10:05;Geert Stockman;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3413379;BL0009;6.0;4778171;3413379;;;;Marie-Louise De Meesterplein;6;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3414083;BL0010;5.0;26013886;3414083;;;;Blekerijstraat;57;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3414083;BL0010;5.0;26013886;3414083;;;;Blekerijstraat;57;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3414083;BL0010;5.0;26013886;3414083;;;;Blekerijstraat;57;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Units bu diff;3414083;BL0010;5.0;26013886;3414083;;;;Blekerijstraat;57;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3414085;BL0010;5.0;26013894;3414085;;;;Blekerijstraat;63;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3414085;BL0010;5.0;26013894;3414085;;;;Blekerijstraat;63;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;3414085;BL0010;5.0;26013894;3414085;;;;Blekerijstraat;63;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3414085;BL0010;5.0;26013894;3414085;;;;Blekerijstraat;63;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Quadrant diff;3414661;BL0018;3.0;162914;3414661;;;;Diksmuidsesteenweg;28;;XC;;;Harry Melis;MDU;0;6;0;6;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3414694;BL0014;4.0;162942;3414694;;;;Diksmuidsesteenweg;159;;;;2020-04-20 10:35:12;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3414694;BL0014;4.0;162942;3414694;;;;Diksmuidsesteenweg;159;;;;2020-04-20 10:35:12;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3414694;BL0014;4.0;162942;3414694;;;;Diksmuidsesteenweg;159;;;;2020-04-20 10:35:12;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3415742;BL0028;1.0;163889;3415742;;;;Hoogleedsesteenweg;11;;;;2020-04-22 18:30:14;Maayken Vanfleteren;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3415742;BL0028;1.0;163889;3415742;;;;Hoogleedsesteenweg;11;;;;2020-04-22 18:30:14;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3415742;BL0028;1.0;163889;3415742;;;;Hoogleedsesteenweg;11;;;;2020-04-22 18:30:14;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3415744;BL0028;1.0;163891;3415744;;;;Hoogleedsesteenweg;15;;;;2020-04-22;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3415744;BL0028;1.0;163891;3415744;;;;Hoogleedsesteenweg;15;;;;2020-04-22;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;3415744;BL0028;1.0;163891;3415744;;;;Hoogleedsesteenweg;15;;;;2020-04-22;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3415758;BL0032;1.0;26013938;3415758;;;;Hoogleedsesteenweg;112;;;;2020-08-26;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3415758;BL0032;1.0;26013938;3415758;;;;Hoogleedsesteenweg;112;;;;2020-08-26;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3415758;BL0032;1.0;26013938;3415758;;;;Hoogleedsesteenweg;112;;;;2020-08-26;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;3415759;BL0032;1.0;163905;3415759;;;;Hoogleedsesteenweg;114;;D;;2020-08-26 15:10:07;Hidde Kiekens;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3415760;BL0032;1.0;163906;3415760;;;;Hoogleedsesteenweg;124;;D;D;2020-04-22 17:25:11;Maayken Vanfleteren;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3415763;BL0034;1.0;4569210;3415763;4782142;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg;149;;XC;;2020-06-18 18:25:04;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3415924;BL0002;5.0;164033;3415924;;;;Iepersestraat;100;;;;2020-04-21 08:15:13;Hidde Kiekens;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3415924;BL0002;5.0;164033;3415924;;;;Iepersestraat;100;;;;2020-04-21 08:15:13;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;3415924;BL0002;5.0;164033;3415924;;;;Iepersestraat;100;;;;2020-04-21 08:15:13;Hidde Kiekens;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3415924;BL0002;5.0;164033;3415924;;;;Iepersestraat;100;;;;2020-04-21 08:15:13;Hidde Kiekens;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3415930;BL0002;5.0;4777419;3415930;;;;Iepersestraat;110;;;;2020-04-21 08:20:10;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3415930;BL0002;5.0;4777419;3415930;;;;Iepersestraat;110;;;;2020-04-21 08:20:10;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3415930;BL0002;5.0;4777419;3415930;;;;Iepersestraat;110;;;;2020-04-21 08:20:10;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3415940;BL0001;5.0;164046;3415940;;;;Iepersestraat;124;;;;2020-04-24 09:40:10;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3415940;BL0001;5.0;164046;3415940;;;;Iepersestraat;124;;;;2020-04-24 09:40:10;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;3415940;BL0001;5.0;164046;3415940;;;;Iepersestraat;124;;;;2020-04-24 09:40:10;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3415947;BL0001;5.0;4569211;3415947;;;;Iepersestraat;138;;XC;;2020-07-15 10:25:35;Maayken Vanfleteren;MDU;0;13;1;14;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3415947;BL0001;5.0;4569211;3415947;;;;Iepersestraat;138;;XC;;2020-07-15 10:25:35;Maayken Vanfleteren;MDU;0;13;1;14;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3415947;BL0001;5.0;4569211;3415947;;;;Iepersestraat;138;;XC;;2020-07-15 10:25:35;Maayken Vanfleteren;MDU;0;13;1;14;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3415980;BL0001;5.0;4569212;3415980;;;;Iepersestraat;194;;D;;2020-08-26 15:15:09;Hidde Kiekens;MDU;0;9;0;9;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3416378;BL0004;5.0;26014005;3416378;;;;Kermisstraat;5;;X;;2020-04-22;Geert Stockman;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3416386;BL0011;5.0;164431;3416386;;;;Karnemelkstraat;5;;D;;2020-04-24 09:35:07;Geert Stockman;MDU;1;2;0;3;1;2;0;3;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3416391;BL0011;5.0;164435;3416391;;;;Karnemelkstraat;13;;;;2020-04-24 09:35:08;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3416391;BL0011;5.0;164435;3416391;;;;Karnemelkstraat;13;;;;2020-04-24 09:35:08;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3416391;BL0011;5.0;164435;3416391;;;;Karnemelkstraat;13;;;;2020-04-24 09:35:08;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3416395;BL0011;5.0;4569214;3416395;;;;Karnemelkstraat;25;;C;;2020-06-09 12:01:16;Geert Stockman;MDU;0;12;0;12;0;12;0;12;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3416399;BL0011;5.0;4569215;3416399;;;;Karnemelkstraat;39;;D;;2020-04-24 09:55:14;Geert Stockman;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3416410;BL0010;5.0;164450;3416410;;;;Arme-Klarenstraat;28;A;;;2020-04-22 12:30:31;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3416410;BL0010;5.0;164450;3416410;;;;Arme-Klarenstraat;28;A;;;2020-04-22 12:30:31;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;3416410;BL0010;5.0;164450;3416410;;;;Arme-Klarenstraat;28;A;;;2020-04-22 12:30:31;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3416411;BL0010;5.0;164451;3416411;;;;Arme-Klarenstraat;28;C;;;2020-04-22 12:30:44;Maayken Vanfleteren;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;3416411;BL0010;5.0;164451;3416411;;;;Arme-Klarenstraat;28;C;;;2020-04-22 12:30:44;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3416411;BL0010;5.0;164451;3416411;;;;Arme-Klarenstraat;28;C;;;2020-04-22 12:30:44;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3416736;BL0005;6.0;4777949;3416736;;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Langemarkstraat;35;;C;;2020-08-06 16:20:07;Geert Stockman;MDU;0;7;1;8;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3416736;BL0005;6.0;4777949;3416736;;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Langemarkstraat;35;;C;;2020-08-06 16:20:07;Geert Stockman;MDU;0;7;1;8;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;BG Name diff;3416736;BL0005;6.0;4777949;3416736;;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Langemarkstraat;35;;C;;2020-08-06 16:20:07;Geert Stockman;MDU;0;7;1;8;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3416736;BL0005;6.0;4777949;3416736;;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Langemarkstraat;35;;C;;2020-08-06 16:20:07;Geert Stockman;MDU;0;7;1;8;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3416774;BL0033;1.0;4569216;3416774;;;;Zwarte-Leeuwstraat;54;;;;2020-04-22 14:50:08;Maayken Vanfleteren;SDU;1;0;0;1;1;4;0;5;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3416774;BL0033;1.0;4569216;3416774;;;;Zwarte-Leeuwstraat;54;;;;2020-04-22 14:50:08;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;3416774;BL0033;1.0;4569216;3416774;;;;Zwarte-Leeuwstraat;54;;;;2020-04-22 14:50:08;Maayken Vanfleteren;SDU;1;0;0;1;1;4;0;5;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417117;BL0009;6.0;4778141;3417117;;;;Manestraat;1;A;;;2020-07-04 13:35:06;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417121;BL0012;6.0;165070;3417121;;;;Manestraat;8;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3417123;BL0009;6.0;26014012;3417123;;Manestraat 9-11;Manestraat 9-11;Manestraat;11;;D;;2020-04-22;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417123;BL0009;6.0;26014012;3417123;;Manestraat 9-11;Manestraat 9-11;Manestraat;11;;D;;2020-04-22;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3417124;BL0012;6.0;165071;3417124;;;;Manestraat;12;;;;2020-04-21 09:25:10;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;3417124;BL0012;6.0;165071;3417124;;;;Manestraat;12;;;;2020-04-21 09:25:10;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417124;BL0012;6.0;165071;3417124;;;;Manestraat;12;;;;2020-04-21 09:25:10;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3417124;BL0012;6.0;165071;3417124;;;;Manestraat;12;;;;2020-04-21 09:25:10;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417125;BL0009;6.0;165072;3417125;;;;Manestraat;13;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417126;BL0009;6.0;165073;3417126;;;;Manestraat;15;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417127;BL0012;6.0;165074;3417127;;;;Manestraat;16;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417128;BL0009;6.0;4778168;3417128;;;;Manestraat;17;A;D;D;2020-04-22 11:10:51;Maayken Vanfleteren;MDU;1;1;0;2;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417129;BL0012;6.0;165075;3417129;;;;Manestraat;18;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417130;BL0012;6.0;165076;3417130;;;;Manestraat;20;;D;D;2020-04-21 09:30:13;Hidde Kiekens;MDU;1;4;0;5;1;4;0;5;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417131;BL0012;6.0;165077;3417131;;;;Manestraat;22;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417132;BL0012;6.0;165078;3417132;;;;Manestraat;24;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417133;BL0012;6.0;165079;3417133;;;;Manestraat;26;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417134;BL0012;6.0;165080;3417134;;;;Manestraat;28;;D;D;2020-04-21 09:35:09;Hidde Kiekens;MDU;1;2;0;3;1;2;0;3;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417146;BL0009;6.0;165088;3417146;;;;Grote Markt;1;A;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417147;BL0009;6.0;165089;3417147;;;;Grote Markt;3;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3417148;BL0009;6.0;165090;3417148;;;;Grote Markt;4;;;;2020-04-22 10:20:48;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;3417148;BL0009;6.0;165090;3417148;;;;Grote Markt;4;;;;2020-04-22 10:20:48;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3417148;BL0009;6.0;165090;3417148;;;;Grote Markt;4;;;;2020-04-22 10:20:48;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417148;BL0009;6.0;165090;3417148;;;;Grote Markt;4;;;;2020-04-22 10:20:48;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417149;BL0009;6.0;165091;3417149;;;;Grote Markt;5;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417150;BL0009;6.0;165092;3417150;;;;Grote Markt;6;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417151;BL0009;6.0;165093;3417151;;;;Grote Markt;7;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417152;BL0009;6.0;165094;3417152;;;;Grote Markt;8;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417153;BL0009;6.0;165095;3417153;;;;Grote Markt;9;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417154;BL0009;6.0;4776724;3417154;;;;Grote Markt;13;;;;2020-07-04 13:35:07;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3417155;BL0009;6.0;4776726;3417155;;;;Grote Markt;15;;;;2020-07-04 13:35:08;Maayken Vanfleteren;SDU;1;0;0;1;1;10;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417155;BL0009;6.0;4776726;3417155;;;;Grote Markt;15;;;;2020-07-04 13:35:08;Maayken Vanfleteren;SDU;1;0;0;1;1;10;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3417155;BL0009;6.0;4776726;3417155;;;;Grote Markt;15;;;;2020-07-04 13:35:08;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;3417155;BL0009;6.0;4776726;3417155;;;;Grote Markt;15;;;;2020-07-04 13:35:08;Maayken Vanfleteren;SDU;1;0;0;1;1;10;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3417513;BL0008;6.0;26014021;3417513;;;;Motestraat;1;;D;D;2020-04-22;Geert Stockman;MDU;0;2;0;2;0;2;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3417520;BL0007;5.0;26014144;3417520;;;;Motestraat;34;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3417520;BL0007;5.0;26014144;3417520;;;;Motestraat;34;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3417520;BL0007;5.0;26014144;3417520;;;;Motestraat;34;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3417522;BL0007;5.0;26014152;3417522;;;;Motestraat;46;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3417522;BL0007;5.0;26014152;3417522;;;;Motestraat;46;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3417522;BL0007;5.0;26014152;3417522;;;;Motestraat;46;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3417523;BL0007;5.0;26014154;3417523;;;;Motestraat;48;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3417523;BL0007;5.0;26014154;3417523;;;;Motestraat;48;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3417523;BL0007;5.0;26014154;3417523;;;;Motestraat;48;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;3417593;BL0020;3.0;4778830;3417593;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;109;;XC;;2020-07-13 18:20:06;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3417615;BL0027;2.0;165473;3417615;;;;Noordstraat;181;;D;;2020-07-26 14:25:05;Hidde Kiekens;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3418082;BL0012;6.0;165893;3418082;;;;Albrecht Rodenbachstraat;13;;;;2020-07-11 12:15:06;Hidde Kiekens;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3418082;BL0012;6.0;165893;3418082;;;;Albrecht Rodenbachstraat;13;;;;2020-07-11 12:15:06;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;3418082;BL0012;6.0;165893;3418082;;;;Albrecht Rodenbachstraat;13;;;;2020-07-11 12:15:06;Hidde Kiekens;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3418082;BL0012;6.0;165893;3418082;;;;Albrecht Rodenbachstraat;13;;;;2020-07-11 12:15:06;Hidde Kiekens;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3418897;BL0008;6.0;166600;3418897;;;;Sint-Michielsplein;14;;;;2020-04-21 10:35:27;Hidde Kiekens;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3418900;BL0005;6.0;4707854;3418900;;;;Sint-Michielsstraat;2;;;;2020-04-22 11:30:40;Geert Stockman;SDU;1;0;0;1;2;0;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3418900;BL0005;6.0;4707854;3418900;;;;Sint-Michielsstraat;2;;;;2020-04-22 11:30:40;Geert Stockman;SDU;1;0;0;1;2;0;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3418900;BL0005;6.0;4707854;3418900;;;;Sint-Michielsstraat;2;;;;2020-04-22 11:30:40;Geert Stockman;SDU;1;0;0;1;2;0;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3418900;BL0005;6.0;4707854;3418900;;;;Sint-Michielsstraat;2;;;;2020-04-22 11:30:40;Geert Stockman;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418906;BL0005;6.0;166608;3418906;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;10;;X;;2020-04-29 15:50:06;Geert Stockman;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;3418906;BL0005;6.0;166608;3418906;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;10;;X;;2020-04-29 15:50:06;Geert Stockman;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;3418906;BL0005;6.0;166608;3418906;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;10;;X;;2020-04-29 15:50:06;Geert Stockman;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3418906;BL0005;6.0;166608;3418906;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;10;;X;;2020-04-29 15:50:06;Geert Stockman;MDU;1;0;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418908;BL0005;6.0;166609;3418908;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;16;;X;;2020-04-29 15:50:08;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;3418908;BL0005;6.0;166609;3418908;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;16;;X;;2020-04-29 15:50:08;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;3418911;BL0005;6.0;166611;3418911;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;18;;X;;2020-04-29 15:50:09;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418911;BL0005;6.0;166611;3418911;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;18;;X;;2020-04-29 15:50:09;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418915;BL0005;6.0;166614;3418915;4782157;Sint-Michielsstraat 26-28;Sint-Michielsstraat 26-28;Sint-Michielsstraat;26;;XA;;2020-06-09 10:15:07;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418917;BL0005;6.0;5652103;3418917;4782157;Sint-Michielsstraat 26-28;Sint-Michielsstraat 26-28;Sint-Michielsstraat;28;;XC;;2020-06-09 10:05:10;Geert Stockman;MDU;1;8;0;9;1;8;0;9;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418918;BL0005;6.0;26014256;3418918;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;36;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;3418918;BL0005;6.0;26014256;3418918;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;36;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3418932;BL0024;2.0;4779054;3418932;4782161;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat;35;;XC;;2020-06-09 22:30:06;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3418932;BL0024;2.0;4779054;3418932;4782161;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat;35;;XC;;2020-06-09 22:30:06;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3418932;BL0024;2.0;4779054;3418932;4782161;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat;35;;XC;;2020-06-09 22:30:06;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419088;BL0035;1.0;166756;3419088;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;9;;X;;2020-04-22 17:50:08;Maayken Vanfleteren;MDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3419088;BL0035;1.0;166756;3419088;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;9;;X;;2020-04-22 17:50:08;Maayken Vanfleteren;MDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419088;BL0035;1.0;166756;3419088;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;9;;X;;2020-04-22 17:50:08;Maayken Vanfleteren;MDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3419280;BL0019;3.0;4569218;3419280;;;;Uilstraat;3;;D;;2020-07-15 10:50:05;Hidde Kiekens;MDU;0;7;0;7;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419280;BL0019;3.0;4569218;3419280;;;;Uilstraat;3;;D;;2020-07-15 10:50:05;Hidde Kiekens;MDU;0;7;0;7;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419280;BL0019;3.0;4569218;3419280;;;;Uilstraat;3;;D;;2020-07-15 10:50:05;Hidde Kiekens;MDU;0;7;0;7;0;9;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3419281;BL0019;3.0;166932;3419281;;;;Uilstraat;7;;D;;2020-07-15 10:40:05;Hidde Kiekens;MDU;0;7;0;7;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419281;BL0019;3.0;166932;3419281;;;;Uilstraat;7;;D;;2020-07-15 10:40:05;Hidde Kiekens;MDU;0;7;0;7;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419281;BL0019;3.0;166932;3419281;;;;Uilstraat;7;;D;;2020-07-15 10:40:05;Hidde Kiekens;MDU;0;7;0;7;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3419714;BL0010;5.0;167317;3419714;;;;Wallenstraat;1;;D;;2020-06-18;Maayken Vanfleteren;MDU;2;6;1;9;2;6;0;8;N;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3419714;BL0010;5.0;167317;3419714;;;;Wallenstraat;1;;D;;2020-06-18;Maayken Vanfleteren;MDU;2;6;1;9;2;6;0;8;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419714;BL0010;5.0;167317;3419714;;;;Wallenstraat;1;;D;;2020-06-18;Maayken Vanfleteren;MDU;2;6;1;9;2;6;0;8;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419714;BL0010;5.0;167317;3419714;;;;Wallenstraat;1;;D;;2020-06-18;Maayken Vanfleteren;MDU;2;6;1;9;2;6;0;8;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419716;BL0011;5.0;167318;3419716;;Wallenstraat 2-4-4A;Wallenstraat 2-4-4A;Wallenstraat;2;;XC;;2020-06-10 12:15:11;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3419717;BL0010;5.0;26014106;3419717;;;;Wallenstraat;3;;;;2019-12-03;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419718;BL0011;5.0;167319;3419718;;Wallenstraat 2-4-4A;Wallenstraat 2-4-4A;Wallenstraat;4;A;XC;;2020-06-10 12:15:10;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3419723;BL0010;5.0;4569219;3419723;;;;Wallenstraat;11;;;;2020-04-22 11:40:23;Maayken Vanfleteren;SDU;1;0;0;1;2;1;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419723;BL0010;5.0;4569219;3419723;;;;Wallenstraat;11;;;;2020-04-22 11:40:23;Maayken Vanfleteren;SDU;1;0;0;1;2;1;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3419723;BL0010;5.0;4569219;3419723;;;;Wallenstraat;11;;;;2020-04-22 11:40:23;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;3419723;BL0010;5.0;4569219;3419723;;;;Wallenstraat;11;;;;2020-04-22 11:40:23;Maayken Vanfleteren;SDU;1;0;0;1;2;1;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419730;BL0011;5.0;38402315;3419730;;;;Wallenstraat;20;;D;;2020-04-27;Geert Stockman;MDU;1;7;1;9;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3419730;BL0011;5.0;38402315;3419730;;;;Wallenstraat;20;;D;;2020-04-27;Geert Stockman;MDU;1;7;1;9;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419730;BL0011;5.0;38402315;3419730;;;;Wallenstraat;20;;D;;2020-04-27;Geert Stockman;MDU;1;7;1;9;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419731;BL0010;5.0;167329;3419731;;;;Wallenstraat;21;;D;;2020-06-19 17:45:08;Maayken Vanfleteren;MDU;1;1;0;2;2;0;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3419731;BL0010;5.0;167329;3419731;;;;Wallenstraat;21;;D;;2020-06-19 17:45:08;Maayken Vanfleteren;MDU;1;1;0;2;2;0;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3419731;BL0010;5.0;167329;3419731;;;;Wallenstraat;21;;D;;2020-06-19 17:45:08;Maayken Vanfleteren;MDU;1;1;0;2;2;0;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419735;BL0011;5.0;167332;3419735;;;;Wallenstraat;28;;XC;;2020-06-10 10:55:05;Geert Stockman;MDU;2;6;1;9;1;7;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3419735;BL0011;5.0;167332;3419735;;;;Wallenstraat;28;;XC;;2020-06-10 10:55:05;Geert Stockman;MDU;2;6;1;9;1;7;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;3419735;BL0011;5.0;167332;3419735;;;;Wallenstraat;28;;XC;;2020-06-10 10:55:05;Geert Stockman;MDU;2;6;1;9;1;7;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419735;BL0011;5.0;167332;3419735;;;;Wallenstraat;28;;XC;;2020-06-10 10:55:05;Geert Stockman;MDU;2;6;1;9;1;7;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3419735;BL0011;5.0;167332;3419735;;;;Wallenstraat;28;;XC;;2020-06-10 10:55:05;Geert Stockman;MDU;2;6;1;9;1;7;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419737;BL0011;5.0;4779162;3419737;;;;Wallenstraat;32;;D;;2020-06-09 14:25:25;Geert Stockman;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3419738;BL0010;5.0;167334;3419738;;;;Wallenstraat;33;;;;2020-04-22 11:30:22;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3419738;BL0010;5.0;167334;3419738;;;;Wallenstraat;33;;;;2020-04-22 11:30:22;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3419738;BL0010;5.0;167334;3419738;;;;Wallenstraat;33;;;;2020-04-22 11:30:22;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3419740;BL0010;5.0;167336;3419740;;;;Wallenstraat;37;;;;2020-04-22 11:30:35;Maayken Vanfleteren;SDU;0;1;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units bu diff;3419740;BL0010;5.0;167336;3419740;;;;Wallenstraat;37;;;;2020-04-22 11:30:35;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419740;BL0010;5.0;167336;3419740;;;;Wallenstraat;37;;;;2020-04-22 11:30:35;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419743;BL0011;5.0;167338;3419743;;;;Wallenstraat;42;;XC;;2020-06-09 14:10:13;Geert Stockman;MDU;1;5;1;7;1;5;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3419743;BL0011;5.0;167338;3419743;;;;Wallenstraat;42;;XC;;2020-06-09 14:10:13;Geert Stockman;MDU;1;5;1;7;1;5;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419743;BL0011;5.0;167338;3419743;;;;Wallenstraat;42;;XC;;2020-06-09 14:10:13;Geert Stockman;MDU;1;5;1;7;1;5;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3419752;BL0010;5.0;167344;3419752;;;;Wallenstraat;71;;;;2020-04-22 13:15:16;Maayken Vanfleteren;SDU;1;0;0;1;0;10;0;10;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3419752;BL0010;5.0;167344;3419752;;;;Wallenstraat;71;;;;2020-04-22 13:15:16;Maayken Vanfleteren;SDU;1;0;0;1;0;10;0;10;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419752;BL0010;5.0;167344;3419752;;;;Wallenstraat;71;;;;2020-04-22 13:15:16;Maayken Vanfleteren;SDU;1;0;0;1;0;10;0;10;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3419752;BL0010;5.0;167344;3419752;;;;Wallenstraat;71;;;;2020-04-22 13:15:16;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419839;BL0001;5.0;167422;3419839;;;;Westlaan;138;A;XC;;;Harry Melis;MDU;1;1;0;2;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3419875;BL0017;3.0;5652114;3419875;;;;Weststraat;21;;C;;2020-08-06 08:45:36;Geert Stockman;MDU;0;4;1;5;0;4;0;4;N;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3419875;BL0017;3.0;5652114;3419875;;;;Weststraat;21;;C;;2020-08-06 08:45:36;Geert Stockman;MDU;0;4;1;5;0;4;0;4;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419875;BL0017;3.0;5652114;3419875;;;;Weststraat;21;;C;;2020-08-06 08:45:36;Geert Stockman;MDU;0;4;1;5;0;4;0;4;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419875;BL0017;3.0;5652114;3419875;;;;Weststraat;21;;C;;2020-08-06 08:45:36;Geert Stockman;MDU;0;4;1;5;0;4;0;4;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419882;BL0024;2.0;167454;3419882;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;42;;XC;;2020-06-14 13:40:07;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3419882;BL0024;2.0;167454;3419882;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;42;;XC;;2020-06-14 13:40:07;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419882;BL0024;2.0;167454;3419882;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;42;;XC;;2020-06-14 13:40:07;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3419885;BL0024;2.0;167456;3419885;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;44;;XC;;2020-06-14 13:40:06;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419885;BL0024;2.0;167456;3419885;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;44;;XC;;2020-06-14 13:40:06;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419885;BL0024;2.0;167456;3419885;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;44;;XC;;2020-06-14 13:40:06;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419886;BL0024;2.0;167457;3419886;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;46;;XC;;2020-06-14 13:40:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419886;BL0024;2.0;167457;3419886;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;46;;XC;;2020-06-14 13:40:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3419886;BL0024;2.0;167457;3419886;;Weststraat 40-42-44-46-48;Weststraat 40-42-44-46-48;Weststraat;46;;XC;;2020-06-14 13:40:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3419888;BL0024;2.0;167459;3419888;;;Weststraat 40-42-44-46-48;Weststraat;48;;XC;;2020-06-07 20:45:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;3419888;BL0024;2.0;167459;3419888;;;Weststraat 40-42-44-46-48;Weststraat;48;;XC;;2020-06-07 20:45:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3419888;BL0024;2.0;167459;3419888;;;Weststraat 40-42-44-46-48;Weststraat;48;;XC;;2020-06-07 20:45:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3419888;BL0024;2.0;167459;3419888;;;Weststraat 40-42-44-46-48;Weststraat;48;;XC;;2020-06-07 20:45:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3419891;BL0016;3.0;167462;3419891;;;;Weststraat;55;A;D;D;2020-04-22 09:50:14;Geert Stockman;MDU;1;1;0;2;1;1;0;2;Y;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3419897;BL0023;2.0;167466;3419897;;;;Weststraat;82;;D;;2020-04-24 10:45:14;Maayken Vanfleteren;MDU;0;3;0;3;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3419897;BL0023;2.0;167466;3419897;;;;Weststraat;82;;D;;2020-04-24 10:45:14;Maayken Vanfleteren;MDU;0;3;0;3;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3948076;BL0028;1.0;168812;3948076;;;;Hoogleedsesteenweg;33;;;;2020-04-22 18:25:07;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;3948076;BL0028;1.0;168812;3948076;;;;Hoogleedsesteenweg;33;;;;2020-04-22 18:25:07;Maayken Vanfleteren;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3948076;BL0028;1.0;168812;3948076;;;;Hoogleedsesteenweg;33;;;;2020-04-22 18:25:07;Maayken Vanfleteren;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3948076;BL0028;1.0;168812;3948076;;;;Hoogleedsesteenweg;33;;;;2020-04-22 18:25:07;Maayken Vanfleteren;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3948089;BL0018;3.0;168816;3948089;;;;Kattenstraat;7;B;;;2020-08-20 10:15:53;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3948089;BL0018;3.0;168816;3948089;;;;Kattenstraat;7;B;;;2020-08-20 10:15:53;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;3948089;BL0018;3.0;168816;3948089;;;;Kattenstraat;7;B;;;2020-08-20 10:15:53;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;3948090;BL0026;2.0;168817;3948090;;;;Kattenstraat;175;;;;2020-07-15 12:20:10;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;3948090;BL0026;2.0;168817;3948090;;;;Kattenstraat;175;;;;2020-07-15 12:20:10;Hidde Kiekens;SDU;1;0;0;1;9;0;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3948090;BL0026;2.0;168817;3948090;;;;Kattenstraat;175;;;;2020-07-15 12:20:10;Hidde Kiekens;SDU;1;0;0;1;9;0;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;3948102;BL0009;6.0;26013933;3948102;;;;Grote Markt;10;;;;2019-12-02;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3948110;BL0012;6.0;168828;3948110;;;;Noordstraat;31;;D;;2020-04-21 09:00:16;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;3948110;BL0012;6.0;168828;3948110;;;;Noordstraat;31;;D;;2020-04-21 09:00:16;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3948110;BL0012;6.0;168828;3948110;;;;Noordstraat;31;;D;;2020-04-21 09:00:16;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3948133;BL0019;3.0;168840;3948133;;;;Uilstraat;5;;D;;2020-07-15 10:45:06;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3948133;BL0019;3.0;168840;3948133;;;;Uilstraat;5;;D;;2020-07-15 10:45:06;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3948133;BL0019;3.0;168840;3948133;;;;Uilstraat;5;;D;;2020-07-15 10:45:06;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;3948144;BL0009;6.0;5652119;3948144;;Vrouwenstraat 3-5-7;Vrouwenstraat 3-5-7;Vrouwenstraat;5;;XC;;2020-07-04 10:30:11;Maayken Vanfleteren;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3948144;BL0009;6.0;5652119;3948144;;Vrouwenstraat 3-5-7;Vrouwenstraat 3-5-7;Vrouwenstraat;5;;XC;;2020-07-04 10:30:11;Maayken Vanfleteren;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3948144;BL0009;6.0;5652119;3948144;;Vrouwenstraat 3-5-7;Vrouwenstraat 3-5-7;Vrouwenstraat;5;;XC;;2020-07-04 10:30:11;Maayken Vanfleteren;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;3948150;BL0023;2.0;26014234;3948150;;;;Weststraat;65;;X;;2020-04-24;Maayken Vanfleteren;MDU;0;4;0;4;0;17;0;17;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3948150;BL0023;2.0;26014234;3948150;;;;Weststraat;65;;X;;2020-04-24;Maayken Vanfleteren;MDU;0;4;0;4;0;17;0;17;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;3948150;BL0023;2.0;26014234;3948150;;;;Weststraat;65;;X;;2020-04-24;Maayken Vanfleteren;MDU;0;4;0;4;0;17;0;17;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;3960050;BL0011;5.0;169042;3960050;;;;Wallenstraat;52;;XC;;2020-06-10 09:45:06;Geert Stockman;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;3960050;BL0011;5.0;169042;3960050;;;;Wallenstraat;52;;XC;;2020-06-10 09:45:06;Geert Stockman;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;3960050;BL0011;5.0;169042;3960050;;;;Wallenstraat;52;;XC;;2020-06-10 09:45:06;Geert Stockman;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;3996598;BL0018;3.0;169486;3996598;;;;Diksmuidsesteenweg;34;;XC;;;Harry Melis;MDU;0;10;0;10;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4040189;BL0015;4.0;170271;4040189;;;;Diksmuidsesteenweg;31;;;;2020-04-20 10:30:39;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4040189;BL0015;4.0;170271;4040189;;;;Diksmuidsesteenweg;31;;;;2020-04-20 10:30:39;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4040189;BL0015;4.0;170271;4040189;;;;Diksmuidsesteenweg;31;;;;2020-04-20 10:30:39;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;4051029;BL0009;6.0;4776723;4051029;;;;Grote Markt;12;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4053352;BL0018;3.0;170518;4053352;;;;Diksmuidsesteenweg;10;;;;2020-04-22 13:10:14;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4053352;BL0018;3.0;170518;4053352;;;;Diksmuidsesteenweg;10;;;;2020-04-22 13:10:14;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4053352;BL0018;3.0;170518;4053352;;;;Diksmuidsesteenweg;10;;;;2020-04-22 13:10:14;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units su diff;4055156;BL0005;6.0;4778967;4055156;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;42;;C;;2020-08-06 16:25:06;Geert Stockman;MDU;0;14;1;15;1;14;0;15;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4055156;BL0005;6.0;4778967;4055156;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;42;;C;;2020-08-06 16:25:06;Geert Stockman;MDU;0;14;1;15;1;14;0;15;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;4055156;BL0005;6.0;4778967;4055156;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;42;;C;;2020-08-06 16:25:06;Geert Stockman;MDU;0;14;1;15;1;14;0;15;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4055156;BL0005;6.0;4778967;4055156;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;42;;C;;2020-08-06 16:25:06;Geert Stockman;MDU;0;14;1;15;1;14;0;15;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4127746;BL0025;2.0;171564;4127746;;;;Westlaan;464;;XC;;2019-12-03;Harry Melis;MDU;4;0;0;4;4;0;0;4;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4132502;BL0008;6.0;171613;4132502;;;;Motestraat;6;;;D;2020-04-21 10:35:26;Hidde Kiekens;SDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4144037;BL0024;2.0;4779286;4144037;;;;Weststraat;60;;;;2020-04-20 15:05:12;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4144037;BL0024;2.0;4779286;4144037;;;;Weststraat;60;;;;2020-04-20 15:05:12;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4144037;BL0024;2.0;4779286;4144037;;;;Weststraat;60;;;;2020-04-20 15:05:12;Geert Stockman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;4240145;BL0019;3.0;4778826;4240145;;;;Noordstraat;63;;D;;2020-04-22 13:25:13;Hidde Kiekens;MDU;1;2;0;3;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4240145;BL0019;3.0;4778826;4240145;;;;Noordstraat;63;;D;;2020-04-22 13:25:13;Hidde Kiekens;MDU;1;2;0;3;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4266128;BL0012;6.0;4778214;4266128;;;;Noordstraat;27;B;;;2020-04-21 09:10:18;Hidde Kiekens;SDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4266128;BL0012;6.0;4778214;4266128;;;;Noordstraat;27;B;;;2020-04-21 09:10:18;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4266128;BL0012;6.0;4778214;4266128;;;;Noordstraat;27;B;;;2020-04-21 09:10:18;Hidde Kiekens;SDU;1;0;0;1;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4350922;BL0032;1.0;4776714;4350922;;;;Gitsestraat;59;;XC;;2020-07-13 19:20:04;Maayken Vanfleteren;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4351049;BL0031;1.0;177027;4351049;;;;Hoogleedsesteenweg;97;;;;2020-04-22 16:30:17;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4351049;BL0031;1.0;177027;4351049;;;;Hoogleedsesteenweg;97;;;;2020-04-22 16:30:17;Maayken Vanfleteren;SDU;0;1;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;4351049;BL0031;1.0;177027;4351049;;;;Hoogleedsesteenweg;97;;;;2020-04-22 16:30:17;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4351119;BL0032;1.0;26014244;4351119;4782139;Hoogleedsesteenweg 54-56;Hoogleedsesteenweg 54-56;Hoogleedsesteenweg;56;;XC;;2019-12-02;Harry Melis;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4353795;BL0022;2.0;4777615;4353795;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;54;;XC;;2020-06-19 14:20:36;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4353795;BL0022;2.0;4777615;4353795;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;54;;XC;;2020-06-19 14:20:36;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4353795;BL0022;2.0;4777615;4353795;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;54;;XC;;2020-06-19 14:20:36;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4353798;BL0022;2.0;4777658;4353798;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;56;;XC;;2020-06-19 14:20:31;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4353798;BL0022;2.0;4777658;4353798;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;56;;XC;;2020-06-19 14:20:31;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4353798;BL0022;2.0;4777658;4353798;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;56;;XC;;2020-06-19 14:20:31;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4355146;BL0019;3.0;4778824;4355146;;;;Noordstraat;57;;D;;2020-04-22 13:25:10;Hidde Kiekens;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4355146;BL0019;3.0;4778824;4355146;;;;Noordstraat;57;;D;;2020-04-22 13:25:10;Hidde Kiekens;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4355172;BL0012;6.0;4775431;4355172;;;;Albrecht Rodenbachstraat;31;;D;;2020-07-15 11:05:09;Hidde Kiekens;MDU;0;5;0;5;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4355200;BL0012;6.0;4777564;4355200;4782147;;;Karnemelkstraat;12;;;;2020-04-21 09:35:11;Hidde Kiekens;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4355200;BL0012;6.0;4777564;4355200;4782147;;;Karnemelkstraat;12;;;;2020-04-21 09:35:11;Hidde Kiekens;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4355200;BL0012;6.0;4777564;4355200;4782147;;;Karnemelkstraat;12;;;;2020-04-21 09:35:11;Hidde Kiekens;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;4355248;BL0012;6.0;4778215;4355248;;;;Noordstraat;29;;D;;2020-04-21 09:05:09;Hidde Kiekens;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4355308;BL0023;2.0;26014236;4355308;;;;Weststraat;92;;;;2019-12-03;Harry Melis;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4355308;BL0023;2.0;26014236;4355308;;;;Weststraat;92;;;;2019-12-03;Harry Melis;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4355383;BL0023;2.0;4779197;4355383;;Westlaan 346-348;Westlaan 346-348;Westlaan;348;;XC;;2020-06-18 16:25:04;Maayken Vanfleteren;MDU;1;0;0;1;1;2;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4355383;BL0023;2.0;4779197;4355383;;Westlaan 346-348;Westlaan 346-348;Westlaan;348;;XC;;2020-06-18 16:25:04;Maayken Vanfleteren;MDU;1;0;0;1;1;2;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4355383;BL0023;2.0;4779197;4355383;;Westlaan 346-348;Westlaan 346-348;Westlaan;348;;XC;;2020-06-18 16:25:04;Maayken Vanfleteren;MDU;1;0;0;1;1;2;0;3;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4355525;BL0017;3.0;177496;4355525;;;;Juffrouw Lamotestraat;19;;;D;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4358425;BL0010;5.0;26013883;4358425;;;;Blekerijstraat;49;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358425;BL0010;5.0;26013883;4358425;;;;Blekerijstraat;49;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Units bu diff;4358425;BL0010;5.0;26013883;4358425;;;;Blekerijstraat;49;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4358425;BL0010;5.0;26013883;4358425;;;;Blekerijstraat;49;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4358428;BL0010;5.0;26013890;4358428;;;;Blekerijstraat;59;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358428;BL0010;5.0;26013890;4358428;;;;Blekerijstraat;59;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;4358428;BL0010;5.0;26013890;4358428;;;;Blekerijstraat;59;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;4358428;BL0010;5.0;26013890;4358428;;;;Blekerijstraat;59;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4358429;BL0010;5.0;26013891;4358429;;;;Blekerijstraat;61;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4358429;BL0010;5.0;26013891;4358429;;;;Blekerijstraat;61;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;4358429;BL0010;5.0;26013891;4358429;;;;Blekerijstraat;61;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358429;BL0010;5.0;26013891;4358429;;;;Blekerijstraat;61;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358430;BL0010;5.0;26013895;4358430;;;;Blekerijstraat;65;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;4358430;BL0010;5.0;26013895;4358430;;;;Blekerijstraat;65;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4358430;BL0010;5.0;26013895;4358430;;;;Blekerijstraat;65;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;4358430;BL0010;5.0;26013895;4358430;;;;Blekerijstraat;65;;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358431;BL0010;5.0;177803;4358431;;;;Blekerijstraat;67;;;;;Harry Melis;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;4358431;BL0010;5.0;177803;4358431;;;;Blekerijstraat;67;;;;;Harry Melis;SDU;0;0;0;0;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4358431;BL0010;5.0;177803;4358431;;;;Blekerijstraat;67;;;;;Harry Melis;SDU;0;0;0;0;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4358431;BL0010;5.0;177803;4358431;;;;Blekerijstraat;67;;;;;Harry Melis;SDU;0;0;0;0;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4358474;BL0009;6.0;26014098;4358474;;Vrouwenstraat 3-5-7;Vrouwenstraat 3-5-7;Vrouwenstraat;7;;XC;;2020-07-04;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4358498;BL0011;5.0;177815;4358498;;;;Wallenstraat;18;;;;2020-04-24 12:10:10;Geert Stockman;SDU;1;0;0;1;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4358498;BL0011;5.0;177815;4358498;;;;Wallenstraat;18;;;;2020-04-24 12:10:10;Geert Stockman;SDU;1;0;0;1;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358498;BL0011;5.0;177815;4358498;;;;Wallenstraat;18;;;;2020-04-24 12:10:10;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4358556;BL0009;6.0;177829;4358556;;Manestraat 9-11;Manestraat 9-11;Manestraat;9;;D;;2020-04-22 10:40:11;Maayken Vanfleteren;MDU;0;2;0;2;2;1;0;3;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;4358556;BL0009;6.0;177829;4358556;;Manestraat 9-11;Manestraat 9-11;Manestraat;9;;D;D;2020-04-22 10:40:11;Maayken Vanfleteren;MDU;0;2;0;2;2;1;0;3;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4358556;BL0009;6.0;177829;4358556;;Manestraat 9-11;Manestraat 9-11;Manestraat;9;;D;;2020-04-22 10:40:11;Maayken Vanfleteren;MDU;0;2;0;2;2;1;0;3;N;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4358556;BL0009;6.0;177829;4358556;;Manestraat 9-11;Manestraat 9-11;Manestraat;9;;D;;2020-04-22 10:40:11;Maayken Vanfleteren;MDU;0;2;0;2;2;1;0;3;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4358567;BL0011;5.0;4569226;4358567;;;;Karnemelkstraat;37;;D;;2020-04-24 09:50:10;Geert Stockman;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4358605;BL0018;3.0;4776231;4358605;;;;Diksmuidsesteenweg;32;;XC;;;Harry Melis;MDU;0;8;0;8;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;4358639;BL0015;4.0;177845;4358639;;;;Diksmuidsesteenweg;75;;;;2020-04-20 10:30:37;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4358639;BL0015;4.0;177845;4358639;;;;Diksmuidsesteenweg;75;;;;2020-04-20 10:30:37;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4358639;BL0015;4.0;177845;4358639;;;;Diksmuidsesteenweg;75;;;;2020-04-20 10:30:37;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4359539;BL0034;1.0;26014242;4359539;4782142;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg;147;;XC;;2020-06-18;Maayken Vanfleteren;MDU;0;3;1;4;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4359539;BL0034;1.0;26014242;4359539;4782142;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg;147;;XC;;2020-06-18;Maayken Vanfleteren;MDU;0;3;1;4;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4359539;BL0034;1.0;26014242;4359539;4782142;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg 147-149;Hoogleedsesteenweg;147;;XC;;2020-06-18;Maayken Vanfleteren;MDU;0;3;1;4;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4359544;BL0029;1.0;4707889;4359544;;;;Zwarte-Leeuwstraat;39;;;;2020-04-22 14:40:07;Maayken Vanfleteren;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4359544;BL0029;1.0;4707889;4359544;;;;Zwarte-Leeuwstraat;39;;;;2020-04-22 14:40:07;Maayken Vanfleteren;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;4359544;BL0029;1.0;4707889;4359544;;;;Zwarte-Leeuwstraat;39;;;;2020-04-22 14:40:07;Maayken Vanfleteren;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4359655;BL0035;1.0;4778206;4359655;;;;Noordlaan;55;;XC;;2020-06-18 19:05:04;Maayken Vanfleteren;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4365320;BL0006;4.0;178564;4365320;;;;Groenestraat;55;;;;2020-04-21 10:25:29;Hidde Kiekens;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4365320;BL0006;4.0;178564;4365320;;;;Groenestraat;55;;;;2020-04-21 10:25:29;Hidde Kiekens;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4365320;BL0006;4.0;178564;4365320;;;;Groenestraat;55;;;;2020-04-21 10:25:29;Hidde Kiekens;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;4369143;BL0020;3.0;4569228;4369143;;;;Uilstraat;32;;;;2020-04-24 12:45:16;Maayken Vanfleteren;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4369143;BL0020;3.0;4569228;4369143;;;;Uilstraat;32;;;;2020-04-24 12:45:16;Maayken Vanfleteren;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4369146;BL0020;3.0;4569229;4369146;;;;Uilstraat;34;;;;2020-04-24 12:45:23;Maayken Vanfleteren;SDU;0;1;0;1;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369146;BL0020;3.0;4569229;4369146;;;;Uilstraat;34;;;;2020-04-24 12:45:23;Maayken Vanfleteren;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4369146;BL0020;3.0;4569229;4369146;;;;Uilstraat;34;;;;2020-04-24 12:45:23;Maayken Vanfleteren;SDU;0;1;0;1;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4369222;BL0016;3.0;178946;4369222;;;;Diksmuidsesteenweg;80;;;;2020-04-20 13:25:10;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369222;BL0016;3.0;178946;4369222;;;;Diksmuidsesteenweg;80;;;;2020-04-20 13:25:10;Geert Stockman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4369222;BL0016;3.0;178946;4369222;;;;Diksmuidsesteenweg;80;;;;2020-04-20 13:25:10;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4369566;BL0007;5.0;26013879;4369566;;;;Arme-Klarenstraat;33;;;;2020-04-22;Hidde Kiekens;SDU;1;0;0;1;1;0;1;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369566;BL0007;5.0;26013879;4369566;;;;Arme-Klarenstraat;33;;;;2020-04-22;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units su diff;4369566;BL0007;5.0;26013879;4369566;;;;Arme-Klarenstraat;33;;;;2020-04-22;Hidde Kiekens;SDU;1;0;0;1;1;0;1;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;4369650;BL0007;5.0;179007;4369650;;;;Motestraat;22;;;;2020-04-21 10:35:22;Hidde Kiekens;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369650;BL0007;5.0;179007;4369650;;;;Motestraat;22;;;;2020-04-21 10:35:22;Hidde Kiekens;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4369650;BL0007;5.0;179007;4369650;;;;Motestraat;22;;;;2020-04-21 10:35:22;Hidde Kiekens;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;4369655;BL0007;5.0;26014145;4369655;;;;Motestraat;38;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369655;BL0007;5.0;26014145;4369655;;;;Motestraat;38;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;4369655;BL0007;5.0;26014145;4369655;;;;Motestraat;38;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369656;BL0007;5.0;26014146;4369656;;;;Motestraat;40;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4369656;BL0007;5.0;26014146;4369656;;;;Motestraat;40;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4369656;BL0007;5.0;26014146;4369656;;;;Motestraat;40;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369657;BL0007;5.0;26014149;4369657;;;;Motestraat;42;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4369657;BL0007;5.0;26014149;4369657;;;;Motestraat;42;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4369657;BL0007;5.0;26014149;4369657;;;;Motestraat;42;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4369658;BL0007;5.0;26014150;4369658;;;;Motestraat;44;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4369658;BL0007;5.0;26014150;4369658;;;;Motestraat;44;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;4369658;BL0007;5.0;26014150;4369658;;;;Motestraat;44;;;;2020-04-20;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;4371353;BL0005;6.0;179116;4371353;;;;Motestraat;5;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371370;BL0005;6.0;4778204;4371370;;;;Motestraat;19;;D;;2020-04-22 11:40:22;Geert Stockman;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;4371379;BL0008;6.0;179119;4371379;;;;Sint-Michielsplein;13;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371387;BL0005;6.0;4778921;4371387;;;;Sint-Michielsstraat;4;;D;;2020-04-22 11:30:36;Geert Stockman;MDU;0;3;0;3;0;3;0;3;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;4371387;BL0005;6.0;4778921;4371387;;;;Sint-Michielsstraat;4;;D;;2020-04-22 11:30:36;Geert Stockman;MDU;0;3;0;3;0;3;0;3;N;Y;BUILDING template
+ROESELARE - FH02;BG Name diff;4371402;BL0005;6.0;26014069;4371402;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;12;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4371402;BL0005;6.0;26014069;4371402;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;12;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371402;BL0005;6.0;26014069;4371402;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;12;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4371402;BL0005;6.0;26014069;4371402;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;12;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4371405;BL0005;6.0;26014071;4371405;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;14;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4371405;BL0005;6.0;26014071;4371405;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;14;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371405;BL0005;6.0;26014071;4371405;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;14;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4371405;BL0005;6.0;26014071;4371405;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;14;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4371433;BL0005;6.0;5652217;4371433;;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;30;;C;;2020-08-06 16:00:09;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371433;BL0005;6.0;5652217;4371433;;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;30;;C;;2020-08-06 16:00:09;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4371437;BL0005;6.0;4778924;4371437;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;32;;C;;2020-08-06 16:20:05;Geert Stockman;MDU;0;27;1;28;0;27;0;27;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4371437;BL0005;6.0;4778924;4371437;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;32;;C;;2020-08-06 16:20:05;Geert Stockman;MDU;0;27;1;28;0;27;0;27;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4371437;BL0005;6.0;4778924;4371437;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;32;;C;;2020-08-06 16:20:05;Geert Stockman;MDU;0;27;1;28;0;27;0;27;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371437;BL0005;6.0;4778924;4371437;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;32;;C;;2020-08-06 16:20:05;Geert Stockman;MDU;0;27;1;28;0;27;0;27;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371440;BL0005;6.0;26014255;4371440;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;34;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4371440;BL0005;6.0;26014255;4371440;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;34;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371443;BL0005;6.0;26014258;4371443;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;38;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4371443;BL0005;6.0;26014258;4371443;4782158;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;38;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;4371445;BL0005;6.0;4778962;4371445;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;40;;C;;2020-08-06 16:25:07;Geert Stockman;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;4371445;BL0005;6.0;4778962;4371445;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;40;;C;;2020-08-06 16:25:07;Geert Stockman;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371445;BL0005;6.0;4778962;4371445;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;40;;C;;2020-08-06 16:25:07;Geert Stockman;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;4371445;BL0005;6.0;4778962;4371445;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;40;;C;;2020-08-06 16:25:07;Geert Stockman;MDU;0;6;1;7;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;4371468;BL0005;6.0;26013955;4371468;;;;Iepersestraat;46;;;;2020-08-06;Geert Stockman;SDU;0;0;0;0;1;50;0;51;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;4371468;BL0005;6.0;26013955;4371468;;;;Iepersestraat;46;;;;2020-08-06;Geert Stockman;SDU;0;0;0;0;1;50;0;51;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;4371468;BL0005;6.0;26013955;4371468;;;;Iepersestraat;46;;;;2020-08-06;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;4371468;BL0005;6.0;26013955;4371468;;;;Iepersestraat;46;;;;2020-08-06;Geert Stockman;SDU;0;0;0;0;1;50;0;51;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;4371474;BL0005;6.0;26013959;4371474;;;;Iepersestraat;50;;D;;2020-04-22;Geert Stockman;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;4374513;BL0009;6.0;4776722;4374513;;;;Grote Markt;11;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;5320349;BL0020;3.0;26014066;5320349;;;;Noordstraat;95;;;;2020-04-24;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;5320349;BL0020;3.0;26014066;5320349;;;;Noordstraat;95;;;;2020-04-24;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5320349;BL0020;3.0;26014066;5320349;;;;Noordstraat;95;;;;2020-04-24;Maayken Vanfleteren;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Wall Mount diff;5369331;BL0009;6.0;192221;5369331;;;;Grote Markt;9;A;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5398714;BL0012;6.0;192460;5398714;;;;Manestraat;6;A;;;2020-04-21 09:25:09;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;5398714;BL0012;6.0;192460;5398714;;;;Manestraat;6;A;;;2020-04-21 09:25:09;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;5398714;BL0012;6.0;192460;5398714;;;;Manestraat;6;A;;;2020-04-21 09:25:09;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;5398714;BL0012;6.0;192460;5398714;;;;Manestraat;6;A;;;2020-04-21 09:25:09;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;5428745;BL0009;6.0;192704;5428745;;;;Marie-Louise De Meesterplein;13;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;5556383;BL0009;6.0;4778143;5556383;;;;Manestraat;3;;;;2020-04-22 10:25:24;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;5556383;BL0009;6.0;4778143;5556383;;;;Manestraat;3;;;;2020-04-22 10:25:24;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;5556383;BL0009;6.0;4778143;5556383;;;;Manestraat;3;;;;2020-04-22 10:25:24;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5556383;BL0009;6.0;4778143;5556383;;;;Manestraat;3;;;;2020-04-22 10:25:24;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;5573066;BL0010;5.0;26013884;5573066;;;;Blekerijstraat;49;B;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5573066;BL0010;5.0;26013884;5573066;;;;Blekerijstraat;49;B;;;2019-12-02;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;5573066;BL0010;5.0;26013884;5573066;;;;Blekerijstraat;49;B;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;5573066;BL0010;5.0;26013884;5573066;;;;Blekerijstraat;49;B;;;2019-12-02;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;5580344;BL0009;6.0;194159;5580344;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;3;;XC;;2020-06-19 17:45:07;Maayken Vanfleteren;MDU;0;11;1;12;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;5580344;BL0009;6.0;194159;5580344;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;3;;XC;;2020-06-19 17:45:07;Maayken Vanfleteren;MDU;0;11;1;12;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;5580344;BL0009;6.0;194159;5580344;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;3;;XC;;2020-06-19 17:45:07;Maayken Vanfleteren;MDU;0;11;1;12;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Units su diff;5580344;BL0009;6.0;194159;5580344;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;3;;XC;;2020-06-19 17:45:07;Maayken Vanfleteren;MDU;0;11;1;12;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;5580454;BL0022;2.0;194171;5580454;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;60;;XC;;2020-06-19 12:40:11;Maayken Vanfleteren;MDU;0;24;4;28;1;23;0;24;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;5580454;BL0022;2.0;194171;5580454;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;60;;XC;;2020-06-19 12:40:11;Maayken Vanfleteren;MDU;0;24;4;28;1;23;0;24;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;5580454;BL0022;2.0;194171;5580454;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;60;;XC;;2020-06-19 12:40:11;Maayken Vanfleteren;MDU;0;24;4;28;1;23;0;24;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;5580454;BL0022;2.0;194171;5580454;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;60;;XC;;2020-06-19 12:40:11;Maayken Vanfleteren;MDU;0;24;4;28;1;23;0;24;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;5580454;BL0022;2.0;194171;5580454;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;60;;XC;;2020-06-19 12:40:11;Maayken Vanfleteren;MDU;0;24;4;28;1;23;0;24;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;5580530;BL0019;3.0;4779061;5580530;;;;Uilstraat;9;;D;;2020-07-15 10:35:06;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;5580530;BL0019;3.0;4779061;5580530;;;;Uilstraat;9;;D;;2020-07-15 10:35:06;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;5580530;BL0019;3.0;4779061;5580530;;;;Uilstraat;9;;D;;2020-07-15 10:35:06;Hidde Kiekens;MDU;0;7;0;7;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;5713827;BL0022;2.0;26014033;5713827;;;;Noordstraat;155;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5713827;BL0022;2.0;26014033;5713827;;;;Noordstraat;155;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;5713827;BL0022;2.0;26014033;5713827;;;;Noordstraat;155;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;5717363;BL0008;6.0;4890171;5717363;;;;Huidevetterijstraat;8;;XC;D;2020-06-30 13:25:21;Hidde Kiekens;MDU;0;6;0;6;0;6;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5741158;BL0015;4.0;26013876;5741158;;;;Alfons Carlierstraat;9;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;5741158;BL0015;4.0;26013876;5741158;;;;Alfons Carlierstraat;9;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;5741158;BL0015;4.0;26013876;5741158;;;;Alfons Carlierstraat;9;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;5743995;BL0013;4.0;4775597;5743995;;;;Alfons Carlierstraat;34;;;;2020-04-22 08:10:07;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;5743995;BL0013;4.0;4775597;5743995;;;;Alfons Carlierstraat;34;;;;2020-04-22 08:10:07;Geert Stockman;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;5743995;BL0013;4.0;4775597;5743995;;;;Alfons Carlierstraat;34;;;;2020-04-22 08:10:07;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Wall Mount diff;6038282;BL0009;6.0;4778169;6038282;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;4;;XC;;2020-06-19 17:45:05;Maayken Vanfleteren;MDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;6038282;BL0009;6.0;4778169;6038282;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;4;;XC;;2020-06-19 17:45:05;Maayken Vanfleteren;MDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;6038283;BL0009;6.0;4778172;6038283;;;;Marie-Louise De Meesterplein;10;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;6038285;BL0009;6.0;4778174;6038285;;;;Marie-Louise De Meesterplein;12;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;6038311;BL0025;2.0;4779056;6038311;;;;Sint-Sebastiaansstraat;72;;;;2020-04-22 13:35:09;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;6038311;BL0025;2.0;4779056;6038311;;;;Sint-Sebastiaansstraat;72;;;;2020-04-22 13:35:09;Hidde Kiekens;SDU;1;0;0;1;3;0;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;6038311;BL0025;2.0;4779056;6038311;;;;Sint-Sebastiaansstraat;72;;;;2020-04-22 13:35:09;Hidde Kiekens;SDU;1;0;0;1;3;0;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;6038313;BL0035;1.0;4779059;6038313;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;13;A;X;;2020-04-22 17:55:10;Maayken Vanfleteren;MDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;6038313;BL0035;1.0;4779059;6038313;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;13;A;X;;2020-04-22 17:55:10;Maayken Vanfleteren;MDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;6038313;BL0035;1.0;4779059;6038313;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;13;A;X;;2020-04-22 17:55:10;Maayken Vanfleteren;MDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;6038314;BL0035;1.0;4779060;6038314;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;13;B;X;;2020-04-22 17:55:11;Maayken Vanfleteren;MDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;6038314;BL0035;1.0;4779060;6038314;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;13;B;X;;2020-04-22 17:55:11;Maayken Vanfleteren;MDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;6038314;BL0035;1.0;4779060;6038314;4782162;Steenstraat 9-11-13;Steenstraat 9-11-13;Steenstraat;13;B;X;;2020-04-22 17:55:11;Maayken Vanfleteren;MDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;6056472;BL0010;5.0;4977012;6056472;;;;Arme-Klarenstraat;17;B;;;;Harry Melis;SDU;0;0;0;0;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;6056472;BL0010;5.0;4977012;6056472;;;;Arme-Klarenstraat;17;B;;;;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;6056472;BL0010;5.0;4977012;6056472;;;;Arme-Klarenstraat;17;B;;;;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;6056472;BL0010;5.0;4977012;6056472;;;;Arme-Klarenstraat;17;B;;;;Harry Melis;SDU;0;0;0;0;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;6240799;BL0024;2.0;26014161;6240799;;;;Weststraat;36;A;XC;;2020-07-07;Geert Stockman;MDU;0;4;1;5;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;6240799;BL0024;2.0;26014161;6240799;;;;Weststraat;36;A;XC;;2020-07-07;Geert Stockman;MDU;0;4;1;5;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;6240799;BL0024;2.0;26014161;6240799;;;;Weststraat;36;A;XC;;2020-07-07;Geert Stockman;MDU;0;4;1;5;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;6383904;BL0023;2.0;26014120;6383904;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Westlaan;344;;XC;;2020-06-18;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;6383904;BL0023;2.0;26014120;6383904;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Westlaan;344;;XC;;2020-06-18;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;6459859;BL0012;6.0;26014056;6459859;;;;Noordstraat;43;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;6459859;BL0012;6.0;26014056;6459859;;;;Noordstraat;43;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;6459859;BL0012;6.0;26014056;6459859;;;;Noordstraat;43;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;6459859;BL0012;6.0;26014056;6459859;;;;Noordstraat;43;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;6463077;BL0023;2.0;26014123;6463077;;;;Westlaan;344;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;6463077;BL0023;2.0;26014123;6463077;;;;Westlaan;344;A;;;2019-12-03;Harry Melis;SDU;0;0;0;0;0;1;0;1;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;6607008;BL0005;6.0;26014075;6607008;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;20;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;6607008;BL0005;6.0;26014075;6607008;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;20;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;6607008;BL0005;6.0;26014075;6607008;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;20;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;6607008;BL0005;6.0;26014075;6607008;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Sint-Michielsstraat;20;;X;;2020-04-29;Geert Stockman;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;6624678;BL0009;6.0;26014014;6624678;;;;Marie-Louise De Meesterplein;1;;;;2019-12-02;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;851410;BL0032;1.0;4707954;851410;;;;Hoogleedsesteenweg;8;;XC;;;Harry Melis;MDU;0;3;0;3;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;851411;BL0028;1.0;4707955;851411;;;;Hoogleedsesteenweg;65;;XC;;2020-07-03 13:45:09;Maayken Vanfleteren;MDU;0;9;0;9;0;9;0;9;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;852515;BL0024;2.0;4707980;852515;4782161;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat;33;;XC;;2020-06-09 22:35:04;Geert Stockman;MDU;0;6;1;7;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852515;BL0024;2.0;4707980;852515;4782161;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat;33;;XC;;2020-06-09 22:35:04;Geert Stockman;MDU;0;6;1;7;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;852515;BL0024;2.0;4707980;852515;4782161;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat 33-35;Sint-Sebastiaansstraat;33;;XC;;2020-06-09 22:35:04;Geert Stockman;MDU;0;6;1;7;0;6;0;6;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852517;BL0024;2.0;4707981;852517;;;;Sint-Sebastiaansstraat;1;;D;;2020-04-22 09:10:08;Geert Stockman;MDU;0;6;0;6;0;6;0;6;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;852532;BL0017;3.0;4707989;852532;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;38;;XC;;2020-06-05 19:50:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852532;BL0017;3.0;4707989;852532;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;38;;XC;;2020-06-05 19:50:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;852532;BL0017;3.0;4707989;852532;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;38;;XC;;2020-06-05 19:50:04;Geert Stockman;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852534;BL0025;2.0;4707991;852534;;;;Westlaan;400;;;;2020-04-22 13:40:07;Hidde Kiekens;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;852534;BL0025;2.0;4707991;852534;;;;Westlaan;400;;;;2020-04-22 13:40:07;Hidde Kiekens;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;852534;BL0025;2.0;4707991;852534;;;;Westlaan;400;;;;2020-04-22 13:40:07;Hidde Kiekens;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;852535;BL0023;2.0;26014124;852535;;Westlaan 346-348;Westlaan 346-348;Westlaan;346;;XC;;2020-06-18;Maayken Vanfleteren;MDU;3;2;1;6;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852535;BL0023;2.0;26014124;852535;;Westlaan 346-348;Westlaan 346-348;Westlaan;346;;XC;;2020-06-18;Maayken Vanfleteren;MDU;3;2;1;6;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852535;BL0023;2.0;26014124;852535;;Westlaan 346-348;Westlaan 346-348;Westlaan;346;;XC;;2020-06-18;Maayken Vanfleteren;MDU;3;2;1;6;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;852535;BL0023;2.0;26014124;852535;;Westlaan 346-348;Westlaan 346-348;Westlaan;346;;XC;;2020-06-18;Maayken Vanfleteren;MDU;3;2;1;6;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;852535;BL0023;2.0;26014124;852535;;Westlaan 346-348;Westlaan 346-348;Westlaan;346;;XC;;2020-06-18;Maayken Vanfleteren;MDU;3;2;1;6;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852539;BL0017;3.0;5652319;852539;;;;Weststraat;23;;D;;2020-04-22 10:25:20;Geert Stockman;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;852544;BL0016;3.0;4707998;852544;;;;Weststraat;83;;D;;2020-04-22 10:10:12;Geert Stockman;MDU;0;3;0;3;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;852544;BL0016;3.0;4707998;852544;;;;Weststraat;83;;D;;2020-04-22 10:10:12;Geert Stockman;MDU;0;3;0;3;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;852545;BL0023;2.0;4707999;852545;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Weststraat;94;;XC;;2020-06-18 15:25:16;Maayken Vanfleteren;MDU;0;6;2;8;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;852545;BL0023;2.0;4707999;852545;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Weststraat;94;;XC;;2020-06-18 15:25:16;Maayken Vanfleteren;MDU;0;6;2;8;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852545;BL0023;2.0;4707999;852545;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Weststraat;94;;XC;;2020-06-18 15:25:16;Maayken Vanfleteren;MDU;0;6;2;8;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;852545;BL0023;2.0;4707999;852545;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Weststraat;94;;XC;;2020-06-18 15:25:16;Maayken Vanfleteren;MDU;0;6;2;8;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852545;BL0023;2.0;4707999;852545;;Weststraat 94_Westlaan 344;Westlaan 344_Weststraat 94;Weststraat;94;;XC;;2020-06-18 15:25:16;Maayken Vanfleteren;MDU;0;6;2;8;1;6;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;852554;BL0017;3.0;4708008;852554;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;40;;XA;;2020-06-05 20:10:04;Geert Stockman;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852554;BL0017;3.0;4708008;852554;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;40;;XA;;2020-06-05 20:10:04;Geert Stockman;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852554;BL0017;3.0;4708008;852554;;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat 34-36-38-40-42-44-46-48;Juffrouw Lamotestraat;40;;XA;;2020-06-05 20:10:04;Geert Stockman;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;852887;BL0033;1.0;4779301;852887;;;;Zwarte-Leeuwstraat;58;;X;;2020-04-22;Maayken Vanfleteren;MDU;0;5;1;6;1;8;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;852887;BL0033;1.0;4779301;852887;;;;Zwarte-Leeuwstraat;58;;X;;2020-04-22;Maayken Vanfleteren;MDU;0;5;1;6;1;8;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;852887;BL0033;1.0;4779301;852887;;;;Zwarte-Leeuwstraat;58;;X;;2020-04-22;Maayken Vanfleteren;MDU;0;5;1;6;1;8;0;9;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;852887;BL0033;1.0;4779301;852887;;;;Zwarte-Leeuwstraat;58;;X;;2020-04-22;Maayken Vanfleteren;MDU;0;5;1;6;1;8;0;9;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852887;BL0033;1.0;4779301;852887;;;;Zwarte-Leeuwstraat;58;;X;;2020-04-22;Maayken Vanfleteren;MDU;0;5;1;6;1;8;0;9;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;852895;BL0035;1.0;4708039;852895;;;;Hoogleedsesteenweg;156;;D;;2020-04-22 16:25:11;Maayken Vanfleteren;MDU;0;3;0;3;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;869013;BL0014;4.0;11134604;869013;;Pelkimstraat 68_Westlaan 270-272;Pilkemstraat 68_Westlaan 270-272;Westlaan;272;;D;;2020-04-20 12:40:13;Geert Stockman;MDU;0;5;0;5;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877456;BL0001;5.0;4777562;877456;;;;Iepersestraat;126;;XC;;2020-07-15 10:25:38;Maayken Vanfleteren;MDU;1;13;1;15;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877456;BL0001;5.0;4777562;877456;;;;Iepersestraat;126;;XC;;2020-07-15 10:25:38;Maayken Vanfleteren;MDU;1;13;1;15;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;877456;BL0001;5.0;4777562;877456;;;;Iepersestraat;126;;XC;;2020-07-15 10:25:38;Maayken Vanfleteren;MDU;1;13;1;15;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;877456;BL0001;5.0;4777562;877456;;;;Iepersestraat;126;;XC;;2020-07-15 10:25:38;Maayken Vanfleteren;MDU;1;13;1;15;0;13;0;13;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877532;BL0008;6.0;4708367;877532;;;;Sint-Michielsplein;12;;;D;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877532;BL0008;6.0;4708367;877532;;;;Sint-Michielsplein;12;;;D;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877533;BL0008;6.0;4708368;877533;;;;Sint-Michielsplein;15;;D;D;2020-04-21 10:40:28;Hidde Kiekens;MDU;2;0;0;2;2;0;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877539;BL0005;6.0;26014264;877539;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;44;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;877539;BL0005;6.0;26014264;877539;4782159;Sint-Michielsstraat 30-32-34-36-38-40-42-44_Langemarkstraat 35;Langemarkstraat 35_Sint-Michielsstraat 30-32-34-36-38-40-42-44;Sint-Michielsstraat;44;;C;;2020-08-06;Geert Stockman;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877706;BL0006;4.0;4708381;877706;;;;Blekerijstraat;2;;;;2020-04-22 14:00:15;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units total diff;877706;BL0006;4.0;4708381;877706;;;;Blekerijstraat;2;;;;2020-04-22 14:00:15;Hidde Kiekens;SDU;1;0;0;1;5;1;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;877706;BL0006;4.0;4708381;877706;;;;Blekerijstraat;2;;;;2020-04-22 14:00:15;Hidde Kiekens;SDU;1;0;0;1;5;1;0;6;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;877706;BL0006;4.0;4708381;877706;;;;Blekerijstraat;2;;;;2020-04-22 14:00:15;Hidde Kiekens;SDU;1;0;0;1;5;1;0;6;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;877710;BL0014;4.0;4708383;877710;;Pelkimstraat 68_Westlaan 270-272;Pilkemstraat 68_Westlaan 270-272;Pilkemstraat;68;;D;;2020-04-20 12:15:31;Geert Stockman;MDU;0;5;0;5;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877719;BL0001;5.0;4708390;877719;;;;Molenstraat;97;;;;2020-04-24 09:55:15;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877719;BL0001;5.0;4708390;877719;;;;Molenstraat;97;;;;2020-04-24 09:55:15;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;877719;BL0001;5.0;4708390;877719;;;;Molenstraat;97;;;;2020-04-24 09:55:15;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;877723;BL0006;4.0;4708394;877723;;;;Molenstraat;112;;D;;2020-06-26 13:35:10;Hidde Kiekens;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877724;BL0006;4.0;26014016;877724;;;;Molenstraat;42;A;D;;2020-04-22;Hidde Kiekens;MDU;0;7;0;7;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;BG Name diff;877725;BL0007;5.0;4775905;877725;4782137;Arme-Klarenstraat 71-73;;Arme-Klarenstraat;73;;XC;;2020-06-26 14:00:07;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;877725;BL0007;5.0;4775905;877725;4782137;Arme-Klarenstraat 71-73;;Arme-Klarenstraat;73;;XC;;2020-06-26 14:00:07;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877725;BL0007;5.0;4775905;877725;4782137;Arme-Klarenstraat 71-73;;Arme-Klarenstraat;73;;XC;;2020-06-26 14:00:07;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877725;BL0007;5.0;4775905;877725;4782137;Arme-Klarenstraat 71-73;;Arme-Klarenstraat;73;;XC;;2020-06-26 14:00:07;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;877729;BL0010;5.0;4708398;877729;;;;Arme-Klarenstraat;6;;;;2020-04-22 12:10:26;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877729;BL0010;5.0;4708398;877729;;;;Arme-Klarenstraat;6;;;;2020-04-22 12:10:26;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877729;BL0010;5.0;4708398;877729;;;;Arme-Klarenstraat;6;;;;2020-04-22 12:10:26;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877737;BL0006;4.0;4708403;877737;;;;Westlaan;202;;;;2020-06-30 13:30:32;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;877737;BL0006;4.0;4708403;877737;;;;Westlaan;202;;;;2020-06-30 13:30:32;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;877737;BL0006;4.0;4708403;877737;;;;Westlaan;202;;;;2020-06-30 13:30:32;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;877738;BL0001;5.0;4708404;877738;;;;Westlaan;140;;XC;;;Harry Melis;MDU;3;1;0;4;3;1;0;4;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;877747;BL0001;5.0;4708413;877747;;;;Meelstraat;7;;;;2020-04-24 09:55:10;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units bu diff;877747;BL0001;5.0;4708413;877747;;;;Meelstraat;7;;;;2020-04-24 09:55:10;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877747;BL0001;5.0;4708413;877747;;;;Meelstraat;7;;;;2020-04-24 09:55:10;Maayken Vanfleteren;SDU;0;1;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units lu diff;877753;BL0006;4.0;4777731;877753;;;;Kermisstraat;58;;;;2020-04-21 10:25:33;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877753;BL0006;4.0;4777731;877753;;;;Kermisstraat;58;;;;2020-04-21 10:25:33;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;877753;BL0006;4.0;4777731;877753;;;;Kermisstraat;58;;;;2020-04-21 10:25:33;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;877757;BL0007;5.0;4777720;877757;;;;Kermisstraat;4;;;;2020-04-21 10:30:22;Hidde Kiekens;SDU;1;0;0;1;0;10;0;10;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877757;BL0007;5.0;4777720;877757;;;;Kermisstraat;4;;;;2020-04-21 10:30:22;Hidde Kiekens;SDU;1;0;0;1;0;10;0;10;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877757;BL0007;5.0;4777720;877757;;;;Kermisstraat;4;;;;2020-04-21 10:30:22;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;877757;BL0007;5.0;4777720;877757;;;;Kermisstraat;4;;;;2020-04-21 10:30:22;Hidde Kiekens;SDU;1;0;0;1;0;10;0;10;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877759;BL0005;6.0;26014025;877759;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Motestraat;29;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;1;0;1;Y;N;BUILDING template
+ROESELARE - FH02;Units lu diff;877759;BL0005;6.0;26014025;877759;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Motestraat;29;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;1;0;1;Y;N;BUILDING template
+ROESELARE - FH02;Units su diff;877759;BL0005;6.0;26014025;877759;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Motestraat;29;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;1;0;1;Y;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;877759;BL0005;6.0;26014025;877759;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Motestraat;29;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;1;0;1;Y;N;BUILDING template
+ROESELARE - FH02;BG Name diff;877759;BL0005;6.0;26014025;877759;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Motestraat;29;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;1;0;1;Y;N;BUILDING template
+ROESELARE - FH02;Units total diff;877759;BL0005;6.0;26014025;877759;;Sint-Michielsstraat 10-12-14-16-18-20_Motestraat 29;Motestraat 29_Sint-Michielsstraat 10-12-14-16-18-20;Motestraat;29;;X;;2020-04-29;Geert Stockman;MDU;0;5;1;6;0;1;0;1;Y;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877762;BL0007;5.0;4708421;877762;;;;Motestraat;14;;;;2020-04-21 10:30:32;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;877762;BL0007;5.0;4708421;877762;;;;Motestraat;14;;;;2020-04-21 10:30:32;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877762;BL0007;5.0;4708421;877762;;;;Motestraat;14;;;;2020-04-21 10:30:32;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877775;BL0014;4.0;4708428;877775;;;;Diksmuidsesteenweg;177;;D;;2020-04-20 08:45:15;Geert Stockman;MDU;0;3;0;3;0;3;0;3;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;877792;BL0012;6.0;4708439;877792;;;;Albrecht Rodenbachstraat;43;;;;2020-04-21 10:05:24;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877792;BL0012;6.0;4708439;877792;;;;Albrecht Rodenbachstraat;43;;;;2020-04-21 10:05:24;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;877792;BL0012;6.0;4708439;877792;;;;Albrecht Rodenbachstraat;43;;;;2020-04-21 10:05:24;Hidde Kiekens;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877796;BL0010;5.0;4569240;877796;;;;Vrouwenstraat;2;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877797;BL0010;5.0;4708442;877797;;;;Vrouwenstraat;6;;;;2020-04-22 12:05:16;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877797;BL0010;5.0;4708442;877797;;;;Vrouwenstraat;6;;;;2020-04-22 12:05:16;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;877797;BL0010;5.0;4708442;877797;;;;Vrouwenstraat;6;;;;2020-04-22 12:05:16;Maayken Vanfleteren;SDU;0;1;0;1;1;1;0;2;N;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877797;BL0010;5.0;4708442;877797;;;;Vrouwenstraat;6;;;;2020-04-22 12:05:16;Maayken Vanfleteren;SDU;0;1;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Quadrant diff;877798;BL0009;6.0;26014093;877798;;Vrouwenstraat 3-5-7;Vrouwenstraat 3-5-7;Vrouwenstraat;3;;XC;;2020-07-04;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877802;BL0009;6.0;4708446;877802;;;;Manestraat;17;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877803;BL0009;6.0;4708447;877803;;;;Manestraat;1;;D;;2020-07-04 13:35:09;Maayken Vanfleteren;MDU;0;9;1;10;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;877803;BL0009;6.0;4708447;877803;;;;Manestraat;1;;D;;2020-07-04 13:35:09;Maayken Vanfleteren;MDU;0;9;1;10;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Units su diff;877803;BL0009;6.0;4708447;877803;;;;Manestraat;1;;D;;2020-07-04 13:35:09;Maayken Vanfleteren;MDU;0;9;1;10;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877803;BL0009;6.0;4708447;877803;;;;Manestraat;1;;D;;2020-07-04 13:35:09;Maayken Vanfleteren;MDU;0;9;1;10;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;877803;BL0009;6.0;4708447;877803;;;;Manestraat;1;;D;;2020-07-04 13:35:09;Maayken Vanfleteren;MDU;0;9;1;10;0;11;0;11;N;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;877818;BL0010;5.0;4708459;877818;;;;Arme-Klarenstraat;36;;;;2020-08-26 15:15:12;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;877818;BL0010;5.0;4708459;877818;;;;Arme-Klarenstraat;36;;;;2020-08-26 15:15:12;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;N;N;BUILDING template
+ROESELARE - FH02;Buildingtype diff;877818;BL0010;5.0;4708459;877818;;;;Arme-Klarenstraat;36;;;;2020-08-26 15:15:12;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ROESELARE - FH02;Units su diff;877827;BL0011;5.0;4708468;877827;;Wallenstraat 2-4-4A;Wallenstraat 2-4-4A;Wallenstraat;4;;XC;;2020-06-10 12:40:05;Geert Stockman;MDU;0;7;1;8;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;877827;BL0011;5.0;4708468;877827;;Wallenstraat 2-4-4A;Wallenstraat 2-4-4A;Wallenstraat;4;;XC;;2020-06-10 12:40:05;Geert Stockman;MDU;0;7;1;8;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;877827;BL0011;5.0;4708468;877827;;Wallenstraat 2-4-4A;Wallenstraat 2-4-4A;Wallenstraat;4;;XC;;2020-06-10 12:40:05;Geert Stockman;MDU;0;7;1;8;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;877830;BL0010;5.0;4708471;877830;;;;Wallenstraat;67;;D;;2020-04-22 13:25:11;Maayken Vanfleteren;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877830;BL0010;5.0;4708471;877830;;;;Wallenstraat;67;;D;;2020-04-22 13:25:11;Maayken Vanfleteren;MDU;0;2;0;2;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877833;BL0018;3.0;4708473;877833;;;;Kattenstraat;17;;D;;2020-04-22 13:20:08;Hidde Kiekens;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;877837;BL0011;5.0;4708476;877837;;;;Karnemelkstraat;41;;D;;2020-06-16 09:35:13;Geert Stockman;MDU;0;5;0;5;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;877837;BL0011;5.0;4708476;877837;;;;Karnemelkstraat;41;;D;;2020-06-16 09:35:13;Geert Stockman;MDU;0;5;0;5;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877837;BL0011;5.0;4708476;877837;;;;Karnemelkstraat;41;;D;;2020-06-16 09:35:13;Geert Stockman;MDU;0;5;0;5;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877840;BL0011;5.0;4708479;877840;;;;Karnemelkstraat;1;;D;;2020-04-24 09:30:11;Geert Stockman;MDU;1;3;0;4;1;3;0;4;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;877841;BL0012;6.0;4708480;877841;;;;Karnemelkstraat;2;;D;;2020-07-26 12:45:04;Hidde Kiekens;MDU;0;3;0;3;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;877841;BL0012;6.0;4708480;877841;;;;Karnemelkstraat;2;;D;;2020-07-26 12:45:04;Hidde Kiekens;MDU;0;3;0;3;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;877841;BL0012;6.0;4708480;877841;;;;Karnemelkstraat;2;;D;;2020-07-26 12:45:04;Hidde Kiekens;MDU;0;3;0;3;1;3;0;4;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;877843;BL0012;6.0;4569242;877843;4782148;Karnemelkstraat 40-42;Karnemelkstraat 40-42;Karnemelkstraat;40;;D;;2020-04-22 14:15:16;Hidde Kiekens;MDU;0;1;0;1;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;877843;BL0012;6.0;4569242;877843;4782148;Karnemelkstraat 40-42;Karnemelkstraat 40-42;Karnemelkstraat;40;;D;;2020-04-22 14:15:16;Hidde Kiekens;MDU;0;1;0;1;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;877843;BL0012;6.0;4569242;877843;4782148;Karnemelkstraat 40-42;Karnemelkstraat 40-42;Karnemelkstraat;40;;D;;2020-04-22 14:15:16;Hidde Kiekens;MDU;0;1;0;1;0;7;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;878359;BL0022;2.0;4708486;878359;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;58;;XC;;2020-06-19 14:20:26;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;878359;BL0022;2.0;4708486;878359;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;58;;XC;;2020-06-19 14:20:26;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;878359;BL0022;2.0;4708486;878359;;Kattenstraat 54-56-58-60;Kattenstraat 54-56-58-60;Kattenstraat;58;;XC;;2020-06-19 14:20:26;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;878361;BL0021;3.0;26014251;878361;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;49;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;878361;BL0021;3.0;26014251;878361;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;49;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;878361;BL0021;3.0;26014251;878361;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;49;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;878361;BL0021;3.0;26014251;878361;4782150;Kattenstraat 43-45-47-49;Kattenstraat 43-45-47-49;Kattenstraat;49;;XC;;2020-07-03;Maayken Vanfleteren;MDU;0;9;1;10;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;878365;BL0027;2.0;4708490;878365;;;;Noordstraat;193;;XC;;2020-07-26 15:15:05;Hidde Kiekens;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;878365;BL0027;2.0;4708490;878365;;;;Noordstraat;193;;XC;;2020-07-26 15:15:05;Hidde Kiekens;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878365;BL0027;2.0;4708490;878365;;;;Noordstraat;193;;XC;;2020-07-26 15:15:05;Hidde Kiekens;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878366;BL0027;2.0;4708491;878366;;;;Noordstraat;197;;D;;2020-07-26 15:50:04;Hidde Kiekens;MDU;1;7;0;8;1;7;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878376;BL0027;2.0;4708498;878376;;;;D‚sir‚ Mergaertstraat;4;;XC;;2020-08-26 15:40:09;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;878376;BL0027;2.0;4708498;878376;;;;D‚sir‚ Mergaertstraat;4;;XC;;2020-08-26 15:40:09;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;878376;BL0027;2.0;4708498;878376;;;;D‚sir‚ Mergaertstraat;4;;XC;;2020-08-26 15:40:09;Hidde Kiekens;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878379;BL0027;2.0;4708500;878379;;;;D‚sir‚ Mergaertstraat;30;;D;;2020-08-20 17:16:06;Hidde Kiekens;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878380;BL0022;2.0;4776631;878380;;;;D‚sir‚ Mergaertstraat;15;;C;;;Harry Melis;MDU;5;2;0;7;5;2;0;7;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;878382;BL0019;3.0;4708502;878382;;;;Noordstraat;53;;D;;2020-07-15 11:00:06;Hidde Kiekens;MDU;2;8;0;10;2;14;0;16;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;878382;BL0019;3.0;4708502;878382;;;;Noordstraat;53;;D;;2020-07-15 11:00:06;Hidde Kiekens;MDU;2;8;0;10;2;14;0;16;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878382;BL0019;3.0;4708502;878382;;;;Noordstraat;53;;D;;2020-07-15 11:00:06;Hidde Kiekens;MDU;2;8;0;10;2;14;0;16;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878385;BL0012;6.0;4708504;878385;4782134;;;Noordstraat;49;;;D;2020-04-21 08:35:11;Hidde Kiekens;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;878387;BL0012;6.0;4778519;878387;;;;Noordstraat;39;;D;;2020-04-21 08:55:11;Hidde Kiekens;MDU;0;6;0;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;878387;BL0012;6.0;4778519;878387;;;;Noordstraat;39;;D;;2020-04-21 08:55:11;Hidde Kiekens;MDU;0;6;0;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878387;BL0012;6.0;4778519;878387;;;;Noordstraat;39;;D;;2020-04-21 08:55:11;Hidde Kiekens;MDU;0;6;0;6;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;878394;BL0012;6.0;4775426;878394;;;;Albrecht Rodenbachstraat;15;;;;2020-07-11 12:15:05;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;878394;BL0012;6.0;4775426;878394;;;;Albrecht Rodenbachstraat;15;;;;2020-07-11 12:15:05;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;878394;BL0012;6.0;4775426;878394;;;;Albrecht Rodenbachstraat;15;;;;2020-07-11 12:15:05;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;878394;BL0012;6.0;4775426;878394;;;;Albrecht Rodenbachstraat;15;;;;2020-07-11 12:15:05;Hidde Kiekens;SDU;1;0;0;1;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878395;BL0019;3.0;4775423;878395;;;;Albrecht Rodenbachstraat;4;;D;;2020-07-15 11:05:07;Hidde Kiekens;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878396;BL0012;6.0;4708506;878396;;;;Scharestraat;1;;D;;2020-04-21 09:55:09;Hidde Kiekens;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878400;BL0012;6.0;4708509;878400;;Manestraat 2-4-4A;Manestraat 2-4-4A;Manestraat;2;;D;;2020-07-26 13:00:06;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;878401;BL0012;6.0;4708510;878401;;;;Karnemelkstraat;36;;XC;;2020-07-28 15:05:19;Hidde Kiekens;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;878401;BL0012;6.0;4708510;878401;;;;Karnemelkstraat;36;;XC;;2020-07-28 15:05:19;Hidde Kiekens;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878401;BL0012;6.0;4708510;878401;;;;Karnemelkstraat;36;;XC;;2020-07-28 15:05:19;Hidde Kiekens;MDU;0;8;1;9;0;8;0;8;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878402;BL0011;5.0;26013973;878402;;;;Karnemelkstraat;43;;D;;2020-06-16;Geert Stockman;MDU;0;5;0;5;0;5;0;5;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;878404;BL0012;6.0;4708511;878404;;;;Karnemelkstraat;8;;XC;;2020-07-28 14:35:31;Hidde Kiekens;MDU;0;20;1;21;0;21;0;21;Y;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;878404;BL0012;6.0;4708511;878404;;;;Karnemelkstraat;8;;XC;;2020-07-28 14:35:31;Hidde Kiekens;MDU;0;20;1;21;0;21;0;21;Y;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;878404;BL0012;6.0;4708511;878404;;;;Karnemelkstraat;8;;XC;;2020-07-28 14:35:31;Hidde Kiekens;MDU;0;20;1;21;0;21;0;21;Y;Y;BUILDING template
+ROESELARE - FH02;Units su diff;878590;BL0020;3.0;4778831;878590;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;111;;XC;;2020-07-13 18:20:09;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;878590;BL0020;3.0;4778831;878590;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;111;;XC;;2020-07-13 18:20:09;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;878590;BL0020;3.0;4778831;878590;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;111;;XC;;2020-07-13 18:20:09;Maayken Vanfleteren;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+ROESELARE - FH02;Units su diff;878591;BL0020;3.0;4708513;878591;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;107;;XC;;2020-07-13 18:20:07;Maayken Vanfleteren;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Quadrant diff;878591;BL0020;3.0;4708513;878591;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;107;;XC;;2020-07-13 18:20:07;Maayken Vanfleteren;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units total diff;878591;BL0020;3.0;4708513;878591;4782153;Noordstraat 107-109-111;Noordstraat 107-109-111;Noordstraat;107;;XC;;2020-07-13 18:20:07;Maayken Vanfleteren;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+ROESELARE - FH02;Units lu diff;880615;BL0002;5.0;4708516;880615;;;;Iepersestraat;118;;;;2020-04-21 08:25:11;Hidde Kiekens;SDU;0;1;0;1;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;880615;BL0002;5.0;4708516;880615;;;;Iepersestraat;118;;;;2020-04-21 08:25:11;Hidde Kiekens;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;880615;BL0002;5.0;4708516;880615;;;;Iepersestraat;118;;;;2020-04-21 08:25:11;Hidde Kiekens;SDU;0;1;0;1;0;3;0;3;Y;Y;BUILDING template
+ROESELARE - FH02;Units total diff;880632;BL0014;4.0;4775593;880632;;;;Alfons Carlierstraat;16;;;;2020-04-20 10:40:07;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Units bu diff;880632;BL0014;4.0;4775593;880632;;;;Alfons Carlierstraat;16;;;;2020-04-20 10:40:07;Geert Stockman;SDU;0;1;0;1;1;1;0;2;Y;Y;BUILDING template
+ROESELARE - FH02;Buildingtype diff;880632;BL0014;4.0;4775593;880632;;;;Alfons Carlierstraat;16;;;;2020-04-20 10:40:07;Geert Stockman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;880635;BL0009;6.0;5652360;880635;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;2;;XC;;2020-06-19 17:45:04;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Quadrant diff;880635;BL0009;6.0;5652360;880635;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;2;;XC;;2020-06-19 17:45:04;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;880635;BL0009;6.0;5652360;880635;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;2;;XC;;2020-06-19 17:45:04;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Units lu diff;880635;BL0009;6.0;5652360;880635;;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein 2-3-4;Marie-Louise De Meesterplein;2;;XC;;2020-06-19 17:45:04;Maayken Vanfleteren;MDU;1;0;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;880636;BL0009;6.0;4708520;880636;;;;Marie-Louise De Meesterplein;5;;;;;Harry Melis;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;880638;BL0009;6.0;4708521;880638;;;;Manestraat;7;;;;;Harry Melis;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ROESELARE - FH02;Wall Mount diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Buildingtype diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;MISSING BUILDING FID;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units su diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;BG Name diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;NB-880036054517;BL0024;2.0;;NB-880036054517;;;;Weststraat;36;;;;2020-04-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;BG Name diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;MISSING BUILDING FID;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Wall Mount diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Buildingtype diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units su diff;NB-880062d9ba07;BL0024;2.0;;NB-880062d9ba07;;;;Weststraat;62;;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units lu diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;BG Name diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Quadrant diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Buildingtype diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units total diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units bu diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Wall Mount diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;Units su diff;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ROESELARE - FH02;MISSING BUILDING FID;NB-880080Ad494;BL0016;3.0;;NB-880080Ad494;;;;Diksmuidsesteenweg;80;A;;;2020-04-20;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template

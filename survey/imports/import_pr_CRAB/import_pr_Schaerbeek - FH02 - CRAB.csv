@@ -1,0 +1,50 @@
+Projectnummer;Opdrachtnummer;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos;Distribution
+SCHAERBEEK - FH02;935546;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 3 units;N;;BUILDING template;Rassonstraat;5;;;151533,368;170932,495;Façade
+SCHAERBEEK - FH02;4113517;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 4 units;N;;BUILDING template;Rassonstraat;7;;;151546,435;170927,496;Façade
+SCHAERBEEK - FH02;4119121;0;0;0;0;SDU;;Y;NA;3;4;;Doorgang naar nr19;N;;BUILDING template;Rassonstraat;17;;;151579;170914;Façade
+SCHAERBEEK - FH02;935547;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Rassonstraat;37;;;151638,764;170910,062;Façade
+SCHAERBEEK - FH02;26219;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Milcampslaan;53;;;151754,05;170911,73;Façade
+SCHAERBEEK - FH02;950990;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Rassonstraat;72;;;151763,208;170927,339;Façade
+SCHAERBEEK - FH02;3917278;0;0;0;0;SDU;;Y;NA;3;4;;Staat op nr 16;N;;BUILDING template;Marcel Mariënstraat;14;;;151492,596;171190,277;Façade
+SCHAERBEEK - FH02;1672454;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Rassonstraat;19;;;151582,283;170907,945;Façade
+SCHAERBEEK - FH02;4119338;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Victor Hugostraat;155;;;151850;171058;Façade
+SCHAERBEEK - FH02;4114491;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Rassonstraat;31;;;151623,686;170915,404;Façade
+SCHAERBEEK - FH02;950973;0;0;0;0;SDU;;Y;NA;3;4;;Units verdeeld over nr 34, 36 en 40;N;;BUILDING template;Opaallaan;34;;;151948,858;170903,186;Façade
+SCHAERBEEK - FH02;4110746;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk andere ingang nr12;N;;BUILDING template;Victor Oudartstraat;10;;;151644,618;170968,214;Façade
+SCHAERBEEK - FH02;6525386;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 4 units;N;;BUILDING template;Léon Frédéricstraat;39;;;152017,686;171024,153;Façade
+SCHAERBEEK - FH02;1671735;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Notelaarstraat;38;;;151287;171167;Façade
+SCHAERBEEK - FH02;1449705;0;0;0;0;SDU;;Y;NA;3;4;;"Volgens PXS 5 units; in GM vermoedelijk 3 units onder nr133";N;;BUILDING template;Milcampslaan;131;;;151831,788;171186,603;Façade
+SCHAERBEEK - FH02;4119217;0;0;0;0;SDU;;Y;NA;3;4;;2de ingang voor units nr65;N;;BUILDING template;Rassonstraat;63;;;151708,764;170913,134;Façade
+SCHAERBEEK - FH02;1671044;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Leuvensesteenweg;448;;;151493,713;171377,724;Façade
+SCHAERBEEK - FH02;948191;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Brabanconnelaan;116;;;151300,275;171284,583;Façade
+SCHAERBEEK - FH02;943838;0;0;0;0;SDU;;Y;NA;3;4;;Niet te zien op GM;N;;BUILDING template;de Jamblinne de Meuxplein;36;;;151774,841;170786,761;Façade
+SCHAERBEEK - FH02;4119236;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit (kantoorgebouwen);N;;BUILDING template;Charbolaan;2;;;151339,832;171239,515;Façade
+SCHAERBEEK - FH02;1196177;0;0;0;0;SDU;;Y;NA;3;4;;Niet te zien op GM;N;;BUILDING template;Félix Marchallaan;3;;;151554,492;171210,665;Façade
+SCHAERBEEK - FH02;4107686;0;0;0;0;SDU;;Y;NA;3;4;;Niet te zien op GM;N;;BUILDING template;Félix Marchallaan;8;;;151448,792;171344,598;Façade
+SCHAERBEEK - FH02;4108302;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, garage;N;;BUILDING template;Diamantlaan;85;;;151848,528;171206,54;Façade
+SCHAERBEEK - FH02;4113033;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Victor Hugostraat;96;;;151742,985;171193,324;Façade
+SCHAERBEEK - FH02;5405758;0;0;0;0;SDU;;Y;NA;3;4;;Bestaat niet;N;;BUILDING template;Léon Mahillonlaan;2;;;151526,402;171058,946;Façade
+SCHAERBEEK - FH02;1671746;0;0;0;0;SDU;;Y;NA;3;4;;"Volgens PXS 3 units; in GM vermoedelijk 1";N;;BUILDING template;Notelaarstraat;70;;;151357,237;171111,37;Façade
+SCHAERBEEK - FH02;1332958;0;0;0;0;SDU;;Y;NA;3;4;;"Wel in Crab en GM, vermoedelijk 2 units; staat onder nr 16 op GM";N;;BUILDING template;Félix Marchallaan;14;;;151461;171338;Façade
+SCHAERBEEK - FH02;949520;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Félix Marchallaan;35;;;151704;171088;Façade
+SCHAERBEEK - FH02;1486450;0;0;0;0;SDU;;Y;NA;3;4;;"Volgens PXS 8 units; in GM vermoedelijk verdeeld over nr90, 92 en 94";N;;BUILDING template;Notelaarstraat;90;;;151391,636;171064,006;Façade
+SCHAERBEEK - FH02;5585230;0;0;0;0;SDU;;Y;NA;3;4;;"Volgens PXS 4 units; in GM vermoedelijk 2de ingang voor units nr32";N;;BUILDING template;Léon Mahillonlaan;30;;;151658,718;171198,921;Façade
+SCHAERBEEK - FH02;4112201;0;0;0;0;SDU;;Y;NA;3;4;;"Volgens PXS 2 units; in GM vermoedelijk 1";N;;BUILDING template;Notelaarstraat;146;;;151533,998;170923,747;Façade
+SCHAERBEEK - FH02;1671771;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Notelaarstraat;150;;;151538,318;170919,768;Façade
+SCHAERBEEK - FH02;4063007;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Leuvensesteenweg;378;;;151201,65;171258,067;Façade
+SCHAERBEEK - FH02;1671043;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 7 units;N;;BUILDING template;Leuvensesteenweg;442;;;151483;171371;Façade
+SCHAERBEEK - FH02;1671792;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Notelaarstraat;202;;;151620,162;170845,328;Façade
+SCHAERBEEK - FH02;951015;0;0;0;0;SDU;;Y;NA;4;3;;;N;_;BUILDING template;Eugène Plaskysquare;82;;;151914,668;171123,456;Façade
+SCHAERBEEK - FH02;3917318;0;0;0;0;SDU;;Y;NA;3;4;;"Volgens PXS 4 units; in GM vermoedelijk 2 units op nr216";N;;BUILDING template;Notelaarstraat;214;;;151641,368;170827,909;Façade
+SCHAERBEEK - FH02;948009;0;0;0;0;SDU;;Y;NA;3;4;;Staat 69 RC op de deur;N;;BUILDING template;Léon Mahillonlaan;67;;;151713,181;171213,061;Façade
+SCHAERBEEK - FH02;4112621;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Radiumstraat;32;;;151566,516;171349,674;Façade
+SCHAERBEEK - FH02;1671754;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 3 units;N;;BUILDING template;Notelaarstraat;94;;;151398,719;171060,54;Façade
+SCHAERBEEK - FH02;949533;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Emile Maxlaan;2;;;151557,511;171028,326;Façade
+SCHAERBEEK - FH02;1671779;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 6 units;N;;BUILDING template;Notelaarstraat;172;;;151558,69;170901,205;Façade
+SCHAERBEEK - FH02;1671780;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 6 units;N;;BUILDING template;Notelaarstraat;174;;;151567;170895;Façade
+SCHAERBEEK - FH02;4111347;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 3 units;N;;BUILDING template;Notelaarstraat;188;;;151590,493;170867,798;Façade
+SCHAERBEEK - FH02;4119102;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 1 unit;N;;BUILDING template;Notelaarstraat;234;;;151681,094;170787,742;Façade
+SCHAERBEEK - FH02;4113275;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 7 units;N;;BUILDING template;Opaallaan;36;;;151952;170907;Façade
+SCHAERBEEK - FH02;1677564;0;0;0;0;SDU;;Y;NA;3;4;;;N;;BUILDING template;Emile Maxlaan;40;;;151650,382;171067,132;Façade
+SCHAERBEEK - FH02;951077;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk 4 units;N;;BUILDING template;Radiumstraat;34;;;151573;171350;Façade
+SCHAERBEEK - FH02;4119489;0;0;0;0;SDU;;Y;NA;3;4;;Wel in Crab en GM, vermoedelijk garage;N;;BUILDING template;Radiumstraat;41;;;151612;171341;Façade

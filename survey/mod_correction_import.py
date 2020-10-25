@@ -5,7 +5,7 @@
 
 import glob
 import os, shutil
-import mod_import_pr as import_pr
+import mod_import_pr_fr as import_pr_fr
 import pandas as pd
 import datetime
 
@@ -16,6 +16,9 @@ EXPORTFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/corrections/expor
 IFHFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/corrections/export/ifh/' 
 IFHBACKUPFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/corrections/export/ifh/backup/' 
 PRFOLDER = os.path.dirname(os.path.realpath(__file__)) + '/corrections/pr/' 
+
+ENCODING = 'ansi'
+
 
 
 #INPUT_STREET_FILE = os.path.dirname(os.path.realpath(__file__)) + '/exports/streets/streets.csv' 
@@ -31,7 +34,7 @@ def writecsvcorrection(df,df_ifh,importnaam):
 
     filename = CORRECTIONSFOLDER + f_begin + importnaam + f_end
 
-    csv = df.to_csv(filename,sep=';',index=False)
+    csv = df.to_csv(filename,sep=';',index=False, encoding = ENCODING)
     out.info_file('import csv written',filename)
 
 
@@ -45,9 +48,11 @@ def getcsvfile(directory):
          return(0)
 
 def writecorrections(exportfile, prfile):
+    global ENCODING
+    
     out.info_file('Processing for corrections',exportfile)
     #import_pr.make_import_streets_cities(INPUTFOLDER, INPUT_STREET_FILE, INPUT_CITY_FILE)
-    import_pr.make_import_pr_file(exportfile,IFHFOLDER, import_pr.INPUT_STREET_FILE, import_pr.INPUT_CITY_FILE, False, False)
+    import_pr_fr.make_import_pr_file(exportfile,IFHFOLDER, import_pr_fr.INPUT_STREET_FILE_FR, import_pr_fr.INPUT_CITY_FILE_FR, False, False)
 
     ifhfile = getcsvfile(IFHFOLDER)
     out.info_file('Reading ifh file',ifhfile)
@@ -56,8 +61,8 @@ def writecorrections(exportfile, prfile):
 #    out.info_file('Reading PR file',prfile)
 
 
-    df_ifh = pd.read_csv(ifhfile, delimiter=';', encoding = "ISO-8859-1", keep_default_na=False)
-    df_pr = pd.read_csv(prfile, delimiter=',', encoding = "ISO-8859-1", keep_default_na=False)
+    df_ifh = pd.read_csv(ifhfile, delimiter=';', encoding = ENCODING, keep_default_na=False)
+    df_pr = pd.read_csv(prfile, delimiter=',', encoding = ENCODING, keep_default_na=False)
 
     df_ifh = df_ifh.applymap(str)
     df_pr = df_pr.applymap(str)

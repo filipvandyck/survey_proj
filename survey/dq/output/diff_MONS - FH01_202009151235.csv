@@ -1,0 +1,805 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+MONS - FH01;NO CLUSTERS;1021779;BL0104;;564547;1021779;;;;Rue d'Enghien;2;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1226643;BL0114;;565108;1226643;;;;Rue de la Couronne;10;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1275451;BL0119;;565216;1275451;;;;Grand-Place;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;1275453;BL0104;;26081952;1275453;;;;Grand-Place;21;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;1275454;BL0119;;565218;1275454;;;;Grand-Place;1;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;1275455;BL0102;;565219;1275455;;;;Grand-Place;18;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1276711;BL0103;;27574694;1276711;31666086;05-07 rue des 4 fräres Aymond;;Rue des Quatre Fils Aymon;5;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;1276711;BL0103;;27574694;1276711;31666086;05-07 rue des 4 fräres Aymond;05-07 rue des 4 frËres Aymond;Rue des Quatre Fils Aymon;5;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;1283965;BL0113;;565393;1283965;;;;Rue de la ChaussÇe;56;;;;;Corinne Wylock;MDU;1;10;0;11;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1294675;BL0117;;565465;1294675;;;;Rue de Houdain;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1299421;BL0103;;565505;1299421;;;;Rue de Nimy;39;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;1305562;BL0107;;26081953;1305562;;;;Rue Marguerite Bervoets;15;;;;;Corinne Wylock;MDU;0;10;0;10;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1305688;BL0110;;26081954;1305688;;;;Rue de la Poterie;34;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1305843;BL0107;;565566;1305843;;;;Rue des Gades;11;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1322749;BL0105;;26081955;1322749;;;;Rue d'Enghien;49;;;;;Corinne Wylock;MDU;0;10;0;10;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;1348681;BL0107;;26081956;1348681;;;;Rue Notre Dame DÇbonnaire;13;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1355333;BL0117;;566019;1355333;;;;Rue de Houdain;6;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1358597;BL0117;;566042;1358597;;;;Rue de Houdain;26;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1371233;BL0117;;566111;1371233;;;;Rue de la Coupe;47;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1389754;BL0105;;566230;1389754;31666081;Hotel de GRATY 51 A- 51B -51 G- rue d' Enghien;;Rue d'Enghien;51;;;;;Corinne Wylock;MDU;0;22;0;22;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;1390209;BL0118;;26081957;1390209;;;;Rue de la Clef;15;;;;;Corinne Wylock;MDU;0;9;0;9;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1416;BL0112;;566240;1416;;;;Rue de la ChaussÇe;42;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1448035;BL0118;;566318;1448035;31666092;Rue d'HavrÇ  -18-20;;Rue d'HavrÇ;18;;;;;Corinne Wylock;MDU;2;12;0;14;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;1448035;BL0118;;566318;1448035;31666092;Rue d'HavrÇ  -18-20;Rue d'HavrÈ  -18-20;Rue d'HavrÇ;18;;;;;Corinne Wylock;MDU;2;12;0;14;2;12;0;14;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;1461913;BL0107;;566414;1461913;;;;Rue des Gades;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1470575;BL0117;;566484;1470575;31666040;MarchÇ aux Herbes  11 -12;;MarchÇ aux Herbes;11;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;1470575;BL0117;;566484;1470575;31666040;MarchÇ aux Herbes  11 -12;MarchÈ aux Herbes  11 -12;MarchÇ aux Herbes;11;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;1476338;BL0105;;26081958;1476338;;;;Rue d'Enghien;47;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1497360;BL0105;;566683;1497360;;;;Rue d'Enghien;45;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;1510998;BL0115;;566784;1510998;;;;Rue de la ChaussÇe;19;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;193669;BL0104;;566888;193669;;;;Rue du Onze Novembre;2;;;;;Corinne Wylock;MDU;0;7;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;193670;BL0103;;566889;193670;;;;Rue du Onze Novembre;16;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;193674;BL0104;;566891;193674;;;;Rue du Onze Novembre;4;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;193678;BL0103;;566895;193678;;;;Rue du Onze Novembre;18;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;193679;BL0103;;566896;193679;;;;Rue du Onze Novembre;12;;;;;Corinne Wylock;MDU;0;7;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;193680;BL0104;;566897;193680;;;;Rue du Onze Novembre;8;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;204685;BL0107;;567550;204685;31666044;Rampe Sainte Waudru  12-14;;Rampe Sainte Waudru;14;;;;;Corinne Wylock;MDU;2;0;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;204686;BL0107;;567551;204686;;;;Rampe Sainte Waudru;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204687;BL0107;;26081959;204687;;;;Rampe Sainte Waudru;18;;;;;Corinne Wylock;MDU;3;0;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204690;BL0107;;567553;204690;31666042;Rampe Sainte Waudru -4-6;;Rampe Sainte Waudru;4;;;;;Corinne Wylock;MDU;1;7;0;8;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;204691;BL0107;;27556784;204691;31666041;Rampe Sainte Waudru  -4-6 appartements;;Rampe Sainte Waudru;6;;;;;Corinne Wylock;MDU;1;7;0;8;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;204695;BL0107;;567556;204695;;;;Rue des Clercs;34;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204701;BL0107;;567562;204701;;;;Rue Marguerite Bervoets;1;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204709;BL0107;;567569;204709;;;;Rue Notre Dame DÇbonnaire;25;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204711;BL0107;;26081960;204711;;;;Rue Notre Dame DÇbonnaire;23;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204712;BL0107;;567572;204712;;;;Rue Notre Dame DÇbonnaire;21;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204714;BL0107;;567574;204714;;;;Rue Notre Dame DÇbonnaire;19;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;204717;BL0107;;567577;204717;;;;Rue Notre Dame DÇbonnaire;17;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;206813;BL0116;;567672;206813;;;;Rue de la Clef;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206814;BL0118;;26081961;206814;;;;Rue de la Clef;1;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206815;BL0118;;567674;206815;;;;Rue de la Clef;39;A;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206816;BL0118;;27563743;206816;;;;Rue de la Clef;43;;;;;Corinne Wylock;MDU;1;5;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206817;BL0118;;567675;206817;;;;Rue de la Clef;51;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206818;BL0117;;567676;206818;;;;Rue de la Clef;50;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206819;BL0117;;567677;206819;;;;Rue de la Clef;48;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;206821;BL0118;;567678;206821;;;;Rue de la Clef;33;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207036;BL0118;;26081962;207036;;;;Rue du Hautbois;1;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207038;BL0118;;567680;207038;;;;Rue du Hautbois;35;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207039;BL0118;;26081963;207039;;;;Rue du Hautbois;25;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207041;BL0118;;567682;207041;31666094;Rue d'HavrÇ  -2-2A;;Rue d'HavrÇ;2;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;207041;BL0118;;567682;207041;31666094;Rue d'HavrÇ  -2-2A;Rue d'HavrÈ  -2-2A;Rue d'HavrÇ;2;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;207043;BL0115;;567683;207043;;;;Rue de la Couronne;1;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207044;BL0115;;26081964;207044;;;;Rue de la Couronne;3;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207045;BL0115;;27563756;207045;;;;Rue de la Couronne;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207046;BL0114;;27563807;207046;;;;Rue de la Couronne;14;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207047;BL0114;;567685;207047;;;;Rue de la Couronne;24;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207048;BL0117;;567686;207048;;;;MarchÇ aux Herbes;18;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207049;BL0117;;26081965;207049;;;;MarchÇ aux Herbes;9;;;;;Corinne Wylock;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207050;BL0117;;26081966;207050;;;;MarchÇ aux Herbes;10;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207051;BL0116;;567689;207051;;;;MarchÇ aux Herbes;19;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207052;BL0116;;567690;207052;;;;MarchÇ aux Herbes;25;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207053;BL0117;;567691;207053;;;;Rue de la Coupe;41;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207055;BL0114;;26081967;207055;;;;Rue de la Coupe;54;;;;;Corinne Wylock;MDU;0;13;0;13;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207056;BL0114;;567694;207056;;;;Rue de la Coupe;34;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207057;BL0115;;567695;207057;;;;Rue de la Coupe;2;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207059;BL0115;;567696;207059;;;;Rue de la Coupe;6;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207060;BL0115;;567697;207060;;;;Rue de la Coupe;28;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207062;BL0114;;567699;207062;;;;Rue des Fripiers;41;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207064;BL0117;;567700;207064;;;;Rue de Houdain;2;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207065;BL0117;;27563106;207065;31666045;Rue  de Houdain -36 -Rue de la coupe - 49-53-55;;Rue de Houdain;36;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207067;BL0114;;26081969;207067;;;;Rue de la ChaussÇe;35;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;207068;BL0115;;567703;207068;31666047;Rue de la ChaussÇe  -1-3;Rue de la ChaussÈe  -1-3;Rue de la ChaussÇe;1;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;207068;BL0115;;567703;207068;31666047;Rue de la ChaussÇe  -1-3;;Rue de la ChaussÇe;1;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207069;BL0115;;26081970;207069;;;;Rue de la ChaussÇe;33;;;;;Corinne Wylock;MDU;3;0;0;3;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;207070;BL0114;;26081971;207070;31666056;-rue de ChaussÇe  -67-69;-rue de ChaussÈe  -67-69;Rue de la ChaussÇe;69;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;207070;BL0114;;26081971;207070;31666056;-rue de ChaussÇe  -67-69;;Rue de la ChaussÇe;69;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207360;BL0103;;27573334;207360;;;;Rue de Nimy;41;;;;;Jasper Coopman;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207451;BL0103;;567713;207451;;;;Rue des Etampes;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207466;BL0101;;567724;207466;;;;Rue de Nimy;28;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207468;BL0103;;567726;207468;;;;Rue de Nimy;25;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207469;BL0102;;567727;207469;;;;Rue de Nimy;2;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207470;BL0103;;567728;207470;;;;Rue de Nimy;5;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207471;BL0103;;567729;207471;;;;Rue de Nimy;1;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207472;BL0103;;26081972;207472;;;;Rue de Nimy;29;;;;;Jasper Coopman;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207473;BL0103;;567731;207473;;;;Rue de Nimy;23;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207474;BL0103;;567732;207474;;;;Rue de Nimy;21;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207475;BL0103;;567733;207475;;;;Rue de Nimy;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207476;BL0102;;567734;207476;;;;Rue du Miroir;1;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207477;BL0119;;567735;207477;;;;Rue du Miroir;4;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207478;BL0104;;567736;207478;;;;Grand-Place;22;;;;;Corinne Wylock;MDU;2;0;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207479;BL0119;;567737;207479;;;;Grand-Place;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207483;BL0104;;567739;207483;;;;Rue Neuve;23;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207484;BL0103;;26081973;207484;;;;Rue Neuve;22;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;Buildingtype diff;207485;BL0103;;31664279;207485;;;;Rue Neuve;8;;;;2020-03-05;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207485;BL0103;;31664279;207485;;;;Rue Neuve;8;;;;2020-03-05;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;207486;BL0103;;27576860;207486;;;;Rue Neuve;6;A;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207487;BL0103;;567741;207487;;;;Rue Neuve;2;;;;;Corinne Wylock;MDU;1;5;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207488;BL0104;;31664277;207488;;;;Rue Neuve;1;;;;2020-02-13;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207793;BL0109;;31664228;207793;;;;Rue de la Voussure;4;;;;2020-03-23;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207795;BL0109;;31664227;207795;;;;Rue de la Voussure;2;;;;2020-03-23;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207797;BL0113;;567779;207797;;;;Rue Ö DegrÇs;3;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207798;BL0113;;567780;207798;;;;Rue Ö DegrÇs;1;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207802;BL0112;;567783;207802;;;;Rue de la Poterie;21;;;;;Corinne Wylock;MDU;0;10;0;10;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207803;BL0112;;567784;207803;;;;Rue de la Poterie;1;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207804;BL0113;;567785;207804;;;;Rue de la Poterie;31;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207805;BL0113;;567786;207805;;;;Rue de la Poterie;33;;;;;Corinne Wylock;MDU;1;7;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207807;BL0110;;567787;207807;;;;Rue de la Poterie;36;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207808;BL0110;;26081974;207808;;;;Rue des Clercs;25;;;;;Corinne Wylock;MDU;0;7;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207809;BL0111;;567789;207809;;;;Rue des Clercs;11;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207810;BL0110;;567790;207810;;;;Rue des Clercs;39;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;207811;BL0111;;26081975;207811;;;;Rue des Clercs;23;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;207815;BL0113;;567795;207815;31666055;-Rue de la ChaussÇe  -68-70;-Rue de la ChaussÈe  -68-70;Rue de la ChaussÇe;70;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;207815;BL0113;;567795;207815;31666055;-Rue de la ChaussÇe  -68-70;;Rue de la ChaussÇe;70;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;208704;BL0114;;567876;208704;;;;Rue des Fripiers;9;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;208705;BL0114;;567877;208705;;;;Rue des Fripiers;5;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209781;BL0105;;567975;209781;;;;Rue Marguerite Bervoets;10;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;209782;BL0107;;567976;209782;;;;Rue Marguerite Bervoets;17;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209783;BL0107;;567977;209783;;;;Rue Marguerite Bervoets;19;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209785;BL0107;;567978;209785;;;;Rue des Gades;7;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209786;BL0107;;567979;209786;;;;Rue des Gades;13;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209787;BL0106;;567980;209787;;;;Rue des Gades;10;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209788;BL0106;;567981;209788;;;;Rue des Gades;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209789;BL0105;;567982;209789;;;;Rue Cronque;14;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209790;BL0106;;567983;209790;;;;Rue Cronque;1;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;209791;BL0106;;31664188;209791;;;;Rue Cronque;15;;;;2020-03-09;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209792;BL0105;;567984;209792;;;;Rue Cronque;2;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209793;BL0105;;26081976;209793;;;;Rue des Telliers;1;;;;;Corinne Wylock;MDU;0;11;0;11;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209794;BL0105;;567986;209794;;;;Rue des Telliers;3;;;;;Corinne Wylock;MDU;0;21;0;21;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;209795;BL0104;;567987;209795;;;;Rue du Onze Novembre;6;;;;;Corinne Wylock;MDU;2;0;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;209796;BL0107;;26081977;209796;;;;Rue Notre Dame DÇbonnaire;7;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209797;BL0105;;26081978;209797;;;;Rue de la Tour Auberon;1;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209798;BL0105;;567990;209798;;;;Rue de la Tour Auberon;11;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209801;BL0105;;567992;209801;;;;Rue d'Enghien;37;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209802;BL0105;;567993;209802;;;;Rue d'Enghien;19;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;209803;BL0106;;27560005;209803;;;;Rue d'Enghien;15;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;209804;BL0105;;26081979;209804;;;;Rue d'Enghien;39;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209974;BL0101;;567998;209974;;;;Rue de Nimy;36;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;209980;BL0101;;568001;209980;;;;Rue Verte;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246905;BL0106;;27559884;246905;31666072;-Rue d'Enghien 01 - 28 Grand-Place;;Rue d'Enghien;1;;;;;Corinne Wylock;MDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246908;BL0102;;27575790;246908;31666097;Rue du Miroir -9-11;;Rue du Miroir;11;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246909;BL0119;;26081980;246909;31666099;Rue du Miroir -16-18-18C-18D-20;;Rue du Miroir;16;;;;;Corinne Wylock;MDU;1;8;0;9;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;246910;BL0115;;27563665;246910;31666046;Rue de la ChaussÇe -11-13;Rue de la ChaussÈe -11-13;Rue de la ChaussÇe;13;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;246910;BL0115;;27563665;246910;31666046;Rue de la ChaussÇe -11-13;;Rue de la ChaussÇe;13;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246911;BL0119;;573151;246911;;;;Grand-Place;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246912;BL0119;;573152;246912;31666036;Grand-Place -9-10;;Grand-Place;9;;;;;Corinne Wylock;MDU;3;7;0;10;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246913;BL0119;;26081981;246913;;;;Rue du Miroir;26;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246914;BL0119;;27576275;246914;31666099;Rue du Miroir -16-18-18C-18D-20;;Rue du Miroir;18;;;;;Corinne Wylock;MDU;1;8;0;9;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246915;BL0119;;573154;246915;;;;Rue du Miroir;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246916;BL0102;;573155;246916;;;;Rue du Miroir;21;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246917;BL0102;;26081982;246917;;;;Rue du Miroir;19;;;;;Corinne Wylock;MDU;0;13;0;13;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246925;BL0106;;26081983;246925;;;;Grand-Place;30;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246927;BL0118;;27562478;246927;;;;Rue d'HavrÇ;36;;;;;Jasper Coopman;MDU;1;6;0;7;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;246928;BL0118;;573165;246928;;;;Rue d'HavrÇ;30;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246929;BL0118;;573166;246929;;;;Rue d'HavrÇ;50;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246930;BL0119;;573167;246930;;;;Rue d'HavrÇ;49;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246931;BL0119;;573168;246931;;;;Rue d'HavrÇ;47;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246932;BL0118;;573169;246932;;;;Rue d'HavrÇ;48;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246933;BL0118;;27562502;246933;;;;Rue d'HavrÇ;40;;;;;Jasper Coopman;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246970;BL0114;;573170;246970;;;;Rue de la Coupe;36;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;246971;BL0116;;573171;246971;;;;Rue de la Coupe;1;;;;;Corinne Wylock;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247010;BL0116;;573172;247010;;;;Rue de la Coupe;13;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247058;BL0116;;26081984;247058;;;;Grand-Place;40;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247059;BL0116;;573174;247059;;;;Grand-Place;41;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247060;BL0112;;573175;247060;;;;Grand-Place;33;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247116;BL0113;;573176;247116;;;;Rue de la Poterie;25;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247117;BL0106;;573177;247117;;;;Rue des Clercs;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247118;BL0106;;573178;247118;;;;Rue des Clercs;16;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247119;BL0112;;573179;247119;;;;Rue des Clercs;9;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247120;BL0112;;573180;247120;;;;Rue des Clercs;1;;;;;Corinne Wylock;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247144;BL0114;;573184;247144;;;;Rue des Fripiers;11;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;247173;BL0113;;573185;247173;31666051;Rue de la ChaussÇe  -48-50-;Rue de la ChaussÈe  -48-50-;Rue de la ChaussÇe;48;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;247173;BL0113;;573185;247173;31666051;Rue de la ChaussÇe  -48-50-;;Rue de la ChaussÇe;48;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247177;BL0112;;573186;247177;;;;Rue de la ChaussÇe;46;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247228;BL0104;;31664184;247228;;;;Grand-Place;20;;;;2020-03-06;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247229;BL0104;;573187;247229;;;;Grand-Place;27;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247231;BL0107;;573188;247231;;;;Rampe du ChÉteau;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247232;BL0116;;27563697;247232;;;;Rue de la Clef;6;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247234;BL0116;;573189;247234;;;;Rue de la Clef;42;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247235;BL0118;;573190;247235;;;;Rue de la Clef;31;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247237;BL0116;;573191;247237;;;;Rue de la Clef;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247238;BL0118;;27563702;247238;;;;Rue de la Clef;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247239;BL0118;;573192;247239;;;;Rue de la Clef;19;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;247240;BL0119;;27561049;247240;31666090;Rue  d'havrÇ 1-3;Rue  d'havrÈ 1-3;Rue d'HavrÇ;3;;;;;Jasper Coopman;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;247240;BL0119;;27561049;247240;31666090;Rue  d'havrÇ 1-3;;Rue d'HavrÇ;3;;;;;Jasper Coopman;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247241;BL0118;;573193;247241;;;;Rue d'HavrÇ;6;;;;;Jasper Coopman;MDU;1;6;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247242;BL0119;;573194;247242;31666093;CARILLON RUE D'HAVRê -1- 1/3;;Rue d'HavrÇ;1;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;247242;BL0119;;573194;247242;31666093;CARILLON RUE D'HAVRê -1- 1/3;CARILLON RUE D'HAVR… -1- 1/3;Rue d'HavrÇ;1;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;247243;BL0118;;27561610;247243;;;;Rue d'HavrÇ;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247244;BL0117;;573195;247244;;;;MarchÇ aux Herbes;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247245;BL0116;;26081985;247245;;;;MarchÇ aux Herbes;29;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247248;BL0117;;573199;247248;;;;Rue de Houdain;34;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247251;BL0115;;26081986;247251;;;;Rue de la Coupe;30;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247252;BL0116;;573202;247252;;;;Rue de la Coupe;39;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247253;BL0116;;573203;247253;;;;Rue de la Coupe;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247254;BL0116;;573204;247254;;;;Rue de la Coupe;21;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247255;BL0116;;27563747;247255;;;;Rue de la Coupe;29;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247256;BL0116;;573205;247256;;;;Rue de la Coupe;25;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247258;BL0114;;573207;247258;;;;Rue des Fripiers;39;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;247260;BL0115;;573209;247260;31666048;Rue de la ChaussÇe -1-3;Rue de la ChaussÈe -1-3;Rue de la ChaussÇe;3;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;247260;BL0115;;573209;247260;31666048;Rue de la ChaussÇe -1-3;;Rue de la ChaussÇe;3;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247261;BL0115;;573210;247261;;;;Rue de la ChaussÇe;25;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247262;BL0112;;573211;247262;;;;Rue de la ChaussÇe;36;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247263;BL0112;;573212;247263;;;;Rue de la Poterie;11;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247264;BL0111;;26081987;247264;;;;Rue de la Poterie;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247265;BL0112;;573214;247265;;;;Rue de la Poterie;23;;;;;Corinne Wylock;MDU;2;1;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247266;BL0111;;26081988;247266;;;;Rue de la Poterie;22;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247267;BL0106;;573216;247267;;;;Rue des Clercs;28;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247268;BL0106;;573217;247268;;;;Rue des Clercs;22;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247271;BL0118;;573220;247271;;;;Rue du Hautbois;5;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247298;BL0118;;26081989;247298;;;;Rue des Epingliers;18;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247299;BL0118;;27573905;247299;;;;Rue des Epingliers;2;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247305;BL0119;;26081991;247305;;;;Rue de la Peine Perdue;10;;;;;Corinne Wylock;MDU;0;7;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247317;BL0104;;573258;247317;;;;Rue d'Enghien;8;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247319;BL0106;;573259;247319;;;;Rue Cronque;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247321;BL0106;;573261;247321;;;;Rue des Gades;12;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247336;BL0116;;27577847;247336;;;;Ruelle aux Quinettes;24;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247337;BL0116;;573274;247337;;;;Ruelle aux Quinettes;23;C;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247338;BL0116;;27577898;247338;;;;Ruelle aux Quinettes;23;D;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247507;BL0101;;573281;247507;;;;Rue de Nimy;20;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247529;BL0102;;573282;247529;;;;Cour du Noir LÇvrier;16;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247530;BL0102;;573283;247530;;;;Cour du Noir LÇvrier;11;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247532;BL0107;;26081994;247532;;;;Rue Notre Dame DÇbonnaire;9;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247533;BL0107;;573286;247533;;;;Rue Notre Dame DÇbonnaire;1;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247535;BL0107;;573287;247535;;;;Rue Marguerite Bervoets;21;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247539;BL0104;;573291;247539;;;;Rue d'Enghien;26;;;;;Corinne Wylock;MDU;2;4;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247540;BL0104;;26081995;247540;;;;Rue d'Enghien;16;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247541;BL0104;;573293;247541;;;;Rue d'Enghien;22;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247542;BL0104;;573294;247542;;;;Grand-Place;23;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247543;BL0102;;573295;247543;;;;Rue de Nimy;10;;;;;Corinne Wylock;MDU;1;7;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247545;BL0104;;573296;247545;31666105;11-17 rue Neuve;;Rue Neuve;11;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;247546;BL0104;;573297;247546;;;;Rue Neuve;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247547;BL0103;;573298;247547;;;;Rue Neuve;10;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247548;BL0104;;573299;247548;;;;Rue du Onze Novembre;2;A;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247549;BL0102;;26081996;247549;;;;Cour du Noir LÇvrier;2;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247550;BL0102;;573301;247550;;;;Cour du Noir LÇvrier;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;247555;BL0107;;573305;247555;;;;Rue Notre Dame DÇbonnaire;15;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249049;BL0110;;573366;249049;;;;Rue des Clercs;33;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249261;BL0119;;27570670;249261;;;;Rue de la Peine Perdue;4;;;;;Corinne Wylock;MDU;0;9;0;9;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249263;BL0119;;26081997;249263;;;;Rue de la Peine Perdue;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249296;BL0105;;573374;249296;;;;Rue Marguerite Bervoets;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249297;BL0105;;573375;249297;;;;Rue Cronque;12;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249401;BL0102;;573376;249401;;;;Rue du Miroir;15;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249403;BL0119;;26081998;249403;;;;Rue du Miroir;8;;;;;Corinne Wylock;MDU;2;0;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249405;BL0119;;573378;249405;;;;Rue du Miroir;10;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249409;BL0102;;573379;249409;;;;Rue de Nimy;8;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249416;BL0112;;27573872;249416;;;;Rue des Clercs;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249418;BL0111;;26081999;249418;;;;Rue des Clercs;17;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249420;BL0111;;573381;249420;;;;Rue des Clercs;21;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249422;BL0110;;573382;249422;;;;Rue des Clercs;31;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249424;BL0112;;573383;249424;;;;Rue de la ChaussÇe;34;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249439;BL0106;;573387;249439;;;;Rue d'Enghien;3;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249442;BL0105;;26082000;249442;;;;Rue Marguerite Bervoets;6;;;;;Corinne Wylock;MDU;2;2;0;4;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249443;BL0107;;573389;249443;;;;Rue Marguerite Bervoets;11;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249444;BL0105;;27576512;249444;;;;Rue Marguerite Bervoets;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249445;BL0107;;573390;249445;;;;Rue Marguerite Bervoets;7;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249446;BL0105;;27576543;249446;;;;Rue Marguerite Bervoets;8;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249475;BL0115;;573413;249475;;;;Rue de la ChaussÇe;15;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249476;BL0112;;573414;249476;;;;Rue de la ChaussÇe;6;;;;;Jasper Coopman;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249477;BL0112;;27563501;249477;;;;Rue de la ChaussÇe;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249478;BL0109;;573415;249478;;;;Rue de la Poterie;37;;;;;Corinne Wylock;MDU;2;14;0;16;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;249479;BL0110;;573416;249479;;;;Rue de la Poterie;30;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249480;BL0112;;573417;249480;;;;Rue de la Poterie;9;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249493;BL0118;;573428;249493;;;;Rue du Hautbois;3;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249494;BL0114;;573429;249494;;;;Rue des Fripiers;37;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249562;BL0115;;573472;249562;;;;Rue de la Coupe;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;249568;BL0101;;573477;249568;;;;Rue Verte;6;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;252627;BL0102;;573647;252627;;;;Rue des FossÇs;2;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;2727281;BL0114;;574007;2727281;;;;Rue des Fripiers;7;;;;;Corinne Wylock;MDU;1;8;0;9;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3124037;BL0119;;27552575;3124037;;;;Cour de l'Ane BarrÇ;3;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3124038;BL0119;;575530;3124038;31666035;Cour de l'∂ne BarrÇ 4- 4A- 4B- 4C- 4D- 4E- 4I-4J;;Cour de l'Ane BarrÇ;4;;;;;Corinne Wylock;MDU;12;0;0;12;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;3124038;BL0119;;575530;3124038;31666035;Cour de l'∂ne BarrÇ 4- 4A- 4B- 4C- 4D- 4E- 4I-4J;Cour de l'¬ne BarrÈ 4- 4A- 4B- 4C- 4D- 4E- 4I-4J;Cour de l'Ane BarrÇ;4;;;;;Corinne Wylock;MDU;12;0;0;12;12;0;0;12;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;3124045;BL0119;;575531;3124045;;;;Cour de l'Ane BarrÇ;17;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125051;BL0119;;27571778;3125051;31666063;Rue de la Seuwe  -6-7-8-9-;;Rue de la Seuwe;7;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125052;BL0119;;27571794;3125052;;;;Rue de la Seuwe;10;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125053;BL0119;;27571969;3125053;31666065;Rue de la Seuwe-11-12-13-14;;Rue de la Seuwe;14;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125056;BL0119;;576125;3125056;;;;Rue de la Seuwe;15;B;;;;Corinne Wylock;MDU;3;4;0;7;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125057;BL0119;;27572045;3125057;;;;Rue de la Seuwe;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125058;BL0119;;31664225;3125058;;;;Rue de la Seuwe;16;B;;;2020-03-17;Corinne Wylock;MDU;2;0;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125060;BL0119;;27572103;3125060;31666067;Rue de la Seuwe-18-19;;Rue de la Seuwe;18;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125063;BL0119;;27572186;3125063;;;;Rue de la Seuwe;32;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125064;BL0119;;27572408;3125064;;;;Rue de la Seuwe;211;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125067;BL0119;;27572412;3125067;31666070;Rue de la Seuwe-201-211-221-231-241;;Rue de la Seuwe;231;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125068;BL0119;;27572451;3125068;31666070;Rue de la Seuwe-201-211-221-231-241;;Rue de la Seuwe;241;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3125069;BL0119;;27572617;3125069;;;;Rue de la Seuwe;501;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3129264;BL0107;;26082001;3129264;;;;Rue Marguerite Bervoets;3;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3129265;BL0107;;27576822;3129265;;;;Rue Marguerite Bervoets;3;A;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3129266;BL0107;;26082002;3129266;;;;Rue Marguerite Bervoets;5;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3129269;BL0107;;578373;3129269;;;;Rue Marguerite Bervoets;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3129270;BL0107;;26082003;3129270;;;;Rue Marguerite Bervoets;13;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134397;BL0107;;581166;3134397;;;;Rampe du ChÉteau;12;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134418;BL0115;;581178;3134418;;;;Rue de la ChaussÇe;5;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134420;BL0115;;581179;3134420;;;;Rue de la ChaussÇe;7;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134421;BL0112;;581180;3134421;;;;Rue de la ChaussÇe;8;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134422;BL0115;;581181;3134422;;;;Rue de la ChaussÇe;9;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134424;BL0112;;581182;3134424;;;;Rue de la ChaussÇe;10;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;3134425;BL0115;;581183;3134425;31666049;Rue de la ChaussÇe - 11-13;Rue de la ChaussÈe - 11-13;Rue de la ChaussÇe;11;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;3134425;BL0115;;581183;3134425;31666049;Rue de la ChaussÇe - 11-13;;Rue de la ChaussÇe;11;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134426;BL0112;;581184;3134426;;;;Rue de la ChaussÇe;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134427;BL0112;;581185;3134427;;;;Rue de la ChaussÇe;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134428;BL0112;;581186;3134428;;;;Rue de la ChaussÇe;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134429;BL0115;;581187;3134429;;;;Rue de la ChaussÇe;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134430;BL0112;;581188;3134430;;;;Rue de la ChaussÇe;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134431;BL0112;;581189;3134431;;;;Rue de la ChaussÇe;22;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134432;BL0115;;581190;3134432;;;;Rue de la ChaussÇe;23;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134434;BL0112;;581191;3134434;;;;Rue de la ChaussÇe;24;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134436;BL0112;;581192;3134436;;;;Rue de la ChaussÇe;26;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134437;BL0115;;581193;3134437;;;;Rue de la ChaussÇe;27;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134438;BL0115;;581194;3134438;;;;Rue de la ChaussÇe;29;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134440;BL0112;;581195;3134440;;;;Rue de la ChaussÇe;30;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134441;BL0115;;581196;3134441;;;;Rue de la ChaussÇe;31;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134443;BL0112;;581197;3134443;;;;Rue de la ChaussÇe;32;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134445;BL0114;;581198;3134445;;;;Rue de la ChaussÇe;37;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134446;BL0112;;581199;3134446;;;;Rue de la ChaussÇe;38;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134448;BL0114;;581200;3134448;;;;Rue de la ChaussÇe;39;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134449;BL0112;;581201;3134449;;;;Rue de la ChaussÇe;40;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134451;BL0114;;581202;3134451;;;;Rue de la ChaussÇe;41;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134453;BL0114;;581203;3134453;;;;Rue de la ChaussÇe;43;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134454;BL0112;;581204;3134454;;;;Rue de la ChaussÇe;44;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134456;BL0114;;581205;3134456;;;;Rue de la ChaussÇe;45;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134457;BL0114;;581206;3134457;;;;Rue de la ChaussÇe;47;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134459;BL0114;;581207;3134459;;;;Rue de la ChaussÇe;49;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134460;BL0113;;581208;3134460;;;;Rue de la ChaussÇe;50;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134461;BL0114;;581209;3134461;;;;Rue de la ChaussÇe;51;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134463;BL0113;;581210;3134463;;;;Rue de la ChaussÇe;52;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134464;BL0114;;581211;3134464;;;;Rue de la ChaussÇe;53;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134465;BL0113;;581212;3134465;;;;Rue de la ChaussÇe;54;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134467;BL0113;;581213;3134467;;;;Rue de la ChaussÇe;58;;;;;Corinne Wylock;MDU;2;0;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134468;BL0114;;581214;3134468;;;;Rue de la ChaussÇe;59;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134469;BL0113;;581215;3134469;;;;Rue de la ChaussÇe;60;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134470;BL0114;;581216;3134470;;;;Rue de la ChaussÇe;61;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134471;BL0113;;581217;3134471;;;;Rue de la ChaussÇe;62;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134473;BL0114;;581218;3134473;;;;Rue de la ChaussÇe;65;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134475;BL0113;;581219;3134475;;;;Rue de la ChaussÇe;66;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3134476;BL0114;;581220;3134476;31666054;Rue de la ChaussÇe  -67-69-;;Rue de la ChaussÇe;67;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;3134476;BL0114;;581220;3134476;31666054;Rue de la ChaussÇe  -67-69-;Rue de la ChaussÈe  -67-69-;Rue de la ChaussÇe;67;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;3135275;BL0116;;581677;3135275;;;;Rue de la Clef;4;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135276;BL0118;;27563696;3135276;31666057;Rue de la clef  -5-7;;Rue de la Clef;5;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135277;BL0118;;27563698;3135277;31666057;Rue de la clef  -5-7;;Rue de la Clef;7;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135278;BL0118;;581678;3135278;;;;Rue de la Clef;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135279;BL0116;;581679;3135279;;;;Rue de la Clef;10;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135280;BL0118;;581680;3135280;;;;Rue de la Clef;11;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135282;BL0116;;26082005;3135282;;;;Rue de la Clef;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135284;BL0118;;581682;3135284;;;;Rue de la Clef;13;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135287;BL0116;;26082006;3135287;;;;Rue de la Clef;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135290;BL0116;;581684;3135290;;;;Rue de la Clef;18;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135292;BL0116;;581685;3135292;;;;Rue de la Clef;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135293;BL0118;;581686;3135293;;;;Rue de la Clef;21;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135295;BL0116;;581687;3135295;;;;Rue de la Clef;22;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135296;BL0118;;26082007;3135296;;;;Rue de la Clef;23;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135297;BL0116;;581689;3135297;;;;Rue de la Clef;24;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135298;BL0118;;27563704;3135298;31666058;Rue de la clef  -25-27;;Rue de la Clef;25;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135299;BL0116;;581690;3135299;;;;Rue de la Clef;26;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135300;BL0116;;581691;3135300;;;;Rue de la Clef;28;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135302;BL0118;;581692;3135302;;;;Rue de la Clef;29;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135303;BL0116;;581693;3135303;;;;Rue de la Clef;30;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135304;BL0116;;581694;3135304;31666059;Rue de la Clef -32-34;;Rue de la Clef;32;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135306;BL0116;;26082008;3135306;;;;Rue de la Clef;36;;;;;Corinne Wylock;MDU;1;6;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135308;BL0118;;581696;3135308;;;;Rue de la Clef;37;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135309;BL0118;;581697;3135309;;;;Rue de la Clef;37;B;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135311;BL0116;;581698;3135311;;;;Rue de la Clef;38;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135312;BL0118;;581699;3135312;;;;Rue de la Clef;39;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135316;BL0116;;581700;3135316;;;;Rue de la Clef;40;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135318;BL0118;;581701;3135318;;;;Rue de la Clef;41;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135325;BL0117;;27563744;3135325;;;;Rue de la Clef;46;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135328;BL0118;;581702;3135328;;;;Rue de la Clef;47;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135412;BL0112;;581752;3135412;31666083;Building group -rue des Clercs -01-03 - Grand-Place 31;;Rue des Clercs;3;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135413;BL0106;;581753;3135413;;;;Rue des Clercs;4;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135416;BL0106;;581754;3135416;;;;Rue des Clercs;6;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135418;BL0112;;26082009;3135418;;;;Rue des Clercs;7;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135420;BL0106;;26082010;3135420;;;;Rue des Clercs;8;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135421;BL0106;;581757;3135421;;;;Rue des Clercs;10;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135424;BL0106;;581758;3135424;;;;Rue des Clercs;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135425;BL0111;;26082011;3135425;;;;Rue des Clercs;13;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135426;BL0106;;581760;3135426;;;;Rue des Clercs;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135427;BL0111;;26082012;3135427;;;;Rue des Clercs;15;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135430;BL0106;;581762;3135430;;;;Rue des Clercs;18;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135431;BL0111;;581763;3135431;;;;Rue des Clercs;19;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135432;BL0106;;26082013;3135432;;;;Rue des Clercs;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135434;BL0106;;581765;3135434;;;;Rue des Clercs;24;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135436;BL0106;;581766;3135436;;;;Rue des Clercs;26;;;;;Corinne Wylock;MDU;2;1;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135437;BL0110;;581767;3135437;;;;Rue des Clercs;27;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135438;BL0110;;581768;3135438;;;;Rue des Clercs;29;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135443;BL0107;;581769;3135443;;;;Rue des Clercs;32;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3135445;BL0110;;26082014;3135445;;;;Rue des Clercs;35;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136035;BL0116;;582046;3136035;;;;Rue de la Coupe;3;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136036;BL0116;;582047;3136036;;;;Rue de la Coupe;5;;;;;Corinne Wylock;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136041;BL0116;;582048;3136041;;;;Rue de la Coupe;7;;;;;Jasper Coopman;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136042;BL0116;;582049;3136042;;;;Rue de la Coupe;9;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136044;BL0115;;582050;3136044;;;;Rue de la Coupe;10;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136045;BL0116;;582051;3136045;;;;Rue de la Coupe;11;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136047;BL0115;;582052;3136047;;;;Rue de la Coupe;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136048;BL0115;;582053;3136048;;;;Rue de la Coupe;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136049;BL0116;;582054;3136049;;;;Rue de la Coupe;15;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136050;BL0115;;582055;3136050;;;;Rue de la Coupe;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136051;BL0115;;582056;3136051;;;;Rue de la Coupe;18;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136053;BL0115;;582057;3136053;;;;Rue de la Coupe;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136055;BL0115;;582058;3136055;;;;Rue de la Coupe;22;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136056;BL0115;;582059;3136056;;;;Rue de la Coupe;24;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136058;BL0115;;582060;3136058;;;;Rue de la Coupe;26;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136059;BL0116;;582061;3136059;;;;Rue de la Coupe;31;;;;;Corinne Wylock;MDU;3;5;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136060;BL0115;;582062;3136060;;;;Rue de la Coupe;32;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136061;BL0116;;582063;3136061;;;;Rue de la Coupe;33;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136063;BL0116;;582064;3136063;;;;Rue de la Coupe;35;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136065;BL0116;;582065;3136065;;;;Rue de la Coupe;37;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136066;BL0114;;582066;3136066;;;;Rue de la Coupe;38;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136067;BL0114;;582067;3136067;;;;Rue de la Coupe;40;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136069;BL0114;;582068;3136069;;;;Rue de la Coupe;44;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136070;BL0117;;26082015;3136070;;;;Rue de la Coupe;45;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136071;BL0114;;582070;3136071;;;;Rue de la Coupe;46;;;;;Corinne Wylock;MDU;1;6;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136073;BL0117;;27563750;3136073;;;;Rue de la Coupe;47;B;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136075;BL0117;;27563752;3136075;;;;Rue de la Coupe;47;D;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136076;BL0114;;26082016;3136076;;;;Rue de la Coupe;48;;;;;Corinne Wylock;MDU;1;6;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136077;BL0114;;582072;3136077;;;;Rue de la Coupe;50;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136079;BL0114;;582073;3136079;;;;Rue de la Coupe;52;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136081;BL0114;;582074;3136081;;;;Rue de la Coupe;56;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136085;BL0114;;27563757;3136085;;;;Rue de la Couronne;8;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136087;BL0114;;26082017;3136087;;;;Rue de la Couronne;16;;;;;Corinne Wylock;MDU;0;7;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136568;BL0106;;582238;3136568;;;;Rue Cronque;3;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136569;BL0105;;582239;3136569;;;;Rue Cronque;6;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136570;BL0106;;26082018;3136570;;;;Rue Cronque;7;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136571;BL0105;;582241;3136571;;;;Rue Cronque;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3136572;BL0105;;582242;3136572;;;;Rue Cronque;10;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145384;BL0104;;583606;3145384;;;;Rue d'Enghien;4;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145386;BL0104;;26082019;3145386;;;;Rue d'Enghien;6;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145387;BL0106;;583608;3145387;;;;Rue d'Enghien;7;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145388;BL0106;;583609;3145388;;;;Rue d'Enghien;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145389;BL0106;;583610;3145389;;;;Rue d'Enghien;11;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145395;BL0104;;583611;3145395;31666078;Rue d'Enghien 18-20;;Rue d'Enghien;18;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145398;BL0105;;27560152;3145398;;;;Rue d'Enghien;21;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145400;BL0104;;26082020;3145400;;;;Rue d'Enghien;24;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145402;BL0105;;26082021;3145402;;;;Rue d'Enghien;27;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145405;BL0105;;583614;3145405;;;;Rue d'Enghien;29;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145406;BL0105;;26082022;3145406;;;;Rue d'Enghien;31;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145407;BL0105;;26082023;3145407;;;;Rue d'Enghien;33;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145408;BL0105;;583617;3145408;;;;Rue d'Enghien;35;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145410;BL0105;;26082024;3145410;;;;Rue d'Enghien;41;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145412;BL0105;;583619;3145412;;;;Rue d'Enghien;43;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145424;BL0105;;27561922;3145424;31666076;Rue d'Enghien -51-A-B-EG;;Rue d'Enghien;51;E;;;;Corinne Wylock;MDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145471;BL0118;;26082025;3145471;;;;Rue des Epingliers;6;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145473;BL0118;;26082026;3145473;;;;Rue des Epingliers;8;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145475;BL0118;;583653;3145475;;;;Rue des Epingliers;10;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145477;BL0118;;26082027;3145477;;;;Rue des Epingliers;14;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3145479;BL0118;;583656;3145479;;;;Rue des Epingliers;16;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148282;BL0114;;585153;3148282;;;;Rue des Fripiers;3;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148295;BL0114;;585156;3148295;;;;Rue des Fripiers;13;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148297;BL0114;;585158;3148297;;;;Rue des Fripiers;15;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148300;BL0114;;585160;3148300;;;;Rue des Fripiers;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148301;BL0114;;585161;3148301;;;;Rue des Fripiers;17;B;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148305;BL0114;;585163;3148305;31666085;Rue des Fripiers -19-21;;Rue des Fripiers;21;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148308;BL0114;;27574376;3148308;;;;Rue des Fripiers;23;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148368;BL0106;;585198;3148368;;;;Rue des Gades;2;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148369;BL0106;;585199;3148369;;;;Rue des Gades;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3148370;BL0106;;585200;3148370;;;;Rue des Gades;6;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149225;BL0118;;27575515;3149225;;;;Rue du Hautbois;5;B;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149228;BL0118;;27575487;3149228;;;;Rue du Hautbois;7;;;;;Jasper Coopman;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149232;BL0118;;585603;3149232;;;;Rue du Hautbois;9;;;;;Jasper Coopman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149233;BL0118;;585604;3149233;;;;Rue du Hautbois;11;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149235;BL0118;;27575473;3149235;;;;Rue du Hautbois;11;B;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149236;BL0118;;26082028;3149236;;;;Rue du Hautbois;13;;;;;Corinne Wylock;MDU;1;8;0;9;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149240;BL0118;;585607;3149240;;;;Rue du Hautbois;15;;;;;Corinne Wylock;MDU;1;5;0;6;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149244;BL0118;;27575456;3149244;;;;Rue du Hautbois;17;;;;;Corinne Wylock;MDU;1;9;0;10;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149250;BL0118;;26082029;3149250;;;;Rue du Hautbois;23;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149258;BL0118;;27575170;3149258;;;;Rue du Hautbois;31;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149261;BL0118;;26082030;3149261;;;;Rue du Hautbois;33;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149422;BL0118;;585684;3149422;;;;Rue d'HavrÇ;4;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149424;BL0119;;26082031;3149424;;;;Rue d'HavrÇ;5;;;;;Jasper Coopman;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149427;BL0119;;585686;3149427;;;;Rue d'HavrÇ;7;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149428;BL0118;;585687;3149428;;;;Rue d'HavrÇ;8;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149430;BL0119;;26082032;3149430;;;;Rue d'HavrÇ;9;;;;;Jasper Coopman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149432;BL0118;;26082033;3149432;;;;Rue d'HavrÇ;10;;;;;Corinne Wylock;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149434;BL0119;;585690;3149434;;;;Rue d'HavrÇ;13;;;;;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149437;BL0118;;585691;3149437;;;;Rue d'HavrÇ;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149438;BL0119;;585692;3149438;;;;Rue d'HavrÇ;15;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149439;BL0118;;31664276;3149439;;;;Rue d'HavrÇ;16;;;;2020-03-19;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149440;BL0119;;585693;3149440;;;;Rue d'HavrÇ;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;3149447;BL0118;;27561790;3149447;31666092;Rue d'HavrÇ  -18-20;Rue d'HavrÈ  -18-20;Rue d'HavrÇ;20;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;3149447;BL0118;;27561790;3149447;31666092;Rue d'HavrÇ  -18-20;;Rue d'HavrÇ;20;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149448;BL0119;;26082035;3149448;31666095;Rue d'HavrÇ  -21-23;;Rue d'HavrÇ;23;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;3149448;BL0119;;26082035;3149448;31666095;Rue d'HavrÇ  -21-23;Rue d'HavrÈ  -21-23;Rue d'HavrÇ;23;;;;;Corinne Wylock;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;3149449;BL0118;;585696;3149449;;;;Rue d'HavrÇ;26;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149451;BL0118;;585697;3149451;;;;Rue d'HavrÇ;28;;;;;Jasper Coopman;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149452;BL0119;;27561809;3149452;;;;Rue d'HavrÇ;29;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149457;BL0118;;585698;3149457;;;;Rue d'HavrÇ;32;;;;;Jasper Coopman;MDU;2;8;0;10;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149459;BL0119;;26082036;3149459;;;;Rue d'HavrÇ;33;;;;;Jasper Coopman;MDU;1;5;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149462;BL0118;;585700;3149462;;;;Rue d'HavrÇ;34;;;;;Jasper Coopman;MDU;1;9;0;10;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149464;BL0119;;585701;3149464;;;;Rue d'HavrÇ;35;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149470;BL0119;;585702;3149470;;;;Rue d'HavrÇ;37;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149471;BL0118;;585703;3149471;;;;Rue d'HavrÇ;38;;;;;Jasper Coopman;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149474;BL0119;;585704;3149474;;;;Rue d'HavrÇ;39;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149476;BL0119;;31664274;3149476;;;;Rue d'HavrÇ;39;A;;;2020-03-19;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149478;BL0119;;585705;3149478;;;;Rue d'HavrÇ;41;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149479;BL0118;;585706;3149479;;;;Rue d'HavrÇ;42;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149480;BL0119;;585707;3149480;;;;Rue d'HavrÇ;43;;;;;Jasper Coopman;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149482;BL0118;;26082037;3149482;;;;Rue d'HavrÇ;44;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149483;BL0119;;31664273;3149483;;;;Rue d'HavrÇ;45;;;;2020-03-19;Corinne Wylock;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149486;BL0118;;585709;3149486;;;;Rue d'HavrÇ;46;;;;;Jasper Coopman;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149943;BL0117;;26082038;3149943;;;;Rue de Houdain;4;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149950;BL0117;;26082039;3149950;;;;Rue de Houdain;10;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149952;BL0117;;585945;3149952;;;;Rue de Houdain;12;;;;;Corinne Wylock;MDU;2;6;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149954;BL0117;;26082040;3149954;;;;Rue de Houdain;14;;;;;Corinne Wylock;MDU;1;6;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149957;BL0117;;585948;3149957;;;;Rue de Houdain;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149960;BL0117;;585950;3149960;;;;Rue de Houdain;18;;;;;Corinne Wylock;MDU;0;7;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149962;BL0117;;26082042;3149962;;;;Rue de Houdain;20;;;;;Corinne Wylock;MDU;0;15;0;15;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149963;BL0117;;585952;3149963;;;;Rue de Houdain;28;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149965;BL0117;;585953;3149965;;;;Rue de Houdain;30;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3149966;BL0117;;585954;3149966;;;;Rue de Houdain;32;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153434;BL0117;;587794;3153434;;;;MarchÇ aux Herbes;1;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153435;BL0117;;587795;3153435;;;;MarchÇ aux Herbes;7;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153436;BL0117;;587796;3153436;;;;MarchÇ aux Herbes;8;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153437;BL0117;;587797;3153437;;;;MarchÇ aux Herbes;13;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153438;BL0117;;27556267;3153438;;;;MarchÇ aux Herbes;14;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153440;BL0117;;587798;3153440;;;;MarchÇ aux Herbes;16;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153441;BL0117;;587799;3153441;;;;MarchÇ aux Herbes;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153445;BL0116;;26082043;3153445;;;;MarchÇ aux Herbes;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153448;BL0116;;27556420;3153448;;;;MarchÇ aux Herbes;21;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153449;BL0116;;587801;3153449;;;;MarchÇ aux Herbes;22;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153451;BL0116;;587802;3153451;;;;MarchÇ aux Herbes;24;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153452;BL0116;;587803;3153452;;;;MarchÇ aux Herbes;26;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153454;BL0116;;587804;3153454;;;;MarchÇ aux Herbes;27;;;;;Corinne Wylock;MDU;1;6;0;7;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3153455;BL0116;;27556673;3153455;;;;MarchÇ aux Herbes;30;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154235;BL0102;;588181;3154235;;;;Rue du Miroir;3;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154237;BL0102;;588182;3154237;;;;Rue du Miroir;5;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154238;BL0119;;588183;3154238;;;;Rue du Miroir;6;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154240;BL0102;;588184;3154240;31666102;Rue du Miroir --9-11;;Rue du Miroir;9;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154242;BL0119;;588185;3154242;31666103;Rue du Miroir 12A- 12B;;Rue du Miroir;12;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154243;BL0102;;588186;3154243;;;;Rue du Miroir;13;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154244;BL0119;;588187;3154244;;;;Rue du Miroir;14;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154246;BL0102;;26082044;3154246;;;;Rue du Miroir;17;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154248;BL0119;;27576310;3154248;31666100;Rue du Miroir 16-18-18C-18D-20;;Rue du Miroir;18;C;;;;Corinne Wylock;MDU;1;8;0;9;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154250;BL0119;;27576313;3154250;31666099;Rue du Miroir -16-18-18C-18D-20;;Rue du Miroir;18;D;;;;Corinne Wylock;MDU;1;8;0;9;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154251;BL0119;;27576355;3154251;31666101;Rue du Miroir-16-18-18C-18D-20;;Rue du Miroir;20;;;;;Corinne Wylock;MDU;1;8;0;9;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154253;BL0119;;588189;3154253;;;;Rue du Miroir;22;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154254;BL0102;;588190;3154254;;;;Rue du Miroir;23;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154256;BL0119;;588191;3154256;;;;Rue du Miroir;24;;;;;Corinne Wylock;MDU;1;2;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154257;BL0102;;26082045;3154257;;;;Rue du Miroir;25;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154258;BL0102;;588193;3154258;;;;Rue du Miroir;27;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3154259;BL0102;;588194;3154259;;;;Rue du Miroir;29;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155168;BL0104;;588916;3155168;;;;Rue Neuve;3;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155170;BL0103;;588917;3155170;;;;Rue Neuve;4;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155171;BL0104;;588918;3155171;;;;Rue Neuve;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155172;BL0103;;588919;3155172;;;;Rue Neuve;6;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155174;BL0104;;588920;3155174;;;;Rue Neuve;7;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155175;BL0103;;26082046;3155175;;;;Rue Neuve;12;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155176;BL0103;;588922;3155176;;;;Rue Neuve;14;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155178;BL0103;;588923;3155178;;;;Rue Neuve;16;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155179;BL0104;;588924;3155179;31666105;11-17 rue Neuve;;Rue Neuve;17;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155180;BL0103;;588925;3155180;;;;Rue Neuve;18;;;;;Corinne Wylock;MDU;2;1;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155181;BL0103;;588926;3155181;;;;Rue Neuve;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155234;BL0103;;588961;3155234;;;;Rue de Nimy;3;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155235;BL0102;;588962;3155235;;;;Rue de Nimy;4;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155236;BL0102;;588963;3155236;;;;Rue de Nimy;6;;;;;Jasper Coopman;MDU;1;3;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155237;BL0103;;588964;3155237;;;;Rue de Nimy;7;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155238;BL0103;;588965;3155238;;;;Rue de Nimy;9;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155239;BL0102;;588966;3155239;;;;Rue de Nimy;12;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155240;BL0103;;588967;3155240;;;;Rue de Nimy;13;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155241;BL0102;;27573219;3155241;;;;Rue de Nimy;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155242;BL0103;;26082047;3155242;;;;Rue de Nimy;15;;;;;Corinne Wylock;MDU;0;12;0;12;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155243;BL0102;;588969;3155243;;;;Rue de Nimy;16;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155245;BL0103;;588970;3155245;;;;Rue de Nimy;19;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155246;BL0101;;588971;3155246;;;;Rue de Nimy;22;;;;;Jasper Coopman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155248;BL0103;;588972;3155248;;;;Rue de Nimy;27;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155249;BL0101;;588973;3155249;;;;Rue de Nimy;34;;;;;Jasper Coopman;MDU;1;8;0;9;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155250;BL0103;;31664229;3155250;;;;Rue de Nimy;35;;;;2020-03-20;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155354;BL0107;;26082048;3155354;;;;Rue Notre Dame DÇbonnaire;3;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155356;BL0107;;26082049;3155356;;;;Rue Notre Dame DÇbonnaire;11;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155530;BL0103;;589178;3155530;;;;Rue du Onze Novembre;14;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155533;BL0103;;26082050;3155533;;;;Rue du Onze Novembre;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155535;BL0103;;589182;3155535;;;;Rue du Onze Novembre;22;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155537;BL0103;;589184;3155537;;;;Rue du Onze Novembre;24;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155746;BL0119;;26082051;3155746;;;;Rue de la Peine Perdue;8;;;;;Corinne Wylock;MDU;0;10;0;10;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155747;BL0119;;589365;3155747;;;;Rue de la Peine Perdue;12;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3155750;BL0119;;27570904;3155750;31666061;Rue de la Peine Perdue -14-16;;Rue de la Peine Perdue;16;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156114;BL0119;;589686;3156114;;;;Grand-Place;3;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156116;BL0119;;589687;3156116;;;;Grand-Place;4;B;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156117;BL0119;;589688;3156117;;;;Grand-Place;4;K;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156119;BL0119;;589689;3156119;;;;Grand-Place;4;G;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156120;BL0119;;589690;3156120;;;;Grand-Place;5;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156121;BL0119;;589691;3156121;;;;Grand-Place;6;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156122;BL0119;;27554108;3156122;;;;Grand-Place;7;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156123;BL0119;;589692;3156123;;;;Grand-Place;8;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156126;BL0119;;27554461;3156126;31666036;Grand-Place -9-10;;Grand-Place;10;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156127;BL0119;;589693;3156127;;;;Grand-Place;11;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156128;BL0119;;589694;3156128;;;;Grand-Place;13;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156129;BL0119;;589695;3156129;;;;Grand-Place;13;B;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156130;BL0102;;589696;3156130;;;;Grand-Place;15;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156131;BL0102;;589697;3156131;;;;Grand-Place;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156132;BL0104;;589698;3156132;;;;Grand-Place;25;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156133;BL0104;;589699;3156133;;;;Grand-Place;26;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156134;BL0106;;589700;3156134;31666037;-Rue d'Enghien -01- Grand-Place -28;;Grand-Place;28;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156135;BL0106;;589701;3156135;;;;Grand-Place;29;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156136;BL0112;;589702;3156136;31666038;Grand-Place-31-32;;Grand-Place;31;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156137;BL0112;;589703;3156137;31666038;Grand-Place-31-32;;Grand-Place;32;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156138;BL0112;;589704;3156138;;;;Grand-Place;34;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156139;BL0112;;589705;3156139;;;;Grand-Place;35;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156140;BL0116;;589706;3156140;31666039;Grand-Place-36-37;;Grand-Place;36;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156141;BL0116;;589707;3156141;31666039;Grand-Place-36-37;;Grand-Place;37;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156142;BL0116;;589708;3156142;;;;Grand-Place;38;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156143;BL0116;;589709;3156143;;;;Grand-Place;39;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156452;BL0111;;26082052;3156452;;;;Rue de la Poterie;2;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156454;BL0112;;26082053;3156454;;;;Rue de la Poterie;5;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156455;BL0111;;589977;3156455;;;;Rue de la Poterie;6;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156456;BL0111;;27571383;3156456;;;;Rue de la Poterie;10;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156457;BL0111;;589978;3156457;;;;Rue de la Poterie;12;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156458;BL0112;;26082054;3156458;;;;Rue de la Poterie;13;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156459;BL0111;;26082055;3156459;;;;Rue de la Poterie;14;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156460;BL0112;;589981;3156460;;;;Rue de la Poterie;15;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156461;BL0111;;26082056;3156461;;;;Rue de la Poterie;16;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156462;BL0112;;589983;3156462;;;;Rue de la Poterie;17;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156463;BL0111;;26082057;3156463;;;;Rue de la Poterie;18;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156464;BL0112;;589985;3156464;;;;Rue de la Poterie;19;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156465;BL0111;;26082058;3156465;;;;Rue de la Poterie;20;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156466;BL0111;;26082059;3156466;;;;Rue de la Poterie;24;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156468;BL0113;;589988;3156468;;;;Rue de la Poterie;27;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156469;BL0110;;589989;3156469;;;;Rue de la Poterie;28;;;;;Corinne Wylock;MDU;8;0;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156470;BL0113;;26082060;3156470;;;;Rue de la Poterie;29;;;;;Corinne Wylock;MDU;0;11;0;11;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3156472;BL0110;;589991;3156472;;;;Rue de la Poterie;32;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159060;BL0109;;592087;3159060;;;;Place Saint Germain;1;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159061;BL0109;;592088;3159061;;;;Place Saint Germain;2;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159062;BL0109;;26082061;3159062;;;;Place Saint Germain;3;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159340;BL0107;;592341;3159340;;;;Rampe Sainte Waudru;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159341;BL0107;;592342;3159341;;;;Rampe Sainte Waudru;10;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159342;BL0107;;592343;3159342;31666043;Rampe Sainte Waudru  -12 - 14;;Rampe Sainte Waudru;12;;;;;Corinne Wylock;MDU;2;1;0;3;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159507;BL0105;;27575072;3159507;;;;Rue des Telliers;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159726;BL0105;;592648;3159726;;;;Rue de la Tour Auberon;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3159728;BL0105;;592650;3159728;;;;Rue de la Tour Auberon;7;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3160848;BL0101;;26082062;3160848;31666108;Rue Verte -8 - 8 C;;Rue Verte;8;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3160849;BL0101;;26082063;3160849;;;;Rue Verte;10;;;;;Corinne Wylock;MDU;0;12;0;12;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162163;BL0102;;594519;3162163;;;;Cour du Noir LÇvrier;5;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162164;BL0102;;594520;3162164;;;;Cour du Noir LÇvrier;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162165;BL0102;;594521;3162165;;;;Cour du Noir LÇvrier;10;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162288;BL0111;;594608;3162288;;;;Rue Courte;1;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162289;BL0110;;594609;3162289;;;;Rue Courte;2;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162290;BL0111;;594610;3162290;;;;Rue Courte;3;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162291;BL0111;;31664187;3162291;;;;Rue Courte;3;B;;;2020-03-24;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162360;BL0116;;26082064;3162360;;;;Ruelle aux Quinettes;23;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162643;BL0119;;31664183;3162643;;;;Esplanade du Dragon;101;;;;2020-03-17;Corinne Wylock;MDU;2;8;0;10;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3162656;BL0119;;27578052;3162656;;;;Esplanade du Dragon;311;;;;;Corinne Wylock;MDU;0;14;0;14;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3945006;BL0105;;27560353;3945006;31666075;Hìtel de GRATY 51- 51A- 51B-51C- 51E-51G Rue d'Enghien;;Rue d'Enghien;51;B;;;;Corinne Wylock;MDU;0;12;0;12;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;3945006;BL0105;;27560353;3945006;31666075;Hìtel de GRATY 51- 51A- 51B-51C- 51E-51G Rue d'Enghien;HÙtel de GRATY 51- 51A- 51B-51C- 51E-51G Rue d'Enghien;Rue d'Enghien;51;B;;;;Corinne Wylock;MDU;0;12;0;12;0;12;0;12;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;3945007;BL0105;;27562039;3945007;31666077;Rue d'Enghien 51-A-B-C-G;;Rue d'Enghien;51;G;;;;Corinne Wylock;MDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3945160;BL0105;;26082065;3945160;;;;Rue de la Tour Auberon;9;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3958328;BL0106;;27560027;3958328;;;;Rue d'Enghien;17;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;3990787;BL0103;;26082066;3990787;;;;Rue de Nimy;11;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;3991066;BL0102;;595038;3991066;;;;Rue des FossÇs;8;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4010758;BL0116;;27563746;4010758;;;;Rue de la Coupe;23;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4029461;BL0118;;595181;4029461;;;;Rue de la Clef;35;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4030549;BL0102;;595185;4030549;;;;Cour du Noir LÇvrier;7;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4051941;BL0119;;27577937;4051941;;;;Esplanade du Dragon;252;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;4067990;BL0116;;595330;4067990;;;;MarchÇ aux Herbes;23;A;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4068973;BL0102;;595335;4068973;;;;Cour du Noir LÇvrier;6;;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4127139;BL0114;;27574345;4127139;31666084;Rue des Fripiers  -19-21;;Rue des Fripiers;19;;;;;Corinne Wylock;MDU;1;4;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4128117;BL0113;;595528;4128117;;;;Rue de la ChaussÇe;68;;;;;Jasper Coopman;MDU;4;0;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4179061;BL0119;;27572365;4179061;31666069;Rue de la Seuwe- 201-211-221-231-241;;Rue de la Seuwe;201;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;4205258;BL0116;;595870;4205258;;;;Rue de la Coupe;19;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4256588;BL0117;;26082067;4256588;;;;Rue de Houdain;24;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4258407;BL0116;;596221;4258407;;;;MarchÇ aux Herbes;23;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586113;BL0103;;597171;4586113;31666087;Rue des 4 fräres Aymond 5-7;;Rue des Quatre Fils Aymon;7;;;;;Corinne Wylock;MDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;4586113;BL0103;;597171;4586113;31666087;Rue des 4 fräres Aymond 5-7;Rue des 4 frËres Aymond 5-7;Rue des Quatre Fils Aymon;7;;;;;Corinne Wylock;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;4586196;BL0106;;597205;4586196;;;;Rue Cronque;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586197;BL0106;;597206;4586197;;;;Rue Cronque;11;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586200;BL0105;;27560301;4586200;31666074;Rue d'Enghien 21-25;;Rue d'Enghien;25;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586201;BL0107;;597207;4586201;;;;Rue Notre Dame DÇbonnaire;5;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586203;BL0105;;27557903;4586203;;;;Rue Cronque;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586258;BL0102;;597216;4586258;;;;Rue du Miroir;7;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586260;BL0102;;597217;4586260;;;;Cour du Noir LÇvrier;12;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586261;BL0102;;597218;4586261;;;;Cour du Noir LÇvrier;14;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586265;BL0102;;27553437;4586265;;;;Cour du Noir LÇvrier;3;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586266;BL0102;;27553648;4586266;;;;Cour du Noir LÇvrier;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586267;BL0104;;597220;4586267;31666079;Rue d'Enghien  18-20;;Rue d'Enghien;20;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;4586268;BL0104;;31664272;4586268;;;;Rue D'Enghien;10;;;;2020-03-06;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;4588408;BL0110;;597442;4588408;;;;Rue des Clercs;37;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4588411;BL0112;;597443;4588411;;;;Rue de la Poterie;3;;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4588412;BL0112;;597444;4588412;;;;Rue de la Poterie;7;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4588420;BL0113;;597445;4588420;31666052;-DELCAMBE- Rue de ChaussÇe - 64-66;;Rue de la ChaussÇe;64;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;4588420;BL0113;;597445;4588420;31666052;-DELCAMBE- Rue de ChaussÇe - 64-66;-DELCAMBE- Rue de ChaussÈe - 64-66;Rue de la ChaussÇe;64;;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;4591030;BL0117;;31664185;4591030;;;;MarchÇ aux Herbes;12;;;;2020-03-24;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591031;BL0117;;26082070;4591031;;;;MarchÇ aux Herbes;15;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591033;BL0117;;27647078;4591033;;;;MarchÇ aux Herbes;4;;;;;Corinne Wylock;MDU;0;8;0;8;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591035;BL0117;;597701;4591035;;;;MarchÇ aux Herbes;6;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591039;BL0117;;26082071;4591039;;;;Rue de Houdain;22;;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591041;BL0117;;27563748;4591041;;;;Rue de la Coupe;43;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591042;BL0117;;597703;4591042;31666060;Rue de la coupe - 49 -53- 55 -rue de Houdain 36;;Rue de la Coupe;49;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591048;BL0118;;597706;4591048;;;;Rue de la Clef;49;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591195;BL0119;;26082072;4591195;31666061;Rue de la Peine Perdue -14-16;;Rue de la Peine Perdue;14;;;;;Corinne Wylock;MDU;0;6;0;6;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591204;BL0116;;26082073;4591204;;;;Rue de la Coupe;27;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591206;BL0116;;597717;4591206;;;;Rue de la Clef;8;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591208;BL0106;;597718;4591208;;;;Rue d'Enghien;5;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591209;BL0106;;26082074;4591209;;;;Rue d'Enghien;13;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591214;BL0119;;26082075;4591214;;;;Rue d'HavrÇ;11;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;4591215;BL0119;;597724;4591215;31666095;Rue d'HavrÇ  -21-23;Rue d'HavrÈ  -21-23;Rue d'HavrÇ;21;;;;;Corinne Wylock;MDU;1;1;0;2;1;1;0;2;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;4591215;BL0119;;597724;4591215;31666095;Rue d'HavrÇ  -21-23;;Rue d'HavrÇ;21;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591216;BL0119;;26082076;4591216;;;;Rue d'HavrÇ;25;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591226;BL0114;;597726;4591226;;;;Rue de la Coupe;42;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591262;BL0118;;27563669;4591262;;;;Rue de la Clef;3;;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591263;BL0118;;27563705;4591263;31666058;Rue de la clef  -25-27;;Rue de la Clef;27;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591287;BL0114;;597729;4591287;;;;Rue de la ChaussÇe;55;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591288;BL0114;;597730;4591288;;;;Rue de la ChaussÇe;57;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591301;BL0112;;597732;4591301;;;;Rue de la ChaussÇe;18;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591302;BL0112;;597733;4591302;;;;Rue de la ChaussÇe;28;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591305;BL0118;;597734;4591305;;;;Rue du Hautbois;19;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591306;BL0118;;597735;4591306;;;;Rue des Epingliers;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591307;BL0118;;597736;4591307;;;;Rue des Epingliers;12;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;4591309;BL0118;;597737;4591309;31666096;Rue d'HavrÇ  36-38-40 - rue Hautbois 27;;Rue du Hautbois;27;;;;;Corinne Wylock;MDU;1;6;0;7;;;;;N;;BUILDING template
+MONS - FH01;BG Name diff;4591309;BL0118;;597737;4591309;31666096;Rue d'HavrÇ  36-38-40 - rue Hautbois 27;Rue d'HavrÈ  36-38-40 - rue Hautbois 27;Rue du Hautbois;27;;;;;Corinne Wylock;MDU;1;6;0;7;1;6;0;7;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;5323275;BL0119;;598242;5323275;;;;Grand-Place;6;A;;;;Corinne Wylock;MDU;0;3;0;3;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5323298;BL0118;;598250;5323298;;;;Rue du Hautbois;1;A;;;;Corinne Wylock;MDU;1;10;0;11;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5324894;BL0119;;27571779;5324894;31666064;Rue de la Seuwe -6-7-8-9-;;Rue de la Seuwe;8;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5324970;BL0115;;598284;5324970;;;;Rue de la ChaussÇe;21;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5329339;BL0118;;598337;5329339;;;;Rue des Epingliers;6;B;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5330455;BL0119;;598364;5330455;;;;Grand-Place;4;A;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5333419;BL0118;;26082077;5333419;;;;Rue d'HavrÇ;12;A;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5334239;BL0119;;598401;5334239;;;;Grand-Place;4;C;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5336039;BL0119;;598416;5336039;;;;Rue de la Seuwe;15;A;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5336287;BL0114;;598427;5336287;;;;Rue de la Couronne;18;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5338737;BL0119;;598453;5338737;;;;Grand-Place;4;D;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5339636;BL0119;;598479;5339636;;;;Rue de la Seuwe;26;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5341213;BL0105;;598483;5341213;;;;Rue d'Enghien;51;A;;;;Corinne Wylock;MDU;1;11;0;12;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5348681;BL0119;;598565;5348681;;;;Grand-Place;4;J;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5351802;BL0119;;598611;5351802;;;;Grand-Place;4;H;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5351817;BL0112;;598613;5351817;;;;Rue de la ChaussÇe;42;A;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5354255;BL0119;;598643;5354255;;;;Grand-Place;4;L;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5354564;BL0119;;598645;5354564;;;;Grand-Place;4;F;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5355234;BL0119;;598657;5355234;;;;Rue de la Seuwe;15;D;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5355853;BL0116;;26082078;5355853;;;;Ruelle aux Quinettes;23;A;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5358854;BL0114;;26082079;5358854;;;;Rue de la Couronne;12;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5360256;BL0119;;598741;5360256;;;;Rue de la Seuwe;15;C;;;;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5494266;BL0119;;27572123;5494266;;;;Rue de la Seuwe;20;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5537384;BL0119;;31664182;5537384;;;;Esplanade du Dragon;401;;;;2020-03-17;Corinne Wylock;MDU;0;8;0;8;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5605539;BL0119;;27571780;5605539;31666062;Rue de la Seuwe-6-7-8-9-;;Rue de la Seuwe;9;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5605540;BL0119;;27572051;5605540;;;;Rue de la Seuwe;17;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5605541;BL0119;;27572106;5605541;31666067;Rue de la Seuwe-18-19;;Rue de la Seuwe;19;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5605542;BL0119;;27572159;5605542;;;;Rue de la Seuwe;22;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5727265;BL0114;;27563760;5727265;;;;Rue de la Couronne;20;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5729089;BL0117;;27563749;5729089;;;;Rue de la Coupe;47;A;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5747791;BL0116;;31664191;5747791;;;;Rue de la Clef;4;A;;;2020-03-20;Corinne Wylock;MDU;0;12;0;12;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5821959;BL0101;;27577355;5821959;31666106;Rue Verte 8 - 8A;;Rue Verte;8;A;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;5847338;BL0117;;27563751;5847338;;;;Rue de la Coupe;47;C;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;5892816;BL0119;;27576213;5892816;31666098;Rue du Miroi -12 - A-B;;Rue du Miroir;12;A;;;;Corinne Wylock;MDU;0;3;0;3;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6031831;BL0116;;31664205;6031831;;;;Rue de la Coupe;7;B;;;2020-03-18;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;6040565;BL0118;;27561037;6040565;31666089;Rue d'HavrÇ  -2- 2A;Rue d'HavrÈ  -2- 2A;Rue d'HavrÇ;2;A;;;;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+MONS - FH01;NO CLUSTERS;6040565;BL0118;;27561037;6040565;31666089;Rue d'HavrÇ  -2- 2A;;Rue d'HavrÇ;2;A;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6041639;BL0117;;27563025;6041639;;;;Rue de Houdain;22;C;;;;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6056432;BL0106;;27559203;6056432;;;;Rue Cronque;13;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6080057;BL0103;;31664231;6080057;;;;Rue de Nimy;31;A;;;2020-03-20;Corinne Wylock;MDU;1;6;0;7;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6118909;BL0119;;27571800;6118909;31666065;Rue de la Seuwe-11-12-13-14;;Rue de la Seuwe;11;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6147395;BL0119;;31664275;6147395;;;;Rue d'HavrÇ;37;B;;;2020-03-19;Corinne Wylock;MDU;0;4;0;4;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6217097;BL0119;;27572124;6217097;;;;Rue de la Seuwe;21;;;;;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6305730;BL0116;;31664189;6305730;;;;Rue de la Clef;34;;;;2020-03-20;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6338028;BL0118;;31664190;6338028;;;;Rue de la Clef;19;A;;;2020-03-20;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6349600;BL0103;;27576376;6349600;31666104;26 rue du onze Novembre - 02 rue des Etampes;;Rue du Onze Novembre;26;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6449643;BL0105;;27560109;6449643;31666073;Rue d' Enghien 19-19A;;Rue d'Enghien;19;B;;;;Corinne Wylock;MDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6491471;BL0119;;27571935;6491471;31666066;Rue de la Seuwe -11-12-13-14;;Rue de la Seuwe;13;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6493733;BL0119;;27571804;6493733;31666065;Rue de la Seuwe-11-12-13-14;;Rue de la Seuwe;12;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6605706;BL0116;;27577751;6605706;;;;Ruelle aux Quinettes;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6626334;BL0119;;27571766;6626334;31666062;Rue de la Seuwe-6-7-8-9-;;Rue de la Seuwe;6;;;;;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6626338;BL0119;;27572160;6626338;31666068;Rue de la Seuwe-23-31-;;Rue de la Seuwe;23;;;;;Corinne Wylock;MDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6626349;BL0105;;27572974;6626349;;;;Rue de la Tour Auberon;3;A;;;;Corinne Wylock;MDU;0;2;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6626351;BL0105;;27573032;6626351;;;;Rue de la Tour Auberon;3;B;;;;Corinne Wylock;MDU;0;5;0;5;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;66594;BL0103;;599575;66594;31666071;Rue de Nimy-31-31A-31B-31C-31D-31E;;Rue de Nimy;31;;;;;Corinne Wylock;MDU;3;22;0;25;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;66595;BL0103;;599576;66595;;;;Rue de Nimy;37;;;;;Jasper Coopman;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;66596;BL0101;;599577;66596;;;;Rue de Nimy;38;;;;;Jasper Coopman;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;66599;BL0102;;26082080;66599;;;;Rue du Miroir;31;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;66614;BL0103;;599593;66614;;;;Rue des Quatre Fils Aymon;9;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;66619;BL0103;;599597;66619;;;;Rue des Etampes;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6661957;BL0105;;31664254;6661957;;;;Rue d'Enghien;51;D;;;2020-02-13;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6662816;BL0108;;31664186;6662816;;;;Place du Chapitre;22;;;;2020-03-25;Corinne Wylock;MDU;1;1;0;2;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6662818;BL0114;;31664222;6662818;;;;Rue de la Couronne;22;;;;2020-03-25;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6662819;BL0119;;31664223;6662819;;;;Rue de la Seuwe;29;;;;2020-03-17;Corinne Wylock;MDU;0;7;0;7;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6662821;BL0119;;31664224;6662821;;;;Rue de la Seuwe;31;;;;2020-03-17;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6662823;BL0113;;31664226;6662823;;;;Rue de la Voussure;1;;;;2020-03-23;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6662825;BL0116;;31664280;6662825;;;;Ruelle des Quinettes;25;8;;;2020-03-25;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663053;BL0117;;33085483;6663053;;;;Rue de Houdain;2;B;;;2020-02-13;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663054;BL0114;;33085492;6663054;;;;Rue de la ChaussÇe;35;A;;;2020-03-24;Corinne Wylock;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;Buildingtype diff;6663054;BL0114;;33085492;6663054;;;;Rue de la ChaussÇe;35;A;;;2020-03-24;Corinne Wylock;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;Buildingtype diff;6663055;BL0114;;33085493;6663055;;;;Rue de la ChaussÇe;35;B;;;2020-03-24;Corinne Wylock;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663055;BL0114;;33085493;6663055;;;;Rue de la ChaussÇe;35;B;;;2020-03-24;Corinne Wylock;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;Buildingtype diff;6663056;BL0114;;33085494;6663056;;;;Rue de la ChaussÇe;35;C;;;2020-03-24;Corinne Wylock;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663056;BL0114;;33085494;6663056;;;;Rue de la ChaussÇe;35;C;;;2020-03-24;Corinne Wylock;MDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663057;BL0118;;33085486;6663057;;;;Rue de la Clef;41;A;;;2020-03-20;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663058;BL0118;;33085487;6663058;;;;Rue de la Clef;41;B;;;2020-03-20;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663059;BL0103;;33085488;6663059;;;;Rue de Nimy;31;B;;;2020-03-20;Corinne Wylock;MDU;0;4;0;4;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663060;BL0103;;33085489;6663060;;;;Rue de Nimy;31;C;;;2020-03-20;Corinne Wylock;MDU;2;3;0;5;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663061;BL0103;;33085490;6663061;;;;Rue de Nimy;31;D;;;2020-03-20;Corinne Wylock;MDU;0;3;0;3;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663062;BL0103;;33085491;6663062;;;;Rue de Nimy;31;E;;;2020-03-20;Corinne Wylock;SDU;0;1;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663063;BL0105;;33085484;6663063;;;;Rue d'Enghien;51;F;;;2020-02-13;Corinne Wylock;SDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663064;BL0118;;33085485;6663064;;;;Rue des Epingliers;6;A;;;2020-03-17;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;Buildingtype diff;6663215;BL0118;;33488718;6663215;;;;Rue d'HavrÇ;32;B;;;2020-03-24;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6663215;BL0118;;33488718;6663215;;;;Rue d'HavrÇ;32;B;;;2020-03-24;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;66670;BL0102;;599636;66670;;;;Rue des FossÇs;6;;;;;Corinne Wylock;MDU;1;1;0;2;;;;;Y;;BUILDING template
+MONS - FH01;NO CLUSTERS;66671;BL0102;;599637;66671;;;;Rue des FossÇs;4;;;;;Corinne Wylock;SDU;0;1;0;1;;;;;Y;;BUILDING template
+MONS - FH01;BG Name diff;6667135;BL0105;;33488716;6667135;;Rue d'Enghien - 51-51A-51B-51C-D51F-51G;;Rue d'Enghien;51;C;;;2020-02-13;Corinne Wylock;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+MONS - FH01;NO CLUSTERS;6667135;BL0105;;33488716;6667135;;Rue d'Enghien - 51-51A-51B-51C-D51F-51G;;Rue d'Enghien;51;C;;;2020-02-13;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;Buildingtype diff;6667135;BL0105;;33488716;6667135;;Rue d'Enghien - 51-51A-51B-51C-D51F-51G;;Rue d'Enghien;51;C;;;2020-02-13;Corinne Wylock;MDU;1;0;0;1;;;;;N;;BUILDING template
+MONS - FH01;NO CLUSTERS;6667136;BL0119;;33488717;6667136;;;;Rue d'HavrÇ;31;;;;2020-03-19;Corinne Wylock;SDU;1;0;0;1;;;;;Y;;BUILDING template

@@ -1,0 +1,111 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+HASSELT - FH05;Buildingtype diff;1164602;BL0006;1.0;379497;1164602;;;;Luikersteenweg;228;;;;2020-06-24 07:55:09;Dieu Jocelin;SDU;1;0;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units su diff;1164602;BL0006;1.0;379497;1164602;;;;Luikersteenweg;228;;;;2020-06-24 07:55:09;Dieu Jocelin;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;1164602;BL0006;1.0;379497;1164602;;;;Luikersteenweg;228;;;;2020-06-24 07:55:09;Dieu Jocelin;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;1323149;BL0001;1.0;379912;1323149;33626600;;;Anne Frankplein;11;;XC;;2020-09-21;Jo De Clippel;MDU;1;7;1;9;1;7;1;9;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;2405870;BL0003;1.0;380820;2405870;;;;Gouverneur Roppesingel;131;;;;2020-06-16 09:05:05;Dieu Jocelin;SDU;1;0;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units su diff;2405870;BL0003;1.0;380820;2405870;;;;Gouverneur Roppesingel;131;;;;2020-06-16 09:05:05;Dieu Jocelin;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2405870;BL0003;1.0;380820;2405870;;;;Gouverneur Roppesingel;131;;;;2020-06-16 09:05:05;Dieu Jocelin;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2405872;BL0003;1.0;10522556;2405872;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;133;;XC;;2020-09-23 10:05:08;Jo De Clippel;MDU;1;0;3;4;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2405872;BL0003;1.0;10522556;2405872;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;133;;XC;;2020-09-23 10:05:08;Jo De Clippel;MDU;1;0;3;4;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2405872;BL0003;1.0;10522556;2405872;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;133;;XC;;2020-09-23 10:05:08;Jo De Clippel;MDU;1;0;3;4;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;2405875;BL0006;1.0;380822;2405875;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel;165;;XC;;2020-10-12 08:25:07;Jo De Clippel;MDU;6;0;0;6;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2405875;BL0006;1.0;380822;2405875;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel;165;;XC;;2020-10-12 08:25:07;Jo De Clippel;MDU;6;0;0;6;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2405875;BL0006;1.0;380822;2405875;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel;165;;XC;;2020-10-12 08:25:07;Jo De Clippel;MDU;6;0;0;6;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2405875;BL0006;1.0;380822;2405875;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel;165;;XC;;2020-10-12 08:25:07;Jo De Clippel;MDU;6;0;0;6;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2407163;BL0001;1.0;381355;2407163;33626507;;;Anne Frankplein;1;;XC;;2020-10-05 14:50:07;Jo De Clippel;MDU;0;7;1;8;0;6;1;7;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2407163;BL0001;1.0;381355;2407163;33626507;;;Anne Frankplein;1;;XC;;2020-10-05 14:50:07;Jo De Clippel;MDU;0;7;1;8;0;6;1;7;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407163;BL0001;1.0;381355;2407163;33626507;;;Anne Frankplein;1;;XC;;2020-10-05 14:50:07;Jo De Clippel;MDU;0;7;1;8;0;6;1;7;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407166;BL0001;1.0;381357;2407166;33626507;;;Anne Frankplein;3;;XC;;2020-10-05 15:40:09;Jo De Clippel;MDU;0;7;1;8;0;7;1;8;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407169;BL0001;1.0;381358;2407169;33626507;Anne Frankplein 4-5-6;Anne Frankplein 4-5-6;Anne Frankplein;4;;XC;;2020-09-29 13:45:18;Jo De Clippel;MDU;0;6;1;7;0;6;1;7;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407170;BL0001;1.0;381359;2407170;33626507;Anne Frankplein 4-5-6;Anne Frankplein 4-5-6;Anne Frankplein;5;;XC;;2020-09-30 15:30:07;Jo De Clippel;MDU;0;4;1;5;0;4;1;5;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407172;BL0001;1.0;381360;2407172;33626507;Anne Frankplein 4-5-6;Anne Frankplein 4-5-6;Anne Frankplein;6;;XC;;2020-10-05 16:20:08;Jo De Clippel;MDU;0;6;1;7;0;6;1;7;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407173;BL0001;1.0;381361;2407173;33626600;;;Anne Frankplein;8;;XC;;2020-09-21;Jo De Clippel;MDU;0;9;1;10;0;9;1;10;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407175;BL0001;1.0;381362;2407175;33626600;;;Anne Frankplein;9;;XA;;2020-09-21;Jo De Clippel;MDU;0;10;1;11;0;10;1;11;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407176;BL0001;1.0;381363;2407176;33626600;;;Anne Frankplein;10;;XC;;2020-09-21;Jo De Clippel;MDU;0;9;1;10;0;9;1;10;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;2407181;BL0001;1.0;381364;2407181;33626601;;;Anne Frankplein;12;;XC;;2020-10-08;Jo De Clippel;MDU;2;7;1;10;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2407181;BL0001;1.0;381364;2407181;33626601;;;Anne Frankplein;12;;XC;;2020-10-08;Jo De Clippel;MDU;2;7;1;10;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2407181;BL0001;1.0;381364;2407181;33626601;;;Anne Frankplein;12;;XC;;2020-10-08;Jo De Clippel;MDU;2;7;1;10;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407181;BL0001;1.0;381364;2407181;33626601;;;Anne Frankplein;12;;XC;;2020-10-08;Jo De Clippel;MDU;2;7;1;10;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2407181;BL0001;1.0;381364;2407181;33626601;;;Anne Frankplein;12;;XC;;2020-10-08;Jo De Clippel;MDU;2;7;1;10;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407182;BL0001;1.0;381365;2407182;33626601;;;Anne Frankplein;13;;XC;;2020-10-08;Jo De Clippel;MDU;2;8;1;11;1;9;1;11;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;2407182;BL0001;1.0;381365;2407182;33626601;;;Anne Frankplein;13;;XC;;2020-10-08;Jo De Clippel;MDU;2;8;1;11;1;9;1;11;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2407182;BL0001;1.0;381365;2407182;33626601;;;Anne Frankplein;13;;XC;;2020-10-08;Jo De Clippel;MDU;2;8;1;11;1;9;1;11;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407184;BL0001;1.0;381366;2407184;33626601;;;Anne Frankplein;14;;XC;;2020-10-08;Jo De Clippel;MDU;1;7;1;9;1;7;1;9;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407186;BL0001;1.0;381367;2407186;33626601;;;Anne Frankplein;15;;XC;;2020-10-02 13:05:09;Jo De Clippel;MDU;0;7;1;8;0;8;0;8;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2407186;BL0001;1.0;381367;2407186;33626601;;;Anne Frankplein;15;;XC;;2020-10-02 13:05:09;Jo De Clippel;MDU;0;7;1;8;0;8;0;8;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2407186;BL0001;1.0;381367;2407186;33626601;;;Anne Frankplein;15;;XC;;2020-10-02 13:05:09;Jo De Clippel;MDU;0;7;1;8;0;8;0;8;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2407189;BL0001;1.0;381368;2407189;33626601;;;Anne Frankplein;16;;XC;;2020-10-08 15:00:14;Jo De Clippel;MDU;0;6;1;7;0;6;1;7;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2412597;BL0006;1.0;383388;2412597;;;;Danielsstraat;31;;D;;2020-06-03 11:15:33;Dieu Jocelin;MDU;0;6;0;6;0;6;0;6;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2423343;BL0003;1.0;386748;2423343;;;;Kroonwinningstraat;57;A;C;;2020-06-25 12:05:15;Dieu Jocelin;MDU;1;1;0;2;1;1;0;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2425666;BL0004;1.0;387352;2425666;;;;Lentestraat;7;;D;;2020-06-03 09:45:20;Dieu Jocelin;MDU;0;2;0;2;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;2425674;BL0001;1.0;10522560;2425674;;;;Lentestraat;14;;;;2020-06-03 08:55:07;Dieu Jocelin;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;2425674;BL0001;1.0;10522560;2425674;;;;Lentestraat;14;;;;2020-06-03 08:55:07;Dieu Jocelin;SDU;0;1;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units total diff;2425674;BL0001;1.0;10522560;2425674;;;;Lentestraat;14;;;;2020-06-03 08:55:07;Dieu Jocelin;SDU;0;1;0;1;1;1;0;2;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2425686;BL0001;1.0;387361;2425686;;;;Lentestraat;18;;D;;2020-10-08;Jo De Clippel;MDU;1;2;0;3;1;1;0;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2425686;BL0001;1.0;387361;2425686;;;;Lentestraat;18;;D;;2020-10-08;Jo De Clippel;MDU;1;2;0;3;1;1;0;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2425686;BL0001;1.0;387361;2425686;;;;Lentestraat;18;;D;;2020-10-08;Jo De Clippel;MDU;1;2;0;3;1;1;0;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426288;BL0001;1.0;387546;2426288;33626278;;Oude Luikerbaan 79-83;Oude Luikerbaan;79;;;;2020-10-12;Jo De Clippel;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426288;BL0001;1.0;387546;2426288;33626278;;Oude Luikerbaan 79-83;Oude Luikerbaan;79;;;;2020-10-12;Jo De Clippel;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;BG Name diff;2426288;BL0001;1.0;387546;2426288;33626278;;Oude Luikerbaan 79-83;Oude Luikerbaan;79;;;;2020-10-12;Jo De Clippel;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;2426288;BL0001;1.0;387546;2426288;33626278;;;Oude Luikerbaan;79;;;;2020-10-12;Jo De Clippel;SDU;1;0;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units total diff;2426291;BL0001;1.0;387547;2426291;33626278;;;Oude Luikerbaan;81;A;;;2020-06-15 08:40:10;Dieu Jocelin;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426291;BL0001;1.0;387547;2426291;33626278;;;Oude Luikerbaan;81;A;;;2020-06-15 08:40:10;Dieu Jocelin;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;2426291;BL0001;1.0;387547;2426291;33626278;;;Oude Luikerbaan;81;A;;;2020-06-15 08:40:10;Dieu Jocelin;SDU;1;0;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units total diff;2426298;BL0003;1.0;387550;2426298;;;;Oude Luikerbaan;96;;XC;;2020-06-16;Dieu Jocelin;MDU;0;4;0;4;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426298;BL0003;1.0;387550;2426298;;;;Oude Luikerbaan;96;;XC;;2020-06-16;Dieu Jocelin;MDU;0;4;0;4;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2426298;BL0003;1.0;387550;2426298;;;;Oude Luikerbaan;96;;XC;;2020-06-16;Dieu Jocelin;MDU;0;4;0;4;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2426310;BL0003;1.0;387555;2426310;;;;Oude Luikerbaan;102;;D;;2020-06-25 11:55:15;Dieu Jocelin;MDU;1;1;0;2;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426310;BL0003;1.0;387555;2426310;;;;Oude Luikerbaan;102;;D;;2020-06-25 11:55:15;Dieu Jocelin;MDU;1;1;0;2;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426310;BL0003;1.0;387555;2426310;;;;Oude Luikerbaan;102;;D;;2020-06-25 11:55:15;Dieu Jocelin;MDU;1;1;0;2;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426313;BL0006;1.0;387557;2426313;;;;Oude Luikerbaan;105;;D;;2020-06-03 11:10:19;Dieu Jocelin;MDU;0;6;0;6;0;6;0;6;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426319;BL0003;1.0;10522561;2426319;;;;Oude Luikerbaan;118;;C;;2020-06-15 10:00:21;Dieu Jocelin;MDU;2;0;1;3;2;0;2;4;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426319;BL0003;1.0;10522561;2426319;;;;Oude Luikerbaan;118;;C;;2020-06-15 10:00:21;Dieu Jocelin;MDU;2;0;1;3;2;0;2;4;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426319;BL0003;1.0;10522561;2426319;;;;Oude Luikerbaan;118;;C;;2020-06-15 10:00:21;Dieu Jocelin;MDU;2;0;1;3;2;0;2;4;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426334;BL0003;1.0;5166168;2426334;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Oude Luikerbaan;160;;XC;;2020-09-23 11:10:12;Jo De Clippel;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426334;BL0003;1.0;5166168;2426334;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Oude Luikerbaan;160;;XC;;2020-09-23 11:10:12;Jo De Clippel;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426334;BL0003;1.0;5166168;2426334;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Oude Luikerbaan;160;;XC;;2020-09-23 11:10:12;Jo De Clippel;MDU;0;4;1;5;0;4;0;4;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426463;BL0001;1.0;387627;2426463;33626466;Luikersteenweg 140A-140B;Luikersteenweg 140A-140B;Luikersteenweg;140;A;XC;;2020-10-07 17:20:06;Jo De Clippel;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426463;BL0001;1.0;387627;2426463;33626466;Luikersteenweg 140A-140B;Luikersteenweg 140A-140B;Luikersteenweg;140;A;XC;;2020-10-07 17:20:06;Jo De Clippel;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426463;BL0001;1.0;387627;2426463;33626466;Luikersteenweg 140A-140B;Luikersteenweg 140A-140B;Luikersteenweg;140;A;XC;;2020-10-07 17:20:06;Jo De Clippel;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426466;BL0001;1.0;387628;2426466;33626466;Luikersteenweg 140A-140B;Luikersteenweg 140A-140B;Luikersteenweg;140;B;XC;;2020-10-07 16:25:07;Jo De Clippel;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426466;BL0001;1.0;387628;2426466;33626466;Luikersteenweg 140A-140B;Luikersteenweg 140A-140B;Luikersteenweg;140;B;XC;;2020-10-07 16:25:07;Jo De Clippel;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426466;BL0001;1.0;387628;2426466;33626466;Luikersteenweg 140A-140B;Luikersteenweg 140A-140B;Luikersteenweg;140;B;XC;;2020-10-07 16:25:07;Jo De Clippel;MDU;0;5;1;6;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426499;BL0005;1.0;387640;2426499;;;;Luikersteenweg;168;;;;2020-06-22 12:20:12;Jo De Clippel;SDU;0;1;0;1;0;4;0;4;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2426499;BL0005;1.0;387640;2426499;;;;Luikersteenweg;168;;;;2020-06-22 12:20:12;Jo De Clippel;SDU;0;1;0;1;0;4;0;4;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;2426499;BL0005;1.0;387640;2426499;;;;Luikersteenweg;168;;;;2020-06-22 12:20:12;Jo De Clippel;SDU;0;1;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units su diff;2426522;BL0005;1.0;387654;2426522;;;;Luikersteenweg;192;;;;2020-06-05 11:25:52;Jo De Clippel;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;2426522;BL0005;1.0;387654;2426522;;;;Luikersteenweg;192;;;;2020-06-05 11:25:52;Jo De Clippel;SDU;1;0;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units total diff;2426522;BL0005;1.0;387654;2426522;;;;Luikersteenweg;192;;;;2020-06-05 11:25:52;Jo De Clippel;SDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units su diff;2426562;BL0006;1.0;10522566;2426562;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;232;;XC;;2020-09-28 15:50:13;Jo De Clippel;MDU;11;5;2;18;8;8;0;16;N;N;BUILDING template
+HASSELT - FH05;Units total diff;2426562;BL0006;1.0;10522566;2426562;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;232;;XC;;2020-09-28 15:50:13;Jo De Clippel;MDU;11;5;2;18;8;8;0;16;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;2426562;BL0006;1.0;10522566;2426562;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;232;;XC;;2020-09-28 15:50:13;Jo De Clippel;MDU;11;5;2;18;8;8;0;16;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;2426562;BL0006;1.0;10522566;2426562;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;232;;XC;;2020-09-28 15:50:13;Jo De Clippel;MDU;11;5;2;18;8;8;0;16;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;2426562;BL0006;1.0;10522566;2426562;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;232;;XC;;2020-09-28 15:50:13;Jo De Clippel;MDU;11;5;2;18;8;8;0;16;N;N;BUILDING template
+HASSELT - FH05;Units su diff;328553;BL0006;1.0;394345;328553;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;230;;XC;;2020-10-12;Jo De Clippel;MDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;328553;BL0006;1.0;394345;328553;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;230;;XC;;2020-10-12;Jo De Clippel;MDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;328553;BL0006;1.0;394345;328553;33629369;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Gouverneur Roppesingel 165_Luikersteenweg 230-232;Luikersteenweg;230;;XC;;2020-10-12;Jo De Clippel;MDU;1;0;0;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;328571;BL0005;1.0;394361;328571;;;;Zomerstraat;3;;XC;;2020-06-03;Jo De Clippel;MDU;1;5;1;7;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units su diff;328571;BL0005;1.0;394361;328571;;;;Zomerstraat;3;;XC;;2020-06-03;Jo De Clippel;MDU;1;5;1;7;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units total diff;328571;BL0005;1.0;394361;328571;;;;Zomerstraat;3;;XC;;2020-06-03;Jo De Clippel;MDU;1;5;1;7;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;328571;BL0005;1.0;394361;328571;;;;Zomerstraat;3;;XC;;2020-06-03;Jo De Clippel;MDU;1;5;1;7;0;5;0;5;N;N;BUILDING template
+HASSELT - FH05;BG Name diff;328577;BL0001;1.0;394366;328577;33626278;;Oude Luikerbaan 79-83;Oude Luikerbaan;83;;;;2020-10-12;Jo De Clippel;SDU;0;0;1;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;328577;BL0001;1.0;394366;328577;33626278;;Oude Luikerbaan 79-83;Oude Luikerbaan;83;;;;2020-10-12;Jo De Clippel;SDU;0;0;1;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Units total diff;328577;BL0001;1.0;394366;328577;33626278;;Oude Luikerbaan 79-83;Oude Luikerbaan;83;;;;2020-10-12;Jo De Clippel;SDU;0;0;1;1;1;0;1;2;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;328577;BL0001;1.0;394366;328577;33626278;;;Oude Luikerbaan;83;;;;2020-10-12;Jo De Clippel;SDU;0;0;1;1;;;;;N;;BUILDING template
+HASSELT - FH05;Quadrant diff;3937166;BL0003;1.0;10522567;3937166;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;135;;XC;;2020-09-23 10:00:14;Jo De Clippel;MDU;1;3;3;7;0;3;1;4;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;3937166;BL0003;1.0;10522567;3937166;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;135;;XC;;2020-09-23 10:00:14;Jo De Clippel;MDU;1;3;3;7;0;3;1;4;N;N;BUILDING template
+HASSELT - FH05;Units su diff;3937166;BL0003;1.0;10522567;3937166;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;135;;XC;;2020-09-23 10:00:14;Jo De Clippel;MDU;1;3;3;7;0;3;1;4;N;N;BUILDING template
+HASSELT - FH05;Units total diff;3937166;BL0003;1.0;10522567;3937166;33629368;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel 133-135_Oude Luikerbaan 160;Gouverneur Roppesingel;135;;XC;;2020-09-23 10:00:14;Jo De Clippel;MDU;1;3;3;7;0;3;1;4;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;3937179;BL0001;1.0;394431;3937179;33626600;;;Anne Frankplein;7;;XC;;2020-09-21;Jo De Clippel;MDU;0;7;1;8;0;8;1;9;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;3937179;BL0001;1.0;394431;3937179;33626600;;;Anne Frankplein;7;;XC;;2020-09-21;Jo De Clippel;MDU;0;7;1;8;0;8;1;9;N;N;BUILDING template
+HASSELT - FH05;Units total diff;3937179;BL0001;1.0;394431;3937179;33626600;;;Anne Frankplein;7;;XC;;2020-09-21;Jo De Clippel;MDU;0;7;1;8;0;8;1;9;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;3937439;BL0002;1.0;10522568;3937439;;;;Kroonwinningstraat;30;;D;;2020-10-12;Jo De Clippel;MDU;0;3;0;3;0;3;0;3;Y;Y;BUILDING template
+HASSELT - FH05;Units lu diff;3937481;BL0001;1.0;10522569;3937481;;;;Lentestraat;26;;;;2020-06-16 12:06:22;Dieu Jocelin;SDU;0;1;0;1;0;3;0;3;N;N;BUILDING template
+HASSELT - FH05;Buildingtype diff;3937481;BL0001;1.0;10522569;3937481;;;;Lentestraat;26;;;;2020-06-16 12:06:22;Dieu Jocelin;SDU;0;1;0;1;;;;;N;;BUILDING template
+HASSELT - FH05;Units total diff;3937481;BL0001;1.0;10522569;3937481;;;;Lentestraat;26;;;;2020-06-16 12:06:22;Dieu Jocelin;SDU;0;1;0;1;0;3;0;3;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;3959995;BL0003;1.0;394885;3959995;;;;Kroonwinningstraat;57;;C;;2020-06-24 08:40:09;Dieu Jocelin;MDU;1;1;0;2;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Units lu diff;3959995;BL0003;1.0;394885;3959995;;;;Kroonwinningstraat;57;;C;;2020-06-24 08:40:09;Dieu Jocelin;MDU;1;1;0;2;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Units bu diff;3959995;BL0003;1.0;394885;3959995;;;;Kroonwinningstraat;57;;C;;2020-06-24 08:40:09;Dieu Jocelin;MDU;1;1;0;2;0;2;0;2;N;N;BUILDING template
+HASSELT - FH05;Quadrant diff;5751543;BL0003;1.0;12658273;5751543;;;;Winterstraat;12;;XC;;2020-06-17 17:40:06;Dieu Jocelin;MDU;1;1;1;3;1;1;1;3;N;N;BUILDING template
+;Building Missing in PR;;;;13419292;4896927;;;;Luikersteenweg;148;;;;;;;;;;;0;1;0;1;N;;

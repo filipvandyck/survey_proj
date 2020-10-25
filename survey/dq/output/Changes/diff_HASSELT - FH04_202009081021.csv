@@ -1,0 +1,27 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+HASSELT - FH04;Wall Mount diff;1309642;BL0401;3.0;379870;1309642;;;;Kuringersteenweg;134;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;1334544;BL0405;1.0;379981;1334544;;;;Kuringersteenweg;237;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Wall Mount diff;2408078;BL0404;3.0;381787;2408078;;;;Ambachtsschoolstraat;3;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;2423938;BL0401;3.0;386969;2423938;;;;Kuringersteenweg;146;;;;;Jo De Clippel;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;2424001;BL0401;3.0;386989;2424001;;;;Kuringersteenweg;170;C;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;2425274;BL0408;2.0;387254;2425274;;;;Lazarijstraat;75;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;2434238;BL0410;1.0;389240;2434238;;;;Plantenstraat;56;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Wall Mount diff;2436663;BL0412;2.0;389787;2436663;;;;Rozenstraat;31;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;3937445;BL0406;1.0;10522489;3937445;;;;Oude Kuringerbaan;74;;E;E;2020-06-16;Jo De Clippel;MDU;0;8;0;8;0;8;0;8;N;Y;BUILDING template
+HASSELT - FH04;Wall Mount diff;4048027;BL0410;1.0;395102;4048027;;;;Oude Kuringerbaan;111;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Quadrant diff;4888632;BL0402;3.0;10522517;4888632;;;;Ambachtsschoolstraat;46;;C;E;2019-09-05 08:40:18;Jo De Clippel;MDU;0;2;0;2;0;2;0;2;N;N;BUILDING template
+HASSELT - FH04;Units total diff;4890530;BL0409;2.0;12621214;4890530;27507446;Plantenstraat 31-33;Plantenstraat 31-33;Plantenstraat;33;;E;;2020-08-31;Jo De Clippel;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+HASSELT - FH04;Units su diff;4890530;BL0409;2.0;12621214;4890530;27507446;Plantenstraat 31-33;Plantenstraat 31-33;Plantenstraat;33;;E;;2020-08-31;Jo De Clippel;MDU;0;7;1;8;0;7;0;7;N;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;4890560;BL0411;1.0;10522522;4890560;;;;Plantenstraat;113;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;4890562;BL0411;1.0;12621220;4890562;;;;Plantenstraat;115;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;4890612;BL0410;1.0;398078;4890612;;;;Oude Kuringerbaan;113;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Wall Mount diff;6624710;BL0412;2.0;26079141;6624710;;;;Rozenstraat;29;;;;2019-06-14;Jo De Clippel;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;6628540;BL0404;3.0;29100907;6628540;;;;Kuringersteenweg;112;A;;;2019-10-31;Jo De Clippel;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Units su diff;700945;BL0409;2.0;12621055;700945;27507446;Plantenstraat 31-33;Plantenstraat 31-33;Plantenstraat;31;;E;;2020-08-31;Jo De Clippel;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+HASSELT - FH04;Units total diff;700945;BL0409;2.0;12621055;700945;27507446;Plantenstraat 31-33;Plantenstraat 31-33;Plantenstraat;31;;E;;2020-08-31;Jo De Clippel;MDU;0;8;1;9;0;8;0;8;N;N;BUILDING template
+HASSELT - FH04;Wall Mount diff;701131;BL0410;1.0;401857;701131;;;;Oude Kuringerbaan;115;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Wall Mount diff;701267;BL0410;1.0;401897;701267;;;;Alverbergstraat;1;;;;;Dieu Jocelin;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+HASSELT - FH04;Quadrant diff;701327;BL0412;2.0;10522543;701327;;;;Rozenstraat;17;;B;E;2020-09-02;Jo De Clippel;MDU;0;26;1;27;0;28;1;29;Y;Y;BUILDING template
+HASSELT - FH04;Units lu diff;701327;BL0412;2.0;10522543;701327;;;;Rozenstraat;17;;B;;2020-09-02;Jo De Clippel;MDU;0;26;1;27;0;28;1;29;Y;Y;BUILDING template
+HASSELT - FH04;Units total diff;701327;BL0412;2.0;10522543;701327;;;;Rozenstraat;17;;B;;2020-09-02;Jo De Clippel;MDU;0;26;1;27;0;28;1;29;Y;Y;BUILDING template
+HASSELT - FH04;Wall Mount diff;701706;BL0403;3.0;402049;701706;;;;Kuringersteenweg;44;;;;;Jo De Clippel;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template

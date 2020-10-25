@@ -1,0 +1,57 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+ANTWERPEN-WEST - FH06;Units bu diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;1739673;BL0602;1.0;626210;1739673;;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1741151;BL0602;1.0;627427;1741151;;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;4150925;BL0617;3.0;21105182;4150925;;;;Melkmarkt;40;A;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;4509236;BL0619;3.0;13334958;4509236;38869091;Beggaardenstraat 6_Eiermarkt 31-31A-33-35-41_Sint-Katelijnevest 52-54-58-62-64-66-68-70;;Eiermarkt;35;;C;;;Steve De Weerdt;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60706;BL0613;2.0;13335022;60706;;Groenplaats 1_Groenkerkhofstraat 5-7;;Groenkerkhofstraat;7;;;;;olivier collignon;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;SDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;6720504;BL0616;2.0;35548858;6720504;;;;Zwaluwstraat;4;;;;;;MDU;0;0;0;0;;;;;Y;;BUILDING template

@@ -1,664 +1,836 @@
 ;ZONE_NAME;MAINLAMKEY;CITY_NAME;DTP;FIC;FIS;FTS;Projectnummer;BG_Name;Blok;Straat;Huisnummer;Huisnummer_Toevoeging;Quadrant
-75315;W01-C-Charleroi-FH03;1144596;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;48;;
-75316;W01-C-Charleroi-FH03;1144597;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;60;;
-75340;W01-C-Charleroi-FH03;1449226;Charleroi;;;1.0;;CHARLEROI - FH03;87 boulevard Joseph tirou;08;Boulevard Joseph Tirou;87;;
-75341;W01-C-Charleroi-FH03;1450042;Charleroi;;;1.0;;CHARLEROI - FH03;8 rue de dampremy;08;Rue de Dampremy;8;;
-75348;W01-C-Charleroi-FH03;1494157;Charleroi;;;1.0;;CHARLEROI - FH03;12 rue de dampremy;08;Rue de Dampremy;12;;
-75357;W01-C-Charleroi-FH03;2021437;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;20;;
-75358;W01-C-Charleroi-FH03;2021442;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;24;;
-75361;W01-C-Charleroi-FH03;2021452;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;30;;
-75363;W01-C-Charleroi-FH03;2021460;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;38;;
-75365;W01-C-Charleroi-FH03;2021464;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;42;;
-75399;W01-C-Charleroi-FH03;2025619;Charleroi;;;1.0;;CHARLEROI - FH03;5 rue dagnelies;06;Rue Dagnelies;5;;
-75402;W01-C-Charleroi-FH03;2025627;Charleroi;;;1.0;;CHARLEROI - FH03;4 rue de dampremy;08;Rue de Dampremy;4;;
-75407;W01-C-Charleroi-FH03;2025632;Charleroi;;;1.0;;CHARLEROI - FH03;13 rue de dampremy;02;Rue de Dampremy;13;;
-75409;W01-C-Charleroi-FH03;2025634;Charleroi;;;1.0;;CHARLEROI - FH03;15 rue de dampremy;02;Rue de Dampremy;15;;
-75414;W01-C-Charleroi-FH03;2025640;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de Dampremy;21;;
-75419;W01-C-Charleroi-FH03;2025646;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Rue de Dampremy;28;;
-75430;W01-C-Charleroi-FH03;2025666;Charleroi;;;1.0;;CHARLEROI - FH03;49 rue de dampremy;02;Rue de Dampremy;49;;
-75436;W01-C-Charleroi-FH03;2025674;Charleroi;;;1.0;;CHARLEROI - FH03;60 rue de dampremy;08;Rue de Dampremy;60;;
-75437;W01-C-Charleroi-FH03;2025675;Charleroi;;;1.0;;CHARLEROI - FH03;62 rue de dampremy;08;Rue de Dampremy;62;;
-75447;W01-C-Charleroi-FH03;2027175;Charleroi;;;1.0;;CHARLEROI - FH03;medicentre;05;Place de la Digue;10;;C
-75464;W01-C-Charleroi-FH03;2027195;Charleroi;;;1.0;;CHARLEROI - FH03;36/37/38 place de la digue;02;Place de la Digue;36;;D
-75491;W01-C-Charleroi-FH03;2034114;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;19;;
-75492;W01-C-Charleroi-FH03;2034116;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;21;;
-75493;W01-C-Charleroi-FH03;2034118;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;23;;
-75494;W01-C-Charleroi-FH03;2034120;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;25;;
-75498;W01-C-Charleroi-FH03;2034127;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;33;;
-75500;W01-C-Charleroi-FH03;2034129;Charleroi;;;1.0;;CHARLEROI - FH03;36 rue de la montagne;02;Rue de la Montagne;36;;
-75527;W01-C-Charleroi-FH03;2036111;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue du Palais;7;;
-75529;W01-C-Charleroi-FH03;2036117;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue du Palais;17;;
-75533;W01-C-Charleroi-FH03;2037360;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;58 rue du pont neuf;10;Rue du Pont Neuf;58;;C
-75535;W01-C-Charleroi-FH03;2037362;Charleroi;;;1.0;;CHARLEROI - FH03;64 rue du pont neuf;10;Rue du Pont Neuf;64;;
-75536;W01-C-Charleroi-FH03;2037363;Charleroi;;;1.0;;CHARLEROI - FH03;66 rue du pont neuf;10;Rue du Pont Neuf;66;;
-75537;W01-C-Charleroi-FH03;2037364;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue du Pont Neuf;68;;
-75551;W01-C-Charleroi-FH03;2039604;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Boulevard Joseph Tirou;65;;
-75552;W01-C-Charleroi-FH03;2039606;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;67/69 boulevard Joseph tirou;08;Boulevard Joseph Tirou;67;;A
-75554;W01-C-Charleroi-FH03;2039611;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Boulevard Joseph Tirou;73;;D
-75556;W01-C-Charleroi-FH03;2039615;Charleroi;;;1.0;;CHARLEROI - FH03;77 boulevard Joseph tirou;08;Boulevard Joseph Tirou;77;;A
-75577;W01-C-Charleroi-FH03;2039669;Charleroi;;;1.0;;CHARLEROI - FH03;147/149 boulevard Joseph tirou (B);09;Boulevard Joseph Tirou;147;;C
-75579;W01-C-Charleroi-FH03;2039673;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;151/153/155;09;Boulevard Joseph Tirou;151;;A
-75588;W01-C-Charleroi-FH03;2042291;Charleroi;;;1.0;;CHARLEROI - FH03;34 boulevard de l'yser;02;Boulevard de lYser;34;;
-75589;W01-C-Charleroi-FH03;2042293;Charleroi;;;1.0;;CHARLEROI - FH03;36 boulevard de l'yser;02;Boulevard de lYser;36;;D
-75614;W01-C-Charleroi-FH03;4257641;Charleroi;;;1.0;;CHARLEROI - FH03;;05;Place de la Digue;15;;
-75621;W01-C-Charleroi-FH03;459393;Charleroi;;;1.0;;CHARLEROI - FH03;19 rue de Louvain;03;Rue de Louvain;19;;
-75627;W01-C-Charleroi-FH03;459400;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de la Digue;5;;
-75655;W01-C-Charleroi-FH03;461025;Charleroi;;;1.0;;CHARLEROI - FH03;2 rue de dampremy;08;Rue de Dampremy;2;;
-75657;W01-C-Charleroi-FH03;461027;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Boulevard Joseph Tirou;49;;
-75659;W01-C-Charleroi-FH03;461240;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de Dampremy;51;;D
-75663;W01-C-Charleroi-FH03;461259;Charleroi;;;1.0;;CHARLEROI - FH03;44/46;08;Rue de Dampremy;44;;D
-75664;W01-C-Charleroi-FH03;461260;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de Dampremy;81;;
-75666;W01-C-Charleroi-FH03;461262;Charleroi;;;1.0;;CHARLEROI - FH03;43 rue de dampremy;02;Rue de Dampremy;43;;
-75672;W01-C-Charleroi-FH03;461270;Charleroi;1.0;1.0;1.0;1.0;CHARLEROI - FH03;71/73/75;02;Rue de Dampremy;71;;C
-75702;W01-C-Charleroi-FH03;461715;Charleroi;;;1.0;;CHARLEROI - FH03;;12;Rue de la Justice;2;;
-75717;W01-C-Charleroi-FH03;462175;Charleroi;;;1.0;;CHARLEROI - FH03;165 boulevard tirou;09;Boulevard Joseph Tirou;165;;
-75727;W01-C-Charleroi-FH03;463812;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;1;;
-75728;W01-C-Charleroi-FH03;463813;Charleroi;;;1.0;;CHARLEROI - FH03;26 rue de Montigny (D);10;Rue de Montigny;26;;
-75732;W01-C-Charleroi-FH03;463820;Charleroi;;;1.0;;CHARLEROI - FH03;;09;Rue de Montigny;23;;
-75739;W01-C-Charleroi-FH03;464198;Charleroi;;;1.0;;CHARLEROI - FH03;74 rue du pont neuf;10;Rue du Pont Neuf;74;;
-75744;W01-C-Charleroi-FH03;464203;Charleroi;;;1.0;;CHARLEROI - FH03;59 rue de Montigny, 6000 Charleroi;13;Rue de Montigny;59;;
-75749;W01-C-Charleroi-FH03;464210;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;Prunieau 2 - Montigny 49;13;Rue de Montigny;49;;A
-75751;W01-C-Charleroi-FH03;464212;Charleroi;;;1.0;;CHARLEROI - FH03;;09;Rue de Montigny;33;;
-75762;W01-C-Charleroi-FH03;5066995;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;15;;
-75767;W01-C-Charleroi-FH03;5068403;Charleroi;;;1.0;;CHARLEROI - FH03;47-45 rue de dampremy;02;Rue de Dampremy;47;;
-75770;W01-C-Charleroi-FH03;5070984;Charleroi;;;1.0;;CHARLEROI - FH03;64 rue de dampremy;08;Rue de Dampremy;64;;
-137732;W01-C-Namur-FH01;3204372;Namur;;;1.0;;NAMUR - FH01;;BL0110;Boulevard d'Herbatte;169;;
-142576;W01-C-Namur-FH06;1119927;Namur;;1.0;1.0;1.0;NAMUR - FH06;10 Rue Joseph GrafÃ© - 37 Rue Grandgagnage 5000 Namur;0626;Rue J. Grafe;10;;
-142579;W01-C-Namur-FH06;1119930;Namur;;;1.0;;NAMUR - FH06;;0623;Rue de lArsenal;14;;
-142584;W01-C-Namur-FH06;1119937;Namur;;1.0;1.0;1.0;NAMUR - FH06;5 Rue Blondeau 5000 Namur;0625;Rue Blondeau;5;;
-142604;W01-C-Namur-FH06;1119962;Namur;;;1.0;;NAMUR - FH06;12 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;12;;
-142606;W01-C-Namur-FH06;1119964;Namur;;;1.0;;NAMUR - FH06;6 Rue de l'EvÃ©chÃ© 4000 LiÃ¨ge;0622;Rue de lEveche;8;;
-142610;W01-C-Namur-FH06;1121110;Namur;;;1.0;;NAMUR - FH06;2 rue de l'ange ( Future Agence BNP PARIBAS );06;Rue de lAnge;2;;
-142627;W01-C-Namur-FH06;1121131;Namur;;1.0;1.0;1.0;NAMUR - FH06;;10;Rue des Echasseurs;2;;
-142630;W01-C-Namur-FH06;1121137;Namur;;;1.0;;NAMUR - FH06;;07;Rue du Pont;8;;
-142632;W01-C-Namur-FH06;1121140;Namur;;;1.0;;NAMUR - FH06;1 Rue de Marchovelette 5000 Namur (Belfius Bank);07;Rue de Marchovelette;1;;
-142671;W01-C-Namur-FH06;1290824;Namur;;;1.0;;NAMUR - FH06;52 rue de la croix (exie magasin vÃªtement );13;Rue de la Croix;48;;
-142682;W01-C-Namur-FH06;1290837;Namur;;;1.0;;NAMUR - FH06;8 place du marchÃ© (havanna );12;Place Marche aux Legumes;8;;
-142696;W01-C-Namur-FH06;1290859;Namur;;1.0;1.0;1.0;NAMUR - FH06;17 Rue de l'ange 5000 Namur (Galler);10;Rue de lAnge;17;;
-142700;W01-C-Namur-FH06;1290865;Namur;;;1.0;;NAMUR - FH06;8 Rue des fripiers (enez  grill);11;Rue des Fripiers;8;;
-142707;W01-C-Namur-FH06;1290876;Namur;;;1.0;;NAMUR - FH06;13 Rue des fripiers (La pointilleuse);10;Rue des Fripiers;13;;
-142708;W01-C-Namur-FH06;1290877;Namur;;;1.0;;NAMUR - FH06;;10;Rue des Fripiers;9;;
-142726;W01-C-Namur-FH06;1309890;Namur;;;1.0;;NAMUR - FH06;;14;Rue Saint-Jacques;31;;
-142731;W01-C-Namur-FH06;1309899;Namur;;;1.0;;NAMUR - FH06;;05;Rue de lAnge;74;;
-142741;W01-C-Namur-FH06;1309922;Namur;;;1.0;;NAMUR - FH06;97 Rue de l'Ange 5000 Namur (Geox);13;Rue de lAnge;97;;
-142844;W01-C-Namur-FH06;1432394;Namur;;;1.0;;NAMUR - FH06;;28;Rue Felix Wodon;22;;
-142861;W01-C-Namur-FH06;1432421;Namur;;;1.0;;NAMUR - FH06;;0627;Avenue des Combattants;7;;
-142862;W01-C-Namur-FH06;1440708;Namur;;1.0;1.0;1.0;NAMUR - FH06;29-31 Rue de Marchovelette 5000 Namur (les secrets du chef);07;Rue de Marchovelette;29;;
-142874;W01-C-Namur-FH06;1516066;Namur;;;1.0;;NAMUR - FH06;30 Rue de l'Ange 5000 Namur (Pizza Hut);05;Rue de lAnge;30;;
-142875;W01-C-Namur-FH06;1516067;Namur;;;1.0;;NAMUR - FH06;41 Rue de l'ange (pharmacie );12;Rue de lAnge;41;;
-142876;W01-C-Namur-FH06;1516069;Namur;;1.0;1.0;1.0;NAMUR - FH06;;05;Rue de lAnge;16;;
-142882;W01-C-Namur-FH06;153258;Namur;;;1.0;;NAMUR - FH06;11 Rue Joseph Saintraint 5000 Namur;0621b;Rue Joseph Saintraint;11;;
-142886;W01-C-Namur-FH06;20511;Namur;;;1.0;;NAMUR - FH06;19 Rue de l'ange (histoire d'or);11;Rue de lAnge;19;;
-142890;W01-C-Namur-FH06;20519;Namur;;1.0;1.0;1.0;NAMUR - FH06;61 rue de Bruxelles ( universitÃ© de Namur );0624a;Rue de Bruxelles;61;;
-142900;W01-C-Namur-FH06;3197495;Namur;;;1.0;;NAMUR - FH06;15 Rue de l'ange 5000 Namur (leonidas);10;Rue de lAnge;15;;
-142902;W01-C-Namur-FH06;3197497;Namur;;;1.0;;NAMUR - FH06;21 Rue de l'ange (cafÃ©s delahaut);11;Rue de lAnge;21;;
-142903;W01-C-Namur-FH06;3197498;Namur;;;1.0;;NAMUR - FH06;23 Rue de l'ange (flying tiger);11;Rue de lAnge;23;;
-142904;W01-C-Namur-FH06;3197499;Namur;;;1.0;;NAMUR - FH06;24 Rue de l'Ange 5000 Namur (H&M);05;Rue de lAnge;24;;
-142908;W01-C-Namur-FH06;3197505;Namur;;;1.0;;NAMUR - FH06;;12;Rue de lAnge;45;;
-142910;W01-C-Namur-FH06;3197509;Namur;;;1.0;;NAMUR - FH06;52 rue Place de l'ange;05;Rue de lAnge;52;;
-142913;W01-C-Namur-FH06;3197513;Namur;;;1.0;;NAMUR - FH06;58 rue de l'ange;05;Rue de lAnge;58;;
-142916;W01-C-Namur-FH06;3197516;Namur;;;1.0;;NAMUR - FH06;64 rue de l'ange;05;Rue de lAnge;64;;
-142921;W01-C-Namur-FH06;3197522;Namur;;;1.0;;NAMUR - FH06;76 rue l'ange;05;Rue de lAnge;76;;
-142922;W01-C-Namur-FH06;3197523;Namur;;;1.0;;NAMUR - FH06;77 Rue de L'ange 5000 Namur;13;Rue de lAnge;77;;
-142923;W01-C-Namur-FH06;3197524;Namur;;;1.0;;NAMUR - FH06;78 rue de l'ange;05;Rue de lAnge;78;;
-142924;W01-C-Namur-FH06;3197525;Namur;;;1.0;;NAMUR - FH06;79 Rue de l'ange 5000 Namur;13;Rue de lAnge;79;;
-142967;W01-C-Namur-FH06;3198242;Namur;;;1.0;;NAMUR - FH06;7 Rue Blondeau 5000 Namur;0625;Rue Blondeau;7;;
-142969;W01-C-Namur-FH06;3198244;Namur;;;1.0;;NAMUR - FH06;11 Rue Blondeau 5000 Namur;0625;Rue Blondeau;11;;
-142970;W01-C-Namur-FH06;3198245;Namur;;;1.0;;NAMUR - FH06;13 Rue Blondeau 5000 Namur;0625;Rue Blondeau;13;;
-142989;W01-C-Namur-FH06;3198960;Namur;;;1.0;;NAMUR - FH06;22 Rue des Brasseurs 5000 Namur;07;Rue des Brasseurs;22;;
-143050;W01-C-Namur-FH06;3199032;Namur;;;1.0;;NAMUR - FH06;;0621b;Rue des Brasseurs;162;;
-143058;W01-C-Namur-FH06;3199044;Namur;;;1.0;;NAMUR - FH06;;15;Rue des Brasseurs;179;;
-143094;W01-C-Namur-FH06;3199193;Namur;;1.0;1.0;1.0;NAMUR - FH06;rue de Bruxelles 71 ( pharmacie );0626;Rue de Bruxelles;71;;
-143111;W01-C-Namur-FH06;3200077;Namur;;;1.0;;NAMUR - FH06;;0619;Rue du College;17;;
-143119;W01-C-Namur-FH06;3200089;Namur;;;1.0;;NAMUR - FH06;;0621b;Rue du College;45;;
-143122;W01-C-Namur-FH06;3200516;Namur;;;1.0;;NAMUR - FH06;neant rue de la Croix 3;12;Rue de la Croix;3;;
-143129;W01-C-Namur-FH06;3200523;Namur;;;1.0;;NAMUR - FH06;13 rue de la croix 5000 Namur (boutique ikks);12;Rue de la Croix;13;;
-143135;W01-C-Namur-FH06;3200530;Namur;;;1.0;;NAMUR - FH06;20 rue de la croix (vent d ailleurs);13;Rue de la Croix;20;;
-143136;W01-C-Namur-FH06;3200531;Namur;;;1.0;;NAMUR - FH06;neant de la croix 21;12;Rue de la Croix;21;;
-143137;W01-C-Namur-FH06;3200532;Namur;;;1.0;;NAMUR - FH06;22 rue de la croix(mercerie brodery);13;Rue de la Croix;22;;
-143154;W01-C-Namur-FH06;3200549;Namur;;;1.0;;NAMUR - FH06;43 rue de la croix 5000 Namur (Caro furs);12;Rue de la Croix;43;;
-143156;W01-C-Namur-FH06;3200551;Namur;;;1.0;;NAMUR - FH06;50 rue de la croix (l atelier hall);13;Rue de la Croix;50;;
-143197;W01-C-Namur-FH06;3202608;Namur;;;1.0;;NAMUR - FH06;16 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;16;;
-143198;W01-C-Namur-FH06;3202610;Namur;;;1.0;;NAMUR - FH06;18-20 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;20;;
-143225;W01-C-Namur-FH06;3203218;Namur;;1.0;1.0;;NAMUR - FH06;;0624b;Boulevard Frere Orban;1;A;
-143231;W01-C-Namur-FH06;3203261;Namur;;;1.0;;NAMUR - FH06;12 Rue Fumal 5000 Namur (MusÃ©e FÃ©licien Rops);0621b;Rue Fumal;12;;
-143252;W01-C-Namur-FH06;3203713;Namur;;1.0;1.0;1.0;NAMUR - FH06;4 rue Joseph grafÃ©;0626;Rue J. Grafe;4;;
-143256;W01-C-Namur-FH06;3203762;Namur;;;1.0;;NAMUR - FH06;;0626;Rue Grandgagnage;2;;
-143280;W01-C-Namur-FH06;3205201;Namur;;1.0;1.0;1.0;NAMUR - FH06;;0621a;Rue Lelievre;2;;
-143285;W01-C-Namur-FH06;3205206;Namur;;;1.0;;NAMUR - FH06;;0623;Rue Lelievre;9;;
-143286;W01-C-Namur-FH06;3205208;Namur;;;1.0;;NAMUR - FH06;;0621a;Rue Lelievre;10;;
-143293;W01-C-Namur-FH06;3206334;Namur;;;1.0;;NAMUR - FH06;;13;Rue Haute Marcelle;5;;
-143305;W01-C-Namur-FH06;3206346;Namur;;;1.0;;NAMUR - FH06;TSA 16/18 rue haute Marcel;14;Rue Haute Marcelle;18;;
-143319;W01-C-Namur-FH06;3206361;Namur;;;1.0;;NAMUR - FH06;;14;Rue Haute Marcelle;40;;
-143324;W01-C-Namur-FH06;3206580;Namur;;;1.0;;NAMUR - FH06;2-3-4 place marche au lÃ©gumes 5000 Namur;12;Place Marche aux Legumes;2;;
-143327;W01-C-Namur-FH06;3206585;Namur;;;1.0;;NAMUR - FH06;10 place du marchÃ© (piano bar);12;Place Marche aux Legumes;10;;
-143341;W01-C-Namur-FH06;3206613;Namur;;;1.0;;NAMUR - FH06;25 Rue de Marchovelette 5000 Namur (caractR coiffure);07;Rue de Marchovelette;25;;
-143347;W01-C-Namur-FH06;3207408;Namur;;;1.0;;NAMUR - FH06;;06;Rue de la Monnaie;13;;
-143361;W01-C-Namur-FH06;3208113;Namur;;;1.0;;NAMUR - FH06;;14;Rue de lOuvrage;10;;
-143366;W01-C-Namur-FH06;3208118;Namur;;;1.0;;NAMUR - FH06;12-14-16 Rue de l'Ouvrage 5000 Namur (Slumberland);14;Rue de lOuvrage;16;;
-143421;W01-C-Namur-FH06;3208921;Namur;;;1.0;;NAMUR - FH06;34 Rue du PrÃ©sident 5000 Namur;18;Rue du President;34;;
-143425;W01-C-Namur-FH06;3208925;Namur;;;1.0;;NAMUR - FH06;38 Rue du PrÃ©sident 5000 Namur;18;Rue du President;38;;
-143440;W01-C-Namur-FH06;3209616;Namur;;;1.0;;NAMUR - FH06;10 Rue Joseph Saintraint 5000 Namur;0622;Rue Joseph Saintraint;10;;
-143453;W01-C-Namur-FH06;3209919;Namur;1.0;;1.0;1.0;NAMUR - FH06;20 Rue du SÃ©minaire (amphithÃ©Ã¢tre Vauban );0624b;Rue du Seminaire;20;;
-143467;W01-C-Namur-FH06;3210127;Namur;;;1.0;;NAMUR - FH06;7 Place Saint-Aubain 5000 Namur (Justice de paix);0622;Place Saint-Aubain;7;;
-143502;W01-C-Namur-FH06;3210491;Namur;;;1.0;;NAMUR - FH06;;13;Rue Saint-Loup;20;;
-143506;W01-C-Namur-FH06;3210708;Namur;;;1.0;;NAMUR - FH06;;04;Marche Saint-Remy;5;;
-143521;W01-C-Namur-FH06;3924862;Namur;;;1.0;;NAMUR - FH06;;0624b;Rue de lArsenal;1;;
-143523;W01-C-Namur-FH06;3945477;Namur;;;1.0;;NAMUR - FH06;6 Rue  de l'arsenal ( Ãcole henallux );0623;Rue de lArsenal;6;;
-143543;W01-C-Namur-FH06;4038841;Namur;;;1.0;;NAMUR - FH06;10 Rue Fumal 5000 Namur;0621b;Rue Fumal;10;;
-143547;W01-C-Namur-FH06;4060425;Namur;;;1.0;;NAMUR - FH06;4 Place palais de justice  (palais de justice );0623;Place du Palais de Justice;4;;
-143561;W01-C-Namur-FH06;4131871;Namur;;;1.0;;NAMUR - FH06;6 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;6;;
-143566;W01-C-Namur-FH06;4132071;Namur;1.0;1.0;1.0;1.0;NAMUR - FH06;;15;Rue des Brasseurs;107;;
-143587;W01-C-Namur-FH06;5147285;Namur;;;1.0;;NAMUR - FH06;;0623;Rue Lelievre;7;;
-143588;W01-C-Namur-FH06;5147482;Namur;;;1.0;;NAMUR - FH06;;05;Rue du Beffroi;13;;
-143591;W01-C-Namur-FH06;5147512;Namur;;;1.0;;NAMUR - FH06;66 rue de l'ange;05;Rue de lAnge;66;;
-143607;W01-C-Namur-FH06;5147952;Namur;;;1.0;;NAMUR - FH06;12 Rue des Brasseurs 5000 Namur;07;Rue des Brasseurs;12;;
-143609;W01-C-Namur-FH06;5148148;Namur;;;1.0;;NAMUR - FH06;;0622;Place Saint-Aubain;11;;
-143610;W01-C-Namur-FH06;5148149;Namur;1.0;1.0;1.0;1.0;NAMUR - FH06;;0621b;Rue Joseph Saintraint;1;A;
-143623;W01-C-Namur-FH06;5148556;Namur;;;1.0;;NAMUR - FH06;neant fripiers 7;10;Rue des Fripiers;7;;
-143628;W01-C-Namur-FH06;5149181;Namur;;;1.0;;NAMUR - FH06;6 Rue Fumal 5000 Namur;0621b;Rue Fumal;6;;
-143629;W01-C-Namur-FH06;5149183;Namur;;;1.0;;NAMUR - FH06;8 Rue Fumal 5000 Namur;0621b;Rue Fumal;8;;
-143647;W01-C-Namur-FH06;5355712;Namur;;;1.0;;NAMUR - FH06;14 Place Saint Aubain;0623;Place Saint-Aubain;14;;
-143786;W01-C-Namur-FH07;1344990;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;120;;
-143818;W01-C-Namur-FH07;1488480;Namur;;;1.0;;NAMUR - FH07;;0709;Rue Lucien Nameche;1;;
-143834;W01-C-Namur-FH07;20531;Namur;;1.0;1.0;1.0;NAMUR - FH07;Place lillon 17-19 5000 namur;0704;Place lIlon;17;;
-143848;W01-C-Namur-FH07;3198163;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Julie Billiart;5;;
-143894;W01-C-Namur-FH07;3198883;Namur;;;1.0;;NAMUR - FH07;;0704;Rue J.B. Brabant;38;;
-143920;W01-C-Namur-FH07;3199164;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;36;;
-143932;W01-C-Namur-FH07;3199197;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;78;;
-143935;W01-C-Namur-FH07;3199203;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;86;;
-143972;W01-C-Namur-FH07;3199355;Namur;;;1.0;;NAMUR - FH07;;0710;Rue des Carmes;32;;
-144005;W01-C-Namur-FH07;3199447;Namur;;;1.0;;NAMUR - FH07;2-2b boulevard cauchy 5000 Namur;0715;Boulevard Cauchy;2;;
-144024;W01-C-Namur-FH07;3200442;Namur;;;1.0;;NAMUR - FH07;;0702;Rue Courtenay;20;;
-144098;W01-C-Namur-FH07;3201250;Namur;;;1.0;;NAMUR - FH07;1a rue delvaux 5000 Namur;0714;Rue Delvaux;1;A;
-144100;W01-C-Namur-FH07;3201253;Namur;;;1.0;;NAMUR - FH07;;0714;Rue Delvaux;5;;
-144102;W01-C-Namur-FH07;3201255;Namur;;;1.0;;NAMUR - FH07;7 Rue delvaux 5000 Namur;0714;Rue Delvaux;7;;
-144106;W01-C-Namur-FH07;3201259;Namur;;;1.0;;NAMUR - FH07;;0714;Rue Delvaux;11;;
-144113;W01-C-Namur-FH07;3201269;Namur;;;1.0;;NAMUR - FH07;;0713;Rue Delvaux;32;;
-144139;W01-C-Namur-FH07;3201479;Namur;;;1.0;;NAMUR - FH07;48 Rue Dewez 5000 Namur (Zodiaque);0715;Rue Dewez;48;;
-144147;W01-C-Namur-FH07;3202591;Namur;;1.0;1.0;1.0;NAMUR - FH07;;0706;Rue de lEtoile;4;;
-144155;W01-C-Namur-FH07;3202662;Namur;;;1.0;;NAMUR - FH07;1 Rue de fer;0710;Rue de Fer;1;;
-144157;W01-C-Namur-FH07;3202664;Namur;;;1.0;;NAMUR - FH07;5 rue de fer;0710;Rue de Fer;5;;
-144158;W01-C-Namur-FH07;3202665;Namur;;;1.0;;NAMUR - FH07;;0710;Rue de Fer;7;;
-144161;W01-C-Namur-FH07;3202668;Namur;;;1.0;;NAMUR - FH07;Rue de fer 11;0710;Rue de Fer;11;;
-144171;W01-C-Namur-FH07;3202679;Namur;;1.0;1.0;1.0;NAMUR - FH07;;0709;Rue de Fer;26;;
-144172;W01-C-Namur-FH07;3202680;Namur;;;1.0;;NAMUR - FH07;27 rue de fer;0710;Rue de Fer;27;;
-144174;W01-C-Namur-FH07;3202682;Namur;;;1.0;;NAMUR - FH07;31 rue de fer;0710;Rue de Fer;31;;
-144176;W01-C-Namur-FH07;3202684;Namur;1.0;;1.0;;NAMUR - FH07;;0710;Rue de Fer;33;;
-144180;W01-C-Namur-FH07;3202690;Namur;;;1.0;;NAMUR - FH07;41 rue de fer;0710;Rue de Fer;41;;
-144182;W01-C-Namur-FH07;3202692;Namur;;;1.0;;NAMUR - FH07;43 Rue de fer 5000 Namur;0710;Rue de Fer;43;;
-144183;W01-C-Namur-FH07;3202693;Namur;;;1.0;;NAMUR - FH07;45/47 Rue de fer;0710;Rue de Fer;45;;
-144185;W01-C-Namur-FH07;3202696;Namur;;;1.0;;NAMUR - FH07;51 rue de fer;0710;Rue de Fer;51;;
-144198;W01-C-Namur-FH07;3202711;Namur;;;1.0;;NAMUR - FH07;;0710;Rue de Fer;71;;
-144204;W01-C-Namur-FH07;3202719;Namur;;;1.0;;NAMUR - FH07;;0718;Rue de Fer;80;;
-144207;W01-C-Namur-FH07;3202723;Namur;;;1.0;;NAMUR - FH07;;0718;Rue de Fer;86;;
-144209;W01-C-Namur-FH07;3202725;Namur;;;1.0;;NAMUR - FH07;;0718;Rue de Fer;88;;
-144220;W01-C-Namur-FH07;3202739;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;117;;
-144221;W01-C-Namur-FH07;3202740;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;119;;
-144225;W01-C-Namur-FH07;3202744;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;127;;
-144226;W01-C-Namur-FH07;3202745;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;129;;
-144227;W01-C-Namur-FH07;3202746;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;131;;
-144240;W01-C-Namur-FH07;3203287;Namur;;;1.0;;NAMUR - FH07;20 rue galliot;0716;Rue Galliot;20;;
-144241;W01-C-Namur-FH07;3203288;Namur;;;1.0;;NAMUR - FH07;22 rue galliot 5000 Namur;0716;Rue Galliot;22;;
-144259;W01-C-Namur-FH07;3203330;Namur;;1.0;1.0;1.0;NAMUR - FH07;;0720;Passage de la Gare;11;;
-144272;W01-C-Namur-FH07;3203658;Namur;;;1.0;;NAMUR - FH07;;0722;Rue Godefroid;19;;
-144282;W01-C-Namur-FH07;3203669;Namur;;;1.0;;NAMUR - FH07;;0722;Rue Godefroid;31;;
-144283;W01-C-Namur-FH07;3203670;Namur;;;1.0;;NAMUR - FH07;;0721;Rue Godefroid;32;;
-144313;W01-C-Namur-FH07;3204569;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de lInquitude;9;;
-144323;W01-C-Namur-FH07;3205236;Namur;1.0;1.0;1.0;1.0;NAMUR - FH07;bÃ¢timent de la rÃ©gion Walonne;0716;Place Leopold;3;;
-144357;W01-C-Namur-FH07;3207088;Namur;;;1.0;;NAMUR - FH07;;0722;Boulevard Ernest Melot;18;;
-144367;W01-C-Namur-FH07;3207284;Namur;;;1.0;;NAMUR - FH07;33 Rue gÃ©nÃ©ral Michel;0713;Rue General Michel;33;;
-144375;W01-C-Namur-FH07;3207398;Namur;;;1.0;;NAMUR - FH07;;0718;Rue Moncrabeau;10;;
-144382;W01-C-Namur-FH07;3207628;Namur;;;1.0;;NAMUR - FH07;;0711;Rue Lucien Namiche;6;;
-144386;W01-C-Namur-FH07;3207632;Namur;;;1.0;;NAMUR - FH07;;0711;Rue Lucien Nameche;12;;
-144394;W01-C-Namur-FH07;3207644;Namur;;;1.0;;NAMUR - FH07;34 Rue Lucien NamÃªche 5000 Namur;0714;Rue Lucien Nameche;34;;
-144401;W01-C-Namur-FH07;3207651;Namur;;;1.0;;NAMUR - FH07;41 Rue Lucien NamÃªche 5000 Namur;0716;Rue Lucien Nameche;41;;
-144407;W01-C-Namur-FH07;3207657;Namur;;;1.0;;NAMUR - FH07;47 Rue Lucien NamÃªche 5000 Namur;0716;Rue Lucien Nameche;47;;
-144438;W01-C-Namur-FH07;3208311;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;18;;
-144439;W01-C-Namur-FH07;3208312;Namur;;;1.0;;NAMUR - FH07;20 rue pÃ©pin 5000 Namur;0706;Rue Pepin;20;;D
-144440;W01-C-Namur-FH07;3208313;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;22;;
-144445;W01-C-Namur-FH07;3208318;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;34;;
-144446;W01-C-Namur-FH07;3208319;Namur;;;1.0;;NAMUR - FH07;;0711;Rue Pepin;37;;D
-144447;W01-C-Namur-FH07;3208320;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;38;;
-144451;W01-C-Namur-FH07;3208324;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;42;;
-144476;W01-C-Namur-FH07;3209235;Namur;;;1.0;;NAMUR - FH07;;0718;Rue Rogier;28;;
-144478;W01-C-Namur-FH07;3209238;Namur;;;1.0;;NAMUR - FH07;;0718;Rue Rogier;30;;
-144530;W01-C-Namur-FH07;3209299;Namur;;;1.0;;NAMUR - FH07;109 rue rogier;0712;Rue Rogier;109;;
-144540;W01-C-Namur-FH07;3210426;Namur;;;1.0;;NAMUR - FH07;;0710;Rue Saint-Jacques;28;;
-144584;W01-C-Namur-FH07;3210610;Namur;;;1.0;;NAMUR - FH07;;0705;Rue Saint-Nicolas;24;;
-144691;W01-C-Namur-FH07;3945522;Namur;;;1.0;;NAMUR - FH07;4 Rue des dames blanches 5000 namur;0717;Rue des Dames Blanches;4;;
-144704;W01-C-Namur-FH07;4023373;Namur;;;1.0;;NAMUR - FH07;29 rue de fer;0710;Rue de Fer;29;;
-144710;W01-C-Namur-FH07;4060621;Namur;;;1.0;;NAMUR - FH07;12 Rue des dames blanches 5000 namur;0717;Rue des Dames Blanches;12;;
-144714;W01-C-Namur-FH07;4072890;Namur;;;1.0;;NAMUR - FH07;;0702;Rue Courtenay;14;;
-144718;W01-C-Namur-FH07;4131642;Namur;;;1.0;;NAMUR - FH07;;0720;Rue des Croisiers;50;;
-144722;W01-C-Namur-FH07;4131881;Namur;;;1.0;;NAMUR - FH07;;0722;Boulevard Ernest Melot;14;;
-144723;W01-C-Namur-FH07;4131980;Namur;;;1.0;;NAMUR - FH07;17 rue du lombard 5000 Namur;0706;Rue du Lombard;17;;
-144756;W01-C-Namur-FH07;5147134;Namur;;;1.0;;NAMUR - FH07;;0710;Rue Saint-Jacques;10;;
-144785;W01-C-Namur-FH07;5148739;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;137;;
-144880;W01-C-Namur-FH07;752513;Namur;;;1.0;;NAMUR - FH07;18 Rue delvaux 5000 Namur;0713;Rue Delvaux;18;;
-152606;W01-C-Roeselare-FH03;1254999;Roeselare;;;1.0;;ROESELARE - FH03;;BL0302;Wilgenstraat;11;;
-152666;W01-C-Roeselare-FH03;1255066;Roeselare;;;1.0;;ROESELARE - FH03;;BL0307;Jozef De Meesterstraat;23;;
-152776;W01-C-Roeselare-FH03;3414593;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Delaerestraat;37;;
-152778;W01-C-Roeselare-FH03;3414595;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Delaerestraat;41;;
-152984;W01-C-Roeselare-FH03;3417801;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Ooststraat;144;;
-153060;W01-C-Roeselare-FH03;3418663;Roeselare;;;1.0;;ROESELARE - FH03;;BL0324;Sint-Alfonsusstraat;36;;
-153097;W01-C-Roeselare-FH03;3419386;Roeselare;;;1.0;;ROESELARE - FH03;;BL0312;Verwerijstraat;24;;
-153165;W01-C-Roeselare-FH03;3420214;Roeselare;;;1.0;;ROESELARE - FH03;;BL0320;Zuidstraat;55;;
-153193;W01-C-Roeselare-FH03;3994271;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0302;Wilgenstraat;25;;
-153362;W01-C-Roeselare-FH03;4368514;Roeselare;;;1.0;;ROESELARE - FH03;;BL0311;Zuidstraat;48;;
-153434;W01-C-Roeselare-FH03;532106;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0318;Rumbeeksesteenweg;76;;
-153454;W01-C-Roeselare-FH03;5398689;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Delaerestraat;33;;
-153562;W01-C-Roeselare-FH03;876504;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0317;Damberdstraat;30;;
-153708;W01-C-Roeselare-FH03;877323;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0302;Wilgenstraat;27;;
-153741;W01-C-Roeselare-FH03;877520;Roeselare;;;1.0;;ROESELARE - FH03;;BL0313;Verwerijstraat;1;;
-155095;W01-C-Roeselare-FH04;6059681;Roeselare;;1.0;1.0;;ROESELARE - FH04;;BL0429;Mandellaan;20;;
-155477;W01-C-Roeselare-FH05;18649;Roeselare;1.0;;1.0;;ROESELARE - FH05;;BL0502;Heilig-Hartstraat;51;;
-155572;W01-C-Roeselare-FH05;3414980;Roeselare;;;1.0;;ROESELARE - FH05;;BL0521;Guido Gezellelaan;25;;
-155580;W01-C-Roeselare-FH05;3415196;Roeselare;1.0;1.0;1.0;;ROESELARE - FH05;;BL0510;Gulden-Sporenstraat;6;;
-155584;W01-C-Roeselare-FH05;3415201;Roeselare;1.0;;1.0;;ROESELARE - FH05;;BL0510;Gulden-Sporenstraat;18;;
-155891;W01-C-Roeselare-FH05;3419711;Roeselare;1.0;1.0;1.0;;ROESELARE - FH05;;BL0506;Wallemeers;29;;
-156195;W01-C-Roeselare-FH05;5580470;Roeselare;;;1.0;;ROESELARE - FH05;;BL0518;Leliestraat;63;;
-156258;W01-C-Roeselare-FH05;866508;Roeselare;;;1.0;;ROESELARE - FH05;;BL0501;Meenseheirweg;36;;
-167930;W02-D-Hasselt-FH01;2437119;Hasselt;;;1.0;;HASSELT - FH01;;BL0106;Runkstersteenweg;134;;
-168296;W02-D-Hasselt-FH01;5431532;Hasselt;;;1.0;;HASSELT - FH01;;BL0109;Boomkensstraat;63;B;
-168523;W02-D-Hasselt-FH02;1113726;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kolonel Dusartplein;16;;
-168530;W02-D-Hasselt-FH02;1143121;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;60;;
-168544;W02-D-Hasselt-FH02;1313084;Hasselt;;;1.0;;Test Hasselt - FH02;;;Botermarkt;9;;
-168604;W02-D-Hasselt-FH02;2407837;Hasselt;;;1.0;;Test Hasselt - FH02;;;Koning Albertstraat;28;;
-168612;W02-D-Hasselt-FH02;2407844;Hasselt;;;1.0;;Test Hasselt - FH02;;;Koning Albertstraat;35;;
-168668;W02-D-Hasselt-FH02;2407928;Hasselt;;;1.0;;Test Hasselt - FH02;;;Aldestraat;18;;
-168720;W02-D-Hasselt-FH02;2408322;Hasselt;;;1.0;;Test Hasselt - FH02;testversie;;Badderijstraat;12;;
-168922;W02-D-Hasselt-FH02;2412876;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;92;;
-168926;W02-D-Hasselt-FH02;2412881;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;94;;
-168928;W02-D-Hasselt-FH02;2412883;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;95;;
-168940;W02-D-Hasselt-FH02;2413109;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;6;;
-168944;W02-D-Hasselt-FH02;2413113;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;8;;
-168950;W02-D-Hasselt-FH02;2413117;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;11;;
-169084;W02-D-Hasselt-FH02;2416578;Hasselt;;;1.0;;Test Hasselt - FH02;;;Guffenslaan;12;;
-169106;W02-D-Hasselt-FH02;2416644;Hasselt;;;1.0;;Test Hasselt - FH02;;;Guffenslaan;70;;
-169160;W02-D-Hasselt-FH02;2417688;Hasselt;;;1.0;;Test Hasselt - FH02;;;Hemelrijk;4;;
-169175;W02-D-Hasselt-FH02;2417700;Hasselt;;;1.0;;Test Hasselt - FH02;;;Hemelrijk;16;;
-169197;W02-D-Hasselt-FH02;2418506;Hasselt;;;1.0;;Test Hasselt - FH02;;;Hoogstraat;6;;
-169233;W02-D-Hasselt-FH02;2419544;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;4;;
-169235;W02-D-Hasselt-FH02;2419548;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;5;;
-169243;W02-D-Hasselt-FH02;2419556;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;9;;
-169249;W02-D-Hasselt-FH02;2419564;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;13;;
-169279;W02-D-Hasselt-FH02;2419601;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;37;;
-169368;W02-D-Hasselt-FH02;2426990;Hasselt;;;1.0;;Test Hasselt - FH02;;;Maastrichterstraat;44;;
-169470;W02-D-Hasselt-FH02;2429603;Hasselt;;;1.0;;Test Hasselt - FH02;;;Minderbroedersstraat;6;;
-169480;W02-D-Hasselt-FH02;2429618;Hasselt;;;1.0;;Test Hasselt - FH02;;;Minderbroedersstraat;13;;
-169549;W02-D-Hasselt-FH02;2433970;Hasselt;;;1.0;;Test Hasselt - FH02;;;Persoonstraat;20;;
-169559;W02-D-Hasselt-FH02;2434503;Hasselt;;;1.0;;Test Hasselt - FH02;;;Ridder Portmansstraat;12;;
-169612;W02-D-Hasselt-FH02;2438613;Hasselt;;;1.0;;Test Hasselt - FH02;;;Schrijnwerkersstraat;8;;
-169700;W02-D-Hasselt-FH02;2447883;Hasselt;;;1.0;;Test Hasselt - FH02;;;Dokter Willemsstraat;4;;
-169704;W02-D-Hasselt-FH02;2447887;Hasselt;;;1.0;;Test Hasselt - FH02;;;Dokter Willemsstraat;6;;
-169714;W02-D-Hasselt-FH02;2447897;Hasselt;;;1.0;;Test Hasselt - FH02;;;Dokter Willemsstraat;14;;
-169824;W02-D-Hasselt-FH02;3937486;Hasselt;;;1.0;;Test Hasselt - FH02;;;Lombaardstraat;40;;
-169924;W02-D-Hasselt-FH02;4846446;Hasselt;;;1.0;;Test Hasselt - FH02;;;Thonissenlaan;81;;
-169929;W02-D-Hasselt-FH02;4846479;Hasselt;;;1.0;;Test Hasselt - FH02;;;Bonnefantenstraat;22;;
-169956;W02-D-Hasselt-FH02;4846835;Hasselt;;;1.0;;Test Hasselt - FH02;;;Witte-Nonnenstraat;3;;
-169966;W02-D-Hasselt-FH02;4846915;Hasselt;;;1.0;;Test Hasselt - FH02;;;Minderbroedersstraat;4;;
-169982;W02-D-Hasselt-FH02;4847068;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;44;;
-169998;W02-D-Hasselt-FH02;4853125;Hasselt;;;1.0;;Test Hasselt - FH02;;;Ridderstraat;14;;
-170100;W02-D-Hasselt-FH02;5446607;Hasselt;;;1.0;;Test Hasselt - FH02;;;Capucienenstraat;17;;
-170102;W02-D-Hasselt-FH02;5446608;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;90;;
-170123;W02-D-Hasselt-FH02;5944954;Hasselt;;;1.0;;Test Hasselt - FH02;;;Cellebroedersstraat;11;A;
-170263;W02-D-Hasselt-FH02;655680;Hasselt;;;1.0;;Test Hasselt - FH02;;;Ridder Portmansstraat;14;;
-170404;W02-D-Hasselt-FH02;677173;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;12;;
-170412;W02-D-Hasselt-FH02;677177;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;2;;
-170441;W02-D-Hasselt-FH02;677199;Hasselt;;;1.0;;Test Hasselt - FH02;;;Havermarkt;23;;
-170463;W02-D-Hasselt-FH02;677216;Hasselt;;;1.0;;Test Hasselt - FH02;;;de Schiervellaan;4;;
-170477;W02-D-Hasselt-FH02;69185;Hasselt;;;1.0;;Test Hasselt - FH02;;;Bonnefantenstraat;20;;
-170506;W02-D-Hasselt-FH02;70206;Hasselt;;;1.0;;Test Hasselt - FH02;;;Zuivelmarkt;62;;
-170587;W02-D-Hasselt-FH02;70270;Hasselt;;;1.0;;Test Hasselt - FH02;;;Isabellastraat;68;;
-170641;W02-D-Hasselt-FH02;70317;Hasselt;;;1.0;;Test Hasselt - FH02;;;Lombaardstraat;4;;
-170731;W02-D-Hasselt-FH02;71865;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;1;;
-172392;W02-D-Leuven-FH01;1186845;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 202 en 200;BL0012;Tiensestraat;200;;
-172420;W02-D-Leuven-FH01;1186898;Leuven;;;1.0;;LEUVEN - FH01;NR 190 188 en 166;BL0010;Tiensevest;188;;
-172432;W02-D-Leuven-FH01;1270415;Leuven;;;1.0;;LEUVEN - FH01;;BL0009;Dagobertstraat;52;;
-172471;W02-D-Leuven-FH01;3010388;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0006;Blijde-Inkomststraat;31;A;
-172491;W02-D-Leuven-FH01;3010446;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0007;Blijde-Inkomststraat;80;;
-172565;W02-D-Leuven-FH01;3013459;Leuven;;;1.0;1.0;LEUVEN - FH01;5 7 en 9;BL0007;Burgemeestersstraat;5;;
-172573;W02-D-Leuven-FH01;3013482;Leuven;;;1.0;;LEUVEN - FH01;;BL0006;Burgemeestersstraat;25;;
-172576;W02-D-Leuven-FH01;3013491;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Burgemeestersstraat;32;;E
-172579;W02-D-Leuven-FH01;3013499;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Burgemeestersstraat;42;;
-172581;W02-D-Leuven-FH01;3014194;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Dagobertstraat;5;;
-172583;W02-D-Leuven-FH01;3014197;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Dagobertstraat;7;;
-172585;W02-D-Leuven-FH01;3014199;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Dagobertstraat;9;;
-172684;W02-D-Leuven-FH01;3029196;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0006;Maria-Theresiastraat;12;;
-172795;W02-D-Leuven-FH01;3046991;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 185 187 189 en 191;BL0010;Tiensestraat;185;;
-172798;W02-D-Leuven-FH01;3046998;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 185 187 189 en 191;BL0010;Tiensestraat;191;;
-172825;W02-D-Leuven-FH01;3047044;Leuven;;;1.0;;LEUVEN - FH01;Nr 237 en A Nr 239 en A;BL0010;Tiensestraat;237;;
-172832;W02-D-Leuven-FH01;3047057;Leuven;;;1.0;;LEUVEN - FH01;;BL0012;Tiensestraat;252;;
-172838;W02-D-Leuven-FH01;3047066;Leuven;;;1.0;;LEUVEN - FH01;;BL0010;Tiensestraat;259;;
-172845;W02-D-Leuven-FH01;3047078;Leuven;;;1.0;;LEUVEN - FH01;Building Group;BL0010;Tiensestraat;269;;
-172846;W02-D-Leuven-FH01;3047083;Leuven;;;1.0;;LEUVEN - FH01;Building Group;BL0010;Tiensestraat;271;;
-172847;W02-D-Leuven-FH01;3047085;Leuven;;;1.0;;LEUVEN - FH01;Building Group;BL0010;Tiensestraat;273;;
-172900;W02-D-Leuven-FH01;3053562;Leuven;;;1.0;;LEUVEN - FH01;Nr 5en7;BL0017;Windmolenveldstraat;7;;
-172916;W02-D-Leuven-FH01;3053593;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 70  en 72;BL0011;Windmolenveldstraat;72;;
-172943;W02-D-Leuven-FH01;3923585;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Dagobertstraat;20;;
-172963;W02-D-Leuven-FH01;3941307;Leuven;;;1.0;1.0;LEUVEN - FH01;The Village;BL0009;Mathildegang;16;;
-172977;W02-D-Leuven-FH01;3941618;Leuven;;;1.0;;LEUVEN - FH01;Nr 5en7;BL0017;Windmolenveldstraat;5;;
-173028;W02-D-Leuven-FH01;4026436;Leuven;1.0;;1.0;;LEUVEN - FH01;;BL0006;Burgemeestersstraat;23;;
-173076;W02-D-Leuven-FH01;475321;Leuven;;;1.0;1.0;LEUVEN - FH01;14 en 16;BL0009;Mathildegang;14;;
-173199;W02-D-Leuven-FH01;4799458;Leuven;;;1.0;1.0;LEUVEN - FH01;5 7 en 9;BL0007;Burgemeestersstraat;7;;
-173202;W02-D-Leuven-FH01;4799468;Leuven;;;1.0;1.0;LEUVEN - FH01;Hr 185 187 189 en 191;BL0010;Tiensestraat;187;;
-173268;W02-D-Leuven-FH01;5307145;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;11;;
-173285;W02-D-Leuven-FH01;5467738;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;7;;
-173289;W02-D-Leuven-FH01;5504940;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;5;;
-173290;W02-D-Leuven-FH01;5504941;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;9;;
-173291;W02-D-Leuven-FH01;5541203;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;13;;
-173293;W02-D-Leuven-FH01;5547314;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Mathildegang;15;;
-173294;W02-D-Leuven-FH01;5602410;Leuven;1.0;;1.0;1.0;LEUVEN - FH01;;BL0002;Bogaardenstraat;36;;
-173296;W02-D-Leuven-FH01;5602518;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;1;;
-173297;W02-D-Leuven-FH01;5703225;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Arnould Nobelstraat;44;;
-173298;W02-D-Leuven-FH01;5705604;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;3;;
-173302;W02-D-Leuven-FH01;5732950;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Arnould Nobelstraat;32;;
-173307;W02-D-Leuven-FH01;5831803;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Mathildegang;18;;
-173309;W02-D-Leuven-FH01;5906630;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Mathildegang;19;;
-173314;W02-D-Leuven-FH01;6134070;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0006;Blijde-Inkomststraat;31;C;
-173319;W02-D-Leuven-FH01;6138799;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Justus Lipsiusstraat;46;C;
-173338;W02-D-Leuven-FH02;1066899;Leuven;;;1.0;1.0;LEUVEN - FH02;;BL0012;Schrijnmakersstraat;8;;
-173383;W02-D-Leuven-FH02;1100193;Leuven;;;1.0;;LEUVEN - FH02;;BL0030;Rattemanspoort;10;;
-173486;W02-D-Leuven-FH02;1522780;Leuven;;;1.0;1.0;LEUVEN - FH02;;BL0003;Brouwersstraat;7;;
-174181;W02-D-Leuven-FH02;3044997;Leuven;;;1.0;;LEUVEN - FH02;;BL0049;Sint-Michielsstraat;13;;
-174281;W02-D-Leuven-FH02;3049361;Leuven;;;1.0;;LEUVEN - FH02;;BL0009;Karel van Lotharingenstraat;7;;
-174555;W02-D-Leuven-FH02;4255358;Leuven;;;1.0;;LEUVEN - FH02;;BL0012;Schrijnmakersstraat;18;;
-174603;W02-D-Leuven-FH02;4788337;Leuven;;;1.0;;LEUVEN - FH02;;BL0008;Craenendonck;6;;
-176463;W02-D-Liege-FH01;1309692;Liège;;;1.0;;LIÃGE - FH01;23 rue de la Casquette 4000 LiÃ¨ge;0111;Rue de la Casquette;23;;D
-176470;W02-D-Liege-FH01;1356492;Liège;;;1.0;;LIÃGE - FH01;;0129;Mont Saint-Martin;89;;
-176475;W02-D-Liege-FH01;1366858;Liège;;;1.0;;LIÃGE - FH01;;0131;Thier de la Fontaine;89;;
-176482;W02-D-Liege-FH01;1475287;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;79;;
-176483;W02-D-Liege-FH01;1475889;Liège;;;1.0;;LIÃGE - FH01;;0106;Rue Pont dAvroy;10;;
-176484;W02-D-Liege-FH01;1477942;Liège;;;1.0;;LIÃGE - FH01;;0121;Rue Sur la Fontaine;87;;
-176489;W02-D-Liege-FH01;1505178;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;65;;
-176491;W02-D-Liege-FH01;1508512;Liège;;;1.0;;LIÃGE - FH01;4 Rue d'Amay 4000 LiÃ¨ge;0107;Rue dAmay;4;;
-176501;W02-D-Liege-FH01;2739061;Liège;;;1.0;;LIÃGE - FH01;1b Rue Lulay-Des-FÃ¨bvres 4000 LiÃ¨ge;0102;Rue Lulay des Febvres;1;B;
-176503;W02-D-Liege-FH01;2739069;Liège;;;1.0;;LIÃGE - FH01;5a Rue Lulay-Des-FÃ¨bvres 4000 LiÃ¨ge;0102;Rue Lulay des Febvres;5;A;
-176508;W02-D-Liege-FH01;2739113;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0101;Rue Lulay des Febvres;9;;
-176517;W02-D-Liege-FH01;2748166;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Leon Mignon;19;;
-176526;W02-D-Liege-FH01;2750916;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0126;Mont Saint-Martin;17;;
-176529;W02-D-Liege-FH01;2750975;Liège;;;1.0;;LIÃGE - FH01;;0127;Mont Saint-Martin;22;;
-176543;W02-D-Liege-FH01;2751114;Liège;;;1.0;;LIÃGE - FH01;;0127;Mont Saint-Martin;42;;
-176547;W02-D-Liege-FH01;2751145;Liège;;;1.0;;LIÃGE - FH01;;0127;Mont Saint-Martin;50;;
-176557;W02-D-Liege-FH01;2751259;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0126;Mont Saint-Martin;75;;
-176570;W02-D-Liege-FH01;2751455;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;63;;
-176584;W02-D-Liege-FH01;2754202;Liège;;;1.0;;LIÃGE - FH01;7 Rue du Mouton-Blanc 4000 LiÃ¨ge;0105;Rue du Mouton Blanc;7;;
-176586;W02-D-Liege-FH01;2754209;Liège;;;1.0;;LIÃGE - FH01;9 rue du mouton blanc;0105;Rue du Mouton Blanc;9;;D
-176589;W02-D-Liege-FH01;2754235;Liège;;;1.0;;LIÃGE - FH01;;0105;Rue du Mouton Blanc;13;A;
-176593;W02-D-Liege-FH01;2754285;Liège;;;1.0;;LIÃGE - FH01;;0105;Rue du Mouton Blanc;19;;
-176601;W02-D-Liege-FH01;2757918;Liège;;;1.0;;LIÃGE - FH01;;0117;Place Xavier Neujean;19;A;
-176603;W02-D-Liege-FH01;2757951;Liège;;1.0;1.0;1.0;LIÃGE - FH01;23-25 Place Xavier-Neujean 4000 LiÃ¨ge;0118;Place Xavier Neujean;23;;D
-176620;W02-D-Liege-FH01;2765871;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;28;;
-176622;W02-D-Liege-FH01;2765878;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;34;;
-176629;W02-D-Liege-FH01;2765920;Liège;;;1.0;;LIÃGE - FH01;;0102;Pont dIle;5;;
-176630;W02-D-Liege-FH01;2765926;Liège;;;1.0;;LIÃGE - FH01;7/9 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;9;;
-176632;W02-D-Liege-FH01;2765929;Liège;;;1.0;;LIÃGE - FH01;11 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;11;;
-176633;W02-D-Liege-FH01;2765931;Liège;;;1.0;;LIÃGE - FH01;;0102;Pont dIle;13;;
-176635;W02-D-Liege-FH01;2765936;Liège;;;1.0;;LIÃGE - FH01;15 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;15;;
-176639;W02-D-Liege-FH01;2765946;Liège;;;1.0;;LIÃGE - FH01;21 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;21;;
-176643;W02-D-Liege-FH01;2765951;Liège;;;1.0;;LIÃGE - FH01;27/29 rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;27;;
-176647;W02-D-Liege-FH01;2765967;Liège;;;1.0;;LIÃGE - FH01;37 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;37;;
-176648;W02-D-Liege-FH01;2765970;Liège;;;1.0;;LIÃGE - FH01;39 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;39;;
-176651;W02-D-Liege-FH01;2765978;Liège;;;1.0;;LIÃGE - FH01;45 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;45;;
-176653;W02-D-Liege-FH01;2765985;Liège;;;1.0;;LIÃGE - FH01;47 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;47;;
-176655;W02-D-Liege-FH01;2765989;Liège;;;1.0;;LIÃGE - FH01;49 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;49;;
-176657;W02-D-Liege-FH01;2765994;Liège;;;1.0;;LIÃGE - FH01;51 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;51;;
-176659;W02-D-Liege-FH01;2766174;Liège;;;1.0;;LIÃGE - FH01;3 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;3;;
-176663;W02-D-Liege-FH01;2766181;Liège;;;1.0;;LIÃGE - FH01;7 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;7;;
-176664;W02-D-Liege-FH01;2766183;Liège;;;1.0;;LIÃGE - FH01;;0105;Rue du Pot dOr;9;;
-176666;W02-D-Liege-FH01;2766193;Liège;;;1.0;;LIÃGE - FH01;13 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;13;;
-176667;W02-D-Liege-FH01;2766195;Liège;;;1.0;;LIÃGE - FH01;14 Rue du Pot d'or 4000 Liege;0112;Rue du Pot dOr;14;;
-176673;W02-D-Liege-FH01;2766216;Liège;;;1.0;;LIÃGE - FH01;28 rue du Pot d'Or 4000 LiÃ¨ge;0111;Rue du Pot dOr;28;;
-176676;W02-D-Liege-FH01;2766224;Liège;;;1.0;;LIÃGE - FH01;;0106;Rue du Pot dOr;33;;
-176681;W02-D-Liege-FH01;2766236;Liège;;;1.0;;LIÃGE - FH01;;0110;Rue du Pot dOr;40;;
-176683;W02-D-Liege-FH01;2766242;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue du Pot dOr;43;;
-176707;W02-D-Liege-FH01;2777848;Liège;;;1.0;1.0;LIÃGE - FH01;37 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0119;Boulevard de la Sauveniere;37;;D
-176721;W02-D-Liege-FH01;2777908;Liège;;;1.0;;LIÃGE - FH01;74 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0129;Boulevard de la Sauveniere;74;;
-176723;W02-D-Liege-FH01;2777914;Liège;;;1.0;;LIÃGE - FH01;;0129;Boulevard de la Sauveniere;78;;
-176734;W02-D-Liege-FH01;2777964;Liège;;;1.0;;LIÃGE - FH01;;0129;Boulevard de la Sauveniere;96;;
-176735;W02-D-Liege-FH01;2777965;Liège;;;1.0;;LIÃGE - FH01;;0119;Boulevard de la Sauveniere;97;B;
-176736;W02-D-Liege-FH01;2777966;Liège;;;1.0;;LIÃGE - FH01;;0129;Boulevard de la Sauveniere;98;;
-176740;W02-D-Liege-FH01;2777977;Liège;;;1.0;;LIÃGE - FH01;105 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0118;Boulevard de la Sauveniere;105;;C
-176742;W02-D-Liege-FH01;2777979;Liège;;;1.0;;LIÃGE - FH01;;0118;Boulevard de la Sauveniere;109;;D
-176754;W02-D-Liege-FH01;2778006;Liège;;;1.0;;LIÃGE - FH01;125 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0109;Boulevard de la Sauveniere;125;;
-176756;W02-D-Liege-FH01;2778008;Liège;;;1.0;;LIÃGE - FH01;;0122;Boulevard de la Sauveniere;128;;
-176761;W02-D-Liege-FH01;2778024;Liège;;;1.0;;LIÃGE - FH01;;0108;Boulevard de la Sauveniere;139;;
-176769;W02-D-Liege-FH01;2778041;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;162;;
-176777;W02-D-Liege-FH01;2778050;Liège;;;1.0;;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;182;;
-176779;W02-D-Liege-FH01;2778052;Liège;;;1.0;;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;186;;
-176796;W02-D-Liege-FH01;2778118;Liège;;;1.0;;LIÃGE - FH01;;0124;Rue Haute Sauveniere;35;;
-176798;W02-D-Liege-FH01;2778123;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH01;;0124;Rue Haute Sauveniere;39;;
-176801;W02-D-Liege-FH01;2786559;Liège;;;1.0;;LIÃGE - FH01;5a Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;5;A;
-176805;W02-D-Liege-FH01;2786610;Liège;;1.0;1.0;1.0;LIÃGE - FH01;9 Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;9;A;A
-176810;W02-D-Liege-FH01;2786636;Liège;;;1.0;;LIÃGE - FH01;13 Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;13;;
-176812;W02-D-Liege-FH01;2786661;Liège;;;1.0;;LIÃGE - FH01;16 rue Saint Adalbert 4000 LiÃ¨ge;0111;Rue Saint Adalbert;16;;
-176820;W02-D-Liege-FH01;2789836;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH01;;0124;Rue Saint Hubert;7;;
-176838;W02-D-Liege-FH01;2791178;Liège;1.0;1.0;1.0;;LIÃGE - FH01;;0131;Rue Saint Laurent;59;;
-176843;W02-D-Liege-FH01;2796202;Liège;;1.0;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;20;;
-176845;W02-D-Liege-FH01;2796207;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;24;;
-176846;W02-D-Liege-FH01;2796210;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;26;;
-176850;W02-D-Liege-FH01;2796220;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;32;;
-176853;W02-D-Liege-FH01;2796226;Liège;;1.0;1.0;1.0;LIÃGE - FH01;36 rue Saint SÃ©verin 4000 LiÃ¨ge;0128;Rue Saint Severin;36;;C
-176854;W02-D-Liege-FH01;2796230;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;37;;
-176860;W02-D-Liege-FH01;2796254;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;47;;
-176886;W02-D-Liege-FH01;2796450;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;153;;
-176920;W02-D-Liege-FH01;2799312;Liège;;;1.0;;LIÃGE - FH01;;0129;Thier de la Fontaine;46;;
-176927;W02-D-Liege-FH01;2799347;Liège;;;1.0;;LIÃGE - FH01;;0131;Thier de la Fontaine;79;;
-176934;W02-D-Liege-FH01;2803170;Liège;;;1.0;;LIÃGE - FH01;8 Rue de l'universitÃ© 4000 LiÃ¨ge;0102;Rue de lUniversite;8;;
-176936;W02-D-Liege-FH01;2803179;Liège;;;1.0;;LIÃGE - FH01;12 Rue de l'UniversitÃ© 4000 LiÃ¨ge;0102;Rue de lUniversite;12;;D
-176942;W02-D-Liege-FH01;2803316;Liège;;;1.0;;LIÃGE - FH01;;0122;Rue des Urbanistes;6;;D
-176944;W02-D-Liege-FH01;2808121;Liège;;;1.0;;LIÃGE - FH01;4 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;4;;
-176946;W02-D-Liege-FH01;2808129;Liège;;;1.0;;LIÃGE - FH01;6 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;6;;
-176950;W02-D-Liege-FH01;2808137;Liège;;;1.0;;LIÃGE - FH01;12 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;12;;
-176955;W02-D-Liege-FH01;2808156;Liège;;;1.0;;LIÃGE - FH01;;0104;Vinave dIle;21;;
-176957;W02-D-Liege-FH01;2808171;Liège;;;1.0;;LIÃGE - FH01;25 rue VinÃ¢ve d'Ã®le 4000 LiÃ¨ge;0104;Vinave dIle;25;;
-176958;W02-D-Liege-FH01;2808172;Liège;;;1.0;;LIÃGE - FH01;26 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;26;;
-176959;W02-D-Liege-FH01;2808173;Liège;;;1.0;;LIÃGE - FH01;;0104;Vinave dIle;29;;
-176960;W02-D-Liege-FH01;2808176;Liège;;;1.0;;LIÃGE - FH01;32 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;32;;
-176964;W02-D-Liege-FH01;2808186;Liège;;;1.0;;LIÃGE - FH01;40 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;40;;
-176966;W02-D-Liege-FH01;2841464;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue Saint-Jean-en-Isle;3;;
-176981;W02-D-Liege-FH01;2841521;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue Saint-Jean-en-Isle;21;;
-176986;W02-D-Liege-FH01;2841535;Liège;;;1.0;;LIÃGE - FH01;28 Rue Saint-Jean-En-Isle 4000 LiÃ¨ge;0110;Rue Saint-Jean-en-Isle;28;;
-176990;W02-D-Liege-FH01;2892;Liège;;;1.0;;LIÃGE - FH01;;0131;Rue Saint Laurent;5;;
-176993;W02-D-Liege-FH01;2916;Liège;;;1.0;1.0;LIÃGE - FH01;;0129;Rue Lonhienne;28;;
-177021;W02-D-Liege-FH01;3106265;Liège;;;1.0;;LIÃGE - FH01;10 Rue en Bergerue 4000 LiÃ¨ge;0112;Bergerue;10;;D
-177026;W02-D-Liege-FH01;3106288;Liège;;;1.0;;LIÃGE - FH01;18 Rue en Bergerue 4000 LiÃ¨ge;0112;Bergerue;18;;D
-177029;W02-D-Liege-FH01;3124404;Liège;;;1.0;;LIÃGE - FH01;6 rue de la Casquette 4000 LiÃ¨ge;0116;Rue de la Casquette;4;;D
-177034;W02-D-Liege-FH01;3124420;Liège;;;1.0;;LIÃGE - FH01;;0112;Rue de la Casquette;11;;
-177037;W02-D-Liege-FH01;3124430;Liège;;;1.0;;LIÃGE - FH01;;0117;Rue de la Casquette;16;;
-177038;W02-D-Liege-FH01;3124435;Liège;;;1.0;;LIÃGE - FH01;18 Rue de la Casquette 4000 LiÃ¨ge;0117;Rue de la Casquette;18;;D
-177039;W02-D-Liege-FH01;3124437;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue de la Casquette;19;B;
-177041;W02-D-Liege-FH01;3124441;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue de la Casquette;21;;
-177053;W02-D-Liege-FH01;3124497;Liège;;;1.0;;LIÃGE - FH01;;0118;Rue de la Casquette;40;;
-177060;W02-D-Liege-FH01;3124727;Liège;;;1.0;;LIÃGE - FH01;;0101;Rue de la Cathedrale;92;;
-177062;W02-D-Liege-FH01;3124745;Liège;;;1.0;;LIÃGE - FH01;100 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;100;;
-177063;W02-D-Liege-FH01;3124747;Liège;;;1.0;;LIÃGE - FH01;102 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;102;;
-177064;W02-D-Liege-FH01;3124751;Liège;;;1.0;;LIÃGE - FH01;104 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;104;;
-177066;W02-D-Liege-FH01;3124763;Liège;;;1.0;;LIÃGE - FH01;108 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;108;;
-177067;W02-D-Liege-FH01;3124765;Liège;;;1.0;;LIÃGE - FH01;110 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;110;;
-177068;W02-D-Liege-FH01;3124768;Liège;;;1.0;;LIÃGE - FH01;112 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;112;;
-177092;W02-D-Liege-FH01;3136751;Liège;;;1.0;;LIÃGE - FH01;;0127;Degres des Tisserands;5;;
-177098;W02-D-Liege-FH01;3136763;Liège;;;1.0;;LIÃGE - FH01;;0127;Degres des Tisserands;17;;
-177114;W02-D-Liege-FH01;3138815;Liège;;;1.0;1.0;LIÃGE - FH01;;0116;Rue des Dominicains;4;B;
-177117;W02-D-Liege-FH01;3138819;Liège;;;1.0;;LIÃGE - FH01;;0114;Rue des Dominicains;5;;
-177124;W02-D-Liege-FH01;3138828;Liège;;;1.0;;LIÃGE - FH01;14 rue des Dominicains 4000 LiÃ¨ge;0113;Rue des Dominicains;14;;
-177157;W02-D-Liege-FH01;3151698;Liège;;;1.0;;LIÃGE - FH01;5 Rue SÃ©bastien-Laruelle 4000 LiÃ¨ge;0117;Rue Sebastien Laruelle;5;;D
-177166;W02-D-Liege-FH01;3153128;Liège;;;1.0;;LIÃGE - FH01;;0102;Passage Lemonnier;15;;
-177167;W02-D-Liege-FH01;3153129;Liège;;;1.0;;LIÃGE - FH01;14/16/18 Passage Lemonnier 4000 LiÃ¨ge;0101;Passage Lemonnier;16;;
-177172;W02-D-Liege-FH01;3153138;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;23;;
-177174;W02-D-Liege-FH01;3153141;Liège;;;1.0;;LIÃGE - FH01;30 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;30;;
-177177;W02-D-Liege-FH01;3153146;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;35;;
-177179;W02-D-Liege-FH01;3153152;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;39;;
-177180;W02-D-Liege-FH01;3153155;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;41;;
-177182;W02-D-Liege-FH01;3153159;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;43;;
-177183;W02-D-Liege-FH01;3153160;Liège;;;1.0;;LIÃGE - FH01;44/46 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;44;;
-177187;W02-D-Liege-FH01;3154601;Liège;;;1.0;;LIÃGE - FH01;;0122;Rue Lonhienne;5;;D
-177200;W02-D-Liege-FH01;4001252;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;81;;
-177217;W02-D-Liege-FH01;4064939;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0107;Rue du Pot dOr;41;A;
-177225;W02-D-Liege-FH01;4129860;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;47;;
-177234;W02-D-Liege-FH01;4944437;Liège;;;1.0;;LIÃGE - FH01;32 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;32;;
-177237;W02-D-Liege-FH01;5176999;Liège;;;1.0;;LIÃGE - FH01;;0116;Place Xavier Neujean;7;;
-177240;W02-D-Liege-FH01;5177304;Liège;;;1.0;;LIÃGE - FH01;;0105;Vinave dIle;28;;
-177248;W02-D-Liege-FH01;5177355;Liège;;;1.0;;LIÃGE - FH01;;0114;Pont dIle;38;;
-177265;W02-D-Liege-FH01;5178114;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;165;;
-177267;W02-D-Liege-FH01;5178213;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;28;;
-177270;W02-D-Liege-FH01;5178282;Liège;1.0;;1.0;;LIÃGE - FH01;;0124;Rue Haute Sauveniere;11;;D
-177272;W02-D-Liege-FH01;5178310;Liège;;;1.0;;LIÃGE - FH01;;0125;Boulevard de la Sauveniere;48;;
-177282;W02-D-Liege-FH01;5179063;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;26;;
-177293;W02-D-Liege-FH01;5303799;Liège;;;1.0;;LIÃGE - FH01;5b Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;5;B;
-177313;W02-D-Liege-FH01;5343972;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue du Pot dOr;37;A;D
-177351;W02-D-Liege-FH01;6067560;Liège;;;1.0;;LIÃGE - FH01;;0118;Rue du Diamant;1;A;
-177359;W02-D-Liege-FH01;641698;Liège;;;1.0;;LIÃGE - FH01;123 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0109;Boulevard de la Sauveniere;123;;
-177361;W02-D-Liege-FH01;641700;Liège;;;1.0;;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;188;;
-177368;W02-D-Liege-FH01;642003;Liège;;;1.0;;LIÃGE - FH01;82-84-86 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0129;Boulevard de la Sauveniere;84;;
-177394;W02-D-Liege-FH01;642813;Liège;;;1.0;;LIÃGE - FH01;12 Rue du Pot d'or 4000 LiÃ¨ge;0112;Rue du Pot dOr;12;;
-177405;W02-D-Liege-FH01;642828;Liège;;;1.0;;LIÃGE - FH01;;0105;Vinave dIle;2;;
-177407;W02-D-Liege-FH01;642831;Liège;;;1.0;;LIÃGE - FH01;4 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;4;;
-177408;W02-D-Liege-FH01;642832;Liège;;;1.0;;LIÃGE - FH01;2 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;2;;
-177409;W02-D-Liege-FH01;642833;Liège;;;1.0;;LIÃGE - FH01;10 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;10;;
-177415;W02-D-Liege-FH01;642844;Liège;;;1.0;;LIÃGE - FH01;18 rue Saint Adalbert 4000 LiÃ¨ge;0111;Rue Saint Adalbert;18;;
-177424;W02-D-Liege-FH01;642893;Liège;;;1.0;;LIÃGE - FH01;;0118;Place Xavier Neujean;39;;D
-177425;W02-D-Liege-FH01;642895;Liège;;;1.0;;LIÃGE - FH01;;0118;Place Xavier Neujean;35;;
-177438;W02-D-Liege-FH01;642921;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;36;;
-177445;W02-D-Liege-FH01;642930;Liège;;;1.0;;LIÃGE - FH01;;0110;Rue du Pot dOr;32;;
-177457;W02-D-Liege-FH01;642958;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;123;;
-177458;W02-D-Liege-FH01;642959;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;175;;
-177464;W02-D-Liege-FH01;642996;Liège;;;1.0;1.0;LIÃGE - FH01;;0120;Rue Hamal;2;;
-177471;W02-D-Liege-FH01;643004;Liège;;;1.0;;LIÃGE - FH01;2 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0123;Boulevard de la Sauveniere;2;;
-177473;W02-D-Liege-FH01;643006;Liège;;;1.0;;LIÃGE - FH01;;0123;Place Verte;2;;D
-177479;W02-D-Liege-FH01;645475;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0126;Mont Saint-Martin;69;;
-177488;W02-D-Liege-FH01;645487;Liège;;;1.0;;LIÃGE - FH01;;0126;Mont Saint-Martin;59;;
-177492;W02-D-Liege-FH01;646545;Liège;;;1.0;;LIÃGE - FH01;;0102;Passage Lemonnier;19;B;
-177494;W02-D-Liege-FH01;646556;Liège;;;1.0;;LIÃGE - FH01;1/3 VinÃ¢ve d'Ã®le 4000 LiÃ¨ge;0103;Vinave dIle;1;;
-177495;W02-D-Liege-FH01;646561;Liège;;;1.0;;LIÃGE - FH01;22 rue Lulay-Des-Febvres 4000 LiÃ¨ge;0104;Rue Lulay des Febvres;22;;
-177496;W02-D-Liege-FH01;646573;Liège;;;1.0;;LIÃGE - FH01;4 Rue Lulay-Des-Febvres 4000 LiÃ¨ge;0103;Rue Lulay des Febvres;4;;D
-177507;W02-D-Liege-FH01;646612;Liège;;;1.0;;LIÃGE - FH01;;0106;Rue du Pot dOr;35;;
-177510;W02-D-Liege-FH01;646615;Liège;;;1.0;;LIÃGE - FH01;57 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;57;;
-177512;W02-D-Liege-FH01;646617;Liège;;;1.0;;LIÃGE - FH01;1-4 Rue de l'universitÃ© 4000 LiÃ¨ge;0102;Pont dIle;1;;
-177513;W02-D-Liege-FH01;646618;Liège;;;1.0;;LIÃGE - FH01;25 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;25;;
-177514;W02-D-Liege-FH01;646619;Liège;;;1.0;;LIÃGE - FH01;80 rue de la CathÃ©drale 4000 LiÃ¨ge;0101;Rue de la Cathedrale;80;;
-177515;W02-D-Liege-FH01;646620;Liège;;;1.0;;LIÃGE - FH01;94 rue de la CathÃ©drale 4000 LiÃ¨ge;0101;Rue de la Cathedrale;94;;C
-177516;W02-D-Liege-FH01;646621;Liège;;;1.0;;LIÃGE - FH01;96 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;96;;
-177517;W02-D-Liege-FH01;646631;Liège;;;1.0;;LIÃGE - FH01;22 rue de l'UniversitÃ© 4000 LiÃ¨ge;0101;Rue de lUniversite;22;;
-177586;W02-D-Liege-FH02;1324541;Liège;;1.0;1.0;1.0;LIÃGE - FH02;;0212;Boulevard Piercot;9;;
-177628;W02-D-Liege-FH02;2741247;Liège;;;1.0;;LIÃGE - FH02;23 rue Charles Magnette;0203;Rue Charles Magnette;23;;D
-177629;W02-D-Liege-FH02;2741250;Liège;;1.0;1.0;1.0;LIÃGE - FH02;106;0202;Rue Charles Magnette;24;;
-177688;W02-D-Liege-FH02;2766772;Liège;;1.0;1.0;1.0;LIÃGE - FH02;12 Rue des PrÃ©montrÃ©s 4000 LiÃ¨ge;0216;Rue des Premontres;12;;
-177824;W02-D-Liege-FH02;3124135;Liège;;;1.0;;LIÃGE - FH02;8 Place des Carmes 4000 LiÃ¨ge;0217;Place des Carmes;8;;
-177908;W02-D-Liege-FH02;3141692;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH02;3 rue Bonne Fortune 4000 liege;0208;Rue Bonne Fortune;3;;
-177983;W02-D-Liege-FH02;5335990;Liège;;;1.0;;LIÃGE - FH02;1 rue des Croisiers 4000 LiÃ¨ge;0217;Rue des Croisiers;1;;
-177986;W02-D-Liege-FH02;5340638;Liège;;;1.0;;LIÃGE - FH02;7 rue des Croisiers 4000 LiÃ¨ge;0217;Rue des Croisiers;7;;
-178002;W02-D-Liege-FH02;5463583;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH02;4 Rue Saint-Paul 4000 LiÃ¨ge;0205;Rue Bonne Fortune;4;;
-178055;W02-D-Liege-FH02;642236;Liège;;1.0;1.0;1.0;LIÃGE - FH02;;0220;Boulevard Piercot;31;B;
-178077;W02-D-Liege-FH02;645620;Liège;;1.0;1.0;1.0;LIÃGE - FH02;20 rue  de la SirÃ¨ne 4000 LiÃ¨ge;0202;Rue de la Sirene;20;;X
-178091;W02-D-Liege-FH02;645643;Liège;;1.0;1.0;1.0;LIÃGE - FH02;106;0202;Rue Charles Magnette;22;;
-178495;W02-D-Liege-FH03;646636;Liège;;;1.0;;LIÃGE - FH03;;BL0301;Rue de la CathÃ©drale;78;;D
-178669;W02-D-Uccle-FH01;1044156;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Avenue Moliere;213;;
-178675;W02-D-Uccle-FH01;1044166;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Rue Franz Merjay;170;;
-178702;W02-D-Uccle-FH01;1049054;Uccle;;;1.0;1.0;UCCLE - FH01;;bloc108;Rue Vanderkindere;171;;
-178703;W02-D-Uccle-FH01;1049056;Ixelles;;;1.0;;UCCLE - FH01;;bloc107;Rue Jean-Baptiste Meunier;53;A;
-178815;W02-D-Uccle-FH01;1637042;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Avenue Moliere;217;;
-178823;W02-D-Uccle-FH01;1637056;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Avenue Moliere;235;;
-178905;W02-D-Uccle-FH01;1640916;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Rue Edmond Picard;39;;
-179021;W02-D-Uccle-FH01;1688224;Uccle;;;1.0;;UCCLE - FH01;;bloc108;Rue Vanderkindere;195;;
-179165;W02-D-Uccle-FH01;1691054;Uccle;;;1.0;1.0;UCCLE - FH01;kot;bloc114;Rue du Pacifique;32;;
-179252;W02-D-Uccle-FH01;1692702;Uccle;;;1.0;1.0;UCCLE - FH01;;bloc108;Avenue Winston Churchill;48;A;
-179301;W02-D-Uccle-FH01;1693054;Uccle;;;1.0;;UCCLE - FH01;;bloc114;Rue Marie Depage;24;;
-179302;W02-D-Uccle-FH01;1693054;Uccle;;;1.0;;UCCLE - FH02;;bloc114;Rue Marie Depage;24;;
-179319;W02-D-Uccle-FH01;1693068;Uccle;;;1.0;;UCCLE - FH01;;bloc116;Rue Marie Depage;56;;
-179320;W02-D-Uccle-FH01;1693068;Uccle;;;1.0;;UCCLE - FH02;;bloc103;Rue Gabrielle;7;;
-179344;W02-D-Uccle-FH01;4113155;Ixelles;;;1.0;;UCCLE - FH01;;bloc101;Rue Joseph Stallaert;73;;
-179350;W02-D-Uccle-FH01;5019164;Uccle;;;1.0;;UCCLE - FH01;;bloc112;Rue General Mac Arthur;5;;
-179362;W02-D-Uccle-FH01;682569;Uccle;;;1.0;;UCCLE - FH02;;bloc114;Avenue Winston Churchill;118;;C
-311247;W03-C-Knokke-Heist-FH01;84567;Knokke-Heist;;;1.0;;KNOKKE - FH01;;BL0102;Smedenstraat;88;;
-316504;W03-C-Knokke-Heist-FH09;2759158;Knokke-Heist;;;1.0;;KNOKKE-HEIST - FH09;;BL0908;Duinenstraat;10;;
-325782;W03-C-Liege-FH04;1200986;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Hemricourt;18;;
-325848;W03-C-Liege-FH04;1474768;Liège;;;1.0;;LIÃGE - FH04;;BL0415;Rue Rennequin-Sualem;17;;
-325857;W03-C-Liege-FH04;1487555;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Edouard Wacken;29;;
-325864;W03-C-Liege-FH04;1510618;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Edouard Wacken;11;;
-325874;W03-C-Liege-FH04;1682433;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue des Guillemins;123;;
-325894;W03-C-Liege-FH04;2761827;Liège;;;1.0;;LIÃGE - FH04;;BL0404;Rue Paradis;96;;
-325952;W03-C-Liege-FH04;2772853;Liège;;;1.0;;LIÃGE - FH04;;BL0415;Rue Rennequin-Sualem;9;;
-325959;W03-C-Liege-FH04;2772877;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Rennequin-Sualem;32;;
-325992;W03-C-Liege-FH04;2778829;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue de Serbie;42;;
-326049;W03-C-Liege-FH04;2779347;Liège;;;1.0;;LIÃGE - FH04;;BL0404;Rue de Serbie;123;;
-326056;W03-C-Liege-FH04;2779962;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;7;;
-326059;W03-C-Liege-FH04;2780003;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;11;;
-326061;W03-C-Liege-FH04;2780014;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;13;;
-326063;W03-C-Liege-FH04;2780025;Liège;;;1.0;;LIÃGE - FH04;;BL0410;Rue Simonon;16;;
-326067;W03-C-Liege-FH04;2780045;Liège;;;1.0;;LIÃGE - FH04;;BL0410;Rue Simonon;20;;
-326100;W03-C-Liege-FH04;2796538;Liège;;;1.0;;LIÃGE - FH04;;BL0416;Place Sainte VÃ©ronique;6;;
-326117;W03-C-Liege-FH04;2796614;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Sainte VÃ©ronique;27;;
-326143;W03-C-Liege-FH04;2808345;Liège;;;1.0;;LIÃGE - FH04;;BL0404;Rue des Vingt-Deux;33;;
-326145;W03-C-Liege-FH04;2808358;Liège;;;1.0;;LIÃGE - FH04;;BL0405;Rue des Vingt-Deux;36;;
-326166;W03-C-Liege-FH04;2840163;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Rue de Rotterdam;11;;
-326169;W03-C-Liege-FH04;2840180;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Rue de Rotterdam;17;;
-326172;W03-C-Liege-FH04;2840187;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Rue de Rotterdam;21;;
-326198;W03-C-Liege-FH04;3099741;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Boulevard dAvroy;280;;
-326285;W03-C-Liege-FH04;3135357;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Dartois;24;;
-326291;W03-C-Liege-FH04;3135371;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Dartois;32;;D
-326351;W03-C-Liege-FH04;3140269;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Fabry;13;;
-326353;W03-C-Liege-FH04;3140271;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Fabry;15;;
-326360;W03-C-Liege-FH04;3140280;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Fabry;29;;
-326396;W03-C-Liege-FH04;3143700;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;7;;
-326400;W03-C-Liege-FH04;3143704;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;11;;
-326404;W03-C-Liege-FH04;3143709;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;15;;
-326408;W03-C-Liege-FH04;3143723;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;27;;
-326410;W03-C-Liege-FH04;3143727;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;31;;
-326420;W03-C-Liege-FH04;3143739;Liège;;;1.0;;LIÃGE - FH04;;BL0408;Rue des Guillemins;46;;
-326463;W03-C-Liege-FH04;3143788;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;104;;
-326472;W03-C-Liege-FH04;3143797;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;114;;
-326475;W03-C-Liege-FH04;3143801;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue des Guillemins;121;;
-326480;W03-C-Liege-FH04;3144133;Liège;;;1.0;;LIÃGE - FH04;;BL0413;Rue Hemricourt;15;;
-326481;W03-C-Liege-FH04;3144134;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Hemricourt;16;;
-326515;W03-C-Liege-FH04;3941987;Liège;;1.0;1.0;1.0;LIÃGE - FH04;;BL0401;Rue des Guillemins;125;A;
-326521;W03-C-Liege-FH04;3942235;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Edouard Wacken;35;;
-326532;W03-C-Liege-FH04;4088031;Liège;;;1.0;;LIÃGE - FH04;;BL0415;Rue Rennequin-Sualem;13;;
-326538;W03-C-Liege-FH04;4253989;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;108;;
-326553;W03-C-Liege-FH04;5182420;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;15;;
-326580;W03-C-Liege-FH04;5188850;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue de Serbie;74;;
-326584;W03-C-Liege-FH04;5188905;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue de Serbie;112;;
-326619;W03-C-Liege-FH04;540710;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Hemricourt;14;;
-326627;W03-C-Liege-FH04;540721;Liège;;1.0;1.0;1.0;LIÃGE - FH04;;BL0414;Rue Rennequin-Sualem;22;;
-326630;W03-C-Liege-FH04;540724;Liège;;;1.0;;LIÃGE - FH04;Inami;BL0412;Rue Fabry;25;;
-326679;W03-C-Liege-FH04;541531;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;116;;
-326682;W03-C-Liege-FH04;541534;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Dartois;2;;
-326693;W03-C-Liege-FH04;642228;Liège;;1.0;1.0;1.0;LIÃGE - FH04;;BL0419;Boulevard FrÃ¨re Orban;11;;
-331747;W03-C-Liege-FH10;663387;Liège;;;1.0;1.0;LIÃGE - FH10;;;Boulevard de Froidmont;2;;
-404712;W03-D-Hasselt-FH05;2426522;Hasselt;;;1.0;;HASSELT - FH05;;BL0005;Luikersteenweg;192;;
-413648;W03-D-Mechelen-FH02;3029550;Mechelen;;;1.0;;MECHELEN - FH02;;BL0231;Arsenaalstraat;6;;
-413847;W03-D-Mechelen-FH02;3036028;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Hanswijkstraat;16;;
-413870;W03-D-Mechelen-FH02;3036074;Mechelen;;;1.0;;MECHELEN - FH02;;BL0205;Hanswijkstraat;61;;
-414140;W03-D-Mechelen-FH02;3046663;Mechelen;;;1.0;;MECHELEN - FH02;;BL0205;Raghenoplein;5;;
-414184;W03-D-Mechelen-FH02;3047959;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0218;Schuttersvest;17;;
-414200;W03-D-Mechelen-FH02;3047987;Mechelen;;;1.0;;MECHELEN - FH02;;BL0227;Schuttersvest;38;;
-414204;W03-D-Mechelen-FH02;3047992;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0227;Schuttersvest;42;;
-414233;W03-D-Mechelen-FH02;3048212;Mechelen;;;1.0;;MECHELEN - FH02;;BL0232;Hendrik Speecqvest;18;;
-414260;W03-D-Mechelen-FH02;3048997;Mechelen;;;1.0;;MECHELEN - FH02;;BL0232;Stationsstraat;10;;
-414276;W03-D-Mechelen-FH02;3049027;Mechelen;;;1.0;;MECHELEN - FH02;;BL0231;Stationsstraat;36;;
-414340;W03-D-Mechelen-FH02;3050759;Mechelen;;;1.0;;MECHELEN - FH02;;BL0221;Van Benedenlaan;31;;
-414356;W03-D-Mechelen-FH02;3050786;Mechelen;;;1.0;;MECHELEN - FH02;;BL0219;Van Benedenlaan;57;;
-414366;W03-D-Mechelen-FH02;3050846;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Graaf van Egmontstraat;7;;
-414369;W03-D-Mechelen-FH02;3050857;Mechelen;;;1.0;;MECHELEN - FH02;;BL0215;Graaf van Egmontstraat;12;;
-414408;W03-D-Mechelen-FH02;3053911;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0201;Zoutwerf;8;;
-414436;W03-D-Mechelen-FH02;333325;Mechelen;;;1.0;;MECHELEN - FH02;;BL0229;Leopoldstraat;113;;
-414523;W03-D-Mechelen-FH02;354746;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Graaf van Egmontstraat;13;;
-414609;W03-D-Mechelen-FH02;383272;Mechelen;;;1.0;;MECHELEN - FH02;;BL0227;Albert Geudensstraat;4;;
-414618;W03-D-Mechelen-FH02;386394;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0219;Van Benedenlaan;61;;
-414689;W03-D-Mechelen-FH02;393900;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0212;Ravenbergstraat;28;;
-414763;W03-D-Mechelen-FH02;3992281;Mechelen;;;1.0;;MECHELEN - FH02;;BL0232;Stationsstraat;19;;
-414783;W03-D-Mechelen-FH02;4025082;Mechelen;;;1.0;;MECHELEN - FH02;;BL0209;Lieve-Heerstraat;3;;
-414837;W03-D-Mechelen-FH02;4172850;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0227;Schuttersvest;44;;
-415019;W03-D-Mechelen-FH02;4764808;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Hanswijkstraat;14;;
-415098;W03-D-Mechelen-FH02;6374915;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Graaf van Egmontstraat;7;A;
-415127;W03-D-Mechelen-FH03;1345053;Mechelen;;1.0;1.0;;MECHELEN - FH03;;BL0001;Bruul;80;;
-415138;W03-D-Mechelen-FH03;3031591;Mechelen;;;1.0;1.0;MECHELEN - FH03;Botermarkt 14-16;BL0001;Botermarkt;16;;
-415158;W03-D-Mechelen-FH03;3032177;Mechelen;;1.0;1.0;;MECHELEN - FH03;;BL0001;Bruul;34;;
-415160;W03-D-Mechelen-FH03;3032181;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr39 en 41;BL0001;Bruul;39;;c
-415161;W03-D-Mechelen-FH03;3032182;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr39 en 41;BL0001;Bruul;41;;c
-415162;W03-D-Mechelen-FH03;3032184;Mechelen;;;1.0;;MECHELEN - FH03;;BL0001;Bruul;42;;
-415195;W03-D-Mechelen-FH03;3032245;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr 115 en 117;BL0001;Bruul;117;;C
-415200;W03-D-Mechelen-FH03;3032252;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr126 124 128 en 130;BL0001;Bruul;124;;C
-415204;W03-D-Mechelen-FH03;3032257;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr126 124 128 en 130;BL0001;Bruul;128;;C
-415256;W03-D-Mechelen-FH03;905036;Mechelen;;;1.0;;MECHELEN - FH03;;BL0001;Botermarkt;17;;
+75505;W01-C-Charleroi-FH01;1309;Charleroi;;;1.0;1.0;CHARLEROI - FH01;;121;Boulevard Joseph Tirou;2.0;;
+75626;W01-C-Charleroi-FH01;2034373;Charleroi;;;1.0;;CHARLEROI - FH01;;113;Rue du Bief du Moulin;2.0;A;
+75642;W01-C-Charleroi-FH01;2037178;Charleroi;;;1.0;;CHARLEROI - FH01;;112;Rue Arthur Pater;8.0;;
+75763;W01-C-Charleroi-FH01;462794;Charleroi;;;1.0;1.0;CHARLEROI - FH01;;121;Rue Arthur Pater;11.0;;C
+75773;W01-C-Charleroi-FH01;462962;Charleroi;1.0;;1.0;1.0;CHARLEROI - FH01;;101;Rue Ferrer (Charleroi);5.0;;
+75789;W01-C-Charleroi-FH01;462987;Charleroi;;;1.0;;CHARLEROI - FH01;1/3;105;Rue de Heinzelin de Braucourt;3.0;;D
+75842;W01-C-Charleroi-FH02;1144593;Charleroi;;;1.0;;CHARLEROI - FH02;17 rue de la science et 6 rue du gouvernement bloc (D);202;Rue de la Science;17.0;;D
+75851;W01-C-Charleroi-FH02;1144626;Charleroi;;;1.0;;CHARLEROI - FH02;;202;Rue Tumelaire;13.0;;C
+75855;W01-C-Charleroi-FH02;1144638;Charleroi;;;1.0;;CHARLEROI - FH02;;208;Rue Bassle;23.0;;D
+75867;W01-C-Charleroi-FH02;1144662;Charleroi;;;1.0;;CHARLEROI - FH02;;201;Rue de la Science;1.0;;D
+75883;W01-C-Charleroi-FH02;1144744;Charleroi;;;1.0;;CHARLEROI - FH02;rue du Gouvernement, 15, 6000 Charleroi (la Croix Rouge de Belgique );201;Rue du Gouvernement;15.0;;D
+75884;W01-C-Charleroi-FH02;1144745;Charleroi;;;1.0;;CHARLEROI - FH02;rue du Gouvernement, 13, 6000 Charleroi;201;Rue du Gouvernement;13.0;;D
+75891;W01-C-Charleroi-FH02;1183735;Charleroi;;;1.0;;CHARLEROI - FH02;4 rue de France;219;Rue de France (Charleroi);4.0;;D
+75892;W01-C-Charleroi-FH02;1183736;Charleroi;;;1.0;;CHARLEROI - FH02;6 rue de france;219;Rue de France (Charleroi);6.0;;D
+75899;W01-C-Charleroi-FH02;1183748;Charleroi;;;1.0;;CHARLEROI - FH02;78 rue de la montagne;219;Rue de la Montagne(Charleroi);78.0;;D
+75915;W01-C-Charleroi-FH02;1481693;Charleroi;;;1.0;;CHARLEROI - FH02;29 rue ISAAC;206;Rue Isaac;29.0;;D
+75948;W01-C-Charleroi-FH02;2021533;Charleroi;;;1.0;;CHARLEROI - FH02;rue BasslÃ© 13,6000 Charleroi;208;Rue Bassle;13.0;;D
+75949;W01-C-Charleroi-FH02;2021535;Charleroi;;;1.0;;CHARLEROI - FH02;;208;Rue Bassle;19.0;;D
+75951;W01-C-Charleroi-FH02;2021846;Charleroi;;;1.0;;CHARLEROI - FH02;;205;Rue Leon Bernus;3.0;;D
+75953;W01-C-Charleroi-FH02;2021849;Charleroi;;;1.0;;CHARLEROI - FH02;;205;Rue Leon Bernus;7.0;;D
+75957;W01-C-Charleroi-FH02;2021856;Charleroi;;;1.0;;CHARLEROI - FH02;;205;Rue Leon Bernus;15.0;;D
+75959;W01-C-Charleroi-FH02;2021862;Charleroi;;;1.0;;CHARLEROI - FH02;27 rue LÃ©on Bernus;206;Rue Leon Bernus;27.0;;D
+75960;W01-C-Charleroi-FH02;2021863;Charleroi;;;1.0;;CHARLEROI - FH02;31 rue LÃ©on Bernus;206;Rue Leon Bernus;31.0;;D
+75962;W01-C-Charleroi-FH02;2021868;Charleroi;;;1.0;;CHARLEROI - FH02;35 rue LÃ©on Bernus;206;Rue Leon Bernus;35.0;;D
+76005;W01-C-Charleroi-FH02;2024288;Charleroi;;;1.0;;CHARLEROI - FH02;;209;Place Charles II;22.0;;D
+76010;W01-C-Charleroi-FH02;2027160;Charleroi;;;1.0;;CHARLEROI - FH02;6 boulevard frans dewandre bloc 7 (D);207;Boulevard Frans Dewandre;6.0;;D
+76011;W01-C-Charleroi-FH02;2027830;Charleroi;;;1.0;;CHARLEROI - FH02;;241;Avenue de lEurope;88.0;;
+76015;W01-C-Charleroi-FH02;2027836;Charleroi;;;1.0;;CHARLEROI - FH02;;241;Avenue de lEurope;96.0;;
+76016;W01-C-Charleroi-FH02;2027837;Charleroi;;;1.0;;CHARLEROI - FH02;;241;Avenue de lEurope;98.0;;
+76018;W01-C-Charleroi-FH02;2029018;Charleroi;;;1.0;;CHARLEROI - FH02;;252;Rue du Fort;5.0;;
+76027;W01-C-Charleroi-FH02;2029031;Charleroi;;;1.0;;CHARLEROI - FH02;;251;Rue du Fort;24.0;;
+76052;W01-C-Charleroi-FH02;2029089;Charleroi;;;1.0;;CHARLEROI - FH02;36 rue de france;219;Rue de France (Charleroi);36.0;;D
+76064;W01-C-Charleroi-FH02;2029424;Charleroi;;;1.0;;CHARLEROI - FH02;Group1;252;Rue de la Garenne;39.0;;
+76067;W01-C-Charleroi-FH02;2029428;Charleroi;;;1.0;;CHARLEROI - FH02;;252;Rue de la Garenne;51.0;;
+76074;W01-C-Charleroi-FH02;2031149;Charleroi;;;1.0;;CHARLEROI - FH02;;205;Boulevard Paul Janson;76.0;;D
+76076;W01-C-Charleroi-FH02;2031152;Charleroi;;;1.0;;CHARLEROI - FH02;;205;Boulevard Paul Janson;80.0;;D
+76118;W01-C-Charleroi-FH02;2033415;Charleroi;;;1.0;;CHARLEROI - FH02;;252;Rue du Mambourg;72.0;;
+76138;W01-C-Charleroi-FH02;2035709;Charleroi;;;1.0;;CHARLEROI - FH02;;209;Rue dOrleans;13.0;;D
+76155;W01-C-Charleroi-FH02;2038532;Charleroi;;;1.0;;CHARLEROI - FH02;rue de la Science, 7, 6000 Charleroi;201;Rue de la Science;7.0;;D
+76156;W01-C-Charleroi-FH02;2038534;Charleroi;;;1.0;;CHARLEROI - FH02;;201;Rue de la Science;9.0;;D
+76162;W01-C-Charleroi-FH02;2040195;Charleroi;;;1.0;;CHARLEROI - FH02;;241;Rue Turenne;40.0;;
+76202;W01-C-Charleroi-FH02;4142296;Charleroi;;;1.0;;CHARLEROI - FH02;;252;Rue du Fort;47.0;;
+76214;W01-C-Charleroi-FH02;457018;Charleroi;;;1.0;;CHARLEROI - FH02;;205;Rue Leon Bernus;17.0;;D
+76215;W01-C-Charleroi-FH02;457301;Charleroi;;;1.0;;CHARLEROI - FH02;21 rue LÃ©on Bernus/ 36 rue Huart Chapel;206;Rue Leon Bernus;21.0;;D
+76224;W01-C-Charleroi-FH02;458453;Charleroi;;;1.0;;CHARLEROI - FH02;2 boulevard frans dewandre bloc 7 (D);207;Boulevard Frans Dewandre;2.0;;D
+76225;W01-C-Charleroi-FH02;458455;Charleroi;;;1.0;;CHARLEROI - FH02;8 boulevard frans dewandre et 59 rue Leon Bernus bloc 7 (C);207;Boulevard Frans Dewandre;8.0;;D
+76244;W01-C-Charleroi-FH02;461713;Charleroi;;;1.0;1.0;CHARLEROI - FH02;Audent 1/Montagne 49;208;Rue de la Montagne(Charleroi);49.0;;C
+76247;W01-C-Charleroi-FH02;463128;Charleroi;;;1.0;;CHARLEROI - FH02;18 place Charles 2;219;Place Charles II;18.0;;D
+76252;W01-C-Charleroi-FH02;463137;Charleroi;;;1.0;;CHARLEROI - FH02;56 rue de la montagne;219;Rue de la Montagne(Charleroi);56.0;;D
+76258;W01-C-Charleroi-FH02;463144;Charleroi;;;1.0;;CHARLEROI - FH02;Boulevard Audent, 13, 6000 Charleroi;208;Boulevard Audent;13.0;;D
+76261;W01-C-Charleroi-FH02;463147;Charleroi;;;1.0;;CHARLEROI - FH02;Audent 29;208;Boulevard Audent;29.0;;D
+76278;W01-C-Charleroi-FH02;465060;Charleroi;;;1.0;;CHARLEROI - FH02;1-2 Place de la Broucheterre;247;Place de la Broucheterre;1.0;;D
+76287;W01-C-Charleroi-FH02;465207;Charleroi;;;1.0;;CHARLEROI - FH02;Group2;252;Rue de la Garenne;25.0;;
+76294;W01-C-Charleroi-FH02;465216;Charleroi;;;1.0;;CHARLEROI - FH02;;252;Rue du Mambourg;84.0;;
+76310;W01-C-Charleroi-FH02;467504;Charleroi;;;1.0;;CHARLEROI - FH02;;241;Rue Turenne;66.0;;
+76315;W01-C-Charleroi-FH02;467892;Charleroi;;;1.0;;CHARLEROI - FH02;;241;Rue Turenne;68.0;;
+76333;W01-C-Charleroi-FH02;5075494;Charleroi;;;1.0;;CHARLEROI - FH02;;201;Rue de la Science;3.0;;D
+76351;W01-C-Charleroi-FH02;5086403;Charleroi;;;1.0;;CHARLEROI - FH02;44 rue de france;219;Rue de France (Charleroi);44.0;;D
+76355;W01-C-Charleroi-FH02;5325916;Charleroi;;;1.0;;CHARLEROI - FH02;8-10 boulevard bertrand;241;Boulevard Jacques Bertrand;10.0;C;
+76384;W01-C-Charleroi-FH03;1144596;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;48.0;;
+76385;W01-C-Charleroi-FH03;1144597;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;60.0;;
+76409;W01-C-Charleroi-FH03;1449226;Charleroi;;;1.0;;CHARLEROI - FH03;87 boulevard Joseph tirou;08;Boulevard Joseph Tirou;87.0;;
+76410;W01-C-Charleroi-FH03;1450042;Charleroi;;;1.0;;CHARLEROI - FH03;8 rue de dampremy;08;Rue de Dampremy;8.0;;
+76417;W01-C-Charleroi-FH03;1494157;Charleroi;;;1.0;;CHARLEROI - FH03;12 rue de dampremy;08;Rue de Dampremy;12.0;;
+76426;W01-C-Charleroi-FH03;2021437;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;20.0;;
+76427;W01-C-Charleroi-FH03;2021442;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;24.0;;
+76430;W01-C-Charleroi-FH03;2021452;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;30.0;;
+76432;W01-C-Charleroi-FH03;2021460;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;38.0;;
+76434;W01-C-Charleroi-FH03;2021464;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Boulevard Audent;42.0;;
+76468;W01-C-Charleroi-FH03;2025619;Charleroi;;;1.0;;CHARLEROI - FH03;5 rue dagnelies;06;Rue Dagnelies;5.0;;
+76471;W01-C-Charleroi-FH03;2025627;Charleroi;;;1.0;;CHARLEROI - FH03;4 rue de dampremy;08;Rue de Dampremy;4.0;;
+76476;W01-C-Charleroi-FH03;2025632;Charleroi;;;1.0;;CHARLEROI - FH03;13 rue de dampremy;02;Rue de Dampremy;13.0;;
+76478;W01-C-Charleroi-FH03;2025634;Charleroi;;;1.0;;CHARLEROI - FH03;15 rue de dampremy;02;Rue de Dampremy;15.0;;
+76483;W01-C-Charleroi-FH03;2025640;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de Dampremy;21.0;;
+76488;W01-C-Charleroi-FH03;2025646;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Rue de Dampremy;28.0;;
+76499;W01-C-Charleroi-FH03;2025666;Charleroi;;;1.0;;CHARLEROI - FH03;49 rue de dampremy;02;Rue de Dampremy;49.0;;
+76505;W01-C-Charleroi-FH03;2025674;Charleroi;;;1.0;;CHARLEROI - FH03;60 rue de dampremy;08;Rue de Dampremy;60.0;;
+76506;W01-C-Charleroi-FH03;2025675;Charleroi;;;1.0;;CHARLEROI - FH03;62 rue de dampremy;08;Rue de Dampremy;62.0;;
+76516;W01-C-Charleroi-FH03;2027175;Charleroi;;;1.0;;CHARLEROI - FH03;medicentre;05;Place de la Digue;10.0;;C
+76533;W01-C-Charleroi-FH03;2027195;Charleroi;;;1.0;;CHARLEROI - FH03;36/37/38 place de la digue;02;Place de la Digue;36.0;;D
+76560;W01-C-Charleroi-FH03;2034114;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;19.0;;
+76561;W01-C-Charleroi-FH03;2034116;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;21.0;;
+76562;W01-C-Charleroi-FH03;2034118;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;23.0;;
+76563;W01-C-Charleroi-FH03;2034120;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;25.0;;
+76567;W01-C-Charleroi-FH03;2034127;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;33.0;;
+76569;W01-C-Charleroi-FH03;2034129;Charleroi;;;1.0;;CHARLEROI - FH03;36 rue de la montagne;02;Rue de la Montagne;36.0;;
+76596;W01-C-Charleroi-FH03;2036111;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue du Palais;7.0;;
+76598;W01-C-Charleroi-FH03;2036117;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue du Palais;17.0;;
+76602;W01-C-Charleroi-FH03;2037360;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;58 rue du pont neuf;10;Rue du Pont Neuf;58.0;;C
+76604;W01-C-Charleroi-FH03;2037362;Charleroi;;;1.0;;CHARLEROI - FH03;64 rue du pont neuf;10;Rue du Pont Neuf;64.0;;
+76605;W01-C-Charleroi-FH03;2037363;Charleroi;;;1.0;;CHARLEROI - FH03;66 rue du pont neuf;10;Rue du Pont Neuf;66.0;;
+76606;W01-C-Charleroi-FH03;2037364;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue du Pont Neuf;68.0;;
+76620;W01-C-Charleroi-FH03;2039604;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Boulevard Joseph Tirou;65.0;;
+76621;W01-C-Charleroi-FH03;2039606;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;67/69 boulevard Joseph tirou;08;Boulevard Joseph Tirou;67.0;;A
+76623;W01-C-Charleroi-FH03;2039611;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Boulevard Joseph Tirou;73.0;;D
+76625;W01-C-Charleroi-FH03;2039615;Charleroi;;;1.0;;CHARLEROI - FH03;77 boulevard Joseph tirou;08;Boulevard Joseph Tirou;77.0;;A
+76646;W01-C-Charleroi-FH03;2039669;Charleroi;;;1.0;;CHARLEROI - FH03;147/149 boulevard Joseph tirou (B);09;Boulevard Joseph Tirou;147.0;;C
+76648;W01-C-Charleroi-FH03;2039673;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;151/153/155;09;Boulevard Joseph Tirou;151.0;;A
+76657;W01-C-Charleroi-FH03;2042291;Charleroi;;;1.0;;CHARLEROI - FH03;34 boulevard de l'yser;02;Boulevard de lYser;34.0;;
+76658;W01-C-Charleroi-FH03;2042293;Charleroi;;;1.0;;CHARLEROI - FH03;36 boulevard de l'yser;02;Boulevard de lYser;36.0;;D
+76683;W01-C-Charleroi-FH03;4257641;Charleroi;;;1.0;;CHARLEROI - FH03;;05;Place de la Digue;15.0;;
+76690;W01-C-Charleroi-FH03;459393;Charleroi;;;1.0;;CHARLEROI - FH03;19 rue de Louvain;03;Rue de Louvain;19.0;;
+76696;W01-C-Charleroi-FH03;459400;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de la Digue;5.0;;
+76724;W01-C-Charleroi-FH03;461025;Charleroi;;;1.0;;CHARLEROI - FH03;2 rue de dampremy;08;Rue de Dampremy;2.0;;
+76726;W01-C-Charleroi-FH03;461027;Charleroi;;;1.0;;CHARLEROI - FH03;;08;Boulevard Joseph Tirou;49.0;;
+76728;W01-C-Charleroi-FH03;461240;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de Dampremy;51.0;;D
+76732;W01-C-Charleroi-FH03;461259;Charleroi;;;1.0;;CHARLEROI - FH03;44/46;08;Rue de Dampremy;44.0;;D
+76733;W01-C-Charleroi-FH03;461260;Charleroi;;;1.0;;CHARLEROI - FH03;;02;Rue de Dampremy;81.0;;
+76735;W01-C-Charleroi-FH03;461262;Charleroi;;;1.0;;CHARLEROI - FH03;43 rue de dampremy;02;Rue de Dampremy;43.0;;
+76741;W01-C-Charleroi-FH03;461270;Charleroi;1.0;1.0;1.0;1.0;CHARLEROI - FH03;71/73/75;02;Rue de Dampremy;71.0;;C
+76771;W01-C-Charleroi-FH03;461715;Charleroi;;;1.0;;CHARLEROI - FH03;;12;Rue de la Justice;2.0;;
+76786;W01-C-Charleroi-FH03;462175;Charleroi;;;1.0;;CHARLEROI - FH03;165 boulevard tirou;09;Boulevard Joseph Tirou;165.0;;
+76796;W01-C-Charleroi-FH03;463812;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;1.0;;
+76797;W01-C-Charleroi-FH03;463813;Charleroi;;;1.0;;CHARLEROI - FH03;26 rue de Montigny (D);10;Rue de Montigny;26.0;;
+76801;W01-C-Charleroi-FH03;463820;Charleroi;;;1.0;;CHARLEROI - FH03;;09;Rue de Montigny;23.0;;
+76808;W01-C-Charleroi-FH03;464198;Charleroi;;;1.0;;CHARLEROI - FH03;74 rue du pont neuf;10;Rue du Pont Neuf;74.0;;
+76813;W01-C-Charleroi-FH03;464203;Charleroi;;;1.0;;CHARLEROI - FH03;59 rue de Montigny, 6000 Charleroi;13;Rue de Montigny;59.0;;
+76818;W01-C-Charleroi-FH03;464210;Charleroi;;1.0;1.0;1.0;CHARLEROI - FH03;Prunieau 2 - Montigny 49;13;Rue de Montigny;49.0;;A
+76820;W01-C-Charleroi-FH03;464212;Charleroi;;;1.0;;CHARLEROI - FH03;;09;Rue de Montigny;33.0;;
+76831;W01-C-Charleroi-FH03;5066995;Charleroi;;;1.0;;CHARLEROI - FH03;;10;Rue de la Montagne;15.0;;
+76836;W01-C-Charleroi-FH03;5068403;Charleroi;;;1.0;;CHARLEROI - FH03;47-45 rue de dampremy;02;Rue de Dampremy;47.0;;
+76839;W01-C-Charleroi-FH03;5070984;Charleroi;;;1.0;;CHARLEROI - FH03;64 rue de dampremy;08;Rue de Dampremy;64.0;;
+76887;W01-C-Charleroi-FH04;2021340;Charleroi;;;1.0;;CHARLEROI - FH04;20 rue de l'assaut;411;Rue dAssaut;20.0;;D
+76890;W01-C-Charleroi-FH04;2021343;Charleroi;;;1.0;;CHARLEROI - FH04;28 rue de l'assaut;411;Rue dAssaut;28.0;;D
+76892;W01-C-Charleroi-FH04;2021346;Charleroi;;;1.0;;CHARLEROI - FH04;36 rue de l'assaut;411;Rue dAssaut;34.0;;D
+76893;W01-C-Charleroi-FH04;2021347;Charleroi;;;1.0;;CHARLEROI - FH04;38 rue de l'assaut;411;Rue dAssaut;36.0;;D
+76894;W01-C-Charleroi-FH04;2021393;Charleroi;;;1.0;;CHARLEROI - FH04;5 rue de l'athenee;411;Rue de lAthenee;3.0;;D
+76896;W01-C-Charleroi-FH04;2021395;Charleroi;;;1.0;;CHARLEROI - FH04;9 rue de l'athenee;411;Rue de lAthenee;7.0;;D
+76898;W01-C-Charleroi-FH04;2021397;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue de lAthenee;10.0;;
+76901;W01-C-Charleroi-FH04;2021401;Charleroi;;;1.0;;CHARLEROI - FH04;17 rue de l'athenee;411;Rue de lAthenee;15.0;;D
+76903;W01-C-Charleroi-FH04;2021404;Charleroi;;;1.0;;CHARLEROI - FH04;1 boulevard Emile Devreux 6000 Charleroi;411;Rue de lAthenee;17.0;;D
+76905;W01-C-Charleroi-FH04;2021406;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue de lAthenee;20.0;;
+76911;W01-C-Charleroi-FH04;2021415;Charleroi;;;1.0;;CHARLEROI - FH04;;417;Rue de lAthenee;37.0;;D
+76926;W01-C-Charleroi-FH04;2027144;Charleroi;;;1.0;;CHARLEROI - FH04;24 boulevard devreux;411;Boulevard Emile Devreux;24.0;;D
+76928;W01-C-Charleroi-FH04;2027148;Charleroi;;;1.0;;CHARLEROI - FH04;28 boulevard devreux;411;Boulevard Emile Devreux;28.0;;D
+76930;W01-C-Charleroi-FH04;2027151;Charleroi;;;1.0;;CHARLEROI - FH04;32 boulevard devreux;411;Boulevard Emile Devreux;32.0;;D
+76958;W01-C-Charleroi-FH04;2034257;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue de Montigny;76.0;;D
+76959;W01-C-Charleroi-FH04;2034258;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue de Montigny;78.0;;D
+76977;W01-C-Charleroi-FH04;2034289;Charleroi;;;1.0;;CHARLEROI - FH04;126 rue de montigny;411;Rue de Montigny;126.0;;D
+76982;W01-C-Charleroi-FH04;2034298;Charleroi;;;1.0;;CHARLEROI - FH04;169/173/175/177 rue de Montigny bloc 8 (D);408;Rue de Montigny;169.0;;D
+76990;W01-C-Charleroi-FH04;2036158;Charleroi;;;1.0;;CHARLEROI - FH04;25 rue du parc;416;Rue du Parc;25.0;;D
+76992;W01-C-Charleroi-FH04;2036160;Charleroi;;;1.0;;CHARLEROI - FH04;29 rue du parc;416;Rue du Parc;29.0;;D
+76994;W01-C-Charleroi-FH04;2036162;Charleroi;;;1.0;;CHARLEROI - FH04;33 rue du parc;416;Rue du Parc;33.0;;D
+76999;W01-C-Charleroi-FH04;2036170;Charleroi;;;1.0;;CHARLEROI - FH04;49 rue du Parc 6000 Charleroi;417;Rue du Parc;49.0;;D
+77000;W01-C-Charleroi-FH04;2037342;Charleroi;;;1.0;;CHARLEROI - FH04;3 rue du Pont Neuf 6000 Charleroi;404;Rue du Pont Neuf;3.0;;D
+77005;W01-C-Charleroi-FH04;2037351;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue du Pont Neuf;31.0;;
+77006;W01-C-Charleroi-FH04;2037353;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue du Pont Neuf;33.0;;
+77042;W01-C-Charleroi-FH04;4139829;Charleroi;;;1.0;;CHARLEROI - FH04;35 rue du parc;416;Rue du Parc;35.0;;D
+77044;W01-C-Charleroi-FH04;4159103;Charleroi;;;1.0;;CHARLEROI - FH04;37 quai Arthur Rimbaud (D);402;Quai Arthur Rimbaud;37.0;;D
+77047;W01-C-Charleroi-FH04;4237179;Charleroi;;;1.0;;CHARLEROI - FH04;30 rue de l'assaut;411;Rue dAssaut;30.0;;D
+77062;W01-C-Charleroi-FH04;459826;Charleroi;;;1.0;;CHARLEROI - FH04;53 rue du Parc  6000 Charleroi  (le Mayence);417;Rue du Parc;53.0;;D
+77072;W01-C-Charleroi-FH04;460070;Charleroi;;;1.0;;CHARLEROI - FH04;23 Boulevard Devreux 6000 Charleroi;413;Boulevard Emile Devreux;23.0;;D
+77092;W01-C-Charleroi-FH04;461278;Charleroi;;;1.0;;CHARLEROI - FH04;95 rue de Montigny 6000 Charleroi;404;Rue de Montigny;95.0;;D
+77114;W01-C-Charleroi-FH04;461434;Charleroi;;;1.0;;CHARLEROI - FH04;15 rue de l'athenee;411;Rue de lAthenee;13.0;;D
+77117;W01-C-Charleroi-FH04;461437;Charleroi;;;1.0;;CHARLEROI - FH04;2 rue d'assaut;411;Rue dAssaut;2.0;;D
+77135;W01-C-Charleroi-FH04;467393;Charleroi;;;1.0;;CHARLEROI - FH04;40 Quai Arthur Rimbaud (D);402;Quai Arthur Rimbaud;40.0;;D
+77139;W01-C-Charleroi-FH04;5070123;Charleroi;;;1.0;;CHARLEROI - FH04;46 quai Arthur Rimbaud (D);402;Quai Arthur Rimbaud;46.0;;D
+77149;W01-C-Charleroi-FH04;5089109;Charleroi;;;1.0;;CHARLEROI - FH04;16 rue de l'assaut 120-122 rue de montigny;411;Rue dAssaut;16.0;;D
+77151;W01-C-Charleroi-FH04;5089147;Charleroi;;;1.0;;CHARLEROI - FH04;;410;Rue de lAthenee;8.0;;
+77164;W01-C-Charleroi-FH05;1144401;Charleroi;;;1.0;;CHARLEROI - FH05;;501;Rue Spinois;161.0;;D
+77165;W01-C-Charleroi-FH05;1144402;Charleroi;;;1.0;;CHARLEROI - FH05;;501;Rue Spinois;163.0;;D
+77174;W01-C-Charleroi-FH05;1144679;Charleroi;;;1.0;1.0;CHARLEROI - FH05;40/42/46/48/50/52/54 Neuville;505;Rue de la Neuville;40.0;;A
+77176;W01-C-Charleroi-FH05;1144683;Charleroi;;;1.0;;CHARLEROI - FH05;1 Boulevard ZoÃ© Drion, polyclinique du Mambourg bloc 2 (A);502;Boulevard Zoe Drion;1.0;;F
+77195;W01-C-Charleroi-FH05;2032156;Charleroi;;;1.0;;CHARLEROI - FH05;13/15;504;Boulevard Joseph II;13.0;;C
+77235;W01-C-Charleroi-FH05;5549572;Charleroi;1.0;;1.0;;CHARLEROI - FH05;23/27/29/31 DRION;504;Boulevard ZoÃ© Drion;23.0;;A
+77236;W01-C-Charleroi-FH05;5549573;Charleroi;;;1.0;1.0;CHARLEROI - FH05;23/27/29/31 DRION;504;Boulevard ZoÃ© Drion;27.0;;A
+138792;W01-C-Namur-FH01;3204372;Namur;;;1.0;;NAMUR - FH01;;BL0110;Boulevard d'Herbatte;169.0;;
+139421;W01-C-Namur-FH03;1196852;Namur;;;1.0;;NAMUR - FH03;125 rue des 3 piliers 5002 Namur;0319;Rue des Trois Piliers(SS);125.0;;X
+139446;W01-C-Namur-FH03;1286841;Namur;;;1.0;;NAMUR - FH03;1 chaussÃ©e de Waterloo 5002 Namur;0314;Chaussee de Waterloo;1.0;;E
+139591;W01-C-Namur-FH03;1423886;Namur;;;1.0;;NAMUR - FH03;9-11 rue saint donat 5002 Namur;0303;Rue Saint-Donat(SS);9.0;;D
+139611;W01-C-Namur-FH03;1423915;Namur;;;1.0;;NAMUR - FH03;103 Rue de gembloux 5002 saint servais;0309;Rue de Gembloux;103.0;;D
+139615;W01-C-Namur-FH03;1423919;Namur;;;1.0;;NAMUR - FH03;111 Rue de gembloux 5002 saint servais;0315;Rue de Gembloux;111.0;;X
+139616;W01-C-Namur-FH03;1423920;Namur;;;1.0;;NAMUR - FH03;113-115 Rue de gembloux 5002 saint servais;0309;Rue de Gembloux;113.0;;D
+139623;W01-C-Namur-FH03;1423931;Namur;;1.0;1.0;1.0;NAMUR - FH03;135-137 Rue de Gembloux 5002 Namur;0309;Rue de Gembloux;135.0;;A
+139652;W01-C-Namur-FH03;1423977;Namur;;;1.0;;NAMUR - FH03;114-116 rue de gembloux 5002 Namur;0303;Rue de Gembloux;116.0;;D
+139690;W01-C-Namur-FH03;1424032;Namur;;;1.0;;NAMUR - FH03;;0302;Rue de Gembloux;32.0;;
+139692;W01-C-Namur-FH03;1424035;Namur;;;1.0;;NAMUR - FH03;38a-38b rue de gembloux 5002 namur;0302;Rue de Gembloux;38.0;;D
+139701;W01-C-Namur-FH03;1424057;Namur;;;1.0;;NAMUR - FH03;84 rue de gembloux 5002 Namur;0302;Rue de Gembloux;84.0;;
+139795;W01-C-Namur-FH03;1424359;Namur;;;1.0;;NAMUR - FH03;21 - 21A rue A. Ortmans 5002 Namur;0305;Rue Adolphe Ortmans(SS);21.0;;D
+139842;W01-C-Namur-FH03;1425363;Namur;;;1.0;;NAMUR - FH03;7 chaussÃ©e de Waterloo 5002 Namur;0314;Chaussee de Waterloo;7.0;;X
+139847;W01-C-Namur-FH03;1425368;Namur;;;1.0;;NAMUR - FH03;19-21 chaussÃ©e de Waterloo 5002 Namur;0314;Chaussee de Waterloo;19.0;;X
+139849;W01-C-Namur-FH03;1425371;Namur;;;1.0;;NAMUR - FH03;27 place d'hastedon 5000 Namur;0314;Chaussee de Waterloo;27.0;;X
+139853;W01-C-Namur-FH03;1425376;Namur;;;1.0;;NAMUR - FH03;39 ChaussÃ©e de Waterloo 5002 Namur;0315;Chaussee de Waterloo;39.0;;X
+139930;W01-C-Namur-FH03;1425466;Namur;;;1.0;;NAMUR - FH03;54 Rue des Dominicaines 5002 Namur;0310;Rue des Dominicaines(SS);54.0;;
+139965;W01-C-Namur-FH03;1425509;Namur;;;1.0;;NAMUR - FH03;13 Rue LÃ©opold de Hulster 5002 Namur;0308;Rue Leopold De Hulster(SS);13.0;;
+139976;W01-C-Namur-FH03;1425520;Namur;;;1.0;;NAMUR - FH03;35 Rue LÃ©opold de Hulster 5002 Namur;0308;Rue Leopold De Hulster(SS);35.0;;
+140006;W01-C-Namur-FH03;1425552;Namur;;;1.0;;NAMUR - FH03;92 rue LÃ©opold de Hulster 5002 Namur;0309;Rue Leopold De Hulster(SS);92.0;;
+140043;W01-C-Namur-FH03;1425602;Namur;;;1.0;;NAMUR - FH03;162-164 ChaussÃ©e de Waterloo 5002 Namur;0308;Chaussee de Waterloo;164.0;;
+140049;W01-C-Namur-FH03;1425609;Namur;;;1.0;;NAMUR - FH03;144-146 ChaussÃ©e de Waterloo 5002 Namur;0308;Chaussee de Waterloo;146.0;;
+140125;W01-C-Namur-FH03;1425726;Namur;;;1.0;;NAMUR - FH03;128 ChaussÃ©e de Waterloo 5002 Namur;0308;Chaussee de Waterloo;128.0;;
+140274;W01-C-Namur-FH03;1425959;Namur;;1.0;1.0;1.0;NAMUR - FH03;;0312;Rue des Trois Piliers(SS);46.0;;
+140307;W01-C-Namur-FH03;1426033;Namur;;;1.0;;NAMUR - FH03;;0311;Rue du Beau-Vallon;23.0;;D
+140328;W01-C-Namur-FH03;1426066;Namur;;;1.0;;NAMUR - FH03;76 rue malevez 5002 Namur;0311;Rue Malevez(SS);76.0;;D
+140330;W01-C-Namur-FH03;1426068;Namur;;;1.0;;NAMUR - FH03;;0311;Rue Malevez(SS);84.0;;
+140333;W01-C-Namur-FH03;1426072;Namur;;;1.0;;NAMUR - FH03;;0311;Rue Malevez(SS);4.0;;D
+140438;W01-C-Namur-FH03;1426329;Namur;1.0;;1.0;;NAMUR - FH03;51 Rue Ãmile Melchior 5002 Namur;0318;Rue Emile Melchior(SS);51.0;;X
+140624;W01-C-Namur-FH03;1426570;Namur;;;1.0;;NAMUR - FH03;11 Rue du CurÃ© Hiernaux 5002 Namur;0329;Rue du Cure Hiernaux(SS);11.0;;
+140781;W01-C-Namur-FH03;1426889;Namur;;;1.0;;NAMUR - FH03;463 ChaussÃ©e de Waterloo 5002 Namur;0334;Chaussee de Waterloo;463.0;;D
+140847;W01-C-Namur-FH03;1427000;Namur;;;1.0;;NAMUR - FH03;342 ChaussÃ©e de Waterloo 5002 Namur;0335;Chaussee de Waterloo;342.0;;
+140849;W01-C-Namur-FH03;1427006;Namur;;;1.0;;NAMUR - FH03;334 ChaussÃ©e de Waterloo 5002 Namur;0335;Chaussee de Waterloo;334.0;;
+143661;W01-C-Namur-FH06;1119927;Namur;;1.0;1.0;1.0;NAMUR - FH06;10 Rue Joseph GrafÃ© - 37 Rue Grandgagnage 5000 Namur;0626;Rue J. Grafe;10.0;;
+143664;W01-C-Namur-FH06;1119930;Namur;;;1.0;;NAMUR - FH06;;0623;Rue de lArsenal;14.0;;
+143669;W01-C-Namur-FH06;1119937;Namur;;1.0;1.0;1.0;NAMUR - FH06;5 Rue Blondeau 5000 Namur;0625;Rue Blondeau;5.0;;
+143689;W01-C-Namur-FH06;1119962;Namur;;;1.0;;NAMUR - FH06;12 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;12.0;;
+143691;W01-C-Namur-FH06;1119964;Namur;;;1.0;;NAMUR - FH06;6 Rue de l'EvÃ©chÃ© 4000 LiÃ¨ge;0622;Rue de lEveche;8.0;;
+143695;W01-C-Namur-FH06;1121110;Namur;;;1.0;;NAMUR - FH06;2 rue de l'ange ( Future Agence BNP PARIBAS );06;Rue de lAnge;2.0;;
+143712;W01-C-Namur-FH06;1121131;Namur;;1.0;1.0;1.0;NAMUR - FH06;;10;Rue des Echasseurs;2.0;;
+143715;W01-C-Namur-FH06;1121137;Namur;;;1.0;;NAMUR - FH06;;07;Rue du Pont;8.0;;
+143717;W01-C-Namur-FH06;1121140;Namur;;;1.0;;NAMUR - FH06;1 Rue de Marchovelette 5000 Namur (Belfius Bank);07;Rue de Marchovelette;1.0;;
+143756;W01-C-Namur-FH06;1290824;Namur;;;1.0;;NAMUR - FH06;52 rue de la croix (exie magasin vÃªtement );13;Rue de la Croix;48.0;;
+143767;W01-C-Namur-FH06;1290837;Namur;;;1.0;;NAMUR - FH06;8 place du marchÃ© (havanna );12;Place Marche aux Legumes;8.0;;
+143781;W01-C-Namur-FH06;1290859;Namur;;1.0;1.0;1.0;NAMUR - FH06;17 Rue de l'ange 5000 Namur (Galler);10;Rue de lAnge;17.0;;
+143785;W01-C-Namur-FH06;1290865;Namur;;;1.0;;NAMUR - FH06;8 Rue des fripiers (enez  grill);11;Rue des Fripiers;8.0;;
+143792;W01-C-Namur-FH06;1290876;Namur;;;1.0;;NAMUR - FH06;13 Rue des fripiers (La pointilleuse);10;Rue des Fripiers;13.0;;
+143793;W01-C-Namur-FH06;1290877;Namur;;;1.0;;NAMUR - FH06;;10;Rue des Fripiers;9.0;;
+143811;W01-C-Namur-FH06;1309890;Namur;;;1.0;;NAMUR - FH06;;14;Rue Saint-Jacques;31.0;;
+143816;W01-C-Namur-FH06;1309899;Namur;;;1.0;;NAMUR - FH06;;05;Rue de lAnge;74.0;;
+143826;W01-C-Namur-FH06;1309922;Namur;;;1.0;;NAMUR - FH06;97 Rue de l'Ange 5000 Namur (Geox);13;Rue de lAnge;97.0;;
+143929;W01-C-Namur-FH06;1432394;Namur;;;1.0;;NAMUR - FH06;;28;Rue Felix Wodon;22.0;;
+143946;W01-C-Namur-FH06;1432421;Namur;;;1.0;;NAMUR - FH06;;0627;Avenue des Combattants;7.0;;
+143947;W01-C-Namur-FH06;1440708;Namur;;1.0;1.0;1.0;NAMUR - FH06;29-31 Rue de Marchovelette 5000 Namur (les secrets du chef);07;Rue de Marchovelette;29.0;;
+143959;W01-C-Namur-FH06;1516066;Namur;;;1.0;;NAMUR - FH06;30 Rue de l'Ange 5000 Namur (Pizza Hut);05;Rue de lAnge;30.0;;
+143960;W01-C-Namur-FH06;1516067;Namur;;;1.0;;NAMUR - FH06;41 Rue de l'ange (pharmacie );12;Rue de lAnge;41.0;;
+143961;W01-C-Namur-FH06;1516069;Namur;;1.0;1.0;1.0;NAMUR - FH06;;05;Rue de lAnge;16.0;;
+143967;W01-C-Namur-FH06;153258;Namur;;;1.0;;NAMUR - FH06;11 Rue Joseph Saintraint 5000 Namur;0621b;Rue Joseph Saintraint;11.0;;
+143971;W01-C-Namur-FH06;20511;Namur;;;1.0;;NAMUR - FH06;19 Rue de l'ange (histoire d'or);11;Rue de lAnge;19.0;;
+143975;W01-C-Namur-FH06;20519;Namur;;1.0;1.0;1.0;NAMUR - FH06;61 rue de Bruxelles ( universitÃ© de Namur );0624a;Rue de Bruxelles;61.0;;
+143985;W01-C-Namur-FH06;3197495;Namur;;;1.0;;NAMUR - FH06;15 Rue de l'ange 5000 Namur (leonidas);10;Rue de lAnge;15.0;;
+143987;W01-C-Namur-FH06;3197497;Namur;;;1.0;;NAMUR - FH06;21 Rue de l'ange (cafÃ©s delahaut);11;Rue de lAnge;21.0;;
+143988;W01-C-Namur-FH06;3197498;Namur;;;1.0;;NAMUR - FH06;23 Rue de l'ange (flying tiger);11;Rue de lAnge;23.0;;
+143989;W01-C-Namur-FH06;3197499;Namur;;;1.0;;NAMUR - FH06;24 Rue de l'Ange 5000 Namur (H&M);05;Rue de lAnge;24.0;;
+143993;W01-C-Namur-FH06;3197505;Namur;;;1.0;;NAMUR - FH06;;12;Rue de lAnge;45.0;;
+143995;W01-C-Namur-FH06;3197509;Namur;;;1.0;;NAMUR - FH06;52 rue Place de l'ange;05;Rue de lAnge;52.0;;
+143998;W01-C-Namur-FH06;3197513;Namur;;;1.0;;NAMUR - FH06;58 rue de l'ange;05;Rue de lAnge;58.0;;
+144001;W01-C-Namur-FH06;3197516;Namur;;;1.0;;NAMUR - FH06;64 rue de l'ange;05;Rue de lAnge;64.0;;
+144006;W01-C-Namur-FH06;3197522;Namur;;;1.0;;NAMUR - FH06;76 rue l'ange;05;Rue de lAnge;76.0;;
+144007;W01-C-Namur-FH06;3197523;Namur;;;1.0;;NAMUR - FH06;77 Rue de L'ange 5000 Namur;13;Rue de lAnge;77.0;;
+144008;W01-C-Namur-FH06;3197524;Namur;;;1.0;;NAMUR - FH06;78 rue de l'ange;05;Rue de lAnge;78.0;;
+144009;W01-C-Namur-FH06;3197525;Namur;;;1.0;;NAMUR - FH06;79 Rue de l'ange 5000 Namur;13;Rue de lAnge;79.0;;
+144052;W01-C-Namur-FH06;3198242;Namur;;;1.0;;NAMUR - FH06;7 Rue Blondeau 5000 Namur;0625;Rue Blondeau;7.0;;
+144054;W01-C-Namur-FH06;3198244;Namur;;;1.0;;NAMUR - FH06;11 Rue Blondeau 5000 Namur;0625;Rue Blondeau;11.0;;
+144055;W01-C-Namur-FH06;3198245;Namur;;;1.0;;NAMUR - FH06;13 Rue Blondeau 5000 Namur;0625;Rue Blondeau;13.0;;
+144074;W01-C-Namur-FH06;3198960;Namur;;;1.0;;NAMUR - FH06;22 Rue des Brasseurs 5000 Namur;07;Rue des Brasseurs;22.0;;
+144135;W01-C-Namur-FH06;3199032;Namur;;;1.0;;NAMUR - FH06;;0621b;Rue des Brasseurs;162.0;;
+144143;W01-C-Namur-FH06;3199044;Namur;;;1.0;;NAMUR - FH06;;15;Rue des Brasseurs;179.0;;
+144179;W01-C-Namur-FH06;3199193;Namur;;1.0;1.0;1.0;NAMUR - FH06;rue de Bruxelles 71 ( pharmacie );0626;Rue de Bruxelles;71.0;;
+144196;W01-C-Namur-FH06;3200077;Namur;;;1.0;;NAMUR - FH06;;0619;Rue du College;17.0;;
+144204;W01-C-Namur-FH06;3200089;Namur;;;1.0;;NAMUR - FH06;;0621b;Rue du College;45.0;;
+144207;W01-C-Namur-FH06;3200516;Namur;;;1.0;;NAMUR - FH06;neant rue de la Croix 3;12;Rue de la Croix;3.0;;
+144214;W01-C-Namur-FH06;3200523;Namur;;;1.0;;NAMUR - FH06;13 rue de la croix 5000 Namur (boutique ikks);12;Rue de la Croix;13.0;;
+144220;W01-C-Namur-FH06;3200530;Namur;;;1.0;;NAMUR - FH06;20 rue de la croix (vent d ailleurs);13;Rue de la Croix;20.0;;
+144221;W01-C-Namur-FH06;3200531;Namur;;;1.0;;NAMUR - FH06;neant de la croix 21;12;Rue de la Croix;21.0;;
+144222;W01-C-Namur-FH06;3200532;Namur;;;1.0;;NAMUR - FH06;22 rue de la croix(mercerie brodery);13;Rue de la Croix;22.0;;
+144239;W01-C-Namur-FH06;3200549;Namur;;;1.0;;NAMUR - FH06;43 rue de la croix 5000 Namur (Caro furs);12;Rue de la Croix;43.0;;
+144241;W01-C-Namur-FH06;3200551;Namur;;;1.0;;NAMUR - FH06;50 rue de la croix (l atelier hall);13;Rue de la Croix;50.0;;
+144282;W01-C-Namur-FH06;3202608;Namur;;;1.0;;NAMUR - FH06;16 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;16.0;;
+144283;W01-C-Namur-FH06;3202610;Namur;;;1.0;;NAMUR - FH06;18-20 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;20.0;;
+144310;W01-C-Namur-FH06;3203218;Namur;;1.0;1.0;;NAMUR - FH06;;0624b;Boulevard Frere Orban;1.0;A;
+144316;W01-C-Namur-FH06;3203261;Namur;;;1.0;;NAMUR - FH06;12 Rue Fumal 5000 Namur (MusÃ©e FÃ©licien Rops);0621b;Rue Fumal;12.0;;
+144337;W01-C-Namur-FH06;3203713;Namur;;1.0;1.0;1.0;NAMUR - FH06;4 rue Joseph grafÃ©;0626;Rue J. Grafe;4.0;;
+144341;W01-C-Namur-FH06;3203762;Namur;;;1.0;;NAMUR - FH06;;0626;Rue Grandgagnage;2.0;;
+144365;W01-C-Namur-FH06;3205201;Namur;;1.0;1.0;1.0;NAMUR - FH06;;0621a;Rue Lelievre;2.0;;
+144370;W01-C-Namur-FH06;3205206;Namur;;;1.0;;NAMUR - FH06;;0623;Rue Lelievre;9.0;;
+144371;W01-C-Namur-FH06;3205208;Namur;;;1.0;;NAMUR - FH06;;0621a;Rue Lelievre;10.0;;
+144378;W01-C-Namur-FH06;3206334;Namur;;;1.0;;NAMUR - FH06;;13;Rue Haute Marcelle;5.0;;
+144390;W01-C-Namur-FH06;3206346;Namur;;;1.0;;NAMUR - FH06;TSA 16/18 rue haute Marcel;14;Rue Haute Marcelle;18.0;;
+144404;W01-C-Namur-FH06;3206361;Namur;;;1.0;;NAMUR - FH06;;14;Rue Haute Marcelle;40.0;;
+144409;W01-C-Namur-FH06;3206580;Namur;;;1.0;;NAMUR - FH06;2-3-4 place marche au lÃ©gumes 5000 Namur;12;Place Marche aux Legumes;2.0;;
+144412;W01-C-Namur-FH06;3206585;Namur;;;1.0;;NAMUR - FH06;10 place du marchÃ© (piano bar);12;Place Marche aux Legumes;10.0;;
+144426;W01-C-Namur-FH06;3206613;Namur;;;1.0;;NAMUR - FH06;25 Rue de Marchovelette 5000 Namur (caractR coiffure);07;Rue de Marchovelette;25.0;;
+144432;W01-C-Namur-FH06;3207408;Namur;;;1.0;;NAMUR - FH06;;06;Rue de la Monnaie;13.0;;
+144446;W01-C-Namur-FH06;3208113;Namur;;;1.0;;NAMUR - FH06;;14;Rue de lOuvrage;10.0;;
+144451;W01-C-Namur-FH06;3208118;Namur;;;1.0;;NAMUR - FH06;12-14-16 Rue de l'Ouvrage 5000 Namur (Slumberland);14;Rue de lOuvrage;16.0;;
+144506;W01-C-Namur-FH06;3208921;Namur;;;1.0;;NAMUR - FH06;34 Rue du PrÃ©sident 5000 Namur;18;Rue du President;34.0;;
+144510;W01-C-Namur-FH06;3208925;Namur;;;1.0;;NAMUR - FH06;38 Rue du PrÃ©sident 5000 Namur;18;Rue du President;38.0;;
+144525;W01-C-Namur-FH06;3209616;Namur;;;1.0;;NAMUR - FH06;10 Rue Joseph Saintraint 5000 Namur;0622;Rue Joseph Saintraint;10.0;;
+144538;W01-C-Namur-FH06;3209919;Namur;1.0;;1.0;1.0;NAMUR - FH06;20 Rue du SÃ©minaire (amphithÃ©Ã¢tre Vauban );0624b;Rue du Seminaire;20.0;;
+144552;W01-C-Namur-FH06;3210127;Namur;;;1.0;;NAMUR - FH06;7 Place Saint-Aubain 5000 Namur (Justice de paix);0622;Place Saint-Aubain;7.0;;
+144587;W01-C-Namur-FH06;3210491;Namur;;;1.0;;NAMUR - FH06;;13;Rue Saint-Loup;20.0;;
+144591;W01-C-Namur-FH06;3210708;Namur;;;1.0;;NAMUR - FH06;;04;Marche Saint-Remy;5.0;;
+144606;W01-C-Namur-FH06;3924862;Namur;;;1.0;;NAMUR - FH06;;0624b;Rue de lArsenal;1.0;;
+144608;W01-C-Namur-FH06;3945477;Namur;;;1.0;;NAMUR - FH06;6 Rue  de l'arsenal ( Ãcole henallux );0623;Rue de lArsenal;6.0;;
+144628;W01-C-Namur-FH06;4038841;Namur;;;1.0;;NAMUR - FH06;10 Rue Fumal 5000 Namur;0621b;Rue Fumal;10.0;;
+144632;W01-C-Namur-FH06;4060425;Namur;;;1.0;;NAMUR - FH06;4 Place palais de justice  (palais de justice );0623;Place du Palais de Justice;4.0;;
+144646;W01-C-Namur-FH06;4131871;Namur;;;1.0;;NAMUR - FH06;6 Rue de l'EvÃªchÃ© 5000 Namur;0622;Rue de lEveche;6.0;;
+144651;W01-C-Namur-FH06;4132071;Namur;1.0;1.0;1.0;1.0;NAMUR - FH06;;15;Rue des Brasseurs;107.0;;
+144672;W01-C-Namur-FH06;5147285;Namur;;;1.0;;NAMUR - FH06;;0623;Rue Lelievre;7.0;;
+144673;W01-C-Namur-FH06;5147482;Namur;;;1.0;;NAMUR - FH06;;05;Rue du Beffroi;13.0;;
+144676;W01-C-Namur-FH06;5147512;Namur;;;1.0;;NAMUR - FH06;66 rue de l'ange;05;Rue de lAnge;66.0;;
+144692;W01-C-Namur-FH06;5147952;Namur;;;1.0;;NAMUR - FH06;12 Rue des Brasseurs 5000 Namur;07;Rue des Brasseurs;12.0;;
+144694;W01-C-Namur-FH06;5148148;Namur;;;1.0;;NAMUR - FH06;;0622;Place Saint-Aubain;11.0;;
+144695;W01-C-Namur-FH06;5148149;Namur;1.0;1.0;1.0;1.0;NAMUR - FH06;;0621b;Rue Joseph Saintraint;1.0;A;
+144708;W01-C-Namur-FH06;5148556;Namur;;;1.0;;NAMUR - FH06;neant fripiers 7;10;Rue des Fripiers;7.0;;
+144713;W01-C-Namur-FH06;5149181;Namur;;;1.0;;NAMUR - FH06;6 Rue Fumal 5000 Namur;0621b;Rue Fumal;6.0;;
+144714;W01-C-Namur-FH06;5149183;Namur;;;1.0;;NAMUR - FH06;8 Rue Fumal 5000 Namur;0621b;Rue Fumal;8.0;;
+144732;W01-C-Namur-FH06;5355712;Namur;;;1.0;;NAMUR - FH06;14 Place Saint Aubain;0623;Place Saint-Aubain;14.0;;
+144871;W01-C-Namur-FH07;1344990;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;120.0;;
+144903;W01-C-Namur-FH07;1488480;Namur;;;1.0;;NAMUR - FH07;;0709;Rue Lucien Nameche;1.0;;
+144919;W01-C-Namur-FH07;20531;Namur;;1.0;1.0;1.0;NAMUR - FH07;Place lillon 17-19 5000 namur;0704;Place lIlon;17.0;;
+144933;W01-C-Namur-FH07;3198163;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Julie Billiart;5.0;;
+144979;W01-C-Namur-FH07;3198883;Namur;;;1.0;;NAMUR - FH07;;0704;Rue J.B. Brabant;38.0;;
+145005;W01-C-Namur-FH07;3199164;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;36.0;;
+145018;W01-C-Namur-FH07;3199197;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;78.0;;
+145021;W01-C-Namur-FH07;3199203;Namur;;;1.0;;NAMUR - FH07;;0722;Rue de Bruxelles;86.0;;
+145058;W01-C-Namur-FH07;3199355;Namur;;;1.0;;NAMUR - FH07;;0710;Rue des Carmes;32.0;;
+145091;W01-C-Namur-FH07;3199447;Namur;;;1.0;;NAMUR - FH07;2-2b boulevard cauchy 5000 Namur;0715;Boulevard Cauchy;2.0;;
+145110;W01-C-Namur-FH07;3200442;Namur;;;1.0;;NAMUR - FH07;;0702;Rue Courtenay;20.0;;
+145184;W01-C-Namur-FH07;3201250;Namur;;;1.0;;NAMUR - FH07;1a rue delvaux 5000 Namur;0714;Rue Delvaux;1.0;A;
+145186;W01-C-Namur-FH07;3201253;Namur;;;1.0;;NAMUR - FH07;;0714;Rue Delvaux;5.0;;
+145188;W01-C-Namur-FH07;3201255;Namur;;;1.0;;NAMUR - FH07;7 Rue delvaux 5000 Namur;0714;Rue Delvaux;7.0;;
+145192;W01-C-Namur-FH07;3201259;Namur;;;1.0;;NAMUR - FH07;;0714;Rue Delvaux;11.0;;
+145199;W01-C-Namur-FH07;3201269;Namur;;;1.0;;NAMUR - FH07;;0713;Rue Delvaux;32.0;;
+145225;W01-C-Namur-FH07;3201479;Namur;;;1.0;;NAMUR - FH07;48 Rue Dewez 5000 Namur (Zodiaque);0715;Rue Dewez;48.0;;
+145233;W01-C-Namur-FH07;3202591;Namur;;1.0;1.0;1.0;NAMUR - FH07;;0706;Rue de lEtoile;4.0;;
+145241;W01-C-Namur-FH07;3202662;Namur;;;1.0;;NAMUR - FH07;1 Rue de fer;0710;Rue de Fer;1.0;;
+145243;W01-C-Namur-FH07;3202664;Namur;;;1.0;;NAMUR - FH07;5 rue de fer;0710;Rue de Fer;5.0;;
+145244;W01-C-Namur-FH07;3202665;Namur;;;1.0;;NAMUR - FH07;;0710;Rue de Fer;7.0;;
+145247;W01-C-Namur-FH07;3202668;Namur;;;1.0;;NAMUR - FH07;Rue de fer 11;0710;Rue de Fer;11.0;;
+145257;W01-C-Namur-FH07;3202679;Namur;;1.0;1.0;1.0;NAMUR - FH07;;0709;Rue de Fer;26.0;;
+145258;W01-C-Namur-FH07;3202680;Namur;;;1.0;;NAMUR - FH07;27 rue de fer;0710;Rue de Fer;27.0;;
+145260;W01-C-Namur-FH07;3202682;Namur;;;1.0;;NAMUR - FH07;31 rue de fer;0710;Rue de Fer;31.0;;
+145262;W01-C-Namur-FH07;3202684;Namur;1.0;;1.0;;NAMUR - FH07;;0710;Rue de Fer;33.0;;
+145266;W01-C-Namur-FH07;3202690;Namur;;;1.0;;NAMUR - FH07;41 rue de fer;0710;Rue de Fer;41.0;;
+145268;W01-C-Namur-FH07;3202692;Namur;;;1.0;;NAMUR - FH07;43 Rue de fer 5000 Namur;0710;Rue de Fer;43.0;;
+145269;W01-C-Namur-FH07;3202693;Namur;;;1.0;;NAMUR - FH07;45/47 Rue de fer;0710;Rue de Fer;45.0;;
+145271;W01-C-Namur-FH07;3202696;Namur;;;1.0;;NAMUR - FH07;51 rue de fer;0710;Rue de Fer;51.0;;
+145284;W01-C-Namur-FH07;3202711;Namur;;;1.0;;NAMUR - FH07;;0710;Rue de Fer;71.0;;
+145290;W01-C-Namur-FH07;3202719;Namur;;;1.0;;NAMUR - FH07;;0718;Rue de Fer;80.0;;
+145293;W01-C-Namur-FH07;3202723;Namur;;;1.0;;NAMUR - FH07;;0718;Rue de Fer;86.0;;
+145295;W01-C-Namur-FH07;3202725;Namur;;;1.0;;NAMUR - FH07;;0718;Rue de Fer;88.0;;
+145306;W01-C-Namur-FH07;3202739;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;117.0;;
+145307;W01-C-Namur-FH07;3202740;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;119.0;;
+145311;W01-C-Namur-FH07;3202744;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;127.0;;
+145312;W01-C-Namur-FH07;3202745;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;129.0;;
+145313;W01-C-Namur-FH07;3202746;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;131.0;;
+145326;W01-C-Namur-FH07;3203287;Namur;;;1.0;;NAMUR - FH07;20 rue galliot;0716;Rue Galliot;20.0;;
+145327;W01-C-Namur-FH07;3203288;Namur;;;1.0;;NAMUR - FH07;22 rue galliot 5000 Namur;0716;Rue Galliot;22.0;;
+145345;W01-C-Namur-FH07;3203330;Namur;;1.0;1.0;1.0;NAMUR - FH07;;0720;Passage de la Gare;11.0;;
+145358;W01-C-Namur-FH07;3203658;Namur;;;1.0;;NAMUR - FH07;;0722;Rue Godefroid;19.0;;
+145368;W01-C-Namur-FH07;3203669;Namur;;;1.0;;NAMUR - FH07;;0722;Rue Godefroid;31.0;;
+145369;W01-C-Namur-FH07;3203670;Namur;;;1.0;;NAMUR - FH07;;0721;Rue Godefroid;32.0;;
+145399;W01-C-Namur-FH07;3204569;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de lInquitude;9.0;;
+145409;W01-C-Namur-FH07;3205236;Namur;1.0;1.0;1.0;1.0;NAMUR - FH07;bÃ¢timent de la rÃ©gion Walonne;0716;Place Leopold;3.0;;
+145443;W01-C-Namur-FH07;3207088;Namur;;;1.0;;NAMUR - FH07;;0722;Boulevard Ernest Melot;18.0;;
+145453;W01-C-Namur-FH07;3207284;Namur;;;1.0;;NAMUR - FH07;33 Rue gÃ©nÃ©ral Michel;0713;Rue General Michel;33.0;;
+145461;W01-C-Namur-FH07;3207398;Namur;;;1.0;;NAMUR - FH07;;0718;Rue Moncrabeau;10.0;;
+145468;W01-C-Namur-FH07;3207628;Namur;;;1.0;;NAMUR - FH07;;0711;Rue Lucien Namiche;6.0;;
+145472;W01-C-Namur-FH07;3207632;Namur;;;1.0;;NAMUR - FH07;;0711;Rue Lucien Nameche;12.0;;
+145480;W01-C-Namur-FH07;3207644;Namur;;;1.0;;NAMUR - FH07;34 Rue Lucien NamÃªche 5000 Namur;0714;Rue Lucien Nameche;34.0;;
+145487;W01-C-Namur-FH07;3207651;Namur;;;1.0;;NAMUR - FH07;41 Rue Lucien NamÃªche 5000 Namur;0716;Rue Lucien Nameche;41.0;;
+145493;W01-C-Namur-FH07;3207657;Namur;;;1.0;;NAMUR - FH07;47 Rue Lucien NamÃªche 5000 Namur;0716;Rue Lucien Nameche;47.0;;
+145524;W01-C-Namur-FH07;3208311;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;18.0;;
+145525;W01-C-Namur-FH07;3208312;Namur;;;1.0;;NAMUR - FH07;20 rue pÃ©pin 5000 Namur;0706;Rue Pepin;20.0;;D
+145526;W01-C-Namur-FH07;3208313;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;22.0;;
+145531;W01-C-Namur-FH07;3208318;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;34.0;;
+145532;W01-C-Namur-FH07;3208319;Namur;;;1.0;;NAMUR - FH07;;0711;Rue Pepin;37.0;;D
+145533;W01-C-Namur-FH07;3208320;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;38.0;;
+145537;W01-C-Namur-FH07;3208324;Namur;;;1.0;;NAMUR - FH07;;0706;Rue Pepin;42.0;;
+145562;W01-C-Namur-FH07;3209235;Namur;;;1.0;;NAMUR - FH07;;0718;Rue Rogier;28.0;;
+145564;W01-C-Namur-FH07;3209238;Namur;;;1.0;;NAMUR - FH07;;0718;Rue Rogier;30.0;;
+145616;W01-C-Namur-FH07;3209299;Namur;;;1.0;;NAMUR - FH07;109 rue rogier;0712;Rue Rogier;109.0;;
+145626;W01-C-Namur-FH07;3210426;Namur;;;1.0;;NAMUR - FH07;;0710;Rue Saint-Jacques;28.0;;
+145670;W01-C-Namur-FH07;3210610;Namur;;;1.0;;NAMUR - FH07;;0705;Rue Saint-Nicolas;24.0;;
+145777;W01-C-Namur-FH07;3945522;Namur;;;1.0;;NAMUR - FH07;4 Rue des dames blanches 5000 namur;0717;Rue des Dames Blanches;4.0;;
+145790;W01-C-Namur-FH07;4023373;Namur;;;1.0;;NAMUR - FH07;29 rue de fer;0710;Rue de Fer;29.0;;
+145796;W01-C-Namur-FH07;4060621;Namur;;;1.0;;NAMUR - FH07;12 Rue des dames blanches 5000 namur;0717;Rue des Dames Blanches;12.0;;
+145800;W01-C-Namur-FH07;4072890;Namur;;;1.0;;NAMUR - FH07;;0702;Rue Courtenay;14.0;;
+145804;W01-C-Namur-FH07;4131642;Namur;;;1.0;;NAMUR - FH07;;0720;Rue des Croisiers;50.0;;
+145808;W01-C-Namur-FH07;4131881;Namur;;;1.0;;NAMUR - FH07;;0722;Boulevard Ernest Melot;14.0;;
+145809;W01-C-Namur-FH07;4131980;Namur;;;1.0;;NAMUR - FH07;17 rue du lombard 5000 Namur;0706;Rue du Lombard;17.0;;
+145842;W01-C-Namur-FH07;5147134;Namur;;;1.0;;NAMUR - FH07;;0710;Rue Saint-Jacques;10.0;;
+145871;W01-C-Namur-FH07;5148739;Namur;;;1.0;;NAMUR - FH07;;0720;Rue de Fer;137.0;;
+145966;W01-C-Namur-FH07;752513;Namur;;;1.0;;NAMUR - FH07;18 Rue delvaux 5000 Namur;0713;Rue Delvaux;18.0;;
+153738;W01-C-Roeselare-FH03;1254999;Roeselare;;;1.0;;ROESELARE - FH03;;BL0302;Wilgenstraat;11.0;;
+153797;W01-C-Roeselare-FH03;1255066;Roeselare;;;1.0;;ROESELARE - FH03;;BL0307;Jozef De Meesterstraat;23.0;;
+153829;W01-C-Roeselare-FH03;1255099;Roeselare;;;1.0;;ROESELARE - FH03;;BL0309;Rijselstraat;9.0;;
+153883;W01-C-Roeselare-FH03;3414559;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0315;Damberdstraat;39.0;;
+153907;W01-C-Roeselare-FH03;3414593;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Delaerestraat;37.0;;
+153909;W01-C-Roeselare-FH03;3414595;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Delaerestraat;41.0;;
+154115;W01-C-Roeselare-FH03;3417801;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Ooststraat;144.0;;
+154191;W01-C-Roeselare-FH03;3418663;Roeselare;;;1.0;;ROESELARE - FH03;;BL0324;Sint-Alfonsusstraat;36.0;;
+154228;W01-C-Roeselare-FH03;3419386;Roeselare;;;1.0;;ROESELARE - FH03;;BL0312;Verwerijstraat;24.0;;
+154294;W01-C-Roeselare-FH03;3420214;Roeselare;;;1.0;;ROESELARE - FH03;;BL0320;Zuidstraat;55.0;;
+154322;W01-C-Roeselare-FH03;3994271;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0302;Wilgenstraat;25.0;;
+154490;W01-C-Roeselare-FH03;4368514;Roeselare;;;1.0;;ROESELARE - FH03;;BL0311;Zuidstraat;48.0;;
+154561;W01-C-Roeselare-FH03;532106;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0318;Rumbeeksesteenweg;76.0;;
+154581;W01-C-Roeselare-FH03;5398689;Roeselare;;;1.0;;ROESELARE - FH03;;BL0326;Delaerestraat;33.0;;
+154689;W01-C-Roeselare-FH03;876504;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0317;Damberdstraat;30.0;;
+154830;W01-C-Roeselare-FH03;877138;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0309;Dokter Delbekestraat;27.0;;
+154835;W01-C-Roeselare-FH03;877323;Roeselare;;;1.0;1.0;ROESELARE - FH03;;BL0302;Wilgenstraat;27.0;;
+154867;W01-C-Roeselare-FH03;877520;Roeselare;;;1.0;;ROESELARE - FH03;;BL0313;Verwerijstraat;1.0;;
+156222;W01-C-Roeselare-FH04;6059681;Roeselare;;1.0;1.0;;ROESELARE - FH04;;BL0429;Mandellaan;20.0;;
+156604;W01-C-Roeselare-FH05;18649;Roeselare;1.0;;1.0;;ROESELARE - FH05;;BL0502;Heilig-Hartstraat;51.0;;
+156699;W01-C-Roeselare-FH05;3414980;Roeselare;;;1.0;;ROESELARE - FH05;;BL0521;Guido Gezellelaan;25.0;;
+156707;W01-C-Roeselare-FH05;3415196;Roeselare;1.0;1.0;1.0;;ROESELARE - FH05;;BL0510;Gulden-Sporenstraat;6.0;;
+156711;W01-C-Roeselare-FH05;3415201;Roeselare;1.0;;1.0;;ROESELARE - FH05;;BL0510;Gulden-Sporenstraat;18.0;;
+157018;W01-C-Roeselare-FH05;3419711;Roeselare;1.0;1.0;1.0;;ROESELARE - FH05;;BL0506;Wallemeers;29.0;;
+157322;W01-C-Roeselare-FH05;5580470;Roeselare;;;1.0;;ROESELARE - FH05;;BL0518;Leliestraat;63.0;;
+157385;W01-C-Roeselare-FH05;866508;Roeselare;;;1.0;;ROESELARE - FH05;;BL0501;Meenseheirweg;36.0;;
+169714;W02-D-Hasselt-FH01;2437119;Hasselt;;;1.0;;HASSELT - FH01;;BL0106;Runkstersteenweg;134.0;;
+170080;W02-D-Hasselt-FH01;5431532;Hasselt;;;1.0;;HASSELT - FH01;;BL0109;Boomkensstraat;63.0;B;
+170109;W02-D-Hasselt-FH01;653662;Hasselt;;;1.0;;HASSELT - FH01;;BL0114;de Schiervellaan;7.0;;
+170307;W02-D-Hasselt-FH02;1113726;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kolonel Dusartplein;16.0;;
+170314;W02-D-Hasselt-FH02;1143121;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;60.0;;
+170328;W02-D-Hasselt-FH02;1313084;Hasselt;;;1.0;;Test Hasselt - FH02;;;Botermarkt;9.0;;
+170388;W02-D-Hasselt-FH02;2407837;Hasselt;;;1.0;;Test Hasselt - FH02;;;Koning Albertstraat;28.0;;
+170396;W02-D-Hasselt-FH02;2407844;Hasselt;;;1.0;;Test Hasselt - FH02;;;Koning Albertstraat;35.0;;
+170452;W02-D-Hasselt-FH02;2407928;Hasselt;;;1.0;;Test Hasselt - FH02;;;Aldestraat;18.0;;
+170504;W02-D-Hasselt-FH02;2408322;Hasselt;;;1.0;;Test Hasselt - FH02;testversie;;Badderijstraat;12.0;;
+170706;W02-D-Hasselt-FH02;2412876;Hasselt;;;1.0;1.0;Test Hasselt - FH02;;;Demerstraat;92.0;;
+170710;W02-D-Hasselt-FH02;2412881;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;94.0;;
+170712;W02-D-Hasselt-FH02;2412883;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;95.0;;
+170724;W02-D-Hasselt-FH02;2413109;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;6.0;;
+170728;W02-D-Hasselt-FH02;2413113;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;8.0;;
+170734;W02-D-Hasselt-FH02;2413117;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;11.0;;
+170868;W02-D-Hasselt-FH02;2416578;Hasselt;;;1.0;;Test Hasselt - FH02;;;Guffenslaan;12.0;;
+170890;W02-D-Hasselt-FH02;2416644;Hasselt;;;1.0;;Test Hasselt - FH02;;;Guffenslaan;70.0;;
+170944;W02-D-Hasselt-FH02;2417688;Hasselt;;;1.0;;Test Hasselt - FH02;;;Hemelrijk;4.0;;
+170959;W02-D-Hasselt-FH02;2417700;Hasselt;;;1.0;;Test Hasselt - FH02;;;Hemelrijk;16.0;;
+170981;W02-D-Hasselt-FH02;2418506;Hasselt;;;1.0;;Test Hasselt - FH02;;;Hoogstraat;6.0;;
+171017;W02-D-Hasselt-FH02;2419544;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;4.0;;
+171019;W02-D-Hasselt-FH02;2419548;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;5.0;;
+171027;W02-D-Hasselt-FH02;2419556;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;9.0;;
+171033;W02-D-Hasselt-FH02;2419564;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;13.0;;
+171063;W02-D-Hasselt-FH02;2419601;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;37.0;;
+171152;W02-D-Hasselt-FH02;2426990;Hasselt;;;1.0;;Test Hasselt - FH02;;;Maastrichterstraat;44.0;;
+171254;W02-D-Hasselt-FH02;2429603;Hasselt;;;1.0;;Test Hasselt - FH02;;;Minderbroedersstraat;6.0;;
+171264;W02-D-Hasselt-FH02;2429618;Hasselt;;;1.0;;Test Hasselt - FH02;;;Minderbroedersstraat;13.0;;
+171333;W02-D-Hasselt-FH02;2433970;Hasselt;;;1.0;;Test Hasselt - FH02;;;Persoonstraat;20.0;;
+171343;W02-D-Hasselt-FH02;2434503;Hasselt;;;1.0;;Test Hasselt - FH02;;;Ridder Portmansstraat;12.0;;
+171396;W02-D-Hasselt-FH02;2438613;Hasselt;;;1.0;;Test Hasselt - FH02;;;Schrijnwerkersstraat;8.0;;
+171484;W02-D-Hasselt-FH02;2447883;Hasselt;;;1.0;;Test Hasselt - FH02;;;Dokter Willemsstraat;4.0;;
+171488;W02-D-Hasselt-FH02;2447887;Hasselt;;;1.0;;Test Hasselt - FH02;;;Dokter Willemsstraat;6.0;;
+171498;W02-D-Hasselt-FH02;2447897;Hasselt;;;1.0;;Test Hasselt - FH02;;;Dokter Willemsstraat;14.0;;
+171509;W02-D-Hasselt-FH02;2448098;Hasselt;;;1.0;;Test Hasselt - FH02;;;Witte-Nonnenstraat;10.0;B;
+171608;W02-D-Hasselt-FH02;3937486;Hasselt;;;1.0;;Test Hasselt - FH02;;;Lombaardstraat;40.0;;
+171638;W02-D-Hasselt-FH02;3937727;Hasselt;;;1.0;;Test Hasselt - FH02;;;Witte-Nonnenstraat;10.0;A;
+171708;W02-D-Hasselt-FH02;4846446;Hasselt;;;1.0;1.0;Test Hasselt - FH02;;;Thonissenlaan;81.0;;
+171713;W02-D-Hasselt-FH02;4846479;Hasselt;;;1.0;;Test Hasselt - FH02;;;Bonnefantenstraat;22.0;;
+171740;W02-D-Hasselt-FH02;4846835;Hasselt;;;1.0;;Test Hasselt - FH02;;;Witte-Nonnenstraat;3.0;;
+171750;W02-D-Hasselt-FH02;4846915;Hasselt;;;1.0;;Test Hasselt - FH02;;;Minderbroedersstraat;4.0;;
+171766;W02-D-Hasselt-FH02;4847068;Hasselt;;;1.0;;Test Hasselt - FH02;;;Demerstraat;44.0;;
+171782;W02-D-Hasselt-FH02;4853125;Hasselt;;;1.0;;Test Hasselt - FH02;;;Ridderstraat;14.0;;
+171861;W02-D-Hasselt-FH02;5313879;Hasselt;;;1.0;;Test Hasselt - FH02;;;Witte-Nonnenstraat;20.0;D;
+171872;W02-D-Hasselt-FH02;5402641;Hasselt;;;1.0;;Test Hasselt - FH02;;;Witte-Nonnenstraat;20.0;C;
+171884;W02-D-Hasselt-FH02;5446607;Hasselt;;;1.0;;Test Hasselt - FH02;;;Capucienenstraat;17.0;;
+171886;W02-D-Hasselt-FH02;5446608;Hasselt;;;1.0;1.0;Test Hasselt - FH02;;;Demerstraat;90.0;;
+171907;W02-D-Hasselt-FH02;5944954;Hasselt;;;1.0;;Test Hasselt - FH02;;;Cellebroedersstraat;11.0;A;
+172047;W02-D-Hasselt-FH02;655680;Hasselt;;;1.0;;Test Hasselt - FH02;;;Ridder Portmansstraat;14.0;;
+172188;W02-D-Hasselt-FH02;677173;Hasselt;;;1.0;;Test Hasselt - FH02;;;Kapelstraat;12.0;;
+172196;W02-D-Hasselt-FH02;677177;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;2.0;;
+172225;W02-D-Hasselt-FH02;677199;Hasselt;;;1.0;;Test Hasselt - FH02;;;Havermarkt;23.0;;
+172247;W02-D-Hasselt-FH02;677216;Hasselt;;;1.0;;Test Hasselt - FH02;;;de Schiervellaan;4.0;;
+172261;W02-D-Hasselt-FH02;69185;Hasselt;;;1.0;;Test Hasselt - FH02;;;Bonnefantenstraat;20.0;;
+172290;W02-D-Hasselt-FH02;70206;Hasselt;;;1.0;;Test Hasselt - FH02;;;Zuivelmarkt;62.0;;
+172371;W02-D-Hasselt-FH02;70270;Hasselt;;;1.0;;Test Hasselt - FH02;;;Isabellastraat;68.0;;
+172425;W02-D-Hasselt-FH02;70317;Hasselt;;;1.0;;Test Hasselt - FH02;;;Lombaardstraat;4.0;;
+172515;W02-D-Hasselt-FH02;71865;Hasselt;;;1.0;;Test Hasselt - FH02;;;Diesterstraat;1.0;;
+174178;W02-D-Leuven-FH01;1186845;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 202 en 200;BL0012;Tiensestraat;200.0;;
+174206;W02-D-Leuven-FH01;1186898;Leuven;;;1.0;;LEUVEN - FH01;NR 190 188 en 166;BL0010;Tiensevest;188.0;;
+174218;W02-D-Leuven-FH01;1270415;Leuven;;;1.0;;LEUVEN - FH01;;BL0009;Dagobertstraat;52.0;;
+174257;W02-D-Leuven-FH01;3010388;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0006;Blijde-Inkomststraat;31.0;A;
+174277;W02-D-Leuven-FH01;3010446;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0007;Blijde-Inkomststraat;80.0;;
+174351;W02-D-Leuven-FH01;3013459;Leuven;;;1.0;1.0;LEUVEN - FH01;5 7 en 9;BL0007;Burgemeestersstraat;5.0;;
+174359;W02-D-Leuven-FH01;3013482;Leuven;;;1.0;;LEUVEN - FH01;;BL0006;Burgemeestersstraat;25.0;;
+174362;W02-D-Leuven-FH01;3013491;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Burgemeestersstraat;32.0;;E
+174365;W02-D-Leuven-FH01;3013499;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Burgemeestersstraat;42.0;;
+174367;W02-D-Leuven-FH01;3014194;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Dagobertstraat;5.0;;
+174369;W02-D-Leuven-FH01;3014197;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Dagobertstraat;7.0;;
+174371;W02-D-Leuven-FH01;3014199;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Dagobertstraat;9.0;;
+174470;W02-D-Leuven-FH01;3029196;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0006;Maria-Theresiastraat;12.0;;
+174581;W02-D-Leuven-FH01;3046991;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 185 187 189 en 191;BL0010;Tiensestraat;185.0;;
+174584;W02-D-Leuven-FH01;3046998;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 185 187 189 en 191;BL0010;Tiensestraat;191.0;;
+174611;W02-D-Leuven-FH01;3047044;Leuven;;;1.0;;LEUVEN - FH01;Nr 237 en A Nr 239 en A;BL0010;Tiensestraat;237.0;;
+174618;W02-D-Leuven-FH01;3047057;Leuven;;;1.0;;LEUVEN - FH01;;BL0012;Tiensestraat;252.0;;
+174624;W02-D-Leuven-FH01;3047066;Leuven;;;1.0;;LEUVEN - FH01;;BL0010;Tiensestraat;259.0;;
+174631;W02-D-Leuven-FH01;3047078;Leuven;;;1.0;;LEUVEN - FH01;Building Group;BL0010;Tiensestraat;269.0;;
+174632;W02-D-Leuven-FH01;3047083;Leuven;;;1.0;;LEUVEN - FH01;Building Group;BL0010;Tiensestraat;271.0;;
+174633;W02-D-Leuven-FH01;3047085;Leuven;;;1.0;;LEUVEN - FH01;Building Group;BL0010;Tiensestraat;273.0;;
+174686;W02-D-Leuven-FH01;3053562;Leuven;;;1.0;;LEUVEN - FH01;Nr 5en7;BL0017;Windmolenveldstraat;7.0;;
+174702;W02-D-Leuven-FH01;3053593;Leuven;;;1.0;1.0;LEUVEN - FH01;Nr 70  en 72;BL0011;Windmolenveldstraat;72.0;;
+174729;W02-D-Leuven-FH01;3923585;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Dagobertstraat;20.0;;
+174749;W02-D-Leuven-FH01;3941307;Leuven;;;1.0;1.0;LEUVEN - FH01;The Village;BL0009;Mathildegang;16.0;;
+174763;W02-D-Leuven-FH01;3941618;Leuven;;;1.0;;LEUVEN - FH01;Nr 5en7;BL0017;Windmolenveldstraat;5.0;;
+174814;W02-D-Leuven-FH01;4026436;Leuven;1.0;;1.0;;LEUVEN - FH01;;BL0006;Burgemeestersstraat;23.0;;
+174862;W02-D-Leuven-FH01;475321;Leuven;;;1.0;1.0;LEUVEN - FH01;14 en 16;BL0009;Mathildegang;14.0;;
+174985;W02-D-Leuven-FH01;4799458;Leuven;;;1.0;1.0;LEUVEN - FH01;5 7 en 9;BL0007;Burgemeestersstraat;7.0;;
+174988;W02-D-Leuven-FH01;4799468;Leuven;;;1.0;1.0;LEUVEN - FH01;Hr 185 187 189 en 191;BL0010;Tiensestraat;187.0;;
+175054;W02-D-Leuven-FH01;5307145;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;11.0;;
+175071;W02-D-Leuven-FH01;5467738;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;7.0;;
+175075;W02-D-Leuven-FH01;5504940;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;5.0;;
+175076;W02-D-Leuven-FH01;5504941;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;9.0;;
+175077;W02-D-Leuven-FH01;5541203;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;13.0;;
+175079;W02-D-Leuven-FH01;5547314;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Mathildegang;15.0;;
+175080;W02-D-Leuven-FH01;5602410;Leuven;1.0;;1.0;1.0;LEUVEN - FH01;;BL0002;Bogaardenstraat;36.0;;
+175082;W02-D-Leuven-FH01;5602518;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;1.0;;
+175083;W02-D-Leuven-FH01;5703225;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Arnould Nobelstraat;44.0;;
+175084;W02-D-Leuven-FH01;5705604;Leuven;;;1.0;1.0;LEUVEN - FH01;Dagobertstraat 20;BL0009;Mathildegang;3.0;;
+175088;W02-D-Leuven-FH01;5732950;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Arnould Nobelstraat;32.0;;
+175093;W02-D-Leuven-FH01;5831803;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Mathildegang;18.0;;
+175095;W02-D-Leuven-FH01;5906630;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0009;Mathildegang;19.0;;
+175100;W02-D-Leuven-FH01;6134070;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0006;Blijde-Inkomststraat;31.0;C;
+175105;W02-D-Leuven-FH01;6138799;Leuven;;;1.0;1.0;LEUVEN - FH01;;BL0008;Justus Lipsiusstraat;46.0;C;
+175124;W02-D-Leuven-FH02;1066899;Leuven;;;1.0;1.0;LEUVEN - FH02;;BL0012;Schrijnmakersstraat;8.0;;
+175169;W02-D-Leuven-FH02;1100193;Leuven;;;1.0;;LEUVEN - FH02;;BL0030;Rattemanspoort;10.0;;
+175272;W02-D-Leuven-FH02;1522780;Leuven;;;1.0;1.0;LEUVEN - FH02;;BL0003;Brouwersstraat;7.0;;
+175656;W02-D-Leuven-FH02;3024374;Leuven;;;1.0;;LEUVEN - FH02;;BL0033;Kortestraat;10.0;;
+175968;W02-D-Leuven-FH02;3044997;Leuven;;;1.0;;LEUVEN - FH02;;BL0049;Sint-Michielsstraat;13.0;;
+175975;W02-D-Leuven-FH02;3046802;Leuven;;;1.0;;LEUVEN - FH02;;BL0046;Tiensestraat;12.0;;
+176068;W02-D-Leuven-FH02;3049361;Leuven;;;1.0;;LEUVEN - FH02;;BL0009;Karel van Lotharingenstraat;7.0;;
+176331;W02-D-Leuven-FH02;4222793;Leuven;;;1.0;;LEUVEN - FH02;;BL0033;Kortestraat;12.0;;
+176342;W02-D-Leuven-FH02;4255358;Leuven;;;1.0;;LEUVEN - FH02;;BL0012;Schrijnmakersstraat;18.0;;
+176390;W02-D-Leuven-FH02;4788337;Leuven;;;1.0;;LEUVEN - FH02;;BL0008;Craenendonck;6.0;;
+176618;W02-D-Leuven-FH02;6466111;Leuven;;;1.0;;LEUVEN - FH02;;BL0033;Brusselsestraat;3.0;C;
+178252;W02-D-Liege-FH01;1309692;Liège;;;1.0;;LIÃGE - FH01;23 rue de la Casquette 4000 LiÃ¨ge;0111;Rue de la Casquette;23.0;;D
+178259;W02-D-Liege-FH01;1356492;Liège;;;1.0;;LIÃGE - FH01;;0129;Mont Saint-Martin;89.0;;
+178264;W02-D-Liege-FH01;1366858;Liège;;;1.0;;LIÃGE - FH01;;0131;Thier de la Fontaine;89.0;;
+178271;W02-D-Liege-FH01;1475287;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;79.0;;
+178272;W02-D-Liege-FH01;1475889;Liège;;;1.0;;LIÃGE - FH01;;0106;Rue Pont dAvroy;10.0;;
+178273;W02-D-Liege-FH01;1477942;Liège;;;1.0;;LIÃGE - FH01;;0121;Rue Sur la Fontaine;87.0;;
+178278;W02-D-Liege-FH01;1505178;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;65.0;;
+178280;W02-D-Liege-FH01;1508512;Liège;;;1.0;;LIÃGE - FH01;4 Rue d'Amay 4000 LiÃ¨ge;0107;Rue dAmay;4.0;;
+178290;W02-D-Liege-FH01;2739061;Liège;;;1.0;;LIÃGE - FH01;1b Rue Lulay-Des-FÃ¨bvres 4000 LiÃ¨ge;0102;Rue Lulay des Febvres;1.0;B;
+178292;W02-D-Liege-FH01;2739069;Liège;;;1.0;;LIÃGE - FH01;5a Rue Lulay-Des-FÃ¨bvres 4000 LiÃ¨ge;0102;Rue Lulay des Febvres;5.0;A;
+178297;W02-D-Liege-FH01;2739113;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0101;Rue Lulay des Febvres;9.0;;
+178306;W02-D-Liege-FH01;2748166;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Leon Mignon;19.0;;
+178315;W02-D-Liege-FH01;2750916;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0126;Mont Saint-Martin;17.0;;
+178318;W02-D-Liege-FH01;2750975;Liège;;;1.0;;LIÃGE - FH01;;0127;Mont Saint-Martin;22.0;;
+178332;W02-D-Liege-FH01;2751114;Liège;;;1.0;;LIÃGE - FH01;;0127;Mont Saint-Martin;42.0;;
+178336;W02-D-Liege-FH01;2751145;Liège;;;1.0;;LIÃGE - FH01;;0127;Mont Saint-Martin;50.0;;
+178346;W02-D-Liege-FH01;2751259;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0126;Mont Saint-Martin;75.0;;
+178359;W02-D-Liege-FH01;2751455;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;63.0;;
+178373;W02-D-Liege-FH01;2754202;Liège;;;1.0;;LIÃGE - FH01;7 Rue du Mouton-Blanc 4000 LiÃ¨ge;0105;Rue du Mouton Blanc;7.0;;
+178375;W02-D-Liege-FH01;2754209;Liège;;;1.0;;LIÃGE - FH01;9 rue du mouton blanc;0105;Rue du Mouton Blanc;9.0;;D
+178378;W02-D-Liege-FH01;2754235;Liège;;;1.0;;LIÃGE - FH01;;0105;Rue du Mouton Blanc;13.0;A;
+178382;W02-D-Liege-FH01;2754285;Liège;;;1.0;;LIÃGE - FH01;;0105;Rue du Mouton Blanc;19.0;;
+178390;W02-D-Liege-FH01;2757918;Liège;;;1.0;;LIÃGE - FH01;;0117;Place Xavier Neujean;19.0;A;
+178392;W02-D-Liege-FH01;2757951;Liège;;1.0;1.0;1.0;LIÃGE - FH01;23-25 Place Xavier-Neujean 4000 LiÃ¨ge;0118;Place Xavier Neujean;23.0;;D
+178409;W02-D-Liege-FH01;2765871;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;28.0;;
+178411;W02-D-Liege-FH01;2765878;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;34.0;;
+178418;W02-D-Liege-FH01;2765920;Liège;;;1.0;;LIÃGE - FH01;;0102;Pont dIle;5.0;;
+178419;W02-D-Liege-FH01;2765926;Liège;;;1.0;;LIÃGE - FH01;7/9 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;9.0;;
+178421;W02-D-Liege-FH01;2765929;Liège;;;1.0;;LIÃGE - FH01;11 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;11.0;;
+178422;W02-D-Liege-FH01;2765931;Liège;;;1.0;;LIÃGE - FH01;;0102;Pont dIle;13.0;;
+178424;W02-D-Liege-FH01;2765936;Liège;;;1.0;;LIÃGE - FH01;15 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;15.0;;
+178428;W02-D-Liege-FH01;2765946;Liège;;;1.0;;LIÃGE - FH01;21 Rue Pont d'Ã®le 4000 LiÃ¨ge;0102;Pont dIle;21.0;;
+178432;W02-D-Liege-FH01;2765951;Liège;;;1.0;;LIÃGE - FH01;27/29 rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;27.0;;
+178436;W02-D-Liege-FH01;2765967;Liège;;;1.0;;LIÃGE - FH01;37 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;37.0;;
+178437;W02-D-Liege-FH01;2765970;Liège;;;1.0;;LIÃGE - FH01;39 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;39.0;;
+178440;W02-D-Liege-FH01;2765978;Liège;;;1.0;;LIÃGE - FH01;45 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;45.0;;
+178442;W02-D-Liege-FH01;2765985;Liège;;;1.0;;LIÃGE - FH01;47 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;47.0;;
+178444;W02-D-Liege-FH01;2765989;Liège;;;1.0;;LIÃGE - FH01;49 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;49.0;;
+178446;W02-D-Liege-FH01;2765994;Liège;;;1.0;;LIÃGE - FH01;51 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;51.0;;
+178448;W02-D-Liege-FH01;2766174;Liège;;;1.0;;LIÃGE - FH01;3 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;3.0;;
+178452;W02-D-Liege-FH01;2766181;Liège;;;1.0;;LIÃGE - FH01;7 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;7.0;;
+178453;W02-D-Liege-FH01;2766183;Liège;;;1.0;;LIÃGE - FH01;;0105;Rue du Pot dOr;9.0;;
+178455;W02-D-Liege-FH01;2766193;Liège;;;1.0;;LIÃGE - FH01;13 Rue du Pot d'or 4000 LiÃ¨ge;0105;Rue du Pot dOr;13.0;;
+178456;W02-D-Liege-FH01;2766195;Liège;;;1.0;;LIÃGE - FH01;14 Rue du Pot d'or 4000 Liege;0112;Rue du Pot dOr;14.0;;
+178462;W02-D-Liege-FH01;2766216;Liège;;;1.0;;LIÃGE - FH01;28 rue du Pot d'Or 4000 LiÃ¨ge;0111;Rue du Pot dOr;28.0;;
+178465;W02-D-Liege-FH01;2766224;Liège;;;1.0;;LIÃGE - FH01;;0106;Rue du Pot dOr;33.0;;
+178470;W02-D-Liege-FH01;2766236;Liège;;;1.0;;LIÃGE - FH01;;0110;Rue du Pot dOr;40.0;;
+178472;W02-D-Liege-FH01;2766242;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue du Pot dOr;43.0;;
+178496;W02-D-Liege-FH01;2777848;Liège;;;1.0;1.0;LIÃGE - FH01;37 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0119;Boulevard de la Sauveniere;37.0;;D
+178510;W02-D-Liege-FH01;2777908;Liège;;;1.0;;LIÃGE - FH01;74 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0129;Boulevard de la Sauveniere;74.0;;
+178512;W02-D-Liege-FH01;2777914;Liège;;;1.0;;LIÃGE - FH01;;0129;Boulevard de la Sauveniere;78.0;;
+178523;W02-D-Liege-FH01;2777964;Liège;;;1.0;;LIÃGE - FH01;;0129;Boulevard de la Sauveniere;96.0;;
+178524;W02-D-Liege-FH01;2777965;Liège;;;1.0;;LIÃGE - FH01;;0119;Boulevard de la Sauveniere;97.0;B;
+178525;W02-D-Liege-FH01;2777966;Liège;;;1.0;;LIÃGE - FH01;;0129;Boulevard de la Sauveniere;98.0;;
+178529;W02-D-Liege-FH01;2777977;Liège;;;1.0;;LIÃGE - FH01;105 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0118;Boulevard de la Sauveniere;105.0;;C
+178531;W02-D-Liege-FH01;2777979;Liège;;;1.0;;LIÃGE - FH01;;0118;Boulevard de la Sauveniere;109.0;;D
+178543;W02-D-Liege-FH01;2778006;Liège;;;1.0;;LIÃGE - FH01;125 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0109;Boulevard de la Sauveniere;125.0;;
+178545;W02-D-Liege-FH01;2778008;Liège;;;1.0;;LIÃGE - FH01;;0122;Boulevard de la Sauveniere;128.0;;
+178550;W02-D-Liege-FH01;2778024;Liège;;;1.0;;LIÃGE - FH01;;0108;Boulevard de la Sauveniere;139.0;;
+178558;W02-D-Liege-FH01;2778041;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;162.0;;
+178566;W02-D-Liege-FH01;2778050;Liège;;;1.0;;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;182.0;;
+178568;W02-D-Liege-FH01;2778052;Liège;;;1.0;;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;186.0;;
+178585;W02-D-Liege-FH01;2778118;Liège;;;1.0;;LIÃGE - FH01;;0124;Rue Haute Sauveniere;35.0;;
+178587;W02-D-Liege-FH01;2778123;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH01;;0124;Rue Haute Sauveniere;39.0;;
+178590;W02-D-Liege-FH01;2786559;Liège;;;1.0;;LIÃGE - FH01;5a Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;5.0;A;
+178594;W02-D-Liege-FH01;2786610;Liège;;1.0;1.0;1.0;LIÃGE - FH01;9 Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;9.0;A;A
+178599;W02-D-Liege-FH01;2786636;Liège;;;1.0;;LIÃGE - FH01;13 Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;13.0;;
+178601;W02-D-Liege-FH01;2786661;Liège;;;1.0;;LIÃGE - FH01;16 rue Saint Adalbert 4000 LiÃ¨ge;0111;Rue Saint Adalbert;16.0;;
+178609;W02-D-Liege-FH01;2789836;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH01;;0124;Rue Saint Hubert;7.0;;
+178627;W02-D-Liege-FH01;2791178;Liège;1.0;1.0;1.0;;LIÃGE - FH01;;0131;Rue Saint Laurent;59.0;;
+178632;W02-D-Liege-FH01;2796202;Liège;;1.0;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;20.0;;
+178634;W02-D-Liege-FH01;2796207;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;24.0;;
+178635;W02-D-Liege-FH01;2796210;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;26.0;;
+178639;W02-D-Liege-FH01;2796220;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;32.0;;
+178642;W02-D-Liege-FH01;2796226;Liège;;1.0;1.0;1.0;LIÃGE - FH01;36 rue Saint SÃ©verin 4000 LiÃ¨ge;0128;Rue Saint Severin;36.0;;C
+178643;W02-D-Liege-FH01;2796230;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;37.0;;
+178649;W02-D-Liege-FH01;2796254;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;47.0;;
+178675;W02-D-Liege-FH01;2796450;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;153.0;;
+178709;W02-D-Liege-FH01;2799312;Liège;;;1.0;;LIÃGE - FH01;;0129;Thier de la Fontaine;46.0;;
+178716;W02-D-Liege-FH01;2799347;Liège;;;1.0;;LIÃGE - FH01;;0131;Thier de la Fontaine;79.0;;
+178723;W02-D-Liege-FH01;2803170;Liège;;;1.0;;LIÃGE - FH01;8 Rue de l'universitÃ© 4000 LiÃ¨ge;0102;Rue de lUniversite;8.0;;
+178725;W02-D-Liege-FH01;2803179;Liège;;;1.0;;LIÃGE - FH01;12 Rue de l'UniversitÃ© 4000 LiÃ¨ge;0102;Rue de lUniversite;12.0;;D
+178731;W02-D-Liege-FH01;2803316;Liège;;;1.0;;LIÃGE - FH01;;0122;Rue des Urbanistes;6.0;;D
+178733;W02-D-Liege-FH01;2808121;Liège;;;1.0;;LIÃGE - FH01;4 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;4.0;;
+178735;W02-D-Liege-FH01;2808129;Liège;;;1.0;;LIÃGE - FH01;6 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;6.0;;
+178739;W02-D-Liege-FH01;2808137;Liège;;;1.0;;LIÃGE - FH01;12 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;12.0;;
+178744;W02-D-Liege-FH01;2808156;Liège;;;1.0;;LIÃGE - FH01;;0104;Vinave dIle;21.0;;
+178746;W02-D-Liege-FH01;2808171;Liège;;;1.0;;LIÃGE - FH01;25 rue VinÃ¢ve d'Ã®le 4000 LiÃ¨ge;0104;Vinave dIle;25.0;;
+178747;W02-D-Liege-FH01;2808172;Liège;;;1.0;;LIÃGE - FH01;26 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;26.0;;
+178748;W02-D-Liege-FH01;2808173;Liège;;;1.0;;LIÃGE - FH01;;0104;Vinave dIle;29.0;;
+178749;W02-D-Liege-FH01;2808176;Liège;;;1.0;;LIÃGE - FH01;32 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;32.0;;
+178753;W02-D-Liege-FH01;2808186;Liège;;;1.0;;LIÃGE - FH01;40 Rue Vinave D'Ã®le 4000 LiÃ¨ge;0105;Vinave dIle;40.0;;
+178755;W02-D-Liege-FH01;2841464;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue Saint-Jean-en-Isle;3.0;;
+178770;W02-D-Liege-FH01;2841521;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue Saint-Jean-en-Isle;21.0;;
+178775;W02-D-Liege-FH01;2841535;Liège;;;1.0;;LIÃGE - FH01;28 Rue Saint-Jean-En-Isle 4000 LiÃ¨ge;0110;Rue Saint-Jean-en-Isle;28.0;;
+178779;W02-D-Liege-FH01;2892;Liège;;;1.0;;LIÃGE - FH01;;0131;Rue Saint Laurent;5.0;;
+178782;W02-D-Liege-FH01;2916;Liège;;;1.0;1.0;LIÃGE - FH01;;0129;Rue Lonhienne;28.0;;
+178810;W02-D-Liege-FH01;3106265;Liège;;;1.0;;LIÃGE - FH01;10 Rue en Bergerue 4000 LiÃ¨ge;0112;Bergerue;10.0;;D
+178815;W02-D-Liege-FH01;3106288;Liège;;;1.0;;LIÃGE - FH01;18 Rue en Bergerue 4000 LiÃ¨ge;0112;Bergerue;18.0;;D
+178818;W02-D-Liege-FH01;3124404;Liège;;;1.0;;LIÃGE - FH01;6 rue de la Casquette 4000 LiÃ¨ge;0116;Rue de la Casquette;4.0;;D
+178823;W02-D-Liege-FH01;3124420;Liège;;;1.0;;LIÃGE - FH01;;0112;Rue de la Casquette;11.0;;
+178826;W02-D-Liege-FH01;3124430;Liège;;;1.0;;LIÃGE - FH01;;0117;Rue de la Casquette;16.0;;
+178827;W02-D-Liege-FH01;3124435;Liège;;;1.0;;LIÃGE - FH01;18 Rue de la Casquette 4000 LiÃ¨ge;0117;Rue de la Casquette;18.0;;D
+178828;W02-D-Liege-FH01;3124437;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue de la Casquette;19.0;B;
+178830;W02-D-Liege-FH01;3124441;Liège;;;1.0;;LIÃGE - FH01;;0111;Rue de la Casquette;21.0;;
+178842;W02-D-Liege-FH01;3124497;Liège;;;1.0;;LIÃGE - FH01;;0118;Rue de la Casquette;40.0;;
+178849;W02-D-Liege-FH01;3124727;Liège;;;1.0;;LIÃGE - FH01;;0101;Rue de la Cathedrale;92.0;;
+178851;W02-D-Liege-FH01;3124745;Liège;;;1.0;;LIÃGE - FH01;100 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;100.0;;
+178852;W02-D-Liege-FH01;3124747;Liège;;;1.0;;LIÃGE - FH01;102 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;102.0;;
+178853;W02-D-Liege-FH01;3124751;Liège;;;1.0;;LIÃGE - FH01;104 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;104.0;;
+178855;W02-D-Liege-FH01;3124763;Liège;;;1.0;;LIÃGE - FH01;108 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;108.0;;
+178856;W02-D-Liege-FH01;3124765;Liège;;;1.0;;LIÃGE - FH01;110 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;110.0;;
+178857;W02-D-Liege-FH01;3124768;Liège;;;1.0;;LIÃGE - FH01;112 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;112.0;;
+178881;W02-D-Liege-FH01;3136751;Liège;;;1.0;;LIÃGE - FH01;;0127;Degres des Tisserands;5.0;;
+178887;W02-D-Liege-FH01;3136763;Liège;;;1.0;;LIÃGE - FH01;;0127;Degres des Tisserands;17.0;;
+178903;W02-D-Liege-FH01;3138815;Liège;;;1.0;1.0;LIÃGE - FH01;;0116;Rue des Dominicains;4.0;B;
+178906;W02-D-Liege-FH01;3138819;Liège;;;1.0;;LIÃGE - FH01;;0114;Rue des Dominicains;5.0;;
+178913;W02-D-Liege-FH01;3138828;Liège;;;1.0;;LIÃGE - FH01;14 rue des Dominicains 4000 LiÃ¨ge;0113;Rue des Dominicains;14.0;;
+178946;W02-D-Liege-FH01;3151698;Liège;;;1.0;;LIÃGE - FH01;5 Rue SÃ©bastien-Laruelle 4000 LiÃ¨ge;0117;Rue Sebastien Laruelle;5.0;;D
+178955;W02-D-Liege-FH01;3153128;Liège;;;1.0;;LIÃGE - FH01;;0102;Passage Lemonnier;15.0;;
+178956;W02-D-Liege-FH01;3153129;Liège;;;1.0;;LIÃGE - FH01;14/16/18 Passage Lemonnier 4000 LiÃ¨ge;0101;Passage Lemonnier;16.0;;
+178961;W02-D-Liege-FH01;3153138;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;23.0;;
+178963;W02-D-Liege-FH01;3153141;Liège;;;1.0;;LIÃGE - FH01;30 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;30.0;;
+178966;W02-D-Liege-FH01;3153146;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;35.0;;
+178968;W02-D-Liege-FH01;3153152;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;39.0;;
+178969;W02-D-Liege-FH01;3153155;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;41.0;;
+178971;W02-D-Liege-FH01;3153159;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;43.0;;
+178972;W02-D-Liege-FH01;3153160;Liège;;;1.0;;LIÃGE - FH01;44/46 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;44.0;;
+178976;W02-D-Liege-FH01;3154601;Liège;;;1.0;;LIÃGE - FH01;;0122;Rue Lonhienne;5.0;;D
+178989;W02-D-Liege-FH01;4001252;Liège;;;1.0;;LIÃGE - FH01;;BL0130;Rue Monulphe;81.0;;
+179006;W02-D-Liege-FH01;4064939;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0107;Rue du Pot dOr;41.0;A;
+179014;W02-D-Liege-FH01;4129860;Liège;;;1.0;;LIÃGE - FH01;;0103;Passage Lemonnier;47.0;;
+179023;W02-D-Liege-FH01;4944437;Liège;;;1.0;;LIÃGE - FH01;32 Passage Lemonnier 4000 LiÃ¨ge;0104;Passage Lemonnier;32.0;;
+179026;W02-D-Liege-FH01;5176999;Liège;;;1.0;;LIÃGE - FH01;;0116;Place Xavier Neujean;7.0;;
+179029;W02-D-Liege-FH01;5177304;Liège;;;1.0;;LIÃGE - FH01;;0105;Vinave dIle;28.0;;
+179037;W02-D-Liege-FH01;5177355;Liège;;;1.0;;LIÃGE - FH01;;0114;Pont dIle;38.0;;
+179054;W02-D-Liege-FH01;5178114;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;165.0;;
+179056;W02-D-Liege-FH01;5178213;Liège;;;1.0;;LIÃGE - FH01;;0128;Rue Saint Severin;28.0;;
+179059;W02-D-Liege-FH01;5178282;Liège;1.0;;1.0;;LIÃGE - FH01;;0124;Rue Haute Sauveniere;11.0;;D
+179061;W02-D-Liege-FH01;5178310;Liège;;;1.0;;LIÃGE - FH01;;0125;Boulevard de la Sauveniere;48.0;;
+179071;W02-D-Liege-FH01;5179063;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;26.0;;
+179082;W02-D-Liege-FH01;5303799;Liège;;;1.0;;LIÃGE - FH01;5b Rue Saint-Adalbert 4000 LiÃ¨ge;0112;Rue Saint Adalbert;5.0;B;
+179102;W02-D-Liege-FH01;5343972;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue du Pot dOr;37.0;A;D
+179140;W02-D-Liege-FH01;6067560;Liège;;;1.0;;LIÃGE - FH01;;0118;Rue du Diamant;1.0;A;
+179148;W02-D-Liege-FH01;641698;Liège;;;1.0;;LIÃGE - FH01;123 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0109;Boulevard de la Sauveniere;123.0;;
+179150;W02-D-Liege-FH01;641700;Liège;;;1.0;;LIÃGE - FH01;;0121;Boulevard de la Sauveniere;188.0;;
+179157;W02-D-Liege-FH01;642003;Liège;;;1.0;;LIÃGE - FH01;82-84-86 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0129;Boulevard de la Sauveniere;84.0;;
+179183;W02-D-Liege-FH01;642813;Liège;;;1.0;;LIÃGE - FH01;12 Rue du Pot d'or 4000 LiÃ¨ge;0112;Rue du Pot dOr;12.0;;
+179194;W02-D-Liege-FH01;642828;Liège;;;1.0;;LIÃGE - FH01;;0105;Vinave dIle;2.0;;
+179196;W02-D-Liege-FH01;642831;Liège;;;1.0;;LIÃGE - FH01;4 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;4.0;;
+179197;W02-D-Liege-FH01;642832;Liège;;;1.0;;LIÃGE - FH01;2 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;2.0;;
+179198;W02-D-Liege-FH01;642833;Liège;;;1.0;;LIÃGE - FH01;10 Place de la CathÃ©drale 4000 LiÃ¨ge;0105;Place de la Cathedrale;10.0;;
+179204;W02-D-Liege-FH01;642844;Liège;;;1.0;;LIÃGE - FH01;18 rue Saint Adalbert 4000 LiÃ¨ge;0111;Rue Saint Adalbert;18.0;;
+179213;W02-D-Liege-FH01;642893;Liège;;;1.0;;LIÃGE - FH01;;0118;Place Xavier Neujean;39.0;;D
+179214;W02-D-Liege-FH01;642895;Liège;;;1.0;;LIÃGE - FH01;;0118;Place Xavier Neujean;35.0;;
+179227;W02-D-Liege-FH01;642921;Liège;;;1.0;;LIÃGE - FH01;;0107;Rue Pont dAvroy;36.0;;
+179234;W02-D-Liege-FH01;642930;Liège;;;1.0;;LIÃGE - FH01;;0110;Rue du Pot dOr;32.0;;
+179246;W02-D-Liege-FH01;642958;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;123.0;;
+179247;W02-D-Liege-FH01;642959;Liège;;;1.0;;LIÃGE - FH01;;0127;Rue Saint Severin;175.0;;
+179253;W02-D-Liege-FH01;642996;Liège;;;1.0;1.0;LIÃGE - FH01;;0120;Rue Hamal;2.0;;
+179260;W02-D-Liege-FH01;643004;Liège;;;1.0;;LIÃGE - FH01;2 Boulevard de la SauveniÃ¨re 4000 LiÃ¨ge;0123;Boulevard de la Sauveniere;2.0;;
+179262;W02-D-Liege-FH01;643006;Liège;;;1.0;;LIÃGE - FH01;;0123;Place Verte;2.0;;D
+179268;W02-D-Liege-FH01;645475;Liège;;1.0;1.0;1.0;LIÃGE - FH01;;0126;Mont Saint-Martin;69.0;;
+179277;W02-D-Liege-FH01;645487;Liège;;;1.0;;LIÃGE - FH01;;0126;Mont Saint-Martin;59.0;;
+179281;W02-D-Liege-FH01;646545;Liège;;;1.0;;LIÃGE - FH01;;0102;Passage Lemonnier;19.0;B;
+179283;W02-D-Liege-FH01;646556;Liège;;;1.0;;LIÃGE - FH01;1/3 VinÃ¢ve d'Ã®le 4000 LiÃ¨ge;0103;Vinave dIle;1.0;;
+179284;W02-D-Liege-FH01;646561;Liège;;;1.0;;LIÃGE - FH01;22 rue Lulay-Des-Febvres 4000 LiÃ¨ge;0104;Rue Lulay des Febvres;22.0;;
+179285;W02-D-Liege-FH01;646573;Liège;;;1.0;;LIÃGE - FH01;4 Rue Lulay-Des-Febvres 4000 LiÃ¨ge;0103;Rue Lulay des Febvres;4.0;;D
+179296;W02-D-Liege-FH01;646612;Liège;;;1.0;;LIÃGE - FH01;;0106;Rue du Pot dOr;35.0;;
+179299;W02-D-Liege-FH01;646615;Liège;;;1.0;;LIÃGE - FH01;57 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;57.0;;
+179301;W02-D-Liege-FH01;646617;Liège;;;1.0;;LIÃGE - FH01;1-4 Rue de l'universitÃ© 4000 LiÃ¨ge;0102;Pont dIle;1.0;;
+179302;W02-D-Liege-FH01;646618;Liège;;;1.0;;LIÃGE - FH01;25 Rue du Pont D'Ã®le 4000 LiÃ¨ge;0103;Pont dIle;25.0;;
+179303;W02-D-Liege-FH01;646619;Liège;;;1.0;;LIÃGE - FH01;80 rue de la CathÃ©drale 4000 LiÃ¨ge;0101;Rue de la Cathedrale;80.0;;
+179304;W02-D-Liege-FH01;646620;Liège;;;1.0;;LIÃGE - FH01;94 rue de la CathÃ©drale 4000 LiÃ¨ge;0101;Rue de la Cathedrale;94.0;;C
+179305;W02-D-Liege-FH01;646621;Liège;;;1.0;;LIÃGE - FH01;96 Rue de la CathÃ©drale 4000 LiÃ¨ge;0104;Rue de la Cathedrale;96.0;;
+179306;W02-D-Liege-FH01;646631;Liège;;;1.0;;LIÃGE - FH01;22 rue de l'UniversitÃ© 4000 LiÃ¨ge;0101;Rue de lUniversite;22.0;;
+179375;W02-D-Liege-FH02;1324541;Liège;;1.0;1.0;1.0;LIÃGE - FH02;;0212;Boulevard Piercot;9.0;;
+179417;W02-D-Liege-FH02;2741247;Liège;;;1.0;;LIÃGE - FH02;23 rue Charles Magnette;0203;Rue Charles Magnette;23.0;;D
+179418;W02-D-Liege-FH02;2741250;Liège;;1.0;1.0;1.0;LIÃGE - FH02;106;0202;Rue Charles Magnette;24.0;;
+179477;W02-D-Liege-FH02;2766772;Liège;;1.0;1.0;1.0;LIÃGE - FH02;12 Rue des PrÃ©montrÃ©s 4000 LiÃ¨ge;0216;Rue des Premontres;12.0;;
+179613;W02-D-Liege-FH02;3124135;Liège;;;1.0;;LIÃGE - FH02;8 Place des Carmes 4000 LiÃ¨ge;0217;Place des Carmes;8.0;;
+179697;W02-D-Liege-FH02;3141692;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH02;3 rue Bonne Fortune 4000 liege;0208;Rue Bonne Fortune;3.0;;
+179772;W02-D-Liege-FH02;5335990;Liège;;;1.0;;LIÃGE - FH02;1 rue des Croisiers 4000 LiÃ¨ge;0217;Rue des Croisiers;1.0;;
+179775;W02-D-Liege-FH02;5340638;Liège;;;1.0;;LIÃGE - FH02;7 rue des Croisiers 4000 LiÃ¨ge;0217;Rue des Croisiers;7.0;;
+179791;W02-D-Liege-FH02;5463583;Liège;1.0;1.0;1.0;1.0;LIÃGE - FH02;4 Rue Saint-Paul 4000 LiÃ¨ge;0205;Rue Bonne Fortune;4.0;;
+179844;W02-D-Liege-FH02;642236;Liège;;1.0;1.0;1.0;LIÃGE - FH02;;0220;Boulevard Piercot;31.0;B;
+179866;W02-D-Liege-FH02;645620;Liège;;1.0;1.0;1.0;LIÃGE - FH02;20 rue  de la SirÃ¨ne 4000 LiÃ¨ge;0202;Rue de la Sirene;20.0;;X
+179880;W02-D-Liege-FH02;645643;Liège;;1.0;1.0;1.0;LIÃGE - FH02;106;0202;Rue Charles Magnette;22.0;;
+179938;W02-D-Liege-FH03;2771226;Liège;;;1.0;;LIÃGE - FH03;;BL0301;Rue de la RÃ©gence;4.0;;D
+179945;W02-D-Liege-FH03;2771251;Liège;;;1.0;;LIÃGE - FH03;;BL0307;Rue de la RÃ©gence;11.0;;D
+179949;W02-D-Liege-FH03;2771264;Liège;;;1.0;;LIÃGE - FH03;;BL0307;Rue de la RÃ©gence;15.0;;D
+180002;W02-D-Liege-FH03;2785580;Liège;;;1.0;;LIÃGE - FH03;;BL0318;Rue Souverain Pont;21.0;;D
+180030;W02-D-Liege-FH03;2803160;Liège;;;1.0;;LIÃGE - FH03;;BL0301;Rue de lUniversitÃ©;3.0;;D
+180102;W02-D-Liege-FH03;3124681;Liège;;;1.0;;LIÃGE - FH03;;BL0302;Rue de la CathÃ©drale;73.0;;
+180111;W02-D-Liege-FH03;3128230;Liège;;;1.0;;LIÃGE - FH03;;BL0313;ChÃ©ravoie;6.0;A;
+180143;W02-D-Liege-FH03;3140225;Liège;;;1.0;;LIÃGE - FH03;;BL0303;Rue de lEtuve;19.0;;D
+180150;W02-D-Liege-FH03;3142927;Liège;;;1.0;;LIÃGE - FH03;;BL0311;Rue GÃ©rardrie;7.0;;
+180270;W02-D-Liege-FH03;647031;Liège;;;1.0;;LIÃGE - FH03;;BL0325;Rue de la CathÃ©drale;5.0;;
+180360;W02-D-Liege-FH03;647426;Liège;;;1.0;;LIÃGE - FH03;;BL0312;Rue Sainte Aldegonde;1.0;;D
+180367;W02-D-Liege-FH03;647448;Liège;;;1.0;1.0;LIÃGE - FH03;;BL0310;Rue Joffre;5.0;;
+180441;W02-D-Uccle-FH01;1044156;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Avenue Moliere;213.0;;
+180447;W02-D-Uccle-FH01;1044166;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Rue Franz Merjay;170.0;;
+180474;W02-D-Uccle-FH01;1049054;Uccle;;;1.0;1.0;UCCLE - FH01;;bloc108;Rue Vanderkindere;171.0;;
+180475;W02-D-Uccle-FH01;1049056;Ixelles;;;1.0;;UCCLE - FH01;;bloc107;Rue Jean-Baptiste Meunier;53.0;A;
+180587;W02-D-Uccle-FH01;1637042;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Avenue Moliere;217.0;;
+180595;W02-D-Uccle-FH01;1637056;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Avenue Moliere;235.0;;
+180677;W02-D-Uccle-FH01;1640916;Ixelles;;;1.0;;UCCLE - FH01;;bloc105;Rue Edmond Picard;39.0;;
+180793;W02-D-Uccle-FH01;1688224;Uccle;;;1.0;;UCCLE - FH01;;bloc108;Rue Vanderkindere;195.0;;
+180937;W02-D-Uccle-FH01;1691054;Uccle;;;1.0;1.0;UCCLE - FH01;kot;bloc114;Rue du Pacifique;32.0;;
+181024;W02-D-Uccle-FH01;1692702;Uccle;;;1.0;1.0;UCCLE - FH01;;bloc108;Avenue Winston Churchill;48.0;A;
+181073;W02-D-Uccle-FH01;1693054;Uccle;;;1.0;;UCCLE - FH01;;bloc114;Rue Marie Depage;24.0;;
+181074;W02-D-Uccle-FH01;1693054;Uccle;;;1.0;;UCCLE - FH02;;bloc114;Rue Marie Depage;24.0;;
+181091;W02-D-Uccle-FH01;1693068;Uccle;;;1.0;;UCCLE - FH01;;bloc116;Rue Marie Depage;56.0;;
+181092;W02-D-Uccle-FH01;1693068;Uccle;;;1.0;;UCCLE - FH02;;bloc103;Rue Gabrielle;7.0;;
+181116;W02-D-Uccle-FH01;4113155;Ixelles;;;1.0;;UCCLE - FH01;;bloc101;Rue Joseph Stallaert;73.0;;
+181122;W02-D-Uccle-FH01;5019164;Uccle;;;1.0;;UCCLE - FH01;;bloc112;Rue General Mac Arthur;5.0;;
+181134;W02-D-Uccle-FH01;682569;Uccle;;;1.0;;UCCLE - FH02;;bloc114;Avenue Winston Churchill;118.0;;C
+181219;W02-D-Uccle-FH02;1043918;Uccle;;;1.0;;UCCLE - FH02;;bloc201;Rue Vanderkindere;444.0;;
+181287;W02-D-Uccle-FH02;1049418;Uccle;;;1.0;;UCCLE - FH02;;bloc216;Rue Edith Cavell;92.0;;
+181425;W02-D-Uccle-FH02;1682491;Uccle;;;1.0;;UCCLE - FH02;;bloc205;Rue de la Bascule;20.0;;
+181534;W02-D-Uccle-FH02;1686358;Uccle;;;1.0;;UCCLE - FH02;;bloc204;Rue Lincoln;46.0;;
+181546;W02-D-Uccle-FH02;1686372;Uccle;;;1.0;;UCCLE - FH02;;bloc212;Rue Lincoln;75.0;;
+181591;W02-D-Uccle-FH02;1686927;Uccle;;;1.0;;UCCLE - FH02;Institut Marie Immaculee Montjoie;bloc217;Avenue Montjoie;91.0;;
+181854;W02-D-Uccle-FH02;1690599;Uccle;;;1.0;;UCCLE - FH02;;bloc214;Rue Joseph Hazard;6.0;;
+181915;W02-D-Uccle-FH02;1692008;Uccle;;;1.0;;UCCLE - FH02;;bloc211;Avenue Bel-Air;92.0;;
+181916;W02-D-Uccle-FH02;1692009;Uccle;;;1.0;;UCCLE - FH02;;bloc211;Avenue Bel-Air;94.0;;
+182104;W02-D-Uccle-FH02;6162628;Uccle;;;1.0;;UCCLE - FH02;;bloc201;Rue Vanderkindere;448.0;;
+182111;W02-D-Uccle-FH02;683849;Uccle;;;1.0;;UCCLE - FH02;;bloc210;Avenue Bel-Air;113.0;;
+182115;W02-D-Uccle-FH02;683853;Uccle;;;1.0;;UCCLE - FH02;;bloc211;Avenue Bel-Air;90.0;;
+314305;W03-C-Knokke-Heist-FH01;84567;Knokke-Heist;;;1.0;;KNOKKE - FH01;;BL0102;Smedenstraat;88.0;;
+319554;W03-C-Knokke-Heist-FH09;2759158;Knokke-Heist;;;1.0;;KNOKKE-HEIST - FH09;;BL0908;Duinenstraat;10.0;;
+321456;W03-C-Knokke-Heist-FH11;2767447;Knokke-Heist;;;1.0;;KNOKKE-HEIST - FH11;;BL1127;de Vrierestraat;28.0;;
+330653;W03-C-Liege-FH04;1200986;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Hemricourt;18.0;;
+330719;W03-C-Liege-FH04;1474768;Liège;;;1.0;;LIÃGE - FH04;;BL0415;Rue Rennequin-Sualem;17.0;;
+330728;W03-C-Liege-FH04;1487555;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Edouard Wacken;29.0;;
+330735;W03-C-Liege-FH04;1510618;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Edouard Wacken;11.0;;
+330745;W03-C-Liege-FH04;1682433;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue des Guillemins;123.0;;
+330765;W03-C-Liege-FH04;2761827;Liège;;;1.0;;LIÃGE - FH04;;BL0404;Rue Paradis;96.0;;
+330823;W03-C-Liege-FH04;2772853;Liège;;;1.0;;LIÃGE - FH04;;BL0415;Rue Rennequin-Sualem;9.0;;
+330830;W03-C-Liege-FH04;2772877;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Rennequin-Sualem;32.0;;
+330863;W03-C-Liege-FH04;2778829;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue de Serbie;42.0;;
+330920;W03-C-Liege-FH04;2779347;Liège;;;1.0;;LIÃGE - FH04;;BL0404;Rue de Serbie;123.0;;
+330927;W03-C-Liege-FH04;2779962;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;7.0;;
+330930;W03-C-Liege-FH04;2780003;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;11.0;;
+330932;W03-C-Liege-FH04;2780014;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;13.0;;
+330934;W03-C-Liege-FH04;2780025;Liège;;;1.0;;LIÃGE - FH04;;BL0410;Rue Simonon;16.0;;
+330938;W03-C-Liege-FH04;2780045;Liège;;;1.0;;LIÃGE - FH04;;BL0410;Rue Simonon;20.0;;
+330971;W03-C-Liege-FH04;2796538;Liège;;;1.0;;LIÃGE - FH04;;BL0416;Place Sainte VÃ©ronique;6.0;;
+330988;W03-C-Liege-FH04;2796614;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Sainte VÃ©ronique;27.0;;
+331014;W03-C-Liege-FH04;2808345;Liège;;;1.0;;LIÃGE - FH04;;BL0404;Rue des Vingt-Deux;33.0;;
+331016;W03-C-Liege-FH04;2808358;Liège;;;1.0;;LIÃGE - FH04;;BL0405;Rue des Vingt-Deux;36.0;;
+331037;W03-C-Liege-FH04;2840163;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Rue de Rotterdam;11.0;;
+331040;W03-C-Liege-FH04;2840180;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Rue de Rotterdam;17.0;;
+331043;W03-C-Liege-FH04;2840187;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Rue de Rotterdam;21.0;;
+331069;W03-C-Liege-FH04;3099741;Liège;;;1.0;;LIÃGE - FH04;;BL0409;Boulevard dAvroy;280.0;;
+331156;W03-C-Liege-FH04;3135357;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Dartois;24.0;;
+331162;W03-C-Liege-FH04;3135371;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Dartois;32.0;;D
+331222;W03-C-Liege-FH04;3140269;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Fabry;13.0;;
+331224;W03-C-Liege-FH04;3140271;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Fabry;15.0;;
+331231;W03-C-Liege-FH04;3140280;Liège;;;1.0;;LIÃGE - FH04;;BL0412;Rue Fabry;29.0;;
+331267;W03-C-Liege-FH04;3143700;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;7.0;;
+331271;W03-C-Liege-FH04;3143704;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;11.0;;
+331275;W03-C-Liege-FH04;3143709;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;15.0;;
+331279;W03-C-Liege-FH04;3143723;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;27.0;;
+331281;W03-C-Liege-FH04;3143727;Liège;;;1.0;;LIÃGE - FH04;;BL0406;Rue des Guillemins;31.0;;
+331291;W03-C-Liege-FH04;3143739;Liège;;;1.0;;LIÃGE - FH04;;BL0408;Rue des Guillemins;46.0;;
+331334;W03-C-Liege-FH04;3143788;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;104.0;;
+331343;W03-C-Liege-FH04;3143797;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;114.0;;
+331346;W03-C-Liege-FH04;3143801;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue des Guillemins;121.0;;
+331351;W03-C-Liege-FH04;3144133;Liège;;;1.0;;LIÃGE - FH04;;BL0413;Rue Hemricourt;15.0;;
+331352;W03-C-Liege-FH04;3144134;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Hemricourt;16.0;;
+331386;W03-C-Liege-FH04;3941987;Liège;;1.0;1.0;1.0;LIÃGE - FH04;;BL0401;Rue des Guillemins;125.0;A;
+331392;W03-C-Liege-FH04;3942235;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Edouard Wacken;35.0;;
+331403;W03-C-Liege-FH04;4088031;Liège;;;1.0;;LIÃGE - FH04;;BL0415;Rue Rennequin-Sualem;13.0;;
+331409;W03-C-Liege-FH04;4253989;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;108.0;;
+331424;W03-C-Liege-FH04;5182420;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Simonon;15.0;;
+331451;W03-C-Liege-FH04;5188850;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue de Serbie;74.0;;
+331455;W03-C-Liege-FH04;5188905;Liège;;;1.0;;LIÃGE - FH04;;BL0401;Rue de Serbie;112.0;;
+331490;W03-C-Liege-FH04;540710;Liège;;;1.0;;LIÃGE - FH04;;BL0414;Rue Hemricourt;14.0;;
+331498;W03-C-Liege-FH04;540721;Liège;;1.0;1.0;1.0;LIÃGE - FH04;;BL0414;Rue Rennequin-Sualem;22.0;;
+331501;W03-C-Liege-FH04;540724;Liège;;;1.0;;LIÃGE - FH04;Inami;BL0412;Rue Fabry;25.0;;
+331550;W03-C-Liege-FH04;541531;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue des Guillemins;116.0;;
+331553;W03-C-Liege-FH04;541534;Liège;;;1.0;;LIÃGE - FH04;;BL0407;Rue Dartois;2.0;;
+331564;W03-C-Liege-FH04;642228;Liège;;1.0;1.0;1.0;LIÃGE - FH04;;BL0419;Boulevard FrÃ¨re Orban;11.0;;
+336619;W03-C-Liege-FH10;663387;Liège;;;1.0;1.0;LIÃGE - FH10;;;Boulevard de Froidmont;2.0;;
+409974;W03-D-Hasselt-FH05;2426522;Hasselt;;;1.0;;HASSELT - FH05;;BL0005;Luikersteenweg;192.0;;
+415543;W03-D-Mechelen-FH01;5383991;Mechelen;;;1.0;;MECHELEN - FH01;;BL0102;Sint-Janstraat;16.0;;
+415657;W03-D-Mechelen-FH01;901600;Mechelen;;;1.0;;MECHELEN - FH01;;BL0102;Goswin de Stassartstraat;16.0;;
+415925;W03-D-Mechelen-FH02;3029550;Mechelen;;;1.0;;MECHELEN - FH02;;BL0231;Arsenaalstraat;6.0;;
+416124;W03-D-Mechelen-FH02;3036028;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Hanswijkstraat;16.0;;
+416147;W03-D-Mechelen-FH02;3036074;Mechelen;;;1.0;;MECHELEN - FH02;;BL0205;Hanswijkstraat;61.0;;
+416414;W03-D-Mechelen-FH02;3046663;Mechelen;;;1.0;;MECHELEN - FH02;;BL0205;Raghenoplein;5.0;;
+416474;W03-D-Mechelen-FH02;3047987;Mechelen;;;1.0;;MECHELEN - FH02;;BL0227;Schuttersvest;38.0;;
+416507;W03-D-Mechelen-FH02;3048212;Mechelen;;;1.0;;MECHELEN - FH02;;BL0232;Hendrik Speecqvest;18.0;;
+416534;W03-D-Mechelen-FH02;3048997;Mechelen;;;1.0;;MECHELEN - FH02;;BL0232;Stationsstraat;10.0;;
+416550;W03-D-Mechelen-FH02;3049027;Mechelen;;;1.0;;MECHELEN - FH02;;BL0231;Stationsstraat;36.0;;
+416613;W03-D-Mechelen-FH02;3050759;Mechelen;;;1.0;;MECHELEN - FH02;;BL0221;Van Benedenlaan;31.0;;
+416629;W03-D-Mechelen-FH02;3050786;Mechelen;;;1.0;;MECHELEN - FH02;;BL0219;Van Benedenlaan;57.0;;
+416639;W03-D-Mechelen-FH02;3050846;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Graaf van Egmontstraat;7.0;;
+416642;W03-D-Mechelen-FH02;3050857;Mechelen;;;1.0;;MECHELEN - FH02;;BL0215;Graaf van Egmontstraat;12.0;;
+416681;W03-D-Mechelen-FH02;3053911;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0201;Zoutwerf;8.0;;
+416709;W03-D-Mechelen-FH02;333325;Mechelen;;;1.0;;MECHELEN - FH02;;BL0229;Leopoldstraat;113.0;;
+416796;W03-D-Mechelen-FH02;354746;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Graaf van Egmontstraat;13.0;;
+416882;W03-D-Mechelen-FH02;383272;Mechelen;;;1.0;;MECHELEN - FH02;;BL0227;Albert Geudensstraat;4.0;;
+416891;W03-D-Mechelen-FH02;386394;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0219;Van Benedenlaan;61.0;;
+416962;W03-D-Mechelen-FH02;393900;Mechelen;;;1.0;1.0;MECHELEN - FH02;;BL0212;Ravenbergstraat;28.0;;
+417035;W03-D-Mechelen-FH02;3992281;Mechelen;;;1.0;;MECHELEN - FH02;;BL0232;Stationsstraat;19.0;;
+417054;W03-D-Mechelen-FH02;4025082;Mechelen;;;1.0;;MECHELEN - FH02;;BL0209;Lieve-Heerstraat;3.0;;
+417281;W03-D-Mechelen-FH02;4764808;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Hanswijkstraat;14.0;;
+417358;W03-D-Mechelen-FH02;6374915;Mechelen;;;1.0;;MECHELEN - FH02;;BL0216;Graaf van Egmontstraat;7.0;A;
+417388;W03-D-Mechelen-FH03;1345053;Mechelen;;1.0;1.0;;MECHELEN - FH03;;BL0001;Bruul;80.0;;
+417399;W03-D-Mechelen-FH03;3031591;Mechelen;;;1.0;1.0;MECHELEN - FH03;Botermarkt 14-16;BL0001;Botermarkt;16.0;;
+417419;W03-D-Mechelen-FH03;3032177;Mechelen;;1.0;1.0;;MECHELEN - FH03;;BL0001;Bruul;34.0;;
+417421;W03-D-Mechelen-FH03;3032181;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr39 en 41;BL0001;Bruul;39.0;;c
+417422;W03-D-Mechelen-FH03;3032182;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr39 en 41;BL0001;Bruul;41.0;;c
+417423;W03-D-Mechelen-FH03;3032184;Mechelen;;;1.0;;MECHELEN - FH03;;BL0001;Bruul;42.0;;
+417456;W03-D-Mechelen-FH03;3032245;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr 115 en 117;BL0001;Bruul;117.0;;C
+417461;W03-D-Mechelen-FH03;3032252;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr126 124 128 en 130;BL0001;Bruul;124.0;;C
+417465;W03-D-Mechelen-FH03;3032257;Mechelen;;;1.0;1.0;MECHELEN - FH03;Nr126 124 128 en 130;BL0001;Bruul;128.0;;C
+417517;W03-D-Mechelen-FH03;905036;Mechelen;;;1.0;;MECHELEN - FH03;;BL0001;Botermarkt;17.0;;
+424225;W03-D-Sint-Niklaas-FH02;5380519;Sint-Niklaas;;;1.0;1.0;SINT-NIKLAAS - FH02;;BL0212;Veldstraat;165.0;A;

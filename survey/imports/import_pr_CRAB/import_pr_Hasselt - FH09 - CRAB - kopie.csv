@@ -1,0 +1,103 @@
+﻿Projectnummer;LAM MK;NR LU;NR BU;NR SU;UNITS TOTAL;Buildingtype;Quadrant;Kolom1;Wall Mount;SS Reason;Number Floors;Height Cable;Perceel eigenschap;Crab Comment;Building exists;Building comment;Opdrachttemplate;Straat;Huisnummer;Huisnummer Toevoeging;BG Name;xPos;yPos
+HASSELT - FH09;NB-35001025412;1;0;0;1;SDU;;Kerkhofstraat10;Y;NA;2;4;;1Unit in CRAB, niet in GM.;Y;;BUILDING template;Kerkhofstraat;10;;;217841;179773
+HASSELT - FH09;NB-35001042825;1;0;0;1;SDU;;Walter Thijsstraat10;Y;NA;2;4;;18 Units in CRAB, lijken nieuwbouwblokken in GM.;Y;;BUILDING template;Walter Thijsstraat;10;;;218259;179388
+HASSELT - FH09;NB-35001060952;1;0;0;1;SDU;;Pater Valentinuslaan10;Y;NA;2;4;;1 Unit in CRAB, Onduidelijk in GM.;Y;;BUILDING template;Pater Valentinuslaan;10;;;218460;178849
+HASSELT - FH09;NB-35001111108;1;0;0;1;SDU;;Bloemenstraat11;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Bloemenstraat;11;;;217891;179773
+HASSELT - FH09;NB-350011A09428;1;0;0;1;SDU;;Volderslaan11A;Y;NA;2;4;;verdeeld in 1 Unit 11 en 1 Unit 11A in CRAB en GM.;Y;;BUILDING template;Volderslaan;11;A;;217117;179666
+HASSELT - FH09;NB-35001240290;1;0;0;1;SDU;;Roode Roosstraat12;Y;NA;2;4;;in GM leeg perceel, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;12;;;218180;179518
+HASSELT - FH09;NB-350012714763;1;0;0;1;SDU;;Luikersteenweg127;N;HEIGHT;2;4;Bouwgrond;leegstaand perceel;Y;;BUILDING template;Luikersteenweg;127;;;218384;179492
+HASSELT - FH09;NB-3500128030;1;0;0;1;SDU;;Van Heinsberglaan1;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Van Heinsberglaan;1;;;218595;178828
+HASSELT - FH09;NB-35001394690;1;0;0;1;SDU;;Bloemenstraat13;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Bloemenstraat;13;;;217896;179767
+HASSELT - FH09;NB-350014336099;1;0;0;1;SDU;;Sint-Truidersteenweg143;Y;NA;2;4;;1 Unit in CRAB, Onduidelijk in GM.;Y;;BUILDING template;Sint-Truidersteenweg;143;;;217677;179575
+HASSELT - FH09;NB-35001436485;1;0;0;1;SDU;;Roode Roosstraat14;Y;NA;2;4;;in GM leeg perceel, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;14;;;218187;179523
+HASSELT - FH09;NB-35001462502;1;0;0;1;SDU;;Wolfgang Amadeus Mozartlaan14;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Wolfgang Amadeus Mozartlaan;14;;;217953;179295
+HASSELT - FH09;NB-3500146705;1;0;0;1;SDU;;Roode Roosstraat1;Y;NA;2;4;;in GM leeg perceel, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;1;;;218116;179506
+HASSELT - FH09;NB-350015074073;1;0;0;1;SDU;;Sint-Truidersteenweg150;Y;NA;2;4;;1 Unit in CRAB, Onduidelijk in GM.;Y;;BUILDING template;Sint-Truidersteenweg;150;;;217688;179528
+HASSELT - FH09;NB-350015164157;1;0;0;1;SDU;;Sint-Truidersteenweg151;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Truidersteenweg;151;;;217663;179548
+HASSELT - FH09;NB-35001519128;1;0;0;1;SDU;;Eikenstraat15;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Eikenstraat;15;;;217508;179756
+HASSELT - FH09;NB-350015A46433;1;0;0;1;SDU;;Roode Roosstraat15A;Y;NA;2;4;;in GM in aanbouw, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;15;A;;218260;179544
+HASSELT - FH09;NB-350015B10435;1;0;0;1;SDU;;Roode Roosstraat15B;Y;NA;2;4;;in GM in aanbouw, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;15;B;;218280;179533
+HASSELT - FH09;NB-350015C71879;1;0;0;1;SDU;;Roode Roosstraat15C;Y;NA;2;4;;in GM in aanbouw, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;15;C;;218300;179526
+HASSELT - FH09;NB-350015D15990;1;0;0;1;SDU;;Roode Roosstraat15D;Y;NA;2;4;;in GM in aanbouw, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;15;D;;218324;179522
+HASSELT - FH09;NB-35001653474;1;0;0;1;SDU;;Roode Roosstraat16;Y;NA;2;4;;in GM leeg perceel, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;16;;;218195;179534
+HASSELT - FH09;NB-350016808131;1;0;0;1;SDU;;Boomkensstraat168;Y;NA;2;4;;1 Units in CRAB, niet in GM.;Y;;BUILDING template;Boomkensstraat;168;;;217583;179631
+HASSELT - FH09;NB-350017572400;1;0;0;1;SDU;;Boomkensstraat175;Y;NA;2;4;;1 Unit in CRAB, Nieuwbouw in GM.;Y;;BUILDING template;Boomkensstraat;175;;;217561;179620
+HASSELT - FH09;NB-35001773542;1;0;0;1;SDU;;A. Vivaldilaan17;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;A. Vivaldilaan;17;;;217782;179402
+HASSELT - FH09;NB-35001782343;1;0;0;1;SDU;;Eikenstraat17;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Eikenstraat;17;;;217502;179757
+HASSELT - FH09;NB-35001868928;1;0;0;1;SDU;;Wolfgang Amadeus Mozartlaan18;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Wolfgang Amadeus Mozartlaan;18;;;217963;179274
+HASSELT - FH09;NB-35001A34735;1;0;0;1;SDU;;Roode Roosstraat1A;Y;NA;2;4;;in GM leeg perceel, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;1;A;;218123;179498
+HASSELT - FH09;NB-35001A90923;1;0;0;1;SDU;;Jules Klockplein1A;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Jules Klockplein;1;A;;217492;179485
+HASSELT - FH09;NB-35002043600;1;0;0;1;SDU;;Arnold van Loonlaan20;N;HEIGHT;2;4;Bouwgrond;Leegstaand perceel;Y;;BUILDING template;Arnold van Loonlaan;20;;;218573;218573
+HASSELT - FH09;NB-350020485968;1;0;0;1;SDU;;Boomkensstraat204;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Boomkensstraat;204;;;217562;179497
+HASSELT - FH09;NB-35002052923;1;0;0;1;SDU;;Kerkhofstraat20;Y;NA;2;4;;1Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Kerkhofstraat;20;;;217832;179733
+HASSELT - FH09;NB-35002053216;1;0;0;1;SDU;;Notelarenstraat20;Y;NA;2;4;;4 Units in CRAB, 4 bussen in GM.;Y;;BUILDING template;Notelarenstraat;20;;;217483;179579
+HASSELT - FH09;NB-35002076842;1;0;0;1;SDU;;Paul Bellefroidlaan20;Y;NA;2;4;;1 Unit in CRAB, Niet in GM.;Y;;BUILDING template;Paul Bellefroidlaan;20;;;218637;179008
+HASSELT - FH09;NB-35002081215;1;0;0;1;SDU;;Roode Roosstraat20;Y;NA;2;4;;in GM in aanbouw, volgens kadaster en CRAB nieuwbouw;Y;;BUILDING template;Roode Roosstraat;20;;;218207;179548
+HASSELT - FH09;NB-350020929819;1;0;0;1;SDU;;Boomkensstraat209;Y;NA;2;4;;1 Unit in CRAB en Kadaster, niet in GM.;Y;;BUILDING template;Boomkensstraat;209;;;217538;179496
+HASSELT - FH09;NB-350020A66814;1;0;0;1;SDU;;Bakkerslaan20A;Y;NA;2;4;;Staat in kadaster en CRAB,;Y;;BUILDING template;Bakkerslaan;20;A;;217340;179440
+HASSELT - FH09;NB-35002117676;1;0;0;1;SDU;;A. Vivaldilaan21;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;A. Vivaldilaan;21;;;217745;179359
+HASSELT - FH09;NB-3500212134;1;0;0;1;SDU;;Sint-Martinusplein2;Y;NA;2;4;;5 Units in CRAB, Onduidelijk in GM.;Y;;BUILDING template;Sint-Martinusplein;2;;;218507;179103
+HASSELT - FH09;NB-35002138792;1;0;0;1;SDU;;Bergstraat21;Y;NA;2;4;;staat in CRAB en kadaster, niet in GM.;Y;;BUILDING template;Bergstraat;21;;;218097;179386
+HASSELT - FH09;NB-35002209270;1;0;0;1;SDU;;Roode Roosstraat22;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Roode Roosstraat;22;;;218213;179553
+HASSELT - FH09;NB-350022542762;1;0;0;1;SDU;;Sint-Truidersteenweg225;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Truidersteenweg;225;;;217515;179293
+HASSELT - FH09;NB-35002320244;1;0;0;1;SDU;;Arnold van Loonlaan23;N;HEIGHT;2;4;Bouwgrond;Leegstaand perceel;Y;;BUILDING template;Arnold van Loonlaan;23;;;218448;178791
+HASSELT - FH09;NB-35002439362;1;0;0;1;SDU;;Wolfgang Amadeus Mozartlaan24;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Wolfgang Amadeus Mozartlaan;24;;;217959;179250
+HASSELT - FH09;NB-350024769743;1;0;0;1;SDU;;Boomkensstraat247;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Boomkensstraat;247;;;217450;179309
+HASSELT - FH09;NB-3500250868;1;0;0;1;SDU;;Wolfgang Amadeus Mozartlaan2;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Wolfgang Amadeus Mozartlaan;2;;;217903;179311
+HASSELT - FH09;NB-3500250B72219;1;0;0;1;SDU;;Sint-Truidersteenweg250B;Y;NA;2;4;;1 Unit in CRAB, Onduidelijk in GM.;Y;;BUILDING template;Sint-Truidersteenweg;250;B;;217466;179150
+HASSELT - FH09;NB-350025766501;1;0;0;1;SDU;;Boomkensstraat257;Y;NA;2;4;;5 Units in CRAB, onduidelijk in GM.;Y;;BUILDING template;Boomkensstraat;257;;;217415;179259
+HASSELT - FH09;NB-35002586903;1;0;0;1;SDU;;Rode-Berglaan25;N;HEIGHT;2;4;Bouwgrond;leeg perceel;Y;;BUILDING template;Rode-Berglaan;25;;;218254;178692
+HASSELT - FH09;NB-35002627764;1;0;0;1;SDU;;J.S. Bachlaan26;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;J.S. Bachlaan;26;;;217844;179568
+HASSELT - FH09;NB-35002712148;1;0;0;1;SDU;;Kerkhofstraat27;Y;NA;2;4;;1Unit in CRAB, niet in GM.;Y;;BUILDING template;Kerkhofstraat;27;;;217739;179547
+HASSELT - FH09;NB-3500276949;1;0;0;1;SDU;;Notelarenstraat2;Y;NA;2;4;;3 Units in CRAB, onduidelijk in GM.;Y;;BUILDING template;Notelarenstraat;2;;;217544;179567
+HASSELT - FH09;NB-350028136157;1;0;0;1;SDU;;Boomkensstraat281;Y;NA;2;4;;1 Unit in CRAB, 12 bussen in GM.;Y;;BUILDING template;Boomkensstraat;281;;;217358;179179
+HASSELT - FH09;NB-350028174487;1;0;0;1;SDU;;Sint-Truidersteenweg281;Y;NA;2;4;;1 Unit in CRAB, 1 bus te zien in GM.;Y;;BUILDING template;Sint-Truidersteenweg;281;;;217435;179174
+HASSELT - FH09;NB-35002819016;1;0;0;1;SDU;;J.S. Bachlaan28;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;J.S. Bachlaan;28;;;217848;179577
+HASSELT - FH09;NB-3500282A23118;1;0;0;1;SDU;;Sint-Truidersteenweg282A;Y;NA;2;4;;3 Units in CRAB, aantal onduidelijk in GM.;Y;;BUILDING template;Sint-Truidersteenweg;282;A;;217417;179044
+HASSELT - FH09;NB-3500282B38510;1;0;0;1;SDU;;Sint-Truidersteenweg282B;Y;NA;2;4;;3 Units in CRAB, aantal onduidelijk in GM.;Y;;BUILDING template;Sint-Truidersteenweg;282;B;;217410;179035
+HASSELT - FH09;NB-35002938617;1;0;0;1;SDU;;Kerkhofstraat29;Y;NA;2;4;;1Unit in CRAB, niet in GM.;Y;;BUILDING template;Kerkhofstraat;29;;;217734;179539
+HASSELT - FH09;NB-35002951514;1;0;0;1;SDU;;Arnold van Loonlaan29;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Arnold van Loonlaan;29;;;218397;178772
+HASSELT - FH09;NB-35002977726;1;0;0;1;SDU;;Kruisherenlaan29;Y;NA;2;4;;1 Unit in CRAB, Niet in GM.;Y;;BUILDING template;Kruisherenlaan;29;;;217344;179364
+HASSELT - FH09;NB-35003039781;1;0;0;1;SDU;;Kruisherenlaan30;Y;NA;2;4;;1 Unit in CRAB, Niet in GM.;Y;;BUILDING template;Kruisherenlaan;30;;;217338;179441
+HASSELT - FH09;NB-35003067648;1;0;0;1;SDU;;Generaal Lemanstraat30;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Generaal Lemanstraat;30;;;218234;178919
+HASSELT - FH09;NB-35003124505;1;0;0;1;SDU;;Kruisherenlaan31;Y;NA;2;4;;1 Unit in CRAB, Niet in GM.;Y;;BUILDING template;Kruisherenlaan;31;;;217318;179408
+HASSELT - FH09;NB-35003128046;1;0;0;1;SDU;;Kerkhofstraat31;Y;NA;2;4;;1Unit in CRAB, niet in GM.;Y;;BUILDING template;Kerkhofstraat;31;;;217732;179530
+HASSELT - FH09;NB-350032613852;1;0;0;1;SDU;;Boomkensstraat326;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Boomkensstraat;326;;;217391;179190
+HASSELT - FH09;NB-350032A10817;1;0;0;1;SDU;;Hollandsveldlaan32A;Y;NA;2;4;;1 Unit in CRAB en kadaster, onduidelijk in GM.;Y;;BUILDING template;Hollandsveldlaan;32;A;;218544;178956
+HASSELT - FH09;NB-3500343444;1;0;0;1;SDU;;Sint-Martinusplein3;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Martinusplein;3;;;218493;179050
+HASSELT - FH09;NB-3500351081;1;0;0;1;SDU;;Rode-Berglaan3;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Rode-Berglaan;3;;;218268;178829
+HASSELT - FH09;NB-35003778299;1;0;0;1;SDU;;Arnold van Loonlaan37;N;HEIGHT;2;4;Bouwgrond;Leegstaand perceel;Y;;BUILDING template;Arnold van Loonlaan;37;;;218345;178775
+HASSELT - FH09;NB-35003785284;1;0;0;1;SDU;;Bakkerslaan37;N;HEIGHT;2;4;Bouwgrond;Leegstaand perceel;Y;;BUILDING template;Bakkerslaan;37;;;217288;179493
+HASSELT - FH09;NB-35003788306;1;0;0;1;SDU;;Helipoststraat37;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Helipoststraat;37;;;217188;179717
+HASSELT - FH09;NB-3500388556;1;0;0;1;SDU;;G. Verdilaan3;Y;NA;2;4;;12 Units in CRAB, aantal onduidelijk in GM.;Y;;BUILDING template;G. Verdilaan;3;;;217789;179513
+HASSELT - FH09;NB-35003A81811;1;0;0;1;SDU;;Generaal Lemanstraat3A;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Generaal Lemanstraat;3;A;;218445;179349
+HASSELT - FH09;NB-35004088674;1;0;0;1;SDU;;Kerkhofstraat40;Y;NA;2;4;;1Unit in CRAB, niet in GM.;Y;;BUILDING template;Kerkhofstraat;40;;;217807;179652
+HASSELT - FH09;NB-3500422705;1;0;0;1;SDU;;Hollandsveldlaan4;N;HEIGHT;2;4;Bouwgrond;Leegstaand perceel;Y;;BUILDING template;Hollandsveldlaan;4;;;218378;179132
+HASSELT - FH09;NB-35004287387;1;0;0;1;SDU;;Hefveldstraat42;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Hefveldstraat;42;;;218125;179550
+HASSELT - FH09;NB-35004436543;1;0;0;1;SDU;;Hefveldstraat44;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Hefveldstraat;44;;;218118;179542
+HASSELT - FH09;NB-35004630749;1;0;0;1;SDU;;Sint-Truidersteenweg46;Y;NA;2;4;;5 Units in CRAB, Onduidelijk in GM.;Y;;BUILDING template;Sint-Truidersteenweg;46;;;217891;179868
+HASSELT - FH09;NB-35004835764;1;0;0;1;SDU;;Sint-Hubertusplein48;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Hubertusplein;48;;;217319;179811
+HASSELT - FH09;NB-35004A02599;1;0;0;1;SDU;;Sint-Martinusplein4A;Y;NA;2;4;;12 Units in CRAB en GM.;Y;;BUILDING template;Sint-Martinusplein;4;A;;218532;178986
+HASSELT - FH09;NB-35004B24585;1;0;0;1;SDU;;Sint-Martinusplein4B;Y;NA;2;4;;12 Units in CRAB en GM.;Y;;BUILDING template;Sint-Martinusplein;4;B;;218522;178977
+HASSELT - FH09;NB-35004C80994;1;0;0;1;SDU;;Sint-Martinusplein4C;Y;NA;2;4;;12 Units in CRAB en GM.;Y;;BUILDING template;Sint-Martinusplein;4;C;;218511;178970
+HASSELT - FH09;NB-3500500388;1;0;0;1;SDU;;G. Verdilaan5;Y;NA;2;4;;9 Units in CRAB, aantal onduidelijk in GM.;Y;;BUILDING template;G. Verdilaan;5;;;217807;179507
+HASSELT - FH09;NB-3500510987;1;0;0;1;SDU;;Huidevetterslaan5;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Huidevetterslaan;5;;;217338;179274
+HASSELT - FH09;NB-3500515693;1;0;0;1;SDU;;Rode-Berglaan5;N;HEIGHT;2;4;Bouwgrond;leeg perceel;Y;;BUILDING template;Rode-Berglaan;5;;;218264;178815
+HASSELT - FH09;NB-3500556029;1;0;0;1;SDU;;Pater Valentinuslaan5;Y;NA;2;4;;6 Units in CRAB. Onduidelijk in GM.;Y;;BUILDING template;Pater Valentinuslaan;5;;;218448;178889
+HASSELT - FH09;NB-3500561203;1;0;0;1;SDU;;Eikenstraat5;N;HEIGHT;2;4;Bouwgrond;Leegstaand perceel;Y;;BUILDING template;Eikenstraat;5;;;217545;179753
+HASSELT - FH09;NB-35005907140;1;0;0;1;SDU;;Kerkhofstraat59;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Kerkhofstraat;59;;;217675;179410
+HASSELT - FH09;NB-35006015842;1;0;0;1;SDU;;Sint-Truidersteenweg60;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Truidersteenweg;60;;;217875;179842
+HASSELT - FH09;NB-35006130799;1;0;0;1;SDU;;Kerkhofstraat61;Y;NA;2;4;;1Unit in CRAB, niet in GM.;Y;;BUILDING template;Kerkhofstraat;61;;;217670;179403
+HASSELT - FH09;NB-35006387635;1;0;0;1;SDU;;Prins-Bisschopssingel63;Y;NA;2;4;;1 Unit in CRAB, Niet in GM.;Y;;BUILDING template;Prins-Bisschopssingel;63;;;218017;178712
+HASSELT - FH09;NB-3500643572;1;0;0;1;SDU;;Hollandsveldlaan6;Y;NA;2;4;;1 Unit in CRAB, in aanbouw in GM.;Y;;BUILDING template;Hollandsveldlaan;6;;;218389;179125
+HASSELT - FH09;NB-35006856217;1;0;0;1;SDU;;Sint-Truidersteenweg68;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Truidersteenweg;68;;;217865;179825
+HASSELT - FH09;NB-35007060677;1;0;0;1;SDU;;Sint-Truidersteenweg70;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Truidersteenweg;70;;;217866;179816
+HASSELT - FH09;NB-3500708361;1;0;0;1;SDU;;A. Vivaldilaan7;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;A. Vivaldilaan;7;;;217824;179415
+HASSELT - FH09;NB-3500715199;1;0;0;1;SDU;;Rode-Berglaan7;N;HEIGHT;2;4;Bouwgrond;leeg perceel;Y;;BUILDING template;Rode-Berglaan;7;;;218263;178802
+HASSELT - FH09;NB-35007273024;1;0;0;1;SDU;;Sint-Truidersteenweg72;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Sint-Truidersteenweg;72;;;217853;179804
+HASSELT - FH09;NB-35007564642;1;0;0;1;SDU;;Kerkhofstraat75;Y;NA;2;4;;2 Units in CRAB, 2 bussen in GM.;Y;;BUILDING template;Kerkhofstraat;75;;;217590;179332
+HASSELT - FH09;NB-35007721147;1;0;0;1;SDU;;Kerkhofstraat77;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Kerkhofstraat;77;;;217584;179322
+HASSELT - FH09;NB-35008096412;1;0;0;1;SDU;;Kerkhofstraat80;Y;NA;2;4;;6 Units in CRAB, onduidelijk in GM.;Y;;BUILDING template;Kerkhofstraat;80;;;217749;179497
+HASSELT - FH09;NB-3500867531;1;0;0;1;SDU;;Kerkhofstraat8;Y;NA;2;4;;1 Unit in CRAB en GM.;Y;;BUILDING template;Kerkhofstraat;8;;;217843;179777
+HASSELT - FH09;NB-3500879426;1;0;0;1;SDU;;Walter Thijsstraat8;Y;NA;2;4;;18 Units in CRAB, lijken nieuwbouwblokken in GM.;Y;;BUILDING template;Walter Thijsstraat;8;;;218239;179380
+HASSELT - FH09;NB-35008A22248;1;0;0;1;SDU;;Hefveldplein8A;Y;NA;2;4;;1 Unit in CRAB, onduidelijk in GM.;Y;;BUILDING template;Hefveldplein;8;A;;217985;179334

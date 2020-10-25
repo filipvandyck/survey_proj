@@ -1,0 +1,443 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+ANTWERPEN-WEST - FH06;Units total diff;1059320;BL0622;3.0;612231;1059320;;;;Groenplaats;16;;D;;2020-05-08;Maayken Vanfleteren;MDU;1;2;0;3;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1059320;BL0622;3.0;612231;1059320;;;;Groenplaats;16;;D;;2020-05-08;Maayken Vanfleteren;MDU;1;2;0;3;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1059320;BL0622;3.0;612231;1059320;;;;Groenplaats;16;;D;;2020-05-08;Maayken Vanfleteren;MDU;1;2;0;3;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1059351;BL0622;3.0;612257;1059351;33634136;Lijnwaadmarkt 16-18;Lijnwaadmarkt 16-18;Lijnwaadmarkt;16;;D;;2020-05-08 15:20:27;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1059369;BL0623;3.0;612273;1059369;33634145;;;Melkmarkt;14;;;;2020-06-29;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1072767;BL0622;3.0;8397433;1072767;;;;Sint-Pieterstraat;1;;D;;2020-05-08 15:20:19;Maayken Vanfleteren;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1074855;BL0618;3.0;612314;1074855;33634144;;Eiermarkt 7_Melkmarkt 41;Eiermarkt;7;;D;;2020-05-18 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;1074855;BL0618;3.0;612314;1074855;33634144;;Eiermarkt 7_Melkmarkt 41;Eiermarkt;7;;D;;2020-05-18 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1074855;BL0618;3.0;612314;1074855;33634144;;Eiermarkt 7_Melkmarkt 41;Eiermarkt;7;;D;;2020-05-18 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1074855;BL0618;3.0;612314;1074855;33634144;;Eiermarkt 7_Melkmarkt 41;Eiermarkt;7;;D;;2020-05-18 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1091158;BL0606;1.0;612761;1091158;;;;Kammenstraat;89;;D;D;2020-03-06 19:35:07;Hidde Kiekens;MDU;1;3;0;4;1;3;0;4;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1139913;BL0603;1.0;614059;1139913;33634189;Maarschalk Gerardstraat 25-25A;Maarschalk Gerardstraat 25-25A;Maarschalk Gerardstraat;25;;XA;X;2020-02-28 09:50:09;Geert Stockman;MDU;0;15;1;16;0;15;1;16;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1139922;BL0603;1.0;614066;1139922;;;;Schermersstraat;1;;XA;X;2020-02-28 22:55:07;Geert Stockman;MDU;1;12;1;14;1;12;1;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1139940;BL0603;1.0;614076;1139940;;;;Maarschalk Gerardstraat;19;;XA;X;2020-08-24;Geert Stockman;MDU;1;9;1;11;1;9;1;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1139986;BL0601;1.0;614098;1139986;;;;Begijnenstraat;95;;C;;2020-08-12 15:40:10;Geert Stockman;MDU;3;7;0;10;3;7;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;12633;BL0605;1.0;13335332;12633;33634150;;;Oudaan;32;;D;;2020-06-09 13:10:32;Hidde Kiekens;MDU;0;6;0;6;0;6;0;6;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1373123;BL0611;2.0;617522;1373123;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;33;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1437874;BL0624;3.0;618033;1437874;;;;Korte Nieuwstraat;4;;D;;2020-08-19 15:55:14;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1437874;BL0624;3.0;618033;1437874;;;;Korte Nieuwstraat;4;;D;;2020-08-19 15:55:14;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1437874;BL0624;3.0;618033;1437874;;;;Korte Nieuwstraat;4;;D;;2020-08-19 15:55:14;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1437874;BL0624;3.0;618033;1437874;;;;Korte Nieuwstraat;4;;D;;2020-08-19 15:55:14;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1438270;BL0605;1.0;618037;1438270;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;23;;XC;;2020-06-08 17:15:06;Hidde Kiekens;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1438270;BL0605;1.0;618037;1438270;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;23;;XC;;2020-06-08 17:15:06;Hidde Kiekens;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1438270;BL0605;1.0;618037;1438270;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;23;;XC;;2020-06-08 17:15:06;Hidde Kiekens;MDU;0;11;1;12;0;11;0;11;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1443643;BL0602;1.0;618199;1443643;;;;Maarschalk Gerardstraat;2;;D;;2020-07-15 08:31:09;Geert Stockman;MDU;2;0;0;2;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1448986;BL0605;1.0;618272;1448986;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;7;;XC;;2020-06-08 16:10:05;Hidde Kiekens;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1448986;BL0605;1.0;618272;1448986;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;7;;XC;;2020-06-08 16:10:05;Hidde Kiekens;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1448986;BL0605;1.0;618272;1448986;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;7;;XC;;2020-06-08 16:10:05;Hidde Kiekens;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1451773;BL0601;1.0;618376;1451773;;;;Begijnenstraat;93;;D;D;2020-04-29 09:45:11;Geert Stockman;MDU;0;5;0;5;0;5;0;5;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1488600;BL0605;1.0;618986;1488600;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;17;;XC;;2020-06-08 17:20:04;Hidde Kiekens;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1495533;BL0601;1.0;619041;1495533;;;;Kasteelpleinstraat;3;;D;;2020-05-20 11:20:47;Geert Stockman;MDU;1;5;0;6;1;5;0;6;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1521194;BL0601;1.0;8397435;1521194;;;;Terninckstraat;13;;C;;2020-07-15 07:35:08;Geert Stockman;MDU;2;27;1;30;2;27;0;29;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1521194;BL0601;1.0;8397435;1521194;;;;Terninckstraat;13;;C;;2020-07-15 07:35:08;Geert Stockman;MDU;2;27;1;30;2;27;0;29;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1521194;BL0601;1.0;8397435;1521194;;;;Terninckstraat;13;;C;;2020-07-15 07:35:08;Geert Stockman;MDU;2;27;1;30;2;27;0;29;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;173881;BL0612;3.0;13335666;173881;;;;Wiegstraat;2;;XA;;2020-05-27 09:15:05;Maayken Vanfleteren;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;173881;BL0612;3.0;13335666;173881;;;;Wiegstraat;2;;XA;;2020-05-27 09:15:05;Maayken Vanfleteren;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;173881;BL0612;3.0;13335666;173881;;;;Wiegstraat;2;;XA;;2020-05-27 09:15:05;Maayken Vanfleteren;MDU;0;7;1;8;0;7;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;173911;BL0607;2.0;21105195;173911;;;;Lombardenvest;18;;D;;2020-07-24 14:00:09;Hidde Kiekens;MDU;1;3;0;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1739660;BL0602;1.0;626202;1739660;;;;Begijnenstraat;17;;F;;2020-07-15 08:41:05;Geert Stockman;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1739660;BL0602;1.0;626202;1739660;;;;Begijnenstraat;17;;F;;2020-07-15 08:41:05;Geert Stockman;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1739660;BL0602;1.0;626202;1739660;;;;Begijnenstraat;17;;F;;2020-07-15 08:41:05;Geert Stockman;MDU;0;5;1;6;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1739673;BL0602;1.0;626210;1739673;33634130;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1739673;BL0602;1.0;626210;1739673;33634130;;;Begijnenstraat;55;;;;2020-07-22 10:25:13;Geert Stockman;SDU;0;0;0;0;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1739677;BL0602;1.0;626213;1739677;;;;Begijnenstraat;61;;D;;2020-06-03 09:45:06;Geert Stockman;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1739684;BL0601;1.0;626218;1739684;;;;Begijnenstraat;89;;;;;Geert Stockman;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1741151;BL0602;1.0;627427;1741151;33634147;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1741151;BL0602;1.0;627427;1741151;33634147;;;Bervoetstraat;51;;;;2020-07-22 10:45:17;Geert Stockman;SDU;0;0;0;0;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1778799;BL0604;1.0;632181;1778799;33634170;;;Bredestraat;21;;XC;X;2020-03-07 07:55:07;Geert Stockman;MDU;0;6;0;6;0;6;0;6;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1857364;BL0618;3.0;640632;1857364;;;;Eiermarkt;9;;D;;2020-05-18 16:15:05;Maayken Vanfleteren;MDU;1;1;0;2;0;3;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1857364;BL0618;3.0;640632;1857364;;;;Eiermarkt;9;;D;;2020-05-18 16:15:05;Maayken Vanfleteren;MDU;1;1;0;2;0;3;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1857364;BL0618;3.0;640632;1857364;;;;Eiermarkt;9;;D;;2020-05-18 16:15:05;Maayken Vanfleteren;MDU;1;1;0;2;0;3;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1857364;BL0618;3.0;640632;1857364;;;;Eiermarkt;9;;D;;2020-05-18 16:15:05;Maayken Vanfleteren;MDU;1;1;0;2;0;3;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1857405;BL0618;3.0;640634;1857405;;;;Eiermarkt;19;;D;;2020-05-29 17:30:05;Maayken Vanfleteren;MDU;0;3;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1857405;BL0618;3.0;640634;1857405;;;;Eiermarkt;19;;D;;2020-05-29 17:30:05;Maayken Vanfleteren;MDU;0;3;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1857405;BL0618;3.0;640634;1857405;;;;Eiermarkt;19;;D;;2020-05-29 17:30:05;Maayken Vanfleteren;MDU;0;3;1;4;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1869077;BL0608;2.0;641822;1869077;;;;Everdijstraat;31;;D;;2020-08-21 10:25:06;Hidde Kiekens;MDU;1;2;0;3;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1869077;BL0608;2.0;641822;1869077;;;;Everdijstraat;31;;D;;2020-08-21 10:25:06;Hidde Kiekens;MDU;1;2;0;3;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1869077;BL0608;2.0;641822;1869077;;;;Everdijstraat;31;;D;;2020-08-21 10:25:06;Hidde Kiekens;MDU;1;2;0;3;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1869096;BL0608;2.0;641824;1869096;;;;Everdijstraat;35;;;;;Steve De Weerdt;MDU;1;14;0;15;1;14;0;15;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1869122;BL0608;2.0;641827;1869122;;;;Everdijstraat;43;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1884727;BL0608;2.0;13335057;1884727;33634184;;Korte Gasthuisstraat 16-18;Korte Gasthuisstraat;18;;D;;2020-08-21 10:35:10;Hidde Kiekens;MDU;0;4;0;4;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;1884727;BL0608;2.0;13335057;1884727;33634184;;Korte Gasthuisstraat 16-18;Korte Gasthuisstraat;18;;D;;2020-08-21 10:35:10;Hidde Kiekens;MDU;0;4;0;4;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1884727;BL0608;2.0;13335057;1884727;33634184;;Korte Gasthuisstraat 16-18;Korte Gasthuisstraat;18;;D;;2020-08-21 10:35:10;Hidde Kiekens;MDU;0;4;0;4;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1884727;BL0608;2.0;13335057;1884727;33634184;;Korte Gasthuisstraat 16-18;Korte Gasthuisstraat;18;;D;;2020-08-21 10:35:10;Hidde Kiekens;MDU;0;4;0;4;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1884727;BL0608;2.0;13335057;1884727;33634184;;Korte Gasthuisstraat 16-18;Korte Gasthuisstraat;18;;D;;2020-08-21 10:35:10;Hidde Kiekens;MDU;0;4;0;4;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1884816;BL0608;2.0;643448;1884816;33634182;;Korte Gasthuisstraat 26-28;Korte Gasthuisstraat;28;;;D;2020-08-21 10:35:13;Hidde Kiekens;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;1884816;BL0608;2.0;643448;1884816;33634182;;Korte Gasthuisstraat 26-28;Korte Gasthuisstraat;28;;;;2020-08-21 10:35:13;Hidde Kiekens;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1884816;BL0608;2.0;643448;1884816;33634182;;;Korte Gasthuisstraat;28;;;;2020-08-21 10:35:13;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1884894;BL0606;1.0;8397441;1884894;;;;Korte Gasthuisstraat;36;;XA;;2020-08-30 10:00:06;Hidde Kiekens;MDU;6;59;2;67;0;59;2;61;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1884894;BL0606;1.0;8397441;1884894;;;;Korte Gasthuisstraat;36;;XA;;2020-08-30 10:00:06;Hidde Kiekens;MDU;6;59;2;67;0;59;2;61;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1884894;BL0606;1.0;8397441;1884894;;;;Korte Gasthuisstraat;36;;XA;;2020-08-30 10:00:06;Hidde Kiekens;MDU;6;59;2;67;0;59;2;61;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1885037;BL0605;1.0;643466;1885037;33634185;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat;16;;XA;;2020-07-25 10:20:04;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1892898;BL0602;1.0;13335239;1892898;33634187;;;Maarschalk Gerardstraat;4;A;;;2020-08-17 19:40:04;Geert Stockman;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1892918;BL0602;1.0;643970;1892918;;;;Maarschalk Gerardstraat;6;;D;;2020-08-27 17:25:05;Geert Stockman;MDU;1;2;0;3;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1892918;BL0602;1.0;643970;1892918;;;;Maarschalk Gerardstraat;6;;D;;2020-08-27 17:25:05;Geert Stockman;MDU;1;2;0;3;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1892918;BL0602;1.0;643970;1892918;;;;Maarschalk Gerardstraat;6;;D;;2020-08-27 17:25:05;Geert Stockman;MDU;1;2;0;3;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1892918;BL0602;1.0;643970;1892918;;;;Maarschalk Gerardstraat;6;;D;;2020-08-27 17:25:05;Geert Stockman;MDU;1;2;0;3;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1893189;BL0602;1.0;643981;1893189;;;;Maarschalk Gerardstraat;28;;;;2020-05-27 14:15:04;Geert Stockman;SDU;1;0;0;1;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1893189;BL0602;1.0;643981;1893189;;;;Maarschalk Gerardstraat;28;;;;2020-05-27 14:15:04;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1893189;BL0602;1.0;643981;1893189;;;;Maarschalk Gerardstraat;28;;;;2020-05-27 14:15:04;Geert Stockman;SDU;1;0;0;1;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1893189;BL0602;1.0;643981;1893189;;;;Maarschalk Gerardstraat;28;;;;2020-05-27 14:15:04;Geert Stockman;SDU;1;0;0;1;2;3;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1921113;BL0613;2.0;645925;1921113;33634120;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats 1_Groenkerkhofstraat 5;Groenkerkhofstraat;5;;D;;2020-05-08 13:15:27;Maayken Vanfleteren;MDU;2;3;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1921113;BL0613;2.0;645925;1921113;33634120;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats 1_Groenkerkhofstraat 5;Groenkerkhofstraat;5;;D;;2020-05-08 13:15:27;Maayken Vanfleteren;MDU;2;3;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921113;BL0613;2.0;645925;1921113;33634120;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats 1_Groenkerkhofstraat 5;Groenkerkhofstraat;5;;D;;2020-05-08 13:15:27;Maayken Vanfleteren;MDU;2;3;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1921113;BL0613;2.0;645925;1921113;33634120;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats 1_Groenkerkhofstraat 5;Groenkerkhofstraat;5;;D;;2020-05-08 13:15:27;Maayken Vanfleteren;MDU;2;3;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1921113;BL0613;2.0;645925;1921113;33634120;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats 1_Groenkerkhofstraat 5;Groenkerkhofstraat;5;;D;;2020-05-08 13:15:27;Maayken Vanfleteren;MDU;2;3;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921165;BL0616;2.0;645927;1921165;;;;Groenplaats;6;;D;;2020-05-08 15:55:04;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921170;BL0616;2.0;645928;1921170;;;;Groenplaats;7;;D;;2020-05-08 16:00:12;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1921177;BL0616;2.0;645929;1921177;;;;Groenplaats;8;;XA;;2020-05-25 17:50:06;Maayken Vanfleteren;MDU;1;11;2;14;1;12;0;13;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1921177;BL0616;2.0;645929;1921177;;;;Groenplaats;8;;XA;;2020-05-25 17:50:06;Maayken Vanfleteren;MDU;1;11;2;14;1;12;0;13;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1921177;BL0616;2.0;645929;1921177;;;;Groenplaats;8;;XA;;2020-05-25 17:50:06;Maayken Vanfleteren;MDU;1;11;2;14;1;12;0;13;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921177;BL0616;2.0;645929;1921177;;;;Groenplaats;8;;XA;;2020-05-25 17:50:06;Maayken Vanfleteren;MDU;1;11;2;14;1;12;0;13;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1921194;BL0616;2.0;645930;1921194;33634121;Groenplaats 9-10;Groenplaats 9-10;Groenplaats;10;;D;;2020-05-11 08:50:06;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1921194;BL0616;2.0;645930;1921194;33634121;Groenplaats 9-10;Groenplaats 9-10;Groenplaats;10;;D;;2020-05-11 08:50:06;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921194;BL0616;2.0;645930;1921194;33634121;Groenplaats 9-10;Groenplaats 9-10;Groenplaats;10;;D;;2020-05-11 08:50:06;Maayken Vanfleteren;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1921200;BL0616;2.0;8397442;1921200;;;;Groenplaats;11;;XA;;2020-05-29 16:15:05;Maayken Vanfleteren;MDU;1;10;1;12;1;10;0;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921200;BL0616;2.0;8397442;1921200;;;;Groenplaats;11;;XA;;2020-05-29 16:15:05;Maayken Vanfleteren;MDU;1;10;1;12;1;10;0;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1921200;BL0616;2.0;8397442;1921200;;;;Groenplaats;11;;XA;;2020-05-29 16:15:05;Maayken Vanfleteren;MDU;1;10;1;12;1;10;0;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1921250;BL0622;3.0;645938;1921250;;;;Groenplaats;21;;D;;2020-05-08 15:20:22;Maayken Vanfleteren;MDU;2;1;0;3;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1921250;BL0622;3.0;645938;1921250;;;;Groenplaats;21;;D;;2020-05-08 15:20:22;Maayken Vanfleteren;MDU;2;1;0;3;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1921250;BL0622;3.0;645938;1921250;;;;Groenplaats;21;;D;;2020-05-08 15:20:22;Maayken Vanfleteren;MDU;2;1;0;3;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921250;BL0622;3.0;645938;1921250;;;;Groenplaats;21;;D;;2020-05-08 15:20:22;Maayken Vanfleteren;MDU;2;1;0;3;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1921250;BL0622;3.0;645938;1921250;;;;Groenplaats;21;;D;;2020-05-08 15:20:22;Maayken Vanfleteren;MDU;2;1;0;3;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1921273;BL0622;3.0;645941;1921273;;;;Groenplaats;26;;D;;2020-05-08 15:20:14;Maayken Vanfleteren;MDU;1;2;0;3;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1959773;BL0607;2.0;651574;1959773;;;;Kammenstraat;43;;A;;2020-07-02 16:00:07;Hidde Kiekens;MDU;1;7;0;8;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1959778;BL0607;2.0;651578;1959778;;;;Kammenstraat;47;;XC;;2020-07-31 21:25:04;Hidde Kiekens;MDU;1;11;1;13;2;12;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1959778;BL0607;2.0;651578;1959778;;;;Kammenstraat;47;;XC;;2020-07-31 21:25:04;Hidde Kiekens;MDU;1;11;1;13;2;12;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1959778;BL0607;2.0;651578;1959778;;;;Kammenstraat;47;;XC;;2020-07-31 21:25:04;Hidde Kiekens;MDU;1;11;1;13;2;12;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1959778;BL0607;2.0;651578;1959778;;;;Kammenstraat;47;;XC;;2020-07-31 21:25:04;Hidde Kiekens;MDU;1;11;1;13;2;12;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1959778;BL0607;2.0;651578;1959778;;;;Kammenstraat;47;;XC;;2020-07-31 21:25:04;Hidde Kiekens;MDU;1;11;1;13;2;12;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1959779;BL0607;2.0;651579;1959779;33634128;Kammenstraat 49-53;Kammenstraat 49-53;Kammenstraat;49;;D;D;2020-03-05 10:25:09;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1959782;BL0607;2.0;651582;1959782;33634128;Kammenstraat 49-53;Kammenstraat 49-53;Kammenstraat;53;;D;D;2020-03-05 10:25:09;Hidde Kiekens;MDU;1;3;0;4;1;3;0;4;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1959786;BL0607;2.0;651585;1959786;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat;59;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;0;12;1;13;0;12;1;13;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1959787;BL0607;2.0;651586;1959787;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat;61;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1959789;BL0607;2.0;651588;1959789;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat;63;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1959803;BL0606;1.0;651599;1959803;;;;Kammenstraat;85;;;;2020-06-09 13:50:16;Hidde Kiekens;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1959803;BL0606;1.0;651599;1959803;;;;Kammenstraat;85;;;;2020-06-09 13:50:16;Hidde Kiekens;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1959803;BL0606;1.0;651599;1959803;;;;Kammenstraat;85;;;;2020-06-09 13:50:16;Hidde Kiekens;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1959803;BL0606;1.0;651599;1959803;;;;Kammenstraat;85;;;;2020-06-09 13:50:16;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1959804;BL0606;1.0;35572668;1959804;;;;Kammenstraat;87;;D;;2020-06-09 13:50:09;Hidde Kiekens;MDU;0;4;0;4;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1968769;BL0621;2.0;654119;1968769;33634125;;;Oude Koornmarkt;17;;;;2020-05-12 18:20:05;Hidde Kiekens;SDU;1;0;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1968769;BL0621;2.0;654119;1968769;33634125;;;Oude Koornmarkt;17;;;;2020-05-12 18:20:05;Hidde Kiekens;SDU;1;0;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1968891;BL0616;2.0;654135;1968891;;;;Oude Koornmarkt;49;;D;;2020-05-08 16:30:11;Maayken Vanfleteren;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1968899;BL0616;2.0;654137;1968899;;;;Oude Koornmarkt;51;;D;;2020-05-08 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1968899;BL0616;2.0;654137;1968899;;;;Oude Koornmarkt;51;;D;;2020-05-08 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1968899;BL0616;2.0;654137;1968899;;;;Oude Koornmarkt;51;;D;;2020-05-08 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1968899;BL0616;2.0;654137;1968899;;;;Oude Koornmarkt;51;;D;;2020-05-08 16:20:04;Maayken Vanfleteren;MDU;1;2;1;4;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1968902;BL0616;2.0;654138;1968902;;;;Oude Koornmarkt;53;;D;;2020-05-08 16:15:05;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1968968;BL0613;2.0;654145;1968968;;;;Oude Koornmarkt;71;;D;;2020-05-08 15:30:14;Maayken Vanfleteren;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1968968;BL0613;2.0;654145;1968968;;;;Oude Koornmarkt;71;;D;;2020-05-08 15:30:14;Maayken Vanfleteren;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1968968;BL0613;2.0;654145;1968968;;;;Oude Koornmarkt;71;;D;;2020-05-08 15:30:14;Maayken Vanfleteren;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1968970;BL0613;2.0;654146;1968970;;;;Oude Koornmarkt;73;;D;;2020-05-08 13:55:07;Maayken Vanfleteren;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1968970;BL0613;2.0;654146;1968970;;;;Oude Koornmarkt;73;;D;;2020-05-08 13:55:07;Maayken Vanfleteren;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1968970;BL0613;2.0;654146;1968970;;;;Oude Koornmarkt;73;;D;;2020-05-08 13:55:07;Maayken Vanfleteren;MDU;1;3;0;4;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;198689;BL0605;1.0;21105174;198689;;;;Oudaan;24;;;;2020-06-19 08:20:10;Hidde Kiekens;SDU;1;0;0;1;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;198689;BL0605;1.0;21105174;198689;;;;Oudaan;24;;;;2020-06-19 08:20:10;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;198689;BL0605;1.0;21105174;198689;;;;Oudaan;24;;;;2020-06-19 08:20:10;Hidde Kiekens;SDU;1;0;0;1;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;198689;BL0605;1.0;21105174;198689;;;;Oudaan;24;;;;2020-06-19 08:20:10;Hidde Kiekens;SDU;1;0;0;1;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;198787;BL0605;1.0;658128;198787;;;;Kleine Markt;7;;A;;2020-06-20 12:15:05;Hidde Kiekens;MDU;4;20;1;25;4;21;0;25;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;198787;BL0605;1.0;658128;198787;;;;Kleine Markt;7;;A;;2020-06-20 12:15:05;Hidde Kiekens;MDU;4;20;1;25;4;21;0;25;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;198787;BL0605;1.0;658128;198787;;;;Kleine Markt;7;;A;;2020-06-20 12:15:05;Hidde Kiekens;MDU;4;20;1;25;4;21;0;25;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1992418;BL0607;2.0;13335068;1992418;33634138;;;Lombardenstraat;4;;D;;2020-06-12 11:15:12;Hidde Kiekens;MDU;0;2;0;2;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1992418;BL0607;2.0;13335068;1992418;33634138;;;Lombardenstraat;4;;D;;2020-06-12 11:15:12;Hidde Kiekens;MDU;0;2;0;2;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1992418;BL0607;2.0;13335068;1992418;33634138;;;Lombardenstraat;4;;D;;2020-06-12 11:15:12;Hidde Kiekens;MDU;0;2;0;2;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1992418;BL0607;2.0;13335068;1992418;33634138;;;Lombardenstraat;4;;D;;2020-06-12 11:15:12;Hidde Kiekens;MDU;0;2;0;2;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1992424;BL0607;2.0;21105175;1992424;;;;Lombardenstraat;8;;XA;;2020-06-22 15:00:24;Hidde Kiekens;MDU;0;9;1;10;1;9;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1992424;BL0607;2.0;21105175;1992424;;;;Lombardenstraat;8;;XA;;2020-06-22 15:00:24;Hidde Kiekens;MDU;0;9;1;10;1;9;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;1992424;BL0607;2.0;21105175;1992424;;;;Lombardenstraat;8;;XA;;2020-06-22 15:00:24;Hidde Kiekens;MDU;0;9;1;10;1;9;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1992428;BL0607;2.0;659297;1992428;33634139;Lombardenstraat 12-14;Lombardenstraat 12-14;Lombardenstraat;12;;D;;2020-03-06 09:05:12;Hidde Kiekens;MDU;0;3;0;3;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1992428;BL0607;2.0;659297;1992428;33634139;Lombardenstraat 12-14;Lombardenstraat 12-14;Lombardenstraat;12;;D;;2020-03-06 09:05:12;Hidde Kiekens;MDU;0;3;0;3;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1992438;BL0607;2.0;659299;1992438;;;;Lombardenstraat;18;;XC;;2020-06-22 13:45:15;Hidde Kiekens;MDU;1;6;0;7;0;7;0;7;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1992438;BL0607;2.0;659299;1992438;;;;Lombardenstraat;18;;XC;;2020-06-22 13:45:15;Hidde Kiekens;MDU;1;6;0;7;0;7;0;7;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1992438;BL0607;2.0;659299;1992438;;;;Lombardenstraat;18;;XC;;2020-06-22 13:45:15;Hidde Kiekens;MDU;1;6;0;7;0;7;0;7;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1992438;BL0607;2.0;659299;1992438;;;;Lombardenstraat;18;;XC;;2020-06-22 13:45:15;Hidde Kiekens;MDU;1;6;0;7;0;7;0;7;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;1992442;BL0607;2.0;659300;1992442;;;;Lombardenstraat;22;;D;;2020-06-11 17:40:04;Hidde Kiekens;MDU;0;9;0;9;0;9;0;9;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;1998288;BL0605;1.0;660868;1998288;;;;Kleine Markt;5;;;;2020-08-18 10:55:05;Hidde Kiekens;SDU;1;0;0;1;0;16;0;16;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;1998288;BL0605;1.0;660868;1998288;;;;Kleine Markt;5;;;;2020-08-18 10:55:05;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;1998288;BL0605;1.0;660868;1998288;;;;Kleine Markt;5;;;;2020-08-18 10:55:05;Hidde Kiekens;SDU;1;0;0;1;0;16;0;16;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;1998288;BL0605;1.0;660868;1998288;;;;Kleine Markt;5;;;;2020-08-18 10:55:05;Hidde Kiekens;SDU;1;0;0;1;0;16;0;16;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1999513;BL0603;1.0;661193;1999513;;;;Mechelseplein;22;A;;;;olivier collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;1999515;BL0603;1.0;661194;1999515;;;;Mechelseplein;24;;;;;olivier collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2001912;BL0624;3.0;661806;2001912;;;;Melkmarkt;15;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2001915;BL0624;3.0;661808;2001915;;;;Melkmarkt;17;;;;2020-06-29 18:20:04;Maayken Vanfleteren;SDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;2001915;BL0624;3.0;661808;2001915;;;;Melkmarkt;17;;;;2020-06-29 18:20:04;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2001915;BL0624;3.0;661808;2001915;;;;Melkmarkt;17;;;;2020-06-29 18:20:04;Maayken Vanfleteren;SDU;1;0;0;1;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2001918;BL0624;3.0;661809;2001918;;;;Melkmarkt;19;;XC;;2020-08-20 16:20:36;Maayken Vanfleteren;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2001921;BL0623;3.0;661810;2001921;33634145;;;Melkmarkt;20;;D;;2020-06-29;Maayken Vanfleteren;MDU;2;4;2;8;2;4;2;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2001931;BL0624;3.0;13335252;2001931;;;;Melkmarkt;29;;;;;olivier collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2001942;BL0618;3.0;661815;2001942;;;;Melkmarkt;35;;D;D;2020-04-13 09:55:07;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;2001946;BL0618;3.0;661817;2001946;33634146;;;Melkmarkt;37;;;;2020-08-20 16:20:41;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2001946;BL0618;3.0;661817;2001946;33634146;;Melkmarkt 37-39;Melkmarkt;37;;;;2020-08-20 16:20:41;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;2001946;BL0618;3.0;661817;2001946;33634146;;Melkmarkt 37-39;Melkmarkt;37;;;;2020-08-20 16:20:41;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2001948;BL0618;3.0;661818;2001948;33634146;;Melkmarkt 37-39;Melkmarkt;39;;;;2020-08-20 16:20:42;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2001948;BL0618;3.0;661818;2001948;33634146;;Melkmarkt 37-39;Melkmarkt;39;;;;2020-08-20 16:20:42;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;2001948;BL0618;3.0;661818;2001948;33634146;;;Melkmarkt;39;;;;2020-08-20 16:20:42;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;2001948;BL0618;3.0;661818;2001948;33634146;;Melkmarkt 37-39;Melkmarkt;39;;;;2020-08-20 16:20:42;Maayken Vanfleteren;SDU;1;0;0;1;1;1;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2001958;BL0617;3.0;661819;2001958;;;;Melkmarkt;42;;D;;2020-05-18 18:05:17;Maayken Vanfleteren;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;2001958;BL0617;3.0;661819;2001958;;;;Melkmarkt;42;;D;;2020-05-18 18:05:17;Maayken Vanfleteren;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2001958;BL0617;3.0;661819;2001958;;;;Melkmarkt;42;;D;;2020-05-18 18:05:17;Maayken Vanfleteren;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2027591;BL0624;3.0;664739;2027591;;;;Korte Nieuwstraat;10;;D;D;2020-04-13 16:45:09;Maayken Vanfleteren;MDU;1;2;0;3;1;2;0;3;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2027602;BL0624;3.0;664741;2027602;;;;Korte Nieuwstraat;12;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2027610;BL0624;3.0;664744;2027610;;;;Korte Nieuwstraat;16;;D;;2020-08-20 16:35:32;Maayken Vanfleteren;MDU;1;4;1;6;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2027610;BL0624;3.0;664744;2027610;;;;Korte Nieuwstraat;16;;D;;2020-08-20 16:35:32;Maayken Vanfleteren;MDU;1;4;1;6;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;2027610;BL0624;3.0;664744;2027610;;;;Korte Nieuwstraat;16;;D;;2020-08-20 16:35:32;Maayken Vanfleteren;MDU;1;4;1;6;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2027610;BL0624;3.0;664744;2027610;;;;Korte Nieuwstraat;16;;D;;2020-08-20 16:35:32;Maayken Vanfleteren;MDU;1;4;1;6;1;4;0;5;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;2027615;BL0624;3.0;664745;2027615;;;;Korte Nieuwstraat;18;;;;2020-08-19 15:55:07;Maayken Vanfleteren;SDU;1;0;0;1;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2027615;BL0624;3.0;664745;2027615;;;;Korte Nieuwstraat;18;;;;2020-08-19 15:55:07;Maayken Vanfleteren;SDU;1;0;0;1;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2027615;BL0624;3.0;664745;2027615;;;;Korte Nieuwstraat;18;;;;2020-08-19 15:55:07;Maayken Vanfleteren;SDU;1;0;0;1;1;3;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2027639;BL0624;3.0;8397445;2027639;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat;30;;XA;;2020-06-04 16:10:10;Maayken Vanfleteren;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;2027639;BL0624;3.0;8397445;2027639;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat;30;;XA;;2020-06-04 16:10:10;Maayken Vanfleteren;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2027639;BL0624;3.0;8397445;2027639;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat;30;;XA;;2020-06-04 16:10:10;Maayken Vanfleteren;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2035161;BL0605;1.0;666294;2035161;;;;Oudaan;4;;D;;2020-06-09 13:05:18;Hidde Kiekens;MDU;1;2;0;3;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2035180;BL0606;1.0;8397446;2035180;;;;Oudaan;15;;D;;2020-08-30 10:40:04;Hidde Kiekens;MDU;4;0;0;4;30;0;0;30;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2035180;BL0606;1.0;8397446;2035180;;;;Oudaan;15;;D;;2020-08-30 10:40:04;Hidde Kiekens;MDU;4;0;0;4;30;0;0;30;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;2035180;BL0606;1.0;8397446;2035180;;;;Oudaan;15;;D;;2020-08-30 10:40:04;Hidde Kiekens;MDU;4;0;0;4;30;0;0;30;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2048655;BL0602;1.0;672294;2048655;;;;Rosier;14;;;;;olivier collignon;SDU;0;1;0;1;0;1;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2052144;BL0611;2.0;675297;2052144;;;;Schrijnwerkersstraat;8;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2052146;BL0611;2.0;675298;2052146;;;;Schrijnwerkersstraat;10;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2052147;BL0612;3.0;675299;2052147;;;;Schrijnwerkersstraat;11;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2052151;BL0612;3.0;675303;2052151;;;;Schrijnwerkersstraat;15;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2055917;BL0624;3.0;21105189;2055917;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;2;A;XA;;2020-06-04 16:10:05;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2055918;BL0624;3.0;21105187;2055918;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;2;B;XA;;2020-06-04 16:10:06;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2055922;BL0624;3.0;21105185;2055922;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;6;B;XA;;2020-06-04 16:10:07;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2055925;BL0618;3.0;678640;2055925;;;;Sudermanstraat;22;;D;D;2020-04-13 13:20:07;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2056153;BL0620;2.0;33532975;2056153;33634135;;;Tempelstraat;1;;D;;2020-05-12 18:35:04;Hidde Kiekens;MDU;0;5;0;5;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;2056153;BL0620;2.0;33532975;2056153;33634135;;;Tempelstraat;1;;D;;2020-05-12 18:35:04;Hidde Kiekens;MDU;0;5;0;5;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2056153;BL0620;2.0;33532975;2056153;33634135;;;Tempelstraat;1;;D;;2020-05-12 18:35:04;Hidde Kiekens;MDU;0;5;0;5;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2056153;BL0620;2.0;33532975;2056153;33634135;;;Tempelstraat;1;;D;;2020-05-12 18:35:04;Hidde Kiekens;MDU;0;5;0;5;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2056544;BL0601;1.0;679157;2056544;;;;Terninckstraat;15;;D;;2020-06-03 09:25:04;Geert Stockman;MDU;1;2;0;3;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2056544;BL0601;1.0;679157;2056544;;;;Terninckstraat;15;;D;;2020-06-03 09:25:04;Geert Stockman;MDU;1;2;0;3;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;2056544;BL0601;1.0;679157;2056544;;;;Terninckstraat;15;;D;;2020-06-03 09:25:04;Geert Stockman;MDU;1;2;0;3;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2056544;BL0601;1.0;679157;2056544;;;;Terninckstraat;15;;D;;2020-06-03 09:25:04;Geert Stockman;MDU;1;2;0;3;0;5;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061259;BL0605;1.0;683249;2061259;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;5;;XC;;2020-06-08 16:10:06;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2061261;BL0605;1.0;8397447;2061261;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;11;;XC;;2020-06-08 16:45:05;Hidde Kiekens;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061261;BL0605;1.0;8397447;2061261;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;11;;XC;;2020-06-08 16:45:05;Hidde Kiekens;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;2061261;BL0605;1.0;8397447;2061261;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;11;;XC;;2020-06-08 16:45:05;Hidde Kiekens;MDU;0;12;1;13;0;12;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2061262;BL0604;1.0;683252;2061262;35381308;Vleminckveld 14-16;Vleminckveld 14-16;Vleminckveld;14;;XC;;2020-05-25 15:00:41;Geert Stockman;MDU;1;0;0;1;1;9;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061262;BL0604;1.0;683252;2061262;35381308;Vleminckveld 14-16;Vleminckveld 14-16;Vleminckveld;14;;XC;;2020-05-25 15:00:41;Geert Stockman;MDU;1;0;0;1;1;9;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2061262;BL0604;1.0;683252;2061262;35381308;Vleminckveld 14-16;Vleminckveld 14-16;Vleminckveld;14;;XC;;2020-05-25 15:00:41;Geert Stockman;MDU;1;0;0;1;1;9;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061264;BL0604;1.0;683253;2061264;;;;Vleminckveld;18;;XC;;2020-05-27 17:15:12;Geert Stockman;MDU;1;8;0;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;2061264;BL0604;1.0;683253;2061264;;;;Vleminckveld;18;;XC;;2020-05-27 17:15:12;Geert Stockman;MDU;1;8;0;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2061264;BL0604;1.0;683253;2061264;;;;Vleminckveld;18;;XC;;2020-05-27 17:15:12;Geert Stockman;MDU;1;8;0;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061265;BL0605;1.0;21105120;2061265;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;21;;XC;;2020-06-08 17:20:06;Hidde Kiekens;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2061278;BL0605;1.0;683265;2061278;;;;Vleminckveld;37;;D;;2020-08-18 11:15:09;Hidde Kiekens;MDU;2;0;0;2;1;13;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061278;BL0605;1.0;683265;2061278;;;;Vleminckveld;37;;D;;2020-08-18 11:15:09;Hidde Kiekens;MDU;2;0;0;2;1;13;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;2061278;BL0605;1.0;683265;2061278;;;;Vleminckveld;37;;D;;2020-08-18 11:15:09;Hidde Kiekens;MDU;2;0;0;2;1;13;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2061278;BL0605;1.0;683265;2061278;;;;Vleminckveld;37;;D;;2020-08-18 11:15:09;Hidde Kiekens;MDU;2;0;0;2;1;13;0;14;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061297;BL0624;3.0;683279;2061297;;;;Vleminckstraat;5;;D;;2020-07-01 13:50:16;Maayken Vanfleteren;MDU;1;3;0;4;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2061306;BL0624;3.0;683283;2061306;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Vleminckstraat;23;;XC;;2020-06-04 16:10:04;Maayken Vanfleteren;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;2061306;BL0624;3.0;683283;2061306;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Vleminckstraat;23;;XC;;2020-06-04 16:10:04;Maayken Vanfleteren;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2061306;BL0624;3.0;683283;2061306;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Vleminckstraat;23;;XC;;2020-06-04 16:10:04;Maayken Vanfleteren;MDU;0;9;1;10;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;2064243;BL0612;3.0;685740;2064243;;;;Wiegstraat;26;;D;;2020-08-19 15:55:17;Maayken Vanfleteren;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2064243;BL0612;3.0;685740;2064243;;;;Wiegstraat;26;;D;;2020-08-19 15:55:17;Maayken Vanfleteren;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2064243;BL0612;3.0;685740;2064243;;;;Wiegstraat;26;;D;;2020-08-19 15:55:17;Maayken Vanfleteren;MDU;1;3;1;5;1;3;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068354;BL0625;3.0;689241;2068354;;;;Sint-Katelijnevest;34;;;;;Steve De Weerdt;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068430;BL0611;2.0;13335073;2068430;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;23;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068431;BL0611;2.0;689286;2068431;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;25;;;;;Olivier Collignon;MDU;0;6;0;6;0;6;0;6;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068432;BL0611;2.0;689287;2068432;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;29;;;;;Olivier Collignon;MDU;0;16;0;16;0;16;0;16;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068433;BL0611;2.0;689288;2068433;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;31;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068435;BL0611;2.0;689289;2068435;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;35;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068436;BL0611;2.0;689290;2068436;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;37;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068437;BL0611;2.0;689291;2068437;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;39;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068441;BL0611;2.0;689295;2068441;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;49;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068442;BL0611;2.0;689296;2068442;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;51;;;;;Olivier Collignon;MDU;0;6;0;6;0;6;0;6;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068443;BL0611;2.0;689297;2068443;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;53;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068445;BL0611;2.0;689299;2068445;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;63;;;;;Olivier Collignon;MDU;1;16;0;17;1;16;0;17;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;2068446;BL0611;2.0;689300;2068446;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;65;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;2068447;BL0608;2.0;689301;2068447;;;;Lombardenvest;76;;D;;2020-07-02 15:15:07;Hidde Kiekens;MDU;1;2;0;3;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;2068447;BL0608;2.0;689301;2068447;;;;Lombardenvest;76;;D;;2020-07-02 15:15:07;Hidde Kiekens;MDU;1;2;0;3;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;2068447;BL0608;2.0;689301;2068447;;;;Lombardenvest;76;;D;;2020-07-02 15:15:07;Hidde Kiekens;MDU;1;2;0;3;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;2068447;BL0608;2.0;689301;2068447;;;;Lombardenvest;76;;D;;2020-07-02 15:15:07;Hidde Kiekens;MDU;1;2;0;3;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;3923483;BL0607;2.0;690906;3923483;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Everdijstraat;3;;XA;X;2020-03-28 12:20:07;Hidde Kiekens;MDU;0;9;0;9;0;9;0;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;3928583;BL0604;1.0;35428040;3928583;35381308;Vleminckveld 14-16;Vleminckveld 14-16;Vleminckveld;16;;XC;;2020-06-29 14:29:26;Geert Stockman;MDU;0;7;1;8;0;7;1;8;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;3985734;BL0612;3.0;691662;3985734;;;;Schoenmarkt;14;;;;;Steve De Weerdt;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4015036;BL0606;1.0;692138;4015036;;;;Kammenstraat;83;;D;;2020-06-09 13:30:59;Hidde Kiekens;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4024765;BL0622;3.0;37143791;4024765;;;;Lijnwaadmarkt;23;;D;;2020-06-29 19:10:05;Maayken Vanfleteren;MDU;0;3;1;4;0;3;1;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4070508;BL0604;1.0;693125;4070508;33634170;;;Bredestraat;19;;;X;2020-07-22 10:05:20;Geert Stockman;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4080731;BL0624;3.0;21105186;4080731;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;6;A;XA;;2020-06-04 16:10:08;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4096171;BL0605;1.0;21105118;4096171;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;13;;XC;;2020-06-08 17:15:07;Hidde Kiekens;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4256532;BL0605;1.0;21105203;4256532;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;19;;XC;;2020-06-08 17:20:05;Hidde Kiekens;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;4504600;BL0601;1.0;705861;4504600;;;;Begijnenstraat;91;;;;;Olivier Collignon;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4504662;BL0602;1.0;13334608;4504662;;;;Begijnenstraat;77;;D;;2020-06-18 16:20:04;Geert Stockman;MDU;0;7;0;7;0;7;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;4505397;BL0622;3.0;13335065;4505397;;;;Lijnwaadmarkt;12;;;;2020-05-08 15:20:26;Maayken Vanfleteren;SDU;1;0;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;4505397;BL0622;3.0;13335065;4505397;;;;Lijnwaadmarkt;12;;;;2020-05-08 15:20:26;Maayken Vanfleteren;SDU;1;0;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;4509248;BL0618;3.0;706918;4509248;;;;Vleminckstraat;6;;D;;2020-07-01 13:50:31;Maayken Vanfleteren;MDU;5;0;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4509248;BL0618;3.0;706918;4509248;;;;Vleminckstraat;6;;D;;2020-07-01 13:50:31;Maayken Vanfleteren;MDU;5;0;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;4509248;BL0618;3.0;706918;4509248;;;;Vleminckstraat;6;;D;;2020-07-01 13:50:31;Maayken Vanfleteren;MDU;5;0;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;4509248;BL0618;3.0;706918;4509248;;;;Vleminckstraat;6;;D;;2020-07-01 13:50:31;Maayken Vanfleteren;MDU;5;0;1;6;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;4509248;BL0618;3.0;706918;4509248;;;;Vleminckstraat;6;;D;;2020-07-01 13:50:31;Maayken Vanfleteren;MDU;5;0;1;6;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;4509452;BL0624;3.0;706936;4509452;;;;Korte Nieuwstraat;22;;;;2020-04-13 16:55:08;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;4510360;BL0605;1.0;13335064;4510360;33634185;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat;18;;XA;;2020-07-25 10:15:06;Hidde Kiekens;MDU;1;5;1;7;2;5;0;7;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;4510360;BL0605;1.0;13335064;4510360;33634185;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat;18;;XA;;2020-07-25 10:15:06;Hidde Kiekens;MDU;1;5;1;7;2;5;0;7;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;4510360;BL0605;1.0;13335064;4510360;33634185;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat 16-18;Lange Gasthuisstraat;18;;XA;;2020-07-25 10:15:06;Hidde Kiekens;MDU;1;5;1;7;2;5;0;7;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;4511746;BL0608;2.0;13335184;4511746;33634172;Lombardenvest 68-70;Lombardenvest 68-70;Lombardenvest;70;;D;D;2020-03-05 12:25:12;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;4511775;BL0608;2.0;707217;4511775;33634184;;;Korte Gasthuisstraat;16;;;;2020-08-21 10:30:20;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;4511775;BL0608;2.0;707217;4511775;33634184;;Korte Gasthuisstraat 16-18;Korte Gasthuisstraat;16;;;;2020-08-21 10:30:20;Hidde Kiekens;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;49254;BL0611;2.0;710634;49254;33634158;;;Schoenmarkt;10;;;;2020-07-01 18:25:04;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;49256;BL0612;3.0;710636;49256;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;2;;XA;;2020-05-27 09:15:07;Maayken Vanfleteren;MDU;2;26;4;32;2;26;0;28;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;49256;BL0612;3.0;710636;49256;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;2;;XA;;2020-05-27 09:15:07;Maayken Vanfleteren;MDU;2;26;4;32;2;26;0;28;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;49256;BL0612;3.0;710636;49256;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;2;;XA;;2020-05-27 09:15:07;Maayken Vanfleteren;MDU;2;26;4;32;2;26;0;28;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;49257;BL0612;3.0;8397455;49257;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;4;;XA;;2020-05-26 15:30:06;Maayken Vanfleteren;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;49257;BL0612;3.0;8397455;49257;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;4;;XA;;2020-05-26 15:30:06;Maayken Vanfleteren;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;49257;BL0612;3.0;8397455;49257;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;4;;XA;;2020-05-26 15:30:06;Maayken Vanfleteren;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;5373822;BL0611;2.0;710945;5373822;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;27;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;54870;BL0607;2.0;711832;54870;;;;Lombardenvest;34;;D;;2020-07-02 15:40:07;Hidde Kiekens;MDU;3;1;0;4;5;1;0;6;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;54870;BL0607;2.0;711832;54870;;;;Lombardenvest;34;;D;;2020-07-02 15:40:07;Hidde Kiekens;MDU;3;1;0;4;5;1;0;6;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;54870;BL0607;2.0;711832;54870;;;;Lombardenvest;34;;D;;2020-07-02 15:40:07;Hidde Kiekens;MDU;3;1;0;4;5;1;0;6;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;54882;BL0608;2.0;711844;54882;33634172;Lombardenvest 68-70;Lombardenvest 68-70;Lombardenvest;68;;D;D;2020-03-05 12:25:12;Hidde Kiekens;MDU;0;4;0;4;0;4;0;4;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;54886;BL0608;2.0;711847;54886;;;;Lombardenvest;74;;XC;;2020-07-02 15:35:05;Hidde Kiekens;MDU;1;8;1;10;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;54886;BL0608;2.0;711847;54886;;;;Lombardenvest;74;;XC;;2020-07-02 15:35:05;Hidde Kiekens;MDU;1;8;1;10;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;54886;BL0608;2.0;711847;54886;;;;Lombardenvest;74;;XC;;2020-07-02 15:35:05;Hidde Kiekens;MDU;1;8;1;10;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;54886;BL0608;2.0;711847;54886;;;;Lombardenvest;74;;XC;;2020-07-02 15:35:05;Hidde Kiekens;MDU;1;8;1;10;1;7;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;54889;BL0607;2.0;711850;54889;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat;57;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;54893;BL0607;2.0;711854;54893;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat;67;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;54898;BL0608;2.0;33630449;54898;33634117;;;Everdijstraat;27;;;;2020-06-11 13:20:04;Hidde Kiekens;SDU;1;0;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;54898;BL0608;2.0;33630449;54898;33634117;;;Everdijstraat;27;;;;2020-06-11 13:20:04;Hidde Kiekens;SDU;1;0;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;54902;BL0606;1.0;711860;54902;;;;Everdijstraat;30;;XC;;2020-08-30 10:55:05;Hidde Kiekens;MDU;5;6;1;12;0;3;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;54902;BL0606;1.0;711860;54902;;;;Everdijstraat;30;;XC;;2020-08-30 10:55:05;Hidde Kiekens;MDU;5;6;1;12;0;3;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;54902;BL0606;1.0;711860;54902;;;;Everdijstraat;30;;XC;;2020-08-30 10:55:05;Hidde Kiekens;MDU;5;6;1;12;0;3;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;54902;BL0606;1.0;711860;54902;;;;Everdijstraat;30;;XC;;2020-08-30 10:55:05;Hidde Kiekens;MDU;5;6;1;12;0;3;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;54902;BL0606;1.0;711860;54902;;;;Everdijstraat;30;;XC;;2020-08-30 10:55:05;Hidde Kiekens;MDU;5;6;1;12;0;3;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;54904;BL0607;2.0;8397457;54904;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Everdijstraat;1;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;0;3;0;3;0;3;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;55292;BL0604;1.0;711974;55292;33634154;;;Rosier;1;;;D;2020-07-22 10:10:10;Geert Stockman;SDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;55295;BL0605;1.0;21105119;55295;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;15;;XC;;2020-06-08 17:20:03;Hidde Kiekens;MDU;0;1;0;1;0;1;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;55296;BL0604;1.0;711976;55296;;;;Vleminckveld;60;;;;2020-05-13 14:55:05;Geert Stockman;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;55296;BL0604;1.0;711976;55296;;;;Vleminckveld;60;;;;2020-05-13 14:55:05;Geert Stockman;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;55296;BL0604;1.0;711976;55296;;;;Vleminckveld;60;;;;2020-05-13 14:55:05;Geert Stockman;SDU;1;0;0;1;0;4;0;4;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;55296;BL0604;1.0;711976;55296;;;;Vleminckveld;60;;;;2020-05-13 14:55:05;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;55309;BL0605;1.0;711985;55309;;;;Oudaan;14;;;;2020-05-08 13:35:05;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;55309;BL0605;1.0;711985;55309;;;;Oudaan;14;;;;2020-05-08 13:35:05;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;55309;BL0605;1.0;711985;55309;;;;Oudaan;14;;;;2020-05-08 13:35:05;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;55309;BL0605;1.0;711985;55309;;;;Oudaan;14;;;;2020-05-08 13:35:05;Hidde Kiekens;SDU;1;0;0;1;2;0;0;2;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;55310;BL0605;1.0;13335253;55310;;;;Oudaan;2;;D;;2020-08-18 11:05:05;Hidde Kiekens;MDU;1;9;0;10;1;10;0;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;55310;BL0605;1.0;13335253;55310;;;;Oudaan;2;;D;;2020-08-18 11:05:05;Hidde Kiekens;MDU;1;9;0;10;1;10;0;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;55310;BL0605;1.0;13335253;55310;;;;Oudaan;2;;D;;2020-08-18 11:05:05;Hidde Kiekens;MDU;1;9;0;10;1;10;0;11;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;55313;BL0605;1.0;711987;55313;;;;Oudaan;20;;;;2020-06-09 13:05:24;Hidde Kiekens;SDU;1;0;0;1;1;2;0;3;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;55313;BL0605;1.0;711987;55313;;;;Oudaan;20;;;;2020-06-09 13:05:24;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;55313;BL0605;1.0;711987;55313;;;;Oudaan;20;;;;2020-06-09 13:05:24;Hidde Kiekens;SDU;1;0;0;1;1;2;0;3;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;55313;BL0605;1.0;711987;55313;;;;Oudaan;20;;;;2020-06-09 13:05:24;Hidde Kiekens;SDU;1;0;0;1;1;2;0;3;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;55346;BL0606;1.0;711995;55346;;;;Oudaan;1;;XA;;2020-06-17 13:50:31;Hidde Kiekens;MDU;2;13;1;16;5;0;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;55346;BL0606;1.0;711995;55346;;;;Oudaan;1;;XA;;2020-06-17 13:50:31;Hidde Kiekens;MDU;2;13;1;16;5;0;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;55346;BL0606;1.0;711995;55346;;;;Oudaan;1;;XA;;2020-06-17 13:50:31;Hidde Kiekens;MDU;2;13;1;16;5;0;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;55346;BL0606;1.0;711995;55346;;;;Oudaan;1;;XA;;2020-06-17 13:50:31;Hidde Kiekens;MDU;2;13;1;16;5;0;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;55346;BL0606;1.0;711995;55346;;;;Oudaan;1;;XA;;2020-06-17 13:50:31;Hidde Kiekens;MDU;2;13;1;16;5;0;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;55501;BL0602;1.0;8397459;55501;;;;Begijnenstraat;31;;;;2020-07-22 10:20:09;Geert Stockman;SDU;0;1;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;55501;BL0602;1.0;8397459;55501;;;;Begijnenstraat;31;;;;2020-07-22 10:20:09;Geert Stockman;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;55501;BL0602;1.0;8397459;55501;;;;Begijnenstraat;31;;;;2020-07-22 10:20:09;Geert Stockman;SDU;0;1;0;1;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;55512;BL0602;1.0;13335238;55512;33634186;;;Maarschalk Gerardstraat;16;;;;2020-07-22 09:35:27;Geert Stockman;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;55512;BL0602;1.0;13335238;55512;33634186;;;Maarschalk Gerardstraat;16;;;;2020-07-22 09:35:27;Geert Stockman;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;55513;BL0602;1.0;712028;55513;33634187;;;Maarschalk Gerardstraat;4;;;;2020-08-17 19:40:05;Geert Stockman;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;5560963;BL0605;1.0;712092;5560963;;;;Oudaan;22;;XA;;2020-06-19 08:20:07;Hidde Kiekens;MDU;0;10;1;11;3;7;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;5560963;BL0605;1.0;712092;5560963;;;;Oudaan;22;;XA;;2020-06-19 08:20:07;Hidde Kiekens;MDU;0;10;1;11;3;7;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;5560963;BL0605;1.0;712092;5560963;;;;Oudaan;22;;XA;;2020-06-19 08:20:07;Hidde Kiekens;MDU;0;10;1;11;3;7;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5560963;BL0605;1.0;712092;5560963;;;;Oudaan;22;;XA;;2020-06-19 08:20:07;Hidde Kiekens;MDU;0;10;1;11;3;7;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;5560963;BL0605;1.0;712092;5560963;;;;Oudaan;22;;XA;;2020-06-19 08:20:07;Hidde Kiekens;MDU;0;10;1;11;3;7;0;10;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;5572030;BL0625;3.0;712141;5572030;;;;Sint-Katelijnevest;30;;;;2020-06-12 11:40:08;Hidde Kiekens;SDU;1;0;0;1;1;2;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;5572030;BL0625;3.0;712141;5572030;;;;Sint-Katelijnevest;30;;;;2020-06-12 11:40:08;Hidde Kiekens;SDU;1;0;0;1;1;2;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;5572030;BL0625;3.0;712141;5572030;;;;Sint-Katelijnevest;30;;;;2020-06-12 11:40:08;Hidde Kiekens;SDU;1;0;0;1;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;5575480;BL0618;3.0;13334871;5575480;35379785;Eiermarkt 21-23;Eiermarkt 21-23;Eiermarkt;23;;XC;;2020-05-26 10:50:58;Maayken Vanfleteren;MDU;0;7;2;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;5575480;BL0618;3.0;13334871;5575480;35379785;Eiermarkt 21-23;Eiermarkt 21-23;Eiermarkt;23;;XC;;2020-05-26 10:50:58;Maayken Vanfleteren;MDU;0;7;2;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;5575480;BL0618;3.0;13334871;5575480;35379785;Eiermarkt 21-23;Eiermarkt 21-23;Eiermarkt;23;;XC;;2020-05-26 10:50:58;Maayken Vanfleteren;MDU;0;7;2;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575480;BL0618;3.0;13334871;5575480;35379785;Eiermarkt 21-23;Eiermarkt 21-23;Eiermarkt;23;;XC;;2020-05-26 10:50:58;Maayken Vanfleteren;MDU;0;7;2;9;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575511;BL0607;2.0;712312;5575511;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Everdijstraat;5;;XA;X;2020-03-28 14:30:11;Hidde Kiekens;MDU;0;10;0;10;0;10;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575586;BL0602;1.0;13335236;5575586;33634186;;;Maarschalk Gerardstraat;12;;D;;2020-05-20 10:35:04;Geert Stockman;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575624;BL0613;2.0;13335023;5575624;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;3;;XA;;2020-05-29 17:05:03;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575625;BL0610;2.0;712345;5575625;;Groenplaats 40-40A;;Groenplaats;40;;XA;;2020-08-24 09:30:21;Maayken Vanfleteren;MDU;1;34;9;44;0;37;0;37;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;5575625;BL0610;2.0;712345;5575625;;Groenplaats 40-40A;;Groenplaats;40;;XA;;2020-08-24 09:30:21;Maayken Vanfleteren;MDU;1;34;9;44;0;37;0;37;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;5575625;BL0610;2.0;712345;5575625;;Groenplaats 40-40A;;Groenplaats;40;;XA;;2020-08-24 09:30:21;Maayken Vanfleteren;MDU;1;34;9;44;0;37;0;37;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;5575625;BL0610;2.0;712345;5575625;;Groenplaats 40-40A;;Groenplaats;40;;XA;;2020-08-24 09:30:21;Maayken Vanfleteren;MDU;1;34;9;44;0;37;0;37;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;5575625;BL0610;2.0;712345;5575625;;Groenplaats 40-40A;;Groenplaats;40;;XA;;2020-08-24 09:30:21;Maayken Vanfleteren;MDU;1;34;9;44;0;37;0;37;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;5575625;BL0610;2.0;712345;5575625;;Groenplaats 40-40A;;Groenplaats;40;;XA;;2020-08-24 09:30:21;Maayken Vanfleteren;MDU;1;34;9;44;0;37;0;37;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575774;BL0607;2.0;712387;5575774;33634126;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat 57-59-61-63-65-67_Everdijstraat 1-3-5;Kammenstraat;65;;XA;X;2020-03-29 09:00:13;Hidde Kiekens;MDU;0;8;1;9;0;8;1;9;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;5575847;BL0616;2.0;712396;5575847;;;;Oude Koornmarkt;59;;;;2020-05-25 17:50:03;Maayken Vanfleteren;SDU;1;0;0;1;1;6;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;5575847;BL0616;2.0;712396;5575847;;;;Oude Koornmarkt;59;;;;2020-05-25 17:50:03;Maayken Vanfleteren;SDU;1;0;0;1;1;6;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;5575847;BL0616;2.0;712396;5575847;;;;Oude Koornmarkt;59;;;;2020-05-25 17:50:03;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;5575924;BL0622;3.0;712422;5575924;33634136;Lijnwaadmarkt 16-18;Lijnwaadmarkt 16-18;Lijnwaadmarkt;18;;D;;2020-05-08 15:20:18;Maayken Vanfleteren;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;5576380;BL0602;1.0;712562;5576380;33634164;;;Vleminckveld;70;;;;2020-07-22;Geert Stockman;SDU;1;0;0;1;0;9;0;9;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;5576380;BL0602;1.0;712562;5576380;33634164;;;Vleminckveld;70;;;;2020-07-22;Geert Stockman;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;5576380;BL0602;1.0;712562;5576380;33634164;;;Vleminckveld;70;;;;2020-07-22;Geert Stockman;SDU;1;0;0;1;0;9;0;9;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;5576380;BL0602;1.0;712562;5576380;33634164;;;Vleminckveld;70;;;;2020-07-22;Geert Stockman;SDU;1;0;0;1;0;9;0;9;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;56510;BL0616;2.0;712613;56510;33634121;Groenplaats 9-10;Groenplaats 9-10;Groenplaats;9;;D;;2020-05-11 08:50:05;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;56540;BL0616;2.0;13335340;56540;;;;Oude Koornmarkt;57;;D;;2020-05-25 17:50:05;Maayken Vanfleteren;MDU;1;6;2;9;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;56540;BL0616;2.0;13335340;56540;;;;Oude Koornmarkt;57;;D;;2020-05-25 17:50:05;Maayken Vanfleteren;MDU;1;6;2;9;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;56540;BL0616;2.0;13335340;56540;;;;Oude Koornmarkt;57;;D;;2020-05-25 17:50:05;Maayken Vanfleteren;MDU;1;6;2;9;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;56540;BL0616;2.0;13335340;56540;;;;Oude Koornmarkt;57;;D;;2020-05-25 17:50:05;Maayken Vanfleteren;MDU;1;6;2;9;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;56540;BL0616;2.0;13335340;56540;;;;Oude Koornmarkt;57;;D;;2020-05-25 17:50:05;Maayken Vanfleteren;MDU;1;6;2;9;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;59540;BL0612;3.0;714113;59540;;;;Schoenmarkt;14;A;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;59553;BL0612;3.0;714124;59553;;;;Wiegstraat;16;;;;;olivier collignon;SDU;1;0;0;1;1;0;0;1;N;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60042;BL0624;3.0;714178;60042;;;;Melkmarkt;23;;D;;2020-08-20 16:20:40;Maayken Vanfleteren;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60043;BL0624;3.0;714179;60043;;;;Melkmarkt;21;;XC;;2020-08-20 16:20:38;Maayken Vanfleteren;MDU;1;4;0;5;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;60043;BL0624;3.0;714179;60043;;;;Melkmarkt;21;;XC;;2020-08-20 16:20:38;Maayken Vanfleteren;MDU;1;4;0;5;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60043;BL0624;3.0;714179;60043;;;;Melkmarkt;21;;XC;;2020-08-20 16:20:38;Maayken Vanfleteren;MDU;1;4;0;5;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60070;BL0624;3.0;8397464;60070;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;2;;XA;;2020-06-04 15:40:10;Maayken Vanfleteren;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;60070;BL0624;3.0;8397464;60070;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;2;;XA;;2020-06-04 15:40:10;Maayken Vanfleteren;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60070;BL0624;3.0;8397464;60070;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;2;;XA;;2020-06-04 15:40:10;Maayken Vanfleteren;MDU;0;10;1;11;0;10;0;10;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60071;BL0624;3.0;8397465;60071;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;6;;XA;;2020-06-04 16:10:09;Maayken Vanfleteren;MDU;0;10;1;11;2;10;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;60071;BL0624;3.0;8397465;60071;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;6;;XA;;2020-06-04 16:10:09;Maayken Vanfleteren;MDU;0;10;1;11;2;10;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60071;BL0624;3.0;8397465;60071;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;6;;XA;;2020-06-04 16:10:09;Maayken Vanfleteren;MDU;0;10;1;11;2;10;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;60071;BL0624;3.0;8397465;60071;33634149;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Korte Nieuwstraat 30_Sudermanstraat 2-2A-2B-6-6A-6B_Vleminckstraat 23;Sudermanstraat;6;;XA;;2020-06-04 16:10:09;Maayken Vanfleteren;MDU;0;10;1;11;2;10;0;12;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60073;BL0625;3.0;714194;60073;;;;Beggaardenstraat;23;;D;;2020-06-12 11:50:11;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;60073;BL0625;3.0;714194;60073;;;;Beggaardenstraat;23;;D;;2020-06-12 11:50:11;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60073;BL0625;3.0;714194;60073;;;;Beggaardenstraat;23;;D;;2020-06-12 11:50:11;Hidde Kiekens;MDU;0;2;0;2;1;2;0;3;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60075;BL0625;3.0;8397466;60075;;;;Beggaardenstraat;21;;D;;2020-06-12 11:55:04;Hidde Kiekens;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;6018352;BL0618;3.0;13334844;6018352;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;17;;C;;2020-07-01 15:20:06;Maayken Vanfleteren;MDU;1;0;0;1;4;0;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;6018352;BL0618;3.0;13334844;6018352;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;17;;C;;2020-07-01 15:20:06;Maayken Vanfleteren;MDU;1;0;0;1;4;0;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6018352;BL0618;3.0;13334844;6018352;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;17;;C;;2020-07-01 15:20:06;Maayken Vanfleteren;MDU;1;0;0;1;4;0;0;4;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60534;BL0605;1.0;8397467;60534;;;;Oudaan;16;;D;;2020-08-30 10:40:05;Hidde Kiekens;MDU;3;0;0;3;7;0;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;60534;BL0605;1.0;8397467;60534;;;;Oudaan;16;;D;;2020-08-30 10:40:05;Hidde Kiekens;MDU;3;0;0;3;7;0;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60534;BL0605;1.0;8397467;60534;;;;Oudaan;16;;D;;2020-08-30 10:40:05;Hidde Kiekens;MDU;3;0;0;3;7;0;0;7;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;60705;BL0613;2.0;714423;60705;;;;Groenkerkhofstraat;1;;D;;2020-05-18 18:00:12;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60705;BL0613;2.0;714423;60705;;;;Groenkerkhofstraat;1;;D;;2020-05-18 18:00:12;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60705;BL0613;2.0;714423;60705;;;;Groenkerkhofstraat;1;;D;;2020-05-18 18:00:12;Maayken Vanfleteren;MDU;1;3;0;4;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;60729;BL0616;2.0;33630451;60729;33634118;;;Oude Koornmarkt;67;;D;;2020-05-18 17:40:09;Maayken Vanfleteren;MDU;0;8;0;8;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60729;BL0616;2.0;33630451;60729;33634118;;;Oude Koornmarkt;67;;D;;2020-05-18 17:40:09;Maayken Vanfleteren;MDU;0;8;0;8;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60729;BL0616;2.0;33630451;60729;33634118;;;Oude Koornmarkt;67;;D;;2020-05-18 17:40:09;Maayken Vanfleteren;MDU;0;8;0;8;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;60729;BL0616;2.0;33630451;60729;33634118;;;Oude Koornmarkt;67;;D;;2020-05-18 17:40:09;Maayken Vanfleteren;MDU;0;8;0;8;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60730;BL0613;2.0;714443;60730;33634120;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats 1_Groenkerkhofstraat 5;Groenplaats;1;;D;;2020-05-08 13:20:18;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;60731;BL0613;2.0;8397469;60731;33634122;Groenplaats 2-3;Groenplaats 2-3;Groenplaats;2;;XA;;2020-05-29 17:05:06;Maayken Vanfleteren;MDU;1;9;1;11;2;10;0;12;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;61206;BL0617;3.0;715221;61206;;;;Melkmarkt;44;;D;;2020-05-18 16:45:08;Maayken Vanfleteren;MDU;1;4;0;5;1;4;0;5;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;61208;BL0618;3.0;715223;61208;33634144;;Eiermarkt 7_Melkmarkt 41;Melkmarkt;41;;;;2020-08-20 16:20:43;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;61208;BL0618;3.0;715223;61208;33634144;;;Melkmarkt;41;;;;2020-08-20 16:20:43;Maayken Vanfleteren;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;61217;BL0618;3.0;13335618;61217;;;;Vleminckstraat;12;;;;2020-07-01 13:50:25;Maayken Vanfleteren;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;61217;BL0618;3.0;13335618;61217;;;;Vleminckstraat;12;;;;2020-07-01 13:50:25;Maayken Vanfleteren;SDU;0;1;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;MDU;0;7;1;8;2;6;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;MDU;0;7;1;8;2;6;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;61218;BL0618;3.0;715244;61218;;;;Vleminckstraat;16;;;;;;MDU;0;7;1;8;2;6;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;61222;BL0618;3.0;8397470;61222;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;13;;C;;2020-07-01 12:25:11;Maayken Vanfleteren;MDU;7;0;2;9;3;0;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;61222;BL0618;3.0;8397470;61222;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;13;;C;;2020-07-01 12:25:11;Maayken Vanfleteren;MDU;7;0;2;9;3;0;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;61222;BL0618;3.0;8397470;61222;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;13;;C;;2020-07-01 12:25:11;Maayken Vanfleteren;MDU;7;0;2;9;3;0;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;61222;BL0618;3.0;8397470;61222;33634175;Eiermarkt 13-17;Eiermarkt 13-17;Eiermarkt;13;;C;;2020-07-01 12:25:11;Maayken Vanfleteren;MDU;7;0;2;9;3;0;0;3;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;61223;BL0618;3.0;8397471;61223;35379785;Eiermarkt 21-23;Eiermarkt 21-23;Eiermarkt;21;;XC;;2020-05-26 10:50:57;Maayken Vanfleteren;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;61224;BL0618;3.0;715247;61224;33634163;;;Eiermarkt;25;;;;2020-05-18 17:00:07;Maayken Vanfleteren;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;61228;BL0619;3.0;715250;61228;33634142;Eiermarkt 41_Meirbrug 1;Eiermarkt 41_Meirbrug 1;Meirbrug;1;;A;;2020-06-29 14:38:07;Maayken Vanfleteren;MDU;50;0;6;56;44;0;0;44;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;61228;BL0619;3.0;715250;61228;33634142;Eiermarkt 41_Meirbrug 1;Eiermarkt 41_Meirbrug 1;Meirbrug;1;;A;;2020-06-29 14:38:07;Maayken Vanfleteren;MDU;50;0;6;56;44;0;0;44;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;61228;BL0619;3.0;715250;61228;33634142;Eiermarkt 41_Meirbrug 1;Eiermarkt 41_Meirbrug 1;Meirbrug;1;;A;;2020-06-29 14:38:07;Maayken Vanfleteren;MDU;50;0;6;56;44;0;0;44;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;61228;BL0619;3.0;715250;61228;33634142;Eiermarkt 41_Meirbrug 1;Eiermarkt 41_Meirbrug 1;Meirbrug;1;;A;;2020-06-29 14:38:07;Maayken Vanfleteren;MDU;50;0;6;56;44;0;0;44;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6314615;BL0603;1.0;13335240;6314615;33634189;Maarschalk Gerardstraat 25-25A;Maarschalk Gerardstraat 25-25A;Maarschalk Gerardstraat;25;A;XA;X;2020-02-28 09:50:09;Geert Stockman;MDU;0;1;0;1;0;1;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6316329;BL0607;2.0;13335070;6316329;33634139;Lombardenstraat 12-14;Lombardenstraat 12-14;Lombardenstraat;14;;D;;2020-07-03 10:01:16;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;6404970;BL0611;2.0;13335078;6404970;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;55;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;6518721;BL0610;2.0;21105205;6518721;;Groenplaats 40-40A;;Groenplaats;40;A;XA;;2020-08-24 09:30:15;Maayken Vanfleteren;MDU;1;0;2;3;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;BG Name diff;6518721;BL0610;2.0;21105205;6518721;;Groenplaats 40-40A;;Groenplaats;40;A;XA;;2020-08-24 09:30:15;Maayken Vanfleteren;MDU;1;0;2;3;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;6518721;BL0610;2.0;21105205;6518721;;Groenplaats 40-40A;;Groenplaats;40;A;XA;;2020-08-24 09:30:15;Maayken Vanfleteren;MDU;1;0;2;3;;;;;N;;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;6518721;BL0610;2.0;21105205;6518721;;Groenplaats 40-40A;;Groenplaats;40;A;XA;;2020-08-24 09:30:15;Maayken Vanfleteren;MDU;1;0;2;3;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6518721;BL0610;2.0;21105205;6518721;;Groenplaats 40-40A;;Groenplaats;40;A;XA;;2020-08-24 09:30:15;Maayken Vanfleteren;MDU;1;0;2;3;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;6524092;BL0606;1.0;13335271;6524092;;;;Oudaan;3;;;;2020-08-21 10:40:15;Hidde Kiekens;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;6524092;BL0606;1.0;13335271;6524092;;;;Oudaan;3;;;;2020-08-21 10:40:15;Hidde Kiekens;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;6524092;BL0606;1.0;13335271;6524092;;;;Oudaan;3;;;;2020-08-21 10:40:15;Hidde Kiekens;SDU;1;0;0;1;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Buildingtype diff;6524092;BL0606;1.0;13335271;6524092;;;;Oudaan;3;;;;2020-08-21 10:40:15;Hidde Kiekens;SDU;1;0;0;1;;;;;Y;;BUILDING template
+ANTWERPEN-WEST - FH06;Units su diff;6525393;BL0602;1.0;21105129;6525393;33634132;;;Begijnenstraat;25;;D;;2020-07-15 08:46:10;Geert Stockman;MDU;0;7;1;8;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units lu diff;6525393;BL0602;1.0;21105129;6525393;33634132;;;Begijnenstraat;25;;D;;2020-07-15 08:46:10;Geert Stockman;MDU;0;7;1;8;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6525393;BL0602;1.0;21105129;6525393;33634132;;;Begijnenstraat;25;;D;;2020-07-15 08:46:10;Geert Stockman;MDU;0;7;1;8;0;8;0;8;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6525463;BL0625;3.0;33630318;6525463;;;;Sint-Katelijnevest;32;;D;;2020-06-12;Hidde Kiekens;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units bu diff;6588791;BL0612;3.0;13335247;6588791;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;6;;XA;;2020-05-27 09:25:16;Maayken Vanfleteren;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Units total diff;6588791;BL0612;3.0;13335247;6588791;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;6;;XA;;2020-05-27 09:25:16;Maayken Vanfleteren;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6588791;BL0612;3.0;13335247;6588791;33634141;Meirbrug 2-4-6;Meirbrug 2-4-6;Meirbrug;6;;XA;;2020-05-27 09:25:16;Maayken Vanfleteren;MDU;1;0;0;1;2;0;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6623889;BL0613;2.0;35572666;6623889;;;;Zwaluwstraat;15;;D;;2020-06-29 20:00:05;Maayken Vanfleteren;MDU;0;2;0;2;0;2;0;2;Y;Y;BUILDING template
+ANTWERPEN-WEST - FH06;Quadrant diff;6629698;BL0605;1.0;29350414;6629698;33634165;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld 5-7-9-11-13-15-17-19-21-23;Vleminckveld;9;;XC;;2020-06-08 16:45:06;Hidde Kiekens;MDU;1;0;0;1;1;0;0;1;N;N;BUILDING template
+ANTWERPEN-WEST - FH06;Wall Mount diff;6629699;BL0611;2.0;29350589;6629699;33634173;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest 23-25-27-29-31-33-35-37-39-49-51-53-55-61-63-65;Lombardenvest;61;;;;;Olivier Collignon;MDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template

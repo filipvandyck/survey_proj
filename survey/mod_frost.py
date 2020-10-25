@@ -224,7 +224,7 @@ def make_gct():
    
 
     filename_gct = FOLDER_FROST + 'gct_' + projectnummer + '.csv' 
-    csv = pbi_vca_todo.to_csv(filename,sep=';',index=False,columns=['Zoning_FID','Area', 'Zoning_ID','Lamkey_FINAL','Lu_Key','E','Area','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','VCA_Status','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','B1_FINAL','B2_FINAL'])
+    csv = pbi_vca_todo.to_csv(filename,sep=';',index=False,columns=['Zoning_FID','Area', 'Zoning_ID','Lamkey_FINAL','Lu_Key','E','Area','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','VCA_Status','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','E','B1_FINAL','B2_FINAL'])
 
     out.info_file('gct csv written',filename)
 

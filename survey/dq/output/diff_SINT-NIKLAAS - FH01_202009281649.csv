@@ -1,0 +1,14 @@
+Projectnummer;errors;Opdrachtnummer;Blok;Cluster NR;Building FID;LAM MK;BG Id;BG Name;BG Name IFH;Straat;Huisnummer;Huisnummer Toevoeging;Quadrant;Q IFH;SSV Date;Surveyor;Buildingtype;NR BU;NR LU;NR SU;UNITS TOTAL;IFH_BU;IFH_LU;IFH_SU;IFH_TOTAAL;Wall Mount;Wall Mount IFH;Opdrachttemplate
+SINT-NIKLAAS - FH01;Wall Mount diff;103612;BL0116;4.0;790450;103612;;;;Onze-Lieve-Vrouwplein;22;;D;D;2020-05-18 13:56:53;Bernardo Kana da Rosa;MDU;1;0;1;2;1;0;1;2;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;109334;BL0116;4.0;790680;109334;;;;Onze-Lieve-Vrouwstraat;22;;D;D;2020-05-18 13:58:52;Bernardo Kana da Rosa;MDU;1;0;1;2;1;0;1;2;N;Y;BUILDING template
+SINT-NIKLAAS - FH01;Units total diff;3484732;BL0104;1.0;792448;3484732;33450317;Prins Albertstraat 15-17;Prins Albertstraat 15-17;Prins Albertstraat;15;;C;;2020-05-28 12:35:06;Geert Stockman;MDU;0;2;0;2;0;2;1;3;Y;Y;BUILDING template
+SINT-NIKLAAS - FH01;Units su diff;3484732;BL0104;1.0;792448;3484732;33450317;Prins Albertstraat 15-17;Prins Albertstraat 15-17;Prins Albertstraat;15;;C;;2020-05-28 12:35:06;Geert Stockman;MDU;0;2;0;2;0;2;1;3;Y;Y;BUILDING template
+SINT-NIKLAAS - FH01;Units total diff;3484734;BL0104;1.0;21128105;3484734;33450317;Prins Albertstraat 15-17;Prins Albertstraat 15-17;Prins Albertstraat;17;;C;;2020-05-28;Geert Stockman;MDU;1;2;0;3;1;4;0;5;Y;Y;BUILDING template
+SINT-NIKLAAS - FH01;Units lu diff;3484734;BL0104;1.0;21128105;3484734;33450317;Prins Albertstraat 15-17;Prins Albertstraat 15-17;Prins Albertstraat;17;;C;;2020-05-28;Geert Stockman;MDU;1;2;0;3;1;4;0;5;Y;Y;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3487264;BL0103;1.0;794075;3487264;33432852;;;Casinostraat;10;;;;2020-03-02;Andreas Versteeven;SDU;1;0;0;1;1;0;0;1;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3515741;BL0122;3.0;803707;3515741;;;;Mgr. Stillemansstraat;26;;;;;Youssef Abdellaoui;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3515744;BL0122;3.0;803709;3515744;;;;Mgr. Stillemansstraat;28;;;;;Youssef Abdellaoui;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3515789;BL0122;3.0;803729;3515789;;;;Mgr. Stillemansstraat;58;;;;;Youssef Abdellaoui;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3515791;BL0122;3.0;803730;3515791;;;;Mgr. Stillemansstraat;60;;;;;Youssef Abdellaoui;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3515807;BL0122;3.0;7092817;3515807;;;;Mgr. Stillemansstraat;74;;;;;Youssef Abdellaoui;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
+SINT-NIKLAAS - FH01;Wall Mount diff;3515810;BL0122;3.0;803738;3515810;;;;Mgr. Stillemansstraat;76;;;;;Youssef Abdellaoui;SDU;0;1;0;1;0;1;0;1;Y;N;BUILDING template
